@@ -1,0 +1,128 @@
+{
+  "id": "ar-misr-the-tenth-of-ramadan-bunuk",
+  "name": "بنوك The Tenth Of Ramadan — مصر — رموز سويفت (Banks of The Tenth Of Ramadan, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك The Tenth Of Ramadan — مصر — رموز سويفت (Banks of The Tenth Of Ramadan, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة The Tenth Of Ramadan (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in The Tenth Of Ramadan, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(10TH RAMADAN BRANCH)",
+      "swift_code": "ABRKEGCAASH"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB BANK PLC",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "ARABEGCXRMD"
+    },
+    {
+      "id": 3,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(TENTH OF RAMADAN BRANCH)",
+      "swift_code": "CIBEEGCX023"
+    },
+    {
+      "id": 4,
+      "bank": "EGYPTIAN GULF BANK",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "EGGBEGCARAM"
+    },
+    {
+      "id": 5,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(RAMADAN BRANCH)",
+      "swift_code": "EXDEEGCXRAM"
+    },
+    {
+      "id": 6,
+      "bank": "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(CITY BRANCH)",
+      "swift_code": "DIBBEGCA0A4"
+    },
+    {
+      "id": 7,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "MIDBEGCXRAM"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(EL ASHER MEN RAMADAN BRANCH)",
+      "swift_code": "NBEGEGCX107"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "WABAEGCXRAM"
+    },
+    {
+      "id": 10,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "SBNKEGCXASH"
+    },
+    {
+      "id": 11,
+      "bank": "SUEZ CANAL BANK",
+      "city": "THE TENTH OF RAMADAN",
+      "branch": "(THE TENTH OF RAMADAN BRANCH)",
+      "swift_code": "SUCAEGCXRAM"
+    }
+  ],
+  "meta": {
+    "title": "بنوك The Tenth Of Ramadan — مصر — رموز سويفت (Banks of The Tenth Of Ramadan, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة The Tenth Of Ramadan (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in The Tenth Of Ramadan, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك The Tenth Of Ramadan — مصر — رموز سويفت (Banks of The Tenth Of Ramadan, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك The Tenth Of Ramadan — مصر — رموز سويفت (Banks of The Tenth Of Ramadan, Egypt — SWIFT/BIC codes) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

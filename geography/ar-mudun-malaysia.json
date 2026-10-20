@@ -1,0 +1,368 @@
+{
+  "id": "ar-mudun-malaysia",
+  "name": "مدن ماليزيا — Cities of Malaysia (Arabic names)",
+  "title": "مدن ماليزيا — Cities of Malaysia (Arabic names)",
+  "description": "قائمة بأسماء مدن ماليزيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 39 cities in Malaysia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كوالالمبور",
+      "name_en": "Kuala Lumpur",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 8911000
+    },
+    {
+      "id": 2,
+      "name_ar": "إيبوه",
+      "name_en": "Ipoh",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 866772
+    },
+    {
+      "id": 3,
+      "name_ar": "جورج تاون، جزر كايمان",
+      "name_en": "George Town",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 708127
+    },
+    {
+      "id": 4,
+      "name_ar": "فتالينغ جاي",
+      "name_en": "Petaling Jaya",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 638516
+    },
+    {
+      "id": 5,
+      "name_ar": "كوانتان",
+      "name_en": "Kuantan",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 607778
+    },
+    {
+      "id": 6,
+      "name_ar": "سونغاي بيتاني",
+      "name_en": "Sungai Petani",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 544851
+    },
+    {
+      "id": 7,
+      "name_ar": "جوهر بهرو",
+      "name_en": "Johor Bahru",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 497097
+    },
+    {
+      "id": 8,
+      "name_ar": "كوتا بهارو",
+      "name_en": "Kota Bharu",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 491237
+    },
+    {
+      "id": 9,
+      "name_ar": "ملقا",
+      "name_en": "Melaka",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 455300
+    },
+    {
+      "id": 10,
+      "name_ar": "كوتا كينابالو",
+      "name_en": "Kota Kinabalu",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 452058
+    },
+    {
+      "id": 11,
+      "name_ar": "سرمبن",
+      "name_en": "Seremban",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 419536
+    },
+    {
+      "id": 12,
+      "name_ar": "سانداكان",
+      "name_en": "Sandakan",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 396290
+    },
+    {
+      "id": 13,
+      "name_ar": "كوتشينغ",
+      "name_en": "Kuching",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 325132
+    },
+    {
+      "id": 14,
+      "name_ar": "كولانغ",
+      "name_en": "Kluang",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 323762
+    },
+    {
+      "id": 15,
+      "name_ar": "موار",
+      "name_en": "Muar",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 314776
+    },
+    {
+      "id": 16,
+      "name_ar": "باسير جودانج",
+      "name_en": "Pasir Gudang",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 312499
+    },
+    {
+      "id": 17,
+      "name_ar": "كوالا ترينغانو",
+      "name_en": "Kuala Terengganu",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 255109
+    },
+    {
+      "id": 18,
+      "name_ar": "كاجانغ",
+      "name_en": "Kajang",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 236240
+    },
+    {
+      "id": 19,
+      "name_ar": "مريم",
+      "name_en": "Miri",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 234541
+    },
+    {
+      "id": 20,
+      "name_ar": "تيلوك إنتان",
+      "name_en": "Teluk Intan",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 232800
+    },
+    {
+      "id": 21,
+      "name_ar": "كولاي",
+      "name_en": "Kulai",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 230000
+    },
+    {
+      "id": 22,
+      "name_ar": "ألور ستار",
+      "name_en": "Alor Setar",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 217000
+    },
+    {
+      "id": 23,
+      "name_ar": "بوكيت ميرتاجام",
+      "name_en": "Bukit Mertajam",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 210000
+    },
+    {
+      "id": 24,
+      "name_ar": "سيغمات",
+      "name_en": "Segamat",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 197762
+    },
+    {
+      "id": 25,
+      "name_ar": "كينينغاو",
+      "name_en": "Keningau",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 173130
+    },
+    {
+      "id": 26,
+      "name_ar": "باتو كاجة",
+      "name_en": "Batu Gajah",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 133422
+    },
+    {
+      "id": 27,
+      "name_ar": "بيان ليباس",
+      "name_en": "Bayan Lepas",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 122654
+    },
+    {
+      "id": 28,
+      "name_ar": "بورت ديكسون",
+      "name_en": "Port Dickson",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 119300
+    },
+    {
+      "id": 29,
+      "name_ar": "بينتولو",
+      "name_en": "Bintulu",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 114058
+    },
+    {
+      "id": 30,
+      "name_ar": "تاواو",
+      "name_en": "Tawau",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 113809
+    },
+    {
+      "id": 31,
+      "name_ar": "سري أمان",
+      "name_en": "Simanggang",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 102092
+    },
+    {
+      "id": 32,
+      "name_ar": "لابوان",
+      "name_en": "Labuan",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 95120
+    },
+    {
+      "id": 33,
+      "name_ar": "ضريبة",
+      "name_en": "Cukai",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 82425
+    },
+    {
+      "id": 34,
+      "name_ar": "بوتراجاي",
+      "name_en": "Putrajaya",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 67964
+    },
+    {
+      "id": 35,
+      "name_ar": "ساريكي",
+      "name_en": "Sarikei",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 56228
+    },
+    {
+      "id": 36,
+      "name_ar": "كانجار",
+      "name_en": "Kangar",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 48898
+    },
+    {
+      "id": 37,
+      "name_ar": "كودات",
+      "name_en": "Kudat",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 29025
+    },
+    {
+      "id": 38,
+      "name_ar": "بيافورت",
+      "name_en": "Beaufort",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 12742
+    },
+    {
+      "id": 39,
+      "name_ar": "بادانغ بسار",
+      "name_en": "Padang Besar",
+      "country_ar": "ماليزيا",
+      "country_en": "Malaysia",
+      "population": 10000
+    }
+  ],
+  "meta": {
+    "title": "مدن ماليزيا — Cities of Malaysia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ماليزيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 39 cities in Malaysia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 39 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ماليزيا — Cities of Malaysia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ماليزيا — Cities of Malaysia (Arabic names) — 39 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 39 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

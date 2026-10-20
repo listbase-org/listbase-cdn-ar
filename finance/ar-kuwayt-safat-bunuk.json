@@ -1,0 +1,233 @@
+{
+  "id": "ar-kuwayt-safat-bunuk",
+  "name": "بنوك Safat — الكويت — رموز سويفت (Banks of Safat, Kuwait — SWIFT/BIC codes)",
+  "title": "بنوك Safat — الكويت — رموز سويفت (Banks of Safat, Kuwait — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Safat (الكويت) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 26 سجلًا. List of banks, financial institutions and their branches in Safat, Kuwait with the SWIFT/BIC code, bank name and branch name for each. 26 records. Source: PeterNotenboom/SwiftCodes AllCountries/KW.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL MAL INVESTMENT COMPANY K.S.C. (CLOSED)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "AMKCKWK1"
+    },
+    {
+      "id": 2,
+      "bank": "BAHRAIN EXCHANGE COMPANY WLL",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "BECXKWKW"
+    },
+    {
+      "id": 3,
+      "bank": "BAYT AL MAL INVESTMENT COMPANY",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "BAYTKWK1"
+    },
+    {
+      "id": 4,
+      "bank": "CENTRAL BANK OF KUWAIT",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "CBKUKWKW"
+    },
+    {
+      "id": 5,
+      "bank": "CITIBANK N.A.",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "CITIKWKW"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "SAFAT",
+      "branch": "(ABD. MUBARAK BRANCH)",
+      "swift_code": "COMBKWKWA05"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "SAFAT",
+      "branch": "(HEAD OFFICE BRANCH)",
+      "swift_code": "COMBKWKWA01"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "SAFAT",
+      "branch": "(NEW HEAD OFFICE BRANCH)",
+      "swift_code": "COMBKWKWB00"
+    },
+    {
+      "id": 9,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "SAFAT",
+      "branch": "(SALHIYA BRANCH)",
+      "swift_code": "COMBKWKWA30"
+    },
+    {
+      "id": 10,
+      "bank": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI)",
+      "city": "SAFAT",
+      "branch": "(TRADE FINANCE DEPARTMENT, NATIONAL BANK OF ABU DHABI, KUWAIT)",
+      "swift_code": "NBADKWKWTFO"
+    },
+    {
+      "id": 11,
+      "bank": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "NBADKWKW"
+    },
+    {
+      "id": 12,
+      "bank": "GLOBAL INVESTMENT HOUSE",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "GIHKKWKW"
+    },
+    {
+      "id": 13,
+      "bank": "GULF CUSTODY COMPANY",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "GCCOKWKW"
+    },
+    {
+      "id": 14,
+      "bank": "INTERNATIONAL FINANCIAL LINE EXCHANGE CO.K.S.C.(CLOSED)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "IFLCKWKW"
+    },
+    {
+      "id": 15,
+      "bank": "KAMCO INVESTMENT COMPANY K.S.C. (PUBLIC)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KMCOKWKW"
+    },
+    {
+      "id": 16,
+      "bank": "KUWAIT AIRWAYS CORPORATION",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KACCKWKW"
+    },
+    {
+      "id": 17,
+      "bank": "KUWAIT FINANCE HOUSE (K.S.C.)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KFHOKWKW"
+    },
+    {
+      "id": 18,
+      "bank": "KUWAIT INDIA INTERNATIONAL EXCHANGE COMPANY",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KIICKWK1"
+    },
+    {
+      "id": 19,
+      "bank": "KUWAIT INVESTMENT AUTHORITY",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KIAKKWKB"
+    },
+    {
+      "id": 20,
+      "bank": "KUWAIT PETROLEUM CORPORATION",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "KPCOKWKW"
+    },
+    {
+      "id": 21,
+      "bank": "KUWAIT STOCK EXCHANGE",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "XKUWKWK1"
+    },
+    {
+      "id": 22,
+      "bank": "NATIONAL INVESTMENTS COMPANY K.S.C. (CLOSED)",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "NICKKWKW"
+    },
+    {
+      "id": 23,
+      "bank": "OMAN EXCHANGE CO. WLL",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "OMANKWKW"
+    },
+    {
+      "id": 24,
+      "bank": "SAVINGS AND CREDIT BANK",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "SACBKWK1"
+    },
+    {
+      "id": 25,
+      "bank": "UAE EXCHANGE CENTRE WLL",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "UAEXKWKW"
+    },
+    {
+      "id": 26,
+      "bank": "UNITED ARAB SHIPPING COMPANY S.A.G",
+      "city": "SAFAT",
+      "branch": "",
+      "swift_code": "UASCKWKW"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Safat — الكويت — رموز سويفت (Banks of Safat, Kuwait — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Safat (الكويت) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 26 سجلًا. List of banks, financial institutions and their branches in Safat, Kuwait with the SWIFT/BIC code, bank name and branch name for each. 26 records. Source: PeterNotenboom/SwiftCodes AllCountries/KW.json (MIT). يحتوي على 26 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Safat — الكويت — رموز سويفت (Banks of Safat, Kuwait — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Safat — الكويت — رموز سويفت (Banks of Safat, Kuwait — SWIFT/BIC codes) — 26 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 26 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "ar-madaiq",
+  "name": "المضائق البحرية في الوطن العربي (Straits of the Arab world)",
+  "title": "المضائق البحرية في الوطن العربي (Straits of the Arab world)",
+  "description": "قائمة المضائق البحرية المتّصلة بالدول العربية مع الإحداثيات (WGS84). مأخوذة من ويكي بيانات (P31/P279* = Q37901) مقيّدة بالدول العربية عبر P17. تشمل معالم بارزة مثل مضيق هرمز ومضيق باب المندب ومضيق جبل طارق. هذه أول مجموعة بيانات مضائق في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q79883",
+      "name_ar": "مضيق هرمز",
+      "name_en": "Strait of Hormuz",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 26.6,
+      "longitude": 56.5,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D9%87%D8%B1%D9%85%D8%B2"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6858773",
+      "name_ar": "مضيق الشيطان",
+      "name_en": "",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D8%A7%D9%84%D8%B4%D9%8A%D8%B7%D8%A7%D9%86"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q36124",
+      "name_ar": "مضيق جبل طارق",
+      "name_en": "Strait of Gibraltar",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.973889,
+      "longitude": -5.516111,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D8%AC%D8%A8%D9%84_%D8%B7%D8%A7%D8%B1%D9%82"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4837215",
+      "name_ar": "باب إسكندر",
+      "name_en": "Bab Iskender",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 12.666667,
+      "longitude": 43.45,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8_%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q206975",
+      "name_ar": "مضيق صقلية",
+      "name_en": "Strait of Sicily",
+      "country_ar": "تونس",
+      "country_qid": "Q948",
+      "latitude": 37.2,
+      "longitude": 11.2,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D8%B5%D9%82%D9%84%D9%8A%D8%A9"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q165100",
+      "name_ar": "قناة موزنبيق",
+      "name_en": "Mozambique Channel",
+      "country_ar": "جزر القمر",
+      "country_qid": "Q970",
+      "latitude": -18,
+      "longitude": 41,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%88%D8%B2%D9%85%D8%A8%D9%8A%D9%82"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q96050668",
+      "name_ar": "داكت الميون",
+      "name_en": "Dact-el-Mayun",
+      "country_ar": "جيبوتي",
+      "country_qid": "Q977",
+      "latitude": 12.583333,
+      "longitude": 43.333333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D9%83%D8%AA_%D8%A7%D9%84%D9%85%D9%8A%D9%88%D9%86"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q83318",
+      "name_ar": "مضيق باب المندب",
+      "name_en": "Bab-el-Mandeb",
+      "country_ar": "جيبوتي",
+      "country_qid": "Q977",
+      "latitude": 12.583333,
+      "longitude": 43.333333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q23945520",
+      "name_ar": "باب مسلم",
+      "name_en": "Bāb Muslim",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.493333,
+      "longitude": 30.859444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q23966727",
+      "name_ar": "قطع الصعايدة",
+      "name_en": "Qaţ‘ aş Şa‘āyidah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.283333,
+      "longitude": 32.095,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q208157",
+      "name_ar": "مضيق تيران",
+      "name_en": "Straits of Tiran",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 28.003889,
+      "longitude": 34.465278,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%B1%D8%A7%D9%86_(%D9%85%D8%B6%D9%8A%D9%82)"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4151257",
+      "name_ar": "مضيق جوبال",
+      "name_en": "Strait of Jubal",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 27.666667,
+      "longitude": 33.916667,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%B6%D9%8A%D9%82_%D8%AC%D9%88%D8%A8%D8%A7%D9%84"
+    }
+  ],
+  "meta": {
+    "title": "المضائق البحرية في الوطن العربي (Straits of the Arab world) - تحميل مجاني",
+    "description": "قائمة المضائق البحرية المتّصلة بالدول العربية مع الإحداثيات (WGS84). مأخوذة من ويكي بيانات (P31/P279* = Q37901) مقيّدة بالدول العربية عبر P17. تشمل معالم بارزة مثل مضيق هرمز ومضيق باب المندب ومضيق جبل طارق. هذه أول مجموعة بيانات مضائق في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المضائق البحرية في الوطن العربي (Straits of the Arab world) | ListBase",
+    "seo_description": "تحميل المضائق البحرية في الوطن العربي (Straits of the Arab world) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

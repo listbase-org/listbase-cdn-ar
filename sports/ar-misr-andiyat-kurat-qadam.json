@@ -1,0 +1,379 @@
+{
+  "id": "ar-misr-andiyat-kurat-qadam",
+  "name": "أندية كرة القدم المصرية (Egyptian football clubs)",
+  "title": "أندية كرة القدم المصرية (Egyptian football clubs)",
+  "description": "Football clubs of Egypt, including Egyptian Premier League and historic sides. Each record carries the canonical Latin-transliterated club name, founded year where the upstream registry publishes it, host city, alternative spellings (aliases), and — for clubs that appeared in the Egyptian Premier League 2012/13 season — the Arabic-script name joined from the upstream openfootball language-mapping file. Sourced from the openfootball/clubs registry.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Al Ahly",
+      "name_native": "النادي الأهلي للرياضة البدنية",
+      "slug": "al-ahly",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Al-Ahly, Al Ahly Cairo, Al Ahly SC, Al Ahly Sporting Club, Al Ahly Kairo"
+    },
+    {
+      "id": 2,
+      "name": "Al Ittihad Al Sakandary",
+      "name_native": "نادى الإتحاد السكندرى",
+      "slug": "al-ittihad-al-sakandary",
+      "founded": 1914,
+      "defunct": "",
+      "stadium": "",
+      "city": "Alexandria",
+      "aliases": "Al Ittihad, Alexandrian Union Club, Al Ittihad Alexandria Club, El Ittihad El Skandary, Ittihad El Iskandary"
+    },
+    {
+      "id": 3,
+      "name": "Al Masry SC",
+      "name_native": "",
+      "slug": "al-masry-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Port Said",
+      "aliases": "Al-Masry Club, Al Masry Sporting Club, Al Masry"
+    },
+    {
+      "id": 4,
+      "name": "Al Mokawloon Al Arab",
+      "name_native": "نادي المقاولون العرب الرياضي",
+      "slug": "al-mokawloon-al-arab",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Arab Contractors (Sporting Club), Arab Contractors, Al Mokawloon, Al Moqawloon"
+    },
+    {
+      "id": 5,
+      "name": "Aswan SC",
+      "name_native": "",
+      "slug": "aswan-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Aswan",
+      "aliases": "Aswan Sporting Club, Aswan FC"
+    },
+    {
+      "id": 6,
+      "name": "Baladiyat El Mahalla",
+      "name_native": "",
+      "slug": "baladiyat-el-mahalla",
+      "founded": 1931,
+      "defunct": "",
+      "stadium": "Ghazl El Mahalla Stadium",
+      "city": "El Mahalla El Kubra",
+      "aliases": "Baladiyat El Mahalla SC, Baladiyat El Mahalla Sporting Club, Baladeyet Al Mahalla, Baladiyyat Mehalla, BMH"
+    },
+    {
+      "id": 7,
+      "name": "Ceramica Cleopatra",
+      "name_native": "",
+      "slug": "ceramica-cleopatra",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Giza",
+      "aliases": "Ceramica Cleopatra FC, Ceramica Cleopatra Football Club"
+    },
+    {
+      "id": 8,
+      "name": "El Dakhleya",
+      "name_native": "نادى الداخلية",
+      "slug": "el-dakhleya",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "El Dakhleya SC, El Dakhleya Sporting Club, El Daklyeh"
+    },
+    {
+      "id": 9,
+      "name": "El Entag El Harby",
+      "name_native": "الانتاج الحربي‎",
+      "slug": "el-entag-el-harby",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Military Production"
+    },
+    {
+      "id": 10,
+      "name": "El Gouna",
+      "name_native": "نادى الجونة",
+      "slug": "el-gouna",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Hurghada",
+      "aliases": "El Gouna FC"
+    },
+    {
+      "id": 11,
+      "name": "ENPPI SC",
+      "name_native": "",
+      "slug": "enppi-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "ENPPI, ENPPI Club, ENPPI Sporting Club, Engineering for the Petroleum and Process Industries Sporting Club"
+    },
+    {
+      "id": 12,
+      "name": "Ghazl El Mahalla",
+      "name_native": "نادي_غزل_المحلة",
+      "slug": "ghazl-el-mahalla",
+      "founded": 1936,
+      "defunct": "",
+      "stadium": "Ghazl El Mahalla Stadium",
+      "city": "El Mahalla El Kubra",
+      "aliases": "Ghazl El Mahalla SC, Ghazl El Mahalla Sporting Club, Ghazl El Mahallah, GMH"
+    },
+    {
+      "id": 13,
+      "name": "Haras El Hodood",
+      "name_native": "نادي_حرس_الحدود",
+      "slug": "haras-el-hodood",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Alexandria",
+      "aliases": "Haras El-Hodood SC"
+    },
+    {
+      "id": 14,
+      "name": "Ismaily",
+      "name_native": "النادى الإسماعيلى",
+      "slug": "ismaily",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Ismailia",
+      "aliases": "Ismaily SC, Ismaily Sporting Club"
+    },
+    {
+      "id": 15,
+      "name": "Ittihad El Shorta",
+      "name_native": "اتحاد_الشرطة",
+      "slug": "ittihad-el-shorta",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Police Union"
+    },
+    {
+      "id": 16,
+      "name": "Misr El Makasa",
+      "name_native": "مصر المقاصة",
+      "slug": "misr-el-makasa",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Faiyum",
+      "aliases": "Misr LeL Makasa, Misr Lel Makkasa SC, Misr Lel Makkasa Sporting Club"
+    },
+    {
+      "id": 17,
+      "name": "Modern Sport FC",
+      "name_native": "",
+      "slug": "modern-sport-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Modern Sport Football Club, Modern Future FC, Modern Future Football Club, Future FC"
+    },
+    {
+      "id": 18,
+      "name": "National Bank SC",
+      "name_native": "",
+      "slug": "national-bank-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "National Bank of Egypt SC, Nat. Bank Egypt, National Bank of Egypt Sporting Club"
+    },
+    {
+      "id": 19,
+      "name": "Petrojet",
+      "name_native": "نادي_بتروجيت",
+      "slug": "petrojet",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Suez",
+      "aliases": "Petrojet FC, Petrojet Football Club"
+    },
+    {
+      "id": 20,
+      "name": "Pharco FC",
+      "name_native": "",
+      "slug": "pharco-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Alexandria",
+      "aliases": "Pharco Football Club, Pharco"
+    },
+    {
+      "id": 21,
+      "name": "Pyramids FC",
+      "name_native": "",
+      "slug": "pyramids-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Pyramids Football Club, Pyramids"
+    },
+    {
+      "id": 22,
+      "name": "Smouha SC",
+      "name_native": "",
+      "slug": "smouha-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Alexandria",
+      "aliases": "Smouha, Smouha Sporting Club"
+    },
+    {
+      "id": 23,
+      "name": "Tala'ea El Gaish",
+      "name_native": "نادي طلائع الجيش الرياضي",
+      "slug": "tala-ea-el-gaish",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Army's Vanguards, Tala'ea El-Gaish SC, Tala'ea El Gaish Sporting Club"
+    },
+    {
+      "id": 24,
+      "name": "Tanta SC",
+      "name_native": "",
+      "slug": "tanta-sc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tanta",
+      "aliases": "Tanta Sports Club, FC Tanta"
+    },
+    {
+      "id": 25,
+      "name": "Telephonat Bani Sweif",
+      "name_native": "تليفونات بني سويف",
+      "slug": "telephonat-bani-sweif",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Beni Suef",
+      "aliases": "TE Beni Suef"
+    },
+    {
+      "id": 26,
+      "name": "Wadi Degla",
+      "name_native": "نادى وادى دجلة",
+      "slug": "wadi-degla",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Cairo",
+      "aliases": "Wadi Degla SC, Wadi Degla FC"
+    },
+    {
+      "id": 27,
+      "name": "Zamalek",
+      "name_native": "نادى الزمالك",
+      "slug": "zamalek",
+      "founded": 1911,
+      "defunct": "",
+      "stadium": "",
+      "city": "Giza",
+      "aliases": "Zamalek SC, Zamalek Sporting Club, El Zamalek, Al Zamalek"
+    },
+    {
+      "id": 28,
+      "name": "ZED FC",
+      "name_native": "",
+      "slug": "zed-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Giza",
+      "aliases": "ZED Football Club, FC Masr, Football Club Masr"
+    }
+  ],
+  "meta": {
+    "title": "أندية كرة القدم المصرية (Egyptian football clubs) - تحميل مجاني",
+    "description": "Football clubs of Egypt, including Egyptian Premier League and historic sides. Each record carries the canonical Latin-transliterated club name, founded year where the upstream registry publishes it, host city, alternative spellings (aliases), and — for clubs that appeared in the Egyptian Premier League 2012/13 season — the Arabic-script name joined from the upstream openfootball language-mapping file. Sourced from the openfootball/clubs registry. يحتوي على 28 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أندية كرة القدم المصرية (Egyptian football clubs) | ListBase",
+    "seo_description": "تحميل أندية كرة القدم المصرية (Egyptian football clubs) — 28 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 28 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

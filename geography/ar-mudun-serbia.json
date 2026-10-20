@@ -1,0 +1,472 @@
+{
+  "id": "ar-mudun-serbia",
+  "name": "مدن صربيا — Cities of Serbia (Arabic names)",
+  "title": "مدن صربيا — Cities of Serbia (Arabic names)",
+  "description": "قائمة بأسماء مدن صربيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Serbia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بلغراد",
+      "name_en": "Belgrade",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 1197714
+    },
+    {
+      "id": 2,
+      "name_ar": "نوفي ساد",
+      "name_en": "Novi Sad",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 260438
+    },
+    {
+      "id": 3,
+      "name_ar": "زمون",
+      "name_en": "Zemun",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 161596
+    },
+    {
+      "id": 4,
+      "name_ar": "كراغوييفاتس",
+      "name_en": "Kragujevac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 150623
+    },
+    {
+      "id": 5,
+      "name_ar": "شاباتس",
+      "name_en": "Sabac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 105432
+    },
+    {
+      "id": 6,
+      "name_ar": "سميديريفو",
+      "name_en": "Smederevo",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 97930
+    },
+    {
+      "id": 7,
+      "name_ar": "فاليفو",
+      "name_en": "Valjevo",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 90312
+    },
+    {
+      "id": 8,
+      "name_ar": "لوزنيسة",
+      "name_en": "Loznica",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 86413
+    },
+    {
+      "id": 9,
+      "name_ar": "بانتشيفو",
+      "name_en": "Pancevo",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 73401
+    },
+    {
+      "id": 10,
+      "name_ar": "سريمسكا ميتروفيتشا",
+      "name_en": "Sremska Mitrovica",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 72580
+    },
+    {
+      "id": 11,
+      "name_ar": "تشاتشاك",
+      "name_en": "Cacak",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 71883
+    },
+    {
+      "id": 12,
+      "name_ar": "بوزرفاك",
+      "name_en": "Pozarevac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 68648
+    },
+    {
+      "id": 13,
+      "name_ar": "زرنيانين",
+      "name_en": "Zrenjanin",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 67129
+    },
+    {
+      "id": 14,
+      "name_ar": "كرالييفو",
+      "name_en": "Kraljevo",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 66688
+    },
+    {
+      "id": 15,
+      "name_ar": "نوفي بازار",
+      "name_en": "Novi Pazar",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 66527
+    },
+    {
+      "id": 16,
+      "name_ar": "أوزيتسه",
+      "name_en": "Uzice",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 59747
+    },
+    {
+      "id": 17,
+      "name_ar": "كروشيفاتس",
+      "name_en": "Krusevac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 58745
+    },
+    {
+      "id": 18,
+      "name_ar": "فرانيي",
+      "name_en": "Vranje",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 55138
+    },
+    {
+      "id": 19,
+      "name_ar": "رومانيا",
+      "name_en": "Ruma",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 54339
+    },
+    {
+      "id": 20,
+      "name_ar": "سومبور",
+      "name_en": "Sombor",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 51471
+    },
+    {
+      "id": 21,
+      "name_ar": "زاييتشار",
+      "name_en": "Zajecar",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 48621
+    },
+    {
+      "id": 22,
+      "name_ar": "الهند",
+      "name_en": "Indija",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 47433
+    },
+    {
+      "id": 23,
+      "name_ar": "أراندجيلوفاتس",
+      "name_en": "Arandelovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 46225
+    },
+    {
+      "id": 24,
+      "name_ar": "ألكسيناتش",
+      "name_en": "Aleksinac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 43258
+    },
+    {
+      "id": 25,
+      "name_ar": "بويانوفاتس",
+      "name_en": "Bujanovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 41068
+    },
+    {
+      "id": 26,
+      "name_ar": "فيليكا بلانا",
+      "name_en": "Velika Plana",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 40902
+    },
+    {
+      "id": 27,
+      "name_ar": "غورنيي ميلانوفاتس",
+      "name_en": "Gornji Milanovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 38985
+    },
+    {
+      "id": 28,
+      "name_ar": "بريبولييه",
+      "name_en": "Prijepolje",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 37059
+    },
+    {
+      "id": 29,
+      "name_ar": "فرشاتس",
+      "name_en": "Vrsac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 35701
+    },
+    {
+      "id": 30,
+      "name_ar": "ياغودينا",
+      "name_en": "Jagodina",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 34892
+    },
+    {
+      "id": 31,
+      "name_ar": "سيد",
+      "name_en": "Sid",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 34188
+    },
+    {
+      "id": 32,
+      "name_ar": "بوردو",
+      "name_en": "Bor",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 34159
+    },
+    {
+      "id": 33,
+      "name_ar": "بتروفارادين",
+      "name_en": "Petrovaradin",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 33865
+    },
+    {
+      "id": 34,
+      "name_ar": "بيتشي",
+      "name_en": "Becej",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 30681
+    },
+    {
+      "id": 35,
+      "name_ar": "سوبتيتسا",
+      "name_en": "Subotica",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 29919
+    },
+    {
+      "id": 36,
+      "name_ar": "فلاسوتينسي",
+      "name_en": "Vlasotince",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 29669
+    },
+    {
+      "id": 37,
+      "name_ar": "أليكساندروفاتس",
+      "name_en": "Aleksandrovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 26522
+    },
+    {
+      "id": 38,
+      "name_ar": "بايينا باشتا",
+      "name_en": "Bajina Basta",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 26022
+    },
+    {
+      "id": 39,
+      "name_ar": "باتشكا بالانكا",
+      "name_en": "Backa Palanka",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 25476
+    },
+    {
+      "id": 40,
+      "name_ar": "فرباس",
+      "name_en": "Vrbas",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 24112
+    },
+    {
+      "id": 41,
+      "name_ar": "أباتين",
+      "name_en": "Apatin",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 23155
+    },
+    {
+      "id": 42,
+      "name_ar": "ديسبوتوفاتس",
+      "name_en": "Despotovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 22995
+    },
+    {
+      "id": 43,
+      "name_ar": "لبنان",
+      "name_en": "Lebane",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 22000
+    },
+    {
+      "id": 44,
+      "name_ar": "فلاديتشين هان",
+      "name_en": "Vladicin Han",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 20938
+    },
+    {
+      "id": 45,
+      "name_ar": "ليسكوفاتس",
+      "name_en": "Leskovac",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 20913
+    },
+    {
+      "id": 46,
+      "name_ar": "حنظبيات",
+      "name_en": "Lucani",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 20897
+    },
+    {
+      "id": 47,
+      "name_ar": "بيسنجي",
+      "name_en": "Pecinci",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 19720
+    },
+    {
+      "id": 48,
+      "name_ar": "أريلييه، زلاتيبور",
+      "name_en": "Arilje",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 18792
+    },
+    {
+      "id": 49,
+      "name_ar": "فيليكو غراديشتي",
+      "name_en": "Veliko Gradiste",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 17610
+    },
+    {
+      "id": 50,
+      "name_ar": "مدينة بروكسل",
+      "name_en": "Brus",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 16263
+    },
+    {
+      "id": 51,
+      "name_ar": "تیتل",
+      "name_en": "Titel",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 15738
+    },
+    {
+      "id": 52,
+      "name_ar": "سريمسكا كامينيكا",
+      "name_en": "Sremska Kamenica",
+      "country_ar": "صربيا",
+      "country_en": "Serbia",
+      "population": 14205
+    }
+  ],
+  "meta": {
+    "title": "مدن صربيا — Cities of Serbia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن صربيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Serbia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 52 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن صربيا — Cities of Serbia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن صربيا — Cities of Serbia (Arabic names) — 52 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 52 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

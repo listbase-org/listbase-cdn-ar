@@ -1,0 +1,151 @@
+{
+  "id": "ar-misr-minya-mudun",
+  "name": "مدن ومراكز محافظة المنيا (Cities & Towns of Minya)",
+  "title": "مدن ومراكز محافظة المنيا (Cities & Towns of Minya)",
+  "description": "قائمة مدن ومراكز محافظة المنيا في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Minya governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "52",
+      "name_ar": "أبو قرقاص",
+      "name_en": "abu-qurqas",
+      "name_long_ar": "أبو قرقاص، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "46",
+      "name_ar": "العدوة",
+      "name_en": "adwa",
+      "name_long_ar": "العدوة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "51",
+      "name_ar": "المنيا الجديدة",
+      "name_en": "new-minya",
+      "name_long_ar": "المنيا الجديدة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "43",
+      "name_ar": "بني مزار",
+      "name_en": "beni-mazar",
+      "name_long_ar": "بني مزار، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "44",
+      "name_ar": "دير مواس",
+      "name_en": "deir-mawas",
+      "name_long_ar": "دير مواس، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "45",
+      "name_ar": "سمالوط",
+      "name_en": "samalut",
+      "name_long_ar": "سمالوط، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "50",
+      "name_ar": "مدينة المنيا",
+      "name_en": "minya-city",
+      "name_long_ar": "مدينة المنيا، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "47",
+      "name_ar": "مطاي",
+      "name_en": "matay",
+      "name_long_ar": "مطاي، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "48",
+      "name_ar": "مغاغة",
+      "name_en": "maghagha",
+      "name_long_ar": "مغاغة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "49",
+      "name_ar": "ملوي",
+      "name_en": "malawi",
+      "name_long_ar": "ملوي، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة المنيا (Cities & Towns of Minya) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة المنيا في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Minya governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة المنيا (Cities & Towns of Minya) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة المنيا (Cities & Towns of Minya) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "ar-mudun-paraguay",
+  "name": "مدن باراجواي — Cities of Paraguay (Arabic names)",
+  "title": "مدن باراجواي — Cities of Paraguay (Arabic names)",
+  "description": "قائمة بأسماء مدن باراجواي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 43 cities in Paraguay with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "أسونسيون",
+      "name_en": "Asuncion",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 477346
+    },
+    {
+      "id": 2,
+      "name_ar": "سيوداد ديل استي",
+      "name_en": "Ciudad del Este",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 308983
+    },
+    {
+      "id": 3,
+      "name_ar": "لوكي",
+      "name_en": "Luque",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 263604
+    },
+    {
+      "id": 4,
+      "name_ar": "كابياتا",
+      "name_en": "Capiata",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 224152
+    },
+    {
+      "id": 5,
+      "name_ar": "فيرناندو دي لا مورا",
+      "name_en": "Fernando de la Mora",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 183390
+    },
+    {
+      "id": 6,
+      "name_ar": "نيمبي، باراغواي",
+      "name_en": "Nemby",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 126817
+    },
+    {
+      "id": 7,
+      "name_ar": "بيدرو حزقيال كاباييرو",
+      "name_en": "Pedro Juan Caballero",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 115583
+    },
+    {
+      "id": 8,
+      "name_ar": "ايتاجوا",
+      "name_en": "Itaugua",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 100456
+    },
+    {
+      "id": 9,
+      "name_ar": "ماريانو روكي الونسو",
+      "name_en": "Mariano Roque Alonso",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 97585
+    },
+    {
+      "id": 10,
+      "name_ar": "ليمبيو، باراغواي",
+      "name_en": "Limpio",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 87301
+    },
+    {
+      "id": 11,
+      "name_ar": "إيطاليا",
+      "name_en": "Ita",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 81084
+    },
+    {
+      "id": 12,
+      "name_ar": "سان أنطونيو",
+      "name_en": "San Antonio",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 69976
+    },
+    {
+      "id": 13,
+      "name_ar": "أريغوا، باراغواي",
+      "name_en": "Aregua",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 67487
+    },
+    {
+      "id": 14,
+      "name_ar": "هوركيتا",
+      "name_en": "Horqueta",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 60031
+    },
+    {
+      "id": 15,
+      "name_ar": "فيلا هايز، باراغواي",
+      "name_en": "Villa Hayes",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 57217
+    },
+    {
+      "id": 16,
+      "name_ar": "فيلاريشا",
+      "name_en": "Villarrica",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 56385
+    },
+    {
+      "id": 17,
+      "name_ar": "كورونيل اوفييدو",
+      "name_en": "Coronel Oviedo",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 52400
+    },
+    {
+      "id": 18,
+      "name_ar": "سالتو ديل غوايرا",
+      "name_en": "Salto del Guaira",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 37600
+    },
+    {
+      "id": 19,
+      "name_ar": "ايبالي، باراغواي",
+      "name_en": "Ypane",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 34943
+    },
+    {
+      "id": 20,
+      "name_ar": "وارامباري",
+      "name_en": "Guarambare",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 33208
+    },
+    {
+      "id": 21,
+      "name_ar": "بيلار",
+      "name_en": "Pilar",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 32810
+    },
+    {
+      "id": 22,
+      "name_ar": "نهر جاغواراو",
+      "name_en": "Yaguaron",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 32000
+    },
+    {
+      "id": 23,
+      "name_ar": "ايباكارايي",
+      "name_en": "Ypacarai",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 30150
+    },
+    {
+      "id": 24,
+      "name_ar": "كازابا",
+      "name_en": "Caazapa",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 23996
+    },
+    {
+      "id": 25,
+      "name_ar": "سان برناردينو",
+      "name_en": "San Bernardino",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 20491
+    },
+    {
+      "id": 26,
+      "name_ar": "سانتا روزا",
+      "name_en": "Santa Rosa",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 20306
+    },
+    {
+      "id": 27,
+      "name_ar": "سان خوان",
+      "name_en": "San Juan Bautista",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 16593
+    },
+    {
+      "id": 28,
+      "name_ar": "لوما بلاتا",
+      "name_en": "Loma Plata",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 16460
+    },
+    {
+      "id": 29,
+      "name_ar": "بنجامين اسيفال، باراغواي",
+      "name_en": "Benjamin Aceval",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 16248
+    },
+    {
+      "id": 30,
+      "name_ar": "بلان",
+      "name_en": "Belen",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 11359
+    },
+    {
+      "id": 31,
+      "name_ar": "ليما",
+      "name_en": "Lima",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 10367
+    },
+    {
+      "id": 32,
+      "name_ar": "ألبردي",
+      "name_en": "Alberdi",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 9679
+    },
+    {
+      "id": 33,
+      "name_ar": "بورخا",
+      "name_en": "Borja",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 9222
+    },
+    {
+      "id": 34,
+      "name_ar": "بيلا فيستا",
+      "name_en": "Bella Vista",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 6145
+    },
+    {
+      "id": 35,
+      "name_ar": "هوهيناو",
+      "name_en": "Hohenau",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 5306
+    },
+    {
+      "id": 36,
+      "name_ar": "بويرتو كاسادو",
+      "name_en": "Puerto Casado",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 5000
+    },
+    {
+      "id": 37,
+      "name_ar": "فويرتي اوليمبو",
+      "name_en": "Fuerte Olimpo",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 4498
+    },
+    {
+      "id": 38,
+      "name_ar": "محافظة أرويوس إي إستروس",
+      "name_en": "Arroyos y Esteros",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 3055
+    },
+    {
+      "id": 39,
+      "name_ar": "ماريسكال استيغاريبيا",
+      "name_en": "Mariscal Jose Felix Estigarribia",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 2500
+    },
+    {
+      "id": 40,
+      "name_ar": "بوزو كولورادو",
+      "name_en": "Pozo Colorado",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 2135
+    },
+    {
+      "id": 41,
+      "name_ar": "مايور بابلو لاجيرنزا",
+      "name_en": "Capitan Pablo Lagerenza",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 1633
+    },
+    {
+      "id": 42,
+      "name_ar": "ناكونداي",
+      "name_en": "Nacunday",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 1120
+    },
+    {
+      "id": 43,
+      "name_ar": "بويرتو بيناسكو",
+      "name_en": "Puerto Pinasco",
+      "country_ar": "باراجواي",
+      "country_en": "Paraguay",
+      "population": 500
+    }
+  ],
+  "meta": {
+    "title": "مدن باراجواي — Cities of Paraguay (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن باراجواي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 43 cities in Paraguay with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 43 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن باراجواي — Cities of Paraguay (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن باراجواي — Cities of Paraguay (Arabic names) — 43 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 43 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

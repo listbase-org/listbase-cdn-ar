@@ -1,0 +1,792 @@
+{
+  "id": "ar-mudun-russia",
+  "name": "مدن روسيا — Cities of Russia (Arabic names)",
+  "title": "مدن روسيا — Cities of Russia (Arabic names)",
+  "description": "قائمة بأسماء مدن روسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 92 cities in Russia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "موسكو",
+      "name_en": "Moscow",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 17332000
+    },
+    {
+      "id": 2,
+      "name_ar": "سانت بطرسبرغ",
+      "name_en": "Saint Petersburg",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 5597763
+    },
+    {
+      "id": 3,
+      "name_ar": "نوفوسيبيرسك",
+      "name_en": "Novosibirsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1633851
+    },
+    {
+      "id": 4,
+      "name_ar": "يكاترينبورغ",
+      "name_en": "Yekaterinburg",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1468833
+    },
+    {
+      "id": 5,
+      "name_ar": "قازان",
+      "name_en": "Kazan",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1259173
+    },
+    {
+      "id": 6,
+      "name_ar": "نيجني نوفغورود",
+      "name_en": "Nizhniy Novgorod",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1204985
+    },
+    {
+      "id": 7,
+      "name_ar": "تشيليابنسك",
+      "name_en": "Chelyabinsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1177058
+    },
+    {
+      "id": 8,
+      "name_ar": "كراسنودار",
+      "name_en": "Krasnodar",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1138654
+    },
+    {
+      "id": 9,
+      "name_ar": "روستوف-نا-دونو",
+      "name_en": "Rostov",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1135968
+    },
+    {
+      "id": 10,
+      "name_ar": "أوفا",
+      "name_en": "Ufa",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1128787
+    },
+    {
+      "id": 11,
+      "name_ar": "أومسك",
+      "name_en": "Omsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1104485
+    },
+    {
+      "id": 12,
+      "name_ar": "كراسنويارسك",
+      "name_en": "Krasnoyarsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1092851
+    },
+    {
+      "id": 13,
+      "name_ar": "فارونيش",
+      "name_en": "Voronezh",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1051995
+    },
+    {
+      "id": 14,
+      "name_ar": "بيرم كراي",
+      "name_en": "Perm",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1026908
+    },
+    {
+      "id": 15,
+      "name_ar": "فولغوغراد",
+      "name_en": "Volgograd",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 1004763
+    },
+    {
+      "id": 16,
+      "name_ar": "تيومين",
+      "name_en": "Tyumen",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 861100
+    },
+    {
+      "id": 17,
+      "name_ar": "ساراتوف",
+      "name_en": "Saratov",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 838042
+    },
+    {
+      "id": 18,
+      "name_ar": "تولياتي",
+      "name_en": "Tolyatti",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 667956
+    },
+    {
+      "id": 19,
+      "name_ar": "محج قلعة",
+      "name_en": "Makhachkala",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 662660
+    },
+    {
+      "id": 20,
+      "name_ar": "إيركوتسك",
+      "name_en": "Irkutsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 623736
+    },
+    {
+      "id": 21,
+      "name_ar": "بارناول",
+      "name_en": "Barnaul",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 623057
+    },
+    {
+      "id": 22,
+      "name_ar": "إيجيفسك",
+      "name_en": "Izhevsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 618776
+    },
+    {
+      "id": 23,
+      "name_ar": "خاباروفسك كراي",
+      "name_en": "Khabarovsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 615570
+    },
+    {
+      "id": 24,
+      "name_ar": "أوليانوفسك",
+      "name_en": "Ulyanovsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 613334
+    },
+    {
+      "id": 25,
+      "name_ar": "فلاديفوستوك",
+      "name_en": "Vladivostok",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 591628
+    },
+    {
+      "id": 26,
+      "name_ar": "ياروسلافل",
+      "name_en": "Yaroslavl",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 567443
+    },
+    {
+      "id": 27,
+      "name_ar": "تومسك",
+      "name_en": "Tomsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 545391
+    },
+    {
+      "id": 28,
+      "name_ar": "كيميروفو",
+      "name_en": "Kemerovo",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 544600
+    },
+    {
+      "id": 29,
+      "name_ar": "أورينبورغ",
+      "name_en": "Orenburg",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 536862
+    },
+    {
+      "id": 30,
+      "name_ar": "نوفوكوزنتسك",
+      "name_en": "Novokuznetsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 531186
+    },
+    {
+      "id": 31,
+      "name_ar": "بالاشيكا",
+      "name_en": "Balashikha",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 530311
+    },
+    {
+      "id": 32,
+      "name_ar": "ريازان",
+      "name_en": "Ryazan",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 520509
+    },
+    {
+      "id": 33,
+      "name_ar": "ليبيتسك",
+      "name_en": "Lipetsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 496403
+    },
+    {
+      "id": 34,
+      "name_ar": "تشيبوكساري",
+      "name_en": "Cheboksary",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 496350
+    },
+    {
+      "id": 35,
+      "name_ar": "كالينينغراد",
+      "name_en": "Kaliningrad",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 489584
+    },
+    {
+      "id": 36,
+      "name_ar": "بينزا",
+      "name_en": "Penza",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 488299
+    },
+    {
+      "id": 37,
+      "name_ar": "أوبلاست كيروف",
+      "name_en": "Kirov",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 471754
+    },
+    {
+      "id": 38,
+      "name_ar": "تولا",
+      "name_en": "Tula",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 466609
+    },
+    {
+      "id": 39,
+      "name_ar": "أستراخان",
+      "name_en": "Astrakhan",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 465524
+    },
+    {
+      "id": 40,
+      "name_ar": "تولياتي",
+      "name_en": "Stavropol",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 450680
+    },
+    {
+      "id": 41,
+      "name_ar": "سوتشي",
+      "name_en": "Sochi",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 444989
+    },
+    {
+      "id": 42,
+      "name_ar": "أولان-أودي",
+      "name_en": "Ulan-Ude",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 439128
+    },
+    {
+      "id": 43,
+      "name_ar": "غواصة كي-141 كورسك",
+      "name_en": "Kursk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 436678
+    },
+    {
+      "id": 44,
+      "name_ar": "تفير",
+      "name_en": "Tver",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 424969
+    },
+    {
+      "id": 45,
+      "name_ar": "مغنيتاغورسك",
+      "name_en": "Magnitogorsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 408715
+    },
+    {
+      "id": 46,
+      "name_ar": "سورغوت",
+      "name_en": "Surgut",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 395900
+    },
+    {
+      "id": 47,
+      "name_ar": "بريانسك",
+      "name_en": "Bryansk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 373310
+    },
+    {
+      "id": 48,
+      "name_ar": "إيفانوفو",
+      "name_en": "Ivanovo",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 361644
+    },
+    {
+      "id": 49,
+      "name_ar": "فلاديمير",
+      "name_en": "Vladimir",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 352347
+    },
+    {
+      "id": 50,
+      "name_ar": "أرخانغلسك",
+      "name_en": "Arkhangelsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 351488
+    },
+    {
+      "id": 51,
+      "name_ar": "تشيتا",
+      "name_en": "Chita",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 333159
+    },
+    {
+      "id": 52,
+      "name_ar": "كالوغا",
+      "name_en": "Kaluga",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 331842
+    },
+    {
+      "id": 53,
+      "name_ar": "نيجني تاجيل",
+      "name_en": "Nizhniy Tagil",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 330507
+    },
+    {
+      "id": 54,
+      "name_ar": "بيلغورود",
+      "name_en": "Belgorod",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 328482
+    },
+    {
+      "id": 55,
+      "name_ar": "فولجسكي",
+      "name_en": "Volzhskiy",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 315220
+    },
+    {
+      "id": 56,
+      "name_ar": "بودولسك",
+      "name_en": "Podolsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 312911
+    },
+    {
+      "id": 57,
+      "name_ar": "سمولينسك",
+      "name_en": "Smolensk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 312896
+    },
+    {
+      "id": 58,
+      "name_ar": "فولوغدا",
+      "name_en": "Vologda",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 312420
+    },
+    {
+      "id": 59,
+      "name_ar": "ياكوتسك",
+      "name_en": "Yakutsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 311760
+    },
+    {
+      "id": 60,
+      "name_ar": "جثوة",
+      "name_en": "Kurgan",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 310911
+    },
+    {
+      "id": 61,
+      "name_ar": "سارانسك",
+      "name_en": "Saransk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 310898
+    },
+    {
+      "id": 62,
+      "name_ar": "فلاديقوقاز",
+      "name_en": "Vladikavkaz",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 303597
+    },
+    {
+      "id": 63,
+      "name_ar": "تشيريبوفيتس",
+      "name_en": "Cherepovets",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 298790
+    },
+    {
+      "id": 64,
+      "name_ar": "غروزني",
+      "name_en": "Groznyy",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 291687
+    },
+    {
+      "id": 65,
+      "name_ar": "تامبوف",
+      "name_en": "Tambov",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 289701
+    },
+    {
+      "id": 66,
+      "name_ar": "نيجنفارتوفسك",
+      "name_en": "Nizhnevartovsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 283256
+    },
+    {
+      "id": 67,
+      "name_ar": "بيتروزوفودسك",
+      "name_en": "Petrozavodsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 279190
+    },
+    {
+      "id": 68,
+      "name_ar": "سترليتاماك",
+      "name_en": "Sterlitamak",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 277410
+    },
+    {
+      "id": 69,
+      "name_ar": "مايتشي",
+      "name_en": "Mytishchi",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 275313
+    },
+    {
+      "id": 70,
+      "name_ar": "يوشكار-أولا",
+      "name_en": "Yoshkar-Ola",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 274715
+    },
+    {
+      "id": 71,
+      "name_ar": "كوستروما",
+      "name_en": "Kostroma",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 267481
+    },
+    {
+      "id": 72,
+      "name_ar": "مورمانسك",
+      "name_en": "Murmansk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 267422
+    },
+    {
+      "id": 73,
+      "name_ar": "نالتشيك",
+      "name_en": "Nalchik",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 265162
+    },
+    {
+      "id": 74,
+      "name_ar": "دنِبرُو",
+      "name_en": "Novorossiysk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 261937
+    },
+    {
+      "id": 75,
+      "name_ar": "إنغلس",
+      "name_en": "Engels",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 260190
+    },
+    {
+      "id": 76,
+      "name_ar": "خيمكي",
+      "name_en": "Khimki",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 256684
+    },
+    {
+      "id": 77,
+      "name_ar": "سيكتيفكار",
+      "name_en": "Syktyvkar",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 245083
+    },
+    {
+      "id": 78,
+      "name_ar": "تاغانروغ",
+      "name_en": "Taganrog",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 241557
+    },
+    {
+      "id": 79,
+      "name_ar": "كولبينو",
+      "name_en": "Kolpino",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 225801
+    },
+    {
+      "id": 80,
+      "name_ar": "فيليكي نوفغورود",
+      "name_en": "Velikiy Novgorod",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 222340
+    },
+    {
+      "id": 81,
+      "name_ar": "شاختاي",
+      "name_en": "Shakhty",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 220802
+    },
+    {
+      "id": 82,
+      "name_ar": "براتسك",
+      "name_en": "Bratsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 220097
+    },
+    {
+      "id": 83,
+      "name_ar": "أنغارسك",
+      "name_en": "Angarsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 217365
+    },
+    {
+      "id": 84,
+      "name_ar": "ستاري اوسكول",
+      "name_en": "Staryy Oskol",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 217107
+    },
+    {
+      "id": 85,
+      "name_ar": "دزيرجينسك",
+      "name_en": "Dzerzhinsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 215259
+    },
+    {
+      "id": 86,
+      "name_ar": "كراسنوغورسك",
+      "name_en": "Krasnogorsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 193127
+    },
+    {
+      "id": 87,
+      "name_ar": "بسكوف أوبلاست",
+      "name_en": "Pskov",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 189315
+    },
+    {
+      "id": 88,
+      "name_ar": "أورسك",
+      "name_en": "Orsk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 187517
+    },
+    {
+      "id": 89,
+      "name_ar": "أرمافير",
+      "name_en": "Armavir",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 184546
+    },
+    {
+      "id": 90,
+      "name_ar": "بييسك",
+      "name_en": "Biysk",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 183852
+    },
+    {
+      "id": 91,
+      "name_ar": "بالاكوفو",
+      "name_en": "Balakovo",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 181724
+    },
+    {
+      "id": 92,
+      "name_ar": "أباكان",
+      "name_en": "Abakan",
+      "country_ar": "روسيا",
+      "country_en": "Russia",
+      "population": 181709
+    }
+  ],
+  "meta": {
+    "title": "مدن روسيا — Cities of Russia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن روسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 92 cities in Russia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 92 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن روسيا — Cities of Russia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن روسيا — Cities of Russia (Arabic names) — 92 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 92 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

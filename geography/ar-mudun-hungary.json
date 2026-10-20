@@ -1,0 +1,448 @@
+{
+  "id": "ar-mudun-hungary",
+  "name": "مدن المجر — Cities of Hungary (Arabic names)",
+  "title": "مدن المجر — Cities of Hungary (Arabic names)",
+  "description": "قائمة بأسماء مدن المجر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Hungary with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بودابست",
+      "name_en": "Budapest",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 1686222
+    },
+    {
+      "id": 2,
+      "name_ar": "جيور",
+      "name_en": "Gyor",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 246159
+    },
+    {
+      "id": 3,
+      "name_ar": "دبرتسن",
+      "name_en": "Debrecen",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 201704
+    },
+    {
+      "id": 4,
+      "name_ar": "سيجد",
+      "name_en": "Szeged",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 157930
+    },
+    {
+      "id": 5,
+      "name_ar": "زومباثلي",
+      "name_en": "Szombathely",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 147920
+    },
+    {
+      "id": 6,
+      "name_ar": "ميشكولتس",
+      "name_en": "Miskolc",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 143502
+    },
+    {
+      "id": 7,
+      "name_ar": "بيتش",
+      "name_en": "Pecs",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 140330
+    },
+    {
+      "id": 8,
+      "name_ar": "نيرغهازا",
+      "name_en": "Nyiregyhaza",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 115359
+    },
+    {
+      "id": 9,
+      "name_ar": "كيشكاميت",
+      "name_en": "Kecskemet",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 109450
+    },
+    {
+      "id": 10,
+      "name_ar": "شوبرون",
+      "name_en": "Sopron",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 98479
+    },
+    {
+      "id": 11,
+      "name_ar": "سيكشفهيرفار",
+      "name_en": "Szekesfehervar",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 96024
+    },
+    {
+      "id": 12,
+      "name_ar": "إيرد",
+      "name_en": "Erd",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 71338
+    },
+    {
+      "id": 13,
+      "name_ar": "سولنوك",
+      "name_en": "Szolnok",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 66426
+    },
+    {
+      "id": 14,
+      "name_ar": "تاتابانيا",
+      "name_en": "Tatabanya",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 65861
+    },
+    {
+      "id": 15,
+      "name_ar": "كابوشفار",
+      "name_en": "Kaposvar",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 58830
+    },
+    {
+      "id": 16,
+      "name_ar": "فيسبرم",
+      "name_en": "Veszprem",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 56029
+    },
+    {
+      "id": 17,
+      "name_ar": "زالاجيرسيج",
+      "name_en": "Zalaegerszeg",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 55152
+    },
+    {
+      "id": 18,
+      "name_ar": "بيكيسكسابا",
+      "name_en": "Bekescsaba",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 54460
+    },
+    {
+      "id": 19,
+      "name_ar": "ناجيكانيزسا",
+      "name_en": "Nagykanizsa",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 42502
+    },
+    {
+      "id": 20,
+      "name_ar": "هدمزوفازارهلي",
+      "name_en": "Hodmezovasarhely",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 41781
+    },
+    {
+      "id": 21,
+      "name_ar": "دوناوجفاروس",
+      "name_en": "Dunaujvaros",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 41394
+    },
+    {
+      "id": 22,
+      "name_ar": "سغليد",
+      "name_en": "Cegled",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 36391
+    },
+    {
+      "id": 23,
+      "name_ar": "موشونمادياروفار",
+      "name_en": "Mosonmagyarovar",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 34165
+    },
+    {
+      "id": 24,
+      "name_ar": "فاكلاف",
+      "name_en": "Vac",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 34001
+    },
+    {
+      "id": 25,
+      "name_ar": "ولاية باها كاليفورنيا سور",
+      "name_en": "Baja",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 32759
+    },
+    {
+      "id": 26,
+      "name_ar": "غودولو",
+      "name_en": "Godollo",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 32524
+    },
+    {
+      "id": 27,
+      "name_ar": "سالجوتارجان",
+      "name_en": "Salgotarjan",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 30910
+    },
+    {
+      "id": 28,
+      "name_ar": "سكسارد",
+      "name_en": "Szekszard",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 29707
+    },
+    {
+      "id": 29,
+      "name_ar": "بوداورس",
+      "name_en": "Budaors",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 29398
+    },
+    {
+      "id": 30,
+      "name_ar": "ازترغوم",
+      "name_en": "Esztergom",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 28642
+    },
+    {
+      "id": 31,
+      "name_ar": "بابا الفاتيكان",
+      "name_en": "Papa",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 28549
+    },
+    {
+      "id": 32,
+      "name_ar": "سانتاندري",
+      "name_en": "Szentendre",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 28444
+    },
+    {
+      "id": 33,
+      "name_ar": "جيولا",
+      "name_en": "Gyula",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 27834
+    },
+    {
+      "id": 34,
+      "name_ar": "ديونديوش",
+      "name_en": "Gyongyos",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 27645
+    },
+    {
+      "id": 35,
+      "name_ar": "آيكا",
+      "name_en": "Ajka",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 26408
+    },
+    {
+      "id": 36,
+      "name_ar": "كيش كونهالاش",
+      "name_en": "Kiskunhalas",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 26009
+    },
+    {
+      "id": 37,
+      "name_ar": "تاتا",
+      "name_en": "Tata",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 23549
+    },
+    {
+      "id": 38,
+      "name_ar": "ناديكوروش",
+      "name_en": "Nagykoros",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 23016
+    },
+    {
+      "id": 39,
+      "name_ar": "إله أو إلهة",
+      "name_en": "God",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 21876
+    },
+    {
+      "id": 40,
+      "name_ar": "ماكو إيواماتسو",
+      "name_en": "Mako",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 21759
+    },
+    {
+      "id": 41,
+      "name_ar": "هاتفان",
+      "name_en": "Hatvan",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 19943
+    },
+    {
+      "id": 42,
+      "name_ar": "باكس (المجر)",
+      "name_en": "Paks",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 17917
+    },
+    {
+      "id": 43,
+      "name_ar": "كيزتيلي",
+      "name_en": "Keszthely",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 17849
+    },
+    {
+      "id": 44,
+      "name_ar": "موهاج",
+      "name_en": "Mohacs",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 17200
+    },
+    {
+      "id": 45,
+      "name_ar": "ميزوكوفشد",
+      "name_en": "Mezokovesd",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 15541
+    },
+    {
+      "id": 46,
+      "name_ar": "كيشفاردا",
+      "name_en": "Kisvarda",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 14888
+    },
+    {
+      "id": 47,
+      "name_ar": "توروكبالينت",
+      "name_en": "Torokbalint",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 14517
+    },
+    {
+      "id": 48,
+      "name_ar": "كالوتشا",
+      "name_en": "Kalocsa",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 14433
+    },
+    {
+      "id": 49,
+      "name_ar": "جاردوني",
+      "name_en": "Gardony",
+      "country_ar": "المجر",
+      "country_en": "Hungary",
+      "population": 13750
+    }
+  ],
+  "meta": {
+    "title": "مدن المجر — Cities of Hungary (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن المجر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Hungary with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 49 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن المجر — Cities of Hungary (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن المجر — Cities of Hungary (Arabic names) — 49 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 49 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

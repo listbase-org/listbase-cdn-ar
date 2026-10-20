@@ -1,0 +1,464 @@
+{
+  "id": "ar-mudun-thailand",
+  "name": "مدن تايلاند — Cities of Thailand (Arabic names)",
+  "title": "مدن تايلاند — Cities of Thailand (Arabic names)",
+  "description": "قائمة بأسماء مدن تايلاند بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 51 cities in Thailand with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بانكوك",
+      "name_en": "Bangkok",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 18007000
+    },
+    {
+      "id": 2,
+      "name_ar": "محافظة تشيانغ مي",
+      "name_en": "Chiang Mai",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 1198000
+    },
+    {
+      "id": 3,
+      "name_ar": "محافظة ناخون راتشاسيما",
+      "name_en": "Nakhon Ratchasima",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 466098
+    },
+    {
+      "id": 4,
+      "name_ar": "محافظة خون كاين",
+      "name_en": "Khon Kaen",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 412758
+    },
+    {
+      "id": 5,
+      "name_ar": "هات ياي",
+      "name_en": "Hat Yai",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 406513
+    },
+    {
+      "id": 6,
+      "name_ar": "محافظة تشونبوري",
+      "name_en": "Chon Buri",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 342959
+    },
+    {
+      "id": 7,
+      "name_ar": "باتايا",
+      "name_en": "Phatthaya",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 328961
+    },
+    {
+      "id": 8,
+      "name_ar": "سي راتشا",
+      "name_en": "Si Racha",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 327172
+    },
+    {
+      "id": 9,
+      "name_ar": "محافظة فيتسانولوك",
+      "name_en": "Phitsanulok",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 281929
+    },
+    {
+      "id": 10,
+      "name_ar": "محافظة موكداهان",
+      "name_en": "Mukdahan",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 180600
+    },
+    {
+      "id": 11,
+      "name_ar": "محافظة سورات ثاني",
+      "name_en": "Surat Thani",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 132040
+    },
+    {
+      "id": 12,
+      "name_ar": "ودون تاني",
+      "name_en": "Udon Thani",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 130531
+    },
+    {
+      "id": 13,
+      "name_ar": "محافظة ناخون باتوم",
+      "name_en": "Nakhon Pathom",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 120657
+    },
+    {
+      "id": 14,
+      "name_ar": "محافظة ناخون سي تاممارات",
+      "name_en": "Nakhon Si Thammarat",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 102152
+    },
+    {
+      "id": 15,
+      "name_ar": "محافظة ناخون ساوان",
+      "name_en": "Nakhon Sawan",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 82305
+    },
+    {
+      "id": 16,
+      "name_ar": "محافظة بوكيت",
+      "name_en": "Phuket",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 79308
+    },
+    {
+      "id": 17,
+      "name_ar": "محافظة ساكون ناخون",
+      "name_en": "Sakon Nakhon",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 76000
+    },
+    {
+      "id": 18,
+      "name_ar": "جزيرة ساموي",
+      "name_en": "Ko Samui",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 70059
+    },
+    {
+      "id": 19,
+      "name_ar": "تشيانغ ري",
+      "name_en": "Chiang Rai",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 69888
+    },
+    {
+      "id": 20,
+      "name_ar": "محافظة أوبون راتشاثاني",
+      "name_en": "Ubon Ratchathani",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 68477
+    },
+    {
+      "id": 21,
+      "name_ar": "محافظة رايونغ",
+      "name_en": "Rayong",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 64256
+    },
+    {
+      "id": 22,
+      "name_ar": "محافظة سونغكلا",
+      "name_en": "Songkhla",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 61758
+    },
+    {
+      "id": 23,
+      "name_ar": "محافظة شاشوينجساو",
+      "name_en": "Chachoengsao",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 60893
+    },
+    {
+      "id": 24,
+      "name_ar": "محافظة سارابوري",
+      "name_en": "Saraburi",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 60809
+    },
+    {
+      "id": 25,
+      "name_ar": "محافظة يالا",
+      "name_en": "Yala",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 60617
+    },
+    {
+      "id": 26,
+      "name_ar": "محافظة ساموت ساخون",
+      "name_en": "Samut Sakhon",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 60103
+    },
+    {
+      "id": 27,
+      "name_ar": "محافظة تشايافوم",
+      "name_en": "Chaiyaphum",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 58350
+    },
+    {
+      "id": 28,
+      "name_ar": "لامبانغ",
+      "name_en": "Lampang",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 58074
+    },
+    {
+      "id": 29,
+      "name_ar": "محافظة لوبوري",
+      "name_en": "Lop Buri",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 58000
+    },
+    {
+      "id": 30,
+      "name_ar": "محافظة فرا ناخون سي أيوتثايا",
+      "name_en": "Phra Nakhon Si Ayutthaya",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 50830
+    },
+    {
+      "id": 31,
+      "name_ar": "محافظة نونغ خاي",
+      "name_en": "Nong Khai",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 46180
+    },
+    {
+      "id": 32,
+      "name_ar": "محافظة ناراتيوات",
+      "name_en": "Narathiwat",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 40521
+    },
+    {
+      "id": 33,
+      "name_ar": "محافظة ماها ساراخام",
+      "name_en": "Maha Sarakham",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 40154
+    },
+    {
+      "id": 34,
+      "name_ar": "محافظة سي سا كت",
+      "name_en": "Si Sa Ket",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 40117
+    },
+    {
+      "id": 35,
+      "name_ar": "سورينام",
+      "name_en": "Surin",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 39179
+    },
+    {
+      "id": 36,
+      "name_ar": "محافظة فاتالونغ",
+      "name_en": "Phatthalung",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 38576
+    },
+    {
+      "id": 37,
+      "name_ar": "محافظة راتشابوري",
+      "name_en": "Ratchaburi",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 36169
+    },
+    {
+      "id": 38,
+      "name_ar": "محافظة سوكوتاي",
+      "name_en": "Sukhothai",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 35713
+    },
+    {
+      "id": 39,
+      "name_ar": "محافظة كالاسين",
+      "name_en": "Kalasin",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 34429
+    },
+    {
+      "id": 40,
+      "name_ar": "محافظة روي إت",
+      "name_en": "Roi Et",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 34229
+    },
+    {
+      "id": 41,
+      "name_ar": "محافظة تشومفون",
+      "name_en": "Chumphon",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 33633
+    },
+    {
+      "id": 42,
+      "name_ar": "محافظة أوتاراديت",
+      "name_en": "Uttaradit",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 33357
+    },
+    {
+      "id": 43,
+      "name_ar": "محافظة كرابي",
+      "name_en": "Krabi",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 32644
+    },
+    {
+      "id": 44,
+      "name_ar": "محافظة ساموت براكان",
+      "name_en": "Samut Prakan",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 31887
+    },
+    {
+      "id": 45,
+      "name_ar": "ثونغ سونغ",
+      "name_en": "Thung Song",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 30500
+    },
+    {
+      "id": 46,
+      "name_ar": "فانغ",
+      "name_en": "Fang",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 30000
+    },
+    {
+      "id": 47,
+      "name_ar": "كامفاينغ فيت",
+      "name_en": "Kamphaeng Phet",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 28817
+    },
+    {
+      "id": 48,
+      "name_ar": "محافظة ناخون فانوم",
+      "name_en": "Nakhon Phanom",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 27591
+    },
+    {
+      "id": 49,
+      "name_ar": "محافظة براتشواب خيري خان",
+      "name_en": "Prachuap Khiri Khan",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 26926
+    },
+    {
+      "id": 50,
+      "name_ar": "محافظة سوفانبوري",
+      "name_en": "Suphan Buri",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 26656
+    },
+    {
+      "id": 51,
+      "name_ar": "محافظة براتشينبوري",
+      "name_en": "Phetchaburi",
+      "country_ar": "تايلاند",
+      "country_en": "Thailand",
+      "population": 26181
+    }
+  ],
+  "meta": {
+    "title": "مدن تايلاند — Cities of Thailand (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن تايلاند بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 51 cities in Thailand with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 51 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن تايلاند — Cities of Thailand (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن تايلاند — Cities of Thailand (Arabic names) — 51 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 51 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ar-sumal-bunuk",
+  "name": "بنوك الصومال — رموز سويفت (Banks of Somalia — SWIFT/BIC codes)",
+  "title": "بنوك الصومال — رموز سويفت (Banks of Somalia — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في الصومال مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 7 سجلًا. List of banks, financial institutions and their branches in Somalia with the SWIFT/BIC code, bank name, city and branch name for each. 7 records. Source: PeterNotenboom/SwiftCodes AllCountries/SO.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AMAL BANK LTD",
+      "city": "GAROWE",
+      "branch": "",
+      "swift_code": "AALLSOSG"
+    },
+    {
+      "id": 2,
+      "bank": "CENTRAL BANK OF SOMALIA",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "CBSOSOSM"
+    },
+    {
+      "id": 3,
+      "bank": "DAHABSHIL BANK INTERNATIONAL",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "DAHISOSM"
+    },
+    {
+      "id": 4,
+      "bank": "INTERNATIONAL BANK OF SOMALIA (IBS)",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "IBOSSOSM"
+    },
+    {
+      "id": 5,
+      "bank": "PREMIER BANK LIMITED",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "PBSMSOSM"
+    },
+    {
+      "id": 6,
+      "bank": "SALAAM SOMALI BANK",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "SSBMSOSM"
+    },
+    {
+      "id": 7,
+      "bank": "TRUST AFRICAN BANK",
+      "city": "MOGADISCIO",
+      "branch": "",
+      "swift_code": "TTAFSOSM"
+    }
+  ],
+  "meta": {
+    "title": "بنوك الصومال — رموز سويفت (Banks of Somalia — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في الصومال مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 7 سجلًا. List of banks, financial institutions and their branches in Somalia with the SWIFT/BIC code, bank name, city and branch name for each. 7 records. Source: PeterNotenboom/SwiftCodes AllCountries/SO.json (MIT). يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك الصومال — رموز سويفت (Banks of Somalia — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك الصومال — رموز سويفت (Banks of Somalia — SWIFT/BIC codes) — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

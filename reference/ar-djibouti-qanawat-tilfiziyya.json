@@ -1,0 +1,211 @@
+{
+  "id": "ar-djibouti-qanawat-tilfiziyya",
+  "name": "قنوات تلفزيونية جيبوتية",
+  "title": "قنوات تلفزيونية جيبوتية",
+  "description": "قائمة بالقنوات التلفزيونية الجيبوتية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "RTD.dj",
+      "name": "RTD",
+      "alt_names": "Radiodiffusion Télévision de Djibouti",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.rtd.dj/"
+    },
+    {
+      "id": 2,
+      "channel_id": "RTD1.dj",
+      "name": "RTD 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 3,
+      "channel_id": "RTD2.dj",
+      "name": "RTD 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 4,
+      "channel_id": "RTD3.dj",
+      "name": "RTD 3",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 5,
+      "channel_id": "RTD4.dj",
+      "name": "RTD 4",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 6,
+      "channel_id": "RTD5.dj",
+      "name": "RTD 5",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 7,
+      "channel_id": "RTD6.dj",
+      "name": "RTD 6",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    },
+    {
+      "id": 8,
+      "channel_id": "RTD7.dj",
+      "name": "RTD 7",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "DJ",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://rtd.dj/"
+    }
+  ],
+  "meta": {
+    "title": "قنوات تلفزيونية جيبوتية - تحميل مجاني",
+    "description": "قائمة بالقنوات التلفزيونية الجيبوتية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية. يحتوي على 8 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "قنوات تلفزيونية جيبوتية | ListBase",
+    "seo_description": "تحميل قنوات تلفزيونية جيبوتية — 8 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 8 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

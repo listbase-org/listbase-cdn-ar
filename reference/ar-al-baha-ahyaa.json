@@ -1,0 +1,212 @@
+{
+  "id": "ar-al-baha-ahyaa",
+  "name": "أحياء منطقة الباحة (Districts of Al Baha)",
+  "title": "أحياء منطقة الباحة (Districts of Al Baha)",
+  "description": "قائمة الأحياء في مدن منطقة الباحة (Al Baha) المتاحة في سجل Manateq. List of districts / neighbourhoods (أحياء / aḥyāʾ) within cities of the Al Baha administrative region of Saudi Arabia (region_id=9). Filtered subset of the national ar-ahyaa flagship; same record schema joined to the parent city and grandparent region.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "city_ar",
+      "label": "City Ar",
+      "type": "string"
+    },
+    {
+      "key": "city_en",
+      "label": "City En",
+      "type": "string"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_id": 573,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "رغدان",
+      "name_en": "raghadan",
+      "slug": "raghadan"
+    },
+    {
+      "district_id": 614,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحازم",
+      "name_en": "al hazim",
+      "slug": "al-hazim"
+    },
+    {
+      "district_id": 628,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "شهبة",
+      "name_en": "shuhbah",
+      "slug": "shuhbah"
+    },
+    {
+      "district_id": 654,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الراعب",
+      "name_en": "al raib",
+      "slug": "al-raib"
+    },
+    {
+      "district_id": 655,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الزرقاء",
+      "name_en": "az zarqa",
+      "slug": "az-zarqa"
+    },
+    {
+      "district_id": 656,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الظفير",
+      "name_en": "adh dhafir",
+      "slug": "adh-dhafir"
+    },
+    {
+      "district_id": 657,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "وسط المدينة",
+      "name_en": "towen center",
+      "slug": "towen-center"
+    },
+    {
+      "district_id": 667,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الباهر",
+      "name_en": "al bahir",
+      "slug": "al-bahir"
+    },
+    {
+      "district_id": 668,
+      "city_id": 1542,
+      "city_ar": "الباحة",
+      "city_en": "Al Baha",
+      "city_slug": "al-baha",
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحاوية",
+      "name_en": "al hawiyah",
+      "slug": "al-hawiyah"
+    }
+  ],
+  "meta": {
+    "title": "أحياء منطقة الباحة (Districts of Al Baha) - تحميل مجاني",
+    "description": "قائمة الأحياء في مدن منطقة الباحة (Al Baha) المتاحة في سجل Manateq. List of districts / neighbourhoods (أحياء / aḥyāʾ) within cities of the Al Baha administrative region of Saudi Arabia (region_id=9). Filtered subset of the national ar-ahyaa flagship; same record schema joined to the parent city and grandparent region. يحتوي على 9 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أحياء منطقة الباحة (Districts of Al Baha) | ListBase",
+    "seo_description": "تحميل أحياء منطقة الباحة (Districts of Al Baha) — 9 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 9 سجل / 12 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

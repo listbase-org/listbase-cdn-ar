@@ -1,0 +1,149 @@
+{
+  "id": "ar-imarat-al-ain-bunuk",
+  "name": "بنوك Al Ain — الإمارات العربية المتحدة — رموز سويفت (Banks of Al Ain, United Arab Emirates — SWIFT/BIC codes)",
+  "title": "بنوك Al Ain — الإمارات العربية المتحدة — رموز سويفت (Banks of Al Ain, United Arab Emirates — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Al Ain (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Al Ain, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "ABINAEAAAIN"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB BANK PLC",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "ARABAEADAIN"
+    },
+    {
+      "id": 3,
+      "bank": "BANK MELLI IRAN",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "MELIAEADALN"
+    },
+    {
+      "id": 4,
+      "bank": "BANK OF BARODA",
+      "city": "AL AIN",
+      "branch": "(ALAIN)",
+      "swift_code": "BARBAEADALN"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE MISR",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "BCAIAEAA806"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "CLBIAEADAN1"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "AL AIN",
+      "branch": "",
+      "swift_code": "CBDUAEADAIN"
+    },
+    {
+      "id": 8,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "AL AIN",
+      "branch": "(AL JAWAZAT STREET BRANCH)",
+      "swift_code": "MEBLAEADAJS"
+    },
+    {
+      "id": 9,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "NBADAEAAALN"
+    },
+    {
+      "id": 10,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "AL AIN",
+      "branch": "(AL AIN CLOCK TOWER BRANCH)",
+      "swift_code": "NBADAEAACLO"
+    },
+    {
+      "id": 11,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "AL AIN",
+      "branch": "(AL AIN MALL BRANCH)",
+      "swift_code": "NBADAEAAAAM"
+    },
+    {
+      "id": 12,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "AL AIN",
+      "branch": "(AL SANAIYA BRANCH)",
+      "swift_code": "NBADAEAAASN"
+    },
+    {
+      "id": 13,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "AL AIN",
+      "branch": "",
+      "swift_code": "BBMEAEADALA"
+    },
+    {
+      "id": 14,
+      "bank": "JANATA BANK",
+      "city": "AL AIN",
+      "branch": "(AL AIN BRANCH)",
+      "swift_code": "JANBAEAAALN"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Al Ain — الإمارات العربية المتحدة — رموز سويفت (Banks of Al Ain, United Arab Emirates — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Al Ain (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Al Ain, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT). يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Al Ain — الإمارات العربية المتحدة — رموز سويفت (Banks of Al Ain, United Arab Emirates — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Al Ain — الإمارات العربية المتحدة — رموز سويفت (Banks of Al Ain, United Arab Emirates — SWIFT/BIC codes) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

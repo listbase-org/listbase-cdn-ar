@@ -1,0 +1,232 @@
+{
+  "id": "ar-mudun-guatemala",
+  "name": "مدن جواتيمالا — Cities of Guatemala (Arabic names)",
+  "title": "مدن جواتيمالا — Cities of Guatemala (Arabic names)",
+  "description": "قائمة بأسماء مدن جواتيمالا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Guatemala with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "غواتيمالا العاصمة",
+      "name_en": "Guatemala City",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 3014000
+    },
+    {
+      "id": 2,
+      "name_ar": "فيلا نويفا",
+      "name_en": "Villa Nueva",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 492480
+    },
+    {
+      "id": 3,
+      "name_ar": "إدارة كويتزالتينانغو",
+      "name_en": "Quetzaltenango",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 207620
+    },
+    {
+      "id": 4,
+      "name_ar": "جالابا",
+      "name_en": "Jalapa",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 192676
+    },
+    {
+      "id": 5,
+      "name_ar": "إدارة خوتيابا",
+      "name_en": "Jutiapa",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 167049
+    },
+    {
+      "id": 6,
+      "name_ar": "إدارة هيويتينانغو",
+      "name_en": "Huehuetenango",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 136639
+    },
+    {
+      "id": 7,
+      "name_ar": "إدارة توتونيكابان",
+      "name_en": "Totonicapan",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 118960
+    },
+    {
+      "id": 8,
+      "name_ar": "إدارة تشيمالتينانغو",
+      "name_en": "Chimaltenango",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 116642
+    },
+    {
+      "id": 9,
+      "name_ar": "إدارة تشيكيمولا",
+      "name_en": "Chiquimula",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 111505
+    },
+    {
+      "id": 10,
+      "name_ar": "بويرتو باريوس",
+      "name_en": "Puerto Barrios",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 110846
+    },
+    {
+      "id": 11,
+      "name_ar": "إدارة ريتاليوليو",
+      "name_en": "Retalhuleu",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 109935
+    },
+    {
+      "id": 12,
+      "name_ar": "موراليس",
+      "name_en": "Morales",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 107400
+    },
+    {
+      "id": 13,
+      "name_ar": "إدارة سولولا",
+      "name_en": "Solola",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 99934
+    },
+    {
+      "id": 14,
+      "name_ar": "سانتا كروز ديل كويتشي",
+      "name_en": "Santa Cruz del Quiche",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 99479
+    },
+    {
+      "id": 15,
+      "name_ar": "سان بيدرو سكاتيبيكيز، سان ماركوس",
+      "name_en": "San Pedro Sacatepequez",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 85671
+    },
+    {
+      "id": 16,
+      "name_ar": "بلدية مازاتينانغو",
+      "name_en": "Mazatenango",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 82969
+    },
+    {
+      "id": 17,
+      "name_ar": "ليفينغستون",
+      "name_en": "Livingston",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 80249
+    },
+    {
+      "id": 18,
+      "name_ar": "سلامة",
+      "name_en": "Salama",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 71478
+    },
+    {
+      "id": 19,
+      "name_ar": "إدارة زاكابا",
+      "name_en": "Zacapa",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 66423
+    },
+    {
+      "id": 20,
+      "name_ar": "تيكيزاتي",
+      "name_en": "Tiquisate",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 63971
+    },
+    {
+      "id": 21,
+      "name_ar": "انتيغوا غواتيمالا",
+      "name_en": "Antigua Guatemala",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 59091
+    },
+    {
+      "id": 22,
+      "name_ar": "كومارا",
+      "name_en": "La Gomera",
+      "country_ar": "جواتيمالا",
+      "country_en": "Guatemala",
+      "population": 53211
+    }
+  ],
+  "meta": {
+    "title": "مدن جواتيمالا — Cities of Guatemala (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن جواتيمالا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Guatemala with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 22 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن جواتيمالا — Cities of Guatemala (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن جواتيمالا — Cities of Guatemala (Arabic names) — 22 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 22 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

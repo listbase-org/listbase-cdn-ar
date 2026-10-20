@@ -1,0 +1,3787 @@
+{
+  "id": "ar-misr-mudun",
+  "name": "مدن ومراكز مصر (Cities & Towns of Egypt)",
+  "title": "مدن ومراكز مصر (Cities & Towns of Egypt)",
+  "description": "قائمة وطنية بمدن ومراكز جمهورية مصر العربية موزعة على المحافظات الـ27، بأسمائها بالعربية والإنجليزية مع المحافظة الأم. National list of Egyptian cities and towns (markazes) across the 27 governorates, with Arabic and English names joined to the parent governorate.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 414,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "347",
+      "name_ar": "ابو الريش",
+      "name_en": "abou-al-reish",
+      "name_long_ar": "ابو الريش، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "348",
+      "name_ar": "ابو سمبل",
+      "name_en": "abou-simbel",
+      "name_long_ar": "ابو سمبل، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "351",
+      "name_ar": "ادفو",
+      "name_en": "edfu",
+      "name_long_ar": "ادفو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "352",
+      "name_ar": "البصيلية",
+      "name_en": "basiliah",
+      "name_long_ar": "البصيلية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "353",
+      "name_ar": "الرديسية",
+      "name_en": "rdesiah",
+      "name_long_ar": "الرديسية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "354",
+      "name_ar": "السباعية",
+      "name_en": "sebaeiah",
+      "name_long_ar": "السباعية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "349",
+      "name_ar": "دراو",
+      "name_en": "daraw",
+      "name_long_ar": "دراو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "358",
+      "name_ar": "صحارى",
+      "name_en": "sahara",
+      "name_long_ar": "صحارى، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "355",
+      "name_ar": "كلابشة",
+      "name_en": "kalabsha",
+      "name_long_ar": "كلابشة، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "356",
+      "name_ar": "كوم امبو",
+      "name_en": "kom-ombo",
+      "name_long_ar": "كوم امبو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "350",
+      "name_ar": "مدينة أسوان",
+      "name_en": "aswan-city",
+      "name_long_ar": "مدينة أسوان، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "357",
+      "name_ar": "نصر النوبة",
+      "name_en": "nasr-al-noba",
+      "name_long_ar": "نصر النوبة، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "337",
+      "name_ar": "أبنوب",
+      "name_en": "abnub",
+      "name_long_ar": "أبنوب، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "338",
+      "name_ar": "أبو تيج",
+      "name_en": "abu-teeg",
+      "name_long_ar": "أبو تيج، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "404",
+      "name_ar": "أسيوط الجديدة",
+      "name_en": "new-assiut",
+      "name_long_ar": "أسيوط الجديدة، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "340",
+      "name_ar": "البدارى",
+      "name_en": "badari",
+      "name_long_ar": "البدارى، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "342",
+      "name_ar": "الغنايم",
+      "name_en": "ghanayem",
+      "name_long_ar": "الغنايم، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "341",
+      "name_ar": "الفتح",
+      "name_en": "fateh",
+      "name_long_ar": "الفتح، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "344",
+      "name_ar": "القوصيه",
+      "name_en": "qusiya",
+      "name_long_ar": "القوصيه، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "339",
+      "name_ar": "ديروط",
+      "name_en": "dairut",
+      "name_long_ar": "ديروط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "345",
+      "name_ar": "ساحل سليم",
+      "name_en": "sahel-selim",
+      "name_long_ar": "ساحل سليم، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "346",
+      "name_ar": "صدفا",
+      "name_en": "sedfa",
+      "name_long_ar": "صدفا، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "126",
+      "name_ar": "مدينة أسيوط",
+      "name_en": "asyut-city",
+      "name_long_ar": "مدينة أسيوط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "343",
+      "name_ar": "منفلوط",
+      "name_en": "manfalut",
+      "name_long_ar": "منفلوط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "334",
+      "name_ar": "أرمنت",
+      "name_en": "armant",
+      "name_long_ar": "أرمنت، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "336",
+      "name_ar": "إسنا",
+      "name_en": "isna",
+      "name_long_ar": "إسنا، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "335",
+      "name_ar": "البياضية",
+      "name_en": "bayadeya",
+      "name_long_ar": "البياضية، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "168",
+      "name_ar": "الزينية",
+      "name_en": "zinnia",
+      "name_long_ar": "الزينية، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "170",
+      "name_ar": "الطود",
+      "name_en": "tod",
+      "name_long_ar": "الطود، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "169",
+      "name_ar": "القرنه",
+      "name_en": "qurna",
+      "name_long_ar": "القرنه، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "167",
+      "name_ar": "مدينة الأقصر",
+      "name_en": "luxor-city",
+      "name_long_ar": "مدينة الأقصر، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "297",
+      "name_ar": "أبو قير",
+      "name_en": "abu-qir",
+      "name_long_ar": "أبو قير، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "96",
+      "name_ar": "الأزاريطة",
+      "name_en": "azarita",
+      "name_long_ar": "الأزاريطة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "390",
+      "name_ar": "الإبراهيمية",
+      "name_en": "al-lbrahimiyyah",
+      "name_long_ar": "الإبراهيمية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "296",
+      "name_ar": "الإسكندرية",
+      "name_en": "alexandria",
+      "name_long_ar": "الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "108",
+      "name_ar": "الجمرك",
+      "name_en": "gomrok",
+      "name_long_ar": "الجمرك، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "362",
+      "name_ar": "الحضرة",
+      "name_en": "al-hadrah",
+      "name_long_ar": "الحضرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "314",
+      "name_ar": "الدخيلة",
+      "name_en": "dekheila",
+      "name_long_ar": "الدخيلة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "304",
+      "name_ar": "السيوف",
+      "name_en": "seyouf",
+      "name_long_ar": "السيوف، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "97",
+      "name_ar": "الصالحية",
+      "name_en": "salehia",
+      "name_long_ar": "الصالحية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "98",
+      "name_ar": "الظاهرية",
+      "name_en": "dhahria",
+      "name_long_ar": "الظاهرية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "99",
+      "name_ar": "العامرية",
+      "name_en": "amreya",
+      "name_long_ar": "العامرية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "100",
+      "name_ar": "العصافرة",
+      "name_en": "asafra",
+      "name_long_ar": "العصافرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "101",
+      "name_ar": "العطارين",
+      "name_en": "attarin",
+      "name_long_ar": "العطارين، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "109",
+      "name_ar": "العوايد",
+      "name_en": "awayed",
+      "name_long_ar": "العوايد، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "122",
+      "name_ar": "القباري",
+      "name_en": "kabbary",
+      "name_long_ar": "القباري، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "102",
+      "name_ar": "اللبان",
+      "name_en": "labban",
+      "name_long_ar": "اللبان، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "299",
+      "name_ar": "المعمورة",
+      "name_en": "maamoura",
+      "name_long_ar": "المعمورة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "361",
+      "name_ar": "المكس",
+      "name_en": "el-max",
+      "name_long_ar": "المكس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "300",
+      "name_ar": "المنتزه",
+      "name_en": "montazah",
+      "name_long_ar": "المنتزه، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "302",
+      "name_ar": "المندرة",
+      "name_en": "mandara",
+      "name_long_ar": "المندرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "103",
+      "name_ar": "المنشية",
+      "name_en": "manshiyya",
+      "name_long_ar": "المنشية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "113",
+      "name_ar": "النخيل",
+      "name_en": "nakheel",
+      "name_long_ar": "النخيل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "123",
+      "name_ar": "النزهة",
+      "name_en": "nozha",
+      "name_long_ar": "النزهة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "95",
+      "name_ar": "الورديان",
+      "name_en": "wardian",
+      "name_long_ar": "الورديان، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "104",
+      "name_ar": "باكوس",
+      "name_en": "bacchus",
+      "name_long_ar": "باكوس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "313",
+      "name_ar": "بحرى والأنفوشى",
+      "name_en": "bahray-anfoshy",
+      "name_long_ar": "بحرى والأنفوشى، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "318",
+      "name_ar": "برج العرب",
+      "name_en": "borg-al-arab",
+      "name_long_ar": "برج العرب، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "105",
+      "name_ar": "بولكلي",
+      "name_en": "bolkly",
+      "name_long_ar": "بولكلي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "106",
+      "name_ar": "جليم",
+      "name_en": "glim",
+      "name_long_ar": "جليم، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "107",
+      "name_ar": "جناكليس",
+      "name_en": "gianaclis",
+      "name_long_ar": "جناكليس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "110",
+      "name_ar": "رأس التين",
+      "name_en": "ras-el-tin",
+      "name_long_ar": "رأس التين، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "412",
+      "name_ar": "رشدي",
+      "name_en": "roushdy",
+      "name_long_ar": "رشدي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "111",
+      "name_ar": "زيزينيا",
+      "name_en": "zezenia",
+      "name_long_ar": "زيزينيا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "112",
+      "name_ar": "سابا باشا",
+      "name_en": "saba-pasha",
+      "name_long_ar": "سابا باشا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "305",
+      "name_ar": "سان ستيفانو",
+      "name_en": "san-stefano",
+      "name_long_ar": "سان ستيفانو، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "124",
+      "name_ar": "سبورتنج",
+      "name_en": "sporting",
+      "name_long_ar": "سبورتنج، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "306",
+      "name_ar": "ستانلي",
+      "name_en": "stanley",
+      "name_long_ar": "ستانلي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "309",
+      "name_ar": "سموحة",
+      "name_en": "smoha",
+      "name_long_ar": "سموحة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "303",
+      "name_ar": "سيدي بشر",
+      "name_en": "sidi-beshr",
+      "name_long_ar": "سيدي بشر، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "307",
+      "name_ar": "سيدي جابر",
+      "name_en": "sidi-gaber",
+      "name_long_ar": "سيدي جابر، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "310",
+      "name_ar": "شاطبي",
+      "name_en": "shatby",
+      "name_long_ar": "شاطبي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "114",
+      "name_ar": "شدس",
+      "name_en": "schutz",
+      "name_long_ar": "شدس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "298",
+      "name_ar": "طوسون",
+      "name_en": "tosson",
+      "name_long_ar": "طوسون، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "317",
+      "name_ar": "عجمي",
+      "name_en": "agami",
+      "name_long_ar": "عجمي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "115",
+      "name_ar": "فلمنج",
+      "name_en": "fleming",
+      "name_long_ar": "فلمنج، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "121",
+      "name_ar": "فيكتوريا",
+      "name_en": "victoria",
+      "name_long_ar": "فيكتوريا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "116",
+      "name_ar": "كامب شيزار",
+      "name_en": "camp-caesar",
+      "name_long_ar": "كامب شيزار، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "117",
+      "name_ar": "كرموز",
+      "name_en": "karmous",
+      "name_long_ar": "كرموز، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "308",
+      "name_ar": "كفر عبدو",
+      "name_en": "kafr-abdo",
+      "name_long_ar": "كفر عبدو، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "125",
+      "name_ar": "كليوباترا",
+      "name_en": "cleopatra",
+      "name_long_ar": "كليوباترا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "118",
+      "name_ar": "كوم الدكة",
+      "name_en": "koum-al-dikka",
+      "name_long_ar": "كوم الدكة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "119",
+      "name_ar": "لوران",
+      "name_en": "laurent",
+      "name_long_ar": "لوران، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "312",
+      "name_ar": "محرّم بيك",
+      "name_en": "moharam-bik",
+      "name_long_ar": "محرّم بيك، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "311",
+      "name_ar": "محطة الرمل",
+      "name_en": "raml-station",
+      "name_long_ar": "محطة الرمل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "301",
+      "name_ar": "ميامي",
+      "name_en": "miami",
+      "name_long_ar": "ميامي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "120",
+      "name_ar": "مينا البصل",
+      "name_en": "mina-al-basal",
+      "name_long_ar": "مينا البصل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "92",
+      "name_ar": "أبوصوير",
+      "name_en": "abu-swear",
+      "name_long_ar": "أبوصوير، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "88",
+      "name_ar": "التل الكبير",
+      "name_en": "tal-al-kebeer",
+      "name_long_ar": "التل الكبير، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "93",
+      "name_ar": "القصاصين",
+      "name_en": "qassaseen",
+      "name_long_ar": "القصاصين، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "90",
+      "name_ar": "القنطرة شرق",
+      "name_en": "kantara-east",
+      "name_long_ar": "القنطرة شرق، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "91",
+      "name_ar": "القنطرة غرب",
+      "name_en": "kantara-west",
+      "name_long_ar": "القنطرة غرب، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "89",
+      "name_ar": "فايد",
+      "name_en": "fayed",
+      "name_long_ar": "فايد، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "162",
+      "name_ar": "مدينة الإسماعيلية",
+      "name_en": "ismailia-city",
+      "name_long_ar": "مدينة الإسماعيلية، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "179",
+      "name_ar": "الغردقة - أخرى",
+      "name_en": "hurghada",
+      "name_long_ar": "الغردقة - أخرى، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "409",
+      "name_ar": "الغردقة - الجونة",
+      "name_en": "hurghada-gouna",
+      "name_long_ar": "الغردقة - الجونة، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "181",
+      "name_ar": "القصير",
+      "name_en": "qusair",
+      "name_long_ar": "القصير، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "180",
+      "name_ar": "رأس غارب",
+      "name_en": "ras-gharib",
+      "name_long_ar": "رأس غارب، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "182",
+      "name_ar": "سفاجا",
+      "name_en": "safaga",
+      "name_long_ar": "سفاجا، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "399",
+      "name_ar": "سهل حشيش",
+      "name_en": "sahl-hasheesh",
+      "name_long_ar": "سهل حشيش، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "184",
+      "name_ar": "شلاتين",
+      "name_en": "shalateen",
+      "name_long_ar": "شلاتين، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "183",
+      "name_ar": "مرسى علم",
+      "name_en": "marsa-alam",
+      "name_long_ar": "مرسى علم، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "378",
+      "name_ar": "أبو المطامير",
+      "name_en": "abuu-al-matamer",
+      "name_long_ar": "أبو المطامير، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "1",
+      "name_ar": "أبو حمص",
+      "name_en": "abou-homs",
+      "name_long_ar": "أبو حمص، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "8",
+      "name_ar": "إدكو",
+      "name_en": "edko",
+      "name_long_ar": "إدكو، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "2",
+      "name_ar": "الدلنجات",
+      "name_en": "delengat",
+      "name_long_ar": "الدلنجات، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "4",
+      "name_ar": "الرحمانية",
+      "name_en": "rahmaniya",
+      "name_long_ar": "الرحمانية، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "3",
+      "name_ar": "المحمودية",
+      "name_en": "mahmoudiyah",
+      "name_long_ar": "المحمودية، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "127",
+      "name_ar": "النوبارية الجديدة",
+      "name_en": "nubariyah",
+      "name_long_ar": "النوبارية الجديدة، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "9",
+      "name_ar": "ايتاي البارود",
+      "name_en": "etay-al-barud",
+      "name_long_ar": "ايتاي البارود، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "5",
+      "name_ar": "بدر",
+      "name_en": "badr",
+      "name_long_ar": "بدر، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "7",
+      "name_ar": "حوش عيسى",
+      "name_en": "hosh-essa",
+      "name_long_ar": "حوش عيسى، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "6",
+      "name_ar": "دمنهور",
+      "name_en": "damanhour",
+      "name_long_ar": "دمنهور، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "12",
+      "name_ar": "رشيد",
+      "name_en": "rashid",
+      "name_long_ar": "رشيد، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "13",
+      "name_ar": "شبراخيت",
+      "name_en": "shubrakhit",
+      "name_long_ar": "شبراخيت، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "10",
+      "name_ar": "كفر الدوار",
+      "name_en": "kafr-al-dawwar",
+      "name_long_ar": "كفر الدوار، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "11",
+      "name_ar": "كوم حمادة",
+      "name_en": "kom-hamadah",
+      "name_long_ar": "كوم حمادة، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "14",
+      "name_ar": "وادي النطرون",
+      "name_en": "wadi-al-natrun",
+      "name_long_ar": "وادي النطرون، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "217",
+      "name_ar": "6 أكتوبر",
+      "name_en": "6th-of-october",
+      "name_long_ar": "6 أكتوبر، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "201",
+      "name_ar": "أبو رواش",
+      "name_en": "abu-rawash",
+      "name_long_ar": "أبو رواش، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "414",
+      "name_ar": "أرض اللواء",
+      "name_en": "ard-el-lewa",
+      "name_long_ar": "أرض اللواء، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "203",
+      "name_ar": "أوسيم",
+      "name_en": "oseem",
+      "name_long_ar": "أوسيم، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "197",
+      "name_ar": "إمبابة",
+      "name_en": "imbaba",
+      "name_long_ar": "إمبابة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "227",
+      "name_ar": "البدرشين",
+      "name_en": "badrasheen",
+      "name_long_ar": "البدرشين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "200",
+      "name_ar": "البراجيل",
+      "name_en": "baragil",
+      "name_long_ar": "البراجيل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "223",
+      "name_ar": "الحرانية",
+      "name_en": "haraneya",
+      "name_long_ar": "الحرانية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "224",
+      "name_ar": "الحوامدية",
+      "name_en": "hawamdeya",
+      "name_long_ar": "الحوامدية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "210",
+      "name_ar": "الدقى",
+      "name_en": "dokki",
+      "name_long_ar": "الدقى، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "231",
+      "name_ar": "الرماية",
+      "name_en": "remaia",
+      "name_long_ar": "الرماية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "205",
+      "name_ar": "الشيخ زايد",
+      "name_en": "sheikh-zayed",
+      "name_long_ar": "الشيخ زايد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "232",
+      "name_ar": "الصحفيين",
+      "name_en": "sahafieen",
+      "name_long_ar": "الصحفيين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "229",
+      "name_ar": "الصف",
+      "name_en": "saf",
+      "name_long_ar": "الصف، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "195",
+      "name_ar": "العجوزة",
+      "name_en": "agouza",
+      "name_long_ar": "العجوزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "225",
+      "name_ar": "العزيزية",
+      "name_en": "azizia",
+      "name_long_ar": "العزيزية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "214",
+      "name_ar": "العمرانية",
+      "name_en": "omrania",
+      "name_long_ar": "العمرانية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "411",
+      "name_ar": "العياط",
+      "name_en": "el-ayyat",
+      "name_long_ar": "العياط، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "220",
+      "name_ar": "القرية الفرعونية",
+      "name_en": "pharaonic-village",
+      "name_long_ar": "القرية الفرعونية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "196",
+      "name_ar": "الكيت كات",
+      "name_en": "kit-kat",
+      "name_long_ar": "الكيت كات، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "204",
+      "name_ar": "المنصورية",
+      "name_en": "mansuriyya",
+      "name_long_ar": "المنصورية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "221",
+      "name_ar": "المنيب",
+      "name_en": "moneeb",
+      "name_long_ar": "المنيب، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "194",
+      "name_ar": "المهندسين",
+      "name_en": "mohandessin",
+      "name_long_ar": "المهندسين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "212",
+      "name_ar": "الهرم",
+      "name_en": "haram",
+      "name_long_ar": "الهرم، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "198",
+      "name_ar": "الوراق",
+      "name_en": "warraq",
+      "name_long_ar": "الوراق، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "199",
+      "name_ar": "بشتيل",
+      "name_en": "bashtil",
+      "name_long_ar": "بشتيل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "394",
+      "name_ar": "بني سلامة",
+      "name_en": "bani-salamah",
+      "name_long_ar": "بني سلامة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "208",
+      "name_ar": "بولاق الدكرور",
+      "name_en": "boulaq-dakrour",
+      "name_long_ar": "بولاق الدكرور، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "222",
+      "name_ar": "ترسا",
+      "name_en": "tersa",
+      "name_long_ar": "ترسا، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "219",
+      "name_ar": "جزيرة الدهب وكولدير",
+      "name_en": "dahab-island-and-coldair",
+      "name_long_ar": "جزيرة الدهب وكولدير، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "230",
+      "name_ar": "حدائق الاهرام",
+      "name_en": "hadayek-al-ahram",
+      "name_long_ar": "حدائق الاهرام، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "211",
+      "name_ar": "حى الجيزة",
+      "name_en": "giza-district",
+      "name_long_ar": "حى الجيزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "228",
+      "name_ar": "دهشور",
+      "name_en": "dahshur",
+      "name_long_ar": "دهشور، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "218",
+      "name_ar": "ساقية مكى",
+      "name_en": "sakyet-mekky",
+      "name_long_ar": "ساقية مكى، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "226",
+      "name_ar": "سقارة",
+      "name_en": "saqqara",
+      "name_long_ar": "سقارة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "216",
+      "name_ar": "سوق الأحد",
+      "name_en": "souk-al-ahad",
+      "name_long_ar": "سوق الأحد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "207",
+      "name_ar": "صفط",
+      "name_en": "saft",
+      "name_long_ar": "صفط، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "413",
+      "name_ar": "غرب سوميد",
+      "name_en": "west-somid",
+      "name_long_ar": "غرب سوميد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "213",
+      "name_ar": "فيصل",
+      "name_en": "faisal",
+      "name_long_ar": "فيصل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "202",
+      "name_ar": "كرداسة",
+      "name_en": "kerdasa",
+      "name_long_ar": "كرداسة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "215",
+      "name_ar": "كفر طهرمس",
+      "name_en": "kafr-tohormos",
+      "name_long_ar": "كفر طهرمس، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "233",
+      "name_ar": "مركز الجيزة",
+      "name_en": "markaz-al-giza",
+      "name_long_ar": "مركز الجيزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "384",
+      "name_ar": "مريوطية",
+      "name_en": "maryotaya",
+      "name_long_ar": "مريوطية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "209",
+      "name_ar": "ميت عقبة",
+      "name_en": "mit-oqba",
+      "name_long_ar": "ميت عقبة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "206",
+      "name_ar": "ناهيا",
+      "name_en": "nahia",
+      "name_long_ar": "ناهيا، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "395",
+      "name_ar": "وردان",
+      "name_en": "wardan",
+      "name_long_ar": "وردان، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "363",
+      "name_ar": "أجا",
+      "name_en": "aga",
+      "name_long_ar": "أجا، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "158",
+      "name_ar": "أخطاب",
+      "name_en": "akhtab",
+      "name_long_ar": "أخطاب، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "364",
+      "name_ar": "الجمالية",
+      "name_en": "gamaleya",
+      "name_long_ar": "الجمالية، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "368",
+      "name_ar": "السنبلاوين",
+      "name_en": "sinbillawain",
+      "name_long_ar": "السنبلاوين، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "367",
+      "name_ar": "المطرية",
+      "name_en": "matareya",
+      "name_long_ar": "المطرية، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "366",
+      "name_ar": "المنزلة",
+      "name_en": "manzala",
+      "name_long_ar": "المنزلة، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "365",
+      "name_ar": "المنصورة",
+      "name_en": "mansura",
+      "name_long_ar": "المنصورة، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "370",
+      "name_ar": "بلقاس",
+      "name_en": "belqas",
+      "name_long_ar": "بلقاس، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "369",
+      "name_ar": "بني عبيد",
+      "name_en": "bani-ubayd",
+      "name_long_ar": "بني عبيد، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "157",
+      "name_ar": "تمى الامديد",
+      "name_en": "tama-al-amdeed",
+      "name_long_ar": "تمى الامديد، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "159",
+      "name_ar": "جمصه",
+      "name_en": "gamasa",
+      "name_long_ar": "جمصه، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "371",
+      "name_ar": "دكرنس",
+      "name_en": "dikirnis",
+      "name_long_ar": "دكرنس، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "376",
+      "name_ar": "شربين",
+      "name_en": "shirbin",
+      "name_long_ar": "شربين، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "377",
+      "name_ar": "طلخا",
+      "name_en": "talkha",
+      "name_long_ar": "طلخا، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "372",
+      "name_ar": "منية النصر",
+      "name_en": "minat-al-nasr",
+      "name_long_ar": "منية النصر، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "374",
+      "name_ar": "ميت سلسيل",
+      "name_en": "mit-slseel",
+      "name_long_ar": "ميت سلسيل، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "373",
+      "name_ar": "ميت غمر",
+      "name_en": "mit-ghamr",
+      "name_long_ar": "ميت غمر، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "375",
+      "name_ar": "نبروه",
+      "name_en": "nabaruh",
+      "name_long_ar": "نبروه، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "79",
+      "name_ar": "العين السخنة",
+      "name_en": "ain-sukhna",
+      "name_long_ar": "العين السخنة، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "78",
+      "name_ar": "حى الجناين",
+      "name_en": "ganayen",
+      "name_long_ar": "حى الجناين، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "94",
+      "name_ar": "حي الأربعين",
+      "name_en": "arbaeen",
+      "name_long_ar": "حي الأربعين، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "165",
+      "name_ar": "حي السويس",
+      "name_en": "suez-district",
+      "name_long_ar": "حي السويس، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "77",
+      "name_ar": "حي عتاقة",
+      "name_en": "attaka",
+      "name_long_ar": "حي عتاقة، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "166",
+      "name_ar": "فيصل",
+      "name_en": "faisal",
+      "name_long_ar": "فيصل، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "26",
+      "name_ar": "أبو حماد",
+      "name_en": "abu-hammad",
+      "name_long_ar": "أبو حماد، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "27",
+      "name_ar": "أبو كبير",
+      "name_en": "abu-kabir",
+      "name_long_ar": "أبو كبير، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "33",
+      "name_ar": "أولاد صقر",
+      "name_en": "awlad-saqr",
+      "name_long_ar": "أولاد صقر، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "29",
+      "name_ar": "الإبراهيمية",
+      "name_en": "ibrahemyah",
+      "name_long_ar": "الإبراهيمية، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "28",
+      "name_ar": "الحسينية",
+      "name_en": "husseiniya",
+      "name_long_ar": "الحسينية، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "34",
+      "name_ar": "الزقازيق",
+      "name_en": "zagazig",
+      "name_long_ar": "الزقازيق، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "32",
+      "name_ar": "الصالحية الجديدة",
+      "name_en": "new-salhia",
+      "name_long_ar": "الصالحية الجديدة، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "40",
+      "name_ar": "العاشر من رمضان",
+      "name_en": "10th-of-ramadan",
+      "name_long_ar": "العاشر من رمضان، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "31",
+      "name_ar": "القرين",
+      "name_en": "qareen",
+      "name_long_ar": "القرين، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "30",
+      "name_ar": "القنايات",
+      "name_en": "alqnayat",
+      "name_long_ar": "القنايات، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "35",
+      "name_ar": "بلبيس",
+      "name_en": "bilbeis",
+      "name_long_ar": "بلبيس، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "36",
+      "name_ar": "ديرب نجم",
+      "name_en": "deyerb-negm",
+      "name_long_ar": "ديرب نجم، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "37",
+      "name_ar": "فاقوس",
+      "name_en": "faqous",
+      "name_long_ar": "فاقوس، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "39",
+      "name_ar": "كفر صقر",
+      "name_en": "kafr-saqr",
+      "name_long_ar": "كفر صقر، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "41",
+      "name_ar": "مشتول السوق",
+      "name_en": "mashtool-al-souk",
+      "name_long_ar": "مشتول السوق، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "42",
+      "name_ar": "منيا القمح",
+      "name_en": "minya-al-qamh",
+      "name_long_ar": "منيا القمح، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "38",
+      "name_ar": "ههيا",
+      "name_en": "hihya",
+      "name_long_ar": "ههيا، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "83",
+      "name_ar": "السنطة",
+      "name_en": "santa",
+      "name_long_ar": "السنطة، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "87",
+      "name_ar": "المحلة الكبرى",
+      "name_en": "mahalla-al-kobra",
+      "name_long_ar": "المحلة الكبرى، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "85",
+      "name_ar": "بسيون",
+      "name_en": "basyoun",
+      "name_long_ar": "بسيون، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "84",
+      "name_ar": "زفتى",
+      "name_en": "zefta",
+      "name_long_ar": "زفتى، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "81",
+      "name_ar": "سمنود",
+      "name_en": "samanoud",
+      "name_long_ar": "سمنود، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "80",
+      "name_ar": "طنطا",
+      "name_en": "tanta",
+      "name_long_ar": "طنطا، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "82",
+      "name_ar": "قطور",
+      "name_en": "qutour",
+      "name_long_ar": "قطور، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "86",
+      "name_ar": "كفر الزيات",
+      "name_en": "kafr-al-zayat",
+      "name_long_ar": "كفر الزيات، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "73",
+      "name_ar": "أطسا",
+      "name_en": "atssa",
+      "name_long_ar": "أطسا، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "72",
+      "name_ar": "إبشواي",
+      "name_en": "ibshway",
+      "name_long_ar": "إبشواي، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "160",
+      "name_ar": "الفيوم الجديدة",
+      "name_en": "new-fayoum",
+      "name_long_ar": "الفيوم الجديدة، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "75",
+      "name_ar": "سنورس",
+      "name_en": "sinnuras",
+      "name_long_ar": "سنورس، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "76",
+      "name_ar": "طامية",
+      "name_en": "tamiya",
+      "name_long_ar": "طامية، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "74",
+      "name_ar": "مدينة الفيوم",
+      "name_en": "fayoum-city",
+      "name_long_ar": "مدينة الفيوم، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "161",
+      "name_ar": "يوسف الصديق",
+      "name_en": "yusuf-al-sadiq",
+      "name_long_ar": "يوسف الصديق، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "397",
+      "name_ar": "الأميرية",
+      "name_en": "al-amiriyyah",
+      "name_long_ar": "الأميرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "143",
+      "name_ar": "البساتين",
+      "name_en": "basateen",
+      "name_long_ar": "البساتين، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "146",
+      "name_ar": "التبين",
+      "name_en": "tebeen",
+      "name_long_ar": "التبين، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "388",
+      "name_ar": "التجمع الثالث",
+      "name_en": "the-3rd-district",
+      "name_long_ar": "التجمع الثالث، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "154",
+      "name_ar": "الجمالية",
+      "name_en": "gamaleya",
+      "name_long_ar": "الجمالية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "360",
+      "name_ar": "الحلمية",
+      "name_en": "helmeya",
+      "name_long_ar": "الحلمية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "153",
+      "name_ar": "الحلمية الجديدة",
+      "name_en": "helmeya-al-gadeda",
+      "name_long_ar": "الحلمية الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "148",
+      "name_ar": "الخليفة",
+      "name_en": "khalifa",
+      "name_long_ar": "الخليفة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "155",
+      "name_ar": "الدراسة",
+      "name_en": "darrasa",
+      "name_long_ar": "الدراسة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "151",
+      "name_ar": "الدرب الأحمر",
+      "name_en": "darb-al-ahmar",
+      "name_long_ar": "الدرب الأحمر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "291",
+      "name_ar": "الروضة",
+      "name_en": "roda",
+      "name_long_ar": "الروضة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "136",
+      "name_ar": "الزاوية الحمراء",
+      "name_en": "zawya-al-hamra",
+      "name_long_ar": "الزاوية الحمراء، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "289",
+      "name_ar": "الزمالك",
+      "name_en": "zamalek",
+      "name_long_ar": "الزمالك، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "140",
+      "name_ar": "الزيتون",
+      "name_en": "zaytoun",
+      "name_long_ar": "الزيتون، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "135",
+      "name_ar": "الساحل",
+      "name_en": "sahel",
+      "name_long_ar": "الساحل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "150",
+      "name_ar": "السيدة زينب",
+      "name_en": "sayeda-zeinab",
+      "name_long_ar": "السيدة زينب، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "137",
+      "name_ar": "الشرابية",
+      "name_en": "sharabeya",
+      "name_long_ar": "الشرابية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "324",
+      "name_ar": "العاشر من رمضان",
+      "name_en": "10th-ramadan-city",
+      "name_long_ar": "العاشر من رمضان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "408",
+      "name_ar": "العاصمة الإدارية الجديدة",
+      "name_en": "new-capital-city",
+      "name_long_ar": "العاصمة الإدارية الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "292",
+      "name_ar": "العباسية",
+      "name_en": "abasiya",
+      "name_long_ar": "العباسية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "319",
+      "name_ar": "العبور",
+      "name_en": "obour-city",
+      "name_long_ar": "العبور، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "152",
+      "name_ar": "العتبة",
+      "name_en": "ataba",
+      "name_long_ar": "العتبة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "400",
+      "name_ar": "القاهرة - أخرى",
+      "name_en": "cairooo",
+      "name_long_ar": "القاهرة - أخرى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "288",
+      "name_ar": "القاهرة الجديدة - أخرى",
+      "name_en": "new-cairo",
+      "name_long_ar": "القاهرة الجديدة - أخرى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "406",
+      "name_ar": "القاهرة الجديدة - الأندلس",
+      "name_en": "new-cairo-andalous",
+      "name_long_ar": "القاهرة الجديدة - الأندلس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "379",
+      "name_ar": "القاهرة الجديدة - التجمع الأول",
+      "name_en": "First-Settlement",
+      "name_long_ar": "القاهرة الجديدة - التجمع الأول، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "156",
+      "name_ar": "القاهرة الجديدة - التجمع الخامس",
+      "name_en": "fifth-settlement",
+      "name_long_ar": "القاهرة الجديدة - التجمع الخامس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "407",
+      "name_ar": "القاهرة الجديدة - لوتس",
+      "name_en": "new-cairo-lotus",
+      "name_long_ar": "القاهرة الجديدة - لوتس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "287",
+      "name_ar": "القاهرة الجديدة - مدينة الرحاب",
+      "name_en": "rehab-city",
+      "name_long_ar": "القاهرة الجديدة - مدينة الرحاب، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "286",
+      "name_ar": "القطامية",
+      "name_en": "katameya",
+      "name_long_ar": "القطامية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "401",
+      "name_ar": "الماظة",
+      "name_en": "almazah",
+      "name_long_ar": "الماظة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "131",
+      "name_ar": "المرج",
+      "name_en": "marg",
+      "name_long_ar": "المرج، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "132",
+      "name_ar": "المطرية",
+      "name_en": "matareya",
+      "name_long_ar": "المطرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "322",
+      "name_ar": "المعادي",
+      "name_en": "maadi",
+      "name_long_ar": "المعادي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "145",
+      "name_ar": "المعصره",
+      "name_en": "ma-sara",
+      "name_long_ar": "المعصره، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "269",
+      "name_ar": "المقطم",
+      "name_en": "mokattam",
+      "name_long_ar": "المقطم، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "141",
+      "name_ar": "المنيرة الجديدة",
+      "name_en": "mounira-al-gadeda",
+      "name_long_ar": "المنيرة الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "389",
+      "name_ar": "المنيل",
+      "name_en": "al-manial",
+      "name_long_ar": "المنيل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "147",
+      "name_ar": "الموسكي",
+      "name_en": "moski",
+      "name_long_ar": "الموسكي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "333",
+      "name_ar": "النزهة",
+      "name_en": "nozha-cairo",
+      "name_long_ar": "النزهة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "130",
+      "name_ar": "الوايلي",
+      "name_en": "waili",
+      "name_long_ar": "الوايلي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "149",
+      "name_ar": "باب الشعرية",
+      "name_en": "bab-al-shereia",
+      "name_long_ar": "باب الشعرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "128",
+      "name_ar": "بولاق",
+      "name_en": "boulaq",
+      "name_long_ar": "بولاق، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "402",
+      "name_ar": "بيت الوطن",
+      "name_en": "bait-el-watan",
+      "name_long_ar": "بيت الوطن، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "129",
+      "name_ar": "جاردن سيتي",
+      "name_en": "garden-city",
+      "name_long_ar": "جاردن سيتي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "139",
+      "name_ar": "حدائق القبة",
+      "name_en": "hadayek-al-kobba",
+      "name_long_ar": "حدائق القبة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "391",
+      "name_ar": "حدائق حلوان",
+      "name_en": "hadayek-helwan",
+      "name_long_ar": "حدائق حلوان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "321",
+      "name_ar": "حلوان",
+      "name_en": "helwan",
+      "name_long_ar": "حلوان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "144",
+      "name_ar": "دار السلام",
+      "name_en": "dar-al-salaam",
+      "name_long_ar": "دار السلام، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "275",
+      "name_ar": "رمسيس و امتداد رمسيس",
+      "name_en": "ramses-ramses-extension",
+      "name_long_ar": "رمسيس و امتداد رمسيس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "138",
+      "name_ar": "روض الفرج",
+      "name_en": "rod-al-farag",
+      "name_long_ar": "روض الفرج، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "398",
+      "name_ar": "زهراء المعادى",
+      "name_en": "zahraa-al-maadi",
+      "name_long_ar": "زهراء المعادى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "134",
+      "name_ar": "شبرا",
+      "name_en": "shubra",
+      "name_long_ar": "شبرا، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "380",
+      "name_ar": "شيراتون",
+      "name_en": "Sheraton",
+      "name_long_ar": "شيراتون، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "323",
+      "name_ar": "طرة",
+      "name_en": "tura",
+      "name_long_ar": "طرة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "386",
+      "name_ar": "عزبة النخل",
+      "name_en": "izbat-an-nakhl",
+      "name_long_ar": "عزبة النخل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "359",
+      "name_ar": "عين شمس",
+      "name_en": "ain-shams",
+      "name_long_ar": "عين شمس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "290",
+      "name_ar": "قصر النيل",
+      "name_en": "qasr-al-nil",
+      "name_long_ar": "قصر النيل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "383",
+      "name_ar": "مدينة 15 مايو",
+      "name_en": "15-may-city",
+      "name_long_ar": "مدينة 15 مايو، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "133",
+      "name_ar": "مدينة السلام",
+      "name_en": "salam-city",
+      "name_long_ar": "مدينة السلام، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "320",
+      "name_ar": "مدينة الشروق",
+      "name_en": "shorouk-city",
+      "name_long_ar": "مدينة الشروق، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "385",
+      "name_ar": "مدينة المستقبل",
+      "name_en": "future-city",
+      "name_long_ar": "مدينة المستقبل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "382",
+      "name_ar": "مدينة بدر",
+      "name_en": "Badr-City",
+      "name_long_ar": "مدينة بدر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "332",
+      "name_ar": "مدينة نصر",
+      "name_en": "nasr-city",
+      "name_long_ar": "مدينة نصر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "381",
+      "name_ar": "مدينتي",
+      "name_en": "Madinaty",
+      "name_long_ar": "مدينتي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "415",
+      "name_ar": "مسطرد",
+      "name_en": "musturad",
+      "name_long_ar": "مسطرد، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "263",
+      "name_ar": "مصر الجديدة",
+      "name_en": "heliopolis",
+      "name_long_ar": "مصر الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "142",
+      "name_ar": "مصر القديمة",
+      "name_en": "masr-al-kadema",
+      "name_long_ar": "مصر القديمة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "393",
+      "name_ar": "هليوبوليس الجديدة",
+      "name_en": "new-heliopolis",
+      "name_long_ar": "هليوبوليس الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "295",
+      "name_ar": "وسط القاهرة",
+      "name_en": "downtown-cairo",
+      "name_long_ar": "وسط القاهرة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "15",
+      "name_ar": "الخانكة",
+      "name_en": "khanka",
+      "name_long_ar": "الخانكة، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "16",
+      "name_ar": "الخصوص",
+      "name_en": "khosous",
+      "name_long_ar": "الخصوص، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "18",
+      "name_ar": "العبور",
+      "name_en": "el-ubour",
+      "name_long_ar": "العبور، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "17",
+      "name_ar": "القناطر الخيرية",
+      "name_en": "qanater-al-khairia",
+      "name_long_ar": "القناطر الخيرية، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "19",
+      "name_ar": "بنها",
+      "name_en": "banha",
+      "name_long_ar": "بنها، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "164",
+      "name_ar": "بهتيم",
+      "name_en": "bahtim",
+      "name_long_ar": "بهتيم، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "410",
+      "name_ar": "زاويه النجار",
+      "name_en": "zawya-el-naggar",
+      "name_long_ar": "زاويه النجار، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "23",
+      "name_ar": "شبرا الخيمة",
+      "name_en": "shubra-al-khaimah",
+      "name_long_ar": "شبرا الخيمة، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "24",
+      "name_ar": "شبين القناطر",
+      "name_en": "shebin-al-qanater",
+      "name_long_ar": "شبين القناطر، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "25",
+      "name_ar": "طوخ",
+      "name_en": "tookh",
+      "name_long_ar": "طوخ، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "22",
+      "name_ar": "قليوب",
+      "name_en": "qalyub",
+      "name_long_ar": "قليوب، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "21",
+      "name_ar": "قها",
+      "name_en": "qaha",
+      "name_long_ar": "قها، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "20",
+      "name_ar": "كفر شكر",
+      "name_en": "kafr-shukr",
+      "name_long_ar": "كفر شكر، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "53",
+      "name_ar": "أشمون",
+      "name_en": "ashmon",
+      "name_long_ar": "أشمون، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "54",
+      "name_ar": "الباجور",
+      "name_en": "bagour",
+      "name_long_ar": "الباجور، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "57",
+      "name_ar": "السادات",
+      "name_en": "sadat",
+      "name_long_ar": "السادات، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "60",
+      "name_ar": "الشهداء",
+      "name_en": "shohadaa",
+      "name_long_ar": "الشهداء، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "55",
+      "name_ar": "بركة السبع",
+      "name_en": "berket-al-sabaa",
+      "name_long_ar": "بركة السبع، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "59",
+      "name_ar": "تلا",
+      "name_en": "tala",
+      "name_long_ar": "تلا، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "58",
+      "name_ar": "سرس الليان",
+      "name_en": "sers-al-lyan",
+      "name_long_ar": "سرس الليان، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "61",
+      "name_ar": "شبين الكوم",
+      "name_en": "shebin-al-koum",
+      "name_long_ar": "شبين الكوم، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "62",
+      "name_ar": "قويسنا",
+      "name_en": "quesna",
+      "name_long_ar": "قويسنا، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "56",
+      "name_ar": "منوف",
+      "name_en": "menouf",
+      "name_long_ar": "منوف، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "405",
+      "name_ar": "ميت العز",
+      "name_en": "mit-el-ezz",
+      "name_long_ar": "ميت العز، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "52",
+      "name_ar": "أبو قرقاص",
+      "name_en": "abu-qurqas",
+      "name_long_ar": "أبو قرقاص، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "46",
+      "name_ar": "العدوة",
+      "name_en": "adwa",
+      "name_long_ar": "العدوة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "51",
+      "name_ar": "المنيا الجديدة",
+      "name_en": "new-minya",
+      "name_long_ar": "المنيا الجديدة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "43",
+      "name_ar": "بني مزار",
+      "name_en": "beni-mazar",
+      "name_long_ar": "بني مزار، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "44",
+      "name_ar": "دير مواس",
+      "name_en": "deir-mawas",
+      "name_long_ar": "دير مواس، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "45",
+      "name_ar": "سمالوط",
+      "name_en": "samalut",
+      "name_long_ar": "سمالوط، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "50",
+      "name_ar": "مدينة المنيا",
+      "name_en": "minya-city",
+      "name_long_ar": "مدينة المنيا، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "47",
+      "name_ar": "مطاي",
+      "name_en": "matay",
+      "name_long_ar": "مطاي، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "48",
+      "name_ar": "مغاغة",
+      "name_en": "maghagha",
+      "name_long_ar": "مغاغة، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "49",
+      "name_ar": "ملوي",
+      "name_en": "malawi",
+      "name_long_ar": "ملوي، المنيا",
+      "muhafaza_ar": "المنيا",
+      "muhafaza_en": "minya",
+      "muhafaza_id": 61
+    },
+    {
+      "id": "253",
+      "name_ar": "الخارجة",
+      "name_en": "kharga",
+      "name_long_ar": "الخارجة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "254",
+      "name_ar": "الداخلة",
+      "name_en": "dakhla",
+      "name_long_ar": "الداخلة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "258",
+      "name_ar": "الفرافرة",
+      "name_en": "farafra",
+      "name_long_ar": "الفرافرة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "255",
+      "name_ar": "باريس",
+      "name_en": "paris",
+      "name_long_ar": "باريس، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "257",
+      "name_ar": "بلاط",
+      "name_en": "balat",
+      "name_long_ar": "بلاط، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "256",
+      "name_ar": "مدينة موط",
+      "name_en": "mut",
+      "name_long_ar": "مدينة موط، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "237",
+      "name_ar": "إهناسيا",
+      "name_en": "ehnasia",
+      "name_long_ar": "إهناسيا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "240",
+      "name_ar": "الفشن",
+      "name_en": "al-feshn",
+      "name_long_ar": "الفشن، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "234",
+      "name_ar": "الواسطى",
+      "name_en": "al-wasty",
+      "name_long_ar": "الواسطى، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "238",
+      "name_ar": "ببا",
+      "name_en": "beba",
+      "name_long_ar": "ببا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "241",
+      "name_ar": "بني سويف الجديدة",
+      "name_en": "new-beni-suef",
+      "name_long_ar": "بني سويف الجديدة، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "239",
+      "name_ar": "سمسطا",
+      "name_en": "samasta",
+      "name_long_ar": "سمسطا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "235",
+      "name_ar": "مدينة بني سويف",
+      "name_en": "beni-suef-city",
+      "name_long_ar": "مدينة بني سويف، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "236",
+      "name_ar": "ناصر",
+      "name_en": "nasser",
+      "name_long_ar": "ناصر، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "325",
+      "name_ar": "حي الجنوب",
+      "name_en": "ganoub-district",
+      "name_long_ar": "حي الجنوب، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "326",
+      "name_ar": "حي الزهور",
+      "name_en": "zohour-district",
+      "name_long_ar": "حي الزهور، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "328",
+      "name_ar": "حي الشرق",
+      "name_en": "sharq-district",
+      "name_long_ar": "حي الشرق، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "327",
+      "name_ar": "حي الضواحي",
+      "name_en": "dawahy-district",
+      "name_long_ar": "حي الضواحي، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "330",
+      "name_ar": "حي العرب",
+      "name_en": "arab-district",
+      "name_long_ar": "حي العرب، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "329",
+      "name_ar": "حي المناخ",
+      "name_en": "manakh-district",
+      "name_long_ar": "حي المناخ، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "331",
+      "name_ar": "مدينة بورفؤاد",
+      "name_en": "port-fouad",
+      "name_long_ar": "مدينة بورفؤاد، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "193",
+      "name_ar": "أبو رديس",
+      "name_en": "abu-rudeis",
+      "name_long_ar": "أبو رديس، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "192",
+      "name_ar": "أبو زنيمة",
+      "name_en": "abu-zenimah",
+      "name_long_ar": "أبو زنيمة، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "187",
+      "name_ar": "دهب",
+      "name_en": "dahab",
+      "name_long_ar": "دهب، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "188",
+      "name_ar": "رأس سدر",
+      "name_en": "ras-sidr",
+      "name_long_ar": "رأس سدر، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "396",
+      "name_ar": "راس سدر",
+      "name_en": "ras-sedr",
+      "name_long_ar": "راس سدر، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "190",
+      "name_ar": "سانت كاترين",
+      "name_en": "st-catherine",
+      "name_long_ar": "سانت كاترين، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "189",
+      "name_ar": "شرم الشيخ",
+      "name_en": "sharm-al-sheikh",
+      "name_long_ar": "شرم الشيخ، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "185",
+      "name_ar": "طابا",
+      "name_en": "taba",
+      "name_long_ar": "طابا، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "191",
+      "name_ar": "طور سيناء",
+      "name_en": "tor-sinai",
+      "name_long_ar": "طور سيناء، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "186",
+      "name_ar": "نويبع",
+      "name_en": "nuweiba",
+      "name_long_ar": "نويبع، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "250",
+      "name_ar": "الروضة",
+      "name_en": "rodah",
+      "name_long_ar": "الروضة، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "251",
+      "name_ar": "الزرقا",
+      "name_en": "zarqa",
+      "name_long_ar": "الزرقا، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "252",
+      "name_ar": "السرو",
+      "name_en": "saro",
+      "name_long_ar": "السرو، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "245",
+      "name_ar": "دمياط الجديدة",
+      "name_en": "new-damietta",
+      "name_long_ar": "دمياط الجديدة، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "243",
+      "name_ar": "رأس البر",
+      "name_en": "ras-al-bar",
+      "name_long_ar": "رأس البر، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "244",
+      "name_ar": "عزبة البرج",
+      "name_en": "ezbet-al-burj",
+      "name_long_ar": "عزبة البرج، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "249",
+      "name_ar": "فارسكور",
+      "name_en": "fareskour",
+      "name_long_ar": "فارسكور، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "247",
+      "name_ar": "كفر البطيخ",
+      "name_en": "kafr-al-bateekh",
+      "name_long_ar": "كفر البطيخ، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "246",
+      "name_ar": "كفر سعد",
+      "name_en": "kafr-saad",
+      "name_long_ar": "كفر سعد، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "242",
+      "name_ar": "مدينة دمياط",
+      "name_en": "damietta-city",
+      "name_long_ar": "مدينة دمياط، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "248",
+      "name_ar": "ميت أبوغالب",
+      "name_en": "mit-abughalb",
+      "name_long_ar": "ميت أبوغالب، دمياط",
+      "muhafaza_ar": "دمياط",
+      "muhafaza_en": "dameitta",
+      "muhafaza_id": 73
+    },
+    {
+      "id": "316",
+      "name_ar": "أخميم",
+      "name_en": "akhmim",
+      "name_long_ar": "أخميم، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "276",
+      "name_ar": "البلينا",
+      "name_en": "baliana",
+      "name_long_ar": "البلينا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "285",
+      "name_ar": "العسيرات",
+      "name_en": "alasirat",
+      "name_long_ar": "العسيرات، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "283",
+      "name_ar": "المراغة",
+      "name_en": "maragha",
+      "name_long_ar": "المراغة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "284",
+      "name_ar": "المنشاة",
+      "name_en": "monsha-a",
+      "name_long_ar": "المنشاة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "277",
+      "name_ar": "جرجا",
+      "name_en": "girga",
+      "name_long_ar": "جرجا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "279",
+      "name_ar": "جهينة",
+      "name_en": "juhaynah",
+      "name_long_ar": "جهينة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "278",
+      "name_ar": "دارالسلام",
+      "name_en": "dar-es-salam",
+      "name_long_ar": "دارالسلام، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "280",
+      "name_ar": "ساقلتة",
+      "name_en": "sakaltah",
+      "name_long_ar": "ساقلتة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "281",
+      "name_ar": "طما",
+      "name_en": "tama",
+      "name_long_ar": "طما، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "282",
+      "name_ar": "طهطا",
+      "name_en": "tahta",
+      "name_long_ar": "طهطا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "274",
+      "name_ar": "مدينة سوهاج",
+      "name_en": "sohag-city",
+      "name_long_ar": "مدينة سوهاج، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "262",
+      "name_ar": "الحسنة",
+      "name_en": "hasana",
+      "name_long_ar": "الحسنة، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "293",
+      "name_ar": "الشيخ زويد",
+      "name_en": "sheikh-zoweyd",
+      "name_long_ar": "الشيخ زويد، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "259",
+      "name_ar": "العريش",
+      "name_en": "arish",
+      "name_long_ar": "العريش، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "260",
+      "name_ar": "بئر العبد",
+      "name_en": "bir-al-abed",
+      "name_long_ar": "بئر العبد، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "264",
+      "name_ar": "رفح",
+      "name_en": "rafah",
+      "name_long_ar": "رفح، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "261",
+      "name_ar": "نخل",
+      "name_en": "nakhl",
+      "name_long_ar": "نخل، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "266",
+      "name_ar": "أبو تشت",
+      "name_en": "abu-tisht",
+      "name_long_ar": "أبو تشت، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "315",
+      "name_ar": "الوقف",
+      "name_en": "wakf",
+      "name_long_ar": "الوقف، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "270",
+      "name_ar": "شنا",
+      "name_en": "shna",
+      "name_long_ar": "شنا، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "267",
+      "name_ar": "فرشوط",
+      "name_en": "farshout",
+      "name_long_ar": "فرشوط، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "271",
+      "name_ar": "قفط",
+      "name_en": "keft",
+      "name_long_ar": "قفط، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "272",
+      "name_ar": "قوص",
+      "name_en": "quos",
+      "name_long_ar": "قوص، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "265",
+      "name_ar": "مدينة قنا",
+      "name_en": "qena-city",
+      "name_long_ar": "مدينة قنا، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "268",
+      "name_ar": "نجع حمادي",
+      "name_en": "nag-hammadi",
+      "name_long_ar": "نجع حمادي، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "273",
+      "name_ar": "نقادة",
+      "name_en": "nakada",
+      "name_long_ar": "نقادة، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "68",
+      "name_ar": "البرلس",
+      "name_en": "brolos",
+      "name_long_ar": "البرلس، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "67",
+      "name_ar": "الحامول",
+      "name_en": "hamoul",
+      "name_long_ar": "الحامول، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "70",
+      "name_ar": "الرياض",
+      "name_en": "riyadh",
+      "name_long_ar": "الرياض، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "392",
+      "name_ar": "بلطيم",
+      "name_en": "baltim",
+      "name_long_ar": "بلطيم، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "64",
+      "name_ar": "بيلا",
+      "name_en": "bella",
+      "name_long_ar": "بيلا، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "63",
+      "name_ar": "دسوق",
+      "name_en": "desouk",
+      "name_long_ar": "دسوق، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "69",
+      "name_ar": "سيدى سالم",
+      "name_en": "sidi-salem",
+      "name_long_ar": "سيدى سالم، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "71",
+      "name_ar": "فوه",
+      "name_en": "fouh",
+      "name_long_ar": "فوه، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "65",
+      "name_ar": "قلين",
+      "name_en": "qaleen",
+      "name_long_ar": "قلين، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "163",
+      "name_ar": "مدينة كفر الشيخ",
+      "name_en": "kafr-al-sheikh-city",
+      "name_long_ar": "مدينة كفر الشيخ، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "66",
+      "name_ar": "مطوبس",
+      "name_en": "motobas",
+      "name_long_ar": "مطوبس، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "171",
+      "name_ar": "الحمام",
+      "name_en": "hammam",
+      "name_long_ar": "الحمام، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "387",
+      "name_ar": "الساحل الشمالي",
+      "name_en": "north-coast",
+      "name_long_ar": "الساحل الشمالي، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "177",
+      "name_ar": "السلوم",
+      "name_en": "salloum",
+      "name_long_ar": "السلوم، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "173",
+      "name_ar": "الضبعة",
+      "name_en": "dabaa",
+      "name_long_ar": "الضبعة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "172",
+      "name_ar": "العلمين",
+      "name_en": "alamein",
+      "name_long_ar": "العلمين، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "175",
+      "name_ar": "النجيلة",
+      "name_en": "nagela",
+      "name_long_ar": "النجيلة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "176",
+      "name_ar": "براني",
+      "name_en": "barany",
+      "name_long_ar": "براني، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "178",
+      "name_ar": "سيوة",
+      "name_en": "siwa",
+      "name_long_ar": "سيوة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "403",
+      "name_ar": "مارينا العلمين",
+      "name_en": "marina-el-alamein",
+      "name_long_ar": "مارينا العلمين، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "174",
+      "name_ar": "مرسى مطروح",
+      "name_en": "marsa-matrouh",
+      "name_long_ar": "مرسى مطروح، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز مصر (Cities & Towns of Egypt) - تحميل مجاني",
+    "description": "قائمة وطنية بمدن ومراكز جمهورية مصر العربية موزعة على المحافظات الـ27، بأسمائها بالعربية والإنجليزية مع المحافظة الأم. National list of Egyptian cities and towns (markazes) across the 27 governorates, with Arabic and English names joined to the parent governorate. يحتوي على 414 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز مصر (Cities & Towns of Egypt) | ListBase",
+    "seo_description": "تحميل مدن ومراكز مصر (Cities & Towns of Egypt) — 414 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 414 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

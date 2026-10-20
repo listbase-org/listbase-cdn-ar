@@ -1,0 +1,296 @@
+{
+  "id": "ar-mudun-dominican-republic",
+  "name": "مدن جمهورية الدومينيكان — Cities of Dominican Republic (Arabic names)",
+  "title": "مدن جمهورية الدومينيكان — Cities of Dominican Republic (Arabic names)",
+  "description": "قائمة بأسماء مدن جمهورية الدومينيكان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 30 cities in Dominican Republic with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "سانتو دومينغو",
+      "name_en": "Santo Domingo",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 1128678
+    },
+    {
+      "id": 2,
+      "name_ar": "بلدية سانتو دومينغو ايست",
+      "name_en": "Santo Domingo Este",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 948855
+    },
+    {
+      "id": 3,
+      "name_ar": "بويرتو بلاتا",
+      "name_en": "Puerto Plata",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 318419
+    },
+    {
+      "id": 4,
+      "name_ar": "سان كريستوبال",
+      "name_en": "San Cristobal",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 232769
+    },
+    {
+      "id": 5,
+      "name_ar": "سان بيدرو دي ماكوريس",
+      "name_en": "San Pedro de Macoris",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 195307
+    },
+    {
+      "id": 6,
+      "name_ar": "سان فرانسيسكو دي ماكوريس",
+      "name_en": "San Francisco de Macoris",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 188118
+    },
+    {
+      "id": 7,
+      "name_ar": "بوكا تشيكا",
+      "name_en": "Boca Chica",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 142019
+    },
+    {
+      "id": 8,
+      "name_ar": "لا رومانا",
+      "name_en": "La Romana",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 139238
+    },
+    {
+      "id": 9,
+      "name_ar": "بَنتَنال",
+      "name_en": "Pantanal",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 138919
+    },
+    {
+      "id": 10,
+      "name_ar": "سان خوان ديل مونتي",
+      "name_en": "San Juan",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 132177
+    },
+    {
+      "id": 11,
+      "name_ar": "مقاطعة مونسينور نويل",
+      "name_en": "Bonao",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 125338
+    },
+    {
+      "id": 12,
+      "name_ar": "موزمبيق",
+      "name_en": "Moca",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 94981
+    },
+    {
+      "id": 13,
+      "name_ar": "بارانا",
+      "name_en": "Barahona",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 83619
+    },
+    {
+      "id": 14,
+      "name_ar": "ماو تسي تونغ",
+      "name_en": "Mao",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 76863
+    },
+    {
+      "id": 15,
+      "name_ar": "كوتويي",
+      "name_en": "Cotui",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 76554
+    },
+    {
+      "id": 16,
+      "name_ar": "مقاطعة إلسيبو",
+      "name_en": "El Seibo",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 66867
+    },
+    {
+      "id": 17,
+      "name_ar": "مقاطعة هاتو مايور",
+      "name_en": "Hato Mayor",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 61517
+    },
+    {
+      "id": 18,
+      "name_ar": "كونسويلو بيلاثكيث",
+      "name_en": "Consuelito",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 60000
+    },
+    {
+      "id": 19,
+      "name_ar": "سمانا",
+      "name_en": "Samana",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 58156
+    },
+    {
+      "id": 20,
+      "name_ar": "غيرا",
+      "name_en": "Guerra",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 43963
+    },
+    {
+      "id": 21,
+      "name_ar": "سان خوسيه دي اكوا",
+      "name_en": "San Jose de Ocoa",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 39451
+    },
+    {
+      "id": 22,
+      "name_ar": "محافظة مونتي بلاتا",
+      "name_en": "Monte Plata",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 37614
+    },
+    {
+      "id": 23,
+      "name_ar": "نيبا",
+      "name_en": "Neiba",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 36511
+    },
+    {
+      "id": 24,
+      "name_ar": "ماتنزاس",
+      "name_en": "Matanzas",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 35414
+    },
+    {
+      "id": 25,
+      "name_ar": "روفينو تامايو",
+      "name_en": "Tamayo",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 26772
+    },
+    {
+      "id": 26,
+      "name_ar": "محافظة مونتي كريستي",
+      "name_en": "Monte Cristi",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 24674
+    },
+    {
+      "id": 27,
+      "name_ar": "سانشيز",
+      "name_en": "Sanchez",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 24509
+    },
+    {
+      "id": 28,
+      "name_ar": "ريو غراندي دو سول",
+      "name_en": "Rio Grande",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 20154
+    },
+    {
+      "id": 29,
+      "name_ar": "التاميرا",
+      "name_en": "Altamira",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 18868
+    },
+    {
+      "id": 30,
+      "name_ar": "بيمنتل",
+      "name_en": "Pimentel",
+      "country_ar": "جمهورية الدومينيكان",
+      "country_en": "Dominican Republic",
+      "population": 17864
+    }
+  ],
+  "meta": {
+    "title": "مدن جمهورية الدومينيكان — Cities of Dominican Republic (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن جمهورية الدومينيكان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 30 cities in Dominican Republic with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 30 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن جمهورية الدومينيكان — Cities of Dominican Republic (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن جمهورية الدومينيكان — Cities of Dominican Republic (Arabic names) — 30 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 30 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

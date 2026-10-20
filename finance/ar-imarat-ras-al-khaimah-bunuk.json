@@ -1,0 +1,163 @@
+{
+  "id": "ar-imarat-ras-al-khaimah-bunuk",
+  "name": "بنوك Ras Al Khaimah — الإمارات العربية المتحدة — رموز سويفت (Banks of Ras Al Khaimah, United Arab Emirates — SWIFT/BIC codes)",
+  "title": "بنوك Ras Al Khaimah — الإمارات العربية المتحدة — رموز سويفت (Banks of Ras Al Khaimah, United Arab Emirates — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ras Al Khaimah (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Ras Al Khaimah, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK PLC",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMAH BRANCH)",
+      "swift_code": "ARABAEADRAK"
+    },
+    {
+      "id": 2,
+      "bank": "BANK MELLI IRAN",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMAH BRANCH)",
+      "swift_code": "MELIAEADRAK"
+    },
+    {
+      "id": 3,
+      "bank": "BANK OF BARODA",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMAH BRANCH)",
+      "swift_code": "BARBAEADRAK"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE MISR",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS ELKHEMA BRANCH)",
+      "swift_code": "BCAIAEAA805"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(AL MANAR MALL BRANCH)",
+      "swift_code": "CLBIAEADRK2"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMAH BRANCH)",
+      "swift_code": "CLBIAEADRK1"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "CLBIAEA10AR"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMAH BRANCH)",
+      "swift_code": "CBDUAEADRAK"
+    },
+    {
+      "id": 9,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(OMAN STREET BRANCH)",
+      "swift_code": "MEBLAEADROS"
+    },
+    {
+      "id": 10,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(AL NAKHEEL BRANCH)",
+      "swift_code": "NBADAEAANAK"
+    },
+    {
+      "id": 11,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "RAS AL KHAIMAH",
+      "branch": "(RAS AL KHAIMA BRANCH)",
+      "swift_code": "NBADAEAARAK"
+    },
+    {
+      "id": 12,
+      "bank": "GRIMALDI LTD.",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "GRIIAEA1"
+    },
+    {
+      "id": 13,
+      "bank": "GWS MIDDLE EAST FZE",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "GMEFAEA1"
+    },
+    {
+      "id": 14,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "BBMEAEADRKS"
+    },
+    {
+      "id": 15,
+      "bank": "KATOTA INVESTMENT SECTOR FZE",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "KISFAEA1"
+    },
+    {
+      "id": 16,
+      "bank": "NATIONAL BANK OF RAS AL-KHAIMAH, THE",
+      "city": "RAS AL KHAIMAH",
+      "branch": "",
+      "swift_code": "NRAKAEAK"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Ras Al Khaimah — الإمارات العربية المتحدة — رموز سويفت (Banks of Ras Al Khaimah, United Arab Emirates — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ras Al Khaimah (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Ras Al Khaimah, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT). يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Ras Al Khaimah — الإمارات العربية المتحدة — رموز سويفت (Banks of Ras Al Khaimah, United Arab Emirates — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Ras Al Khaimah — الإمارات العربية المتحدة — رموز سويفت (Banks of Ras Al Khaimah, United Arab Emirates — SWIFT/BIC codes) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

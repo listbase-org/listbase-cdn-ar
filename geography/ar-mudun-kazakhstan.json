@@ -1,0 +1,472 @@
+{
+  "id": "ar-mudun-kazakhstan",
+  "name": "مدن كازاخستان — Cities of Kazakhstan (Arabic names)",
+  "title": "مدن كازاخستان — Cities of Kazakhstan (Arabic names)",
+  "description": "قائمة بأسماء مدن كازاخستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Kazakhstan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ألماطة",
+      "name_en": "Almaty",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 2228675
+    },
+    {
+      "id": 2,
+      "name_ar": "شيمكنت",
+      "name_en": "Shymkent",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 1184113
+    },
+    {
+      "id": 3,
+      "name_ar": "أستانة",
+      "name_en": "Astana",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 1078362
+    },
+    {
+      "id": 4,
+      "name_ar": "كارقندا",
+      "name_en": "Qaraghandy",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 515632
+    },
+    {
+      "id": 5,
+      "name_ar": "أوسكمان",
+      "name_en": "Oskemen",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 400142
+    },
+    {
+      "id": 6,
+      "name_ar": "أكتوبي",
+      "name_en": "Aqtobe",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 387807
+    },
+    {
+      "id": 7,
+      "name_ar": "تاراز",
+      "name_en": "Taraz",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 357795
+    },
+    {
+      "id": 8,
+      "name_ar": "سيماي",
+      "name_en": "Semey",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 350201
+    },
+    {
+      "id": 9,
+      "name_ar": "بافلودار",
+      "name_en": "Pavlodar",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 343091
+    },
+    {
+      "id": 10,
+      "name_ar": "تركستان",
+      "name_en": "Turkistan",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 250000
+    },
+    {
+      "id": 11,
+      "name_ar": "كيزيلوردا",
+      "name_en": "Qyzylorda",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 242462
+    },
+    {
+      "id": 12,
+      "name_ar": "قوستاناي",
+      "name_en": "Qostanay",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 217135
+    },
+    {
+      "id": 13,
+      "name_ar": "بتروبافل",
+      "name_en": "Petropavl",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 201446
+    },
+    {
+      "id": 14,
+      "name_ar": "كوكشيتو",
+      "name_en": "Kokshetau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 193492
+    },
+    {
+      "id": 15,
+      "name_ar": "تميرتاو",
+      "name_en": "Temirtau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 185082
+    },
+    {
+      "id": 16,
+      "name_ar": "أكتاو",
+      "name_en": "Aqtau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 183350
+    },
+    {
+      "id": 17,
+      "name_ar": "إيكيباستوز",
+      "name_en": "Ekibastuz",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 159760
+    },
+    {
+      "id": 18,
+      "name_ar": "أتيراو",
+      "name_en": "Atyrau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 130916
+    },
+    {
+      "id": 19,
+      "name_ar": "جيزكازغان",
+      "name_en": "Zhezqazghan",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 90661
+    },
+    {
+      "id": 20,
+      "name_ar": "كنتاو",
+      "name_en": "Kentau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 81484
+    },
+    {
+      "id": 21,
+      "name_ar": "تالديكورغان",
+      "name_en": "Taldyqorghan",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 80000
+    },
+    {
+      "id": 22,
+      "name_ar": "بالخاش",
+      "name_en": "Balqash",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 78002
+    },
+    {
+      "id": 23,
+      "name_ar": "أقسو",
+      "name_en": "Aqsu",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 69354
+    },
+    {
+      "id": 24,
+      "name_ar": "ساتباييف",
+      "name_en": "Satbayev",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 61883
+    },
+    {
+      "id": 25,
+      "name_ar": "كابشغاي",
+      "name_en": "Kapchagay",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 54245
+    },
+    {
+      "id": 26,
+      "name_ar": "ريدر",
+      "name_en": "Ridder",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 49695
+    },
+    {
+      "id": 27,
+      "name_ar": "زيريانوفسك",
+      "name_en": "Zyryanovsk",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 49658
+    },
+    {
+      "id": 28,
+      "name_ar": "ستيبنوغورسك",
+      "name_en": "Stepnogorsk",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 46712
+    },
+    {
+      "id": 29,
+      "name_ar": "شتشوتشينسك",
+      "name_en": "Shchuchinsk",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 45004
+    },
+    {
+      "id": 30,
+      "name_ar": "زاركينت",
+      "name_en": "Zharkent",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 42617
+    },
+    {
+      "id": 31,
+      "name_ar": "أريس",
+      "name_en": "Arys",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 40707
+    },
+    {
+      "id": 32,
+      "name_ar": "مركز بايكونور الفضائي",
+      "name_en": "Baikonur",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 39161
+    },
+    {
+      "id": 33,
+      "name_ar": "شاختينسك",
+      "name_en": "Shakhtinsk",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 37899
+    },
+    {
+      "id": 34,
+      "name_ar": "كولساري",
+      "name_en": "Qulsary",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 37103
+    },
+    {
+      "id": 35,
+      "name_ar": "سيتشوان",
+      "name_en": "Shu",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 35000
+    },
+    {
+      "id": 36,
+      "name_ar": "أكساي",
+      "name_en": "Aksay",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 32873
+    },
+    {
+      "id": 37,
+      "name_ar": "سيرم",
+      "name_en": "Sayram",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 32757
+    },
+    {
+      "id": 38,
+      "name_ar": "أتباسار",
+      "name_en": "Atbasar",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 29733
+    },
+    {
+      "id": 39,
+      "name_ar": "أركاليك",
+      "name_en": "Arqalyq",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 28169
+    },
+    {
+      "id": 40,
+      "name_ar": "شالقار",
+      "name_en": "Shalqar",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 27957
+    },
+    {
+      "id": 41,
+      "name_ar": "نهر بورالداي",
+      "name_en": "Boralday",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 27188
+    },
+    {
+      "id": 42,
+      "name_ar": "كارازهال",
+      "name_en": "Qarazhal",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 22170
+    },
+    {
+      "id": 43,
+      "name_ar": "خرومتاو",
+      "name_en": "Khromtau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 21156
+    },
+    {
+      "id": 44,
+      "name_ar": "أوبليس مانكيستاو",
+      "name_en": "Mangghystau",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 21004
+    },
+    {
+      "id": 45,
+      "name_ar": "جاناتاس",
+      "name_en": "Zhangatas",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 20731
+    },
+    {
+      "id": 46,
+      "name_ar": "قاعدة بيانات طحالب",
+      "name_en": "Alga",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 19705
+    },
+    {
+      "id": 47,
+      "name_ar": "أتاسو",
+      "name_en": "Atasu",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 19616
+    },
+    {
+      "id": 48,
+      "name_ar": "ماكات",
+      "name_en": "Maqat",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 14756
+    },
+    {
+      "id": 49,
+      "name_ar": "زايسان",
+      "name_en": "Zaysan",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 14389
+    },
+    {
+      "id": 50,
+      "name_ar": "أوشكونير",
+      "name_en": "Ushkonyr",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 14294
+    },
+    {
+      "id": 51,
+      "name_ar": "أقكول",
+      "name_en": "Aqkol",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 14217
+    },
+    {
+      "id": 52,
+      "name_ar": "شيتبي",
+      "name_en": "Shetpe",
+      "country_ar": "كازاخستان",
+      "country_en": "Kazakhstan",
+      "population": 13346
+    }
+  ],
+  "meta": {
+    "title": "مدن كازاخستان — Cities of Kazakhstan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كازاخستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Kazakhstan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 52 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كازاخستان — Cities of Kazakhstan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كازاخستان — Cities of Kazakhstan (Arabic names) — 52 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 52 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

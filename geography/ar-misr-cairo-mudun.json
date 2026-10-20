@@ -1,0 +1,691 @@
+{
+  "id": "ar-misr-cairo-mudun",
+  "name": "مدن ومراكز محافظة القاهرة (Cities & Towns of Cairo)",
+  "title": "مدن ومراكز محافظة القاهرة (Cities & Towns of Cairo)",
+  "description": "قائمة مدن ومراكز محافظة القاهرة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Cairo governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "397",
+      "name_ar": "الأميرية",
+      "name_en": "al-amiriyyah",
+      "name_long_ar": "الأميرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "143",
+      "name_ar": "البساتين",
+      "name_en": "basateen",
+      "name_long_ar": "البساتين، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "146",
+      "name_ar": "التبين",
+      "name_en": "tebeen",
+      "name_long_ar": "التبين، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "388",
+      "name_ar": "التجمع الثالث",
+      "name_en": "the-3rd-district",
+      "name_long_ar": "التجمع الثالث، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "154",
+      "name_ar": "الجمالية",
+      "name_en": "gamaleya",
+      "name_long_ar": "الجمالية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "360",
+      "name_ar": "الحلمية",
+      "name_en": "helmeya",
+      "name_long_ar": "الحلمية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "153",
+      "name_ar": "الحلمية الجديدة",
+      "name_en": "helmeya-al-gadeda",
+      "name_long_ar": "الحلمية الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "148",
+      "name_ar": "الخليفة",
+      "name_en": "khalifa",
+      "name_long_ar": "الخليفة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "155",
+      "name_ar": "الدراسة",
+      "name_en": "darrasa",
+      "name_long_ar": "الدراسة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "151",
+      "name_ar": "الدرب الأحمر",
+      "name_en": "darb-al-ahmar",
+      "name_long_ar": "الدرب الأحمر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "291",
+      "name_ar": "الروضة",
+      "name_en": "roda",
+      "name_long_ar": "الروضة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "136",
+      "name_ar": "الزاوية الحمراء",
+      "name_en": "zawya-al-hamra",
+      "name_long_ar": "الزاوية الحمراء، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "289",
+      "name_ar": "الزمالك",
+      "name_en": "zamalek",
+      "name_long_ar": "الزمالك، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "140",
+      "name_ar": "الزيتون",
+      "name_en": "zaytoun",
+      "name_long_ar": "الزيتون، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "135",
+      "name_ar": "الساحل",
+      "name_en": "sahel",
+      "name_long_ar": "الساحل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "150",
+      "name_ar": "السيدة زينب",
+      "name_en": "sayeda-zeinab",
+      "name_long_ar": "السيدة زينب، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "137",
+      "name_ar": "الشرابية",
+      "name_en": "sharabeya",
+      "name_long_ar": "الشرابية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "324",
+      "name_ar": "العاشر من رمضان",
+      "name_en": "10th-ramadan-city",
+      "name_long_ar": "العاشر من رمضان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "408",
+      "name_ar": "العاصمة الإدارية الجديدة",
+      "name_en": "new-capital-city",
+      "name_long_ar": "العاصمة الإدارية الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "292",
+      "name_ar": "العباسية",
+      "name_en": "abasiya",
+      "name_long_ar": "العباسية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "319",
+      "name_ar": "العبور",
+      "name_en": "obour-city",
+      "name_long_ar": "العبور، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "152",
+      "name_ar": "العتبة",
+      "name_en": "ataba",
+      "name_long_ar": "العتبة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "400",
+      "name_ar": "القاهرة - أخرى",
+      "name_en": "cairooo",
+      "name_long_ar": "القاهرة - أخرى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "288",
+      "name_ar": "القاهرة الجديدة - أخرى",
+      "name_en": "new-cairo",
+      "name_long_ar": "القاهرة الجديدة - أخرى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "406",
+      "name_ar": "القاهرة الجديدة - الأندلس",
+      "name_en": "new-cairo-andalous",
+      "name_long_ar": "القاهرة الجديدة - الأندلس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "379",
+      "name_ar": "القاهرة الجديدة - التجمع الأول",
+      "name_en": "First-Settlement",
+      "name_long_ar": "القاهرة الجديدة - التجمع الأول، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "156",
+      "name_ar": "القاهرة الجديدة - التجمع الخامس",
+      "name_en": "fifth-settlement",
+      "name_long_ar": "القاهرة الجديدة - التجمع الخامس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "407",
+      "name_ar": "القاهرة الجديدة - لوتس",
+      "name_en": "new-cairo-lotus",
+      "name_long_ar": "القاهرة الجديدة - لوتس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "287",
+      "name_ar": "القاهرة الجديدة - مدينة الرحاب",
+      "name_en": "rehab-city",
+      "name_long_ar": "القاهرة الجديدة - مدينة الرحاب، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "286",
+      "name_ar": "القطامية",
+      "name_en": "katameya",
+      "name_long_ar": "القطامية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "401",
+      "name_ar": "الماظة",
+      "name_en": "almazah",
+      "name_long_ar": "الماظة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "131",
+      "name_ar": "المرج",
+      "name_en": "marg",
+      "name_long_ar": "المرج، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "132",
+      "name_ar": "المطرية",
+      "name_en": "matareya",
+      "name_long_ar": "المطرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "322",
+      "name_ar": "المعادي",
+      "name_en": "maadi",
+      "name_long_ar": "المعادي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "145",
+      "name_ar": "المعصره",
+      "name_en": "ma-sara",
+      "name_long_ar": "المعصره، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "269",
+      "name_ar": "المقطم",
+      "name_en": "mokattam",
+      "name_long_ar": "المقطم، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "141",
+      "name_ar": "المنيرة الجديدة",
+      "name_en": "mounira-al-gadeda",
+      "name_long_ar": "المنيرة الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "389",
+      "name_ar": "المنيل",
+      "name_en": "al-manial",
+      "name_long_ar": "المنيل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "147",
+      "name_ar": "الموسكي",
+      "name_en": "moski",
+      "name_long_ar": "الموسكي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "333",
+      "name_ar": "النزهة",
+      "name_en": "nozha-cairo",
+      "name_long_ar": "النزهة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "130",
+      "name_ar": "الوايلي",
+      "name_en": "waili",
+      "name_long_ar": "الوايلي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "149",
+      "name_ar": "باب الشعرية",
+      "name_en": "bab-al-shereia",
+      "name_long_ar": "باب الشعرية، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "128",
+      "name_ar": "بولاق",
+      "name_en": "boulaq",
+      "name_long_ar": "بولاق، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "402",
+      "name_ar": "بيت الوطن",
+      "name_en": "bait-el-watan",
+      "name_long_ar": "بيت الوطن، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "129",
+      "name_ar": "جاردن سيتي",
+      "name_en": "garden-city",
+      "name_long_ar": "جاردن سيتي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "139",
+      "name_ar": "حدائق القبة",
+      "name_en": "hadayek-al-kobba",
+      "name_long_ar": "حدائق القبة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "391",
+      "name_ar": "حدائق حلوان",
+      "name_en": "hadayek-helwan",
+      "name_long_ar": "حدائق حلوان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "321",
+      "name_ar": "حلوان",
+      "name_en": "helwan",
+      "name_long_ar": "حلوان، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "144",
+      "name_ar": "دار السلام",
+      "name_en": "dar-al-salaam",
+      "name_long_ar": "دار السلام، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "275",
+      "name_ar": "رمسيس و امتداد رمسيس",
+      "name_en": "ramses-ramses-extension",
+      "name_long_ar": "رمسيس و امتداد رمسيس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "138",
+      "name_ar": "روض الفرج",
+      "name_en": "rod-al-farag",
+      "name_long_ar": "روض الفرج، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "398",
+      "name_ar": "زهراء المعادى",
+      "name_en": "zahraa-al-maadi",
+      "name_long_ar": "زهراء المعادى، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "134",
+      "name_ar": "شبرا",
+      "name_en": "shubra",
+      "name_long_ar": "شبرا، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "380",
+      "name_ar": "شيراتون",
+      "name_en": "Sheraton",
+      "name_long_ar": "شيراتون، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "323",
+      "name_ar": "طرة",
+      "name_en": "tura",
+      "name_long_ar": "طرة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "386",
+      "name_ar": "عزبة النخل",
+      "name_en": "izbat-an-nakhl",
+      "name_long_ar": "عزبة النخل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "359",
+      "name_ar": "عين شمس",
+      "name_en": "ain-shams",
+      "name_long_ar": "عين شمس، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "290",
+      "name_ar": "قصر النيل",
+      "name_en": "qasr-al-nil",
+      "name_long_ar": "قصر النيل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "383",
+      "name_ar": "مدينة 15 مايو",
+      "name_en": "15-may-city",
+      "name_long_ar": "مدينة 15 مايو، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "133",
+      "name_ar": "مدينة السلام",
+      "name_en": "salam-city",
+      "name_long_ar": "مدينة السلام، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "320",
+      "name_ar": "مدينة الشروق",
+      "name_en": "shorouk-city",
+      "name_long_ar": "مدينة الشروق، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "385",
+      "name_ar": "مدينة المستقبل",
+      "name_en": "future-city",
+      "name_long_ar": "مدينة المستقبل، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "382",
+      "name_ar": "مدينة بدر",
+      "name_en": "Badr-City",
+      "name_long_ar": "مدينة بدر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "332",
+      "name_ar": "مدينة نصر",
+      "name_en": "nasr-city",
+      "name_long_ar": "مدينة نصر، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "381",
+      "name_ar": "مدينتي",
+      "name_en": "Madinaty",
+      "name_long_ar": "مدينتي، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "415",
+      "name_ar": "مسطرد",
+      "name_en": "musturad",
+      "name_long_ar": "مسطرد، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "263",
+      "name_ar": "مصر الجديدة",
+      "name_en": "heliopolis",
+      "name_long_ar": "مصر الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "142",
+      "name_ar": "مصر القديمة",
+      "name_en": "masr-al-kadema",
+      "name_long_ar": "مصر القديمة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "393",
+      "name_ar": "هليوبوليس الجديدة",
+      "name_en": "new-heliopolis",
+      "name_long_ar": "هليوبوليس الجديدة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    },
+    {
+      "id": "295",
+      "name_ar": "وسط القاهرة",
+      "name_en": "downtown-cairo",
+      "name_long_ar": "وسط القاهرة، القاهرة",
+      "muhafaza_ar": "القاهرة",
+      "muhafaza_en": "cairo",
+      "muhafaza_id": 5
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة القاهرة (Cities & Towns of Cairo) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة القاهرة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Cairo governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 70 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة القاهرة (Cities & Towns of Cairo) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة القاهرة (Cities & Towns of Cairo) — 70 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 70 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "id": "ar-sa-mustashfayat",
+  "name": "المستشفيات في المملكة العربية السعودية (Hospitals of Saudi Arabia)",
+  "title": "المستشفيات في المملكة العربية السعودية (Hospitals of Saudi Arabia)",
+  "description": "قائمة المستشفيات في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q16917) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة المستشفيات سعودية في النطاق العربي. List of hospitals in Saudi Arabia from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q30280770",
+      "name_ar": "الدكتور سليمان فقية",
+      "name_en": "Soliman Fakeeh Hospital",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.525157,
+      "longitude": 39.168112,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280770"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q28714566",
+      "name_ar": "المدينة الطبية الخاصة بوزارة الداخلية بالرياض",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.902903,
+      "longitude": 46.531,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28714566"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q7395567",
+      "name_ar": "المدينة الطبية لقوى الأمن بالمنطقة الشرقية",
+      "name_en": "Saad Specialist Hospital",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.302165,
+      "longitude": 50.200467,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7395567"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q16123520",
+      "name_ar": "مدينة الأمير سلطان الطبية العسكرية",
+      "name_en": "Riyadh Military Hospital",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.683333,
+      "longitude": 46.7,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16123520"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q6412025",
+      "name_ar": "مدينة الملك سعود الطبية",
+      "name_en": "King Saud Medical Complex",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.627778,
+      "longitude": 46.690278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6412025"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q6411203",
+      "name_ar": "مدينة الملك عبد العزيز الطبية للحرس الوطني",
+      "name_en": "King Abdulaziz Medical City",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.752259,
+      "longitude": 46.8578,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6411203"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q20423944",
+      "name_ar": "مدينة الملك عبد الله الطبية",
+      "name_en": "King Abdullah Medical City",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.382354,
+      "longitude": 39.881105,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20423944"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q6411562",
+      "name_ar": "مدينة الملك فهد الطبية",
+      "name_en": "King Fahad Medical City",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.6875,
+      "longitude": 46.705278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6411562"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12242206",
+      "name_ar": "مركز الأمير سلطان للأمراض وجراحة القلب",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.692991,
+      "longitude": 46.714612,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12242206"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q7081166",
+      "name_ar": "مستشفى أحد",
+      "name_en": "Ohud Hospital",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.470325,
+      "longitude": 39.547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7081166"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q30254309",
+      "name_ar": "مستشفى الأمل بجدة",
+      "name_en": "Al Amal Hospital Jeddah",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.627826,
+      "longitude": 39.148833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30254309"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q138764179",
+      "name_ar": "مستشفى الأمير محمد بن عبد العزيز",
+      "name_en": "Prince Mohammed Bin Abdulaziz Hospital",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.709469,
+      "longitude": 46.792889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138764179"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q85875023",
+      "name_ar": "مستشفى الأمير محمد بن فهد العام وأمراض الدم الوراثية",
+      "name_en": "Prince Muhammad Bin Fahd General Hospital and Hereditary Blood Diseases",
+      "admin_area_ar": "محافظة القطيف",
+      "admin_area_en": "Qatif governorate",
+      "latitude": 26.586512,
+      "longitude": 49.997434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85875023"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12242606",
+      "name_ar": "مستشفى الدمام المركزي",
+      "name_en": "Dammam Central Hospital",
+      "admin_area_ar": "الدمام",
+      "admin_area_en": "Dammam",
+      "latitude": 26.433042,
+      "longitude": 50.084383,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12242606"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q6856592",
+      "name_ar": "مستشفى القطيف المركزي",
+      "name_en": "Qatif Central Hospital",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.523821,
+      "longitude": 49.966319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6856592"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30280907",
+      "name_ar": "مستشفى القوات المسلحة بالشمالية",
+      "name_en": "North West Armed Forces Hospital",
+      "admin_area_ar": "تبوك",
+      "admin_area_en": "Tabuk",
+      "latitude": 28.348596,
+      "longitude": 36.595798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280907"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4119998",
+      "name_ar": "مستشفى المركز الطبي الدولي",
+      "name_en": "International Medical Center",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.513611,
+      "longitude": 39.174444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4119998"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q16125015",
+      "name_ar": "مستشفى الملك خالد",
+      "name_en": "King Khaled Hospital",
+      "admin_area_ar": "نجران",
+      "admin_area_en": "Najran",
+      "latitude": 17.544246,
+      "longitude": 44.23292,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16125015"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q30280400",
+      "name_ar": "مستشفى الملك عبدالعزيز",
+      "name_en": "King Abdulaziz Hospital",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.441951,
+      "longitude": 39.807876,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30280400"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q12242650",
+      "name_ar": "مستشفى الملك فهد",
+      "name_en": "King Fahad Hospital Jeddah",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.543832,
+      "longitude": 39.16704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12242650"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q15238519",
+      "name_ar": "مستشفى الملك فهد التخصصي",
+      "name_en": "King Fahad Specialist Hospital Dammam",
+      "admin_area_ar": "الدمام",
+      "admin_area_en": "Dammam",
+      "latitude": 26.41208,
+      "longitude": 50.10288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15238519"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q28714524",
+      "name_ar": "مستشفى الملك فهد المركزي بجازان",
+      "name_en": "King Fahad Central Hospital",
+      "admin_area_ar": "جيزان",
+      "admin_area_en": "Jizan",
+      "latitude": 16.922345,
+      "longitude": 42.735855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28714524"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q56376995",
+      "name_ar": "مستشفى الملك فهد بالمدينة المنورة",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.495243,
+      "longitude": 39.561044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56376995"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q20424834",
+      "name_ar": "مستشفى الملك فهد للقوات المسلحة",
+      "name_en": "King Fahd Armed Forces Hospital",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.542261,
+      "longitude": 39.128998,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20424834"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q6856599",
+      "name_ar": "مستشفى الملك فيصل التخصصي",
+      "name_en": "King Faisal Specialist Hospital and Research Centre",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.671667,
+      "longitude": 46.674722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6856599"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q16125055",
+      "name_ar": "مستشفى الملك فيصل التخصصي",
+      "name_en": "",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.559798,
+      "longitude": 39.148175,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16125055"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q16125077",
+      "name_ar": "مستشفى النور التخصصي",
+      "name_en": "Al Noor Specialist Hospital",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.385931,
+      "longitude": 39.859757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16125077"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q50036990",
+      "name_ar": "مستشفى بروكار ريايا",
+      "name_en": "Procare Riaya Hospital",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.304109,
+      "longitude": 50.173115,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q50036990"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q22949094",
+      "name_ar": "مستشفى حسين العلي",
+      "name_en": "Hussein Al-Ali Hospital",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 25.39358,
+      "longitude": 49.60426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22949094"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q12242648",
+      "name_ar": "مستشفى عرقة",
+      "name_en": "Irqah Hospital",
+      "admin_area_ar": "مركز عرقة",
+      "admin_area_en": "Irqah",
+      "latitude": 24.6925,
+      "longitude": 46.584444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12242648"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q30279834",
+      "name_ar": "مستشفى عسير المركزي",
+      "name_en": "Asir Central Hospital",
+      "admin_area_ar": "أبها",
+      "admin_area_en": "Abha",
+      "latitude": 18.199782,
+      "longitude": 42.524473,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30279834"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q22929148",
+      "name_ar": "مستشفى قوى الأمن",
+      "name_en": "Security Forces Hospital",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.679246,
+      "longitude": 46.724194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22929148"
+    }
+  ],
+  "meta": {
+    "title": "المستشفيات في المملكة العربية السعودية (Hospitals of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة المستشفيات في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q16917) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة المستشفيات سعودية في النطاق العربي. List of hospitals in Saudi Arabia from Wikidata. يحتوي على 32 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المستشفيات في المملكة العربية السعودية (Hospitals of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المستشفيات في المملكة العربية السعودية (Hospitals of Saudi Arabia) — 32 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 32 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

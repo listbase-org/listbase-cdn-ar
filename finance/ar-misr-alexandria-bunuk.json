@@ -1,0 +1,982 @@
+{
+  "id": "ar-misr-alexandria-bunuk",
+  "name": "بنوك Alexandria — مصر — رموز سويفت (Banks of Alexandria, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Alexandria — مصر — رموز سويفت (Banks of Alexandria, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Alexandria (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 133 سجلًا. List of banks, financial institutions and their branches in Alexandria, Egypt with the SWIFT/BIC code, bank name and branch name for each. 133 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "DEIBEGCX215"
+    },
+    {
+      "id": 2,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SIDI-BISHR BRANCH)",
+      "swift_code": "DEIBEGCX223"
+    },
+    {
+      "id": 3,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ABRKEGCAAZA"
+    },
+    {
+      "id": 4,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(BORG AL ARAB BRANCH)",
+      "swift_code": "ABRKEGCABRG"
+    },
+    {
+      "id": 5,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(RSHDOY)",
+      "swift_code": "ABRKEGCARSH"
+    },
+    {
+      "id": 6,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SMOHA BRANCH)",
+      "swift_code": "ABRKEGCASOM"
+    },
+    {
+      "id": 7,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(STANLY BRANCH)",
+      "swift_code": "ABRKEGCASTN"
+    },
+    {
+      "id": 8,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "ABRKEGC10AL"
+    },
+    {
+      "id": 9,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ARAIEGCXALX"
+    },
+    {
+      "id": 10,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "ARAIEGCXALE"
+    },
+    {
+      "id": 11,
+      "bank": "ARAB BANK PLC",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ARABEGCXALX"
+    },
+    {
+      "id": 12,
+      "bank": "ARAB BANK PLC",
+      "city": "ALEXANDRIA",
+      "branch": "(SPORTING BRANCH)",
+      "swift_code": "ARABEGCXSPR"
+    },
+    {
+      "id": 13,
+      "bank": "ARAB INTERNATIONAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ARIBEGCX002"
+    },
+    {
+      "id": 14,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "AINBEGCAALX"
+    },
+    {
+      "id": 15,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA FOR ISLAMIC OPERATION BRANCH)",
+      "swift_code": "AINBEGCAALI"
+    },
+    {
+      "id": 16,
+      "bank": "ATTIJARIWAFA BANK EGYPT S.A.E",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "BCBIEGCX003"
+    },
+    {
+      "id": 17,
+      "bank": "BANK OF ALEXANDRIA S A E",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ALEXEGCX001"
+    },
+    {
+      "id": 18,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(AGAMY BRANCH)",
+      "swift_code": "BCAIEGCX250"
+    },
+    {
+      "id": 19,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(BAB SEDRAH)",
+      "swift_code": "BCAIEGCX285"
+    },
+    {
+      "id": 20,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(BACKUS BRANCH)",
+      "swift_code": "BCAIEGCX220"
+    },
+    {
+      "id": 21,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(BORG EL ARAB BRANCH)",
+      "swift_code": "BCAIEGCX255"
+    },
+    {
+      "id": 22,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(EBRAHEMIYA BRANCH)",
+      "swift_code": "BCAIEGCX231"
+    },
+    {
+      "id": 23,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(EL EKBALL BRANCH)",
+      "swift_code": "BCAIEGCX290"
+    },
+    {
+      "id": 24,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(EL WARDIAN BRANCH)",
+      "swift_code": "BCAIEGCX201"
+    },
+    {
+      "id": 25,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(GLIM BRANCH)",
+      "swift_code": "BCAIEGCX260"
+    },
+    {
+      "id": 26,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(MONTAZAH BRANCH)",
+      "swift_code": "BCAIEGCX280"
+    },
+    {
+      "id": 27,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(SALAH SALEM BRANCH)",
+      "swift_code": "BCAIEGCX210"
+    },
+    {
+      "id": 28,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(SAMOUHA BRANCH)",
+      "swift_code": "BCAIEGCX270"
+    },
+    {
+      "id": 29,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(SESOSTREES BRANCH)",
+      "swift_code": "BCAIEGCX200"
+    },
+    {
+      "id": 30,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ALEXANDRIA",
+      "branch": "(SPORTING BRANCH)",
+      "swift_code": "BCAIEGCX230"
+    },
+    {
+      "id": 31,
+      "bank": "BANQUE MISR",
+      "city": "ALEXANDRIA",
+      "branch": "(AHMED ORABI BRANCH)",
+      "swift_code": "BMISEGCX372"
+    },
+    {
+      "id": 32,
+      "bank": "BANQUE MISR",
+      "city": "ALEXANDRIA",
+      "branch": "(ATTAREEN BRANCH)",
+      "swift_code": "BMISEGCX408"
+    },
+    {
+      "id": 33,
+      "bank": "BANQUE MISR",
+      "city": "ALEXANDRIA",
+      "branch": "(BORG EL-SELSELA)",
+      "swift_code": "BMISEGCXALX"
+    },
+    {
+      "id": 34,
+      "bank": "BANQUE MISR",
+      "city": "ALEXANDRIA",
+      "branch": "(TALAAT HARB MAIN BRANCH)",
+      "swift_code": "BMISEGCX401"
+    },
+    {
+      "id": 35,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "MRBAEGCX006"
+    },
+    {
+      "id": 36,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MANCHIA)",
+      "swift_code": "MRBAEGCX025"
+    },
+    {
+      "id": 37,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MONTAZA)",
+      "swift_code": "MRBAEGCX020"
+    },
+    {
+      "id": 38,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SHATBY)",
+      "swift_code": "MRBAEGCX013"
+    },
+    {
+      "id": 39,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SMOUHA)",
+      "swift_code": "MRBAEGCX036"
+    },
+    {
+      "id": 40,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SPORTING BRANCH)",
+      "swift_code": "MRBAEGCX003"
+    },
+    {
+      "id": 41,
+      "bank": "CENTRAL BANK OF EGYPT CAIRO",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "CBEGEGCXALX"
+    },
+    {
+      "id": 42,
+      "bank": "CENTRAL BANK OF EGYPT CAIRO",
+      "city": "ALEXANDRIA",
+      "branch": "(CBE ALEXANDRIA BRANCH)",
+      "swift_code": "CBEGEGCAALX"
+    },
+    {
+      "id": 43,
+      "bank": "CITIBANK CAIRO",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "CITIEGCXALE"
+    },
+    {
+      "id": 44,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(AGAMI BRANCH)",
+      "swift_code": "CIBEEGCX194"
+    },
+    {
+      "id": 45,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA PORT BRANCH)",
+      "swift_code": "CIBEEGCX068"
+    },
+    {
+      "id": 46,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(AZARITA BRANCH)",
+      "swift_code": "CIBEEGCX178"
+    },
+    {
+      "id": 47,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(BOURG EL ARAB)",
+      "swift_code": "CIBEEGCX021"
+    },
+    {
+      "id": 48,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(COUNTRY CLUB)",
+      "swift_code": "CIBEEGCX043"
+    },
+    {
+      "id": 49,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(EL DEKHILA BRANCH)",
+      "swift_code": "CIBEEGCX046"
+    },
+    {
+      "id": 50,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(FOUAD ST. ALEX. BRANCH)",
+      "swift_code": "CIBEEGCX158"
+    },
+    {
+      "id": 51,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(FREE ZONE)",
+      "swift_code": "CIBEEGCX047"
+    },
+    {
+      "id": 52,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(FREE ZONE-INVS.CLX)",
+      "swift_code": "CIBEEGCX071"
+    },
+    {
+      "id": 53,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(GREEN PLAZA)",
+      "swift_code": "CIBEEGCX042"
+    },
+    {
+      "id": 54,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(KAFR ABDO BRANCH)",
+      "swift_code": "CIBEEGCX041"
+    },
+    {
+      "id": 55,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(LAGOON BRANCH)",
+      "swift_code": "CIBEEGCX088"
+    },
+    {
+      "id": 56,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(LOURAN)",
+      "swift_code": "CIBEEGCX044"
+    },
+    {
+      "id": 57,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MANSHIA BRANCH)",
+      "swift_code": "CIBEEGCX008"
+    },
+    {
+      "id": 58,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MANSHIA SQUARE)",
+      "swift_code": "CIBEEGCX121"
+    },
+    {
+      "id": 59,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MIAMI BRANCH)",
+      "swift_code": "CIBEEGCX124"
+    },
+    {
+      "id": 60,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(MONTAZA BRANCH)",
+      "swift_code": "CIBEEGCX187"
+    },
+    {
+      "id": 61,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(PHAROS UNIVERSITY BRANCH)",
+      "swift_code": "CIBEEGCX087"
+    },
+    {
+      "id": 62,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(PORTO MARINA BRANCH)",
+      "swift_code": "CIBEEGCX061"
+    },
+    {
+      "id": 63,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(ROUSHDY BRANCH)",
+      "swift_code": "CIBEEGCX009"
+    },
+    {
+      "id": 64,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SAN STEFANO BRANCH)",
+      "swift_code": "CIBEEGCX056"
+    },
+    {
+      "id": 65,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SARAYA SEMOHA)",
+      "swift_code": "CIBEEGCX089"
+    },
+    {
+      "id": 66,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SMOUHA BRANCH)",
+      "swift_code": "CIBEEGCX034"
+    },
+    {
+      "id": 67,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SULTAN HUSSEIN BRANCH)",
+      "swift_code": "CIBEEGCX003"
+    },
+    {
+      "id": 68,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(WABOUR EL MAYAA BRANCH)",
+      "swift_code": "CIBEEGCX190"
+    },
+    {
+      "id": 69,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "ARLBEGCAALX"
+    },
+    {
+      "id": 70,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(TALAT HARB BRANCH)",
+      "swift_code": "ARLBEGCATLH"
+    },
+    {
+      "id": 71,
+      "bank": "EGYPTIAN GULF BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "EGGBEGCAALX"
+    },
+    {
+      "id": 72,
+      "bank": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "EBILEGCXALX"
+    },
+    {
+      "id": 73,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(BORG EL ARAB)",
+      "swift_code": "EXDEEGCXBRG"
+    },
+    {
+      "id": 74,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ROSHDY BRANCH)",
+      "swift_code": "EXDEEGCXRSH"
+    },
+    {
+      "id": 75,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SELSELA BRANCH)",
+      "swift_code": "EXDEEGCXALX"
+    },
+    {
+      "id": 76,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "FIEGEGCXALX"
+    },
+    {
+      "id": 77,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA II BRANCH)",
+      "swift_code": "FIEGEGCXAX2"
+    },
+    {
+      "id": 78,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-AGMY BRANCH)",
+      "swift_code": "FIEGEGCXAX4"
+    },
+    {
+      "id": 79,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(MUNTAZAH)",
+      "swift_code": "FIEGEGCXAX3"
+    },
+    {
+      "id": 80,
+      "bank": "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "DIBBEGCA0AL"
+    },
+    {
+      "id": 81,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "MIDBEGCXALX"
+    },
+    {
+      "id": 82,
+      "bank": "MOBIS AUTO PARTS MIDDLE EAST EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "HYMOEGA1"
+    },
+    {
+      "id": 83,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "NBADEGCAALX"
+    },
+    {
+      "id": 84,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA CITY)",
+      "swift_code": "NBADEGCAACC"
+    },
+    {
+      "id": 85,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "ALEXANDRIA",
+      "branch": "(SAN STEFANO BRANCH)",
+      "swift_code": "NBADEGCASTF"
+    },
+    {
+      "id": 86,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "ALEXANDRIA",
+      "branch": "(SPORTING BRANCH)",
+      "swift_code": "NBADEGCASPT"
+    },
+    {
+      "id": 87,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ABUL ABBAS BRANCH)",
+      "swift_code": "NBEGEGCX220"
+    },
+    {
+      "id": 88,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(AL-AMERIYA BRANCH)",
+      "swift_code": "NBEGEGCX240"
+    },
+    {
+      "id": 89,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "NBEGEGCX200"
+    },
+    {
+      "id": 90,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA PORT BRANCH)",
+      "swift_code": "NBEGEGCX228"
+    },
+    {
+      "id": 91,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX207"
+    },
+    {
+      "id": 92,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(AL-MANDRA BRANCH)",
+      "swift_code": "NBEGEGCX229"
+    },
+    {
+      "id": 93,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(BAKOUS BRANCH)",
+      "swift_code": "NBEGEGCX206"
+    },
+    {
+      "id": 94,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(CAMP SHEZAR)",
+      "swift_code": "NBEGEGCX233"
+    },
+    {
+      "id": 95,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(DOWN TOWN BRANCH)",
+      "swift_code": "NBEGEGCX227"
+    },
+    {
+      "id": 96,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL HANOVIL BRANCH)",
+      "swift_code": "NBEGEGCX230"
+    },
+    {
+      "id": 97,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL KABARY  BRANCH)",
+      "swift_code": "NBEGEGCX232"
+    },
+    {
+      "id": 98,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-AGAMI BRANCH)",
+      "swift_code": "NBEGEGCX204"
+    },
+    {
+      "id": 99,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-EKBAL BRANCH)",
+      "swift_code": "NBEGEGCX203"
+    },
+    {
+      "id": 100,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-HANSHIA BRANCH)",
+      "swift_code": "NBEGEGCX202"
+    },
+    {
+      "id": 101,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-MONTAZAH BRANCH)",
+      "swift_code": "NBEGEGCX205"
+    },
+    {
+      "id": 102,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(EL-SEYOUF BRANCH)",
+      "swift_code": "NBEGEGCX216"
+    },
+    {
+      "id": 103,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ELSHALALAT BRANCH)",
+      "swift_code": "NBEGEGCX224"
+    },
+    {
+      "id": 104,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(LOCAL LETTERS OF GUARANTEE ALEXANDRIA CENTER)",
+      "swift_code": "NBEGEGCX561"
+    },
+    {
+      "id": 105,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(LOURAN BRANCH)",
+      "swift_code": "NBEGEGCX239"
+    },
+    {
+      "id": 106,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(MAHATET EL RAML BRANCH)",
+      "swift_code": "NBEGEGCX215"
+    },
+    {
+      "id": 107,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(MOHARAM BEIK BRANCH)",
+      "swift_code": "NBEGEGCX210"
+    },
+    {
+      "id": 108,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(MOSTAFA KAMEL BRANCH)",
+      "swift_code": "NBEGEGCX226"
+    },
+    {
+      "id": 109,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ROSHDY BRANCH)",
+      "swift_code": "NBEGEGCX236"
+    },
+    {
+      "id": 110,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SAN STEFANO BRANCH)",
+      "swift_code": "NBEGEGCX218"
+    },
+    {
+      "id": 111,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SEDI GABER EL SHEIKH  BRANCH)",
+      "swift_code": "NBEGEGCX238"
+    },
+    {
+      "id": 112,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SEDI GABER STATION BRANCH)",
+      "swift_code": "NBEGEGCX234"
+    },
+    {
+      "id": 113,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SIDIBESHR BRANCH)",
+      "swift_code": "NBEGEGCX231"
+    },
+    {
+      "id": 114,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SMOUHA BRANCH)",
+      "swift_code": "NBEGEGCX211"
+    },
+    {
+      "id": 115,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(SOMOHA CLUB BRANCH)",
+      "swift_code": "NBEGEGCX209"
+    },
+    {
+      "id": 116,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(TAHIA MASR BRANCH)",
+      "swift_code": "NBEGEGCX235"
+    },
+    {
+      "id": 117,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(TOSSON BRANCH)",
+      "swift_code": "NBEGEGCX201"
+    },
+    {
+      "id": 118,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(VECTORYA BRANCH)",
+      "swift_code": "NBEGEGCX222"
+    },
+    {
+      "id": 119,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ZEIZINIA BRANCH)",
+      "swift_code": "NBEGEGCX208"
+    },
+    {
+      "id": 120,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH FOR ISLAMIC OPERATION)",
+      "swift_code": "WABAEGCXRML"
+    },
+    {
+      "id": 121,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "WABAEGCXALX"
+    },
+    {
+      "id": 122,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "ALEXANDRIA",
+      "branch": "(ZEZINYA BRANCH)",
+      "swift_code": "WABAEGCXZIZ"
+    },
+    {
+      "id": 123,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "BDACEGCA003"
+    },
+    {
+      "id": 124,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "ALEXANDRIA",
+      "branch": "(LORAN BRANCH)",
+      "swift_code": "SBNKEGCXLRN"
+    },
+    {
+      "id": 125,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "SBNKEGC10AL"
+    },
+    {
+      "id": 126,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "SBNKEGCXALX"
+    },
+    {
+      "id": 127,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "ALEXANDRIA",
+      "branch": "",
+      "swift_code": "SBNKEGCXSMH"
+    },
+    {
+      "id": 128,
+      "bank": "SUEZ CANAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALAMRIA BRANCH)",
+      "swift_code": "SUCAEGCXAMR"
+    },
+    {
+      "id": 129,
+      "bank": "SUEZ CANAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(ALEXANDRIA BRANCH)",
+      "swift_code": "SUCAEGCXALX"
+    },
+    {
+      "id": 130,
+      "bank": "SUEZ CANAL BANK",
+      "city": "ALEXANDRIA",
+      "branch": "(SMOHA BRANCH)",
+      "swift_code": "SUCAEGCXSMH"
+    },
+    {
+      "id": 131,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(EL HORREYA BRANCH)",
+      "swift_code": "UNBEEGCXMAI"
+    },
+    {
+      "id": 132,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(GLEEM BRANCH)",
+      "swift_code": "UNBEEGCXGLY"
+    },
+    {
+      "id": 133,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "ALEXANDRIA",
+      "branch": "(SAAD ZHAGLOUL BRANCH)",
+      "swift_code": "UNBEEGCXSDZ"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Alexandria — مصر — رموز سويفت (Banks of Alexandria, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Alexandria (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 133 سجلًا. List of banks, financial institutions and their branches in Alexandria, Egypt with the SWIFT/BIC code, bank name and branch name for each. 133 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 133 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Alexandria — مصر — رموز سويفت (Banks of Alexandria, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Alexandria — مصر — رموز سويفت (Banks of Alexandria, Egypt — SWIFT/BIC codes) — 133 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 133 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

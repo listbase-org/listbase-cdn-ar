@@ -1,0 +1,336 @@
+{
+  "id": "ar-mudun-bangladesh",
+  "name": "مدن بنغلاديش — Cities of Bangladesh (Arabic names)",
+  "title": "مدن بنغلاديش — Cities of Bangladesh (Arabic names)",
+  "description": "قائمة بأسماء مدن بنغلاديش بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Bangladesh with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دكا",
+      "name_en": "Dhaka",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 19134000
+    },
+    {
+      "id": 2,
+      "name_ar": "جاتجام",
+      "name_en": "Chattogram",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 2581643
+    },
+    {
+      "id": 3,
+      "name_ar": "نارايان غانج",
+      "name_en": "Narayanganj",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 967951
+    },
+    {
+      "id": 4,
+      "name_ar": "إقليم كهلنا",
+      "name_en": "Khulna",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 928891
+    },
+    {
+      "id": 5,
+      "name_ar": "ميمينسينغ",
+      "name_en": "Mymensingh",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 576927
+    },
+    {
+      "id": 6,
+      "name_ar": "سلهت",
+      "name_en": "Sylhet",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 479837
+    },
+    {
+      "id": 7,
+      "name_ar": "راجشاهي",
+      "name_en": "Rajshahi",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 448087
+    },
+    {
+      "id": 8,
+      "name_ar": "كوشتيا",
+      "name_en": "Kushtia",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 418312
+    },
+    {
+      "id": 9,
+      "name_ar": "بررا",
+      "name_en": "Barura",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 405118
+    },
+    {
+      "id": 10,
+      "name_ar": "كوميلّا",
+      "name_en": "Comilla",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 296010
+    },
+    {
+      "id": 11,
+      "name_ar": "ليمون أضاليا",
+      "name_en": "Rangpur",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 294265
+    },
+    {
+      "id": 12,
+      "name_ar": "براهمانباريا",
+      "name_en": "Brahmanbaria",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 268279
+    },
+    {
+      "id": 13,
+      "name_ar": "كلورامفينيكول",
+      "name_en": "Feni",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 265000
+    },
+    {
+      "id": 14,
+      "name_ar": "سدهيرغانج",
+      "name_en": "Siddhirganj",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 256760
+    },
+    {
+      "id": 15,
+      "name_ar": "جيسور",
+      "name_en": "Jessore",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 243987
+    },
+    {
+      "id": 16,
+      "name_ar": "بريسال",
+      "name_en": "Barishal",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 230000
+    },
+    {
+      "id": 17,
+      "name_ar": "شوادانجا",
+      "name_en": "Chuadanga",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 224576
+    },
+    {
+      "id": 18,
+      "name_ar": "ناحية كوكس بازار",
+      "name_en": "Cox's Bazar",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 223522
+    },
+    {
+      "id": 19,
+      "name_ar": "بابنا",
+      "name_en": "Pabna",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 190317
+    },
+    {
+      "id": 20,
+      "name_ar": "منطقة نوجام",
+      "name_en": "Naogaon",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 150025
+    },
+    {
+      "id": 21,
+      "name_ar": "سيدفور، بنغلاديش",
+      "name_en": "Saidpur",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 127104
+    },
+    {
+      "id": 22,
+      "name_ar": "ناحية فريدبور",
+      "name_en": "Faridpur",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 121632
+    },
+    {
+      "id": 23,
+      "name_ar": "فولغازي",
+      "name_en": "Fulgazi",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 119558
+    },
+    {
+      "id": 24,
+      "name_ar": "شات خيرا",
+      "name_en": "Satkhira",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 113322
+    },
+    {
+      "id": 25,
+      "name_ar": "ناحية نتركونا",
+      "name_en": "Netrakona",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 91936
+    },
+    {
+      "id": 26,
+      "name_ar": "شيفا",
+      "name_en": "Bhola",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 87243
+    },
+    {
+      "id": 27,
+      "name_ar": "باتواخالي",
+      "name_en": "Patuakhali",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 65000
+    },
+    {
+      "id": 28,
+      "name_ar": "فيروزبور",
+      "name_en": "Pirojpur",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 60056
+    },
+    {
+      "id": 29,
+      "name_ar": "جوبالجانج",
+      "name_en": "Gopalganj",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 51346
+    },
+    {
+      "id": 30,
+      "name_ar": "سيتاكندو",
+      "name_en": "Sitakund",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 36650
+    },
+    {
+      "id": 31,
+      "name_ar": "داغن بويا",
+      "name_en": "Daganbhuiya",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 33574
+    },
+    {
+      "id": 32,
+      "name_ar": "لوهاغارا",
+      "name_en": "Lohagara",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 30815
+    },
+    {
+      "id": 33,
+      "name_ar": "منطقة ميرزابور",
+      "name_en": "Mirzapur",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 28602
+    },
+    {
+      "id": 34,
+      "name_ar": "دولت خان، بهولا",
+      "name_en": "Daulatkhan",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 27514
+    },
+    {
+      "id": 35,
+      "name_ar": "سوناغازي",
+      "name_en": "Sonagazi",
+      "country_ar": "بنغلاديش",
+      "country_en": "Bangladesh",
+      "population": 20810
+    }
+  ],
+  "meta": {
+    "title": "مدن بنغلاديش — Cities of Bangladesh (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بنغلاديش بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Bangladesh with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 35 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بنغلاديش — Cities of Bangladesh (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بنغلاديش — Cities of Bangladesh (Arabic names) — 35 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 35 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

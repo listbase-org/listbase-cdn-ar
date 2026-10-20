@@ -1,0 +1,163 @@
+{
+  "id": "ar-juzur-alqamar-bunuk",
+  "name": "بنوك جزر القمر — رموز سويفت (Banks of Comoros — SWIFT/BIC codes)",
+  "title": "بنوك جزر القمر — رموز سويفت (Banks of Comoros — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في جزر القمر مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Comoros with the SWIFT/BIC code, bank name, city and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/KM.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ALLIED CHARTERED BANK",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "ALCHKMK1"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE CENTRALE DES COMOROS",
+      "city": "MORONI",
+      "branch": "",
+      "swift_code": "COCBKMKM"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE FEDERALE DE COMMERCE",
+      "city": "MORONI",
+      "branch": "",
+      "swift_code": "BFDCKMKM"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES",
+      "city": "MORONI",
+      "branch": "",
+      "swift_code": "BICCKMKM"
+    },
+    {
+      "id": 5,
+      "bank": "CASTAGNA BANK LIMITED",
+      "city": "FOMBONI",
+      "branch": "",
+      "swift_code": "CSTGKMK1"
+    },
+    {
+      "id": 6,
+      "bank": "CORIOLIS BANKING CORPORATION",
+      "city": "FOMBONI",
+      "branch": "",
+      "swift_code": "CLORKMK1"
+    },
+    {
+      "id": 7,
+      "bank": "DYNAST PREMIER BANK LIMITED",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "DYPEKMK1"
+    },
+    {
+      "id": 8,
+      "bank": "EXIM BANK COMORES LTD",
+      "city": "MORONI",
+      "branch": "",
+      "swift_code": "EXTNKMKM"
+    },
+    {
+      "id": 9,
+      "bank": "FOREIGN FINANCE BANK LIMITED",
+      "city": "ANJOUAN",
+      "branch": "",
+      "swift_code": "FOFNKMK1"
+    },
+    {
+      "id": 10,
+      "bank": "INTERCONTINENTAL CREDIT BANK LTD",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "ITCEKMK1"
+    },
+    {
+      "id": 11,
+      "bank": "INTERNATIONAL FINANCE BANK",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "ITFNKMK1"
+    },
+    {
+      "id": 12,
+      "bank": "MAGNATE PREMIER PRIVATE BANK LTD",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "MAEVKMK1"
+    },
+    {
+      "id": 13,
+      "bank": "NYSB, INC",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "NYSBKMK1"
+    },
+    {
+      "id": 14,
+      "bank": "SNPSF (SOCIETE NATIONALE DES POSTES)",
+      "city": "MORONI",
+      "branch": "",
+      "swift_code": "HAHMKMKM"
+    },
+    {
+      "id": 15,
+      "bank": "STAR BANK LIMITED",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "TARRKMK1"
+    },
+    {
+      "id": 16,
+      "bank": "WALL STREET BANK",
+      "city": "MUTSAMUDU",
+      "branch": "",
+      "swift_code": "WSBOKMK1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك جزر القمر — رموز سويفت (Banks of Comoros — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في جزر القمر مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Comoros with the SWIFT/BIC code, bank name, city and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/KM.json (MIT). يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك جزر القمر — رموز سويفت (Banks of Comoros — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك جزر القمر — رموز سويفت (Banks of Comoros — SWIFT/BIC codes) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

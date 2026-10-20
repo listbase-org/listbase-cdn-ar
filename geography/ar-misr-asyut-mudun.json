@@ -1,0 +1,169 @@
+{
+  "id": "ar-misr-asyut-mudun",
+  "name": "مدن ومراكز محافظة أسيوط (Cities & Towns of Asyut)",
+  "title": "مدن ومراكز محافظة أسيوط (Cities & Towns of Asyut)",
+  "description": "قائمة مدن ومراكز محافظة أسيوط في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Asyut governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "337",
+      "name_ar": "أبنوب",
+      "name_en": "abnub",
+      "name_long_ar": "أبنوب، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "338",
+      "name_ar": "أبو تيج",
+      "name_en": "abu-teeg",
+      "name_long_ar": "أبو تيج، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "404",
+      "name_ar": "أسيوط الجديدة",
+      "name_en": "new-assiut",
+      "name_long_ar": "أسيوط الجديدة، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "340",
+      "name_ar": "البدارى",
+      "name_en": "badari",
+      "name_long_ar": "البدارى، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "342",
+      "name_ar": "الغنايم",
+      "name_en": "ghanayem",
+      "name_long_ar": "الغنايم، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "341",
+      "name_ar": "الفتح",
+      "name_en": "fateh",
+      "name_long_ar": "الفتح، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "344",
+      "name_ar": "القوصيه",
+      "name_en": "qusiya",
+      "name_long_ar": "القوصيه، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "339",
+      "name_ar": "ديروط",
+      "name_en": "dairut",
+      "name_long_ar": "ديروط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "345",
+      "name_ar": "ساحل سليم",
+      "name_en": "sahel-selim",
+      "name_long_ar": "ساحل سليم، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "346",
+      "name_ar": "صدفا",
+      "name_en": "sedfa",
+      "name_long_ar": "صدفا، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "126",
+      "name_ar": "مدينة أسيوط",
+      "name_en": "asyut-city",
+      "name_long_ar": "مدينة أسيوط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    },
+    {
+      "id": "343",
+      "name_ar": "منفلوط",
+      "name_en": "manfalut",
+      "name_long_ar": "منفلوط، أسيوط",
+      "muhafaza_ar": "أسيوط",
+      "muhafaza_en": "asyut",
+      "muhafaza_id": 55
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة أسيوط (Cities & Towns of Asyut) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة أسيوط في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Asyut governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة أسيوط (Cities & Towns of Asyut) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة أسيوط (Cities & Towns of Asyut) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

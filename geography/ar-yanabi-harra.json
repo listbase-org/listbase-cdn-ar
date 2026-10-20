@@ -1,0 +1,148 @@
+{
+  "id": "ar-yanabi-harra",
+  "name": "الينابيع الحارة في الوطن العربي (Hot springs of the Arab world)",
+  "title": "الينابيع الحارة في الوطن العربي (Hot springs of the Arab world)",
+  "description": "قائمة الينابيع والحمّامات الحارة في الدول العربية مع الكيان الإداري والإحداثيات ورابط ويكيبيديا العربية. مأخوذة من ويكي بيانات (P31/P279* = Q177380) مقيّدة بالدول العربية عبر P17، ومرتّبة أبجديًا حسب الاسم العربي. تشمل حمام موسى وحمامات ماعين وعين الزارة. أول مجموعة ينابيع حارة في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q9285798",
+      "name_ar": "حمام موسى",
+      "name_en": "Hammam Musa",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "located_in_at": "محافظة جنوب سيناء",
+      "latitude": 28.2664,
+      "longitude": 33.5964,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%89"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q16132872",
+      "name_ar": "حمامات عين المالح",
+      "name_en": "Ḩammām al Māliḩ",
+      "country_ar": "دولة فلسطين",
+      "country_qid": "Q219060",
+      "located_in_at": "",
+      "latitude": 32.32773,
+      "longitude": 35.4768,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q6720622",
+      "name_ar": "حمامات ماعين",
+      "name_en": "Ma'in Hot Springs",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "located_in_at": "محافظة مادبا",
+      "latitude": 31.609473,
+      "longitude": 35.610463,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7%D8%B9%D9%8A%D9%86"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q6820076",
+      "name_ar": "عين الثوارة",
+      "name_en": "",
+      "country_ar": "سلطنة عمان",
+      "country_qid": "Q842",
+      "located_in_at": "ولاية نخل",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%AB%D9%88%D8%A7%D8%B1%D8%A9"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q11910919",
+      "name_ar": "عين الزارة",
+      "name_en": "Ayn al-Zara",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "located_in_at": "",
+      "latitude": 31.597,
+      "longitude": 35.559306,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D9%86_%D8%A7%D9%84%D8%B2%D8%A7%D8%B1%D8%A9"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q6820258",
+      "name_ar": "كابريتاج حلوان (حمامات حلوان الكبريتية)",
+      "name_en": "Capritage Helwan",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "located_in_at": "حلوان",
+      "latitude": 29.84163,
+      "longitude": 31.33381,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%A8%D8%B1%D9%8A%D8%AA%D8%A7%D8%AC_%D8%AD%D9%84%D9%88%D8%A7%D9%86"
+    }
+  ],
+  "meta": {
+    "title": "الينابيع الحارة في الوطن العربي (Hot springs of the Arab world) - تحميل مجاني",
+    "description": "قائمة الينابيع والحمّامات الحارة في الدول العربية مع الكيان الإداري والإحداثيات ورابط ويكيبيديا العربية. مأخوذة من ويكي بيانات (P31/P279* = Q177380) مقيّدة بالدول العربية عبر P17، ومرتّبة أبجديًا حسب الاسم العربي. تشمل حمام موسى وحمامات ماعين وعين الزارة. أول مجموعة ينابيع حارة في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar). يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الينابيع الحارة في الوطن العربي (Hot springs of the Arab world) | ListBase",
+    "seo_description": "تحميل الينابيع الحارة في الوطن العربي (Hot springs of the Arab world) — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 10 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

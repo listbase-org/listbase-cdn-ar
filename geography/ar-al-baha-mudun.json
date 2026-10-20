@@ -1,0 +1,1236 @@
+{
+  "id": "ar-al-baha-mudun",
+  "name": "مدن منطقة الباحة (Cities of Al Baha)",
+  "title": "مدن منطقة الباحة (Cities of Al Baha)",
+  "description": "قائمة مدن منطقة الباحة (Al Baha) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Baha administrative region of Saudi Arabia (region_id=9). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 1425,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحجرة",
+      "name_en": "Al Hajrah",
+      "slug": "al-hajrah"
+    },
+    {
+      "city_id": 1455,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الإشتاء",
+      "name_en": "Al Ishta",
+      "slug": "al-ishta"
+    },
+    {
+      "city_id": 1456,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المكاتيم",
+      "name_en": "Al Makatim",
+      "slug": "al-makatim"
+    },
+    {
+      "city_id": 1457,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحكمان",
+      "name_en": "Al Hukman",
+      "slug": "al-hukman"
+    },
+    {
+      "city_id": 1458,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الكلبة",
+      "name_en": "Al Kalibah",
+      "slug": "al-kalibah"
+    },
+    {
+      "city_id": 1459,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الثراوين",
+      "name_en": "Ath Tharawin",
+      "slug": "ath-tharawin"
+    },
+    {
+      "city_id": 1460,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "قريش الحسن",
+      "name_en": "Quraysh Al Hasan",
+      "slug": "quraysh-al-hasan"
+    },
+    {
+      "city_id": 1461,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الضبيعات",
+      "name_en": "Ad Dubayat",
+      "slug": "ad-dubayat"
+    },
+    {
+      "city_id": 1462,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "وادي بطحان",
+      "name_en": "Wadi Bathan",
+      "slug": "wadi-bathan"
+    },
+    {
+      "city_id": 1463,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الكرادسة",
+      "name_en": "Al Karadisah",
+      "slug": "al-karadisah"
+    },
+    {
+      "city_id": 1464,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "سبيحة العليا",
+      "name_en": "Sabihah Al Ulya",
+      "slug": "sabihah-al-ulya"
+    },
+    {
+      "city_id": 1465,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القرى",
+      "name_en": "Al Qara",
+      "slug": "al-qara-1465"
+    },
+    {
+      "city_id": 1466,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الاطاولة",
+      "name_en": "Al Atawlah",
+      "slug": "al-atawlah"
+    },
+    {
+      "city_id": 1467,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بيدة",
+      "name_en": "Baydah",
+      "slug": "baydah"
+    },
+    {
+      "city_id": 1468,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القسمة",
+      "name_en": "Al Qisamah",
+      "slug": "al-qisamah"
+    },
+    {
+      "city_id": 1469,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "نخال",
+      "name_en": "Nikhal",
+      "slug": "nikhal"
+    },
+    {
+      "city_id": 1520,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الهضبة",
+      "name_en": "Al Hadabah",
+      "slug": "al-hadabah-1520"
+    },
+    {
+      "city_id": 1521,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الأبناء",
+      "name_en": "Al Abna",
+      "slug": "al-abna"
+    },
+    {
+      "city_id": 1522,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني جرة",
+      "name_en": "Bani Jarrah",
+      "slug": "bani-jarrah"
+    },
+    {
+      "city_id": 1523,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "آل مرزوق",
+      "name_en": "Al Marzuq",
+      "slug": "al-marzuq-1523"
+    },
+    {
+      "city_id": 1524,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "آل حميد",
+      "name_en": "Al Himayd",
+      "slug": "al-himayd"
+    },
+    {
+      "city_id": 1525,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "جبر",
+      "name_en": "Jabr",
+      "slug": "jabr"
+    },
+    {
+      "city_id": 1526,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "حوالة",
+      "name_en": "Hawalah",
+      "slug": "hawalah"
+    },
+    {
+      "city_id": 1527,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الأزاهرة",
+      "name_en": "Al Azahirah",
+      "slug": "al-azahirah"
+    },
+    {
+      "city_id": 1528,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "دارالسوق",
+      "name_en": "Dar As Suq",
+      "slug": "dar-as-suq"
+    },
+    {
+      "city_id": 1529,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني كبير",
+      "name_en": "Bani Kabir",
+      "slug": "bani-kabir"
+    },
+    {
+      "city_id": 1530,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحمران",
+      "name_en": "Al Humran",
+      "slug": "al-humran"
+    },
+    {
+      "city_id": 1531,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بلجرشي",
+      "name_en": "Biljurashi",
+      "slug": "biljurashi"
+    },
+    {
+      "city_id": 1532,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-1532"
+    },
+    {
+      "city_id": 1533,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بالشهم",
+      "name_en": "Bal Shaham",
+      "slug": "bal-shaham"
+    },
+    {
+      "city_id": 1534,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بادية بني كبير",
+      "name_en": "Badiyat Bani Kabir",
+      "slug": "badiyat-bani-kabir"
+    },
+    {
+      "city_id": 1535,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بلعلاء",
+      "name_en": "Balala",
+      "slug": "balala"
+    },
+    {
+      "city_id": 1536,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العفوص",
+      "name_en": "Al Ufus",
+      "slug": "al-ufus"
+    },
+    {
+      "city_id": 1537,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "خيرة",
+      "name_en": "Khirah",
+      "slug": "khirah"
+    },
+    {
+      "city_id": 1538,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "قرن ظبي",
+      "name_en": "Qarn Dhabi",
+      "slug": "qarn-dhabi"
+    },
+    {
+      "city_id": 1539,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "شبرقة",
+      "name_en": "Shibriqah",
+      "slug": "shibriqah"
+    },
+    {
+      "city_id": 1540,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الغشامرة",
+      "name_en": "Al Ghashamrah",
+      "slug": "al-ghashamrah"
+    },
+    {
+      "city_id": 1541,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العباس",
+      "name_en": "Al Abbas",
+      "slug": "al-abbas-1541"
+    },
+    {
+      "city_id": 1542,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الباحة",
+      "name_en": "Al Baha",
+      "slug": "al-baha"
+    },
+    {
+      "city_id": 1543,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "رغدان",
+      "name_en": "Raghdan",
+      "slug": "raghdan"
+    },
+    {
+      "city_id": 1544,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الظفير",
+      "name_en": "Adh Dhafir",
+      "slug": "adh-dhafir"
+    },
+    {
+      "city_id": 1545,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني حسن",
+      "name_en": "Bani Hasan",
+      "slug": "bani-hasan"
+    },
+    {
+      "city_id": 1546,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بيضان",
+      "name_en": "Baydan",
+      "slug": "baydan"
+    },
+    {
+      "city_id": 1547,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الصغرة",
+      "name_en": "As Saghrah",
+      "slug": "as-saghrah"
+    },
+    {
+      "city_id": 1548,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني ظبيان",
+      "name_en": "Bani Dhabyan",
+      "slug": "bani-dhabyan"
+    },
+    {
+      "city_id": 2809,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني فروة",
+      "name_en": "Bani Farwah",
+      "slug": "bani-farwah"
+    },
+    {
+      "city_id": 2810,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "خدعة",
+      "name_en": "Khidah",
+      "slug": "khidah"
+    },
+    {
+      "city_id": 2811,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحضيري",
+      "name_en": "Al Hudayri",
+      "slug": "al-hudayri"
+    },
+    {
+      "city_id": 2812,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "النعرة",
+      "name_en": "An Naarah",
+      "slug": "an-naarah"
+    },
+    {
+      "city_id": 2813,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الثودة",
+      "name_en": "Ath Thudah",
+      "slug": "ath-thudah"
+    },
+    {
+      "city_id": 2814,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "جعبة",
+      "name_en": "Jiabah",
+      "slug": "jiabah"
+    },
+    {
+      "city_id": 2815,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بني سار",
+      "name_en": "Bani Sar",
+      "slug": "bani-sar"
+    },
+    {
+      "city_id": 2816,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الربوة",
+      "name_en": "Ar Rabwah",
+      "slug": "ar-rabwah"
+    },
+    {
+      "city_id": 2817,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحشرج",
+      "name_en": "Al Hashraj",
+      "slug": "al-hashraj-2817"
+    },
+    {
+      "city_id": 2818,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "مرازيق",
+      "name_en": "Maraziq",
+      "slug": "maraziq"
+    },
+    {
+      "city_id": 2819,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العقيق",
+      "name_en": "Al Aqiq",
+      "slug": "al-aqiq-2819"
+    },
+    {
+      "city_id": 2820,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المطرية",
+      "name_en": "Al Mutariyah",
+      "slug": "al-mutariyah"
+    },
+    {
+      "city_id": 2821,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "معشوقة",
+      "name_en": "Mashuqah",
+      "slug": "mashuqah-2821"
+    },
+    {
+      "city_id": 2822,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "وراخ",
+      "name_en": "Wurakh",
+      "slug": "wurakh"
+    },
+    {
+      "city_id": 2823,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "جرب",
+      "name_en": "Jarab",
+      "slug": "jarab"
+    },
+    {
+      "city_id": 2824,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "كرا الحائط",
+      "name_en": "Kara Al Hait",
+      "slug": "kara-al-hait"
+    },
+    {
+      "city_id": 2825,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "النصباء",
+      "name_en": "An Nasba",
+      "slug": "an-nasba"
+    },
+    {
+      "city_id": 2826,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بالحكم",
+      "name_en": "Balhakam",
+      "slug": "balhakam"
+    },
+    {
+      "city_id": 2827,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "آل صقاعة",
+      "name_en": "Al Suqaah",
+      "slug": "al-suqaah"
+    },
+    {
+      "city_id": 2828,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المغثة",
+      "name_en": "Al Maghthah",
+      "slug": "al-maghthah"
+    },
+    {
+      "city_id": 2829,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "حظوة",
+      "name_en": "Hadhwah",
+      "slug": "hadhwah"
+    },
+    {
+      "city_id": 2830,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العقب",
+      "name_en": "Al Aqib",
+      "slug": "al-aqib"
+    },
+    {
+      "city_id": 2831,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "عمضان",
+      "name_en": "Amdan",
+      "slug": "amdan-2831"
+    },
+    {
+      "city_id": 2832,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "آل حبيبة",
+      "name_en": "Al Habibah",
+      "slug": "al-habibah"
+    },
+    {
+      "city_id": 2833,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "مراوة",
+      "name_en": "Marawah",
+      "slug": "marawah"
+    },
+    {
+      "city_id": 2834,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الصفح",
+      "name_en": "As Safh",
+      "slug": "as-safh"
+    },
+    {
+      "city_id": 2835,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المندق",
+      "name_en": "Al Mandaq",
+      "slug": "al-mandaq"
+    },
+    {
+      "city_id": 2836,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "بالخزمر",
+      "name_en": "Bal Khazmar",
+      "slug": "bal-khazmar"
+    },
+    {
+      "city_id": 2837,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-2837"
+    },
+    {
+      "city_id": 2838,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "ال نعمة",
+      "name_en": "Al Namah",
+      "slug": "al-namah"
+    },
+    {
+      "city_id": 2839,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "دوس",
+      "name_en": "Daws",
+      "slug": "daws"
+    },
+    {
+      "city_id": 2840,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الطرف",
+      "name_en": "At Taraf",
+      "slug": "at-taraf-2840"
+    },
+    {
+      "city_id": 2841,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الخليف",
+      "name_en": "Al Khalif",
+      "slug": "al-khalif-2841"
+    },
+    {
+      "city_id": 2842,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "أبو غبار",
+      "name_en": "Abu Ghubar",
+      "slug": "abu-ghubar"
+    },
+    {
+      "city_id": 3201,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "إبن غوف",
+      "name_en": "Ibn Ghuf",
+      "slug": "ibn-ghuf"
+    },
+    {
+      "city_id": 3202,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الميفا",
+      "name_en": "Al Mifa",
+      "slug": "al-mifa-3202"
+    },
+    {
+      "city_id": 3203,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-3203"
+    },
+    {
+      "city_id": 3204,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الامرة",
+      "name_en": "Al Umrah",
+      "slug": "al-umrah"
+    },
+    {
+      "city_id": 3205,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "النجيل",
+      "name_en": "An Nijil",
+      "slug": "an-nijil"
+    },
+    {
+      "city_id": 3206,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الطيف",
+      "name_en": "At Tayf",
+      "slug": "at-tayf"
+    },
+    {
+      "city_id": 3207,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "السمعة",
+      "name_en": "As Samaah",
+      "slug": "as-samaah"
+    },
+    {
+      "city_id": 3208,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "نابر",
+      "name_en": "Nabir",
+      "slug": "nabir"
+    },
+    {
+      "city_id": 3209,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الضاحي",
+      "name_en": "Ad Dahi",
+      "slug": "ad-dahi-3209"
+    },
+    {
+      "city_id": 3210,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الزرعة",
+      "name_en": "Az Ziraah",
+      "slug": "az-ziraah"
+    },
+    {
+      "city_id": 3211,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الاشيرة",
+      "name_en": "Al Ishayrah",
+      "slug": "al-ishayrah"
+    },
+    {
+      "city_id": 3212,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الصور",
+      "name_en": "As Sur",
+      "slug": "as-sur-3212"
+    },
+    {
+      "city_id": 3213,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "فرعة العطاردة",
+      "name_en": "Farat Al Atardah",
+      "slug": "farat-al-atardah"
+    },
+    {
+      "city_id": 3214,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القهب",
+      "name_en": "Al Qahab",
+      "slug": "al-qahab-3214"
+    },
+    {
+      "city_id": 3215,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحصحص",
+      "name_en": "Al Hashas",
+      "slug": "al-hashas"
+    },
+    {
+      "city_id": 3216,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "قراما",
+      "name_en": "Qurama",
+      "slug": "qurama"
+    },
+    {
+      "city_id": 3217,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العياش",
+      "name_en": "Al Ayyash",
+      "slug": "al-ayyash"
+    },
+    {
+      "city_id": 3218,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "آل سعيد",
+      "name_en": "Al Said",
+      "slug": "al-said-3218"
+    },
+    {
+      "city_id": 3219,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الغصنة",
+      "name_en": "Al Ghasanah",
+      "slug": "al-ghasanah"
+    },
+    {
+      "city_id": 3220,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "قلوة",
+      "name_en": "Qilwah",
+      "slug": "qilwah"
+    },
+    {
+      "city_id": 3221,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الشعراء",
+      "name_en": "Ash Shara",
+      "slug": "ash-shara-3221"
+    },
+    {
+      "city_id": 3222,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "نيرا",
+      "name_en": "Nira",
+      "slug": "nira"
+    },
+    {
+      "city_id": 3223,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الجوة",
+      "name_en": "Al Jiwah",
+      "slug": "al-jiwah"
+    },
+    {
+      "city_id": 3224,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الفرع",
+      "name_en": "Al Far",
+      "slug": "al-far-3224"
+    },
+    {
+      "city_id": 3225,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الهتافرة",
+      "name_en": "Al Hatafirah",
+      "slug": "al-hatafirah"
+    },
+    {
+      "city_id": 3226,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القريع",
+      "name_en": "Al Qari",
+      "slug": "al-qari-3226"
+    },
+    {
+      "city_id": 3227,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المسودة",
+      "name_en": "Al Maswadah",
+      "slug": "al-maswadah"
+    },
+    {
+      "city_id": 3228,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحشو",
+      "name_en": "Al Hashu",
+      "slug": "al-hashu"
+    },
+    {
+      "city_id": 3229,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "فرعة بني سهيم",
+      "name_en": "Farat Bani Suhaym",
+      "slug": "farat-bani-suhaym"
+    },
+    {
+      "city_id": 3230,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العقدة",
+      "name_en": "Al Uqdah",
+      "slug": "al-uqdah-3230"
+    },
+    {
+      "city_id": 3231,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "العواصية",
+      "name_en": "Al Awasiyah",
+      "slug": "al-awasiyah"
+    },
+    {
+      "city_id": 3232,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "القصيباء",
+      "name_en": "Al Qusayba",
+      "slug": "al-qusayba"
+    },
+    {
+      "city_id": 3233,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-3233"
+    },
+    {
+      "city_id": 3234,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "الحصن",
+      "name_en": "Al Husn",
+      "slug": "al-husn"
+    },
+    {
+      "city_id": 3235,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "غامد الزناد",
+      "name_en": "Ghamid Az Zinad",
+      "slug": "ghamid-az-zinad"
+    },
+    {
+      "city_id": 3236,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "المخواة",
+      "name_en": "Al Mukhwah",
+      "slug": "al-mukhwah"
+    },
+    {
+      "city_id": 3237,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "نصبة",
+      "name_en": "Nusubah",
+      "slug": "nusubah"
+    },
+    {
+      "city_id": 3238,
+      "region_id": 9,
+      "region_ar": "الباحة",
+      "region_en": "Al Baha",
+      "region_slug": "al-baha",
+      "name_ar": "ناوان",
+      "name_en": "Nawan",
+      "slug": "nawan"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة الباحة (Cities of Al Baha) - تحميل مجاني",
+    "description": "قائمة مدن منطقة الباحة (Al Baha) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Baha administrative region of Saudi Arabia (region_id=9). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 117 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة الباحة (Cities of Al Baha) | ListBase",
+    "seo_description": "تحميل مدن منطقة الباحة (Cities of Al Baha) — 117 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 117 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

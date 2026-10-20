@@ -1,0 +1,544 @@
+{
+  "id": "ar-mudun-chile",
+  "name": "مدن شيلي — Cities of Chile (Arabic names)",
+  "title": "مدن شيلي — Cities of Chile (Arabic names)",
+  "description": "قائمة بأسماء مدن شيلي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 61 cities in Chile with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بوينتي آلتو",
+      "name_en": "Puente Alto",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 573935
+    },
+    {
+      "id": 2,
+      "name_ar": "مايبو",
+      "name_en": "Maipu",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 521627
+    },
+    {
+      "id": 3,
+      "name_ar": "لا فلوريدا",
+      "name_en": "La Florida",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 366916
+    },
+    {
+      "id": 4,
+      "name_ar": "أنتوفاغاستا",
+      "name_en": "Antofagasta",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 348517
+    },
+    {
+      "id": 5,
+      "name_ar": "فينيا ديل مار",
+      "name_en": "Vina del Mar",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 332875
+    },
+    {
+      "id": 6,
+      "name_ar": "سان برناردو",
+      "name_en": "San Bernardo",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 301313
+    },
+    {
+      "id": 7,
+      "name_ar": "فالبارايسو",
+      "name_en": "Valparaiso",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 296655
+    },
+    {
+      "id": 8,
+      "name_ar": "تيموكو",
+      "name_en": "Temuco",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 282415
+    },
+    {
+      "id": 9,
+      "name_ar": "لاس كونديس",
+      "name_en": "Las Condes",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 249893
+    },
+    {
+      "id": 10,
+      "name_ar": "رانكاغوا",
+      "name_en": "Rancagua",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 231370
+    },
+    {
+      "id": 11,
+      "name_ar": "بينالولين",
+      "name_en": "Penalolen",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 216060
+    },
+    {
+      "id": 12,
+      "name_ar": "كويليكورا",
+      "name_en": "Quilicura",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 210410
+    },
+    {
+      "id": 13,
+      "name_ar": "تالكا",
+      "name_en": "Talca",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 206069
+    },
+    {
+      "id": 14,
+      "name_ar": "إقليم كوكيمبو",
+      "name_en": "Coquimbo",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 204068
+    },
+    {
+      "id": 15,
+      "name_ar": "لا سيرينا",
+      "name_en": "La Serena",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 195382
+    },
+    {
+      "id": 16,
+      "name_ar": "إيكويكو",
+      "name_en": "Iquique",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 188003
+    },
+    {
+      "id": 17,
+      "name_ar": "لا بينتانا",
+      "name_en": "La Pintana",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 177335
+    },
+    {
+      "id": 18,
+      "name_ar": "إل بوسكي",
+      "name_en": "El Bosque",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 175594
+    },
+    {
+      "id": 19,
+      "name_ar": "بويرتو مونت",
+      "name_en": "Puerto Montt",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 169736
+    },
+    {
+      "id": 20,
+      "name_ar": "تالكاهوانو",
+      "name_en": "Talcahuano",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 161692
+    },
+    {
+      "id": 21,
+      "name_ar": "كوبيابوية",
+      "name_en": "Copiapo",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 158438
+    },
+    {
+      "id": 22,
+      "name_ar": "مرجية قصبية",
+      "name_en": "Calama",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 157575
+    },
+    {
+      "id": 23,
+      "name_ar": "كيلبويه",
+      "name_en": "Quilpue",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 147991
+    },
+    {
+      "id": 24,
+      "name_ar": "لوس أنجلوس",
+      "name_en": "Los Angeles",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 143023
+    },
+    {
+      "id": 25,
+      "name_ar": "كوريكو",
+      "name_en": "Curico",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 136954
+    },
+    {
+      "id": 26,
+      "name_ar": "رينكا",
+      "name_en": "Renca",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 133518
+    },
+    {
+      "id": 27,
+      "name_ar": "كونشالي",
+      "name_en": "Conchali",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 133256
+    },
+    {
+      "id": 28,
+      "name_ar": "فيلا آليمانا",
+      "name_en": "Villa Alemana",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 126548
+    },
+    {
+      "id": 29,
+      "name_ar": "بونتا أريناس",
+      "name_en": "Punta Arenas",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 123403
+    },
+    {
+      "id": 30,
+      "name_ar": "تنكس بقعي",
+      "name_en": "Macul",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 116534
+    },
+    {
+      "id": 31,
+      "name_ar": "كورونل",
+      "name_en": "Coronel",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 116262
+    },
+    {
+      "id": 32,
+      "name_ar": "ألتو هوسبيكيو",
+      "name_en": "Alto Hospicio",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 108375
+    },
+    {
+      "id": 33,
+      "name_ar": "لو بارنيشيا",
+      "name_en": "Lo Barnechea",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 105833
+    },
+    {
+      "id": 34,
+      "name_ar": "سان رامون",
+      "name_en": "San Ramon",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 94906
+    },
+    {
+      "id": 35,
+      "name_ar": "لا رينا",
+      "name_en": "La Reina",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 92787
+    },
+    {
+      "id": 36,
+      "name_ar": "سان أنطونيو",
+      "name_en": "San Antonio",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 86239
+    },
+    {
+      "id": 37,
+      "name_ar": "شيغوانتي",
+      "name_en": "Chiguayante",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 85863
+    },
+    {
+      "id": 38,
+      "name_ar": "كويهايكيو",
+      "name_en": "Coyhaique",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 61210
+    },
+    {
+      "id": 39,
+      "name_ar": "لوس آنديس",
+      "name_en": "Los Andes",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 59388
+    },
+    {
+      "id": 40,
+      "name_ar": "سان فرناندو، الفلبين",
+      "name_en": "San Fernando",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 58367
+    },
+    {
+      "id": 41,
+      "name_ar": "فيلاريشا",
+      "name_en": "Villarrica",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 55478
+    },
+    {
+      "id": 42,
+      "name_ar": "أنغولا",
+      "name_en": "Angol",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 48608
+    },
+    {
+      "id": 43,
+      "name_ar": "ليماش",
+      "name_en": "Limache",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 46121
+    },
+    {
+      "id": 44,
+      "name_ar": "فالينار",
+      "name_en": "Vallenar",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 45298
+    },
+    {
+      "id": 45,
+      "name_ar": "بربوط",
+      "name_en": "Lota",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 43272
+    },
+    {
+      "id": 46,
+      "name_ar": "ماتشالي",
+      "name_en": "Machali",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 42572
+    },
+    {
+      "id": 47,
+      "name_ar": "مجلد",
+      "name_en": "Tome",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 42312
+    },
+    {
+      "id": 48,
+      "name_ar": "مولينا",
+      "name_en": "Molina",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 40329
+    },
+    {
+      "id": 49,
+      "name_ar": "أنكود",
+      "name_en": "Ancud",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 38991
+    },
+    {
+      "id": 50,
+      "name_ar": "ايسلا دي ميبو",
+      "name_en": "Isla de Maipo",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 36219
+    },
+    {
+      "id": 51,
+      "name_ar": "سانتا كروز",
+      "name_en": "Santa Cruz",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 34914
+    },
+    {
+      "id": 52,
+      "name_ar": "فيكتوريا",
+      "name_en": "Victoria",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 34890
+    },
+    {
+      "id": 53,
+      "name_ar": "شيمبارونغو",
+      "name_en": "Chimbarongo",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 33446
+    },
+    {
+      "id": 54,
+      "name_ar": "كاسترو",
+      "name_en": "Castro",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 33417
+    },
+    {
+      "id": 55,
+      "name_ar": "كيوراناي لاهيو",
+      "name_en": "Curanilahue",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 32288
+    },
+    {
+      "id": 56,
+      "name_ar": "كونكون",
+      "name_en": "Concon",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 32273
+    },
+    {
+      "id": 57,
+      "name_ar": "كوينتيرو",
+      "name_en": "Quintero",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 31923
+    },
+    {
+      "id": 58,
+      "name_ar": "نويفا إمبريال",
+      "name_en": "Nueva Imperial",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 31632
+    },
+    {
+      "id": 59,
+      "name_ar": "سان خافيير",
+      "name_en": "San Javier",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 29017
+    },
+    {
+      "id": 60,
+      "name_ar": "بوكون",
+      "name_en": "Pucon",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 28923
+    },
+    {
+      "id": 61,
+      "name_ar": "لونجافي",
+      "name_en": "Longavi",
+      "country_ar": "شيلي",
+      "country_en": "Chile",
+      "population": 28499
+    }
+  ],
+  "meta": {
+    "title": "مدن شيلي — Cities of Chile (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن شيلي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 61 cities in Chile with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 61 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن شيلي — Cities of Chile (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن شيلي — Cities of Chile (Arabic names) — 61 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 61 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

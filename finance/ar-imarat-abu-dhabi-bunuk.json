@@ -1,0 +1,996 @@
+{
+  "id": "ar-imarat-abu-dhabi-bunuk",
+  "name": "بنوك Abu Dhabi — الإمارات العربية المتحدة — رموز سويفت (Banks of Abu Dhabi, United Arab Emirates — SWIFT/BIC codes)",
+  "title": "بنوك Abu Dhabi — الإمارات العربية المتحدة — رموز سويفت (Banks of Abu Dhabi, United Arab Emirates — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Abu Dhabi (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 135 سجلًا. List of banks, financial institutions and their branches in Abu Dhabi, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 135 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(CASH MANAGEMENT DEPARTMENT)",
+      "swift_code": "ADCBAEAACMD"
+    },
+    {
+      "id": 2,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(FINANCE  DEPARTEMENT)",
+      "swift_code": "ADCBAEAAFIN"
+    },
+    {
+      "id": 3,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(RBS)",
+      "swift_code": "ADCBAEAAREM"
+    },
+    {
+      "id": 4,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(TREASURY SETTLEMENTS)",
+      "swift_code": "ADCBAEAATRY"
+    },
+    {
+      "id": 5,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADCBAEAA"
+    },
+    {
+      "id": 6,
+      "bank": "ABU DHABI FUND FOR DEVELOPMENT",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADFDAEAA"
+    },
+    {
+      "id": 7,
+      "bank": "ABU DHABI INVESTMENT AUTHORITY",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADINAEAA"
+    },
+    {
+      "id": 8,
+      "bank": "ABU DHABI INVESTMENT COUNCIL",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADCNAEAA"
+    },
+    {
+      "id": 9,
+      "bank": "ABU DHABI INVESTMENT COUNCIL",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADCNAEAD"
+    },
+    {
+      "id": 10,
+      "bank": "ABU DHABI ISLAMIC BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ABDIAEAD"
+    },
+    {
+      "id": 11,
+      "bank": "ABU DHABI RETIRMENT PENSION AND BENEFITS FUND",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADPFAEAA"
+    },
+    {
+      "id": 12,
+      "bank": "ABU DHABI RETIRMENT PENSION AND BENEFITS FUND",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADPFAEAB"
+    },
+    {
+      "id": 13,
+      "bank": "ABU DHABI SECURITIES MARKET",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADSEAEA1"
+    },
+    {
+      "id": 14,
+      "bank": "ADS SECURITIES LLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADSLAEAD"
+    },
+    {
+      "id": 15,
+      "bank": "AL AHALIA MONEY EXCHANGE BUREAU",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "AHXBAEAD"
+    },
+    {
+      "id": 16,
+      "bank": "AL AHLI BANK OF KUWAIT K.S.C.P, ABUDHABI BRANCH",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ABKKAEAA"
+    },
+    {
+      "id": 17,
+      "bank": "AL ANSARI EXCHANGE LLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ALANAEAA"
+    },
+    {
+      "id": 18,
+      "bank": "AL DHABI INVESTMENT PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ALDHAEA1"
+    },
+    {
+      "id": 19,
+      "bank": "AL FARDAN EXCHANGE",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "FEXEAEAA"
+    },
+    {
+      "id": 20,
+      "bank": "AL FARDAN EXCHANGE AND FINANCE CO.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ALFEAEA1"
+    },
+    {
+      "id": 21,
+      "bank": "AL HILAL BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "HLALAEAA"
+    },
+    {
+      "id": 22,
+      "bank": "ALFALAH EXCHANGE COMPANY",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "AFECAEAA"
+    },
+    {
+      "id": 23,
+      "bank": "ALRAMZ SECURITIES CO.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ALRSAEA1"
+    },
+    {
+      "id": 24,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI)",
+      "swift_code": "ARAIAEADAUH"
+    },
+    {
+      "id": 25,
+      "bank": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+      "city": "ABU DHABI",
+      "branch": "(AL-SOUK BRANCH)",
+      "swift_code": "ABINAEAASUK"
+    },
+    {
+      "id": 26,
+      "bank": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+      "city": "ABU DHABI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "ABINAEAA"
+    },
+    {
+      "id": 27,
+      "bank": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+      "city": "ABU DHABI",
+      "branch": "(TRADE FINANCE SERVICES)",
+      "swift_code": "ABINAEAATFS"
+    },
+    {
+      "id": 28,
+      "bank": "ARAB BANK PLC",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "ARABAEADABD"
+    },
+    {
+      "id": 29,
+      "bank": "ARAB BANK PLC",
+      "city": "ABU DHABI",
+      "branch": "(UAE BRANCHES CENTER)",
+      "swift_code": "ARABAEADABC"
+    },
+    {
+      "id": 30,
+      "bank": "ARAB GERMAN INTERNATIONAL BROKER FINANCE BROKERS L.L.C.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "AGIOAEA1"
+    },
+    {
+      "id": 31,
+      "bank": "ARAB LINK MONEY TRANSFER",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ALNKAEAD"
+    },
+    {
+      "id": 32,
+      "bank": "ARAB MONETARY FUND",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ARMFAEAA"
+    },
+    {
+      "id": 33,
+      "bank": "ARAB TRADE FINANCING PROGRAM",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ATFPAEAD"
+    },
+    {
+      "id": 34,
+      "bank": "BANK MELLI IRAN",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "MELIAEADADH"
+    },
+    {
+      "id": 35,
+      "bank": "BANK OF BARODA",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "BARBAEADADH"
+    },
+    {
+      "id": 36,
+      "bank": "BANK OF CHINA ABU DHABI BRANCH",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BKCHAEAA"
+    },
+    {
+      "id": 37,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BOTKAEAA"
+    },
+    {
+      "id": 38,
+      "bank": "BANQUE MISR",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "BCAIAEAA802"
+    },
+    {
+      "id": 39,
+      "bank": "BANQUE MISR",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BCAIAEAA"
+    },
+    {
+      "id": 40,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BARCAEAD"
+    },
+    {
+      "id": 41,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BARCAEADABU"
+    },
+    {
+      "id": 42,
+      "bank": "BNP PARIBAS, ABU DHABI",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BNPAAEAA"
+    },
+    {
+      "id": 43,
+      "bank": "CENTRAL BANK OF THE U.A.E.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "CBAUAEAA"
+    },
+    {
+      "id": 44,
+      "bank": "CITIBANK, N.A.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "CITIAEA1"
+    },
+    {
+      "id": 45,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "CLBIAEADAD1"
+    },
+    {
+      "id": 46,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "CBDUAEADADH"
+    },
+    {
+      "id": 47,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "DEUTAEAA"
+    },
+    {
+      "id": 48,
+      "bank": "DOHA BANK",
+      "city": "ABU DHABI",
+      "branch": "(BRA)",
+      "swift_code": "DOHBAEADABU"
+    },
+    {
+      "id": 49,
+      "bank": "EL-NILEIN BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NILBAEAA"
+    },
+    {
+      "id": 50,
+      "bank": "EMIRATES BANKS ASSOCIATION",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "EMIBAEA1"
+    },
+    {
+      "id": 51,
+      "bank": "EMIRATES DEVELOPMENT BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "EMDVAEAD"
+    },
+    {
+      "id": 52,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "ABU DHABI",
+      "branch": "(SH. RASHID STREET BRANCH)",
+      "swift_code": "MEBLAEADADC"
+    },
+    {
+      "id": 53,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "EBILAEADADB"
+    },
+    {
+      "id": 54,
+      "bank": "ETIHAD AIRWAYS",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ETIHAEAD"
+    },
+    {
+      "id": 55,
+      "bank": "FINANCE HOUSE P.J.S.C",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "FHOUAEAD"
+    },
+    {
+      "id": 56,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI MALL)",
+      "swift_code": "NBADAEAAAML"
+    },
+    {
+      "id": 57,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL ETIHAD BRANCH)",
+      "swift_code": "NBADAEAADEF"
+    },
+    {
+      "id": 58,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL MIRFA BRANCH)",
+      "swift_code": "NBADAEAAMIR"
+    },
+    {
+      "id": 59,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL MUROOR BRANCH)",
+      "swift_code": "NBADAEAAMUR"
+    },
+    {
+      "id": 60,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL RUWAIS BRANCH)",
+      "swift_code": "NBADAEAARUW"
+    },
+    {
+      "id": 61,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL SALAM STREET BRANCH)",
+      "swift_code": "NBADAEAASLM"
+    },
+    {
+      "id": 62,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(AL SHAHAMA BRANCH)",
+      "swift_code": "NBADAEAASHB"
+    },
+    {
+      "id": 63,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(ARABIAN GULF OFFICE)",
+      "swift_code": "NBADAEAAAGO"
+    },
+    {
+      "id": 64,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(ASSET MANAGEMENT GROUP)",
+      "swift_code": "NBADAEAAAMG"
+    },
+    {
+      "id": 65,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(BANIYAS BRANCH)",
+      "swift_code": "NBADAEAABAN"
+    },
+    {
+      "id": 66,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(BATIN BRANCH)",
+      "swift_code": "NBADAEAABAT"
+    },
+    {
+      "id": 67,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(BETWEEN THE TWO BRIDGES)",
+      "swift_code": "NBADAEAABTB"
+    },
+    {
+      "id": 68,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(CARD CENTRE)",
+      "swift_code": "NBADAEAACSU"
+    },
+    {
+      "id": 69,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(CASH MANAGEMENT SERVICES)",
+      "swift_code": "NBADAEAACMS"
+    },
+    {
+      "id": 70,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(COLLECTION DEPARTMENT, RETAIL OPERATION CENTRE,)",
+      "swift_code": "NBADAEAACOL"
+    },
+    {
+      "id": 71,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(CORNICHE BRANCH)",
+      "swift_code": "NBADAEAACOR"
+    },
+    {
+      "id": 72,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(DAS ISLAND BRANCH)",
+      "swift_code": "NBADAEAADAS"
+    },
+    {
+      "id": 73,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(DELMA BRANCH)",
+      "swift_code": "NBADAEAADEL"
+    },
+    {
+      "id": 74,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(DOMESTIC CAPITAL MARKETS GROUP)",
+      "swift_code": "NBADAEAADCM"
+    },
+    {
+      "id": 75,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(GLOBAL CASH MANAGEMENT (CIBD))",
+      "swift_code": "NBADAEAAEST"
+    },
+    {
+      "id": 76,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(INTERNATIONAL AIRPORT BRANCH)",
+      "swift_code": "NBADAEAAAIR"
+    },
+    {
+      "id": 77,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(INVESTIGATIONS AND FOLLOW-UP UNIT)",
+      "swift_code": "NBADAEAAIFU"
+    },
+    {
+      "id": 78,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(ISLAMIC BANKING DIVISION)",
+      "swift_code": "NBADAEAAISD"
+    },
+    {
+      "id": 79,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(KEY MANAGEMENT AUTHORITY H.O.)",
+      "swift_code": "NBADAEAAKMA"
+    },
+    {
+      "id": 80,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(KHAILIDIYA BRANCH)",
+      "swift_code": "NBADAEAAKHB"
+    },
+    {
+      "id": 81,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(LIWA BRANCH,WESTERN REGION)",
+      "swift_code": "NBADAEAALWA"
+    },
+    {
+      "id": 82,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(MADINAT ZAYED BRANCH)",
+      "swift_code": "NBADAEAAMZD"
+    },
+    {
+      "id": 83,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "NBADAEAAKHF"
+    },
+    {
+      "id": 84,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(MINA ROAD BRANCH)",
+      "swift_code": "NBADAEAAMIN"
+    },
+    {
+      "id": 85,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(MUSSAFAH BRANCH)",
+      "swift_code": "NBADAEAAMUS"
+    },
+    {
+      "id": 86,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(NBAD-DIRECT)",
+      "swift_code": "NBADAEAADIR"
+    },
+    {
+      "id": 87,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(NBAD-ONLINE SERVICE)",
+      "swift_code": "NBADAEAAONL"
+    },
+    {
+      "id": 88,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(NEW AL SHAHAMA BRANCH)",
+      "swift_code": "NBADAEAASHM"
+    },
+    {
+      "id": 89,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(RECONCILIATION DEPARTMENT)",
+      "swift_code": "NBADAEAAREC"
+    },
+    {
+      "id": 90,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(RETAIL OPERATIONS CENTRE)",
+      "swift_code": "NBADAEAACPU"
+    },
+    {
+      "id": 91,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(SECURITIES SERVICES DEPARTMENT)",
+      "swift_code": "NBADAEAASSD"
+    },
+    {
+      "id": 92,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(SH. RASHID ROAD BRANCH)",
+      "swift_code": "NBADAEAAFSB"
+    },
+    {
+      "id": 93,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(SYNDICATION LOANS,)",
+      "swift_code": "NBADAEAASYN"
+    },
+    {
+      "id": 94,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(TRADE FINANCE OPERATIONS)",
+      "swift_code": "NBADAEAATFO"
+    },
+    {
+      "id": 95,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(VOSTRO ACCOUNTS SECTION H.O.)",
+      "swift_code": "NBADAEAAVOS"
+    },
+    {
+      "id": 96,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "(WHOLESALE OPERATIONS CENTRE)",
+      "swift_code": "NBADAEAACOD"
+    },
+    {
+      "id": 97,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "FGBMAEAA"
+    },
+    {
+      "id": 98,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NBADAEAA"
+    },
+    {
+      "id": 99,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NBADAEAB"
+    },
+    {
+      "id": 100,
+      "bank": "FIRST GULF FINANCIAL SERVICES",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "FGFEAEA1"
+    },
+    {
+      "id": 101,
+      "bank": "GENERAL PENSION AND SOCIAL SECURITY",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "GPSSAEAD"
+    },
+    {
+      "id": 102,
+      "bank": "GULF INTERNATIONAL BANK B.S.C.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "GULFAEAA"
+    },
+    {
+      "id": 103,
+      "bank": "HABIB BANK LIMITED",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "HABBAEA10AA"
+    },
+    {
+      "id": 104,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BBMEAEADABU"
+    },
+    {
+      "id": 105,
+      "bank": "INDEX EXCHANGE LLC(FORMERLY HABIB EXCHANGE CO.L.L.C.)",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "HEXCAEAA"
+    },
+    {
+      "id": 106,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED-ABU DHABI BRANCH",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ICBKAEAA"
+    },
+    {
+      "id": 107,
+      "bank": "INTERNATIONAL PETROLEUM INVESTMENT COMPANY",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "IPIOAEA1"
+    },
+    {
+      "id": 108,
+      "bank": "INTESA SANPAOLO - ABU DHABI BRANCH",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "BCITAEAB"
+    },
+    {
+      "id": 109,
+      "bank": "INVEST AD",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "ADICAEAA"
+    },
+    {
+      "id": 110,
+      "bank": "ISLAMIC FINANCE HOUSE PVT. JSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "IFHOAEAA"
+    },
+    {
+      "id": 111,
+      "bank": "ITTIHAD INTERNATIONAL INVESTMENT L.L.C.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "IIICAEA1"
+    },
+    {
+      "id": 112,
+      "bank": "JANATA BANK",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "JANBAEAAAUH"
+    },
+    {
+      "id": 113,
+      "bank": "JANATA BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "JANBAEAA"
+    },
+    {
+      "id": 114,
+      "bank": "KEB HANA BANK ABUDHABI BRANCH",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "KOEXAEAD"
+    },
+    {
+      "id": 115,
+      "bank": "LARI EXCHANGE",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "LAEEAEAA"
+    },
+    {
+      "id": 116,
+      "bank": "LIBERTY INTERNATIONAL BANK LIMITED",
+      "city": "ABU DHABI",
+      "branch": "(ADGM)",
+      "swift_code": "LIBLAEAAAGM"
+    },
+    {
+      "id": 117,
+      "bank": "LIBERTY INTERNATIONAL BANK LIMITED",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "LIBLAEAA"
+    },
+    {
+      "id": 118,
+      "bank": "LULU INTERNATIONAL EXCHANGE",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "LULUAEAD"
+    },
+    {
+      "id": 119,
+      "bank": "MAKASEB ISLAMIC FINANCIAL SERVICES LLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "MIFRAEA1"
+    },
+    {
+      "id": 120,
+      "bank": "MENA CORP FINANCIAL SERVICES LLC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "MFELAEA1"
+    },
+    {
+      "id": 121,
+      "bank": "MUBADALA DEVELOPMENT COMPANY PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "MUBDAEAA"
+    },
+    {
+      "id": 122,
+      "bank": "MUBADALA DEVELOPMENT COMPANY PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "MUBDAEAAIPC"
+    },
+    {
+      "id": 123,
+      "bank": "NATIONAL BANK OF BAHRAIN",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NBOBAEAA"
+    },
+    {
+      "id": 124,
+      "bank": "NATIONAL BANK OF FUJAIRAH",
+      "city": "ABU DHABI",
+      "branch": "(ABU DHABI BRANCH)",
+      "swift_code": "NBFUAEAFAUH"
+    },
+    {
+      "id": 125,
+      "bank": "NATIONAL BANK OF OMAN",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NBOMAEAD"
+    },
+    {
+      "id": 126,
+      "bank": "NATIONAL EXCHANGE COMPANY",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "NECXAEAD"
+    },
+    {
+      "id": 127,
+      "bank": "NATIONAL INVESTMENT AND SECURITIES CORP (NISCORP)",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "INSNAEA1"
+    },
+    {
+      "id": 128,
+      "bank": "PRIME EMIRATES L.L.C",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "PRELAEA1"
+    },
+    {
+      "id": 129,
+      "bank": "SIRAJ FINANCE PJSC",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "SRAJAEAA"
+    },
+    {
+      "id": 130,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "SCBLAEADABD"
+    },
+    {
+      "id": 131,
+      "bank": "U.A.E. EXCHANGE CENTRE",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "UAEXAEAA"
+    },
+    {
+      "id": 132,
+      "bank": "UNICREDIT S.P.A.",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "UNCRAEAA"
+    },
+    {
+      "id": 133,
+      "bank": "UNION NATIONAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(SALAM STREET)",
+      "swift_code": "UNBEAEAAQTR"
+    },
+    {
+      "id": 134,
+      "bank": "UNION NATIONAL BANK",
+      "city": "ABU DHABI",
+      "branch": "(TRADE FINANCE SERVICES AREA)",
+      "swift_code": "UNBEAEAATFS"
+    },
+    {
+      "id": 135,
+      "bank": "UNION NATIONAL BANK",
+      "city": "ABU DHABI",
+      "branch": "",
+      "swift_code": "UNBEAEAA"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Abu Dhabi — الإمارات العربية المتحدة — رموز سويفت (Banks of Abu Dhabi, United Arab Emirates — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Abu Dhabi (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 135 سجلًا. List of banks, financial institutions and their branches in Abu Dhabi, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 135 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT). يحتوي على 135 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Abu Dhabi — الإمارات العربية المتحدة — رموز سويفت (Banks of Abu Dhabi, United Arab Emirates — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Abu Dhabi — الإمارات العربية المتحدة — رموز سويفت (Banks of Abu Dhabi, United Arab Emirates — SWIFT/BIC codes) — 135 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 135 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ar-misr-kafr-el-sheikh-mudun",
+  "name": "مدن ومراكز محافظة كفر الشيخ (Cities & Towns of Kafr El Sheikh)",
+  "title": "مدن ومراكز محافظة كفر الشيخ (Cities & Towns of Kafr El Sheikh)",
+  "description": "قائمة مدن ومراكز محافظة كفر الشيخ في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Kafr El Sheikh governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "68",
+      "name_ar": "البرلس",
+      "name_en": "brolos",
+      "name_long_ar": "البرلس، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "67",
+      "name_ar": "الحامول",
+      "name_en": "hamoul",
+      "name_long_ar": "الحامول، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "70",
+      "name_ar": "الرياض",
+      "name_en": "riyadh",
+      "name_long_ar": "الرياض، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "392",
+      "name_ar": "بلطيم",
+      "name_en": "baltim",
+      "name_long_ar": "بلطيم، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "64",
+      "name_ar": "بيلا",
+      "name_en": "bella",
+      "name_long_ar": "بيلا، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "63",
+      "name_ar": "دسوق",
+      "name_en": "desouk",
+      "name_long_ar": "دسوق، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "69",
+      "name_ar": "سيدى سالم",
+      "name_en": "sidi-salem",
+      "name_long_ar": "سيدى سالم، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "71",
+      "name_ar": "فوه",
+      "name_en": "fouh",
+      "name_long_ar": "فوه، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "65",
+      "name_ar": "قلين",
+      "name_en": "qaleen",
+      "name_long_ar": "قلين، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "163",
+      "name_ar": "مدينة كفر الشيخ",
+      "name_en": "kafr-al-sheikh-city",
+      "name_long_ar": "مدينة كفر الشيخ، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    },
+    {
+      "id": "66",
+      "name_ar": "مطوبس",
+      "name_en": "motobas",
+      "name_long_ar": "مطوبس، كفر الشيخ",
+      "muhafaza_ar": "كفر الشيخ",
+      "muhafaza_en": "kafr-el-sheikh",
+      "muhafaza_id": 63
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة كفر الشيخ (Cities & Towns of Kafr El Sheikh) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة كفر الشيخ في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Kafr El Sheikh governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة كفر الشيخ (Cities & Towns of Kafr El Sheikh) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة كفر الشيخ (Cities & Towns of Kafr El Sheikh) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

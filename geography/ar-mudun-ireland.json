@@ -1,0 +1,352 @@
+{
+  "id": "ar-mudun-ireland",
+  "name": "مدن أيرلندا — Cities of Ireland (Arabic names)",
+  "title": "مدن أيرلندا — Cities of Ireland (Arabic names)",
+  "description": "قائمة بأسماء مدن أيرلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 37 cities in Ireland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دبلن",
+      "name_en": "Dublin",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 592713
+    },
+    {
+      "id": 2,
+      "name_ar": "كورك",
+      "name_en": "Cork",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 222333
+    },
+    {
+      "id": 3,
+      "name_ar": "مقاطعة غالواي",
+      "name_en": "Galway",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 83456
+    },
+    {
+      "id": 4,
+      "name_ar": "مقاطعة ليمريك",
+      "name_en": "Limerick",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 62702
+    },
+    {
+      "id": 5,
+      "name_ar": "لوكا جيوردانو",
+      "name_en": "Lucan",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 57550
+    },
+    {
+      "id": 6,
+      "name_ar": "مقاطعة وترفورد",
+      "name_en": "Waterford",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 48369
+    },
+    {
+      "id": 7,
+      "name_ar": "دروهيدا",
+      "name_en": "Drogheda",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 40956
+    },
+    {
+      "id": 8,
+      "name_ar": "دوندالك",
+      "name_en": "Dun Dealgan",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 39004
+    },
+    {
+      "id": 9,
+      "name_ar": "سيف",
+      "name_en": "Swords",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 36924
+    },
+    {
+      "id": 10,
+      "name_ar": "نافان",
+      "name_en": "Navan",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 33886
+    },
+    {
+      "id": 11,
+      "name_ar": "بلاك روك",
+      "name_en": "Blackrock",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 28557
+    },
+    {
+      "id": 12,
+      "name_ar": "دوغلاس",
+      "name_en": "Douglas",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 26883
+    },
+    {
+      "id": 13,
+      "name_ar": "ترالي",
+      "name_en": "Tralee",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 26079
+    },
+    {
+      "id": 14,
+      "name_ar": "مقاطعة كارلو",
+      "name_en": "Carlow",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 24272
+    },
+    {
+      "id": 15,
+      "name_ar": "دون لاوجير - راثداون",
+      "name_en": "Dunleary",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 23857
+    },
+    {
+      "id": 16,
+      "name_ar": "بورتلاويس",
+      "name_en": "Port Laoise",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 23494
+    },
+    {
+      "id": 17,
+      "name_ar": "راذفرانهام",
+      "name_en": "Rathfarnham",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 23276
+    },
+    {
+      "id": 18,
+      "name_ar": "أثلون",
+      "name_en": "Baile Atha Luain",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 22869
+    },
+    {
+      "id": 19,
+      "name_ar": "لتركني",
+      "name_en": "Letterkenny",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 22549
+    },
+    {
+      "id": 20,
+      "name_ar": "مقاطعة كيلكيني",
+      "name_en": "Kilkenny",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 22179
+    },
+    {
+      "id": 21,
+      "name_ar": "ناس",
+      "name_en": "Naas",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 21393
+    },
+    {
+      "id": 22,
+      "name_ar": "أونترلاك",
+      "name_en": "Wexford",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 20188
+    },
+    {
+      "id": 23,
+      "name_ar": "مقاطعة سليجو",
+      "name_en": "Sligo",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 19199
+    },
+    {
+      "id": 24,
+      "name_ar": "كلونمل",
+      "name_en": "Clonmel",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 18369
+    },
+    {
+      "id": 25,
+      "name_ar": "كيلارني",
+      "name_en": "Killarney",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 14412
+    },
+    {
+      "id": 26,
+      "name_ar": "مقاطعة ويكلاو",
+      "name_en": "Wicklow",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 12957
+    },
+    {
+      "id": 27,
+      "name_ar": "كوف",
+      "name_en": "Cobh",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 12347
+    },
+    {
+      "id": 28,
+      "name_ar": "إنيسكورثي",
+      "name_en": "Enniscorthy",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 12310
+    },
+    {
+      "id": 29,
+      "name_ar": "مقاطعة كافان",
+      "name_en": "An Cabhan",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 11741
+    },
+    {
+      "id": 30,
+      "name_ar": "ترامور",
+      "name_en": "Tramore",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 11277
+    },
+    {
+      "id": 31,
+      "name_ar": "سكيريز",
+      "name_en": "Na Sceiri",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 10743
+    },
+    {
+      "id": 32,
+      "name_ar": "نينا",
+      "name_en": "Nenagh",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 9895
+    },
+    {
+      "id": 33,
+      "name_ar": "توام",
+      "name_en": "Tuam",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 9647
+    },
+    {
+      "id": 34,
+      "name_ar": "شانون",
+      "name_en": "Shannon",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 9222
+    },
+    {
+      "id": 35,
+      "name_ar": "موناغان",
+      "name_en": "Monaghan",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 7894
+    },
+    {
+      "id": 36,
+      "name_ar": "مقاطعة روسكومون",
+      "name_en": "Ros Comain",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 6555
+    },
+    {
+      "id": 37,
+      "name_ar": "مقاطعة دونيجال",
+      "name_en": "Donegal",
+      "country_ar": "أيرلندا",
+      "country_en": "Ireland",
+      "population": 2618
+    }
+  ],
+  "meta": {
+    "title": "مدن أيرلندا — Cities of Ireland (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أيرلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 37 cities in Ireland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 37 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أيرلندا — Cities of Ireland (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أيرلندا — Cities of Ireland (Arabic names) — 37 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 37 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

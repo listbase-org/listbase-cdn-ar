@@ -1,0 +1,584 @@
+{
+  "id": "ar-mudun-iraq",
+  "name": "مدن العراق — Cities of Iraq (Arabic names)",
+  "title": "مدن العراق — Cities of Iraq (Arabic names)",
+  "description": "قائمة بأسماء مدن العراق بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 66 cities in Iraq with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بغداد",
+      "name_en": "Baghdad",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 6183000
+    },
+    {
+      "id": 2,
+      "name_ar": "فاموتيدين",
+      "name_en": "Mosul",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 1792000
+    },
+    {
+      "id": 3,
+      "name_ar": "البصرة",
+      "name_en": "Al Basrah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 1326564
+    },
+    {
+      "id": 4,
+      "name_ar": "كركوك",
+      "name_en": "Kirkuk",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 975000
+    },
+    {
+      "id": 5,
+      "name_ar": "محافظة السليمانية",
+      "name_en": "As Sulaymaniyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 878146
+    },
+    {
+      "id": 6,
+      "name_ar": "الرمادي",
+      "name_en": "Ar Ramadi",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 874543
+    },
+    {
+      "id": 7,
+      "name_ar": "النجف",
+      "name_en": "An Najaf",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 724700
+    },
+    {
+      "id": 8,
+      "name_ar": "محافظة كربلاء",
+      "name_en": "Karbala'",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 690100
+    },
+    {
+      "id": 9,
+      "name_ar": "الناصرية",
+      "name_en": "An Nasiriyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 541600
+    },
+    {
+      "id": 10,
+      "name_ar": "الحلة",
+      "name_en": "Al Hillah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 541034
+    },
+    {
+      "id": 11,
+      "name_ar": "العمارة",
+      "name_en": "Al `Amarah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 511500
+    },
+    {
+      "id": 12,
+      "name_ar": "بعقوبة",
+      "name_en": "Ba`qubah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 467900
+    },
+    {
+      "id": 13,
+      "name_ar": "الديوانية",
+      "name_en": "Ad Diwaniyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 391600
+    },
+    {
+      "id": 14,
+      "name_ar": "الزبير",
+      "name_en": "Az Zubayr",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 370000
+    },
+    {
+      "id": 15,
+      "name_ar": "محافظة دهوك",
+      "name_en": "Dahuk",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 330600
+    },
+    {
+      "id": 16,
+      "name_ar": "الشامية",
+      "name_en": "Ash Shamiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 300000
+    },
+    {
+      "id": 17,
+      "name_ar": "القرنة",
+      "name_en": "Al Qurnah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 286073
+    },
+    {
+      "id": 18,
+      "name_ar": "الشطرة",
+      "name_en": "Ash Shatrah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 254000
+    },
+    {
+      "id": 19,
+      "name_ar": "ملعب الفلوجة",
+      "name_en": "Al Fallujah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 250884
+    },
+    {
+      "id": 20,
+      "name_ar": "كلار",
+      "name_en": "Kalar",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 250000
+    },
+    {
+      "id": 21,
+      "name_ar": "ملعب السماوة",
+      "name_en": "As Samawah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 215000
+    },
+    {
+      "id": 22,
+      "name_ar": "عقرة",
+      "name_en": "`Aqrah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 212000
+    },
+    {
+      "id": 23,
+      "name_ar": "زاخو",
+      "name_en": "Zakhu",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 197000
+    },
+    {
+      "id": 24,
+      "name_ar": "أبو غريب",
+      "name_en": "Abu Ghurayb",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 189000
+    },
+    {
+      "id": 25,
+      "name_ar": "الكوفة",
+      "name_en": "Al Kufah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 171305
+    },
+    {
+      "id": 26,
+      "name_ar": "المقدادية",
+      "name_en": "Al Miqdadiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 155968
+    },
+    {
+      "id": 27,
+      "name_ar": "غماس",
+      "name_en": "Nahiyat Ghammas",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 140000
+    },
+    {
+      "id": 28,
+      "name_ar": "طوز خورماتو",
+      "name_en": "Tuz Khurmatu",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 119000
+    },
+    {
+      "id": 29,
+      "name_ar": "قلعة سكر",
+      "name_en": "Qal`at Sukkar",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 110000
+    },
+    {
+      "id": 30,
+      "name_ar": "أم قصر",
+      "name_en": "Umm Qasr",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 107620
+    },
+    {
+      "id": 31,
+      "name_ar": "تكريت",
+      "name_en": "Tikrit",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 105700
+    },
+    {
+      "id": 32,
+      "name_ar": "الفاو",
+      "name_en": "Al Faw",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 105080
+    },
+    {
+      "id": 33,
+      "name_ar": "الإسكندرية",
+      "name_en": "Nahiyat al Iskandariyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 100600
+    },
+    {
+      "id": 34,
+      "name_ar": "الدجيل",
+      "name_en": "Ad Dujayl",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 100000
+    },
+    {
+      "id": 35,
+      "name_ar": "رواندز",
+      "name_en": "Rawanduz",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 95089
+    },
+    {
+      "id": 36,
+      "name_ar": "الهندية",
+      "name_en": "Al Hindiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 84100
+    },
+    {
+      "id": 37,
+      "name_ar": "الحي",
+      "name_en": "Al Hayy",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 82900
+    },
+    {
+      "id": 38,
+      "name_ar": "القاسم",
+      "name_en": "Imam Qasim",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 81500
+    },
+    {
+      "id": 39,
+      "name_ar": "مطار تلعفر العسكري",
+      "name_en": "Tall `Afar",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 80000
+    },
+    {
+      "id": 40,
+      "name_ar": "الصويرة",
+      "name_en": "As Suwayrah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 77200
+    },
+    {
+      "id": 41,
+      "name_ar": "المسيب",
+      "name_en": "Al Musayyib",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 76454
+    },
+    {
+      "id": 42,
+      "name_ar": "القائم",
+      "name_en": "Al Qa'im",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 74100
+    },
+    {
+      "id": 43,
+      "name_ar": "سيميل",
+      "name_en": "Saymayl",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 71557
+    },
+    {
+      "id": 44,
+      "name_ar": "النعمانية",
+      "name_en": "An Nu`maniyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 71000
+    },
+    {
+      "id": 45,
+      "name_ar": "الزبيدية",
+      "name_en": "Az Zubaydiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 70000
+    },
+    {
+      "id": 46,
+      "name_ar": "قلة الصفيحات المحدثة بالهيبارين",
+      "name_en": "Hit",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 66700
+    },
+    {
+      "id": 47,
+      "name_ar": "جمجمال",
+      "name_en": "Jamjamal",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 65300
+    },
+    {
+      "id": 48,
+      "name_ar": "حلبجة",
+      "name_en": "Halabjah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 65200
+    },
+    {
+      "id": 49,
+      "name_ar": "التجمع الوطني الديمقراطي",
+      "name_en": "Balad",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 62817
+    },
+    {
+      "id": 50,
+      "name_ar": "بيجي",
+      "name_en": "Bayji",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 60000
+    },
+    {
+      "id": 51,
+      "name_ar": "حديثة",
+      "name_en": "Hadithah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 46500
+    },
+    {
+      "id": 52,
+      "name_ar": "العزيزية",
+      "name_en": "Al `Aziziyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 44868
+    },
+    {
+      "id": 53,
+      "name_ar": "الهاشمية",
+      "name_en": "Al Hashimiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 37300
+    },
+    {
+      "id": 54,
+      "name_ar": "بهرز",
+      "name_en": "Buhriz",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 35400
+    },
+    {
+      "id": 55,
+      "name_ar": "كفري",
+      "name_en": "Kifri",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 32870
+    },
+    {
+      "id": 56,
+      "name_ar": "نادي جلولاء",
+      "name_en": "Jalawla'",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 30000
+    },
+    {
+      "id": 57,
+      "name_ar": "مندلي",
+      "name_en": "Mandali",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 29882
+    },
+    {
+      "id": 58,
+      "name_ar": "ناحية حرير",
+      "name_en": "Harir",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 28518
+    },
+    {
+      "id": 59,
+      "name_ar": "معركة الرطبة",
+      "name_en": "Ar Rutbah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 27879
+    },
+    {
+      "id": 60,
+      "name_ar": "قضاء شقلاوة",
+      "name_en": "Shaqlawah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 25000
+    },
+    {
+      "id": 61,
+      "name_ar": "مخمور",
+      "name_en": "Makhmur",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 23828
+    },
+    {
+      "id": 62,
+      "name_ar": "سنجار",
+      "name_en": "Sinjar",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 22549
+    },
+    {
+      "id": 63,
+      "name_ar": "زرباطية",
+      "name_en": "Zurbatiyah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 22400
+    },
+    {
+      "id": 64,
+      "name_ar": "آناهايم",
+      "name_en": "`Anah",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 21000
+    },
+    {
+      "id": 65,
+      "name_ar": "حمام العليل",
+      "name_en": "Hammam al `Alil",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 15985
+    },
+    {
+      "id": 66,
+      "name_ar": "آمرلي",
+      "name_en": "Amirli",
+      "country_ar": "العراق",
+      "country_en": "Iraq",
+      "population": 15000
+    }
+  ],
+  "meta": {
+    "title": "مدن العراق — Cities of Iraq (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن العراق بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 66 cities in Iraq with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 66 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن العراق — Cities of Iraq (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن العراق — Cities of Iraq (Arabic names) — 66 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 66 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

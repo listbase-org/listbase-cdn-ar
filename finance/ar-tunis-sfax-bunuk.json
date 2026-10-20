@@ -1,0 +1,121 @@
+{
+  "id": "ar-tunis-sfax-bunuk",
+  "name": "بنوك Sfax — تونس — رموز سويفت (Banks of Sfax, Tunisia — SWIFT/BIC codes)",
+  "title": "بنوك Sfax — تونس — رموز سويفت (Banks of Sfax, Tunisia — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Sfax (تونس) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Sfax, Tunisia with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/TN.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(CREDIT DOCUMENTAIRE EXPORT SFAX)",
+      "swift_code": "BIATTNTTDXS"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(CREDIT DOCUMENTAIRE IMPORT SFAX)",
+      "swift_code": "BIATTNTTDMS"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(REMISE EXPORT SFAX)",
+      "swift_code": "BIATTNTTRXS"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(REMISE IMPORT SFAX)",
+      "swift_code": "BIATTNTTRMS"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(TRANSFERT EMIS SFAX)",
+      "swift_code": "BIATTNTTTES"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "(TRANSFERT RECU SFAX)",
+      "swift_code": "BIATTNTTTRS"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "SFAX",
+      "branch": "",
+      "swift_code": "BIATTNTTSFX"
+    },
+    {
+      "id": 8,
+      "bank": "BANQUE NATIONALE AGRICOLE",
+      "city": "SFAX",
+      "branch": "(DIRECTION REGIONALE)",
+      "swift_code": "BNTETNTTSFX"
+    },
+    {
+      "id": 9,
+      "bank": "SOCIETE TUNISIENNE DE BANQUE",
+      "city": "SFAX",
+      "branch": "(DIRECTION REGIONALE)",
+      "swift_code": "STBKTNTT940"
+    },
+    {
+      "id": 10,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "SFAX",
+      "branch": "(SFAX BRANCH)",
+      "swift_code": "UBCITNTTSFX"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Sfax — تونس — رموز سويفت (Banks of Sfax, Tunisia — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Sfax (تونس) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Sfax, Tunisia with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/TN.json (MIT). يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Sfax — تونس — رموز سويفت (Banks of Sfax, Tunisia — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Sfax — تونس — رموز سويفت (Banks of Sfax, Tunisia — SWIFT/BIC codes) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

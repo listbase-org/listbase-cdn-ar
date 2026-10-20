@@ -1,0 +1,115 @@
+{
+  "id": "ar-misr-north-sinai-mudun",
+  "name": "مدن ومراكز محافظة شمال سيناء (Cities & Towns of North Sinai)",
+  "title": "مدن ومراكز محافظة شمال سيناء (Cities & Towns of North Sinai)",
+  "description": "قائمة مدن ومراكز محافظة شمال سيناء في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the North Sinai governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "262",
+      "name_ar": "الحسنة",
+      "name_en": "hasana",
+      "name_long_ar": "الحسنة، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "293",
+      "name_ar": "الشيخ زويد",
+      "name_en": "sheikh-zoweyd",
+      "name_long_ar": "الشيخ زويد، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "259",
+      "name_ar": "العريش",
+      "name_en": "arish",
+      "name_long_ar": "العريش، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "260",
+      "name_ar": "بئر العبد",
+      "name_en": "bir-al-abed",
+      "name_long_ar": "بئر العبد، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "264",
+      "name_ar": "رفح",
+      "name_en": "rafah",
+      "name_long_ar": "رفح، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    },
+    {
+      "id": "261",
+      "name_ar": "نخل",
+      "name_en": "nakhl",
+      "name_long_ar": "نخل، شمال سيناء",
+      "muhafaza_ar": "شمال سيناء",
+      "muhafaza_en": "north-sinai",
+      "muhafaza_id": 75
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة شمال سيناء (Cities & Towns of North Sinai) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة شمال سيناء في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the North Sinai governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة شمال سيناء (Cities & Towns of North Sinai) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة شمال سيناء (Cities & Towns of North Sinai) — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

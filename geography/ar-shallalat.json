@@ -1,0 +1,302 @@
+{
+  "id": "ar-shallalat",
+  "name": "الشلالات في الوطن العربي (Waterfalls of the Arab world)",
+  "title": "الشلالات في الوطن العربي (Waterfalls of the Arab world)",
+  "description": "قائمة الشلالات في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q34038) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة شلالات في النطاق العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q6720622",
+      "name_ar": "حمامات ماعين",
+      "name_en": "Ma'in Hot Springs",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.609473,
+      "longitude": 35.610463,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA_%D9%85%D8%A7%D8%B9%D9%8A%D9%86"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q38428",
+      "name_ar": "شلال الأوريت",
+      "name_en": "El-Ourit Waterfalls",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 34.862557,
+      "longitude": -1.267248,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%8A%D8%AA"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q2940882",
+      "name_ar": "شلال كفريدة",
+      "name_en": "Kefrida Waterfall",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.570475,
+      "longitude": 5.289992,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D9%83%D9%81%D8%B1%D9%8A%D8%AF%D8%A9"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2940872",
+      "name_ar": "شلالات برباقة",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 35.33,
+      "longitude": 6.23,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%A8%D8%B1%D8%A8%D8%A7%D9%82%D8%A9"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q125496974",
+      "name_ar": "شلالات سيدي واضح",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%B3%D9%8A%D8%AF%D9%8A_%D9%88%D8%A7%D8%B6%D8%AD"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q60573910",
+      "name_ar": "شلالات جبل مرة",
+      "name_en": "",
+      "country_ar": "السودان",
+      "country_qid": "Q1049",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%AC%D8%A8%D9%84_%D9%85%D8%B1%D8%A9"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5989331",
+      "name_ar": "بيخال",
+      "name_en": "Bekhal Waterfall",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": 36.617662,
+      "longitude": 44.494715,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AE%D8%A7%D9%84"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q22948594",
+      "name_ar": "جنديان",
+      "name_en": "Jandyan Waterfall",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF%D9%8A%D8%A7%D9%86"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4115462",
+      "name_ar": "شلال كلي علي بك",
+      "name_en": "Geli Eli Beg Waterfall",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": 36.631389,
+      "longitude": 44.446111,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D9%83%D9%84%D9%8A_%D8%B9%D9%84%D9%8A_%D8%A8%D9%83"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q120749923",
+      "name_ar": "شلال إيموزار مرموشة",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D8%A5%D9%8A%D9%85%D9%88%D8%B2%D8%A7%D8%B1_%D9%85%D8%B1%D9%85%D9%88%D8%B4%D8%A9"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q131462705",
+      "name_ar": "شلال زاوية إفران",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.194183,
+      "longitude": -5.418675,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D8%B2%D8%A7%D9%88%D9%8A%D8%A9_%D8%A5%D9%81%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q60572905",
+      "name_ar": "شلال عيون أم الربيع",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D8%B9%D9%8A%D9%88%D9%86_%D8%A3%D9%85_%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q38212",
+      "name_ar": "شلالات أوزود",
+      "name_en": "Ouzoud Falls",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 32.015278,
+      "longitude": -6.718889,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%A3%D9%88%D8%B2%D9%88%D8%AF"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12219043",
+      "name_ar": "شلالات كمروك",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D9%83%D9%85%D8%B1%D9%88%D9%83"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q6807171",
+      "name_ar": "شلالات ميدانكي",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%83%D9%8A"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12219044",
+      "name_ar": "شلالات وادي القلع",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D9%88%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%82%D9%84%D8%B9"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q34750221",
+      "name_ar": "Dhukūr",
+      "name_en": "Dhukūr",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 17.319722,
+      "longitude": 54.372778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q34683340",
+      "name_ar": "Ūbit",
+      "name_en": "Ūbit",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 17.303611,
+      "longitude": 54.293056,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q38593",
+      "name_ar": "شلالات بالوع بالعا",
+      "name_en": "Baatara gorge waterfall",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": 34.173433,
+      "longitude": 35.870367,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84%D8%A7%D8%AA_%D8%A8%D8%A7%D9%84%D9%88%D8%B9_%D8%A8%D8%A7%D9%84%D8%B9%D8%A7"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q7294683",
+      "name_ar": "رأس الهلال",
+      "name_en": "Ras al Helal",
+      "country_ar": "ليبيا",
+      "country_qid": "Q1016",
+      "latitude": 32.883,
+      "longitude": 22.1803,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q41286",
+      "name_ar": "شلال درنة",
+      "name_en": "Derna waterfalls",
+      "country_ar": "ليبيا",
+      "country_qid": "Q1016",
+      "latitude": 32.7181,
+      "longitude": 22.6147,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%84%D8%A7%D9%84_%D8%AF%D8%B1%D9%86%D8%A9"
+    }
+  ],
+  "meta": {
+    "title": "الشلالات في الوطن العربي (Waterfalls of the Arab world) - تحميل مجاني",
+    "description": "قائمة الشلالات في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q34038) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة شلالات في النطاق العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الشلالات في الوطن العربي (Waterfalls of the Arab world) | ListBase",
+    "seo_description": "تحميل الشلالات في الوطن العربي (Waterfalls of the Arab world) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

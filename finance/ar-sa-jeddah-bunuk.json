@@ -1,0 +1,310 @@
+{
+  "id": "ar-sa-jeddah-bunuk",
+  "name": "بنوك Jeddah — المملكة العربية السعودية — رموز سويفت (Banks of Jeddah, Saudi Arabia — SWIFT/BIC codes)",
+  "title": "بنوك Jeddah — المملكة العربية السعودية — رموز سويفت (Banks of Jeddah, Saudi Arabia — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Jeddah (المملكة العربية السعودية) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 37 سجلًا. List of banks, financial institutions and their branches in Jeddah, Saudi Arabia with the SWIFT/BIC code, bank name and branch name for each. 37 records. Source: PeterNotenboom/SwiftCodes AllCountries/SA.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL AMOUNDI EXCHANGE AND TRADING",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "AMETSAJ1"
+    },
+    {
+      "id": 2,
+      "bank": "ALAMOUDI EXCHANGE COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "AMDISAJE"
+    },
+    {
+      "id": 3,
+      "bank": "ALAWWAL BANK",
+      "city": "JEDDAH",
+      "branch": "(WESTERN AREA JEDDAH)",
+      "swift_code": "AAALSARIJED"
+    },
+    {
+      "id": 4,
+      "bank": "ALRAJHI COMMERCIAL FOREIGN EXCHANGE",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "AFEXSAJ1"
+    },
+    {
+      "id": 5,
+      "bank": "BANK AL BILAD",
+      "city": "JEDDAH",
+      "branch": "(JEDDAH)",
+      "swift_code": "ALBISARIJED"
+    },
+    {
+      "id": 6,
+      "bank": "BANK AL-JAZIRA",
+      "city": "JEDDAH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BJAZSAJE002"
+    },
+    {
+      "id": 7,
+      "bank": "BANK AL-JAZIRA",
+      "city": "JEDDAH",
+      "branch": "(KHALID BIN WALEED STREET BRANCH)",
+      "swift_code": "BJAZSAJE007"
+    },
+    {
+      "id": 8,
+      "bank": "BANK AL-JAZIRA",
+      "city": "JEDDAH",
+      "branch": "(KING ABDUL AZIZ STREET BR.)",
+      "swift_code": "BJAZSAJE006"
+    },
+    {
+      "id": 9,
+      "bank": "BANK AL-JAZIRA",
+      "city": "JEDDAH",
+      "branch": "(MADINA ROAD BRANCH)",
+      "swift_code": "BJAZSAJE021"
+    },
+    {
+      "id": 10,
+      "bank": "BANK AL-JAZIRA",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "BJAZSAJE"
+    },
+    {
+      "id": 11,
+      "bank": "BANQUE SAUDI FRANSI",
+      "city": "JEDDAH",
+      "branch": "(WESTERN REGION)",
+      "swift_code": "BSFRSARIWST"
+    },
+    {
+      "id": 12,
+      "bank": "EAST AFRICA MARITIME",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "EAAMSAJ1"
+    },
+    {
+      "id": 13,
+      "bank": "INTERNATIONAL ISLAMIC TRADE FINANCE CORPORATION (MEMBER ISLAMIC DEVELOPMENT BANK GROUP)",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ITFKSAJE"
+    },
+    {
+      "id": 14,
+      "bank": "ISLAMIC CORPORATION FOR THE DEVELOPMENT OF THE PRIVATE SECTOR (MEMBER, ISLAMIC DEVELOPMENT BANK GROUP)",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ICDKSAJE"
+    },
+    {
+      "id": 15,
+      "bank": "ISLAMIC DEVELOPMENT BANK",
+      "city": "JEDDAH",
+      "branch": "(INTERNATIONAL TRADE FINANCE)",
+      "swift_code": "ISLDSAJEITF"
+    },
+    {
+      "id": 16,
+      "bank": "ISLAMIC DEVELOPMENT BANK",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ISLDSAJE"
+    },
+    {
+      "id": 17,
+      "bank": "ISLAMIC DEVELOPMENT BANK",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ISLDSAJEICD"
+    },
+    {
+      "id": 18,
+      "bank": "M. MOUNIR HALAWANI SONS, EXCHANGE COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "HFEXSAJ1"
+    },
+    {
+      "id": 19,
+      "bank": "MOHAMMED HASSAN YELLA AND SONS EXCHANGE COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "MHYCSAJE"
+    },
+    {
+      "id": 20,
+      "bank": "NAHDI MEDICAL COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "NHDISAJE"
+    },
+    {
+      "id": 21,
+      "bank": "NATIONAL BANK OF KUWAIT",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "NBOKSAJE"
+    },
+    {
+      "id": 22,
+      "bank": "NATIONAL BISCUITS AND CONFECTIONERY COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "NBCCSAJE"
+    },
+    {
+      "id": 23,
+      "bank": "NATIONAL COMMERCIAL BANK, THE",
+      "city": "JEDDAH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "NCBKSAJE"
+    },
+    {
+      "id": 24,
+      "bank": "NATIONAL COMMERCIAL BANK, THE",
+      "city": "JEDDAH",
+      "branch": "(JEDDAH, MAIN BRANCH)",
+      "swift_code": "NCBKSAJE101"
+    },
+    {
+      "id": 25,
+      "bank": "NATIONAL COMMERCIAL BANK, THE",
+      "city": "JEDDAH",
+      "branch": "(TRADE SERVICES-WEST)",
+      "swift_code": "NCBKSAJE613"
+    },
+    {
+      "id": 26,
+      "bank": "NATIONAL COMMERCIAL BANK, THE",
+      "city": "JEDDAH",
+      "branch": "(TREASURY DIVISION)",
+      "swift_code": "NCBKSAJE555"
+    },
+    {
+      "id": 27,
+      "bank": "NATIONAL FOOD INDUSTRIES CO. LTD",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "NAFDSAJE"
+    },
+    {
+      "id": 28,
+      "bank": "NCB CAPITAL COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "NCCOSAJE"
+    },
+    {
+      "id": 29,
+      "bank": "OMAR KASSEM ALESAYI MARKETING CO. LIMITED",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "OKAMSARI"
+    },
+    {
+      "id": 30,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "JEDDAH",
+      "branch": "(WESTERN REGION BRANCH)",
+      "swift_code": "SAMBSARIJCS"
+    },
+    {
+      "id": 31,
+      "bank": "SAUDI ARAMCO LUBRICATING OIL REFINING COMPANY (LUBEREF)",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "LBRFSAJD"
+    },
+    {
+      "id": 32,
+      "bank": "SAUDI ECONOMIC AND DEVELOPMENT COMPANY FOR SECURITIES",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "SEDPSAJE"
+    },
+    {
+      "id": 33,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "SBINSAJE"
+    },
+    {
+      "id": 34,
+      "bank": "T.C. ZIRAAT BANKASI A.S.",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "TCZBSAJE"
+    },
+    {
+      "id": 35,
+      "bank": "THE ISLAMIC CORP FOR THE INSURANCE OF INVESTMENT AND EXPORT CREDIT (MEMBER ISLAMIC DEVELOPMENT BANKGROUP)",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ICECSAJE"
+    },
+    {
+      "id": 36,
+      "bank": "UNITED CARTON INDUSTRIES COMPANY",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "UCSASAJ1"
+    },
+    {
+      "id": 37,
+      "bank": "ZAHID TRACTOR AND HM",
+      "city": "JEDDAH",
+      "branch": "",
+      "swift_code": "ZTHMSAJE"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Jeddah — المملكة العربية السعودية — رموز سويفت (Banks of Jeddah, Saudi Arabia — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Jeddah (المملكة العربية السعودية) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 37 سجلًا. List of banks, financial institutions and their branches in Jeddah, Saudi Arabia with the SWIFT/BIC code, bank name and branch name for each. 37 records. Source: PeterNotenboom/SwiftCodes AllCountries/SA.json (MIT). يحتوي على 37 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Jeddah — المملكة العربية السعودية — رموز سويفت (Banks of Jeddah, Saudi Arabia — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Jeddah — المملكة العربية السعودية — رموز سويفت (Banks of Jeddah, Saudi Arabia — SWIFT/BIC codes) — 37 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 37 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

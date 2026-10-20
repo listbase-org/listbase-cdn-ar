@@ -1,0 +1,760 @@
+{
+  "id": "ar-mudun-netherlands",
+  "name": "مدن هولندا — Cities of Netherlands (Arabic names)",
+  "title": "مدن هولندا — Cities of Netherlands (Arabic names)",
+  "description": "قائمة بأسماء مدن هولندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 88 cities in Netherlands with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تيلبورخ",
+      "name_en": "Tilburg",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 1944588
+    },
+    {
+      "id": 2,
+      "name_ar": "أمستردام",
+      "name_en": "Amsterdam",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 1477213
+    },
+    {
+      "id": 3,
+      "name_ar": "روتردام",
+      "name_en": "Rotterdam",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 664311
+    },
+    {
+      "id": 4,
+      "name_ar": "لاهاي",
+      "name_en": "The Hague",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 548320
+    },
+    {
+      "id": 5,
+      "name_ar": "أترخت",
+      "name_en": "Utrecht",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 359370
+    },
+    {
+      "id": 6,
+      "name_ar": "آيندهوفن",
+      "name_en": "Eindhoven",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 243730
+    },
+    {
+      "id": 7,
+      "name_ar": "خَرُنِنغِن",
+      "name_en": "Groningen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 233273
+    },
+    {
+      "id": 8,
+      "name_ar": "آلميره",
+      "name_en": "Almere",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 214715
+    },
+    {
+      "id": 9,
+      "name_ar": "نايميخن",
+      "name_en": "Nijmegen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 177659
+    },
+    {
+      "id": 10,
+      "name_ar": "آرنم",
+      "name_en": "Arnhem",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 164096
+    },
+    {
+      "id": 11,
+      "name_ar": "هارلم",
+      "name_en": "Haarlem",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 162543
+    },
+    {
+      "id": 12,
+      "name_ar": "أنسخديه",
+      "name_en": "Enschede",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 159732
+    },
+    {
+      "id": 13,
+      "name_ar": "سيرتوخيمبوس",
+      "name_en": "'s-Hertogenbosch",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 157486
+    },
+    {
+      "id": 14,
+      "name_ar": "آمرسفورت",
+      "name_en": "Amersfoort",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 157462
+    },
+    {
+      "id": 15,
+      "name_ar": "زانستاد",
+      "name_en": "Zaanstad",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 156901
+    },
+    {
+      "id": 16,
+      "name_ar": "أبلدورن",
+      "name_en": "Apeldoorn",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 138945
+    },
+    {
+      "id": 17,
+      "name_ar": "زفوله",
+      "name_en": "Zwolle",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 129840
+    },
+    {
+      "id": 18,
+      "name_ar": "زوترمير",
+      "name_en": "Zoetermeer",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 125267
+    },
+    {
+      "id": 19,
+      "name_ar": "ليوواردن",
+      "name_en": "Leeuwarden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 124481
+    },
+    {
+      "id": 20,
+      "name_ar": "لايدن",
+      "name_en": "Leiden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 124093
+    },
+    {
+      "id": 21,
+      "name_ar": "دوردريخت",
+      "name_en": "Dordrecht",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 121434
+    },
+    {
+      "id": 22,
+      "name_ar": "ماستريخت",
+      "name_en": "Maastricht",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 120227
+    },
+    {
+      "id": 23,
+      "name_ar": "ألفن آن دن راين",
+      "name_en": "Alphen aan den Rijn",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 114182
+    },
+    {
+      "id": 24,
+      "name_ar": "ألكمار",
+      "name_en": "Alkmaar",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 111766
+    },
+    {
+      "id": 25,
+      "name_ar": "دلفت",
+      "name_en": "Delft",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 109435
+    },
+    {
+      "id": 26,
+      "name_ar": "إيمين",
+      "name_en": "Emmen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 107024
+    },
+    {
+      "id": 27,
+      "name_ar": "ديفينتر",
+      "name_en": "Deventer",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 101236
+    },
+    {
+      "id": 28,
+      "name_ar": "أمستلفين",
+      "name_en": "Amstelveen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 94435
+    },
+    {
+      "id": 29,
+      "name_ar": "هيلموند",
+      "name_en": "Helmond",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 92627
+    },
+    {
+      "id": 30,
+      "name_ar": "أوس",
+      "name_en": "Oss",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 92526
+    },
+    {
+      "id": 31,
+      "name_ar": "هيلفرسوم",
+      "name_en": "Hilversum",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 91235
+    },
+    {
+      "id": 32,
+      "name_ar": "هيرلين",
+      "name_en": "Heerlen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 86936
+    },
+    {
+      "id": 33,
+      "name_ar": "ليليستاد",
+      "name_en": "Lelystad",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 83033
+    },
+    {
+      "id": 34,
+      "name_ar": "هينجيلو",
+      "name_en": "Hengelo",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 81049
+    },
+    {
+      "id": 35,
+      "name_ar": "سخيدام",
+      "name_en": "Schiedam",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 79279
+    },
+    {
+      "id": 36,
+      "name_ar": "زاندام",
+      "name_en": "Zaandam",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 78682
+    },
+    {
+      "id": 37,
+      "name_ar": "هوفدوروب",
+      "name_en": "Hoofddorp",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 77885
+    },
+    {
+      "id": 38,
+      "name_ar": "روسيندال",
+      "name_en": "Roosendaal",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 77200
+    },
+    {
+      "id": 39,
+      "name_ar": "هورن",
+      "name_en": "Hoorn",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 75645
+    },
+    {
+      "id": 40,
+      "name_ar": "فلاردينجن",
+      "name_en": "Vlaardingen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 73924
+    },
+    {
+      "id": 41,
+      "name_ar": "خاودا",
+      "name_en": "Gouda",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 73681
+    },
+    {
+      "id": 42,
+      "name_ar": "ألميلو",
+      "name_en": "Almelo",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 73132
+    },
+    {
+      "id": 43,
+      "name_ar": "سبايكينيسه",
+      "name_en": "Spijkenisse",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 72740
+    },
+    {
+      "id": 44,
+      "name_ar": "أسن",
+      "name_en": "Assen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 68836
+    },
+    {
+      "id": 45,
+      "name_ar": "بيرخن أوب زووم",
+      "name_en": "Bergen op Zoom",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 67514
+    },
+    {
+      "id": 46,
+      "name_ar": "كابيل آن دن آيسل",
+      "name_en": "Capelle aan den IJssel",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 67319
+    },
+    {
+      "id": 47,
+      "name_ar": "فينندال",
+      "name_en": "Veenendaal",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 66912
+    },
+    {
+      "id": 48,
+      "name_ar": "كاتفايك",
+      "name_en": "Katwijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 66607
+    },
+    {
+      "id": 49,
+      "name_ar": "زايست",
+      "name_en": "Zeist",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 65043
+    },
+    {
+      "id": 50,
+      "name_ar": "نيواخاين",
+      "name_en": "Nieuwegein",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 63866
+    },
+    {
+      "id": 51,
+      "name_ar": "بارنيفيلد",
+      "name_en": "Barneveld",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 59992
+    },
+    {
+      "id": 52,
+      "name_ar": "هيرهوخوفارد",
+      "name_en": "Heerhugowaard",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 58387
+    },
+    {
+      "id": 53,
+      "name_ar": "دوتينخيم",
+      "name_en": "Doetinchem",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 58270
+    },
+    {
+      "id": 54,
+      "name_ar": "دن هيلدر",
+      "name_en": "Den Helder",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 56582
+    },
+    {
+      "id": 55,
+      "name_ar": "أوسترهاوت",
+      "name_en": "Oosterhout",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 56206
+    },
+    {
+      "id": 56,
+      "name_ar": "هوخيفين",
+      "name_en": "Hoogeveen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 55603
+    },
+    {
+      "id": 57,
+      "name_ar": "رايسفايك",
+      "name_en": "Rijswijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 55220
+    },
+    {
+      "id": 58,
+      "name_ar": "تيرنوزن",
+      "name_en": "Terneuzen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 54589
+    },
+    {
+      "id": 59,
+      "name_ar": "فوردن",
+      "name_en": "Woerden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 52694
+    },
+    {
+      "id": 60,
+      "name_ar": "هاوتن",
+      "name_en": "Houten",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 50223
+    },
+    {
+      "id": 61,
+      "name_ar": "فيرت",
+      "name_en": "Weert",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 50011
+    },
+    {
+      "id": 62,
+      "name_ar": "هاردرفايك",
+      "name_en": "Harderwijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 50000
+    },
+    {
+      "id": 63,
+      "name_ar": "فالفايك",
+      "name_en": "Waalwijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 48815
+    },
+    {
+      "id": 64,
+      "name_ar": "باريندريخت",
+      "name_en": "Barendrecht",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 48643
+    },
+    {
+      "id": 65,
+      "name_ar": "آيماودن",
+      "name_en": "IJmuiden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 48320
+    },
+    {
+      "id": 66,
+      "name_ar": "زوتفن",
+      "name_en": "Zutphen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 47423
+    },
+    {
+      "id": 67,
+      "name_ar": "ريدركيرك",
+      "name_en": "Ridderkerk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 46671
+    },
+    {
+      "id": 68,
+      "name_ar": "سخاخن",
+      "name_en": "Schagen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 46553
+    },
+    {
+      "id": 69,
+      "name_ar": "فيلدهوفن",
+      "name_en": "Veldhoven",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 45500
+    },
+    {
+      "id": 70,
+      "name_ar": "كِركَرادة",
+      "name_en": "Kerkrade",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 45442
+    },
+    {
+      "id": 71,
+      "name_ar": "دراختن",
+      "name_en": "Drachten",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 45186
+    },
+    {
+      "id": 72,
+      "name_ar": "ميديمبليك",
+      "name_en": "Medemblik",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 45165
+    },
+    {
+      "id": 73,
+      "name_ar": "هوسدن",
+      "name_en": "Heusden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 45005
+    },
+    {
+      "id": 74,
+      "name_ar": "زفايندريخت",
+      "name_en": "Zwijndrecht",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 44775
+    },
+    {
+      "id": 75,
+      "name_ar": "فليسنجن",
+      "name_en": "Vlissingen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 44358
+    },
+    {
+      "id": 76,
+      "name_ar": "زيفينار",
+      "name_en": "Zevenaar",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 44096
+    },
+    {
+      "id": 77,
+      "name_ar": "نوردفايك",
+      "name_en": "Noordwijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 44062
+    },
+    {
+      "id": 78,
+      "name_ar": "إيتن- لور",
+      "name_en": "Etten-Leur",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43869
+    },
+    {
+      "id": 79,
+      "name_ar": "فينراي",
+      "name_en": "Venray",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43713
+    },
+    {
+      "id": 80,
+      "name_ar": "نايكيرك",
+      "name_en": "Nijkerk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43600
+    },
+    {
+      "id": 81,
+      "name_ar": "ريدن",
+      "name_en": "Rheden",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43525
+    },
+    {
+      "id": 82,
+      "name_ar": "دي بيلت",
+      "name_en": "De Bilt",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43384
+    },
+    {
+      "id": 83,
+      "name_ar": "فوربورخ",
+      "name_en": "Voorburg",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 43090
+    },
+    {
+      "id": 84,
+      "name_ar": "درونتن",
+      "name_en": "Dronten",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 42011
+    },
+    {
+      "id": 85,
+      "name_ar": "تيل",
+      "name_en": "Tiel",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 41920
+    },
+    {
+      "id": 86,
+      "name_ar": "بيفيرفايك",
+      "name_en": "Beverwijk",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 41863
+    },
+    {
+      "id": 87,
+      "name_ar": "فايخن",
+      "name_en": "Wijchen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 41261
+    },
+    {
+      "id": 88,
+      "name_ar": "هاوزن",
+      "name_en": "Huizen",
+      "country_ar": "هولندا",
+      "country_en": "Netherlands",
+      "population": 41090
+    }
+  ],
+  "meta": {
+    "title": "مدن هولندا — Cities of Netherlands (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن هولندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 88 cities in Netherlands with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 88 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن هولندا — Cities of Netherlands (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن هولندا — Cities of Netherlands (Arabic names) — 88 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 88 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "id": "ar-mudun-azerbaijan",
+  "name": "مدن أذربيجان — Cities of Azerbaijan (Arabic names)",
+  "title": "مدن أذربيجان — Cities of Azerbaijan (Arabic names)",
+  "description": "قائمة بأسماء مدن أذربيجان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Azerbaijan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "باكو",
+      "name_en": "Baku",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 2300500
+    },
+    {
+      "id": 2,
+      "name_ar": "سومقاييت",
+      "name_en": "Sumqayit",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 341200
+    },
+    {
+      "id": 3,
+      "name_ar": "كنجه",
+      "name_en": "Ganca",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 331400
+    },
+    {
+      "id": 4,
+      "name_ar": "مينجا تشيفير",
+      "name_en": "Mingacevir",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 106100
+    },
+    {
+      "id": 5,
+      "name_ar": "خردلان",
+      "name_en": "Xirdalan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 100900
+    },
+    {
+      "id": 6,
+      "name_ar": "نخجوان",
+      "name_en": "Naxcivan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 95100
+    },
+    {
+      "id": 7,
+      "name_ar": "هوسان",
+      "name_en": "Hovsan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 85000
+    },
+    {
+      "id": 8,
+      "name_ar": "باكيسنوف",
+      "name_en": "Bakixanov",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 71600
+    },
+    {
+      "id": 9,
+      "name_ar": "شروان",
+      "name_en": "Sirvan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 70684
+    },
+    {
+      "id": 10,
+      "name_ar": "شكي",
+      "name_en": "Saki",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 68360
+    },
+    {
+      "id": 11,
+      "name_ar": "يفلاكس",
+      "name_en": "Yevlax",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 59036
+    },
+    {
+      "id": 12,
+      "name_ar": "لنكران",
+      "name_en": "Lankaran",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 51300
+    },
+    {
+      "id": 13,
+      "name_ar": "مشتى آقا",
+      "name_en": "Mastaga",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 43700
+    },
+    {
+      "id": 14,
+      "name_ar": "مقاطعة آقجبدي",
+      "name_en": "Agcabadi",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 43000
+    },
+    {
+      "id": 15,
+      "name_ar": "شامكير",
+      "name_en": "Samkir",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 40600
+    },
+    {
+      "id": 16,
+      "name_ar": "شماخى",
+      "name_en": "Samaxi",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 39600
+    },
+    {
+      "id": 17,
+      "name_ar": "برذعة",
+      "name_en": "Barda",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 38500
+    },
+    {
+      "id": 18,
+      "name_ar": "مقاطعة قوبا",
+      "name_en": "Quba",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 38100
+    },
+    {
+      "id": 19,
+      "name_ar": "كويكول",
+      "name_en": "Goygol",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 37280
+    },
+    {
+      "id": 20,
+      "name_ar": "مقاطعة غويتشاي",
+      "name_en": "Goycay",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 36200
+    },
+    {
+      "id": 21,
+      "name_ar": "مقاطعة قازاخ",
+      "name_en": "Qazax",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 35102
+    },
+    {
+      "id": 22,
+      "name_ar": "مقاطعة إيميشلي",
+      "name_en": "Imisli",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 31310
+    },
+    {
+      "id": 23,
+      "name_ar": "زكتالا",
+      "name_en": "Zaqatala",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 31300
+    },
+    {
+      "id": 24,
+      "name_ar": "صابر آباد",
+      "name_en": "Sabirabad",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 30866
+    },
+    {
+      "id": 25,
+      "name_ar": "مقاطعة ساليان",
+      "name_en": "Salyan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 30396
+    },
+    {
+      "id": 26,
+      "name_ar": "مقاطعة آقداش",
+      "name_en": "Agdas",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 29600
+    },
+    {
+      "id": 27,
+      "name_ar": "حاجي قبول",
+      "name_en": "Haciqabul",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 27536
+    },
+    {
+      "id": 28,
+      "name_ar": "مقاطعة جليل آباد",
+      "name_en": "Calilabad",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 25846
+    },
+    {
+      "id": 29,
+      "name_ar": "نادي كشله",
+      "name_en": "Kesla",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 25626
+    },
+    {
+      "id": 30,
+      "name_ar": "مقاطعة إسماعيلي",
+      "name_en": "Ismayilli",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 20660
+    },
+    {
+      "id": 31,
+      "name_ar": "آقسو",
+      "name_en": "Agsu",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 20200
+    },
+    {
+      "id": 32,
+      "name_ar": "مقاطعة آقستافا",
+      "name_en": "Agstafa",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 20200
+    },
+    {
+      "id": 33,
+      "name_ar": "بيلاسوار",
+      "name_en": "Bilasuvar",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 20098
+    },
+    {
+      "id": 34,
+      "name_ar": "آستارا",
+      "name_en": "Astara",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 16800
+    },
+    {
+      "id": 35,
+      "name_ar": "قوسار",
+      "name_en": "Qusar",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 16500
+    },
+    {
+      "id": 36,
+      "name_ar": "كردامير",
+      "name_en": "Kurdamir",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 15385
+    },
+    {
+      "id": 37,
+      "name_ar": "نفطجاله",
+      "name_en": "Neftcala",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 14241
+    },
+    {
+      "id": 38,
+      "name_ar": "أرتيوم",
+      "name_en": "Pirallahi",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 13583
+    },
+    {
+      "id": 39,
+      "name_ar": "مقاطعة تووز",
+      "name_en": "Tovuz",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 13520
+    },
+    {
+      "id": 40,
+      "name_ar": "قوزانلي",
+      "name_en": "Quzanli",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 13002
+    },
+    {
+      "id": 41,
+      "name_ar": "ألتا",
+      "name_en": "Alat",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 12600
+    },
+    {
+      "id": 42,
+      "name_ar": "مغول",
+      "name_en": "Tartar",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 12563
+    },
+    {
+      "id": 43,
+      "name_ar": "مقاطعة جلفا",
+      "name_en": "Culfa",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 12500
+    },
+    {
+      "id": 44,
+      "name_ar": "مقاطعة بيلقان",
+      "name_en": "Beylaqan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 12263
+    },
+    {
+      "id": 45,
+      "name_ar": "بادامدار",
+      "name_en": "Badamdar",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 11871
+    },
+    {
+      "id": 46,
+      "name_ar": "بالاخاني",
+      "name_en": "Balaxani",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 11615
+    },
+    {
+      "id": 47,
+      "name_ar": "بحيرة شاطئة",
+      "name_en": "Liman",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 11500
+    },
+    {
+      "id": 48,
+      "name_ar": "قاخ",
+      "name_en": "Qax",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 11415
+    },
+    {
+      "id": 49,
+      "name_ar": "خودات",
+      "name_en": "Xudat",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 10894
+    },
+    {
+      "id": 50,
+      "name_ar": "مقاطعة علي أباد",
+      "name_en": "Aliabad",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 10700
+    },
+    {
+      "id": 51,
+      "name_ar": "أردوباد",
+      "name_en": "Ordubad",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 10372
+    },
+    {
+      "id": 52,
+      "name_ar": "تركيا",
+      "name_en": "Turkan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 10108
+    },
+    {
+      "id": 53,
+      "name_ar": "مدينة نفتالان",
+      "name_en": "Naftalan",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 10100
+    },
+    {
+      "id": 54,
+      "name_ar": "أيوبلو",
+      "name_en": "Asagi Ayibli",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 9983
+    },
+    {
+      "id": 55,
+      "name_ar": "مقاطعة غدابيغ",
+      "name_en": "Gadabay",
+      "country_ar": "أذربيجان",
+      "country_en": "Azerbaijan",
+      "population": 9161
+    }
+  ],
+  "meta": {
+    "title": "مدن أذربيجان — Cities of Azerbaijan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أذربيجان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Azerbaijan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 55 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أذربيجان — Cities of Azerbaijan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أذربيجان — Cities of Azerbaijan (Arabic names) — 55 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 55 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

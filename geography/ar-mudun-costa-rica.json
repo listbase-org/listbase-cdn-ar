@@ -1,0 +1,416 @@
+{
+  "id": "ar-mudun-costa-rica",
+  "name": "مدن كوستاريكا — Cities of Costa Rica (Arabic names)",
+  "title": "مدن كوستاريكا — Cities of Costa Rica (Arabic names)",
+  "description": "قائمة بأسماء مدن كوستاريكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 45 cities in Costa Rica with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "سان خوسيه، الفلبين",
+      "name_en": "San Jose",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 1543000
+    },
+    {
+      "id": 2,
+      "name_ar": "تكساس يو اس اس",
+      "name_en": "San Marcos",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 163745
+    },
+    {
+      "id": 3,
+      "name_ar": "سان رامون",
+      "name_en": "San Ramon",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 80566
+    },
+    {
+      "id": 4,
+      "name_ar": "سارابيكي",
+      "name_en": "Sarapiqui",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 57147
+    },
+    {
+      "id": 5,
+      "name_ar": "مورا",
+      "name_en": "Mora",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 56919
+    },
+    {
+      "id": 6,
+      "name_ar": "سانتا كروز",
+      "name_en": "Santa Cruz",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 55104
+    },
+    {
+      "id": 7,
+      "name_ar": "ليبيريا",
+      "name_en": "Liberia",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 53382
+    },
+    {
+      "id": 8,
+      "name_ar": "نيكوجا",
+      "name_en": "Nicoya",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 50825
+    },
+    {
+      "id": 9,
+      "name_ar": "سان رافاييل",
+      "name_en": "San Rafael",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 45965
+    },
+    {
+      "id": 10,
+      "name_ar": "ألاخويلا",
+      "name_en": "Alajuela",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 44374
+    },
+    {
+      "id": 11,
+      "name_ar": "بونتاريناس",
+      "name_en": "Puntarenas",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 41528
+    },
+    {
+      "id": 12,
+      "name_ar": "سانتو دومينغو",
+      "name_en": "Santo Domingo",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 40072
+    },
+    {
+      "id": 13,
+      "name_ar": "كوتو بروس",
+      "name_en": "Coto Brus",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 38453
+    },
+    {
+      "id": 14,
+      "name_ar": "ديسامبارادوس، كوستاريكا",
+      "name_en": "Desamparados",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 33866
+    },
+    {
+      "id": 15,
+      "name_ar": "سيكيريس",
+      "name_en": "Siquirres",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 31637
+    },
+    {
+      "id": 16,
+      "name_ar": "كوريدابات",
+      "name_en": "Curridabat",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 28817
+    },
+    {
+      "id": 17,
+      "name_ar": "أسبرتسا",
+      "name_en": "Esparza",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 28644
+    },
+    {
+      "id": 18,
+      "name_ar": "توريالفا",
+      "name_en": "Turrialba",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 26680
+    },
+    {
+      "id": 19,
+      "name_ar": "كان",
+      "name_en": "Canas",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 26201
+    },
+    {
+      "id": 20,
+      "name_ar": "سان خوان ديل مونتي",
+      "name_en": "San Juan",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 25978
+    },
+    {
+      "id": 21,
+      "name_ar": "ريتا",
+      "name_en": "Rita",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 24041
+    },
+    {
+      "id": 22,
+      "name_ar": "سان بيدرو",
+      "name_en": "San Pedro",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 23977
+    },
+    {
+      "id": 23,
+      "name_ar": "كارتاغو، كوستاريكا",
+      "name_en": "Cartago",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 22775
+    },
+    {
+      "id": 24,
+      "name_ar": "جوادالوبي",
+      "name_en": "Guadalupe",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 20663
+    },
+    {
+      "id": 25,
+      "name_ar": "أزدرخت شائع",
+      "name_en": "Paraiso",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 20601
+    },
+    {
+      "id": 26,
+      "name_ar": "سان فرانسيسكو",
+      "name_en": "San Francisco",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 20209
+    },
+    {
+      "id": 27,
+      "name_ar": "كيبوس",
+      "name_en": "Quepos",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 19858
+    },
+    {
+      "id": 28,
+      "name_ar": "باغاسيس",
+      "name_en": "Bagaces",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 19536
+    },
+    {
+      "id": 29,
+      "name_ar": "جذام",
+      "name_en": "Pital",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 17318
+    },
+    {
+      "id": 30,
+      "name_ar": "قولون",
+      "name_en": "Colon",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 17274
+    },
+    {
+      "id": 31,
+      "name_ar": "التهاب",
+      "name_en": "Upala",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 16139
+    },
+    {
+      "id": 32,
+      "name_ar": "باريتا",
+      "name_en": "Parrita",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 16115
+    },
+    {
+      "id": 33,
+      "name_ar": "سان فيتو",
+      "name_en": "San Vito",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 14834
+    },
+    {
+      "id": 34,
+      "name_ar": "لوس شيليس",
+      "name_en": "Los Chiles",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 13262
+    },
+    {
+      "id": 35,
+      "name_ar": "سانتا آنا",
+      "name_en": "Santa Ana",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 13186
+    },
+    {
+      "id": 36,
+      "name_ar": "الأخويليتا، كوستاريكا",
+      "name_en": "Alajuelita",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 11988
+    },
+    {
+      "id": 37,
+      "name_ar": "إسكاثو، كوستاريكا",
+      "name_en": "Escazu",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 11984
+    },
+    {
+      "id": 38,
+      "name_ar": "غولفيتو",
+      "name_en": "Golfito",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 11284
+    },
+    {
+      "id": 39,
+      "name_ar": "نانداجوريه",
+      "name_en": "Nandayure",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 11121
+    },
+    {
+      "id": 40,
+      "name_ar": "ريو كوارتو",
+      "name_en": "Rio Cuarto",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 11074
+    },
+    {
+      "id": 41,
+      "name_ar": "مريم العذراء",
+      "name_en": "La Virgen",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 10521
+    },
+    {
+      "id": 42,
+      "name_ar": "سان أنطونيو",
+      "name_en": "San Antonio",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 9942
+    },
+    {
+      "id": 43,
+      "name_ar": "أوروتينا",
+      "name_en": "Orotina",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 9664
+    },
+    {
+      "id": 44,
+      "name_ar": "البندقية",
+      "name_en": "Venecia",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 9638
+    },
+    {
+      "id": 45,
+      "name_ar": "كانواس",
+      "name_en": "Canoas",
+      "country_ar": "كوستاريكا",
+      "country_en": "Costa Rica",
+      "population": 9543
+    }
+  ],
+  "meta": {
+    "title": "مدن كوستاريكا — Cities of Costa Rica (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كوستاريكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 45 cities in Costa Rica with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 45 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كوستاريكا — Cities of Costa Rica (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كوستاريكا — Cities of Costa Rica (Arabic names) — 45 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 45 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

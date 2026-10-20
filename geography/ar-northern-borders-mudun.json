@@ -1,0 +1,366 @@
+{
+  "id": "ar-northern-borders-mudun",
+  "name": "مدن منطقة الحدود الشمالية (Cities of Northern Borders)",
+  "title": "مدن منطقة الحدود الشمالية (Cities of Northern Borders)",
+  "description": "قائمة مدن منطقة الحدود الشمالية (Northern Borders) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Northern Borders administrative region of Saudi Arabia (region_id=1). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 2208,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "طريف",
+      "name_en": "Turaif",
+      "slug": "turaif"
+    },
+    {
+      "city_id": 2209,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الجراني",
+      "name_en": "Al Jirani",
+      "slug": "al-jirani"
+    },
+    {
+      "city_id": 2210,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الحماد",
+      "name_en": "Al Hamad",
+      "slug": "al-hamad-2210"
+    },
+    {
+      "city_id": 2211,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "نعيج",
+      "name_en": "Nuayj",
+      "slug": "nuayj"
+    },
+    {
+      "city_id": 2212,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "قاع الحنو",
+      "name_en": "Qa Al Hinu",
+      "slug": "qa-al-hinu"
+    },
+    {
+      "city_id": 2213,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "عرعر",
+      "name_en": "Arar",
+      "slug": "arar"
+    },
+    {
+      "city_id": 2214,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز الصحن",
+      "name_en": "Markaz As Sahan",
+      "slug": "markaz-as-sahan"
+    },
+    {
+      "city_id": 2215,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "العويقلية",
+      "name_en": "Al Uwayqilah",
+      "slug": "al-uwayqilah"
+    },
+    {
+      "city_id": 2216,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "أبا الرواث",
+      "name_en": "Aba Ar Rawath",
+      "slug": "aba-ar-rawath"
+    },
+    {
+      "city_id": 2217,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الكاسب",
+      "name_en": "Al Kasib",
+      "slug": "al-kasib"
+    },
+    {
+      "city_id": 2218,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "أم خنصر",
+      "name_en": "Umm Khunsur",
+      "slug": "umm-khunsur"
+    },
+    {
+      "city_id": 2219,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "حزم الجلاميد",
+      "name_en": "Hazm Al Jalamid",
+      "slug": "hazm-al-jalamid"
+    },
+    {
+      "city_id": 2220,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الدويد",
+      "name_en": "Ad Duwayd",
+      "slug": "ad-duwayd"
+    },
+    {
+      "city_id": 2221,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "جديدة عرعر",
+      "name_en": "Jadidat Arar",
+      "slug": "jadidat-arar"
+    },
+    {
+      "city_id": 2252,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز أم الحيران",
+      "name_en": "Markaz Umm Al Hiran",
+      "slug": "markaz-umm-al-hiran"
+    },
+    {
+      "city_id": 2253,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز سماح الجديد",
+      "name_en": "Markaz Samah Al Jadid",
+      "slug": "markaz-samah-al-jadid"
+    },
+    {
+      "city_id": 2254,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز الظهرة",
+      "name_en": "Markaz Adh Dhahrah",
+      "slug": "markaz-adh-dhahrah"
+    },
+    {
+      "city_id": 2255,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "إبن سوقي",
+      "name_en": "Ibn Suqi",
+      "slug": "ibn-suqi"
+    },
+    {
+      "city_id": 2256,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "رفحاء",
+      "name_en": "Rafha",
+      "slug": "rafha"
+    },
+    {
+      "city_id": 2257,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "نصاب",
+      "name_en": "Nisab",
+      "slug": "nisab"
+    },
+    {
+      "city_id": 2258,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "سماح",
+      "name_en": "Samah",
+      "slug": "samah-2258"
+    },
+    {
+      "city_id": 2259,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "لوقة",
+      "name_en": "Lawqah",
+      "slug": "lawqah"
+    },
+    {
+      "city_id": 2260,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "ام رضمة",
+      "name_en": "Umm Rudmah",
+      "slug": "umm-rudmah-2260"
+    },
+    {
+      "city_id": 2261,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "ابن لغيصم",
+      "name_en": "Ibn Lughaisim",
+      "slug": "ibn-lughaisim"
+    },
+    {
+      "city_id": 2262,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "روضة هباس",
+      "name_en": "Rawdat Habbas",
+      "slug": "rawdat-habbas"
+    },
+    {
+      "city_id": 2263,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "التمياط",
+      "name_en": "Timiat",
+      "slug": "timiat"
+    },
+    {
+      "city_id": 2264,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "إبن شريم",
+      "name_en": "Ibn Shuraym",
+      "slug": "ibn-shuraym"
+    },
+    {
+      "city_id": 2265,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shubah",
+      "slug": "ash-shubah-2265"
+    },
+    {
+      "city_id": 2266,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "لينة",
+      "name_en": "Linah",
+      "slug": "linah"
+    },
+    {
+      "city_id": 2267,
+      "region_id": 1,
+      "region_ar": "الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "المركوز",
+      "name_en": "Al Markuz",
+      "slug": "al-markuz"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة الحدود الشمالية (Cities of Northern Borders) - تحميل مجاني",
+    "description": "قائمة مدن منطقة الحدود الشمالية (Northern Borders) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Northern Borders administrative region of Saudi Arabia (region_id=1). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 30 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة الحدود الشمالية (Cities of Northern Borders) | ListBase",
+    "seo_description": "تحميل مدن منطقة الحدود الشمالية (Cities of Northern Borders) — 30 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 30 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

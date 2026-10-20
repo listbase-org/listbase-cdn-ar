@@ -1,0 +1,824 @@
+{
+  "id": "ar-mudun-algeria",
+  "name": "مدن الجزائر — Cities of Algeria (Arabic names)",
+  "title": "مدن الجزائر — Cities of Algeria (Arabic names)",
+  "description": "قائمة بأسماء مدن الجزائر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in Algeria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "الجزائر العاصمة",
+      "name_en": "Algiers",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 2364230
+    },
+    {
+      "id": 2,
+      "name_ar": "وهران",
+      "name_en": "Oran",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 803329
+    },
+    {
+      "id": 3,
+      "name_ar": "قسطنطين",
+      "name_en": "Constantine",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 448374
+    },
+    {
+      "id": 4,
+      "name_ar": "باتنة",
+      "name_en": "Batna",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 290645
+    },
+    {
+      "id": 5,
+      "name_ar": "سطيف",
+      "name_en": "Setif",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 288461
+    },
+    {
+      "id": 6,
+      "name_ar": "عنابة",
+      "name_en": "Annaba",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 257359
+    },
+    {
+      "id": 7,
+      "name_ar": "سيدي عيسى",
+      "name_en": "Sidi Aissa",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 215000
+    },
+    {
+      "id": 8,
+      "name_ar": "ولاية سيدي بلعباس",
+      "name_en": "Sidi Bel Abbes",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 212935
+    },
+    {
+      "id": 9,
+      "name_ar": "ولاية بسكرة",
+      "name_en": "Biskra",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 204661
+    },
+    {
+      "id": 10,
+      "name_ar": "ولاية تبسة",
+      "name_en": "Tebessa",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 194461
+    },
+    {
+      "id": 11,
+      "name_ar": "ولاية ورقلة",
+      "name_en": "Ouargla",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 191136
+    },
+    {
+      "id": 12,
+      "name_ar": "الخروب",
+      "name_en": "El Khroub",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 179033
+    },
+    {
+      "id": 13,
+      "name_ar": "ولاية تيارت",
+      "name_en": "Tiaret",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 178915
+    },
+    {
+      "id": 14,
+      "name_ar": "بجاية",
+      "name_en": "Bejaia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 176139
+    },
+    {
+      "id": 15,
+      "name_ar": "بئر الجير",
+      "name_en": "Bir el Djir",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 171883
+    },
+    {
+      "id": 16,
+      "name_ar": "برج بوعريريج",
+      "name_en": "Bordj Bou Arreridj",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 168346
+    },
+    {
+      "id": 17,
+      "name_ar": "ولاية بشار",
+      "name_en": "Bechar",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 165627
+    },
+    {
+      "id": 18,
+      "name_ar": "ولاية سكيكدة",
+      "name_en": "Skikda",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 163318
+    },
+    {
+      "id": 19,
+      "name_ar": "ولاية الجلفة",
+      "name_en": "Djelfa",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 158679
+    },
+    {
+      "id": 20,
+      "name_ar": "سوق أهراس",
+      "name_en": "Souk Ahras",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 155259
+    },
+    {
+      "id": 21,
+      "name_ar": "ولاية الشلف",
+      "name_en": "Chlef",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 155134
+    },
+    {
+      "id": 22,
+      "name_ar": "العلمة",
+      "name_en": "El Eulma",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 155038
+    },
+    {
+      "id": 23,
+      "name_ar": "برج الكيفان",
+      "name_en": "Bordj el Kiffan",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 151950
+    },
+    {
+      "id": 24,
+      "name_ar": "مستغانم",
+      "name_en": "Mostaganem",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 145696
+    },
+    {
+      "id": 25,
+      "name_ar": "تقرت",
+      "name_en": "Touggourt",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 143270
+    },
+    {
+      "id": 26,
+      "name_ar": "ميدي",
+      "name_en": "Medea",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 138355
+    },
+    {
+      "id": 27,
+      "name_ar": "تيزي وزو",
+      "name_en": "Tizi Ouzou",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 135088
+    },
+    {
+      "id": 28,
+      "name_ar": "ولاية الوادي",
+      "name_en": "El Oued",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 134699
+    },
+    {
+      "id": 29,
+      "name_ar": "ولاية الأغواط",
+      "name_en": "Laghouat",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 134372
+    },
+    {
+      "id": 30,
+      "name_ar": "ولاية المسيلة",
+      "name_en": "M'Sila",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 132975
+    },
+    {
+      "id": 31,
+      "name_ar": "ولاية جيجل",
+      "name_en": "Jijel",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 131513
+    },
+    {
+      "id": 32,
+      "name_ar": "ولاية غليزان",
+      "name_en": "Relizane",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 130094
+    },
+    {
+      "id": 33,
+      "name_ar": "سعيدة",
+      "name_en": "Saida",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 128413
+    },
+    {
+      "id": 34,
+      "name_ar": "أرمري",
+      "name_en": "Baraki",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 123101
+    },
+    {
+      "id": 35,
+      "name_ar": "قالمة",
+      "name_en": "Guelma",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 120004
+    },
+    {
+      "id": 36,
+      "name_ar": "ولاية غرداية",
+      "name_en": "Ghardaia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 120000
+    },
+    {
+      "id": 37,
+      "name_ar": "البرواقية",
+      "name_en": "Berrouaghia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 118678
+    },
+    {
+      "id": 38,
+      "name_ar": "عين البيضاء",
+      "name_en": "Ain Beida",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 116064
+    },
+    {
+      "id": 39,
+      "name_ar": "مغنية",
+      "name_en": "Maghnia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 114634
+    },
+    {
+      "id": 40,
+      "name_ar": "بوسعادة",
+      "name_en": "Bou Saada",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 111787
+    },
+    {
+      "id": 41,
+      "name_ar": "ولاية خنشلة",
+      "name_en": "Khenchela",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 108580
+    },
+    {
+      "id": 42,
+      "name_ar": "بريكة",
+      "name_en": "Barika",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 104388
+    },
+    {
+      "id": 43,
+      "name_ar": "مسعد",
+      "name_en": "Messaad",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 102453
+    },
+    {
+      "id": 44,
+      "name_ar": "أفلو",
+      "name_en": "Aflou",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 102025
+    },
+    {
+      "id": 45,
+      "name_ar": "عين وسارة",
+      "name_en": "Ain Oussera",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 101239
+    },
+    {
+      "id": 46,
+      "name_ar": "السانية",
+      "name_en": "Es Senia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 96928
+    },
+    {
+      "id": 47,
+      "name_ar": "باب الزوار",
+      "name_en": "Bab Ezzouar",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 96597
+    },
+    {
+      "id": 48,
+      "name_ar": "ولاية تمنراست",
+      "name_en": "Tamanrasset",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 92635
+    },
+    {
+      "id": 49,
+      "name_ar": "أرزيو",
+      "name_en": "Arzew",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 91400
+    },
+    {
+      "id": 50,
+      "name_ar": "عين مليلة",
+      "name_en": "Ain M'Lila",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 88441
+    },
+    {
+      "id": 51,
+      "name_ar": "حاسي بحبح",
+      "name_en": "Hassi Bahbah",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 86421
+    },
+    {
+      "id": 52,
+      "name_ar": "ولاية البيض",
+      "name_en": "El Bayadh",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 85577
+    },
+    {
+      "id": 53,
+      "name_ar": "المحمدية",
+      "name_en": "Mohammadia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 84700
+    },
+    {
+      "id": 54,
+      "name_ar": "خميس مليانة",
+      "name_en": "Khemis Miliana",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 84574
+    },
+    {
+      "id": 55,
+      "name_ar": "الميلية",
+      "name_en": "El Milia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 83931
+    },
+    {
+      "id": 56,
+      "name_ar": "حامة بوزيان",
+      "name_en": "Hamma Bouziane",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 83603
+    },
+    {
+      "id": 57,
+      "name_ar": "شلغوم العيد",
+      "name_en": "Chelghoum el Aid",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 82560
+    },
+    {
+      "id": 58,
+      "name_ar": "الدار البيضاء",
+      "name_en": "Dar el Beida",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 81509
+    },
+    {
+      "id": 59,
+      "name_ar": "ولاية أم البواقي",
+      "name_en": "Oum el Bouaghi",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 80359
+    },
+    {
+      "id": 60,
+      "name_ar": "السوقر",
+      "name_en": "Sougueur",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 78956
+    },
+    {
+      "id": 61,
+      "name_ar": "طاهر",
+      "name_en": "Taher",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 78500
+    },
+    {
+      "id": 62,
+      "name_ar": "بئر خادم",
+      "name_en": "Birkhadem",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 77749
+    },
+    {
+      "id": 63,
+      "name_ar": "بئر العاتر",
+      "name_en": "Bir el Ater",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 77727
+    },
+    {
+      "id": 64,
+      "name_ar": "خميس الخشنة",
+      "name_en": "Khemis el Khechna",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 76474
+    },
+    {
+      "id": 65,
+      "name_ar": "مروانة",
+      "name_en": "Merouana",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 76000
+    },
+    {
+      "id": 66,
+      "name_ar": "ولاية عين تموشنت",
+      "name_en": "Ain Temouchent",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 75558
+    },
+    {
+      "id": 67,
+      "name_ar": "الشريعة",
+      "name_en": "Cheria",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 75344
+    },
+    {
+      "id": 68,
+      "name_ar": "ولاية تيسمسيلت",
+      "name_en": "Tissemsilt",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 75197
+    },
+    {
+      "id": 69,
+      "name_ar": "عين ولمان",
+      "name_en": "Ain Oulmene",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 73831
+    },
+    {
+      "id": 70,
+      "name_ar": "تلمسان",
+      "name_en": "Tlemcen",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 72200
+    },
+    {
+      "id": 71,
+      "name_ar": "جماعة دفاع عن المصالح",
+      "name_en": "Sig",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 70499
+    },
+    {
+      "id": 72,
+      "name_ar": "ميلا",
+      "name_en": "Mila",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 69052
+    },
+    {
+      "id": 73,
+      "name_ar": "ولاية البويرة",
+      "name_en": "Bouira",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 68545
+    },
+    {
+      "id": 74,
+      "name_ar": "ولاية أدرار",
+      "name_en": "Adrar",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 68276
+    },
+    {
+      "id": 75,
+      "name_ar": "دائرة قصر البخاري",
+      "name_en": "Ksar el Boukhari",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 67813
+    },
+    {
+      "id": 76,
+      "name_ar": "بلدية الرغاية",
+      "name_en": "Reghaia",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 66215
+    },
+    {
+      "id": 77,
+      "name_ar": "ولاية عين الدفلى",
+      "name_en": "Ain Defla",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 65453
+    },
+    {
+      "id": 78,
+      "name_ar": "حجوط",
+      "name_en": "Hadjout",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 65300
+    },
+    {
+      "id": 79,
+      "name_ar": "المشرية",
+      "name_en": "Mecheria",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 65043
+    },
+    {
+      "id": 80,
+      "name_ar": "برج منايل",
+      "name_en": "Bordj Menaiel",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 64820
+    },
+    {
+      "id": 81,
+      "name_ar": "وادي ارهيو",
+      "name_en": "Oued Rhiou",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 64685
+    },
+    {
+      "id": 82,
+      "name_ar": "أولاد جلال",
+      "name_en": "Ouled Djellal",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 63237
+    },
+    {
+      "id": 83,
+      "name_ar": "دائرة تغنيف",
+      "name_en": "Tighenif",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 62210
+    },
+    {
+      "id": 84,
+      "name_ar": "الرويبة",
+      "name_en": "Rouiba",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 61984
+    },
+    {
+      "id": 85,
+      "name_ar": "بلدية بابا حسن",
+      "name_en": "Baba Hassen",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 60000
+    },
+    {
+      "id": 86,
+      "name_ar": "مسكيانة",
+      "name_en": "Meskiana",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 60000
+    },
+    {
+      "id": 87,
+      "name_ar": "عين التوتة",
+      "name_en": "Ain Touta",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 59904
+    },
+    {
+      "id": 88,
+      "name_ar": "الأخضرية",
+      "name_en": "Lakhdaria",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 59746
+    },
+    {
+      "id": 89,
+      "name_ar": "سيدي الشحمي",
+      "name_en": "Sidi ech Chahmi",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 58857
+    },
+    {
+      "id": 90,
+      "name_ar": "الرويسات",
+      "name_en": "Rouissat",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 58112
+    },
+    {
+      "id": 91,
+      "name_ar": "العطاف",
+      "name_en": "El Attaf",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 57737
+    },
+    {
+      "id": 92,
+      "name_ar": "بوفاريك",
+      "name_en": "Boufarik",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 57162
+    },
+    {
+      "id": 93,
+      "name_ar": "عزابة",
+      "name_en": "Azzaba",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 56922
+    },
+    {
+      "id": 94,
+      "name_ar": "الشقفة",
+      "name_en": "Chekfa",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 56447
+    },
+    {
+      "id": 95,
+      "name_ar": "بودواو",
+      "name_en": "Boudouaou",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 56398
+    },
+    {
+      "id": 96,
+      "name_ar": "أولاد ايعيش",
+      "name_en": "Oulad Yaich",
+      "country_ar": "الجزائر",
+      "country_en": "Algeria",
+      "population": 55719
+    }
+  ],
+  "meta": {
+    "title": "مدن الجزائر — Cities of Algeria (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الجزائر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in Algeria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 96 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الجزائر — Cities of Algeria (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الجزائر — Cities of Algeria (Arabic names) — 96 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 96 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

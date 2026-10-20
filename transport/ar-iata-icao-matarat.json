@@ -1,0 +1,2527 @@
+{
+  "id": "ar-iata-icao-matarat",
+  "name": "رموز IATA/ICAO للمطارات في الدول العربية",
+  "title": "رموز IATA/ICAO للمطارات في الدول العربية",
+  "description": "قائمة المطارات في الدول العربية مع رموز IATA المكونة من 3 أحرف ورموز ICAO المكونة من 4 أحرف وفقًا لقاعدة بيانات IP2Location.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "AAN",
+      "icao": "OMAL",
+      "airport": "Al Ain International Airport",
+      "latitude": 24.2617,
+      "longitude": 55.6092
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "AUH",
+      "icao": "OMAA",
+      "airport": "Abu Dhabi International Airport",
+      "latitude": 24.433,
+      "longitude": 54.6511
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "AYM",
+      "icao": "",
+      "airport": "Yas Island Seaplane Base",
+      "latitude": 24.467,
+      "longitude": 54.6103
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "AZI",
+      "icao": "OMAD",
+      "airport": "Al Bateen Executive Airport",
+      "latitude": 24.4283,
+      "longitude": 54.4581
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "DHF",
+      "icao": "OMAM",
+      "airport": "Al Dhafra Air Base",
+      "latitude": 24.2482,
+      "longitude": 54.5477
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "XSB",
+      "icao": "OMBY",
+      "airport": "Sir Bani Yas Airport",
+      "latitude": 24.2836,
+      "longitude": 52.5803
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Abu Zaby",
+      "iata": "ZDY",
+      "icao": "OMDL",
+      "airport": "Dalma Airport",
+      "latitude": 24.51,
+      "longitude": 52.3352
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Al Fujayrah",
+      "iata": "FJR",
+      "icao": "OMFJ",
+      "airport": "Fujairah International Airport",
+      "latitude": 25.1122,
+      "longitude": 56.324
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Ash Shariqah",
+      "iata": "SHJ",
+      "icao": "OMSJ",
+      "airport": "Sharjah International Airport",
+      "latitude": 25.3286,
+      "longitude": 55.5172
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Dubayy",
+      "iata": "DCG",
+      "icao": "",
+      "airport": "Dubai Creek Seaplane Base",
+      "latitude": 25.2422,
+      "longitude": 55.3314
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Dubayy",
+      "iata": "DJH",
+      "icao": "",
+      "airport": "Jebel Ali Seaplane Base",
+      "latitude": 24.989,
+      "longitude": 55.0238
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Dubayy",
+      "iata": "DWC",
+      "icao": "OMDW",
+      "airport": "Al Maktoum International Airport",
+      "latitude": 24.8964,
+      "longitude": 55.1614
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Dubayy",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "airport": "Dubai International Airport",
+      "latitude": 25.2528,
+      "longitude": 55.3644
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Dubayy",
+      "iata": "NHD",
+      "icao": "OMDM",
+      "airport": "Al Minhad Air Base",
+      "latitude": 25.0268,
+      "longitude": 55.3662
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Ra's al Khaymah",
+      "iata": "RHR",
+      "icao": "",
+      "airport": "Al Hamra Seaplane Base",
+      "latitude": 25.691,
+      "longitude": 55.778
+    },
+    {
+      "country_code": "AE",
+      "region_name": "Ra's al Khaymah",
+      "iata": "RKT",
+      "icao": "OMRK",
+      "airport": "Ras Al Khaimah International Airport",
+      "latitude": 25.6135,
+      "longitude": 55.9388
+    },
+    {
+      "country_code": "BH",
+      "region_name": "Al Muharraq",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "airport": "Bahrain International Airport",
+      "latitude": 26.2708,
+      "longitude": 50.6336
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Adrar",
+      "iata": "AZR",
+      "icao": "DAUA",
+      "airport": "Touat-Cheikh Sidi Mohamed Belkebir Airport",
+      "latitude": 27.8376,
+      "longitude": -0.186414
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Adrar",
+      "iata": "BMW",
+      "icao": "DATM",
+      "airport": "Bordj Mokhtar Airport",
+      "latitude": 21.375,
+      "longitude": 0.923889
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Adrar",
+      "iata": "TMX",
+      "icao": "DAUT",
+      "airport": "Timimoun Airport",
+      "latitude": 29.2371,
+      "longitude": 0.276033
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Alger",
+      "iata": "ALG",
+      "icao": "DAAG",
+      "airport": "Houari Boumediene Airport",
+      "latitude": 36.691,
+      "longitude": 3.21541
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Annaba",
+      "iata": "AAE",
+      "icao": "DABB",
+      "airport": "Rabah Bitat Airport (Les Salines Airport)",
+      "latitude": 36.8222,
+      "longitude": 7.80917
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Batna",
+      "iata": "BLJ",
+      "icao": "DABT",
+      "airport": "Mostepha Ben Boulaid Airport",
+      "latitude": 35.7521,
+      "longitude": 6.30859
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Bechar",
+      "iata": "CBH",
+      "icao": "DAOR",
+      "airport": "Boudghene Ben Ali Lotfi Airport",
+      "latitude": 31.6457,
+      "longitude": -2.26986
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Bejaia",
+      "iata": "BJA",
+      "icao": "DAAE",
+      "airport": "Soummam - Abane Ramdane Airport",
+      "latitude": 36.712,
+      "longitude": 5.06992
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Biskra",
+      "iata": "BSK",
+      "icao": "DAUB",
+      "airport": "Biskra Airport",
+      "latitude": 34.7933,
+      "longitude": 5.73823
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Chlef",
+      "iata": "CFK",
+      "icao": "DAOI",
+      "airport": "Chlef International Airport",
+      "latitude": 36.2127,
+      "longitude": 1.33177
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Constantine",
+      "iata": "CZL",
+      "icao": "DABC",
+      "airport": "Mohamed Boudiaf International Airport",
+      "latitude": 36.276,
+      "longitude": 6.62039
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Djelfa",
+      "iata": "BUJ",
+      "icao": "DAAD",
+      "airport": "Bou Saada Airport",
+      "latitude": 35.3325,
+      "longitude": 4.20639
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "El Bayadh",
+      "iata": "EBH",
+      "icao": "DAOY",
+      "airport": "El Bayadh Airport",
+      "latitude": 33.7217,
+      "longitude": 1.0925
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "El Oued",
+      "iata": "ELU",
+      "icao": "DAUO",
+      "airport": "Guemar Airport",
+      "latitude": 33.5114,
+      "longitude": 6.77679
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Ghardaia",
+      "iata": "ELG",
+      "icao": "DAUE",
+      "airport": "El Golea Airport",
+      "latitude": 30.5713,
+      "longitude": 2.85959
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Ghardaia",
+      "iata": "GHA",
+      "icao": "DAUG",
+      "airport": "Noumerat - Moufdi Zakaria Airport",
+      "latitude": 32.3841,
+      "longitude": 3.79411
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Illizi",
+      "iata": "DJG",
+      "icao": "DAAJ",
+      "airport": "Tiska Djanet Airport",
+      "latitude": 24.2928,
+      "longitude": 9.45244
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Illizi",
+      "iata": "IAM",
+      "icao": "DAUZ",
+      "airport": "In Amenas Airport (Zarzaitine Airport)",
+      "latitude": 28.0515,
+      "longitude": 9.64291
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Illizi",
+      "iata": "VVZ",
+      "icao": "DAAP",
+      "airport": "Takhamalt Airport",
+      "latitude": 26.7235,
+      "longitude": 8.62265
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Jijel",
+      "iata": "GJL",
+      "icao": "DAAV",
+      "airport": "Jijel Ferhat Abbas Airport",
+      "latitude": 36.7951,
+      "longitude": 5.87361
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Laghouat",
+      "iata": "HRM",
+      "icao": "DAFH",
+      "airport": "Hassi R'Mel Airport (Tilrempt Airport)",
+      "latitude": 32.9304,
+      "longitude": 3.31154
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Laghouat",
+      "iata": "LOO",
+      "icao": "DAUL",
+      "airport": "L'Mekrareg Airport (Laghouat Airport)",
+      "latitude": 33.7644,
+      "longitude": 2.92834
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Mascara",
+      "iata": "MUW",
+      "icao": "DAOV",
+      "airport": "Ghriss Airport",
+      "latitude": 35.2077,
+      "longitude": 0.147142
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Mostaganem",
+      "iata": "MQV",
+      "icao": "",
+      "airport": "Mostaganem Airport",
+      "latitude": 35.9088,
+      "longitude": 0.149383
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Naama",
+      "iata": "MZW",
+      "icao": "DAAY",
+      "airport": "Mecheria Airport",
+      "latitude": 33.5359,
+      "longitude": -0.242353
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Oran",
+      "iata": "ORN",
+      "icao": "DAOO",
+      "airport": "Oran Es Senia Airport",
+      "latitude": 35.6239,
+      "longitude": -0.621183
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Oran",
+      "iata": "TAF",
+      "icao": "DAOL",
+      "airport": "Oran Tafaraoui Airport",
+      "latitude": 35.5424,
+      "longitude": -0.532278
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Ouargla",
+      "iata": "HME",
+      "icao": "DAUH",
+      "airport": "Oued Irara-Krim Belkacem Airport",
+      "latitude": 31.673,
+      "longitude": 6.14044
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Ouargla",
+      "iata": "OGX",
+      "icao": "DAUU",
+      "airport": "Ain Beida Airport",
+      "latitude": 31.9172,
+      "longitude": 5.41278
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Ouargla",
+      "iata": "TGR",
+      "icao": "DAUK",
+      "airport": "Sidi Mahdi Airport",
+      "latitude": 33.0678,
+      "longitude": 6.08867
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Setif",
+      "iata": "QSF",
+      "icao": "DAAS",
+      "airport": "Ain Arnat Airport",
+      "latitude": 36.1781,
+      "longitude": 5.32449
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Sidi Bel Abbes",
+      "iata": "BFW",
+      "icao": "DAOS",
+      "airport": "Sidi Bel Abbes Airport",
+      "latitude": 35.1718,
+      "longitude": -0.593275
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Skikda",
+      "iata": "SKI",
+      "icao": "DABP",
+      "airport": "Skikda Airport",
+      "latitude": 36.8641,
+      "longitude": 6.9516
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tamanrasset",
+      "iata": "INF",
+      "icao": "DATG",
+      "airport": "In Guezzam Airport",
+      "latitude": 19.567,
+      "longitude": 5.75
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tamanrasset",
+      "iata": "INZ",
+      "icao": "DAUI",
+      "airport": "In Salah Airport",
+      "latitude": 27.251,
+      "longitude": 2.51202
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tamanrasset",
+      "iata": "TMR",
+      "icao": "DAAT",
+      "airport": "Aguenar -Hadj Bey Akhamok Airport",
+      "latitude": 22.8115,
+      "longitude": 5.45108
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tebessa",
+      "iata": "TEE",
+      "icao": "DABS",
+      "airport": "Cheikh Larbi Tebessi Airport",
+      "latitude": 35.4316,
+      "longitude": 8.12072
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tiaret",
+      "iata": "TID",
+      "icao": "DAOB",
+      "airport": "Abdelhafid Boussouf Bou Chekif Airport",
+      "latitude": 35.3411,
+      "longitude": 1.46315
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tindouf",
+      "iata": "TIN",
+      "icao": "DAOF",
+      "airport": "Tindouf Airport",
+      "latitude": 27.7004,
+      "longitude": -8.1671
+    },
+    {
+      "country_code": "DZ",
+      "region_name": "Tlemcen",
+      "iata": "TLM",
+      "icao": "DAON",
+      "airport": "Zenata - Messali El Hadj Airport",
+      "latitude": 35.0167,
+      "longitude": -1.45
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Bahr al Ahmar",
+      "iata": "HRG",
+      "icao": "HEGN",
+      "airport": "Hurghada International Airport",
+      "latitude": 27.1783,
+      "longitude": 33.7994
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Bahr al Ahmar",
+      "iata": "RMF",
+      "icao": "HEMA",
+      "airport": "Marsa Alam International Airport",
+      "latitude": 25.5571,
+      "longitude": 34.5837
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Iskandariyah",
+      "iata": "ALY",
+      "icao": "HEAX",
+      "airport": "El Nouzha Airport",
+      "latitude": 31.1839,
+      "longitude": 29.9489
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Iskandariyah",
+      "iata": "HBE",
+      "icao": "HEBA",
+      "airport": "Borg El Arab Airport",
+      "latitude": 30.9177,
+      "longitude": 29.6964
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Jizah",
+      "iata": "SPX",
+      "icao": "",
+      "airport": "Sphinx International Airport",
+      "latitude": 30.1097,
+      "longitude": 30.8944
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Minya",
+      "iata": "EMY",
+      "icao": "HE25",
+      "airport": "El Minya Airport",
+      "latitude": 28.1013,
+      "longitude": 30.7303
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Qahirah",
+      "iata": "CAI",
+      "icao": "HECA",
+      "airport": "Cairo International Airport",
+      "latitude": 30.1219,
+      "longitude": 31.4056
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Uqsur",
+      "iata": "LXR",
+      "icao": "HELX",
+      "airport": "Luxor International Airport",
+      "latitude": 25.671,
+      "longitude": 32.7066
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Wadi al Jadid",
+      "iata": "DAK",
+      "icao": "HEDK",
+      "airport": "Dakhla Oasis Airport",
+      "latitude": 25.4116,
+      "longitude": 29.0031
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Wadi al Jadid",
+      "iata": "GSQ",
+      "icao": "HEOW",
+      "airport": "Sharq Al-Owainat Airport",
+      "latitude": 22.5857,
+      "longitude": 28.7166
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Al Wadi al Jadid",
+      "iata": "UVL",
+      "icao": "HEKG",
+      "airport": "El Kharga Airport",
+      "latitude": 25.4736,
+      "longitude": 30.5907
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Ash Sharqiyah",
+      "iata": "TFR",
+      "icao": "",
+      "airport": "Wadi al Jandali Airport",
+      "latitude": 30.3,
+      "longitude": 31.75
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Aswan",
+      "iata": "ABS",
+      "icao": "HEBL",
+      "airport": "Abu Simbel Airport",
+      "latitude": 22.376,
+      "longitude": 31.6117
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Aswan",
+      "iata": "ASW",
+      "icao": "HESN",
+      "airport": "Aswan International Airport",
+      "latitude": 23.9644,
+      "longitude": 32.82
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Asyut",
+      "iata": "ATZ",
+      "icao": "HEAT",
+      "airport": "Assiut Airport",
+      "latitude": 27.0465,
+      "longitude": 31.012
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Bur Sa'id",
+      "iata": "PSD",
+      "icao": "HEPS",
+      "airport": "Port Said Airport",
+      "latitude": 31.2794,
+      "longitude": 32.24
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Janub Sina'",
+      "iata": "AUE",
+      "icao": "",
+      "airport": "Abu Rudeis Airport",
+      "latitude": 28.899,
+      "longitude": 33.2025
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Janub Sina'",
+      "iata": "ELT",
+      "icao": "HETR",
+      "airport": "El Tor Airport",
+      "latitude": 28.209,
+      "longitude": 33.6455
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Janub Sina'",
+      "iata": "SKV",
+      "icao": "HESC",
+      "airport": "St. Catherine International Airport",
+      "latitude": 28.6853,
+      "longitude": 34.0625
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Janub Sina'",
+      "iata": "SSH",
+      "icao": "HESH",
+      "airport": "Sharm el-Sheikh International Airport",
+      "latitude": 27.9773,
+      "longitude": 34.395
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Janub Sina'",
+      "iata": "TCP",
+      "icao": "HETB",
+      "airport": "Taba International Airport",
+      "latitude": 29.5878,
+      "longitude": 34.7781
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Matruh",
+      "iata": "DBB",
+      "icao": "HEAL",
+      "airport": "Al Alamain International Airport",
+      "latitude": 30.9245,
+      "longitude": 28.4614
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Matruh",
+      "iata": "MUH",
+      "icao": "HEMM",
+      "airport": "Marsa Matruh International Airport",
+      "latitude": 31.3254,
+      "longitude": 27.2217
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Matruh",
+      "iata": "SEW",
+      "icao": "",
+      "airport": "Siwa Oasis North Airport",
+      "latitude": 29.3455,
+      "longitude": 25.5067
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Matruh",
+      "iata": "SQK",
+      "icao": "",
+      "airport": "Sidi Barrani Airport",
+      "latitude": 31.4666,
+      "longitude": 25.878
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Shamal Sina'",
+      "iata": "AAC",
+      "icao": "HEAR",
+      "airport": "El Arish International Airport",
+      "latitude": 31.0733,
+      "longitude": 33.8358
+    },
+    {
+      "country_code": "EG",
+      "region_name": "Suhaj",
+      "iata": "HMB",
+      "icao": "HEMK",
+      "airport": "Sohag International Airport",
+      "latitude": 26.3428,
+      "longitude": 31.7428
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Al Anbar",
+      "iata": "IQA",
+      "icao": "ORAA",
+      "airport": "Al Asad Airbase",
+      "latitude": 33.7856,
+      "longitude": 42.4412
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Al Anbar",
+      "iata": "TQD",
+      "icao": "ORAT",
+      "airport": "Al-Taqaddum Air Base",
+      "latitude": 33.3381,
+      "longitude": 43.5971
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Al Basrah",
+      "iata": "BSR",
+      "icao": "ORMM",
+      "airport": "Basra International Airport",
+      "latitude": 30.5491,
+      "longitude": 47.6621
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "An Najaf",
+      "iata": "NJF",
+      "icao": "ORNI",
+      "airport": "Al Najaf International Airport",
+      "latitude": 31.9899,
+      "longitude": 44.4043
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Arbil",
+      "iata": "EBL",
+      "icao": "ORER",
+      "airport": "Erbil International Airport",
+      "latitude": 36.2376,
+      "longitude": 43.9632
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Arbil",
+      "iata": "ISU",
+      "icao": "ORSU",
+      "airport": "Sulaimaniyah International Airport",
+      "latitude": 35.5617,
+      "longitude": 45.3167
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "airport": "Baghdad International Airport",
+      "latitude": 33.2625,
+      "longitude": 44.2346
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Dahuk",
+      "iata": "BMN",
+      "icao": "ORBB",
+      "airport": "Bamarni Airport",
+      "latitude": 37.0988,
+      "longitude": 43.2666
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Kirkuk",
+      "iata": "KIK",
+      "icao": "ORKK",
+      "airport": "Kirkuk Airport",
+      "latitude": 35.4695,
+      "longitude": 44.3489
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Ninawa",
+      "iata": "OSM",
+      "icao": "ORBM",
+      "airport": "Mosul International Airport",
+      "latitude": 36.3058,
+      "longitude": 43.1474
+    },
+    {
+      "country_code": "IQ",
+      "region_name": "Ninawa",
+      "iata": "RQW",
+      "icao": "",
+      "airport": "Qayyarah Airfield West",
+      "latitude": 35.7672,
+      "longitude": 43.1251
+    },
+    {
+      "country_code": "JO",
+      "region_name": "Al 'Aqabah",
+      "iata": "AQJ",
+      "icao": "OJAQ",
+      "airport": "King Hussein International Airport",
+      "latitude": 29.6116,
+      "longitude": 35.0181
+    },
+    {
+      "country_code": "JO",
+      "region_name": "Al 'Asimah",
+      "iata": "ADJ",
+      "icao": "OJAM",
+      "airport": "Amman Civil Airport (Marka International Airport)",
+      "latitude": 31.9727,
+      "longitude": 35.9916
+    },
+    {
+      "country_code": "JO",
+      "region_name": "Al Mafraq",
+      "iata": "OMF",
+      "icao": "OJMF",
+      "airport": "King Hussein Air Base",
+      "latitude": 32.3564,
+      "longitude": 36.2592
+    },
+    {
+      "country_code": "JO",
+      "region_name": "Ma'an",
+      "iata": "MPQ",
+      "icao": "OJMN",
+      "airport": "Ma'an Airport",
+      "latitude": 30.1667,
+      "longitude": 35.7833
+    },
+    {
+      "country_code": "JO",
+      "region_name": "Madaba",
+      "iata": "AMM",
+      "icao": "OJAI",
+      "airport": "Queen Alia International Airport",
+      "latitude": 31.7226,
+      "longitude": 35.9932
+    },
+    {
+      "country_code": "KW",
+      "region_name": "Al Ahmadi",
+      "iata": "XIJ",
+      "icao": "OKAJ",
+      "airport": "Ahmad al-Jaber Air Base",
+      "latitude": 28.9348,
+      "longitude": 47.7919
+    },
+    {
+      "country_code": "KW",
+      "region_name": "Al Farwaniyah",
+      "iata": "KWI",
+      "icao": "OKKK",
+      "airport": "Kuwait International Airport",
+      "latitude": 29.2266,
+      "longitude": 47.9689
+    },
+    {
+      "country_code": "LB",
+      "region_name": "Beyrouth",
+      "iata": "BEY",
+      "icao": "OLBA",
+      "airport": "Beirut-Rafic Hariri International Airport / Beirut Air Base",
+      "latitude": 33.8209,
+      "longitude": 35.4884
+    },
+    {
+      "country_code": "LB",
+      "region_name": "Nabatiye",
+      "iata": "KYE",
+      "icao": "OLKA",
+      "airport": "Rene Mouawad Air Base (Kleyate Airport)",
+      "latitude": 34.5893,
+      "longitude": 36.0113
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Butnan",
+      "iata": "TOB",
+      "icao": "HLGN",
+      "airport": "Tobruk Airport",
+      "latitude": 31.861,
+      "longitude": 23.907
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Jabal al Akhdar",
+      "iata": "LAQ",
+      "icao": "HLLQ",
+      "airport": "Al Abraq International Airport",
+      "latitude": 32.7887,
+      "longitude": 21.9643
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Jabal al Gharbi",
+      "iata": "ZIS",
+      "icao": "HLZN",
+      "airport": "Zintan Airport",
+      "latitude": 31.7749,
+      "longitude": 12.2501
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Jufrah",
+      "iata": "HUQ",
+      "icao": "HLON",
+      "airport": "Hun Airport",
+      "latitude": 29.1101,
+      "longitude": 15.9656
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Kufrah",
+      "iata": "AKF",
+      "icao": "HLKF",
+      "airport": "Kufra Airport",
+      "latitude": 24.1787,
+      "longitude": 23.314
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Wahat",
+      "iata": "LMQ",
+      "icao": "HLMB",
+      "airport": "Marsa Brega Airport",
+      "latitude": 30.3781,
+      "longitude": 19.5764
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Al Wahat",
+      "iata": "NFR",
+      "icao": "HLNR",
+      "airport": "Nafoora Airport",
+      "latitude": 29.2132,
+      "longitude": 21.5924
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Banghazi",
+      "iata": "BEN",
+      "icao": "HLLB",
+      "airport": "Benina International Airport",
+      "latitude": 32.0968,
+      "longitude": 20.2695
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Darnah",
+      "iata": "DNF",
+      "icao": "",
+      "airport": "Martuba Air Base",
+      "latitude": 32.542,
+      "longitude": 22.745
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Ghat",
+      "iata": "GHT",
+      "icao": "HLGT",
+      "airport": "Ghat Airport",
+      "latitude": 25.1456,
+      "longitude": 10.1426
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Misratah",
+      "iata": "MRA",
+      "icao": "HLMS",
+      "airport": "Misrata Airport",
+      "latitude": 32.325,
+      "longitude": 15.061
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Nalut",
+      "iata": "LTD",
+      "icao": "HLTD",
+      "airport": "Ghadames Airport",
+      "latitude": 30.1517,
+      "longitude": 9.71531
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Sabha",
+      "iata": "BCQ",
+      "icao": "",
+      "airport": "Brak Airport",
+      "latitude": 27.653,
+      "longitude": 14.272
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Sabha",
+      "iata": "SEB",
+      "icao": "HLLS",
+      "airport": "Sabha Airport",
+      "latitude": 26.987,
+      "longitude": 14.4725
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Surt",
+      "iata": "SRX",
+      "icao": "HLGD",
+      "airport": "Gardabya Airport",
+      "latitude": 31.0635,
+      "longitude": 16.595
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Tarabulus",
+      "iata": "MJI",
+      "icao": "HLLM",
+      "airport": "Mitiga International Airport",
+      "latitude": 32.8941,
+      "longitude": 13.276
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Tarabulus",
+      "iata": "TIP",
+      "icao": "HLLT",
+      "airport": "Tripoli International Airport",
+      "latitude": 32.6635,
+      "longitude": 13.159
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Tarabulus",
+      "iata": "WAX",
+      "icao": "HLZW",
+      "airport": "Zuwarah Airport",
+      "latitude": 32.9523,
+      "longitude": 12.0155
+    },
+    {
+      "country_code": "LY",
+      "region_name": "Wadi al Hayat",
+      "iata": "QUB",
+      "icao": "HLUB",
+      "airport": "Ubari Airport",
+      "latitude": 26.5675,
+      "longitude": 12.8231
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Beni-Mellal-Khenifra",
+      "iata": "BEM",
+      "icao": "GMMD",
+      "airport": "Beni Mellal Airport",
+      "latitude": 32.4019,
+      "longitude": -6.31591
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Casablanca-Settat",
+      "iata": "CAS",
+      "icao": "GMMC",
+      "airport": "Anfa Airport",
+      "latitude": 33.5533,
+      "longitude": -7.66139
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Casablanca-Settat",
+      "iata": "CMN",
+      "icao": "GMMN",
+      "airport": "Mohammed V International Airport",
+      "latitude": 33.3675,
+      "longitude": -7.58997
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Casablanca-Settat",
+      "iata": "GMD",
+      "icao": "GMMB",
+      "airport": "Ben Slimane Airport",
+      "latitude": 33.6554,
+      "longitude": -7.22145
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Draa-Tafilalet",
+      "iata": "ERH",
+      "icao": "GMFK",
+      "airport": "Moulay Ali Cherif Airport",
+      "latitude": 31.9475,
+      "longitude": -4.39833
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Draa-Tafilalet",
+      "iata": "OZG",
+      "icao": "GMAZ",
+      "airport": "Zagora Airport",
+      "latitude": 30.3203,
+      "longitude": -5.86667
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Draa-Tafilalet",
+      "iata": "OZZ",
+      "icao": "GMMZ",
+      "airport": "Ouarzazate Airport",
+      "latitude": 30.9391,
+      "longitude": -6.90943
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Fes- Meknes",
+      "iata": "FEZ",
+      "icao": "GMFF",
+      "airport": "Fes-Saiss Airport",
+      "latitude": 33.9273,
+      "longitude": -4.97796
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Fes- Meknes",
+      "iata": "MEK",
+      "icao": "GMFM",
+      "airport": "Bassatine Air Base",
+      "latitude": 33.8791,
+      "longitude": -5.51512
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Guelmim-Oued Noun (EH-partial)",
+      "iata": "GLN",
+      "icao": "",
+      "airport": "Guelmim Airport",
+      "latitude": 29.0267,
+      "longitude": -10.0503
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Guelmim-Oued Noun (EH-partial)",
+      "iata": "SII",
+      "icao": "GMMF",
+      "airport": "Sidi Ifni Airport (Sania Ramel Airport)",
+      "latitude": 29.3667,
+      "longitude": -10.1878
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Guelmim-Oued Noun (EH-partial)",
+      "iata": "TTA",
+      "icao": "GMAT",
+      "airport": "Tan Tan Airport (Plage Blanche Airport)",
+      "latitude": 28.4482,
+      "longitude": -11.1613
+    },
+    {
+      "country_code": "MA",
+      "region_name": "L'Oriental",
+      "iata": "NDR",
+      "icao": "GMMW",
+      "airport": "Nador International Airport",
+      "latitude": 34.9888,
+      "longitude": -3.02821
+    },
+    {
+      "country_code": "MA",
+      "region_name": "L'Oriental",
+      "iata": "OUD",
+      "icao": "GMFO",
+      "airport": "Angads Airport",
+      "latitude": 34.7872,
+      "longitude": -1.92399
+    },
+    {
+      "country_code": "MA",
+      "region_name": "L'Oriental",
+      "iata": "UAR",
+      "icao": "GMFB",
+      "airport": "Bouarfa Airport",
+      "latitude": 32.5143,
+      "longitude": -1.98306
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Laayoune-Sakia El Hamra (EH-partial)",
+      "iata": "EUN",
+      "icao": "GMML",
+      "airport": "Hassan I Airport",
+      "latitude": 27.1517,
+      "longitude": -13.2192
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Laayoune-Sakia El Hamra (EH-partial)",
+      "iata": "SMW",
+      "icao": "GMMA",
+      "airport": "Smara Airport",
+      "latitude": 26.7318,
+      "longitude": -11.6847
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Laayoune-Sakia El Hamra (EH-partial)",
+      "iata": "VIL",
+      "icao": "GMMH",
+      "airport": "Dakhla Airport",
+      "latitude": 23.7183,
+      "longitude": -15.932
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Marrakech-Safi",
+      "iata": "RAK",
+      "icao": "GMMX",
+      "airport": "Marrakesh Menara Airport",
+      "latitude": 31.6069,
+      "longitude": -8.0363
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Marrakech-Safi",
+      "iata": "SFI",
+      "icao": "GMMS",
+      "airport": "Safi Airport",
+      "latitude": 32.2731,
+      "longitude": -9.23694
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Rabat-Sale-Kenitra",
+      "iata": "NNA",
+      "icao": "GMMY",
+      "airport": "Kenitra Air Base",
+      "latitude": 34.2989,
+      "longitude": -6.59588
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Rabat-Sale-Kenitra",
+      "iata": "RBA",
+      "icao": "GMME",
+      "airport": "Rabat-Sale Airport",
+      "latitude": 34.0515,
+      "longitude": -6.75152
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Souss-Massa",
+      "iata": "AGA",
+      "icao": "GMAD",
+      "airport": "Agadir-Al Massira Airport",
+      "latitude": 30.325,
+      "longitude": -9.41307
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Souss-Massa",
+      "iata": "ESU",
+      "icao": "GMMI",
+      "airport": "Essaouira-Mogador Airport",
+      "latitude": 31.3975,
+      "longitude": -9.68167
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Tanger-Tetouan-Al Hoceima",
+      "iata": "AHU",
+      "icao": "GMTA",
+      "airport": "Cherif Al Idrissi Airport",
+      "latitude": 35.1771,
+      "longitude": -3.83952
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Tanger-Tetouan-Al Hoceima",
+      "iata": "TNG",
+      "icao": "GMTT",
+      "airport": "Tangier Ibn Battouta Airport",
+      "latitude": 35.7269,
+      "longitude": -5.91689
+    },
+    {
+      "country_code": "MA",
+      "region_name": "Tanger-Tetouan-Al Hoceima",
+      "iata": "TTU",
+      "icao": "",
+      "airport": "Sania Ramel Airport",
+      "latitude": 35.5943,
+      "longitude": -5.32002
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Ad Dakhiliyah",
+      "iata": "AOM",
+      "icao": "",
+      "airport": "Adam Airport",
+      "latitude": 22.4919,
+      "longitude": 57.3839
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Ad Dakhiliyah",
+      "iata": "MCT",
+      "icao": "OOMS",
+      "airport": "Muscat International Airport",
+      "latitude": 23.5933,
+      "longitude": 58.2844
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Ad Dakhiliyah",
+      "iata": "RNM",
+      "icao": "OOGB",
+      "airport": "Qarn Alam Airport",
+      "latitude": 21.383,
+      "longitude": 57.05
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Al Buraymi",
+      "iata": "RMB",
+      "icao": "OOBR",
+      "airport": "Buraimi Airport",
+      "latitude": 24.2411,
+      "longitude": 55.7847
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Al Wusta",
+      "iata": "BJQ",
+      "icao": "",
+      "airport": "Bahja Airport",
+      "latitude": 19.8731,
+      "longitude": 56.0678
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Al Wusta",
+      "iata": "DQM",
+      "icao": "",
+      "airport": "Duqm International Airport",
+      "latitude": 19.5019,
+      "longitude": 57.6342
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Al Wusta",
+      "iata": "JNJ",
+      "icao": "",
+      "airport": "Duqm Jaaluni Airport",
+      "latitude": 19.4749,
+      "longitude": 57.3083
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Al Wusta",
+      "iata": "UKH",
+      "icao": "",
+      "airport": "Mukhaizna Airport",
+      "latitude": 19.3864,
+      "longitude": 56.4014
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Az Zahirah",
+      "iata": "FAU",
+      "icao": "OOFD",
+      "airport": "Fahud Airport",
+      "latitude": 22.3548,
+      "longitude": 56.4841
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Az Zahirah",
+      "iata": "LKW",
+      "icao": "OOLK",
+      "airport": "Lekhwair Airport",
+      "latitude": 22.805,
+      "longitude": 55.3734
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Janub al Batinah",
+      "iata": "OHS",
+      "icao": "OOSH",
+      "airport": "Sohar Airport",
+      "latitude": 24.386,
+      "longitude": 56.6254
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Janub ash Sharqiyah",
+      "iata": "NMN",
+      "icao": "AYNO",
+      "airport": "Nomane Airport",
+      "latitude": -6.32183,
+      "longitude": 145.071
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Musandam",
+      "iata": "BYB",
+      "icao": "",
+      "airport": "Dibba Airport",
+      "latitude": 25.6142,
+      "longitude": 56.2444
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Musandam",
+      "iata": "KHS",
+      "icao": "OOKB",
+      "airport": "Khasab Airport",
+      "latitude": 26.171,
+      "longitude": 56.2406
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Shamal al Batinah",
+      "iata": "MNH",
+      "icao": "OORQ",
+      "airport": "Al-Musannah Airport",
+      "latitude": 23.6406,
+      "longitude": 57.4875
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Shamal ash Sharqiyah",
+      "iata": "MSH",
+      "icao": "OOMA",
+      "airport": "Masirah Air Base",
+      "latitude": 20.6754,
+      "longitude": 58.8905
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Shamal ash Sharqiyah",
+      "iata": "SUH",
+      "icao": "OOSR",
+      "airport": "Sur Airport",
+      "latitude": 22.533,
+      "longitude": 59.483
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Zufar",
+      "iata": "KMN",
+      "icao": "FZSB",
+      "airport": "Kamina Airport (Kamina Ville Airport)",
+      "latitude": -8.64202,
+      "longitude": 25.2529
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Zufar",
+      "iata": "LRM",
+      "icao": "MDLR",
+      "airport": "La Romana International Airport (Casa de Campo International Airport)",
+      "latitude": 18.4507,
+      "longitude": -68.9118
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Zufar",
+      "iata": "OMM",
+      "icao": "OOMX",
+      "airport": "Marmul Airport",
+      "latitude": 18.136,
+      "longitude": 55.1821
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Zufar",
+      "iata": "SLL",
+      "icao": "OOSA",
+      "airport": "Salalah International Airport",
+      "latitude": 17.0387,
+      "longitude": 54.0913
+    },
+    {
+      "country_code": "OM",
+      "region_name": "Zufar",
+      "iata": "TTH",
+      "icao": "OOTH",
+      "airport": "RAFO Thumrait",
+      "latitude": 17.666,
+      "longitude": 54.0246
+    },
+    {
+      "country_code": "QA",
+      "region_name": "Ad Dawhah",
+      "iata": "DIA",
+      "icao": "OTBD",
+      "airport": "Doha International Airport",
+      "latitude": 25.2611,
+      "longitude": 51.5651
+    },
+    {
+      "country_code": "QA",
+      "region_name": "Ad Dawhah",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "airport": "Hamad International Airport",
+      "latitude": 25.2731,
+      "longitude": 51.6081
+    },
+    {
+      "country_code": "QA",
+      "region_name": "Ar Rayyan",
+      "iata": "XJD",
+      "icao": "OTBH",
+      "airport": "Al Udeid Air Base",
+      "latitude": 25.1173,
+      "longitude": 51.315
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Bahah",
+      "iata": "ABT",
+      "icao": "OEBA",
+      "airport": "Al-Baha Domestic Airport",
+      "latitude": 20.2961,
+      "longitude": 41.6343
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Hudud ash Shamaliyah",
+      "iata": "RAE",
+      "icao": "OERR",
+      "airport": "Arar Domestic Airport",
+      "latitude": 30.9066,
+      "longitude": 41.1382
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Hudud ash Shamaliyah",
+      "iata": "RAH",
+      "icao": "OERF",
+      "airport": "Rafha Domestic Airport",
+      "latitude": 29.6264,
+      "longitude": 43.4906
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Hudud ash Shamaliyah",
+      "iata": "TUI",
+      "icao": "OETR",
+      "airport": "Turaif Domestic Airport",
+      "latitude": 31.6922,
+      "longitude": 38.7315
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Jawf",
+      "iata": "AJF",
+      "icao": "OESK",
+      "airport": "Al-Jawf Domestic Airport",
+      "latitude": 29.7851,
+      "longitude": 40.1
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Jawf",
+      "iata": "URY",
+      "icao": "OEGT",
+      "airport": "Gurayat Domestic Airport",
+      "latitude": 31.4124,
+      "longitude": 37.2789
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Madinah al Munawwarah",
+      "iata": "MED",
+      "icao": "OEMA",
+      "airport": "Prince Mohammad bin Abdulaziz Airport",
+      "latitude": 24.5534,
+      "longitude": 39.7051
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Madinah al Munawwarah",
+      "iata": "ULH",
+      "icao": "OEAO",
+      "airport": "Prince Abdul Majeed bin Abdulaziz Domestic Airport",
+      "latitude": 26.48,
+      "longitude": 38.1289
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Madinah al Munawwarah",
+      "iata": "YNB",
+      "icao": "OEYN",
+      "airport": "Yanbu Airport (Yenbo Airport)",
+      "latitude": 24.1442,
+      "longitude": 38.0634
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Qasim",
+      "iata": "ELQ",
+      "icao": "OEGS",
+      "airport": "Prince Nayef bin Abdulaziz Regional Airport",
+      "latitude": 26.3028,
+      "longitude": 43.7744
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Al Qasim",
+      "iata": "ZUL",
+      "icao": "OEZL",
+      "airport": "Zilfi Airport",
+      "latitude": 26.35,
+      "longitude": 44.833
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ar Riyad",
+      "iata": "AKH",
+      "icao": "OEPS",
+      "airport": "Prince Sultan Air Base",
+      "latitude": 24.0627,
+      "longitude": 47.5805
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ar Riyad",
+      "iata": "DWD",
+      "icao": "OEDW",
+      "airport": "Dawadmi Domestic Airport (King Salman bin Abdul Aziz Domestic Airport)",
+      "latitude": 24.4499,
+      "longitude": 44.1212
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ar Riyad",
+      "iata": "RUH",
+      "icao": "OERK",
+      "airport": "King Khalid International Airport",
+      "latitude": 24.9576,
+      "longitude": 46.6988
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ar Riyad",
+      "iata": "SLF",
+      "icao": "OESL",
+      "airport": "Sulayel Airport",
+      "latitude": 20.4647,
+      "longitude": 45.6196
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ar Riyad",
+      "iata": "WAE",
+      "icao": "OEWD",
+      "airport": "Wadi al-Dawasir Domestic Airport",
+      "latitude": 20.5043,
+      "longitude": 45.1996
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ash Sharqiyah",
+      "iata": "AQI",
+      "icao": "OEPA",
+      "airport": "Al Qaisumah/Hafr Al Batin Airport",
+      "latitude": 28.3352,
+      "longitude": 46.1251
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ash Sharqiyah",
+      "iata": "DHA",
+      "icao": "OEDR",
+      "airport": "King Abdulaziz Air Base",
+      "latitude": 26.2654,
+      "longitude": 50.152
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ash Sharqiyah",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "airport": "King Fahd International Airport",
+      "latitude": 26.4712,
+      "longitude": 49.7979
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ash Sharqiyah",
+      "iata": "HOF",
+      "icao": "OEAH",
+      "airport": "Al-Ahsa International Airport",
+      "latitude": 25.2853,
+      "longitude": 49.4852
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ash Sharqiyah",
+      "iata": "KMC",
+      "icao": "OEKK",
+      "airport": "King Khaled Military City Airport",
+      "latitude": 27.9009,
+      "longitude": 45.5282
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Asir",
+      "iata": "AHB",
+      "icao": "OEAB",
+      "airport": "Abha Regional Airport",
+      "latitude": 18.2404,
+      "longitude": 42.6566
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Asir",
+      "iata": "BHH",
+      "icao": "OEBH",
+      "airport": "Bisha Domestic Airport",
+      "latitude": 19.9844,
+      "longitude": 42.6209
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Asir",
+      "iata": "KMX",
+      "icao": "OEKM",
+      "airport": "King Khalid Air Base",
+      "latitude": 18.2973,
+      "longitude": 42.8035
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Ha'il",
+      "iata": "HAS",
+      "icao": "OEHL",
+      "airport": "Ha'il Regional Airport",
+      "latitude": 27.4379,
+      "longitude": 41.6863
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Jazan",
+      "iata": "GIZ",
+      "icao": "OEGN",
+      "airport": "Jizan Regional Airport (King Abdullah bin Abdulaziz Airport)",
+      "latitude": 16.9011,
+      "longitude": 42.5858
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Makkah al Mukarramah",
+      "iata": "JED",
+      "icao": "OEJN",
+      "airport": "King Abdulaziz International Airport",
+      "latitude": 21.6796,
+      "longitude": 39.1565
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Makkah al Mukarramah",
+      "iata": "TIF",
+      "icao": "OETF",
+      "airport": "Ta'if Regional Airport",
+      "latitude": 21.483,
+      "longitude": 40.5434
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Najran",
+      "iata": "EAM",
+      "icao": "OENG",
+      "airport": "Najran Domestic Airport",
+      "latitude": 17.6114,
+      "longitude": 44.4192
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Najran",
+      "iata": "SHW",
+      "icao": "OESH",
+      "airport": "Sharurah Domestic Airport",
+      "latitude": 17.4669,
+      "longitude": 47.1214
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Tabuk",
+      "iata": "EJH",
+      "icao": "OEWJ",
+      "airport": "Al Wajh Domestic Airport",
+      "latitude": 26.1986,
+      "longitude": 36.4764
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Tabuk",
+      "iata": "NUM",
+      "icao": "OENN",
+      "airport": "Neom Bay Airport",
+      "latitude": 27.9276,
+      "longitude": 35.2887
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Tabuk",
+      "iata": "RSI",
+      "icao": "",
+      "airport": "Red Sea International Airport",
+      "latitude": 25.6253,
+      "longitude": 37.0836
+    },
+    {
+      "country_code": "SA",
+      "region_name": "Tabuk",
+      "iata": "TUU",
+      "icao": "OETB",
+      "airport": "Tabuk Regional Airport",
+      "latitude": 28.3654,
+      "longitude": 36.6189
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Blue Nile",
+      "iata": "HGI",
+      "icao": "HSFA",
+      "airport": "Paloich Airport",
+      "latitude": 10.5292,
+      "longitude": 32.5006
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Blue Nile",
+      "iata": "RSS",
+      "icao": "HSDZ",
+      "airport": "Damazin Airport",
+      "latitude": 11.7859,
+      "longitude": 34.3367
+    },
+    {
+      "country_code": "SD",
+      "region_name": "East Darfur",
+      "iata": "ADV",
+      "icao": "",
+      "airport": "Ed Daein Airport",
+      "latitude": 11.4023,
+      "longitude": 26.1186
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Gezira",
+      "iata": "DNI",
+      "icao": "HSWD",
+      "airport": "Wad Medani Airport",
+      "latitude": 14.3836,
+      "longitude": 33.5264
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Kassala",
+      "iata": "GBU",
+      "icao": "HSKG",
+      "airport": "Khashm el Girba Airport",
+      "latitude": 14.925,
+      "longitude": 35.878
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Kassala",
+      "iata": "GSU",
+      "icao": "HSGF",
+      "airport": "Azaza Airport",
+      "latitude": 14.133,
+      "longitude": 35.317
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Kassala",
+      "iata": "KSL",
+      "icao": "HSKA",
+      "airport": "Kassala Airport",
+      "latitude": 15.3875,
+      "longitude": 36.3288
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Kassala",
+      "iata": "NHF",
+      "icao": "HSNW",
+      "airport": "New Halfa Airport",
+      "latitude": 15.3556,
+      "longitude": 35.7278
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Khartoum",
+      "iata": "KRT",
+      "icao": "HSSK",
+      "airport": "Khartoum International Airport",
+      "latitude": 15.5895,
+      "longitude": 32.5532
+    },
+    {
+      "country_code": "SD",
+      "region_name": "North Darfur",
+      "iata": "ELF",
+      "icao": "HSFS",
+      "airport": "El Fasher Airport",
+      "latitude": 13.6149,
+      "longitude": 25.3246
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Northern",
+      "iata": "DOG",
+      "icao": "HSDN",
+      "airport": "Dongola Airport",
+      "latitude": 19.1539,
+      "longitude": 30.4301
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Northern",
+      "iata": "EDB",
+      "icao": "HSDB",
+      "airport": "El Debba Airport",
+      "latitude": 18.0146,
+      "longitude": 30.9595
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Northern",
+      "iata": "MWE",
+      "icao": "HSMN",
+      "airport": "Merowe Airport",
+      "latitude": 18.4433,
+      "longitude": 31.8433
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Northern",
+      "iata": "WHF",
+      "icao": "HSSW",
+      "airport": "Wadi Halfa Airport",
+      "latitude": 21.8027,
+      "longitude": 31.5216
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Red Sea",
+      "iata": "PZU",
+      "icao": "HSPN",
+      "airport": "Port Sudan New International Airport",
+      "latitude": 19.4336,
+      "longitude": 37.2341
+    },
+    {
+      "country_code": "SD",
+      "region_name": "River Nile",
+      "iata": "ATB",
+      "icao": "HSAT",
+      "airport": "Atbara Airport",
+      "latitude": 17.7103,
+      "longitude": 34.057
+    },
+    {
+      "country_code": "SD",
+      "region_name": "Sennar",
+      "iata": "DNX",
+      "icao": "HSGG",
+      "airport": "Galegu Airport",
+      "latitude": 12.533,
+      "longitude": 35.067
+    },
+    {
+      "country_code": "SD",
+      "region_name": "South Darfur",
+      "iata": "UYL",
+      "icao": "HSNN",
+      "airport": "Nyala Airport",
+      "latitude": 12.0535,
+      "longitude": 24.9562
+    },
+    {
+      "country_code": "SD",
+      "region_name": "South Kordofan",
+      "iata": "BJE",
+      "icao": "",
+      "airport": "Baleela Airport",
+      "latitude": 11.1994,
+      "longitude": 28.5231
+    },
+    {
+      "country_code": "SD",
+      "region_name": "South Kordofan",
+      "iata": "EBD",
+      "icao": "HSOB",
+      "airport": "El Obeid Airport",
+      "latitude": 13.1532,
+      "longitude": 30.2327
+    },
+    {
+      "country_code": "SD",
+      "region_name": "South Kordofan",
+      "iata": "KDX",
+      "icao": "HSLI",
+      "airport": "Kadugli Airport",
+      "latitude": 11.138,
+      "longitude": 29.7011
+    },
+    {
+      "country_code": "SD",
+      "region_name": "South Kordofan",
+      "iata": "NUD",
+      "icao": "HSNH",
+      "airport": "En Nahud Airport",
+      "latitude": 12.667,
+      "longitude": 28.333
+    },
+    {
+      "country_code": "SD",
+      "region_name": "West Darfur",
+      "iata": "EGN",
+      "icao": "HSGN",
+      "airport": "Geneina Airport",
+      "latitude": 13.4817,
+      "longitude": 22.4672
+    },
+    {
+      "country_code": "SD",
+      "region_name": "West Darfur",
+      "iata": "ZLX",
+      "icao": "HSZA",
+      "airport": "Zalingei Airport",
+      "latitude": 12.9437,
+      "longitude": 23.5631
+    },
+    {
+      "country_code": "SD",
+      "region_name": "White Nile",
+      "iata": "KST",
+      "icao": "HSKI",
+      "airport": "Rabak Airport",
+      "latitude": 13.183,
+      "longitude": 32.733
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Al Hasakah",
+      "iata": "KAC",
+      "icao": "OSKL",
+      "airport": "Kamishly Airport",
+      "latitude": 37.0206,
+      "longitude": 41.1914
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Al Ladhiqiyah",
+      "iata": "LTK",
+      "icao": "OSLK",
+      "airport": "Bassel Al-Assad International Airport",
+      "latitude": 35.4011,
+      "longitude": 35.9487
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Dayr az Zawr",
+      "iata": "DEZ",
+      "icao": "OSDZ",
+      "airport": "Deir ez-Zor Airport",
+      "latitude": 35.2854,
+      "longitude": 40.176
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Dimashq",
+      "iata": "DAM",
+      "icao": "OSDI",
+      "airport": "Damascus International Airport",
+      "latitude": 33.4115,
+      "longitude": 36.5156
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Halab",
+      "iata": "ALP",
+      "icao": "OSAP",
+      "airport": "Aleppo International Airport",
+      "latitude": 36.1807,
+      "longitude": 37.2244
+    },
+    {
+      "country_code": "SY",
+      "region_name": "Hims",
+      "iata": "PMS",
+      "icao": "OSPR",
+      "airport": "Palmyra Airport",
+      "latitude": 34.5574,
+      "longitude": 38.3169
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Gabes",
+      "iata": "GAE",
+      "icao": "DTTG",
+      "airport": "Gabes - Matmata International Airport",
+      "latitude": 33.8769,
+      "longitude": 10.1033
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Gafsa",
+      "iata": "GAF",
+      "icao": "DTTF",
+      "airport": "Gafsa - Ksar International Airport",
+      "latitude": 34.422,
+      "longitude": 8.8225
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Jendouba",
+      "iata": "TBJ",
+      "icao": "DTKA",
+      "airport": "Tabarka-Ain Draham Internation",
+      "latitude": 36.98,
+      "longitude": 8.87694
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Medenine",
+      "iata": "DJE",
+      "icao": "DTTJ",
+      "airport": "Djerba-Zarzis International Airport",
+      "latitude": 33.875,
+      "longitude": 10.7755
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Monastir",
+      "iata": "MIR",
+      "icao": "DTMB",
+      "airport": "Monastir Habib Bourguiba International Airport",
+      "latitude": 35.7581,
+      "longitude": 10.7547
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Sfax",
+      "iata": "SFA",
+      "icao": "DTTX",
+      "airport": "Sfax-Thyna International Airport",
+      "latitude": 34.718,
+      "longitude": 10.691
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Sousse",
+      "iata": "NBE",
+      "icao": "DTNH",
+      "airport": "Enfidha-Hammamet International Airport",
+      "latitude": 36.0758,
+      "longitude": 10.4386
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Tataouine",
+      "iata": "EBM",
+      "icao": "DTTR",
+      "airport": "El Borma Airport",
+      "latitude": 31.7043,
+      "longitude": 9.25462
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Tozeur",
+      "iata": "TOE",
+      "icao": "DTTZ",
+      "airport": "Tozeur-Nefta International Airport",
+      "latitude": 33.9397,
+      "longitude": 8.11056
+    },
+    {
+      "country_code": "TN",
+      "region_name": "Tunis",
+      "iata": "TUN",
+      "icao": "DTTA",
+      "airport": "Tunis–Carthage International Airport",
+      "latitude": 36.8511,
+      "longitude": 10.2272
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Abyan",
+      "iata": "DAH",
+      "icao": "",
+      "airport": "Dathina Airport",
+      "latitude": 13.9376,
+      "longitude": 45.6592
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Abyan",
+      "iata": "LDR",
+      "icao": "",
+      "airport": "Lawdar Airport",
+      "latitude": 13.9376,
+      "longitude": 45.6592
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Abyan",
+      "iata": "UKR",
+      "icao": "OYMS",
+      "airport": "Mukeiras Airport",
+      "latitude": 13.9368,
+      "longitude": 45.657
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Ad Dali'",
+      "iata": "DHL",
+      "icao": "ODAL",
+      "airport": "Dhala Airport",
+      "latitude": 13.6858,
+      "longitude": 44.1389
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Adan",
+      "iata": "ADE",
+      "icao": "OYAA",
+      "airport": "Aden International Airport",
+      "latitude": 12.8295,
+      "longitude": 45.0288
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Al Bayda'",
+      "iata": "BYD",
+      "icao": "OYBI",
+      "airport": "Al Bayda Airport",
+      "latitude": 14.106,
+      "longitude": 45.4411
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Al Hudaydah",
+      "iata": "HOD",
+      "icao": "OYHD",
+      "airport": "Hodeida International Airport",
+      "latitude": 14.753,
+      "longitude": 42.9763
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Al Hudaydah",
+      "iata": "KAM",
+      "icao": "OYKM",
+      "airport": "Kamaran Airport",
+      "latitude": 15.3633,
+      "longitude": 42.605
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Al Mahrah",
+      "iata": "AAY",
+      "icao": "OYGD",
+      "airport": "Al Ghaydah Airport",
+      "latitude": 16.1917,
+      "longitude": 52.175
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Al Mahrah",
+      "iata": "IHN",
+      "icao": "OYQN",
+      "airport": "Qishn Airport",
+      "latitude": 15.417,
+      "longitude": 51.683
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Dhamar",
+      "iata": "DMR",
+      "icao": "",
+      "airport": "Dhamar Airport",
+      "latitude": 15.4792,
+      "longitude": 44.2197
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Hadramawt",
+      "iata": "GXF",
+      "icao": "OYSY",
+      "airport": "Sayun Airport",
+      "latitude": 15.9661,
+      "longitude": 48.7883
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Hadramawt",
+      "iata": "RIY",
+      "icao": "OYRN",
+      "airport": "Riyan International Airport",
+      "latitude": 14.6626,
+      "longitude": 49.375
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Hadramawt",
+      "iata": "SCT",
+      "icao": "OYSQ",
+      "airport": "Socotra Airport",
+      "latitude": 12.6307,
+      "longitude": 53.9058
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Hajjah",
+      "iata": "EAB",
+      "icao": "ODAS",
+      "airport": "Abbs Airport",
+      "latitude": 16.0108,
+      "longitude": 43.1767
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Ma'rib",
+      "iata": "MYN",
+      "icao": "OYMB",
+      "airport": "Marib Airport",
+      "latitude": 15.4692,
+      "longitude": 45.3269
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Ma'rib",
+      "iata": "WDA",
+      "icao": "",
+      "airport": "Wadi Ain Airport",
+      "latitude": 14.867,
+      "longitude": 45.55
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Sa'dah",
+      "iata": "BUK",
+      "icao": "",
+      "airport": "Albuq Airport",
+      "latitude": 17.3467,
+      "longitude": 44.6217
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Sa'dah",
+      "iata": "SYE",
+      "icao": "OYSH",
+      "airport": "Saadah Airport",
+      "latitude": 16.967,
+      "longitude": 43.733
+    },
+    {
+      "country_code": "YE",
+      "region_name": "San'a",
+      "iata": "SAH",
+      "icao": "OYSN",
+      "airport": "Sana'a International Airport",
+      "latitude": 15.4764,
+      "longitude": 44.2197
+    },
+    {
+      "country_code": "YE",
+      "region_name": "San'a'",
+      "iata": "RXA",
+      "icao": "",
+      "airport": "Ar Rawdah Airport",
+      "latitude": 14.45,
+      "longitude": 47.283
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Shabwah",
+      "iata": "AXK",
+      "icao": "OYAT",
+      "airport": "Ataq Airport",
+      "latitude": 14.5513,
+      "longitude": 46.8262
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Shabwah",
+      "iata": "BHN",
+      "icao": "OYBN",
+      "airport": "Beihan Airport",
+      "latitude": 14.782,
+      "longitude": 45.7201
+    },
+    {
+      "country_code": "YE",
+      "region_name": "Ta'izz",
+      "iata": "TAI",
+      "icao": "OYTZ",
+      "airport": "Taiz International Airport",
+      "latitude": 13.686,
+      "longitude": 44.1391
+    }
+  ],
+  "meta": {
+    "title": "رموز IATA/ICAO للمطارات في الدول العربية - تحميل مجاني",
+    "description": "قائمة المطارات في الدول العربية مع رموز IATA المكونة من 3 أحرف ورموز ICAO المكونة من 4 أحرف وفقًا لقاعدة بيانات IP2Location. يحتوي على 274 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "رموز IATA/ICAO للمطارات في الدول العربية | ListBase",
+    "seo_description": "تحميل رموز IATA/ICAO للمطارات في الدول العربية — 274 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 274 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

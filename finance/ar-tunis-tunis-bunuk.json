@@ -1,0 +1,478 @@
+{
+  "id": "ar-tunis-tunis-bunuk",
+  "name": "بنوك Tunis — تونس — رموز سويفت (Banks of Tunis, Tunisia — SWIFT/BIC codes)",
+  "title": "بنوك Tunis — تونس — رموز سويفت (Banks of Tunis, Tunisia — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tunis (تونس) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 61 سجلًا. List of banks, financial institutions and their branches in Tunis, Tunisia with the SWIFT/BIC code, bank name and branch name for each. 61 records. Source: PeterNotenboom/SwiftCodes AllCountries/TN.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL BARAKA BANK TUNISIA",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BEITTNTT"
+    },
+    {
+      "id": 2,
+      "bank": "ALUBAF INTERNATIONAL BANK TUNIS",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "ALUBTNTT"
+    },
+    {
+      "id": 3,
+      "bank": "AMEN BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "CFCTTNTT"
+    },
+    {
+      "id": 4,
+      "bank": "ARAB BANKING CORPORATION",
+      "city": "TUNIS",
+      "branch": "(ONSHORE BRANCH TUNISIE)",
+      "swift_code": "ABCOTNTT001"
+    },
+    {
+      "id": 5,
+      "bank": "ARAB BANKING CORPORATION",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "ABCOTNTT"
+    },
+    {
+      "id": 6,
+      "bank": "ARAB TUNISIAN BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "ATBKTNTT"
+    },
+    {
+      "id": 7,
+      "bank": "ATTIJARI BANK",
+      "city": "TUNIS",
+      "branch": "(ATTIJARI INTERMEDIATION)",
+      "swift_code": "BSTUTNTTAIN"
+    },
+    {
+      "id": 8,
+      "bank": "ATTIJARI BANK",
+      "city": "TUNIS",
+      "branch": "(ATTIJARI TITRE)",
+      "swift_code": "BSTUTNTTTIT"
+    },
+    {
+      "id": 9,
+      "bank": "ATTIJARI BANK",
+      "city": "TUNIS",
+      "branch": "(INTERNATIONAL DEPARTMENT)",
+      "swift_code": "BSTUTNTTINT"
+    },
+    {
+      "id": 10,
+      "bank": "ATTIJARI BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BSTUTNTT"
+    },
+    {
+      "id": 11,
+      "bank": "BANKERS TRUST COMPANY",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BKTRTNT1"
+    },
+    {
+      "id": 12,
+      "bank": "BANQUE CENTRALE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BCTNTNTT"
+    },
+    {
+      "id": 13,
+      "bank": "BANQUE CENTRALE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BCTNTNTTVGM"
+    },
+    {
+      "id": 14,
+      "bank": "BANQUE DE FINANCEMENT DES PME",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BFPMTNTT"
+    },
+    {
+      "id": 15,
+      "bank": "BANQUE DE L'HABITAT",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BHBKTNTT"
+    },
+    {
+      "id": 16,
+      "bank": "BANQUE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BTBKTNTT"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BTBKTNTTVGM"
+    },
+    {
+      "id": 18,
+      "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BTEXTNTT"
+    },
+    {
+      "id": 19,
+      "bank": "BANQUE FRANCO TUNISIENNE",
+      "city": "TUNIS",
+      "branch": "(TRESORERIE)",
+      "swift_code": "BFTNTNTTTRS"
+    },
+    {
+      "id": 20,
+      "bank": "BANQUE FRANCO TUNISIENNE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BFTNTNTT"
+    },
+    {
+      "id": 21,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(CREDIT DOCUMENTAIRE EXPORT TUNIS)",
+      "swift_code": "BIATTNTTDXT"
+    },
+    {
+      "id": 22,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(CREDIT DOCUMENTAIRE IMPORT TUNIS)",
+      "swift_code": "BIATTNTTDMT"
+    },
+    {
+      "id": 23,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(ENCAISSEMENT CHEQUE INTERNATIONALE)",
+      "swift_code": "BIATTNTTECI"
+    },
+    {
+      "id": 24,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(FINANCEMENT EN DEVISE EXPORT)",
+      "swift_code": "BIATTNTTFDE"
+    },
+    {
+      "id": 25,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(FINANCEMENT EN DEVISE IMPORT)",
+      "swift_code": "BIATTNTTFDI"
+    },
+    {
+      "id": 26,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(GARANTIE INTERNATIONALE EMISE)",
+      "swift_code": "BIATTNTTGIE"
+    },
+    {
+      "id": 27,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(GARANTIE INTERNATIONALE RECUE)",
+      "swift_code": "BIATTNTTGIR"
+    },
+    {
+      "id": 28,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(PAIEMENT CHEQUE INTERNATIONALE)",
+      "swift_code": "BIATTNTTPCI"
+    },
+    {
+      "id": 29,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(REMISE EXPORT TUNIS)",
+      "swift_code": "BIATTNTTRXT"
+    },
+    {
+      "id": 30,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(REMISE IMPORT TUNIS)",
+      "swift_code": "BIATTNTTRMT"
+    },
+    {
+      "id": 31,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(TRANSFERT EMIS TUNIS)",
+      "swift_code": "BIATTNTTTET"
+    },
+    {
+      "id": 32,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "(TRANSFERT RECU TUNIS)",
+      "swift_code": "BIATTNTTTRT"
+    },
+    {
+      "id": 33,
+      "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BIATTNTT"
+    },
+    {
+      "id": 34,
+      "bank": "BANQUE NATIONALE AGRICOLE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BNTETNTT"
+    },
+    {
+      "id": 35,
+      "bank": "BANQUE TUNISIENNE DE SOLIDARITE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "TUSOTNT1"
+    },
+    {
+      "id": 36,
+      "bank": "BANQUE TUNISO-KOWEITIENNE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BTKOTNTT"
+    },
+    {
+      "id": 37,
+      "bank": "BANQUE TUNISO-LIBYENNE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "ATLDTNTT"
+    },
+    {
+      "id": 38,
+      "bank": "BANQUE ZITOUNA",
+      "city": "TUNIS",
+      "branch": "(SALLE DES MARCHES)",
+      "swift_code": "BZITTNTTSDM"
+    },
+    {
+      "id": 39,
+      "bank": "BANQUE ZITOUNA",
+      "city": "TUNIS",
+      "branch": "(VIREMENTS GROS MONTANTS)",
+      "swift_code": "BZITTNTTVGM"
+    },
+    {
+      "id": 40,
+      "bank": "BANQUE ZITOUNA",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "BZITTNTT"
+    },
+    {
+      "id": 41,
+      "bank": "BOURSE DES VALEURS MOBILIERES DE TUNIS",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "XTUNTNT1"
+    },
+    {
+      "id": 42,
+      "bank": "CITIBANK N.A.",
+      "city": "TUNIS",
+      "branch": "(ON SHORE BRANCH)",
+      "swift_code": "CITITNTXONS"
+    },
+    {
+      "id": 43,
+      "bank": "CITIBANK N.A.",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "CITITNTX"
+    },
+    {
+      "id": 44,
+      "bank": "FITCH NORTH AFRICA SA",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "FRIPTNT1"
+    },
+    {
+      "id": 45,
+      "bank": "LA POSTE TUNISIENNE",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "LPTNTNTT"
+    },
+    {
+      "id": 46,
+      "bank": "NORTH AFRICA INTERNATIONAL BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "NOAFTNTT"
+    },
+    {
+      "id": 47,
+      "bank": "SOCIETE TUNISIENNE DE BANQUE",
+      "city": "TUNIS",
+      "branch": "(DIRECTION DE LA SUCCURSALE THAMEUR)",
+      "swift_code": "STBKTNTT000"
+    },
+    {
+      "id": 48,
+      "bank": "SOCIETE TUNISIENNE DE BANQUE",
+      "city": "TUNIS",
+      "branch": "(HEAD OFFICE AND ALL OTHER DEPARTMENTS)",
+      "swift_code": "STBKTNTT"
+    },
+    {
+      "id": 49,
+      "bank": "SOCIETE TUNISIENNE INTERPROFESSIONNELLE POUR LA COMPENSATION ET LE DEPOT DES VALEURS MOBILIERES",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "STICTNT1"
+    },
+    {
+      "id": 50,
+      "bank": "TUNIS INTERNATIONAL BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "TUIBTNTT"
+    },
+    {
+      "id": 51,
+      "bank": "TUNISIAN FOREIGN BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UTUBTNTT"
+    },
+    {
+      "id": 52,
+      "bank": "TUNISIAN SAUDI BANK",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "TSIDTNTT"
+    },
+    {
+      "id": 53,
+      "bank": "TUNISIE VALEURS",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "TUNVTNT1"
+    },
+    {
+      "id": 54,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "(ENGAGEMENT)",
+      "swift_code": "UBCITNTTENG"
+    },
+    {
+      "id": 55,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "(SALLE DES MARCHES)",
+      "swift_code": "UBCITNTTSDM"
+    },
+    {
+      "id": 56,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "(VIREMENTS GROS MONTANTS)",
+      "swift_code": "UBCITNTTVGM"
+    },
+    {
+      "id": 57,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UBCITNTT"
+    },
+    {
+      "id": 58,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UBCITNTTCHG"
+    },
+    {
+      "id": 59,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UBCITNTTPST"
+    },
+    {
+      "id": 60,
+      "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UBCITNTTTCE"
+    },
+    {
+      "id": 61,
+      "bank": "UNION INTERNATIONALE DE BANQUES",
+      "city": "TUNIS",
+      "branch": "",
+      "swift_code": "UIBKTNTT"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Tunis — تونس — رموز سويفت (Banks of Tunis, Tunisia — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tunis (تونس) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 61 سجلًا. List of banks, financial institutions and their branches in Tunis, Tunisia with the SWIFT/BIC code, bank name and branch name for each. 61 records. Source: PeterNotenboom/SwiftCodes AllCountries/TN.json (MIT). يحتوي على 61 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Tunis — تونس — رموز سويفت (Banks of Tunis, Tunisia — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Tunis — تونس — رموز سويفت (Banks of Tunis, Tunisia — SWIFT/BIC codes) — 61 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 61 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

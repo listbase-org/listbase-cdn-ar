@@ -1,0 +1,328 @@
+{
+  "id": "ar-mudun-cuba",
+  "name": "مدن كوبا — Cities of Cuba (Arabic names)",
+  "title": "مدن كوبا — Cities of Cuba (Arabic names)",
+  "description": "قائمة بأسماء مدن كوبا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 34 cities in Cuba with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "هافانا",
+      "name_en": "Havana",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 2089532
+    },
+    {
+      "id": 2,
+      "name_ar": "سانتياغو دي كوبا",
+      "name_en": "Santiago de Cuba",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 444851
+    },
+    {
+      "id": 3,
+      "name_ar": "هولغوين",
+      "name_en": "Holguin",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 350191
+    },
+    {
+      "id": 4,
+      "name_ar": "كاماغوي",
+      "name_en": "Camaguey",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 321992
+    },
+    {
+      "id": 5,
+      "name_ar": "سانتا كلارا",
+      "name_en": "Santa Clara",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 247436
+    },
+    {
+      "id": 6,
+      "name_ar": "بايامو",
+      "name_en": "Bayamo",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 235107
+    },
+    {
+      "id": 7,
+      "name_ar": "معتقل غوانتانامو",
+      "name_en": "Guantanamo",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 228436
+    },
+    {
+      "id": 8,
+      "name_ar": "كارلوس مانويل دي سيسبيدس",
+      "name_en": "Carlos Manuel de Cespedes",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 224488
+    },
+    {
+      "id": 9,
+      "name_ar": "مقاطعة لاس توناس",
+      "name_en": "Las Tunas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 202105
+    },
+    {
+      "id": 10,
+      "name_ar": "محافظة بينار ديل ريو",
+      "name_en": "Pinar del Rio",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 188614
+    },
+    {
+      "id": 11,
+      "name_ar": "ماتنزاس",
+      "name_en": "Matanzas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 151624
+    },
+    {
+      "id": 12,
+      "name_ar": "محافظة سيغو دي أفيلا",
+      "name_en": "Ciego de Avila",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 143449
+    },
+    {
+      "id": 13,
+      "name_ar": "سانكتي سبيريتوس",
+      "name_en": "Sancti Spiritus",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 138504
+    },
+    {
+      "id": 14,
+      "name_ar": "بالما سوريانو",
+      "name_en": "Palma Soriano",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 119740
+    },
+    {
+      "id": 15,
+      "name_ar": "بورتو بادريه",
+      "name_en": "Puerto Padre",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 90218
+    },
+    {
+      "id": 16,
+      "name_ar": "كارديناس",
+      "name_en": "Cardenas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 86700
+    },
+    {
+      "id": 17,
+      "name_ar": "سان خوسيه دي لاس لاخاس",
+      "name_en": "San Jose de las Lajas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 81261
+    },
+    {
+      "id": 18,
+      "name_ar": "ترينيداد",
+      "name_en": "Trinidad",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 76500
+    },
+    {
+      "id": 19,
+      "name_ar": "قولون",
+      "name_en": "Colon",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 72000
+    },
+    {
+      "id": 20,
+      "name_ar": "فلوريدا",
+      "name_en": "Florida",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 71676
+    },
+    {
+      "id": 21,
+      "name_ar": "بلاسيتاس",
+      "name_en": "Placetas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 71208
+    },
+    {
+      "id": 22,
+      "name_ar": "جوينيس",
+      "name_en": "Guines",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 66892
+    },
+    {
+      "id": 23,
+      "name_ar": "يارا",
+      "name_en": "Yara",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 59415
+    },
+    {
+      "id": 24,
+      "name_ar": "أرتيميسا جنتلسكي",
+      "name_en": "Artemisa",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 59130
+    },
+    {
+      "id": 25,
+      "name_ar": "كاماخوانيه",
+      "name_en": "Camajuani",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 57600
+    },
+    {
+      "id": 26,
+      "name_ar": "سانتو دومينغو",
+      "name_en": "Santo Domingo",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 46984
+    },
+    {
+      "id": 27,
+      "name_ar": "سالبادور",
+      "name_en": "Salvador",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 45773
+    },
+    {
+      "id": 28,
+      "name_ar": "نويفا جيرونا",
+      "name_en": "Nueva Gerona",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 45577
+    },
+    {
+      "id": 29,
+      "name_ar": "باهيا هوندا",
+      "name_en": "Bahia Honda",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 43483
+    },
+    {
+      "id": 30,
+      "name_ar": "بلدية كاباريان",
+      "name_en": "Caibarien",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 38479
+    },
+    {
+      "id": 31,
+      "name_ar": "سان خيرمان",
+      "name_en": "San German",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 38097
+    },
+    {
+      "id": 32,
+      "name_ar": "كاينيتو",
+      "name_en": "Caimito",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 36813
+    },
+    {
+      "id": 33,
+      "name_ar": "أمانسيو",
+      "name_en": "Amancio",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 36132
+    },
+    {
+      "id": 34,
+      "name_ar": "ميناس جرايس",
+      "name_en": "Minas",
+      "country_ar": "كوبا",
+      "country_en": "Cuba",
+      "population": 35966
+    }
+  ],
+  "meta": {
+    "title": "مدن كوبا — Cities of Cuba (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كوبا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 34 cities in Cuba with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 34 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كوبا — Cities of Cuba (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كوبا — Cities of Cuba (Arabic names) — 34 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 34 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

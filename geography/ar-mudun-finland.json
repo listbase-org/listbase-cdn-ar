@@ -1,0 +1,568 @@
+{
+  "id": "ar-mudun-finland",
+  "name": "مدن فنلندا — Cities of Finland (Arabic names)",
+  "title": "مدن فنلندا — Cities of Finland (Arabic names)",
+  "description": "قائمة بأسماء مدن فنلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 64 cities in Finland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "هلسنكي",
+      "name_en": "Helsinki",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 1360075
+    },
+    {
+      "id": 2,
+      "name_ar": "تامبيري",
+      "name_en": "Tampere",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 334112
+    },
+    {
+      "id": 3,
+      "name_ar": "إسبو",
+      "name_en": "Espoo",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 314821
+    },
+    {
+      "id": 4,
+      "name_ar": "فانتا",
+      "name_en": "Vantaa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 248199
+    },
+    {
+      "id": 5,
+      "name_ar": "أولو",
+      "name_en": "Oulu",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 214814
+    },
+    {
+      "id": 6,
+      "name_ar": "توركو",
+      "name_en": "Turku",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 202250
+    },
+    {
+      "id": 7,
+      "name_ar": "يوفاسكولا",
+      "name_en": "Jyvaskyla",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 147856
+    },
+    {
+      "id": 8,
+      "name_ar": "كووبيو",
+      "name_en": "Kuopio",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 124131
+    },
+    {
+      "id": 9,
+      "name_ar": "لاهتي",
+      "name_en": "Lahti",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 120809
+    },
+    {
+      "id": 10,
+      "name_ar": "بوري",
+      "name_en": "Pori",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 84026
+    },
+    {
+      "id": 11,
+      "name_ar": "كوفولا",
+      "name_en": "Kouvola",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 78824
+    },
+    {
+      "id": 12,
+      "name_ar": "يوينسو",
+      "name_en": "Joensuu",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 78175
+    },
+    {
+      "id": 13,
+      "name_ar": "لابينرنتا",
+      "name_en": "Lappeenranta",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 72959
+    },
+    {
+      "id": 14,
+      "name_ar": "فآسا",
+      "name_en": "Vaasa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 69036
+    },
+    {
+      "id": 15,
+      "name_ar": "هامينلينا",
+      "name_en": "Hameenlinna",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 68288
+    },
+    {
+      "id": 16,
+      "name_ar": "سينايوكي",
+      "name_en": "Seinajoki",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 66271
+    },
+    {
+      "id": 17,
+      "name_ar": "روفانييمي",
+      "name_en": "Rovaniemi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 65329
+    },
+    {
+      "id": 18,
+      "name_ar": "ميكيلي",
+      "name_en": "Mikkeli",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 51919
+    },
+    {
+      "id": 19,
+      "name_ar": "بورفو",
+      "name_en": "Porvoo",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 51464
+    },
+    {
+      "id": 20,
+      "name_ar": "سالو",
+      "name_en": "Salo",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 51056
+    },
+    {
+      "id": 21,
+      "name_ar": "كوتكا",
+      "name_en": "Kotka",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 50477
+    },
+    {
+      "id": 22,
+      "name_ar": "كوكولا",
+      "name_en": "Kokkola",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 48299
+    },
+    {
+      "id": 23,
+      "name_ar": "هوفينكا",
+      "name_en": "Hyvinkaa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 46925
+    },
+    {
+      "id": 24,
+      "name_ar": "يارفنبا",
+      "name_en": "Jarvenpaa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 46490
+    },
+    {
+      "id": 25,
+      "name_ar": "لوهيا",
+      "name_en": "Lohja",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 45645
+    },
+    {
+      "id": 26,
+      "name_ar": "نورميارفي",
+      "name_en": "Nurmijarvi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 44833
+    },
+    {
+      "id": 27,
+      "name_ar": "توسولا",
+      "name_en": "Tuusula",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 41475
+    },
+    {
+      "id": 28,
+      "name_ar": "كيركونومي",
+      "name_en": "Kirkkonummi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 41154
+    },
+    {
+      "id": 29,
+      "name_ar": "راوما",
+      "name_en": "Rauma",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 38832
+    },
+    {
+      "id": 30,
+      "name_ar": "كيرافا",
+      "name_en": "Kerava",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 38211
+    },
+    {
+      "id": 31,
+      "name_ar": "كايآني",
+      "name_en": "Kajaani",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 36513
+    },
+    {
+      "id": 32,
+      "name_ar": "كآرينا",
+      "name_en": "Kaarina",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 36389
+    },
+    {
+      "id": 33,
+      "name_ar": "نوكيا",
+      "name_en": "Nokia",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 35730
+    },
+    {
+      "id": 34,
+      "name_ar": "أولويارفي",
+      "name_en": "Ylojarvi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 33653
+    },
+    {
+      "id": 35,
+      "name_ar": "كناسألا",
+      "name_en": "Kangasala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 33601
+    },
+    {
+      "id": 36,
+      "name_ar": "سافونلينا",
+      "name_en": "Savonlinna",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 31842
+    },
+    {
+      "id": 37,
+      "name_ar": "فيهتي",
+      "name_en": "Vihti",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 28811
+    },
+    {
+      "id": 38,
+      "name_ar": "ريهيماكي",
+      "name_en": "Riihimaki",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 28483
+    },
+    {
+      "id": 39,
+      "name_ar": "رآسيبوري",
+      "name_en": "Raseborg",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 27209
+    },
+    {
+      "id": 40,
+      "name_ar": "رايسيو",
+      "name_en": "Raisio",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 25331
+    },
+    {
+      "id": 41,
+      "name_ar": "إيماترا",
+      "name_en": "Imatra",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 24919
+    },
+    {
+      "id": 42,
+      "name_ar": "لمبالا",
+      "name_en": "Lempaala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 24711
+    },
+    {
+      "id": 43,
+      "name_ar": "رآهي",
+      "name_en": "Raahe",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 23797
+    },
+    {
+      "id": 44,
+      "name_ar": "ساستاملا",
+      "name_en": "Sastamala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 23515
+    },
+    {
+      "id": 45,
+      "name_ar": "هولولا",
+      "name_en": "Hollola",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 22885
+    },
+    {
+      "id": 46,
+      "name_ar": "سيلنيارفي",
+      "name_en": "Siilinjarvi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 21290
+    },
+    {
+      "id": 47,
+      "name_ar": "كلوكالا",
+      "name_en": "Klaukkala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 21019
+    },
+    {
+      "id": 48,
+      "name_ar": "تورنيو",
+      "name_en": "Tornio",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 21018
+    },
+    {
+      "id": 49,
+      "name_ar": "مانتسلا",
+      "name_en": "Mantsala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 20957
+    },
+    {
+      "id": 50,
+      "name_ar": "فالكياكوسكي",
+      "name_en": "Valkeakoski",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 20694
+    },
+    {
+      "id": 51,
+      "name_ar": "إيسلمي",
+      "name_en": "Iisalmi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 20618
+    },
+    {
+      "id": 52,
+      "name_ar": "فاركاوس",
+      "name_en": "Varkaus",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 19727
+    },
+    {
+      "id": 53,
+      "name_ar": "هامنة",
+      "name_en": "Hamina",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 19534
+    },
+    {
+      "id": 54,
+      "name_ar": "جاكوبستاد",
+      "name_en": "Jakobstad",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 19475
+    },
+    {
+      "id": 55,
+      "name_ar": "كيمي",
+      "name_en": "Kemi",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 19371
+    },
+    {
+      "id": 56,
+      "name_ar": "يامسا",
+      "name_en": "Jamsa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 19182
+    },
+    {
+      "id": 57,
+      "name_ar": "آنيكوسكي",
+      "name_en": "Aanekoski",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 17971
+    },
+    {
+      "id": 58,
+      "name_ar": "هينولا",
+      "name_en": "Heinola",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 17953
+    },
+    {
+      "id": 59,
+      "name_ar": "فاملا",
+      "name_en": "Vammala",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 16692
+    },
+    {
+      "id": 60,
+      "name_ar": "كوسامو",
+      "name_en": "Kuusamo",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 15019
+    },
+    {
+      "id": 61,
+      "name_ar": "أوسيكاوبونكي",
+      "name_en": "Uusikaupunki",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 14938
+    },
+    {
+      "id": 62,
+      "name_ar": "لوفيسا",
+      "name_en": "Loviisa",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 14557
+    },
+    {
+      "id": 63,
+      "name_ar": "كلاجوكي",
+      "name_en": "Kalajoki",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 12372
+    },
+    {
+      "id": 64,
+      "name_ar": "ماريهامن",
+      "name_en": "Mariehamn",
+      "country_ar": "فنلندا",
+      "country_en": "Finland",
+      "population": 11812
+    }
+  ],
+  "meta": {
+    "title": "مدن فنلندا — Cities of Finland (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن فنلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 64 cities in Finland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 64 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن فنلندا — Cities of Finland (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن فنلندا — Cities of Finland (Arabic names) — 64 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 64 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

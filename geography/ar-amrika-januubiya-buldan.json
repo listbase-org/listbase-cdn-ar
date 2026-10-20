@@ -1,0 +1,339 @@
+{
+  "id": "ar-amrika-januubiya-buldan",
+  "name": "بلدان أمريكا الجنوبية (South America countries — Arabic)",
+  "title": "بلدان أمريكا الجنوبية (South America countries — Arabic)",
+  "description": "14 دولة في قارة أمريكا الجنوبية (South America) مع الأسماء بالعربية والإنجليزية، رموز ISO، رموز الهاتف، العاصمة، العملات، اللغات، وعلم الإيموجي.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_ar_formal",
+      "label": "Name Ar Formal",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_ar",
+      "label": "Continent Ar",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "name_ar": "الأرجنتين",
+      "name_ar_formal": "جمهورية الأرجنتين",
+      "name_en": "Argentina",
+      "slug": "argentina",
+      "phone_codes": "54",
+      "phone_codes_formatted": "+54",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Buenos Aires",
+      "currency_codes": "ARS",
+      "language_codes": "es-AR, en, it, de, fr, gn",
+      "tld": ".ar",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "name_ar": "بوليفيا (دولة - المتعددة القوميات)",
+      "name_ar_formal": "دولة بوليفيا المتعددة القوميات",
+      "name_en": "Bolivia",
+      "slug": "bolivia",
+      "phone_codes": "591",
+      "phone_codes_formatted": "+591",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Sucre",
+      "currency_codes": "BOB",
+      "language_codes": "es-BO, qu, ay",
+      "tld": ".bo",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "name_ar": "البرازيل",
+      "name_ar_formal": "جمهورية البرازيل الاتحادية",
+      "name_en": "Brazil",
+      "slug": "brazil",
+      "phone_codes": "55",
+      "phone_codes_formatted": "+55",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Brasilia",
+      "currency_codes": "BRL",
+      "language_codes": "pt-BR, es, en, fr",
+      "tld": ".br",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "name_ar": "شيلي",
+      "name_ar_formal": "جمهورية شيلي",
+      "name_en": "Chile",
+      "slug": "chile",
+      "phone_codes": "56",
+      "phone_codes_formatted": "+56",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Santiago",
+      "currency_codes": "CLP",
+      "language_codes": "es-CL",
+      "tld": ".cl",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "name_ar": "كولومبيا",
+      "name_ar_formal": "جمهورية كولومبيا",
+      "name_en": "Colombia",
+      "slug": "colombia",
+      "phone_codes": "57",
+      "phone_codes_formatted": "+57",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Bogota",
+      "currency_codes": "COP",
+      "language_codes": "es-CO",
+      "tld": ".co",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "name_ar": "إكوادور",
+      "name_ar_formal": "جمهورية إكوادور",
+      "name_en": "Ecuador",
+      "slug": "ecuador",
+      "phone_codes": "593",
+      "phone_codes_formatted": "+593",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Quito",
+      "currency_codes": "USD",
+      "language_codes": "es-EC",
+      "tld": ".ec",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "name_ar": "جزر فوكلاند (مالفيناس)",
+      "name_ar_formal": "جزر فوكلاند (مالفيناس)",
+      "name_en": "Falkland Islands",
+      "slug": "falkland-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Stanley",
+      "currency_codes": "FKP",
+      "language_codes": "en-FK",
+      "tld": ".fk",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "name_ar": "غيانا الفرنسية",
+      "name_ar_formal": "غيانا الفرنسية",
+      "name_en": "French Guiana",
+      "slug": "french-guiana",
+      "phone_codes": "594",
+      "phone_codes_formatted": "+594",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Cayenne",
+      "currency_codes": "EUR",
+      "language_codes": "fr-GF",
+      "tld": ".gf",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "name_ar": "غيانا",
+      "name_ar_formal": "جمهورية غيانا التعاونية",
+      "name_en": "Guyana",
+      "slug": "guyana",
+      "phone_codes": "592",
+      "phone_codes_formatted": "+592",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Georgetown",
+      "currency_codes": "GYD",
+      "language_codes": "en-GY",
+      "tld": ".gy",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "name_ar": "بيرو",
+      "name_ar_formal": "جمهورية بيرو",
+      "name_en": "Peru",
+      "slug": "peru",
+      "phone_codes": "51",
+      "phone_codes_formatted": "+51",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Lima",
+      "currency_codes": "PEN",
+      "language_codes": "es-PE, qu, ay",
+      "tld": ".pe",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "name_ar": "باراغواي",
+      "name_ar_formal": "جمهورية باراغواي",
+      "name_en": "Paraguay",
+      "slug": "paraguay",
+      "phone_codes": "595",
+      "phone_codes_formatted": "+595",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Asuncion",
+      "currency_codes": "PYG",
+      "language_codes": "es-PY, gn",
+      "tld": ".py",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "name_ar": "سورينام",
+      "name_ar_formal": "جمهورية سورينام",
+      "name_en": "Suriname",
+      "slug": "suriname",
+      "phone_codes": "597",
+      "phone_codes_formatted": "+597",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Paramaribo",
+      "currency_codes": "SRD",
+      "language_codes": "nl-SR, en, srn, hns, jv",
+      "tld": ".sr",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "name_ar": "أوروغواي",
+      "name_ar_formal": "جمهورية أوروغواي الشرقية",
+      "name_en": "Uruguay",
+      "slug": "uruguay",
+      "phone_codes": "598",
+      "phone_codes_formatted": "+598",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Montevideo",
+      "currency_codes": "UYU,UYW",
+      "language_codes": "es-UY",
+      "tld": ".uy",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "name_ar": "فنزويلا (جمهورية - البوليفارية)",
+      "name_ar_formal": "جمهورية فنزويلا البوليفارية",
+      "name_en": "Venezuela",
+      "slug": "venezuela",
+      "phone_codes": "58",
+      "phone_codes_formatted": "+58",
+      "continent_code": "SA",
+      "continent_ar": "أمريكا الجنوبية",
+      "capital": "Caracas",
+      "currency_codes": "VES,VED",
+      "language_codes": "es-VE",
+      "tld": ".ve",
+      "emoji_flag": "🇻🇪"
+    }
+  ],
+  "meta": {
+    "title": "بلدان أمريكا الجنوبية (South America countries — Arabic) - تحميل مجاني",
+    "description": "14 دولة في قارة أمريكا الجنوبية (South America) مع الأسماء بالعربية والإنجليزية، رموز ISO، رموز الهاتف، العاصمة، العملات، اللغات، وعلم الإيموجي. يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بلدان أمريكا الجنوبية (South America countries — Arabic) | ListBase",
+    "seo_description": "تحميل بلدان أمريكا الجنوبية (South America countries — Arabic) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 15 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

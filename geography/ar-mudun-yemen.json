@@ -1,0 +1,336 @@
+{
+  "id": "ar-mudun-yemen",
+  "name": "مدن اليمن — Cities of Yemen (Arabic names)",
+  "title": "مدن اليمن — Cities of Yemen (Arabic names)",
+  "description": "قائمة بأسماء مدن اليمن بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Yemen with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "فيروسات غدانية",
+      "name_en": "Aden",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 863000
+    },
+    {
+      "id": 2,
+      "name_ar": "المكلا",
+      "name_en": "Al Mukalla",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 594951
+    },
+    {
+      "id": 3,
+      "name_ar": "محافظة تعز",
+      "name_en": "Ta`izz",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 458789
+    },
+    {
+      "id": 4,
+      "name_ar": "محافظة الحديدة",
+      "name_en": "Al Hudaydah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 404062
+    },
+    {
+      "id": 5,
+      "name_ar": "محافظة إب",
+      "name_en": "Ibb",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 234837
+    },
+    {
+      "id": 6,
+      "name_ar": "محافظة ذمار",
+      "name_en": "Dhamar",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 146346
+    },
+    {
+      "id": 7,
+      "name_ar": "المنصورة",
+      "name_en": "Al Mansurah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 114931
+    },
+    {
+      "id": 8,
+      "name_ar": "المسراخ",
+      "name_en": "Al Misrakh",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 112653
+    },
+    {
+      "id": 9,
+      "name_ar": "مديرية سيئون",
+      "name_en": "Say'un",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 68747
+    },
+    {
+      "id": 10,
+      "name_ar": "عزلة الشحر",
+      "name_en": "Ash Shihr",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 68313
+    },
+    {
+      "id": 11,
+      "name_ar": "مديرية تريم",
+      "name_en": "Tarim",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 58523
+    },
+    {
+      "id": 12,
+      "name_ar": "محافظة حجة",
+      "name_en": "Hajjah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 53887
+    },
+    {
+      "id": 13,
+      "name_ar": "مديرية التواهي",
+      "name_en": "At Tawahi",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 52984
+    },
+    {
+      "id": 14,
+      "name_ar": "زبيد",
+      "name_en": "Zabid",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 50781
+    },
+    {
+      "id": 15,
+      "name_ar": "مديرية يريم",
+      "name_en": "Yarim",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 46964
+    },
+    {
+      "id": 16,
+      "name_ar": "مديرية باجل",
+      "name_en": "Bajil",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 46005
+    },
+    {
+      "id": 17,
+      "name_ar": "مديرية بيت الفقيه",
+      "name_en": "Bayt al Faqih",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 41652
+    },
+    {
+      "id": 18,
+      "name_ar": "مدينة القاعده",
+      "name_en": "Al Qa`idah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 39254
+    },
+    {
+      "id": 19,
+      "name_ar": "محافظة البيضاء",
+      "name_en": "Al Bayda'",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 37821
+    },
+    {
+      "id": 20,
+      "name_ar": "عتق",
+      "name_en": "Ataq",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 37315
+    },
+    {
+      "id": 21,
+      "name_ar": "محافظة لحج",
+      "name_en": "Lahij",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 30661
+    },
+    {
+      "id": 22,
+      "name_ar": "سنة",
+      "name_en": "Ja`ar",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 29495
+    },
+    {
+      "id": 23,
+      "name_ar": "محافظة الضالع",
+      "name_en": "Ad Dali`",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 21783
+    },
+    {
+      "id": 24,
+      "name_ar": "زنجبار",
+      "name_en": "Zinjibar",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 19879
+    },
+    {
+      "id": 25,
+      "name_ar": "مديرية خمر",
+      "name_en": "Khamir",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 18645
+    },
+    {
+      "id": 26,
+      "name_ar": "محافظة مأرب",
+      "name_en": "Marib",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 16794
+    },
+    {
+      "id": 27,
+      "name_ar": "مديرية الديس",
+      "name_en": "Ad Dis",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 16614
+    },
+    {
+      "id": 28,
+      "name_ar": "محافظة المحويت",
+      "name_en": "Al Mahwit",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 16291
+    },
+    {
+      "id": 29,
+      "name_ar": "مديرية الزيدية",
+      "name_en": "Az Zaydiyah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 16246
+    },
+    {
+      "id": 30,
+      "name_ar": "نادي الحزم",
+      "name_en": "Al Hazm",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 16044
+    },
+    {
+      "id": 31,
+      "name_ar": "دماج",
+      "name_en": "Dammaj",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 15626
+    },
+    {
+      "id": 32,
+      "name_ar": "مديرية جبلة",
+      "name_en": "Jiblah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 15431
+    },
+    {
+      "id": 33,
+      "name_ar": "ريدة",
+      "name_en": "Raydah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 13971
+    },
+    {
+      "id": 34,
+      "name_ar": "مديرية الغيضة",
+      "name_en": "Al Ghayzah",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 10948
+    },
+    {
+      "id": 35,
+      "name_ar": "مديرية حديبو",
+      "name_en": "Hadibu",
+      "country_ar": "اليمن",
+      "country_en": "Yemen",
+      "population": 8545
+    }
+  ],
+  "meta": {
+    "title": "مدن اليمن — Cities of Yemen (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن اليمن بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Yemen with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 35 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن اليمن — Cities of Yemen (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن اليمن — Cities of Yemen (Arabic names) — 35 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 35 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

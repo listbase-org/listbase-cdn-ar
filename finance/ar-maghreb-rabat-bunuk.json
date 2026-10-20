@@ -1,0 +1,121 @@
+{
+  "id": "ar-maghreb-rabat-bunuk",
+  "name": "بنوك Rabat — المغرب — رموز سويفت (Banks of Rabat, Morocco — SWIFT/BIC codes)",
+  "title": "بنوك Rabat — المغرب — رموز سويفت (Banks of Rabat, Morocco — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Rabat (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Rabat, Morocco with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL BARID BANK",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "ABBMMAMC"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB BANK PLC.",
+      "city": "RABAT",
+      "branch": "(AGDAL BRANCH)",
+      "swift_code": "ARABMAMC221"
+    },
+    {
+      "id": 3,
+      "bank": "ARAB BANK PLC.",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "ARABMAMC220"
+    },
+    {
+      "id": 4,
+      "bank": "BANK AL-MAGHRIB",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "BKAMMAMR"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE POPULAIRE RABAT",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "BCPOMAMCRAB"
+    },
+    {
+      "id": 6,
+      "bank": "CAISSE DE DEPOT ET DE GESTION",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "CADGMAMR"
+    },
+    {
+      "id": 7,
+      "bank": "CDG CAPITAL",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "RDGCMAMR"
+    },
+    {
+      "id": 8,
+      "bank": "CREDIT AGRICOLE DU MAROC",
+      "city": "RABAT",
+      "branch": "(AL AKHDAR BRANCH)",
+      "swift_code": "CNCAMAMRAAB"
+    },
+    {
+      "id": 9,
+      "bank": "CREDIT AGRICOLE DU MAROC",
+      "city": "RABAT",
+      "branch": "",
+      "swift_code": "CNCAMAMR"
+    },
+    {
+      "id": 10,
+      "bank": "CREDIT DU MAROC",
+      "city": "RABAT",
+      "branch": "(TRADE CENTER CHELLAH)",
+      "swift_code": "CDMAMAMC709"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Rabat — المغرب — رموز سويفت (Banks of Rabat, Morocco — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Rabat (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Rabat, Morocco with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT). يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Rabat — المغرب — رموز سويفت (Banks of Rabat, Morocco — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Rabat — المغرب — رموز سويفت (Banks of Rabat, Morocco — SWIFT/BIC codes) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

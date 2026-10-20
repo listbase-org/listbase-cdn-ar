@@ -1,0 +1,121 @@
+{
+  "id": "ar-maghreb-tanger-bunuk",
+  "name": "بنوك Tanger — المغرب — رموز سويفت (Banks of Tanger, Morocco — SWIFT/BIC codes)",
+  "title": "بنوك Tanger — المغرب — رموز سويفت (Banks of Tanger, Morocco — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tanger (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Tanger, Morocco with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK PLC.",
+      "city": "TANGER",
+      "branch": "",
+      "swift_code": "ARABMAMC230"
+    },
+    {
+      "id": 2,
+      "bank": "ATTIJARI INTERNATIONAL BANK S.A. - BANQUE OFF SHORE",
+      "city": "TANGER",
+      "branch": "",
+      "swift_code": "AIBSMAMT"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "TANGER",
+      "branch": "(OFFSHORE BRANCH, TANGIER)",
+      "swift_code": "BCPOMAMCCIB"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "TANGER",
+      "branch": "(OFFSHORE BRANCH TRADING ROOM, TANGIER)",
+      "swift_code": "BMCEMAMCTCM"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "TANGER",
+      "branch": "(OFFSHORE BRANCH, TANGIER)",
+      "swift_code": "BMCEMAMCTZF"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+      "city": "TANGER",
+      "branch": "(OFFSHORE BRANCH)",
+      "swift_code": "BMCIMAMCTOF"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE POPULAIRE TANGER",
+      "city": "TANGER",
+      "branch": "",
+      "swift_code": "BCPOMAMCTAT"
+    },
+    {
+      "id": 8,
+      "bank": "CREDIT DU MAROC",
+      "city": "TANGER",
+      "branch": "(TRADE CENTER BOUGHAZ)",
+      "swift_code": "CDMAMAMC705"
+    },
+    {
+      "id": 9,
+      "bank": "SOCIETE GENERALE TANGER OFFSHORE",
+      "city": "TANGER",
+      "branch": "",
+      "swift_code": "SGTGMAMC"
+    },
+    {
+      "id": 10,
+      "bank": "TANGER (BANQUE INTERNATIONALE DE) SA",
+      "city": "TANGER",
+      "branch": "",
+      "swift_code": "ITABMAM1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Tanger — المغرب — رموز سويفت (Banks of Tanger, Morocco — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tanger (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in Tanger, Morocco with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT). يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Tanger — المغرب — رموز سويفت (Banks of Tanger, Morocco — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Tanger — المغرب — رموز سويفت (Banks of Tanger, Morocco — SWIFT/BIC codes) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

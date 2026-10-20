@@ -1,0 +1,208 @@
+{
+  "id": "ar-mahattat-nawawiya",
+  "name": "محطات الطاقة النووية في الدول العربية",
+  "title": "محطات الطاقة النووية في الدول العربية",
+  "description": "محطات الطاقة النووية في الدول العربية — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barakah-1 (Braka)",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "latitude": 23.952748,
+      "longitude": 52.193298,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "APR-1400",
+      "construction_start": "2012-07-19",
+      "operational_from": "2021-04-01",
+      "operational_to": "",
+      "capacity_mw": 1310,
+      "iaea_id": 1050,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Barakah-2 (Braka)",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "latitude": 23.952748,
+      "longitude": 52.193298,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "APR-1400",
+      "construction_start": "2013-04-15",
+      "operational_from": "2022-03-24",
+      "operational_to": "",
+      "capacity_mw": 1310,
+      "iaea_id": 1051,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Barakah-3 (Braka)",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "latitude": 23.952748,
+      "longitude": 52.203298,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "APR-1400",
+      "construction_start": "2014-09-24",
+      "operational_from": "2023-02-24",
+      "operational_to": "",
+      "capacity_mw": 1310,
+      "iaea_id": 1052,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Barakah-4 (Braka)",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "latitude": 23.952748,
+      "longitude": 52.203298,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "APR-1400",
+      "construction_start": "2015-07-30",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1310,
+      "iaea_id": 1053,
+      "data_source": "IAEA"
+    },
+    {
+      "name": "El Dabaa-1",
+      "country": "Egypt",
+      "country_code": "EG",
+      "latitude": 31.044167,
+      "longitude": 28.497778,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER-1200",
+      "construction_start": "2022-07-20",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1100,
+      "iaea_id": 137,
+      "data_source": "WNA/IAEA/Wikipedia"
+    },
+    {
+      "name": "El Dabaa-2",
+      "country": "Egypt",
+      "country_code": "EG",
+      "latitude": 31.044167,
+      "longitude": 28.497778,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER-1200",
+      "construction_start": "2022-11-19",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1100,
+      "iaea_id": 138,
+      "data_source": "IAEA/Wikipedia"
+    },
+    {
+      "name": "El Dabaa-3",
+      "country": "Egypt",
+      "country_code": "EG",
+      "latitude": 31.044167,
+      "longitude": 28.497778,
+      "status": "Under Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER-1200",
+      "construction_start": "2023-05-03",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 1100,
+      "iaea_id": 1120,
+      "data_source": "IAEA/Wikipedia"
+    }
+  ],
+  "meta": {
+    "title": "محطات الطاقة النووية في الدول العربية - تحميل مجاني",
+    "description": "محطات الطاقة النووية في الدول العربية — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "محطات الطاقة النووية في الدول العربية | ListBase",
+    "seo_description": "تحميل محطات الطاقة النووية في الدول العربية — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 14 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

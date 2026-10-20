@@ -1,0 +1,232 @@
+{
+  "id": "ar-mudun-palestinian-territory-occupied",
+  "name": "مدن الأرض الفلسطينية المحتلة — Cities of Palestinian Territory Occupied (Arabic names)",
+  "title": "مدن الأرض الفلسطينية المحتلة — Cities of Palestinian Territory Occupied (Arabic names)",
+  "description": "قائمة بأسماء مدن الأرض الفلسطينية المحتلة بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Palestinian Territory Occupied with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "القدس",
+      "name_en": "Jerusalem",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 936425
+    },
+    {
+      "id": 2,
+      "name_ar": "غزة",
+      "name_en": "Gaza",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 590481
+    },
+    {
+      "id": 3,
+      "name_ar": "خان يونس",
+      "name_en": "Khan Yunis",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 205125
+    },
+    {
+      "id": 4,
+      "name_ar": "الخليل",
+      "name_en": "Hebron",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 201063
+    },
+    {
+      "id": 5,
+      "name_ar": "جَبَاليا",
+      "name_en": "Jabalya",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 172704
+    },
+    {
+      "id": 6,
+      "name_ar": "رفح",
+      "name_en": "Rafah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 171899
+    },
+    {
+      "id": 7,
+      "name_ar": "نابلس",
+      "name_en": "Nablus",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 156906
+    },
+    {
+      "id": 8,
+      "name_ar": "بيت لاهيا",
+      "name_en": "Bayt Lahya",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 89838
+    },
+    {
+      "id": 9,
+      "name_ar": "دير البلح",
+      "name_en": "Dayr al Balah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 75132
+    },
+    {
+      "id": 10,
+      "name_ar": "طولكرم",
+      "name_en": "Tulkarm",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 64532
+    },
+    {
+      "id": 11,
+      "name_ar": "قلقيلية",
+      "name_en": "Qalqilyah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 51683
+    },
+    {
+      "id": 12,
+      "name_ar": "بني سهيلا",
+      "name_en": "Bani Suhayla",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 41439
+    },
+    {
+      "id": 13,
+      "name_ar": "رام الله",
+      "name_en": "Ramallah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 38998
+    },
+    {
+      "id": 14,
+      "name_ar": "الظاهرية",
+      "name_en": "Az Zahiriyah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 35924
+    },
+    {
+      "id": 15,
+      "name_ar": "بيتونيا",
+      "name_en": "Baytunya",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 26604
+    },
+    {
+      "id": 16,
+      "name_ar": "إذنا",
+      "name_en": "Idhna",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 26009
+    },
+    {
+      "id": 17,
+      "name_ar": "قباطية",
+      "name_en": "Qabatiyah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 24439
+    },
+    {
+      "id": 18,
+      "name_ar": "الزوايدة",
+      "name_en": "Az Zuwaydah",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 23841
+    },
+    {
+      "id": 19,
+      "name_ar": "بيت أمر",
+      "name_en": "Bayt Ummar",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 16977
+    },
+    {
+      "id": 20,
+      "name_ar": "بيت جالا",
+      "name_en": "Bayt Jala",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 13484
+    },
+    {
+      "id": 21,
+      "name_ar": "بيت ساحور",
+      "name_en": "Bayt Sahur",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 13281
+    },
+    {
+      "id": 22,
+      "name_ar": "أبو ديس",
+      "name_en": "Abu Dis",
+      "country_ar": "الأرض الفلسطينية المحتلة",
+      "country_en": "Palestinian Territory Occupied",
+      "population": 12251
+    }
+  ],
+  "meta": {
+    "title": "مدن الأرض الفلسطينية المحتلة — Cities of Palestinian Territory Occupied (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الأرض الفلسطينية المحتلة بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Palestinian Territory Occupied with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 22 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الأرض الفلسطينية المحتلة — Cities of Palestinian Territory Occupied (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الأرض الفلسطينية المحتلة — Cities of Palestinian Territory Occupied (Arabic names) — 22 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 22 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

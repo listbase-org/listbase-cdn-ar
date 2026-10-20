@@ -1,0 +1,522 @@
+{
+  "id": "ar-barakin",
+  "name": "البراكين في الوطن العربي (Volcanoes of the Arab world)",
+  "title": "البراكين في الوطن العربي (Volcanoes of the Arab world)",
+  "description": "قائمة البراكين والحرّات البركانية في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q8072) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة براكين في النطاق العربي. استُبعدت بالمعرّف QID الكياناتُ الإحدى عشرة التي سبق إدراجها ضمن مجموعة الجبال والقمم (ar-jibal) لضمان عدم التكرار (52 خام → 41). وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q890128",
+      "name_ar": "حرة لونير",
+      "name_en": "Harrat Lunayyir",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 25.17,
+      "longitude": 37.75,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A9_%D9%84%D9%88%D9%86%D9%8A%D8%B1"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q20726037",
+      "name_ar": "جبل أتكي",
+      "name_en": "Jbel Outgui",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.642778,
+      "longitude": -5.246944,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A3%D8%AA%D9%83%D9%8A"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q20726036",
+      "name_ar": "جبل الكديات",
+      "name_en": "Jbel El Koudiate",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.531111,
+      "longitude": -5.156389,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D9%83%D8%AF%D9%8A%D8%A7%D8%AA"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q20726038",
+      "name_ar": "جبل تماراكويت",
+      "name_en": "Jbel Tamarrakoit",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.0623,
+      "longitude": -5.0652,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%AA%D9%85%D8%A7%D8%B1%D8%A7%D9%83%D9%88%D9%8A%D8%AA"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q804562",
+      "name_ar": "بلحاف",
+      "name_en": "Bal Haf",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 14.05,
+      "longitude": 48.333333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q978441",
+      "name_ar": "جبل الطير",
+      "name_en": "Jabal al-Tair Island",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 15.54,
+      "longitude": 41.83,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%B7%D9%8A%D8%B1_(%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9)"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1417843",
+      "name_ar": "جزر حنيش",
+      "name_en": "Hanish Islands",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 13.75,
+      "longitude": 42.75,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D8%B1_%D8%AD%D9%86%D9%8A%D8%B4"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q230265",
+      "name_ar": "زقر",
+      "name_en": "Zuqar Island",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 14.012778,
+      "longitude": 42.741944,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B2%D9%82%D8%B1"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q527548",
+      "name_ar": "القرطالة",
+      "name_en": "Mount Karthala",
+      "country_ar": "جزر القمر",
+      "country_qid": "Q970",
+      "latitude": -11.76028,
+      "longitude": 43.35306,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D8%B7%D8%A7%D9%84%D8%A9"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q639993",
+      "name_ar": "أردوكوبا",
+      "name_en": "Ardoukoba",
+      "country_ar": "جيبوتي",
+      "country_qid": "Q977",
+      "latitude": 11.571944,
+      "longitude": 42.495833,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D8%AF%D9%88%D9%83%D9%88%D8%A8%D8%A7"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q21596961",
+      "name_ar": "أراضي النورية",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.178056,
+      "longitude": 37.417778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q21596971",
+      "name_ar": "أرض أم رحيل",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.259444,
+      "longitude": 37.388333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q21591868",
+      "name_ar": "أرض بنت سمرا",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.1231,
+      "longitude": 37.2953,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q21583690",
+      "name_ar": "أم الجنبريس",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.229444,
+      "longitude": 37.141667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q21583709",
+      "name_ar": "أم حوار",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.31,
+      "longitude": 37.0557,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q21596979",
+      "name_ar": "ارض أم القذقاذ",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.4477,
+      "longitude": 37.2559,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q21596966",
+      "name_ar": "الجفاجف",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.0699,
+      "longitude": 37.2209,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q21597044",
+      "name_ar": "الحرات",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5,
+      "longitude": 37.2,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q21591900",
+      "name_ar": "الشليل",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.532778,
+      "longitude": 36.73,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q21589724",
+      "name_ar": "الصفا",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.11738,
+      "longitude": 37.14788,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q21594940",
+      "name_ar": "الهايف",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5025,
+      "longitude": 36.721389,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q21586903",
+      "name_ar": "تل ابو جحاش",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5317,
+      "longitude": 37.2272,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q21591914",
+      "name_ar": "تل الثليثوات الأوسط",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.385833,
+      "longitude": 37.150278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q21596969",
+      "name_ar": "تل الثليثوات الشمالي",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.390833,
+      "longitude": 37.140278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q21591913",
+      "name_ar": "تل الثليثوات القبلي",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.3689,
+      "longitude": 37.1573,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q21589492",
+      "name_ar": "تل الكواير",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.075,
+      "longitude": 37.167778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q21584543",
+      "name_ar": "تل سلمان",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5203,
+      "longitude": 37.2917,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q21585183",
+      "name_ar": "تل قليب حمة الجزيرة",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.6939,
+      "longitude": 40.0084,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q21584453",
+      "name_ar": "تلول الصفا",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.2425,
+      "longitude": 36.983611,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q21591028",
+      "name_ar": "جبل ابو غانم",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.100833,
+      "longitude": 37.175556,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q21591865",
+      "name_ar": "حرة الابل",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.197222,
+      "longitude": 37.286111,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q21591882",
+      "name_ar": "حرة سدريشة",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.469444,
+      "longitude": 37.325,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q21593515",
+      "name_ar": "حمة أبو رجوم",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.6709,
+      "longitude": 40.5648,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q21594935",
+      "name_ar": "صيرة أبو رميح",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5075,
+      "longitude": 36.7425,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q21594936",
+      "name_ar": "صيرة الشليل",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.525278,
+      "longitude": 36.731111,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q21594939",
+      "name_ar": "صيرة قنبر",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.5075,
+      "longitude": 36.725833,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q21593949",
+      "name_ar": "صيرة محي الدين",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.550278,
+      "longitude": 36.732222,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q21596965",
+      "name_ar": "مذابح ولد ابو قروش",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.183889,
+      "longitude": 37.3425,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q21593950",
+      "name_ar": "مصيرة الشليل",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.541389,
+      "longitude": 36.730833,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q21594934",
+      "name_ar": "مصيرة هكر الدرب",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.506111,
+      "longitude": 36.733889,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q21584843",
+      "name_ar": "مفردة رغيلة",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33.162222,
+      "longitude": 37.098333,
+      "wikipedia_ar": ""
+    }
+  ],
+  "meta": {
+    "title": "البراكين في الوطن العربي (Volcanoes of the Arab world) - تحميل مجاني",
+    "description": "قائمة البراكين والحرّات البركانية في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q8072) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة براكين في النطاق العربي. استُبعدت بالمعرّف QID الكياناتُ الإحدى عشرة التي سبق إدراجها ضمن مجموعة الجبال والقمم (ar-jibal) لضمان عدم التكرار (52 خام → 41). وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 41 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "البراكين في الوطن العربي (Volcanoes of the Arab world) | ListBase",
+    "seo_description": "تحميل البراكين في الوطن العربي (Volcanoes of the Arab world) — 41 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 41 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

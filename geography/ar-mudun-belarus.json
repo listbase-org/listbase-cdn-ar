@@ -1,0 +1,264 @@
+{
+  "id": "ar-mudun-belarus",
+  "name": "مدن بيلاروسيا — Cities of Belarus (Arabic names)",
+  "title": "مدن بيلاروسيا — Cities of Belarus (Arabic names)",
+  "description": "قائمة بأسماء مدن بيلاروسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 26 cities in Belarus with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مينسك",
+      "name_en": "Minsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 1992862
+    },
+    {
+      "id": 2,
+      "name_ar": "غوميل",
+      "name_en": "Homyel'",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 501102
+    },
+    {
+      "id": 3,
+      "name_ar": "غرودنو",
+      "name_en": "Hrodna",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 361115
+    },
+    {
+      "id": 4,
+      "name_ar": "فيتيبسك",
+      "name_en": "Vitsyebsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 358395
+    },
+    {
+      "id": 5,
+      "name_ar": "موجيلوف",
+      "name_en": "Mahilyow",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 353110
+    },
+    {
+      "id": 6,
+      "name_ar": "بريست",
+      "name_en": "Brest",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 344470
+    },
+    {
+      "id": 7,
+      "name_ar": "بابرويسك",
+      "name_en": "Babruysk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 207351
+    },
+    {
+      "id": 8,
+      "name_ar": "بارانافيتشي",
+      "name_en": "Baranavichy",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 171361
+    },
+    {
+      "id": 9,
+      "name_ar": "بينسك",
+      "name_en": "Pinsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 124295
+    },
+    {
+      "id": 10,
+      "name_ar": "مازير",
+      "name_en": "Mazyr",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 105152
+    },
+    {
+      "id": 11,
+      "name_ar": "ليدا",
+      "name_en": "Lida",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 103916
+    },
+    {
+      "id": 12,
+      "name_ar": "أورشا",
+      "name_en": "Orsha",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 102759
+    },
+    {
+      "id": 13,
+      "name_ar": "ساليهورسك",
+      "name_en": "Salihorsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 97818
+    },
+    {
+      "id": 14,
+      "name_ar": "مالادزيشنا",
+      "name_en": "Maladzyechna",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 89068
+    },
+    {
+      "id": 15,
+      "name_ar": "بولوتسك",
+      "name_en": "Polatsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 79579
+    },
+    {
+      "id": 16,
+      "name_ar": "جلوبين",
+      "name_en": "Zhlobin",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 76844
+    },
+    {
+      "id": 17,
+      "name_ar": "سلوتسك",
+      "name_en": "Slutsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 60056
+    },
+    {
+      "id": 18,
+      "name_ar": "كوبرين",
+      "name_en": "Kobryn",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 52635
+    },
+    {
+      "id": 19,
+      "name_ar": "سلونيم",
+      "name_en": "Slonim",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 48907
+    },
+    {
+      "id": 20,
+      "name_ar": "فاوكافيسك",
+      "name_en": "Vawkavysk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 41510
+    },
+    {
+      "id": 21,
+      "name_ar": "دزيارجينسك",
+      "name_en": "Dzyarzhynsk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 29796
+    },
+    {
+      "id": 22,
+      "name_ar": "أسيبوفيتشي",
+      "name_en": "Asipovichy",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 29103
+    },
+    {
+      "id": 23,
+      "name_ar": "هوركي",
+      "name_en": "Horki",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 28961
+    },
+    {
+      "id": 24,
+      "name_ar": "خوينيكي",
+      "name_en": "Khoyniki",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 13167
+    },
+    {
+      "id": 25,
+      "name_ar": "باران",
+      "name_en": "Baran",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 10245
+    },
+    {
+      "id": 26,
+      "name_ar": "تشاتشيرسك",
+      "name_en": "Chachersk",
+      "country_ar": "بيلاروسيا",
+      "country_en": "Belarus",
+      "population": 8927
+    }
+  ],
+  "meta": {
+    "title": "مدن بيلاروسيا — Cities of Belarus (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بيلاروسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 26 cities in Belarus with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 26 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بيلاروسيا — Cities of Belarus (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بيلاروسيا — Cities of Belarus (Arabic names) — 26 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 26 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

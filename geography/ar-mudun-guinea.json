@@ -1,0 +1,264 @@
+{
+  "id": "ar-mudun-guinea",
+  "name": "مدن غينيا — Cities of Guinea (Arabic names)",
+  "title": "مدن غينيا — Cities of Guinea (Arabic names)",
+  "description": "قائمة بأسماء مدن غينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 26 cities in Guinea with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كوناكري",
+      "name_en": "Conakry",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 1667864
+    },
+    {
+      "id": 2,
+      "name_ar": "نزيريكوري",
+      "name_en": "N'Zerekore",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 315000
+    },
+    {
+      "id": 3,
+      "name_ar": "محافظة غوكيدو",
+      "name_en": "Gueckedou",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 221715
+    },
+    {
+      "id": 4,
+      "name_ar": "إقليم كانكان",
+      "name_en": "Kankan",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 198013
+    },
+    {
+      "id": 5,
+      "name_ar": "سيجويري",
+      "name_en": "Siguiri",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 183875
+    },
+    {
+      "id": 6,
+      "name_ar": "كنديا",
+      "name_en": "Kindia",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 181126
+    },
+    {
+      "id": 7,
+      "name_ar": "بوكي",
+      "name_en": "Boke",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 116270
+    },
+    {
+      "id": 8,
+      "name_ar": "إلبه",
+      "name_en": "Labe",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 107695
+    },
+    {
+      "id": 9,
+      "name_ar": "إقليم_فرانه",
+      "name_en": "Faranah",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 78108
+    },
+    {
+      "id": 10,
+      "name_ar": "كسمار",
+      "name_en": "Kamsar",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 68999
+    },
+    {
+      "id": 11,
+      "name_ar": "كيسيدوغو",
+      "name_en": "Kissidougou",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 66815
+    },
+    {
+      "id": 12,
+      "name_ar": "ماسنتا",
+      "name_en": "Macenta",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 43102
+    },
+    {
+      "id": 13,
+      "name_ar": "دابولا",
+      "name_en": "Dabola",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 38617
+    },
+    {
+      "id": 14,
+      "name_ar": "ولاية تليملي",
+      "name_en": "Telimele",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 30311
+    },
+    {
+      "id": 15,
+      "name_ar": "يومو",
+      "name_en": "Yomou",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 29138
+    },
+    {
+      "id": 16,
+      "name_ar": "توجو",
+      "name_en": "Tougue",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 25531
+    },
+    {
+      "id": 17,
+      "name_ar": "دورا أوربوس",
+      "name_en": "Doura",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 18675
+    },
+    {
+      "id": 18,
+      "name_ar": "كيروان",
+      "name_en": "Kerouane",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 15406
+    },
+    {
+      "id": 19,
+      "name_ar": "كوروسا",
+      "name_en": "Kouroussa",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 14223
+    },
+    {
+      "id": 20,
+      "name_ar": "كوندارا",
+      "name_en": "Koundara",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 13990
+    },
+    {
+      "id": 21,
+      "name_ar": "بيلا",
+      "name_en": "Beyla",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 13204
+    },
+    {
+      "id": 22,
+      "name_ar": "فوريكاريا",
+      "name_en": "Forecariah",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 12358
+    },
+    {
+      "id": 23,
+      "name_ar": "جاوال",
+      "name_en": "Gaoual",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 7461
+    },
+    {
+      "id": 24,
+      "name_ar": "دالابا",
+      "name_en": "Dalaba",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 6349
+    },
+    {
+      "id": 25,
+      "name_ar": "محافظة دينغويراي",
+      "name_en": "Dinguiraye",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 6062
+    },
+    {
+      "id": 26,
+      "name_ar": "مالي",
+      "name_en": "Mali",
+      "country_ar": "غينيا",
+      "country_en": "Guinea",
+      "population": 5479
+    }
+  ],
+  "meta": {
+    "title": "مدن غينيا — Cities of Guinea (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن غينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 26 cities in Guinea with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 26 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن غينيا — Cities of Guinea (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن غينيا — Cities of Guinea (Arabic names) — 26 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 26 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "id": "ar-mudun-venezuela",
+  "name": "مدن فنزويلا — Cities of Venezuela (Arabic names)",
+  "title": "مدن فنزويلا — Cities of Venezuela (Arabic names)",
+  "description": "قائمة بأسماء مدن فنزويلا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 61 cities in Venezuela with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كاراكاس",
+      "name_en": "Caracas",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 3242000
+    },
+    {
+      "id": 2,
+      "name_ar": "ماراكايبو",
+      "name_en": "Maracaibo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 2658355
+    },
+    {
+      "id": 3,
+      "name_ar": "بلنسية",
+      "name_en": "Valencia",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 2585202
+    },
+    {
+      "id": 4,
+      "name_ar": "ماراكاي",
+      "name_en": "Maracay",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 1723236
+    },
+    {
+      "id": 5,
+      "name_ar": "باركيسيميتو",
+      "name_en": "Barquisimeto",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 1240714
+    },
+    {
+      "id": 6,
+      "name_ar": "بويرتو أورداز",
+      "name_en": "Ciudad Guayana",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 978202
+    },
+    {
+      "id": 7,
+      "name_ar": "برشلونة",
+      "name_en": "Barcelona",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 815141
+    },
+    {
+      "id": 8,
+      "name_ar": "بويرتو لا كروز",
+      "name_en": "Puerto La Cruz",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 454312
+    },
+    {
+      "id": 9,
+      "name_ar": "سيوداد بوليفار",
+      "name_en": "Ciudad Bolivar",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 422578
+    },
+    {
+      "id": 10,
+      "name_ar": "كومانا",
+      "name_en": "Cumana",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 405626
+    },
+    {
+      "id": 11,
+      "name_ar": "باريناس",
+      "name_en": "Barinas",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 397279
+    },
+    {
+      "id": 12,
+      "name_ar": "بيتاري",
+      "name_en": "Petare",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 369000
+    },
+    {
+      "id": 13,
+      "name_ar": "كابيماس",
+      "name_en": "Cabimas",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 288595
+    },
+    {
+      "id": 14,
+      "name_ar": "سان كريستوبال",
+      "name_en": "San Cristobal",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 282830
+    },
+    {
+      "id": 15,
+      "name_ar": "أكوماري ديل توي",
+      "name_en": "Santa Teresa del Tuy",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 260899
+    },
+    {
+      "id": 16,
+      "name_ar": "لوس تيكيس",
+      "name_en": "Los Teques",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 252242
+    },
+    {
+      "id": 17,
+      "name_ar": "إل تيغري",
+      "name_en": "El Tigre",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 213524
+    },
+    {
+      "id": 18,
+      "name_ar": "بويرتو كابيلو",
+      "name_en": "Puerto Cabello",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 209080
+    },
+    {
+      "id": 19,
+      "name_ar": "لا غوايرا",
+      "name_en": "La Guaira",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 203520
+    },
+    {
+      "id": 20,
+      "name_ar": "أكاريغوا",
+      "name_en": "Acarigua",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 203358
+    },
+    {
+      "id": 21,
+      "name_ar": "غواتيري",
+      "name_en": "Guatire",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 200417
+    },
+    {
+      "id": 22,
+      "name_ar": "غواريناس",
+      "name_en": "Guarenas",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 200417
+    },
+    {
+      "id": 23,
+      "name_ar": "ماردة",
+      "name_en": "Merida",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 199878
+    },
+    {
+      "id": 24,
+      "name_ar": "فيروسات تاجية",
+      "name_en": "Coro",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 195227
+    },
+    {
+      "id": 25,
+      "name_ar": "سان دييغو",
+      "name_en": "San Diego",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 187215
+    },
+    {
+      "id": 26,
+      "name_ar": "غواكارا",
+      "name_en": "Guacara",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 178000
+    },
+    {
+      "id": 27,
+      "name_ar": "كاروبانو",
+      "name_en": "Carupano",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 173877
+    },
+    {
+      "id": 28,
+      "name_ar": "توكوييتو",
+      "name_en": "Tocuyito",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 173450
+    },
+    {
+      "id": 29,
+      "name_ar": "كلابوزو",
+      "name_en": "Calabozo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 168605
+    },
+    {
+      "id": 30,
+      "name_ar": "أكوماري ديل توي",
+      "name_en": "Ocumare del Tuy",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 166112
+    },
+    {
+      "id": 31,
+      "name_ar": "سان فرناندو، الفلبين",
+      "name_en": "San Fernando",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 165135
+    },
+    {
+      "id": 32,
+      "name_ar": "بورلامار",
+      "name_en": "Porlamar",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 144830
+    },
+    {
+      "id": 33,
+      "name_ar": "لا فيكتوريا، فنزويلا",
+      "name_en": "La Victoria",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 143468
+    },
+    {
+      "id": 34,
+      "name_ar": "ياريتاغوا",
+      "name_en": "Yaritagua",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 140256
+    },
+    {
+      "id": 35,
+      "name_ar": "بونتو فيخو",
+      "name_en": "Punto Fijo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 131784
+    },
+    {
+      "id": 36,
+      "name_ar": "تشارالافي",
+      "name_en": "Charallave",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 129214
+    },
+    {
+      "id": 37,
+      "name_ar": "سيوداد أوجيدا",
+      "name_en": "Ciudad Ojeda",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 128941
+    },
+    {
+      "id": 38,
+      "name_ar": "الجامعة الكاثوليكية الأمريكية",
+      "name_en": "Cua",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 127900
+    },
+    {
+      "id": 39,
+      "name_ar": "كارورا",
+      "name_en": "Carora",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 112600
+    },
+    {
+      "id": 40,
+      "name_ar": "غوانير",
+      "name_en": "Guanare",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 112286
+    },
+    {
+      "id": 41,
+      "name_ar": "تروخيلو",
+      "name_en": "Trujillo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 110920
+    },
+    {
+      "id": 42,
+      "name_ar": "تيناكيلو",
+      "name_en": "Tinaquillo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 110000
+    },
+    {
+      "id": 43,
+      "name_ar": "كاغوا",
+      "name_en": "Cagua",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 107932
+    },
+    {
+      "id": 44,
+      "name_ar": "أناكو، فنزويلا",
+      "name_en": "Anaco",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 106000
+    },
+    {
+      "id": 45,
+      "name_ar": "فالي دي لا باسكوا",
+      "name_en": "Valle de La Pascua",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 105403
+    },
+    {
+      "id": 46,
+      "name_ar": "إخيدو",
+      "name_en": "Ejido",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 99837
+    },
+    {
+      "id": 47,
+      "name_ar": "لا غريتا",
+      "name_en": "La Grita",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 90000
+    },
+    {
+      "id": 48,
+      "name_ar": "روبيو",
+      "name_en": "Rubio",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 87249
+    },
+    {
+      "id": 49,
+      "name_ar": "توكوبيتا",
+      "name_en": "Tucupita",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 86487
+    },
+    {
+      "id": 50,
+      "name_ar": "سان كارلوس، الفلبين",
+      "name_en": "San Carlos",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 83957
+    },
+    {
+      "id": 51,
+      "name_ar": "كابوداري",
+      "name_en": "Cabudare",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 70578
+    },
+    {
+      "id": 52,
+      "name_ar": "كيوبور",
+      "name_en": "Quibor",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 70536
+    },
+    {
+      "id": 53,
+      "name_ar": "كاريبيتو",
+      "name_en": "Caripito",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 64955
+    },
+    {
+      "id": 54,
+      "name_ar": "ماتيكيس",
+      "name_en": "Machiques",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 63000
+    },
+    {
+      "id": 55,
+      "name_ar": "غويغوي",
+      "name_en": "Guigue",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 60000
+    },
+    {
+      "id": 56,
+      "name_ar": "زارازا، فنزويلا",
+      "name_en": "Zaraza",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 58200
+    },
+    {
+      "id": 57,
+      "name_ar": "تورميرو",
+      "name_en": "Turmero",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 51235
+    },
+    {
+      "id": 58,
+      "name_ar": "بامبانغا",
+      "name_en": "Pampan",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 47549
+    },
+    {
+      "id": 59,
+      "name_ar": "إل توكويو",
+      "name_en": "El Tocuyo",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 41327
+    },
+    {
+      "id": 60,
+      "name_ar": "قولون",
+      "name_en": "Colon",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 36925
+    },
+    {
+      "id": 61,
+      "name_ar": "سانتا آنا",
+      "name_en": "Santa Ana",
+      "country_ar": "فنزويلا",
+      "country_en": "Venezuela",
+      "population": 36925
+    }
+  ],
+  "meta": {
+    "title": "مدن فنزويلا — Cities of Venezuela (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن فنزويلا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 61 cities in Venezuela with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 61 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن فنزويلا — Cities of Venezuela (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن فنزويلا — Cities of Venezuela (Arabic names) — 61 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 61 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

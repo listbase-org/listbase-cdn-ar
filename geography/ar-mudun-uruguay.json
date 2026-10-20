@@ -1,0 +1,384 @@
+{
+  "id": "ar-mudun-uruguay",
+  "name": "مدن اوروجواي — Cities of Uruguay (Arabic names)",
+  "title": "مدن اوروجواي — Cities of Uruguay (Arabic names)",
+  "description": "قائمة بأسماء مدن اوروجواي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 41 cities in Uruguay with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مونتفيدو",
+      "name_en": "Montevideo",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 1719453
+    },
+    {
+      "id": 2,
+      "name_ar": "مالدونادو",
+      "name_en": "Maldonado",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 135014
+    },
+    {
+      "id": 3,
+      "name_ar": "سيوداد دي لا كوستا",
+      "name_en": "Ciudad de la Costa",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 112449
+    },
+    {
+      "id": 4,
+      "name_ar": "بايساندو",
+      "name_en": "Paysandu",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 76412
+    },
+    {
+      "id": 5,
+      "name_ar": "لاس بيدراس",
+      "name_en": "Las Piedras",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 71268
+    },
+    {
+      "id": 6,
+      "name_ar": "ريفيرا",
+      "name_en": "Rivera",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 64465
+    },
+    {
+      "id": 7,
+      "name_ar": "تاكواريمبو",
+      "name_en": "Tacuarembo",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 54755
+    },
+    {
+      "id": 8,
+      "name_ar": "ميلو",
+      "name_en": "Melo",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 51830
+    },
+    {
+      "id": 9,
+      "name_ar": "مرسيدس-بنز",
+      "name_en": "Mercedes",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 41974
+    },
+    {
+      "id": 10,
+      "name_ar": "ميناس جرايس",
+      "name_en": "Minas",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 38446
+    },
+    {
+      "id": 11,
+      "name_ar": "سيوداد دي لا بلاتا",
+      "name_en": "Ciudad del Plata",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 38249
+    },
+    {
+      "id": 12,
+      "name_ar": "سان خوسيه، الفلبين",
+      "name_en": "San Jose",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 36743
+    },
+    {
+      "id": 13,
+      "name_ar": "فلوريدا",
+      "name_en": "Florida",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 33639
+    },
+    {
+      "id": 14,
+      "name_ar": "باروس بلانكوس",
+      "name_en": "Barros Blancos",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 31650
+    },
+    {
+      "id": 15,
+      "name_ar": "سان كارلوس، الفلبين",
+      "name_en": "San Carlos",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 27471
+    },
+    {
+      "id": 16,
+      "name_ar": "كولونيا ديل ساكرامنتو",
+      "name_en": "Colonia del Sacramento",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 26231
+    },
+    {
+      "id": 17,
+      "name_ar": "باندو",
+      "name_en": "Pando",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 25947
+    },
+    {
+      "id": 18,
+      "name_ar": "إدارة ترينتا ذا تريس",
+      "name_en": "Treinta y Tres",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 25477
+    },
+    {
+      "id": 19,
+      "name_ar": "روتشا",
+      "name_en": "Rocha",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 25422
+    },
+    {
+      "id": 20,
+      "name_ar": "فراي بنتوس",
+      "name_en": "Fray Bentos",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 24406
+    },
+    {
+      "id": 21,
+      "name_ar": "ترينيداد",
+      "name_en": "Trinidad",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 21429
+    },
+    {
+      "id": 22,
+      "name_ar": "إل بينار",
+      "name_en": "El Pinar",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 21091
+    },
+    {
+      "id": 23,
+      "name_ar": "لا باز",
+      "name_en": "La Paz",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 20524
+    },
+    {
+      "id": 24,
+      "name_ar": "كانلونيس",
+      "name_en": "Canelones",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 19865
+    },
+    {
+      "id": 25,
+      "name_ar": "كارميلو",
+      "name_en": "Carmelo",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 18041
+    },
+    {
+      "id": 26,
+      "name_ar": "دولوريس",
+      "name_en": "Dolores",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 17174
+    },
+    {
+      "id": 27,
+      "name_ar": "يونغ",
+      "name_en": "Young",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 16756
+    },
+    {
+      "id": 28,
+      "name_ar": "باسو دي كاراسكو",
+      "name_en": "Paso de Carrasco",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 15908
+    },
+    {
+      "id": 29,
+      "name_ar": "ريو برانكو",
+      "name_en": "Rio Branco",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 14604
+    },
+    {
+      "id": 30,
+      "name_ar": "باسو دي لوس توروس",
+      "name_en": "Paso de los Toros",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 12985
+    },
+    {
+      "id": 31,
+      "name_ar": "خوان لاكازي",
+      "name_en": "Juan L. Lacaze",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 12816
+    },
+    {
+      "id": 32,
+      "name_ar": "بونتا دل إيستي",
+      "name_en": "Punta del Este",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 12423
+    },
+    {
+      "id": 33,
+      "name_ar": "نويفا هلفيسيا",
+      "name_en": "Nueva Helvecia",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 10630
+    },
+    {
+      "id": 34,
+      "name_ar": "ليبرتاد",
+      "name_en": "Libertad",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 10166
+    },
+    {
+      "id": 35,
+      "name_ar": "روزاريو",
+      "name_en": "Rosario",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 10085
+    },
+    {
+      "id": 36,
+      "name_ar": "ساليناس",
+      "name_en": "Salinas",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 8626
+    },
+    {
+      "id": 37,
+      "name_ar": "ترانكويراس",
+      "name_en": "Tranqueras",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 7235
+    },
+    {
+      "id": 38,
+      "name_ar": "فيرغارا",
+      "name_en": "Vergara",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 3810
+    },
+    {
+      "id": 39,
+      "name_ar": "بالتاسار بروم، أرتيجاس",
+      "name_en": "Baltasar Brum",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 2531
+    },
+    {
+      "id": 40,
+      "name_ar": "آيغوا",
+      "name_en": "Aigua",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 2465
+    },
+    {
+      "id": 41,
+      "name_ar": "جوزيه باتل ي أوردونيز",
+      "name_en": "Jose Batlle y Ordonez",
+      "country_ar": "اوروجواي",
+      "country_en": "Uruguay",
+      "population": 2203
+    }
+  ],
+  "meta": {
+    "title": "مدن اوروجواي — Cities of Uruguay (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن اوروجواي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 41 cities in Uruguay with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 41 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن اوروجواي — Cities of Uruguay (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن اوروجواي — Cities of Uruguay (Arabic names) — 41 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 41 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

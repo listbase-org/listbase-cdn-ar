@@ -1,0 +1,115 @@
+{
+  "id": "ar-misr-suez-mudun",
+  "name": "مدن ومراكز محافظة السويس (Cities & Towns of Suez)",
+  "title": "مدن ومراكز محافظة السويس (Cities & Towns of Suez)",
+  "description": "قائمة مدن ومراكز محافظة السويس في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Suez governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "79",
+      "name_ar": "العين السخنة",
+      "name_en": "ain-sukhna",
+      "name_long_ar": "العين السخنة، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "78",
+      "name_ar": "حى الجناين",
+      "name_en": "ganayen",
+      "name_long_ar": "حى الجناين، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "94",
+      "name_ar": "حي الأربعين",
+      "name_en": "arbaeen",
+      "name_long_ar": "حي الأربعين، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "165",
+      "name_ar": "حي السويس",
+      "name_en": "suez-district",
+      "name_long_ar": "حي السويس، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "77",
+      "name_ar": "حي عتاقة",
+      "name_en": "attaka",
+      "name_long_ar": "حي عتاقة، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    },
+    {
+      "id": "166",
+      "name_ar": "فيصل",
+      "name_en": "faisal",
+      "name_long_ar": "فيصل، السويس",
+      "muhafaza_ar": "السويس",
+      "muhafaza_en": "suez",
+      "muhafaza_id": 65
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة السويس (Cities & Towns of Suez) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة السويس في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Suez governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة السويس (Cities & Towns of Suez) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة السويس (Cities & Towns of Suez) — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

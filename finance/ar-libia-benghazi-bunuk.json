@@ -1,0 +1,352 @@
+{
+  "id": "ar-libia-benghazi-bunuk",
+  "name": "بنوك Benghazi — ليبيا — رموز سويفت (Banks of Benghazi, Libya — SWIFT/BIC codes)",
+  "title": "بنوك Benghazi — ليبيا — رموز سويفت (Banks of Benghazi, Libya — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Benghazi (ليبيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 43 سجلًا. List of banks, financial institutions and their branches in Benghazi, Libya with the SWIFT/BIC code, bank name and branch name for each. 43 records. Source: PeterNotenboom/SwiftCodes AllCountries/LY.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ALEJMA'A ALARABI BANK",
+      "city": "BENGHAZI",
+      "branch": "",
+      "swift_code": "EJABLYLX"
+    },
+    {
+      "id": 2,
+      "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI BRANCH)",
+      "swift_code": "ABCNLYLT015"
+    },
+    {
+      "id": 3,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(AL HAWARY)",
+      "swift_code": "CDBLLYLT114"
+    },
+    {
+      "id": 4,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI MAIN BRANCH)",
+      "swift_code": "CDBLLYLT011"
+    },
+    {
+      "id": 5,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(BENINA AIRPORT AGENCY)",
+      "swift_code": "CDBLLYLT013"
+    },
+    {
+      "id": 6,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(CHILDREN AGENCY)",
+      "swift_code": "CDBLLYLT018"
+    },
+    {
+      "id": 7,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(EL BERKA AGENCY)",
+      "swift_code": "CDBLLYLT015"
+    },
+    {
+      "id": 8,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(EL FOHIT AGENCY)",
+      "swift_code": "CDBLLYLT111"
+    },
+    {
+      "id": 9,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(EL FOROSIA AGENCY)",
+      "swift_code": "CDBLLYLT012"
+    },
+    {
+      "id": 10,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(GARDEN CITY AGENCY)",
+      "swift_code": "CDBLLYLT017"
+    },
+    {
+      "id": 11,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(ISLAMIC CALL AGENCY)",
+      "swift_code": "CDBLLYLT014"
+    },
+    {
+      "id": 12,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(MOBILE BANK)",
+      "swift_code": "CDBLLYLT124"
+    },
+    {
+      "id": 13,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "(TWENTY STREET AGENCY)",
+      "swift_code": "CDBLLYLT112"
+    },
+    {
+      "id": 14,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "BENGHAZI",
+      "branch": "",
+      "swift_code": "CDBLLYLT"
+    },
+    {
+      "id": 15,
+      "bank": "CENTRAL BANK OF LIBYA",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI BRANCH)",
+      "swift_code": "CBLJLYLX001"
+    },
+    {
+      "id": 16,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(ABUATNI BRANCH)",
+      "swift_code": "JAMBLYLT107"
+    },
+    {
+      "id": 17,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(AL HADAEQ AGENCY)",
+      "swift_code": "JAMBLYLT100"
+    },
+    {
+      "id": 18,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(AL MADINA BRANCH)",
+      "swift_code": "JAMBLYLT003"
+    },
+    {
+      "id": 19,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(ALMARED AGANCY)",
+      "swift_code": "JAMBLYLT113"
+    },
+    {
+      "id": 20,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(AL-MOKHTAR BRANCH FOR ISLAMIC BANKING)",
+      "swift_code": "JAMBLYLT503"
+    },
+    {
+      "id": 21,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI COMMITTEE)",
+      "swift_code": "JAMBLYLT995"
+    },
+    {
+      "id": 22,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI MIDICAL CENTER)",
+      "swift_code": "JAMBLYLT148"
+    },
+    {
+      "id": 23,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(FWIHAT BRANCH)",
+      "swift_code": "JAMBLYLT072"
+    },
+    {
+      "id": 24,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(SOUK AL NOUR BRANCH)",
+      "swift_code": "JAMBLYLT023"
+    },
+    {
+      "id": 25,
+      "bank": "JUMHOURIA BANK",
+      "city": "BENGHAZI",
+      "branch": "(WAHDA ELARABYA AGENCY)",
+      "swift_code": "JAMBLYLT135"
+    },
+    {
+      "id": 26,
+      "bank": "MEDITERRANEAN BANK",
+      "city": "BENGHAZI",
+      "branch": "",
+      "swift_code": "METILYLT"
+    },
+    {
+      "id": 27,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "BENGHAZI",
+      "branch": "(ALHAWARI BRANCH)",
+      "swift_code": "LNCBLYLT079"
+    },
+    {
+      "id": 28,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "BENGHAZI",
+      "branch": "(ALMUJMAAE ALTGARIE BR)",
+      "swift_code": "LNCBLYLT104"
+    },
+    {
+      "id": 29,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "BENGHAZI",
+      "branch": "(AROUBA)",
+      "swift_code": "LNCBLYLT115"
+    },
+    {
+      "id": 30,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "BENGHAZI",
+      "branch": "(BENGHAZI - MAIN BRANCH)",
+      "swift_code": "LNCBLYLT052"
+    },
+    {
+      "id": 31,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "BENGHAZI",
+      "branch": "(FACTORY OF PIPES)",
+      "swift_code": "LNCBLYLT105"
+    },
+    {
+      "id": 32,
+      "bank": "SAHARA BANK",
+      "city": "BENGHAZI",
+      "branch": "(HEAD OFFICE BENGHAZI)",
+      "swift_code": "SABKLYLXBEN"
+    },
+    {
+      "id": 33,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(ALMDENA)",
+      "swift_code": "WAHBLYLX108"
+    },
+    {
+      "id": 34,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(GARDIN)",
+      "swift_code": "WAHBLYLX096"
+    },
+    {
+      "id": 35,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(GULF)",
+      "swift_code": "WAHBLYLX066"
+    },
+    {
+      "id": 36,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "WAHBLYLX"
+    },
+    {
+      "id": 37,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(ISLAMIC)",
+      "swift_code": "WAHBLYLX601"
+    },
+    {
+      "id": 38,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(MAIDAN BRANCH)",
+      "swift_code": "WAHBLYLX032"
+    },
+    {
+      "id": 39,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "WAHBLYLX030"
+    },
+    {
+      "id": 40,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(MAWADELBENA)",
+      "swift_code": "WAHBLYLX111"
+    },
+    {
+      "id": 41,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(MUKHTAR BRANCH)",
+      "swift_code": "WAHBLYLX031"
+    },
+    {
+      "id": 42,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(TREASURY)",
+      "swift_code": "WAHBLYLX200"
+    },
+    {
+      "id": 43,
+      "bank": "WAHDA BANK",
+      "city": "BENGHAZI",
+      "branch": "(WAHBLYLX114)",
+      "swift_code": "WAHBLYLX114"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Benghazi — ليبيا — رموز سويفت (Banks of Benghazi, Libya — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Benghazi (ليبيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 43 سجلًا. List of banks, financial institutions and their branches in Benghazi, Libya with the SWIFT/BIC code, bank name and branch name for each. 43 records. Source: PeterNotenboom/SwiftCodes AllCountries/LY.json (MIT). يحتوي على 43 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Benghazi — ليبيا — رموز سويفت (Banks of Benghazi, Libya — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Benghazi — ليبيا — رموز سويفت (Banks of Benghazi, Libya — SWIFT/BIC codes) — 43 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 43 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

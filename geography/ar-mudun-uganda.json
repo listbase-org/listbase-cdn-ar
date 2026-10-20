@@ -1,0 +1,472 @@
+{
+  "id": "ar-mudun-uganda",
+  "name": "مدن أوغندا — Cities of Uganda (Arabic names)",
+  "title": "مدن أوغندا — Cities of Uganda (Arabic names)",
+  "description": "قائمة بأسماء مدن أوغندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Uganda with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كامبالا",
+      "name_en": "Kampala",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 1680600
+    },
+    {
+      "id": 2,
+      "name_ar": "نانسانا",
+      "name_en": "Nansana",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 532800
+    },
+    {
+      "id": 3,
+      "name_ar": "جينجا",
+      "name_en": "Jinja",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 300000
+    },
+    {
+      "id": 4,
+      "name_ar": "مبارارا",
+      "name_en": "Mbarara",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 195013
+    },
+    {
+      "id": 5,
+      "name_ar": "ضاحية غولو",
+      "name_en": "Gulu",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 152276
+    },
+    {
+      "id": 6,
+      "name_ar": "هويما",
+      "name_en": "Hoima",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 122700
+    },
+    {
+      "id": 7,
+      "name_ar": "مقاطعة كاسيس",
+      "name_en": "Kasese",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 115400
+    },
+    {
+      "id": 8,
+      "name_ar": "ماسيندى",
+      "name_en": "Masindi",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 110500
+    },
+    {
+      "id": 9,
+      "name_ar": "ميتيانا",
+      "name_en": "Mityana",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 105200
+    },
+    {
+      "id": 10,
+      "name_ar": "مقاطعة موبندي",
+      "name_en": "Mubende",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 103473
+    },
+    {
+      "id": 11,
+      "name_ar": "ليرا",
+      "name_en": "Lira",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 99059
+    },
+    {
+      "id": 12,
+      "name_ar": "مبالي",
+      "name_en": "Mbale",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 96189
+    },
+    {
+      "id": 13,
+      "name_ar": "مقاطعة واكيسو",
+      "name_en": "Wakiso",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 87900
+    },
+    {
+      "id": 14,
+      "name_ar": "إنتيبي",
+      "name_en": "Entebbe",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 69958
+    },
+    {
+      "id": 15,
+      "name_ar": "مقاطعة كامولي",
+      "name_en": "Kamuli",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 67800
+    },
+    {
+      "id": 16,
+      "name_ar": "مؤسسة برمجيات أباتشي",
+      "name_en": "Apac",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 67700
+    },
+    {
+      "id": 17,
+      "name_ar": "بوسيا",
+      "name_en": "Busia",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 64900
+    },
+    {
+      "id": 18,
+      "name_ar": "مقاطعة أروا",
+      "name_en": "Arua",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 61962
+    },
+    {
+      "id": 19,
+      "name_ar": "سوروتي",
+      "name_en": "Soroti",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 60900
+    },
+    {
+      "id": 20,
+      "name_ar": "فورت بورتال",
+      "name_en": "Fort Portal",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 60800
+    },
+    {
+      "id": 21,
+      "name_ar": "إيغانغا",
+      "name_en": "Iganga",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 53870
+    },
+    {
+      "id": 22,
+      "name_ar": "مقاطعة كابالي",
+      "name_en": "Kabale",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 53200
+    },
+    {
+      "id": 23,
+      "name_ar": "ضاحية مبيجي",
+      "name_en": "Mpigi",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 49500
+    },
+    {
+      "id": 24,
+      "name_ar": "مقاطعة لويرو",
+      "name_en": "Luwero",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 49100
+    },
+    {
+      "id": 25,
+      "name_ar": "مقاطعة يومبي",
+      "name_en": "Yumbe",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 47600
+    },
+    {
+      "id": 26,
+      "name_ar": "مقاطعة كيتجوم",
+      "name_en": "Kitgum",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 44604
+    },
+    {
+      "id": 27,
+      "name_ar": "مقاطعة باليسا",
+      "name_en": "Pallisa",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 42300
+    },
+    {
+      "id": 28,
+      "name_ar": "تورورو",
+      "name_en": "Tororo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 41906
+    },
+    {
+      "id": 29,
+      "name_ar": "مقاطعة نيبي",
+      "name_en": "Nebbi",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 41400
+    },
+    {
+      "id": 30,
+      "name_ar": "إقليم كوبوكو",
+      "name_en": "Koboko",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 37825
+    },
+    {
+      "id": 31,
+      "name_ar": "مقاطعة أديوماني",
+      "name_en": "Adjumani",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 37100
+    },
+    {
+      "id": 32,
+      "name_ar": "مقاطعة إيسينجيرو",
+      "name_en": "Isingiro",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 34300
+    },
+    {
+      "id": 33,
+      "name_ar": "مقاطعة كيرياندونغو",
+      "name_en": "Kiryandongo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 31610
+    },
+    {
+      "id": 34,
+      "name_ar": "مقاطعة إيباندا",
+      "name_en": "Ibanda",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 31316
+    },
+    {
+      "id": 35,
+      "name_ar": "محافظة كايونجا",
+      "name_en": "Kayunga",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 30000
+    },
+    {
+      "id": 36,
+      "name_ar": "مقاطعة بوداكا",
+      "name_en": "Budaka",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 29100
+    },
+    {
+      "id": 37,
+      "name_ar": "مقاطعة كيبوكو",
+      "name_en": "Kibuku",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 25000
+    },
+    {
+      "id": 38,
+      "name_ar": "أبيمال غوزمان",
+      "name_en": "Abim",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 24400
+    },
+    {
+      "id": 39,
+      "name_ar": "ضاحية بوتليجا",
+      "name_en": "Butaleja",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 24000
+    },
+    {
+      "id": 40,
+      "name_ar": "ضاحية كينجوجو",
+      "name_en": "Kyenjojo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 23467
+    },
+    {
+      "id": 41,
+      "name_ar": "مقاطعة بويندي",
+      "name_en": "Buyende",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 23039
+    },
+    {
+      "id": 42,
+      "name_ar": "مقاطعة سيرونكو",
+      "name_en": "Sironko",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 18900
+    },
+    {
+      "id": 43,
+      "name_ar": "ضاحية بويكوه",
+      "name_en": "Buikwe",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 18500
+    },
+    {
+      "id": 44,
+      "name_ar": "مقاطعة نامايينغو",
+      "name_en": "Namayingo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 17300
+    },
+    {
+      "id": 45,
+      "name_ar": "مقاطعة مايوج",
+      "name_en": "Mayuge",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 17151
+    },
+    {
+      "id": 46,
+      "name_ar": "مقاطعة كاليرو",
+      "name_en": "Kaliro",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 16796
+    },
+    {
+      "id": 47,
+      "name_ar": "مقاطعة نتونغامو",
+      "name_en": "Ntungamo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 16400
+    },
+    {
+      "id": 48,
+      "name_ar": "مقاطعة موروتو",
+      "name_en": "Moroto",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 16300
+    },
+    {
+      "id": 49,
+      "name_ar": "مقاطعة ليانتوند",
+      "name_en": "Lyantonde",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 16300
+    },
+    {
+      "id": 50,
+      "name_ar": "ضاحية منفوا",
+      "name_en": "Manafwa",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 16000
+    },
+    {
+      "id": 51,
+      "name_ar": "مقاطعة لوينغو",
+      "name_en": "Lwengo",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 15527
+    },
+    {
+      "id": 52,
+      "name_ar": "ولاية غومبي",
+      "name_en": "Gombe",
+      "country_ar": "أوغندا",
+      "country_en": "Uganda",
+      "population": 15196
+    }
+  ],
+  "meta": {
+    "title": "مدن أوغندا — Cities of Uganda (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أوغندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 52 cities in Uganda with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 52 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أوغندا — Cities of Uganda (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أوغندا — Cities of Uganda (Arabic names) — 52 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 52 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

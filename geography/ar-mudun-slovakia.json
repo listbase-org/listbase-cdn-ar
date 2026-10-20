@@ -1,0 +1,656 @@
+{
+  "id": "ar-mudun-slovakia",
+  "name": "مدن سلوفاكيا — Cities of Slovakia (Arabic names)",
+  "title": "مدن سلوفاكيا — Cities of Slovakia (Arabic names)",
+  "description": "قائمة بأسماء مدن سلوفاكيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 75 cities in Slovakia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "براتيسلافا",
+      "name_en": "Bratislava",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 475503
+    },
+    {
+      "id": 2,
+      "name_ar": "كوشيتسه",
+      "name_en": "Kosice",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 229040
+    },
+    {
+      "id": 3,
+      "name_ar": "بريشوف",
+      "name_en": "Presov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 84824
+    },
+    {
+      "id": 4,
+      "name_ar": "جيلينا",
+      "name_en": "Zilina",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 82656
+    },
+    {
+      "id": 5,
+      "name_ar": "نيترا",
+      "name_en": "Nitra",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 77610
+    },
+    {
+      "id": 6,
+      "name_ar": "بانسكا بيستريتسا",
+      "name_en": "Banska Bystrica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 76018
+    },
+    {
+      "id": 7,
+      "name_ar": "ترنافا",
+      "name_en": "Trnava",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 63803
+    },
+    {
+      "id": 8,
+      "name_ar": "ترنتشين",
+      "name_en": "Trencin",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 54740
+    },
+    {
+      "id": 9,
+      "name_ar": "مارتن",
+      "name_en": "Martin",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 51139
+    },
+    {
+      "id": 10,
+      "name_ar": "بوبراد",
+      "name_en": "Poprad",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 49855
+    },
+    {
+      "id": 11,
+      "name_ar": "بريفيدزا",
+      "name_en": "Prievidza",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 45017
+    },
+    {
+      "id": 12,
+      "name_ar": "زفولن",
+      "name_en": "Zvolen",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 39844
+    },
+    {
+      "id": 13,
+      "name_ar": "نوفي زامكي",
+      "name_en": "Nove Zamky",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 37791
+    },
+    {
+      "id": 14,
+      "name_ar": "بوفاجسكا بيستريتسا",
+      "name_en": "Povazska Bystrica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 37706
+    },
+    {
+      "id": 15,
+      "name_ar": "ميخالوفتسى",
+      "name_en": "Michalovce",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 36704
+    },
+    {
+      "id": 16,
+      "name_ar": "سبيشسكا نوفا فيس",
+      "name_en": "Spisska Nova Ves",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 35431
+    },
+    {
+      "id": 17,
+      "name_ar": "كومارنو",
+      "name_en": "Komarno",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 32287
+    },
+    {
+      "id": 18,
+      "name_ar": "ليفيتسا",
+      "name_en": "Levice",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 31974
+    },
+    {
+      "id": 19,
+      "name_ar": "هوميني",
+      "name_en": "Humenne",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 31359
+    },
+    {
+      "id": 20,
+      "name_ar": "ليبتوفسكي ميكولاش",
+      "name_en": "Liptovsky Mikulas",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 30522
+    },
+    {
+      "id": 21,
+      "name_ar": "برديوف",
+      "name_en": "Bardejov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 30267
+    },
+    {
+      "id": 22,
+      "name_ar": "روجومبيروك",
+      "name_en": "Ruzomberok",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 27407
+    },
+    {
+      "id": 23,
+      "name_ar": "بييشتاني",
+      "name_en": "Piest'any",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 26668
+    },
+    {
+      "id": 24,
+      "name_ar": "لوتشينيتس",
+      "name_en": "Lucenec",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 25902
+    },
+    {
+      "id": 25,
+      "name_ar": "توبولتشاني",
+      "name_en": "Topol'cany",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 25249
+    },
+    {
+      "id": 26,
+      "name_ar": "بيزينوك",
+      "name_en": "Pezinok",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 24900
+    },
+    {
+      "id": 27,
+      "name_ar": "دونيسكا ستريدا",
+      "name_en": "Dunajska Streda",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 23044
+    },
+    {
+      "id": 28,
+      "name_ar": "تريبيشوف",
+      "name_en": "Trebisov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 22890
+    },
+    {
+      "id": 29,
+      "name_ar": "تشادتسا",
+      "name_en": "Cadca",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 22580
+    },
+    {
+      "id": 30,
+      "name_ar": "ريمافسكا سوبوتا",
+      "name_en": "Rimavska Sobota",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 22048
+    },
+    {
+      "id": 31,
+      "name_ar": "دوبنيتسا ناد فاهوم",
+      "name_en": "Dubnica nad Vahom",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 21805
+    },
+    {
+      "id": 32,
+      "name_ar": "بارتيزانسكى",
+      "name_en": "Partizanske",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 21439
+    },
+    {
+      "id": 33,
+      "name_ar": "كلوريد الأمونيوم",
+      "name_en": "Sal'a",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 21183
+    },
+    {
+      "id": 34,
+      "name_ar": "فرانوف ناد توبلوا",
+      "name_en": "Vranov nad Topl'ou",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 20702
+    },
+    {
+      "id": 35,
+      "name_ar": "هلوهوفيتس",
+      "name_en": "Hlohovec",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 20556
+    },
+    {
+      "id": 36,
+      "name_ar": "شيخة",
+      "name_en": "Senec",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 20116
+    },
+    {
+      "id": 37,
+      "name_ar": "برزنو",
+      "name_en": "Brezno",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 19790
+    },
+    {
+      "id": 38,
+      "name_ar": "نوفى ميستو ناد فاهوم",
+      "name_en": "Nove Mesto nad Vahom",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 19644
+    },
+    {
+      "id": 39,
+      "name_ar": "سينيتسا",
+      "name_en": "Senica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 19430
+    },
+    {
+      "id": 40,
+      "name_ar": "مالاتسكي",
+      "name_en": "Malacky",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 18804
+    },
+    {
+      "id": 41,
+      "name_ar": "سنينا",
+      "name_en": "Snina",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 18712
+    },
+    {
+      "id": 42,
+      "name_ar": "دولني كوبين",
+      "name_en": "Dolny Kubin",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 18095
+    },
+    {
+      "id": 43,
+      "name_ar": "روجنافا",
+      "name_en": "Roznava",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 17569
+    },
+    {
+      "id": 44,
+      "name_ar": "بوخوف",
+      "name_en": "Puchov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 17068
+    },
+    {
+      "id": 45,
+      "name_ar": "جيار ناد هرونوم",
+      "name_en": "Ziar nad Hronom",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 16879
+    },
+    {
+      "id": 46,
+      "name_ar": "بانوفتس ناد بيبرافو",
+      "name_en": "Banovce nad Bebravou",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 16614
+    },
+    {
+      "id": 47,
+      "name_ar": "هاندلوفا",
+      "name_en": "Handlova",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 16199
+    },
+    {
+      "id": 48,
+      "name_ar": "سكاليتسا",
+      "name_en": "Skalica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 15471
+    },
+    {
+      "id": 49,
+      "name_ar": "كيجماروك",
+      "name_en": "Kezmarok",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 15304
+    },
+    {
+      "id": 50,
+      "name_ar": "غالنتا",
+      "name_en": "Galanta",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 15277
+    },
+    {
+      "id": 51,
+      "name_ar": "كيسوتسكى نوفى ميستو",
+      "name_en": "Kysucke Nove Mesto",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 14660
+    },
+    {
+      "id": 52,
+      "name_ar": "ليفوتشا",
+      "name_en": "Levoca",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 14256
+    },
+    {
+      "id": 53,
+      "name_ar": "ديتفا",
+      "name_en": "Detva",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 13955
+    },
+    {
+      "id": 54,
+      "name_ar": "شامورين",
+      "name_en": "Samorin",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 13566
+    },
+    {
+      "id": 55,
+      "name_ar": "ستوبافا",
+      "name_en": "Stupava",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 12685
+    },
+    {
+      "id": 56,
+      "name_ar": "سابينوف",
+      "name_en": "Sabinov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 12349
+    },
+    {
+      "id": 57,
+      "name_ar": "زلاتى مورافتسى",
+      "name_en": "Zlate Moravce",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 11946
+    },
+    {
+      "id": 58,
+      "name_ar": "بيتتشا",
+      "name_en": "Bytca",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 11535
+    },
+    {
+      "id": 59,
+      "name_ar": "روفيتسا",
+      "name_en": "Revuca",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 11484
+    },
+    {
+      "id": 60,
+      "name_ar": "هليتش",
+      "name_en": "Holic",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 11214
+    },
+    {
+      "id": 61,
+      "name_ar": "مييافا",
+      "name_en": "Myjava",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10985
+    },
+    {
+      "id": 62,
+      "name_ar": "كلاروفو",
+      "name_en": "Kolarovo",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10572
+    },
+    {
+      "id": 63,
+      "name_ar": "نوفا دوبنيتسا",
+      "name_en": "Nova Dubnica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10381
+    },
+    {
+      "id": 64,
+      "name_ar": "مولدوفا ناد بودفوا",
+      "name_en": "Moldava nad Bodvou",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10305
+    },
+    {
+      "id": 65,
+      "name_ar": "سفيدنيك",
+      "name_en": "Svidnik",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10168
+    },
+    {
+      "id": 66,
+      "name_ar": "ستروبكوف",
+      "name_en": "Stropkov",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 10067
+    },
+    {
+      "id": 67,
+      "name_ar": "فيلاكوفو",
+      "name_en": "Fil'akovo",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 9949
+    },
+    {
+      "id": 68,
+      "name_ar": "شتوروفو",
+      "name_en": "Sturovo",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 9777
+    },
+    {
+      "id": 69,
+      "name_ar": "بانسكا شتيفنيتسا",
+      "name_en": "Banska Stiavnica",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 9628
+    },
+    {
+      "id": 70,
+      "name_ar": "بيرنولاكوفو",
+      "name_en": "Bernolakovo",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8801
+    },
+    {
+      "id": 71,
+      "name_ar": "فيلكي كابوشاني",
+      "name_en": "Vel'ke Kapusany",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8799
+    },
+    {
+      "id": 72,
+      "name_ar": "كرمباخي",
+      "name_en": "Krompachy",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8739
+    },
+    {
+      "id": 73,
+      "name_ar": "ستارا تورا",
+      "name_en": "Stara Tura",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8724
+    },
+    {
+      "id": 74,
+      "name_ar": "فرابلي",
+      "name_en": "Vrable",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8593
+    },
+    {
+      "id": 75,
+      "name_ar": "سيتسوفس",
+      "name_en": "Secovce",
+      "country_ar": "سلوفاكيا",
+      "country_en": "Slovakia",
+      "population": 8526
+    }
+  ],
+  "meta": {
+    "title": "مدن سلوفاكيا — Cities of Slovakia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن سلوفاكيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 75 cities in Slovakia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 75 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن سلوفاكيا — Cities of Slovakia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن سلوفاكيا — Cities of Slovakia (Arabic names) — 75 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 75 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "id": "ar-ar-riyadh-mataarat",
+  "name": "مطارات — منطقة الرياض",
+  "title": "مطارات — منطقة الرياض",
+  "description": "المطارات والمدارج في منطقة الرياض (المملكة العربية السعودية / SA) — رموز ICAO و IATA، المدينة، الإحداثيات (WGS84)، الارتفاع والمنطقة الزمنية. مقطع من قائمة المطارات الوطنية الرئيسية `ar-mataarat` مفلتر على Riyadh Region. (Airports in Riyadh Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "OE46",
+      "iata": "",
+      "name": "Al Lidem Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2225,
+      "latitude": 20.4759,
+      "longitude": 44.7575,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OE47",
+      "iata": "",
+      "name": "Al Kharj",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 0,
+      "latitude": 24.06072,
+      "longitude": 47.4108,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OE51",
+      "iata": "",
+      "name": "Al Kharj East Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1650,
+      "latitude": 24.0515,
+      "longitude": 47.6542,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OE52",
+      "iata": "",
+      "name": "Al Artawiyah South Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1900,
+      "latitude": 26.6116,
+      "longitude": 45.322,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OE53",
+      "iata": "",
+      "name": "King Abdul Aziz Military Academy Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2420,
+      "latitude": 24.9421,
+      "longitude": 46.3912,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OE54",
+      "iata": "",
+      "name": "Hafar Al Atk Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1970,
+      "latitude": 25.9934,
+      "longitude": 46.5367,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEDM",
+      "iata": "DWD",
+      "name": "Al Dawadmi Airport",
+      "city": "Al Dawadmi",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 3031,
+      "latitude": 24.449722,
+      "longitude": 44.121111,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEHW",
+      "iata": "",
+      "name": "Hawtah Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2091,
+      "latitude": 22.9678,
+      "longitude": 46.8995,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEPC",
+      "iata": "",
+      "name": "Pump Station 3 Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1740,
+      "latitude": 25.1745,
+      "longitude": 47.4884,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEPF",
+      "iata": "",
+      "name": "Pump Station 6 Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2530,
+      "latitude": 24.7103,
+      "longitude": 44.9645,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEPI",
+      "iata": "",
+      "name": "Pump Station 9 Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 3000,
+      "latitude": 24.2761,
+      "longitude": 42.1437,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEPS",
+      "iata": "AKH",
+      "name": "Prince Sultan Air Base",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1651,
+      "latitude": 24.0627,
+      "longitude": 47.5805,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OERY",
+      "iata": "XXN",
+      "name": "Riyadh Air Base",
+      "city": "Riyadh",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2082,
+      "latitude": 24.7098,
+      "longitude": 46.7252,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OESL",
+      "iata": "SLF",
+      "name": "Sulayel Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2021,
+      "latitude": 20.4647,
+      "longitude": 45.6196,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OETH",
+      "iata": "",
+      "name": "Thumamah Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1870,
+      "latitude": 25.213,
+      "longitude": 46.641,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEWD",
+      "iata": "WAE",
+      "name": "Wadi Al Dawasir Airport",
+      "city": "",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2062,
+      "latitude": 20.5043,
+      "longitude": 45.1996,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEZL",
+      "iata": "ZUL",
+      "name": "Zilfi Airport",
+      "city": "Zilfi",
+      "subdivision": "Riyadh Region",
+      "subdivision_native": "منطقة الرياض",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 1900,
+      "latitude": 26.35,
+      "longitude": 44.833,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "مطارات — منطقة الرياض - تحميل مجاني",
+    "description": "المطارات والمدارج في منطقة الرياض (المملكة العربية السعودية / SA) — رموز ICAO و IATA، المدينة، الإحداثيات (WGS84)، الارتفاع والمنطقة الزمنية. مقطع من قائمة المطارات الوطنية الرئيسية `ar-mataarat` مفلتر على Riyadh Region. (Airports in Riyadh Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) يحتوي على 17 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مطارات — منطقة الرياض | ListBase",
+    "seo_description": "تحميل مطارات — منطقة الرياض — 17 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 17 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

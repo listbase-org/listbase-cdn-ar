@@ -1,0 +1,133 @@
+{
+  "id": "ar-misr-beni-suef-mudun",
+  "name": "مدن ومراكز محافظة بني سويف (Cities & Towns of Beni Suef)",
+  "title": "مدن ومراكز محافظة بني سويف (Cities & Towns of Beni Suef)",
+  "description": "قائمة مدن ومراكز محافظة بني سويف في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Beni Suef governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "237",
+      "name_ar": "إهناسيا",
+      "name_en": "ehnasia",
+      "name_long_ar": "إهناسيا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "240",
+      "name_ar": "الفشن",
+      "name_en": "al-feshn",
+      "name_long_ar": "الفشن، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "234",
+      "name_ar": "الواسطى",
+      "name_en": "al-wasty",
+      "name_long_ar": "الواسطى، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "238",
+      "name_ar": "ببا",
+      "name_en": "beba",
+      "name_long_ar": "ببا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "241",
+      "name_ar": "بني سويف الجديدة",
+      "name_en": "new-beni-suef",
+      "name_long_ar": "بني سويف الجديدة، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "239",
+      "name_ar": "سمسطا",
+      "name_en": "samasta",
+      "name_long_ar": "سمسطا، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "235",
+      "name_ar": "مدينة بني سويف",
+      "name_en": "beni-suef-city",
+      "name_long_ar": "مدينة بني سويف، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    },
+    {
+      "id": "236",
+      "name_ar": "ناصر",
+      "name_en": "nasser",
+      "name_long_ar": "ناصر، بني سويف",
+      "muhafaza_ar": "بني سويف",
+      "muhafaza_en": "beni-suef",
+      "muhafaza_id": 72
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة بني سويف (Cities & Towns of Beni Suef) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة بني سويف في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Beni Suef governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 8 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة بني سويف (Cities & Towns of Beni Suef) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة بني سويف (Cities & Towns of Beni Suef) — 8 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 8 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

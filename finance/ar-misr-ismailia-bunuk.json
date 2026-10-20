@@ -1,0 +1,149 @@
+{
+  "id": "ar-misr-ismailia-bunuk",
+  "name": "بنوك Ismailia — مصر — رموز سويفت (Banks of Ismailia, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Ismailia — مصر — رموز سويفت (Banks of Ismailia, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ismailia (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Ismailia, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ISMAILIA",
+      "branch": "(EL SALHIA)",
+      "swift_code": "BCAIEGCX560"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ISMAILIA",
+      "branch": "(ISMAILIA BRANCH)",
+      "swift_code": "BCAIEGCX320"
+    },
+    {
+      "id": 3,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "ISMAILIA",
+      "branch": "(ISMAILIA)",
+      "swift_code": "MRBAEGCX018"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ISMAILIA",
+      "branch": "(ISMAILIA)",
+      "swift_code": "CIBEEGCX108"
+    },
+    {
+      "id": 5,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "ISMAILIA",
+      "branch": "",
+      "swift_code": "ARLBEGCAISM"
+    },
+    {
+      "id": 6,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(ISMAILIA BRANCH)",
+      "swift_code": "FIEGEGCXISM"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(AL THALATHINY BRANCH)",
+      "swift_code": "NBEGEGCX358"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(EL ESMAELIA BRANCH)",
+      "swift_code": "NBEGEGCX300"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(ELTAL ELKEBEER BRANCH)",
+      "swift_code": "NBEGEGCX303"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(FAYED BRANCH)",
+      "swift_code": "NBEGEGCX302"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(HAY ELSALAM BRANCH)",
+      "swift_code": "NBEGEGCX304"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ISMAILIA",
+      "branch": "(SUEZ CANAL UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX301"
+    },
+    {
+      "id": 13,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "ISMAILIA",
+      "branch": "(ISMAILIA BRANCH)",
+      "swift_code": "BDACEGCA064"
+    },
+    {
+      "id": 14,
+      "bank": "SUEZ CANAL BANK",
+      "city": "ISMAILIA",
+      "branch": "(ISMALIA BRANCH)",
+      "swift_code": "SUCAEGCXISM"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Ismailia — مصر — رموز سويفت (Banks of Ismailia, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ismailia (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Ismailia, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Ismailia — مصر — رموز سويفت (Banks of Ismailia, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Ismailia — مصر — رموز سويفت (Banks of Ismailia, Egypt — SWIFT/BIC codes) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

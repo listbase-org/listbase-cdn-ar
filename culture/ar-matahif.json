@@ -1,0 +1,3139 @@
+{
+  "id": "ar-matahif",
+  "name": "متاحف في الدول العربية (Museums in Arab countries)",
+  "title": "متاحف في الدول العربية (Museums in Arab countries)",
+  "description": "قائمة من 342 متحفًا في الدول العربية مستخرجة من OpenStreetMap، تشمل الاسم والمدينة والإحداثيات والموقع الإلكتروني.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "canissa",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.614353,
+      "longitude": 2.872672,
+      "website": ""
+    },
+    {
+      "name": "historic french Fort",
+      "name_en": "",
+      "city": "Tamanrasset",
+      "country": "Algeria",
+      "latitude": 22.787938,
+      "longitude": 5.526743,
+      "website": ""
+    },
+    {
+      "name": "La mairie",
+      "name_en": "",
+      "city": "Bordj Zemoura",
+      "country": "Algeria",
+      "latitude": 36.406834,
+      "longitude": 4.895231,
+      "website": ""
+    },
+    {
+      "name": "Menuiserie de Bois",
+      "name_en": "",
+      "city": "Chemini",
+      "country": "Algeria",
+      "latitude": 36.667156,
+      "longitude": 4.513155,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.614018,
+      "longitude": 2.870151,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.580603,
+      "longitude": 2.87111,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.598912,
+      "longitude": 2.887786,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.604206,
+      "longitude": 2.87558,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.590243,
+      "longitude": 2.889704,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.582758,
+      "longitude": 2.891792,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.607675,
+      "longitude": 2.880932,
+      "website": ""
+    },
+    {
+      "name": "Mosquée",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.587536,
+      "longitude": 2.874288,
+      "website": ""
+    },
+    {
+      "name": "mueseme",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.583651,
+      "longitude": 2.884912,
+      "website": ""
+    },
+    {
+      "name": "Municipalité Touahria Musée",
+      "name_en": "",
+      "city": "Mostaganem",
+      "country": "Algeria",
+      "latitude": 35.810478,
+      "longitude": 0.207201,
+      "website": ""
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Skikda",
+      "country": "Algeria",
+      "latitude": 36.88328,
+      "longitude": 6.905329,
+      "website": ""
+    },
+    {
+      "name": "Musée",
+      "name_en": "",
+      "city": "Béchar",
+      "country": "Algeria",
+      "latitude": 31.554033,
+      "longitude": -2.42635,
+      "website": ""
+    },
+    {
+      "name": "Musée arabe d’archéologie",
+      "name_en": "",
+      "city": "Tipasa",
+      "country": "Algeria",
+      "latitude": 36.59175,
+      "longitude": 2.458553,
+      "website": ""
+    },
+    {
+      "name": "Musée d'Art et d'Histoire de La ville de Tlemcen",
+      "name_en": "",
+      "city": "Tlemcen",
+      "country": "Algeria",
+      "latitude": 34.88293,
+      "longitude": -1.309958,
+      "website": ""
+    },
+    {
+      "name": "Musée d'Ell Moudjahid",
+      "name_en": "Museum of El Moudjahid",
+      "city": "Tissemsilt",
+      "country": "Algeria",
+      "latitude": 35.74982,
+      "longitude": 1.546607,
+      "website": ""
+    },
+    {
+      "name": "Musée Dar El Kaid",
+      "name_en": "",
+      "city": "Mostaganem",
+      "country": "Algeria",
+      "latitude": 35.936324,
+      "longitude": 0.092938,
+      "website": ""
+    },
+    {
+      "name": "Musée de Guemar",
+      "name_en": "",
+      "city": "Reguiba",
+      "country": "Algeria",
+      "latitude": 33.48376,
+      "longitude": 6.797871,
+      "website": ""
+    },
+    {
+      "name": "Musée de l'Eau",
+      "name_en": "",
+      "city": "El Kseur",
+      "country": "Algeria",
+      "latitude": 36.75203,
+      "longitude": 4.896197,
+      "website": "http://toudja.org/"
+    },
+    {
+      "name": "Musée de la Radio Algérienne",
+      "name_en": "",
+      "city": "Algiers",
+      "country": "Algeria",
+      "latitude": 36.765185,
+      "longitude": 3.05519,
+      "website": "radioalgerie.dz"
+    },
+    {
+      "name": "Musée de Tizi-Ouzou",
+      "name_en": "",
+      "city": "Tizi Ouzou",
+      "country": "Algeria",
+      "latitude": 36.712531,
+      "longitude": 4.037623,
+      "website": ""
+    },
+    {
+      "name": "Musée des Antiquités",
+      "name_en": "",
+      "city": "Algiers",
+      "country": "Algeria",
+      "latitude": 36.762019,
+      "longitude": 3.046532,
+      "website": ""
+    },
+    {
+      "name": "Musée des Martyrs d'Iferhounnene",
+      "name_en": "",
+      "city": "’Aïn el Hammam",
+      "country": "Algeria",
+      "latitude": 36.537864,
+      "longitude": 4.365255,
+      "website": ""
+    },
+    {
+      "name": "Musée des Ruines d'Hippone",
+      "name_en": "",
+      "city": "Annaba",
+      "country": "Algeria",
+      "latitude": 36.882034,
+      "longitude": 7.751782,
+      "website": ""
+    },
+    {
+      "name": "Musée du Martyr",
+      "name_en": "",
+      "city": "Akbou",
+      "country": "Algeria",
+      "latitude": 36.46419,
+      "longitude": 4.536158,
+      "website": ""
+    },
+    {
+      "name": "Musée du Moudjahid",
+      "name_en": "",
+      "city": "Mostaganem",
+      "country": "Algeria",
+      "latitude": 35.930894,
+      "longitude": 0.078014,
+      "website": ""
+    },
+    {
+      "name": "Musée du Moudjahid",
+      "name_en": "",
+      "city": "Souk Ahras",
+      "country": "Algeria",
+      "latitude": 36.287215,
+      "longitude": 7.967845,
+      "website": ""
+    },
+    {
+      "name": "Musée du Parc National de Gouraya",
+      "name_en": "",
+      "city": "Bejaïa",
+      "country": "Algeria",
+      "latitude": 36.749058,
+      "longitude": 5.05182,
+      "website": ""
+    },
+    {
+      "name": "Musée El Moudjahid",
+      "name_en": "",
+      "city": "Sidi Mérouane",
+      "country": "Algeria",
+      "latitude": 36.753796,
+      "longitude": 6.27689,
+      "website": ""
+    },
+    {
+      "name": "musée jaram",
+      "name_en": "",
+      "city": "El Achir",
+      "country": "Algeria",
+      "latitude": 36.063713,
+      "longitude": 4.619873,
+      "website": ""
+    },
+    {
+      "name": "Musée regional de chlef",
+      "name_en": "",
+      "city": "Chlef",
+      "country": "Algeria",
+      "latitude": 36.160996,
+      "longitude": 1.333717,
+      "website": ""
+    },
+    {
+      "name": "Musée Sidi Bellahsen",
+      "name_en": "",
+      "city": "Tlemcen",
+      "country": "Algeria",
+      "latitude": 34.8829,
+      "longitude": -1.31123,
+      "website": ""
+    },
+    {
+      "name": "Prison Rouge (Musée du Moudjahid)",
+      "name_en": "",
+      "city": "Rouached",
+      "country": "Algeria",
+      "latitude": 36.408581,
+      "longitude": 5.943989,
+      "website": ""
+    },
+    {
+      "name": "Tajma3t l Qayus Historique",
+      "name_en": "",
+      "city": "Ighram",
+      "country": "Algeria",
+      "latitude": 36.510862,
+      "longitude": 4.405628,
+      "website": ""
+    },
+    {
+      "name": "Takhelwit n Fadma n Soumer",
+      "name_en": "",
+      "city": "’Aïn el Hammam",
+      "country": "Algeria",
+      "latitude": 36.512319,
+      "longitude": 4.363208,
+      "website": ""
+    },
+    {
+      "name": "Tamenfoust",
+      "name_en": "",
+      "city": "Aïn Taya",
+      "country": "Algeria",
+      "latitude": 36.807217,
+      "longitude": 3.230907,
+      "website": ""
+    },
+    {
+      "name": "taverne de corsaire Sidi Fredj",
+      "name_en": "",
+      "city": "Zeralda",
+      "country": "Algeria",
+      "latitude": 36.764721,
+      "longitude": 2.846915,
+      "website": ""
+    },
+    {
+      "name": "Terrase El Mechouar",
+      "name_en": "",
+      "city": "Tlemcen",
+      "country": "Algeria",
+      "latitude": 34.881568,
+      "longitude": -1.308945,
+      "website": ""
+    },
+    {
+      "name": "البرج",
+      "name_en": "",
+      "city": "Aflou",
+      "country": "Algeria",
+      "latitude": 34.112626,
+      "longitude": 2.100758,
+      "website": ""
+    },
+    {
+      "name": "البلدية المركزية مسعد",
+      "name_en": "",
+      "city": "Messaad",
+      "country": "Algeria",
+      "latitude": 34.154096,
+      "longitude": 3.503644,
+      "website": ""
+    },
+    {
+      "name": "بوشامة",
+      "name_en": "Bouchama",
+      "city": "Baraki",
+      "country": "Algeria",
+      "latitude": 36.660533,
+      "longitude": 3.151269,
+      "website": ""
+    },
+    {
+      "name": "لالا ساهلا / بودوايا / ⵍⴰⵍⵍⵣ ⵙⴰⵀⵍⴰ / ⴱⵓⴷⵡⴰⵢⴰ / lalla sahla / budwayz",
+      "name_en": "",
+      "city": "Berriane",
+      "country": "Algeria",
+      "latitude": 32.827594,
+      "longitude": 3.765015,
+      "website": ""
+    },
+    {
+      "name": "متحف المجاهد",
+      "name_en": "",
+      "city": "Djelfa",
+      "country": "Algeria",
+      "latitude": 34.666967,
+      "longitude": 3.24908,
+      "website": ""
+    },
+    {
+      "name": "متحف المجاهد",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 32.269004,
+      "longitude": 3.631585,
+      "website": ""
+    },
+    {
+      "name": "متحف المجاهد",
+      "name_en": "",
+      "city": "’Aïn el Melh",
+      "country": "Algeria",
+      "latitude": 35.214771,
+      "longitude": 4.180475,
+      "website": ""
+    },
+    {
+      "name": "متحف بني عباس",
+      "name_en": "",
+      "city": "Béchar",
+      "country": "Algeria",
+      "latitude": 30.129233,
+      "longitude": -2.176692,
+      "website": ""
+    },
+    {
+      "name": "مسجد",
+      "name_en": "",
+      "city": "Bougaa",
+      "country": "Algeria",
+      "latitude": 36.396409,
+      "longitude": 5.071842,
+      "website": ""
+    },
+    {
+      "name": "مسجد",
+      "name_en": "",
+      "city": "Bir el Ater",
+      "country": "Algeria",
+      "latitude": 34.735833,
+      "longitude": 8.062042,
+      "website": ""
+    },
+    {
+      "name": "مسجد الامام",
+      "name_en": "",
+      "city": "Ghardaïa",
+      "country": "Algeria",
+      "latitude": 32.354074,
+      "longitude": 3.798594,
+      "website": ""
+    },
+    {
+      "name": "مسجد الهدى",
+      "name_en": "",
+      "city": "El Hadjar",
+      "country": "Algeria",
+      "latitude": 36.757073,
+      "longitude": 7.741506,
+      "website": ""
+    },
+    {
+      "name": "مسجد بلال بن رباح",
+      "name_en": "",
+      "city": "Telerghma",
+      "country": "Algeria",
+      "latitude": 36.109521,
+      "longitude": 6.346021,
+      "website": ""
+    },
+    {
+      "name": "مصلى العيد",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.581948,
+      "longitude": 2.893693,
+      "website": ""
+    },
+    {
+      "name": "مصلى العيد حاسي القارة",
+      "name_en": "",
+      "city": "Metlili Chaamba",
+      "country": "Algeria",
+      "latitude": 30.555797,
+      "longitude": 2.921346,
+      "website": ""
+    },
+    {
+      "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+      "name_en": "",
+      "city": "Al Muharraq",
+      "country": "Bahrain",
+      "latitude": 26.253898,
+      "longitude": 50.610713,
+      "website": ""
+    },
+    {
+      "name": "Rashid Al-Oraifi Museum",
+      "name_en": "",
+      "city": "Al Muharraq",
+      "country": "Bahrain",
+      "latitude": 26.264148,
+      "longitude": 50.617878,
+      "website": ""
+    },
+    {
+      "name": "Musée des Comores",
+      "name_en": "",
+      "city": "Moroni",
+      "country": "Comoros",
+      "latitude": -11.702837,
+      "longitude": 43.255391,
+      "website": ""
+    },
+    {
+      "name": "Egyptian Textile Museum",
+      "name_en": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.049967,
+      "longitude": 31.261376,
+      "website": "https://www.facebook.com/EgyptianTextileMuseum"
+    },
+    {
+      "name": "ENP",
+      "name_en": "",
+      "city": "Būr Safājah",
+      "country": "Egypt",
+      "latitude": 26.797537,
+      "longitude": 33.940802,
+      "website": ""
+    },
+    {
+      "name": "Memphis Museum",
+      "name_en": "",
+      "city": "Ḩalwān",
+      "country": "Egypt",
+      "latitude": 29.849444,
+      "longitude": 31.253325,
+      "website": ""
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Saint Catherine",
+      "country": "Egypt",
+      "latitude": 28.556174,
+      "longitude": 33.976111,
+      "website": ""
+    },
+    {
+      "name": "Rokn Farouk",
+      "name_en": "",
+      "city": "Ḩalwān",
+      "country": "Egypt",
+      "latitude": 29.847038,
+      "longitude": 31.294831,
+      "website": ""
+    },
+    {
+      "name": "Sand museum",
+      "name_en": "",
+      "city": "Makadi Bay",
+      "country": "Egypt",
+      "latitude": 27.100084,
+      "longitude": 33.824759,
+      "website": ""
+    },
+    {
+      "name": "Suzan Mubarak Museum for Children",
+      "name_en": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.102188,
+      "longitude": 31.336141,
+      "website": ""
+    },
+    {
+      "name": "Talaat Harb Culture Center",
+      "name_en": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.023836,
+      "longitude": 31.252412,
+      "website": ""
+    },
+    {
+      "name": "The Carriage Museum",
+      "name_en": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.029049,
+      "longitude": 31.263645,
+      "website": ""
+    },
+    {
+      "name": "Villa Fouad Al-lakwah",
+      "name_en": "",
+      "city": "Al Khānkah",
+      "country": "Egypt",
+      "latitude": 30.058318,
+      "longitude": 31.459125,
+      "website": ""
+    },
+    {
+      "name": "Wax museum",
+      "name_en": "",
+      "city": "Ḩalwān",
+      "country": "Egypt",
+      "latitude": 29.860196,
+      "longitude": 31.325709,
+      "website": ""
+    },
+    {
+      "name": "Wissa Wassef Art Center",
+      "name_en": "",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 29.969203,
+      "longitude": 31.176465,
+      "website": ""
+    },
+    {
+      "name": "القرية الفرعونية",
+      "name_en": "Pharaonic Village",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 29.997407,
+      "longitude": 31.214902,
+      "website": ""
+    },
+    {
+      "name": "المتحف المصري الكبير  الجديد",
+      "name_en": "Egyptian Musem",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 29.993576,
+      "longitude": 31.118406,
+      "website": ""
+    },
+    {
+      "name": "المتخف الجيولوجي المصري",
+      "name_en": "Egyptian Geological Museum",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 29.996233,
+      "longitude": 31.228731,
+      "website": ""
+    },
+    {
+      "name": "خان الخليلي و ش الحسين",
+      "name_en": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.047772,
+      "longitude": 31.261014,
+      "website": ""
+    },
+    {
+      "name": "متحف أم كلثوم",
+      "name_en": "Om Kalthom Museum",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 30.007622,
+      "longitude": 31.224884,
+      "website": ""
+    },
+    {
+      "name": "متحف السويس القومى",
+      "name_en": "Suez National Museum",
+      "city": "Suez",
+      "country": "Egypt",
+      "latitude": 29.955085,
+      "longitude": 32.567009,
+      "website": ""
+    },
+    {
+      "name": "متحف جاير أندرسون",
+      "name_en": "Gayer-Anderson Museum",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.02838,
+      "longitude": 31.250726,
+      "website": ""
+    },
+    {
+      "name": "متحف كهف رومل",
+      "name_en": "Rommel Cave Museum",
+      "city": "Mersa Matruh",
+      "country": "Egypt",
+      "latitude": 31.36562,
+      "longitude": 27.248435,
+      "website": ""
+    },
+    {
+      "name": "متحف محمود خليل",
+      "name_en": "Mahmoud Khaleel",
+      "city": "Al Jīzah",
+      "country": "Egypt",
+      "latitude": 30.035582,
+      "longitude": 31.219253,
+      "website": ""
+    },
+    {
+      "name": "مركز زوار محمية سانت كاترين",
+      "name_en": "St Catherine Protectorate Visitor Center",
+      "city": "Saint Catherine",
+      "country": "Egypt",
+      "latitude": 28.567151,
+      "longitude": 33.966779,
+      "website": ""
+    },
+    {
+      "name": "مسلة المطرية",
+      "name_en": "Masallat Al-Matareya",
+      "city": "Cairo",
+      "country": "Egypt",
+      "latitude": 30.129404,
+      "longitude": 31.307481,
+      "website": ""
+    },
+    {
+      "name": "#تلعفر_تتحرر",
+      "name_en": "",
+      "city": "Sinjār",
+      "country": "Iraq",
+      "latitude": 36.366003,
+      "longitude": 42.436835,
+      "website": ""
+    },
+    {
+      "name": "#تلعفر_نصرنا_القادم",
+      "name_en": "",
+      "city": "Sinjār",
+      "country": "Iraq",
+      "latitude": 36.37996,
+      "longitude": 42.437373,
+      "website": ""
+    },
+    {
+      "name": ",جامع قادربله",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.175977,
+      "longitude": 44.018655,
+      "website": ""
+    },
+    {
+      "name": "Amna Suraka Museum",
+      "name_en": "",
+      "city": "As Sulaymānīyah",
+      "country": "Iraq",
+      "latitude": 35.562235,
+      "longitude": 45.425364,
+      "website": ""
+    },
+    {
+      "name": "Art Gallery",
+      "name_en": "",
+      "city": "Dihok",
+      "country": "Iraq",
+      "latitude": 36.864981,
+      "longitude": 42.995045,
+      "website": ""
+    },
+    {
+      "name": "Baghdad Museum",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.312763,
+      "longitude": 44.361978,
+      "website": ""
+    },
+    {
+      "name": "Erbil Civilization Museum",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.177372,
+      "longitude": 44.013388,
+      "website": ""
+    },
+    {
+      "name": "Ibn Khalakan Museum",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.186829,
+      "longitude": 44.010583,
+      "website": ""
+    },
+    {
+      "name": "Museum of National Costumes and Folklore",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.331385,
+      "longitude": 44.400869,
+      "website": ""
+    },
+    {
+      "name": "Museum of Popular Heritage Costumes and Folklore",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.331627,
+      "longitude": 44.400461,
+      "website": ""
+    },
+    {
+      "name": "mzgawty",
+      "name_en": "Haji Jamal Haji Faraj Mosque",
+      "city": "As Sulaymānīyah",
+      "country": "Iraq",
+      "latitude": 35.559677,
+      "longitude": 45.419376,
+      "website": ""
+    },
+    {
+      "name": "Qachakh culture museum",
+      "name_en": "",
+      "city": "Dihok",
+      "country": "Iraq",
+      "latitude": 36.873102,
+      "longitude": 42.988836,
+      "website": ""
+    },
+    {
+      "name": "Slemani Museum مۆزەخانەی سلێمانی",
+      "name_en": "",
+      "city": "As Sulaymānīyah",
+      "country": "Iraq",
+      "latitude": 35.557599,
+      "longitude": 45.425821,
+      "website": "http://slemanimuseum.org"
+    },
+    {
+      "name": "اسواق سوبر‌مازکت علي Hl0043",
+      "name_en": "",
+      "city": "Al Ḩillah",
+      "country": "Iraq",
+      "latitude": 32.461597,
+      "longitude": 44.430334,
+      "website": ""
+    },
+    {
+      "name": "الجندي المجهول",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.308518,
+      "longitude": 44.389174,
+      "website": ""
+    },
+    {
+      "name": "الچروخ",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.414586,
+      "longitude": 44.422799,
+      "website": ""
+    },
+    {
+      "name": "بيت ابو طلال",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.507185,
+      "longitude": 44.382191,
+      "website": ""
+    },
+    {
+      "name": "جامع الزهراء/حجي طوينة",
+      "name_en": "",
+      "city": "Az Zubayr",
+      "country": "Iraq",
+      "latitude": 30.392735,
+      "longitude": 47.694741,
+      "website": ""
+    },
+    {
+      "name": "جامع باقلاني",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.20249,
+      "longitude": 44.034764,
+      "website": ""
+    },
+    {
+      "name": "جامع جعفرقادر بگ",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.197536,
+      "longitude": 44.041114,
+      "website": ""
+    },
+    {
+      "name": "جامع جلال خلیل",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.194172,
+      "longitude": 44.030525,
+      "website": ""
+    },
+    {
+      "name": "جامع حاج عبدالجبار براغي",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.179211,
+      "longitude": 44.04875,
+      "website": ""
+    },
+    {
+      "name": "جامع حاج عزيز",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.184434,
+      "longitude": 44.033118,
+      "website": ""
+    },
+    {
+      "name": "جامع حاج عزيز",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.168847,
+      "longitude": 43.998711,
+      "website": ""
+    },
+    {
+      "name": "جامع حاج قرني(مزگه وتی حاجی قه ره نی)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.187163,
+      "longitude": 44.036444,
+      "website": ""
+    },
+    {
+      "name": "جامع حاج مراد",
+      "name_en": "Haj murad masjid",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.187782,
+      "longitude": 44.026161,
+      "website": ""
+    },
+    {
+      "name": "جامع خضير الجنابي",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.275985,
+      "longitude": 44.345056,
+      "website": ""
+    },
+    {
+      "name": "جامع خليفة عثمان",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.310066,
+      "longitude": 44.028982,
+      "website": ""
+    },
+    {
+      "name": "جامع راستي",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.181768,
+      "longitude": 44.034709,
+      "website": ""
+    },
+    {
+      "name": "جامع سوق Langa",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.184115,
+      "longitude": 44.037287,
+      "website": ""
+    },
+    {
+      "name": "جامع سيد صفا",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.195479,
+      "longitude": 44.016511,
+      "website": ""
+    },
+    {
+      "name": "جامع سيد غريب",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.190873,
+      "longitude": 44.024798,
+      "website": ""
+    },
+    {
+      "name": "جامع شيخ ثاني",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.196384,
+      "longitude": 44.021626,
+      "website": ""
+    },
+    {
+      "name": "جامع شیخ نصرالدین",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.186211,
+      "longitude": 44.032718,
+      "website": ""
+    },
+    {
+      "name": "جامع مالك بن أنس",
+      "name_en": "",
+      "city": "Kirkuk",
+      "country": "Iraq",
+      "latitude": 35.403197,
+      "longitude": 44.396876,
+      "website": ""
+    },
+    {
+      "name": "جامع ملا عمر",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.187291,
+      "longitude": 44.030074,
+      "website": ""
+    },
+    {
+      "name": "جامع ملا قادرخوشناو",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.182244,
+      "longitude": 44.044908,
+      "website": ""
+    },
+    {
+      "name": "جامع هزوب صغير(مزگه وتی هزوپی بچووک)",
+      "name_en": "",
+      "city": "Koysinceq",
+      "country": "Iraq",
+      "latitude": 36.171414,
+      "longitude": 44.656379,
+      "website": ""
+    },
+    {
+      "name": "جامع وتكية شيخ عبدالكريم",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.190036,
+      "longitude": 44.014354,
+      "website": ""
+    },
+    {
+      "name": "جامع وحسينية علي البياع",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.275835,
+      "longitude": 44.352467,
+      "website": ""
+    },
+    {
+      "name": "حسينية الامام الحسين (ع) (عباس تاجران)",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.277402,
+      "longitude": 44.347339,
+      "website": ""
+    },
+    {
+      "name": "حسينية المصطفى (ص)",
+      "name_en": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.27496,
+      "longitude": 44.345613,
+      "website": ""
+    },
+    {
+      "name": "ده زگای مرویی سوز(SOZ FOUNDATION)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.208522,
+      "longitude": 44.023187,
+      "website": ""
+    },
+    {
+      "name": "دیوه خانی فتاح اغا هرکی",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.191089,
+      "longitude": 44.019197,
+      "website": ""
+    },
+    {
+      "name": "راديو",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.183412,
+      "longitude": 44.029864,
+      "website": ""
+    },
+    {
+      "name": "راديو ده نگی اسلام (رادیو صوت الاسلام)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.183832,
+      "longitude": 44.028711,
+      "website": ""
+    },
+    {
+      "name": "ريكخراو و راديو رووناكى(منظمة و راديو روناكي)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.181961,
+      "longitude": 44.044705,
+      "website": ""
+    },
+    {
+      "name": "سجن احداث . للنساء واليافعين",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.206203,
+      "longitude": 44.044323,
+      "website": ""
+    },
+    {
+      "name": "سليمان محمد سعيد",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.183866,
+      "longitude": 44.022461,
+      "website": ""
+    },
+    {
+      "name": "شهداء",
+      "name_en": "",
+      "city": "An Najaf al Ashraf",
+      "country": "Iraq",
+      "latitude": 31.99649,
+      "longitude": 44.314481,
+      "website": ""
+    },
+    {
+      "name": "شهداء",
+      "name_en": "",
+      "city": "Karbala",
+      "country": "Iraq",
+      "latitude": 32.616677,
+      "longitude": 44.035105,
+      "website": ""
+    },
+    {
+      "name": "قاعة المناسبات جامع الابيض(هولى سپی)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.20357,
+      "longitude": 44.013885,
+      "website": ""
+    },
+    {
+      "name": "قبر عبد الحسين الكعبي",
+      "name_en": "",
+      "city": "An Najaf al Ashraf",
+      "country": "Iraq",
+      "latitude": 32.032983,
+      "longitude": 44.288324,
+      "website": ""
+    },
+    {
+      "name": "متحف الأسلحة",
+      "name_en": "Mat haf al Asihah",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.351667,
+      "longitude": 44.403889,
+      "website": ""
+    },
+    {
+      "name": "متحف البصرة",
+      "name_en": "",
+      "city": "Al Başrat al Qadīmah",
+      "country": "Iraq",
+      "latitude": 30.497369,
+      "longitude": 47.860954,
+      "website": ""
+    },
+    {
+      "name": "محطة كهرباء400",
+      "name_en": "",
+      "city": "Al Mawşil al Jadīdah",
+      "country": "Iraq",
+      "latitude": 36.316679,
+      "longitude": 43.024586,
+      "website": ""
+    },
+    {
+      "name": "مزگه وتى بوخارا",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.21096,
+      "longitude": 44.009726,
+      "website": ""
+    },
+    {
+      "name": "مزگەوتی خانەقا",
+      "name_en": "mzgawti xanaqa",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.188958,
+      "longitude": 44.01103,
+      "website": ""
+    },
+    {
+      "name": "مزگەوتی نورسی",
+      "name_en": "",
+      "city": "As Sulaymānīyah",
+      "country": "Iraq",
+      "latitude": 35.587261,
+      "longitude": 45.415507,
+      "website": ""
+    },
+    {
+      "name": "مسجد حاج بكر",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.189166,
+      "longitude": 44.029111,
+      "website": ""
+    },
+    {
+      "name": "مسجد شهيد اسماعيل",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.19072,
+      "longitude": 44.03606,
+      "website": ""
+    },
+    {
+      "name": "منارة سنجار القديمة",
+      "name_en": "",
+      "city": "Sinjār",
+      "country": "Iraq",
+      "latitude": 36.324053,
+      "longitude": 41.853963,
+      "website": ""
+    },
+    {
+      "name": "منتدى المسرح",
+      "name_en": "Museum of Iraqi Art Pioneers",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "latitude": 33.330677,
+      "longitude": 44.400847,
+      "website": ""
+    },
+    {
+      "name": "منزل الشيخ هادي الكربلائي",
+      "name_en": "",
+      "city": "Karbala",
+      "country": "Iraq",
+      "latitude": 32.619486,
+      "longitude": 44.035831,
+      "website": ""
+    },
+    {
+      "name": "منطقة عشائر حمير",
+      "name_en": "",
+      "city": "Al Ḩillah",
+      "country": "Iraq",
+      "latitude": 32.49901,
+      "longitude": 44.488672,
+      "website": ""
+    },
+    {
+      "name": "مۆزەخانەی هەولێر",
+      "name_en": "mozaxanay Hawler",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.179664,
+      "longitude": 44.012824,
+      "website": ""
+    },
+    {
+      "name": "نقليات شمال اربيل . لنقل البضاءع من بغداد الى اربيل وبالعكس",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.211361,
+      "longitude": 44.046255,
+      "website": ""
+    },
+    {
+      "name": "وزارة الثقافة لحكومة اقليم كوردستان(وه زاره تى روشنبيرى)",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.192714,
+      "longitude": 44.027745,
+      "website": ""
+    },
+    {
+      "name": "وزارة العدل",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 36.201539,
+      "longitude": 44.000381,
+      "website": ""
+    },
+    {
+      "name": "گوندی ماجید",
+      "name_en": "",
+      "city": "Erbil",
+      "country": "Iraq",
+      "latitude": 35.934813,
+      "longitude": 43.672553,
+      "website": ""
+    },
+    {
+      "name": "ACOR",
+      "name_en": "",
+      "city": "Al Jubayhah",
+      "country": "Jordan",
+      "latitude": 32.008812,
+      "longitude": 35.868227,
+      "website": "http://acorjordan.org/index.php/en/"
+    },
+    {
+      "name": "Aqaba archeological museum",
+      "name_en": "",
+      "city": "Aqaba",
+      "country": "Jordan",
+      "latitude": 29.521635,
+      "longitude": 35.001411,
+      "website": ""
+    },
+    {
+      "name": "Archaeological Park",
+      "name_en": "",
+      "city": "Mādabā",
+      "country": "Jordan",
+      "latitude": 31.716154,
+      "longitude": 35.795508,
+      "website": ""
+    },
+    {
+      "name": "Burnt Palace",
+      "name_en": "",
+      "city": "Mādabā",
+      "country": "Jordan",
+      "latitude": 31.716706,
+      "longitude": 35.794863,
+      "website": ""
+    },
+    {
+      "name": "Cave Museum",
+      "name_en": "",
+      "city": "Petra",
+      "country": "Jordan",
+      "latitude": 30.330467,
+      "longitude": 35.439373,
+      "website": ""
+    },
+    {
+      "name": "Islamic Museum",
+      "name_en": "",
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.960857,
+      "longitude": 35.913501,
+      "website": ""
+    },
+    {
+      "name": "Karak Castle Museum",
+      "name_en": "",
+      "city": "Qīr Moāv",
+      "country": "Jordan",
+      "latitude": 31.180963,
+      "longitude": 35.701148,
+      "website": ""
+    },
+    {
+      "name": "Madaba Museum",
+      "name_en": "",
+      "city": "Mādabā",
+      "country": "Jordan",
+      "latitude": 31.713982,
+      "longitude": 35.79234,
+      "website": ""
+    },
+    {
+      "name": "Nabataean Museum",
+      "name_en": "",
+      "city": "Petra",
+      "country": "Jordan",
+      "latitude": 30.331014,
+      "longitude": 35.439703,
+      "website": ""
+    },
+    {
+      "name": "The Jordan Museum",
+      "name_en": "",
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.945644,
+      "longitude": 35.927029,
+      "website": "http://jordanmuseum.jo/en"
+    },
+    {
+      "name": "علية الباشا",
+      "name_en": "",
+      "city": "Sūf",
+      "country": "Jordan",
+      "latitude": 32.312535,
+      "longitude": 35.839471,
+      "website": ""
+    },
+    {
+      "name": "متحف الفلكلور الأردني",
+      "name_en": "Jordan Folklore Museum",
+      "city": "Amman",
+      "country": "Jordan",
+      "latitude": 31.951857,
+      "longitude": 35.939479,
+      "website": ""
+    },
+    {
+      "name": "Al Hashemi Marine Museum",
+      "name_en": "",
+      "city": "Salwá",
+      "country": "Kuwait",
+      "latitude": 29.301498,
+      "longitude": 48.089345,
+      "website": ""
+    },
+    {
+      "name": "fixme",
+      "name_en": "",
+      "city": "Jdaidet el Matn",
+      "country": "Lebanon",
+      "latitude": 33.908466,
+      "longitude": 35.585421,
+      "website": ""
+    },
+    {
+      "name": "Marine and Wildlife Museum",
+      "name_en": "",
+      "city": "Djounie",
+      "country": "Lebanon",
+      "latitude": 33.948622,
+      "longitude": 35.633769,
+      "website": "lmwm.org"
+    },
+    {
+      "name": "Wax Museum",
+      "name_en": "",
+      "city": "Jbaïl",
+      "country": "Lebanon",
+      "latitude": 34.121544,
+      "longitude": 35.645914,
+      "website": ""
+    },
+    {
+      "name": "متحف  سرسق",
+      "name_en": "Sursock Museum",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "latitude": 33.893421,
+      "longitude": 35.515837,
+      "website": ""
+    },
+    {
+      "name": "متحف الحرير",
+      "name_en": "Silk Museum",
+      "city": "Aaley",
+      "country": "Lebanon",
+      "latitude": 33.817898,
+      "longitude": 35.572282,
+      "website": ""
+    },
+    {
+      "name": "Musée Tassili",
+      "name_en": "",
+      "city": "Ghāt",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 24.554324,
+      "longitude": 9.486115,
+      "website": ""
+    },
+    {
+      "name": "Sabratha",
+      "name_en": "",
+      "city": "Şabrātah",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.8037,
+      "longitude": 12.48316,
+      "website": ""
+    },
+    {
+      "name": "Tassili Museum & Registration",
+      "name_en": "",
+      "city": "Ghāt",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 24.554084,
+      "longitude": 9.486275,
+      "website": ""
+    },
+    {
+      "name": "متحف السرايا الحمراء",
+      "name_en": "Red Castle Museum",
+      "city": "Tripoli",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.895844,
+      "longitude": 13.181079,
+      "website": ""
+    },
+    {
+      "name": "متحف جنزور",
+      "name_en": "",
+      "city": "Tripoli",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.828306,
+      "longitude": 13.027663,
+      "website": ""
+    },
+    {
+      "name": "متحف قصر ليبيا",
+      "name_en": "",
+      "city": "Al Bayḑā’",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.630971,
+      "longitude": 21.396775,
+      "website": ""
+    },
+    {
+      "name": "معرض الشهداء",
+      "name_en": "",
+      "city": "Mişrātah",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.366481,
+      "longitude": 15.080493,
+      "website": ""
+    },
+    {
+      "name": "منزل الصفارة",
+      "name_en": "",
+      "city": "Yafran",
+      "country": "Libyan Arab Jamahiriya",
+      "latitude": 32.12528,
+      "longitude": 12.630064,
+      "website": ""
+    },
+    {
+      "name": "Monk Seal Protection",
+      "name_en": "",
+      "city": "Nouâdhibou",
+      "country": "Mauritania",
+      "latitude": 20.770661,
+      "longitude": -17.049889,
+      "website": ""
+    },
+    {
+      "name": "Alliance Franco-Marocaine",
+      "name_en": "Institut Français d'Essaouira",
+      "city": "Essaouira",
+      "country": "Morocco",
+      "latitude": 31.513798,
+      "longitude": -9.771328,
+      "website": "http://if-Maroc.org/essaouira"
+    },
+    {
+      "name": "Boucharouite",
+      "name_en": "",
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "latitude": 31.629082,
+      "longitude": -7.984268,
+      "website": "http://www.boucharouite.com/"
+    },
+    {
+      "name": "Dar Jamai Museum",
+      "name_en": "",
+      "city": "Meknès",
+      "country": "Morocco",
+      "latitude": 33.893697,
+      "longitude": -5.566477,
+      "website": ""
+    },
+    {
+      "name": "Ecomusée du parc national Talassemtane",
+      "name_en": "",
+      "city": "Chefchaouene",
+      "country": "Morocco",
+      "latitude": 35.175011,
+      "longitude": -5.264496,
+      "website": ""
+    },
+    {
+      "name": "Galerie D'Art Maghreb Al Arabi",
+      "name_en": "",
+      "city": "Oujda",
+      "country": "Morocco",
+      "latitude": 34.678202,
+      "longitude": -1.912261,
+      "website": ""
+    },
+    {
+      "name": "Hôtel de ville",
+      "name_en": "",
+      "city": "Essaouira",
+      "country": "Morocco",
+      "latitude": 31.513513,
+      "longitude": -9.76307,
+      "website": ""
+    },
+    {
+      "name": "Kasbat Genaoua",
+      "name_en": "",
+      "city": "Sale",
+      "country": "Morocco",
+      "latitude": 34.062347,
+      "longitude": -6.813199,
+      "website": ""
+    },
+    {
+      "name": "Le Musée Régional de la Résistance et de l'Armée de Liberation",
+      "name_en": "",
+      "city": "Ouarzazat",
+      "country": "Morocco",
+      "latitude": 30.92022,
+      "longitude": -6.898864,
+      "website": ""
+    },
+    {
+      "name": "Medrasa Bou Inania",
+      "name_en": "",
+      "city": "Meknès",
+      "country": "Morocco",
+      "latitude": 33.89527,
+      "longitude": -5.565045,
+      "website": ""
+    },
+    {
+      "name": "Mueée régional du mouvement national",
+      "name_en": "",
+      "city": "Oujda",
+      "country": "Morocco",
+      "latitude": 34.67812,
+      "longitude": -1.915378,
+      "website": ""
+    },
+    {
+      "name": "Musee Des Oasis",
+      "name_en": "",
+      "city": "Goulmima",
+      "country": "Morocco",
+      "latitude": 31.494079,
+      "longitude": -5.085351,
+      "website": "http://www.elkhorbat.com"
+    },
+    {
+      "name": "Museum of Art de Vivre",
+      "name_en": "",
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "latitude": 31.633977,
+      "longitude": -7.988195,
+      "website": "http://www.museemedina.com"
+    },
+    {
+      "name": "Museum of Fossils and Minerals",
+      "name_en": "",
+      "city": "Jorf",
+      "country": "Morocco",
+      "latitude": 31.405548,
+      "longitude": -4.258259,
+      "website": ""
+    },
+    {
+      "name": "Musée Archéologique",
+      "name_en": "",
+      "city": "Tétouan",
+      "country": "Morocco",
+      "latitude": 35.570636,
+      "longitude": -5.370667,
+      "website": ""
+    },
+    {
+      "name": "Musée Batha",
+      "name_en": "",
+      "city": "Fès",
+      "country": "Morocco",
+      "latitude": 34.060359,
+      "longitude": -4.982726,
+      "website": ""
+    },
+    {
+      "name": "Musée Dar Belghazi",
+      "name_en": "",
+      "city": "Sale",
+      "country": "Morocco",
+      "latitude": 34.139342,
+      "longitude": -6.725129,
+      "website": ""
+    },
+    {
+      "name": "Musée de La Fondation Lorin",
+      "name_en": "",
+      "city": "Tangier",
+      "country": "Morocco",
+      "latitude": 35.784474,
+      "longitude": -5.811699,
+      "website": ""
+    },
+    {
+      "name": "Musée de la Palmeraie",
+      "name_en": "",
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "latitude": 31.646938,
+      "longitude": -7.96951,
+      "website": ""
+    },
+    {
+      "name": "Musée des arts et traditions de la vallée du Drâa",
+      "name_en": "",
+      "city": "Zagora",
+      "country": "Morocco",
+      "latitude": 30.396455,
+      "longitude": -5.858908,
+      "website": ""
+    },
+    {
+      "name": "Musée des sources de Lalla Minouna",
+      "name_en": "",
+      "city": "Goulmima",
+      "country": "Morocco",
+      "latitude": 31.49091,
+      "longitude": -5.129054,
+      "website": ""
+    },
+    {
+      "name": "Musée du Cinéma",
+      "name_en": "",
+      "city": "Ouarzazat",
+      "country": "Morocco",
+      "latitude": 30.921252,
+      "longitude": -6.899616,
+      "website": ""
+    },
+    {
+      "name": "Musée d’Art Marocain",
+      "name_en": "",
+      "city": "Tétouan",
+      "country": "Morocco",
+      "latitude": 35.570287,
+      "longitude": -5.363715,
+      "website": ""
+    },
+    {
+      "name": "Musée Ethnographique Lalla Aicha",
+      "name_en": "",
+      "city": "Oujda",
+      "country": "Morocco",
+      "latitude": 34.673804,
+      "longitude": -1.907608,
+      "website": ""
+    },
+    {
+      "name": "Musée Lalla Meryem",
+      "name_en": "",
+      "city": "Oujda",
+      "country": "Morocco",
+      "latitude": 34.677567,
+      "longitude": -1.914428,
+      "website": ""
+    },
+    {
+      "name": "Musée Municipal Amazigh d'Agadir",
+      "name_en": "",
+      "city": "Agadir",
+      "country": "Morocco",
+      "latitude": 30.41605,
+      "longitude": -9.597059,
+      "website": ""
+    },
+    {
+      "name": "Musée Régional Berbère",
+      "name_en": "",
+      "city": "Azrou",
+      "country": "Morocco",
+      "latitude": 33.434764,
+      "longitude": -5.222881,
+      "website": ""
+    },
+    {
+      "name": "Tangier American Legation Institute",
+      "name_en": "",
+      "city": "Tangier",
+      "country": "Morocco",
+      "latitude": 35.783863,
+      "longitude": -5.810884,
+      "website": ""
+    },
+    {
+      "name": "Taourirt Kasbah",
+      "name_en": "",
+      "city": "Ouarzazat",
+      "country": "Morocco",
+      "latitude": 30.920124,
+      "longitude": -6.899434,
+      "website": ""
+    },
+    {
+      "name": "The Currency Museum of the Bank Al-Maghrib",
+      "name_en": "",
+      "city": "Rabat",
+      "country": "Morocco",
+      "latitude": 34.01952,
+      "longitude": -6.835299,
+      "website": "http://www.bkam.ma/wps/musee/default.html"
+    },
+    {
+      "name": "Tickets & Entrance",
+      "name_en": "",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "latitude": 33.607815,
+      "longitude": -7.633411,
+      "website": ""
+    },
+    {
+      "name": "Tiskiwin Museum",
+      "name_en": "",
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "latitude": 31.622273,
+      "longitude": -7.984071,
+      "website": "http://tiskiwin.businesscatalyst.com/"
+    },
+    {
+      "name": "Villa des Arts de Casablanca",
+      "name_en": "",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "latitude": 33.586223,
+      "longitude": -7.629259,
+      "website": ""
+    },
+    {
+      "name": "ضريح مولاي إسماعيل",
+      "name_en": "Mausoleum of Moulay Ismail",
+      "city": "Meknès",
+      "country": "Morocco",
+      "latitude": 33.890712,
+      "longitude": -5.563309,
+      "website": ""
+    },
+    {
+      "name": "AL Hoota Cave",
+      "name_en": "",
+      "city": "Bahlā’",
+      "country": "Oman",
+      "latitude": 23.081223,
+      "longitude": 57.350588,
+      "website": ""
+    },
+    {
+      "name": "EcoMan Center",
+      "name_en": "",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.625061,
+      "longitude": 58.5086,
+      "website": ""
+    },
+    {
+      "name": "Hatta Heritage Village",
+      "name_en": "",
+      "city": "Shināş",
+      "country": "Oman",
+      "latitude": 24.796368,
+      "longitude": 56.118889,
+      "website": ""
+    },
+    {
+      "name": "Heritage Village",
+      "name_en": "",
+      "city": "Al Buraymī",
+      "country": "Oman",
+      "latitude": 24.310353,
+      "longitude": 55.745965,
+      "website": ""
+    },
+    {
+      "name": "Mathaf Bawwabat Masqat",
+      "name_en": "",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.620098,
+      "longitude": 58.59032,
+      "website": ""
+    },
+    {
+      "name": "Muscat National Museum",
+      "name_en": "",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.611585,
+      "longitude": 58.593585,
+      "website": ""
+    },
+    {
+      "name": "Museum of the Frankincence Land",
+      "name_en": "",
+      "city": "Şalālah",
+      "country": "Oman",
+      "latitude": 17.00942,
+      "longitude": 54.13607,
+      "website": ""
+    },
+    {
+      "name": "Nizwa Gate",
+      "name_en": "",
+      "city": "Nizwá",
+      "country": "Oman",
+      "latitude": 22.877884,
+      "longitude": 57.52685,
+      "website": ""
+    },
+    {
+      "name": "Oil and Gas Exhibition Center مكتب نفط عمان",
+      "name_en": "",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.625209,
+      "longitude": 58.508852,
+      "website": ""
+    },
+    {
+      "name": "Salalah Museum",
+      "name_en": "",
+      "city": "Şalālah",
+      "country": "Oman",
+      "latitude": 17.022675,
+      "longitude": 54.086356,
+      "website": ""
+    },
+    {
+      "name": "متحف التاريخ الطبيعي",
+      "name_en": "Museum of Natural History",
+      "city": "Bawshar",
+      "country": "Oman",
+      "latitude": 23.598823,
+      "longitude": 58.422706,
+      "website": ""
+    },
+    {
+      "name": "متحف السلطان العسكري السابق",
+      "name_en": "Mathaf Quwat as Sultan as Sabiqah",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.610117,
+      "longitude": 58.549977,
+      "website": ""
+    },
+    {
+      "name": "متحف بيت الزبير",
+      "name_en": "Mathaf Bayt az Zubayr",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.61,
+      "longitude": 58.59,
+      "website": ""
+    },
+    {
+      "name": "مكتب شركة تسويق شل العمانية",
+      "name_en": "",
+      "city": "Muscat",
+      "country": "Oman",
+      "latitude": 23.62376,
+      "longitude": 58.52307,
+      "website": ""
+    },
+    {
+      "name": "Anabta Municipality",
+      "name_en": "",
+      "city": "‘Anabtā",
+      "country": "Palestinian Territory",
+      "latitude": 32.309161,
+      "longitude": 35.113946,
+      "website": ""
+    },
+    {
+      "name": "Artas Folklore Center",
+      "name_en": "",
+      "city": "Arţās",
+      "country": "Palestinian Territory",
+      "latitude": 31.68976,
+      "longitude": 35.18675,
+      "website": ""
+    },
+    {
+      "name": "Beit Sahour Community Center",
+      "name_en": "",
+      "city": "Bayt Sāḩūr",
+      "country": "Palestinian Territory",
+      "latitude": 31.703733,
+      "longitude": 35.217306,
+      "website": ""
+    },
+    {
+      "name": "Dair Sharaf",
+      "name_en": "",
+      "city": "Dayr Sharaf",
+      "country": "Palestinian Territory",
+      "latitude": 32.253436,
+      "longitude": 35.18861,
+      "website": ""
+    },
+    {
+      "name": "Martyers",
+      "name_en": "",
+      "city": "East Jerusalem",
+      "country": "Palestinian Territory",
+      "latitude": 31.78366,
+      "longitude": 35.237084,
+      "website": ""
+    },
+    {
+      "name": "Museum on the Seam",
+      "name_en": "",
+      "city": "East Jerusalem",
+      "country": "Palestinian Territory",
+      "latitude": 31.786119,
+      "longitude": 35.226856,
+      "website": ""
+    },
+    {
+      "name": "Nabi Samuel",
+      "name_en": "Nabi Samuil",
+      "city": "Bayt Iksā",
+      "country": "Palestinian Territory",
+      "latitude": 31.832839,
+      "longitude": 35.180286,
+      "website": ""
+    },
+    {
+      "name": "Palestinian Heritage Museum of Dar al-Tifel",
+      "name_en": "",
+      "city": "East Jerusalem",
+      "country": "Palestinian Territory",
+      "latitude": 31.789722,
+      "longitude": 35.230873,
+      "website": ""
+    },
+    {
+      "name": "Qaser Al-Basha Museum",
+      "name_en": "",
+      "city": "Gaza",
+      "country": "Palestinian Territory",
+      "latitude": 31.50451,
+      "longitude": 34.466268,
+      "website": ""
+    },
+    {
+      "name": "Ramallah Museum",
+      "name_en": "",
+      "city": "Ramallah",
+      "country": "Palestinian Territory",
+      "latitude": 31.905132,
+      "longitude": 35.197107,
+      "website": ""
+    },
+    {
+      "name": "Sakakini Cultural Center",
+      "name_en": "",
+      "city": "Ramallah",
+      "country": "Palestinian Territory",
+      "latitude": 31.898725,
+      "longitude": 35.201753,
+      "website": ""
+    },
+    {
+      "name": "Tulkarm",
+      "name_en": "",
+      "city": "Ţūlkarm",
+      "country": "Palestinian Territory",
+      "latitude": 32.313887,
+      "longitude": 35.028294,
+      "website": ""
+    },
+    {
+      "name": "Zedekiah's cave",
+      "name_en": "",
+      "city": "East Jerusalem",
+      "country": "Palestinian Territory",
+      "latitude": 31.782254,
+      "longitude": 35.231022,
+      "website": ""
+    },
+    {
+      "name": "בית הדסה",
+      "name_en": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
+      "city": "Hebron",
+      "country": "Palestinian Territory",
+      "latitude": 31.52611,
+      "longitude": 35.104488,
+      "website": ""
+    },
+    {
+      "name": "גן סיפורי התנ\"ך",
+      "name_en": "Garden of Bible Stories",
+      "city": "Kifil Ḩāris",
+      "country": "Palestinian Territory",
+      "latitude": 32.107833,
+      "longitude": 35.161993,
+      "website": ""
+    },
+    {
+      "name": "מוזיאון עתיקות ארץ יהודה",
+      "name_en": "Land of Judea Antiquities Museum",
+      "city": "Hebron",
+      "country": "Palestinian Territory",
+      "latitude": 31.528997,
+      "longitude": 35.118906,
+      "website": ""
+    },
+    {
+      "name": "מוזיאון פעיל עין יעל",
+      "name_en": "Ein Yael",
+      "city": "Khallat Ḩamāmah",
+      "country": "Palestinian Territory",
+      "latitude": 31.743277,
+      "longitude": 35.177723,
+      "website": ""
+    },
+    {
+      "name": "מרכז השומרוני הטוב",
+      "name_en": "",
+      "city": "Kafr Qallīl",
+      "country": "Palestinian Territory",
+      "latitude": 32.203075,
+      "longitude": 35.270373,
+      "website": ""
+    },
+    {
+      "name": "بركة الشيخ رضوان",
+      "name_en": "",
+      "city": "Jabālyā",
+      "country": "Palestinian Territory",
+      "latitude": 31.527663,
+      "longitude": 34.470999,
+      "website": "www.silvermap.ps"
+    },
+    {
+      "name": "دوار الزنانة",
+      "name_en": "",
+      "city": "Gaza",
+      "country": "Palestinian Territory",
+      "latitude": 31.502283,
+      "longitude": 34.471887,
+      "website": ""
+    },
+    {
+      "name": "مبنى دار زهران التراثي",
+      "name_en": "Dar Zahran Heritage Building",
+      "city": "Ramallah",
+      "country": "Palestinian Territory",
+      "latitude": 31.905037,
+      "longitude": 35.196701,
+      "website": "https://www.facebook.com/pages/%D9%85%D8%A8%D9%86%D9%89-%D8%AF%D8%A7%D8%B1-%D8%B2%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB%D9%8A-Dar-Zahran-Heritage-Building-%D9%82%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3/133123386820362"
+    },
+    {
+      "name": "متحف الشعب",
+      "name_en": "People's Museum",
+      "city": "Bīr Zayt",
+      "country": "Palestinian Territory",
+      "latitude": 31.970706,
+      "longitude": 35.200112,
+      "website": ""
+    },
+    {
+      "name": "Al Khor museum",
+      "name_en": "",
+      "city": "Al Khawr",
+      "country": "Qatar",
+      "latitude": 25.686758,
+      "longitude": 51.512945,
+      "website": ""
+    },
+    {
+      "name": "Kahrama Awareness Park",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.238135,
+      "longitude": 51.547036,
+      "website": ""
+    },
+    {
+      "name": "Kahrama Awareness Park",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.237987,
+      "longitude": 51.545738,
+      "website": ""
+    },
+    {
+      "name": "PL 3",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.287718,
+      "longitude": 51.549036,
+      "website": ""
+    },
+    {
+      "name": "Qatar National Theatre",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.30501,
+      "longitude": 51.516657,
+      "website": ""
+    },
+    {
+      "name": "ramp area",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.288734,
+      "longitude": 51.546848,
+      "website": ""
+    },
+    {
+      "name": "Yousef Ahmad",
+      "name_en": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "latitude": 25.360776,
+      "longitude": 51.5263,
+      "website": ""
+    },
+    {
+      "name": "Museum of Science and Technology in Islam",
+      "name_en": "",
+      "city": "Rābigh",
+      "country": "Saudi Arabia",
+      "latitude": 22.310698,
+      "longitude": 39.105326,
+      "website": "http://museum.kaust.edu.sa/"
+    },
+    {
+      "name": "Naseef House",
+      "name_en": "",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "latitude": 21.483964,
+      "longitude": 39.187668,
+      "website": ""
+    },
+    {
+      "name": "Sakr al Jazeera Aviation Museum",
+      "name_en": "",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "latitude": 24.754052,
+      "longitude": 46.740201,
+      "website": ""
+    },
+    {
+      "name": "Saudi Aramco Exhibit",
+      "name_en": "",
+      "city": "Dhahran",
+      "country": "Saudi Arabia",
+      "latitude": 26.33447,
+      "longitude": 50.122687,
+      "website": ""
+    },
+    {
+      "name": "The Holy Quran Exhibition",
+      "name_en": "",
+      "city": "Medina",
+      "country": "Saudi Arabia",
+      "latitude": 24.465945,
+      "longitude": 39.609421,
+      "website": "www.alquranalkarim.net"
+    },
+    {
+      "name": "قرية بن حمسان التراثية",
+      "name_en": "",
+      "city": "Khamis Mushait",
+      "country": "Saudi Arabia",
+      "latitude": 18.296148,
+      "longitude": 42.757427,
+      "website": ""
+    },
+    {
+      "name": "قلعة مسمك",
+      "name_en": "Masmak fort",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "latitude": 24.631166,
+      "longitude": 46.713384,
+      "website": ""
+    },
+    {
+      "name": "كدي",
+      "name_en": "",
+      "city": "Mecca",
+      "country": "Saudi Arabia",
+      "latitude": 21.391396,
+      "longitude": 39.825478,
+      "website": ""
+    },
+    {
+      "name": "مسجد السيدة زينب",
+      "name_en": "Sayyidah Zaynab Mosque",
+      "city": "Al Qurayn",
+      "country": "Saudi Arabia",
+      "latitude": 25.448145,
+      "longitude": 49.598716,
+      "website": ""
+    },
+    {
+      "name": "مكتب ابو عبدالله الجابري المدينة",
+      "name_en": "",
+      "city": "Medina",
+      "country": "Saudi Arabia",
+      "latitude": 24.452631,
+      "longitude": 39.654208,
+      "website": ""
+    },
+    {
+      "name": "نبع العين الحار",
+      "name_en": "",
+      "city": "Ash Shafā",
+      "country": "Saudi Arabia",
+      "latitude": 20.461358,
+      "longitude": 40.471014,
+      "website": ""
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Hargeysa",
+      "country": "Somalia",
+      "latitude": 9.562186,
+      "longitude": 44.072632,
+      "website": ""
+    },
+    {
+      "name": "Military Museum",
+      "name_en": "",
+      "city": "Khartoum",
+      "country": "Sudan",
+      "latitude": 15.619707,
+      "longitude": 32.542868,
+      "website": ""
+    },
+    {
+      "name": "Railway Museum Atbara",
+      "name_en": "",
+      "city": "Atbara",
+      "country": "Sudan",
+      "latitude": 17.695579,
+      "longitude": 33.972422,
+      "website": ""
+    },
+    {
+      "name": "WFP WAREHOUS",
+      "name_en": "",
+      "city": "Kurmuk",
+      "country": "Sudan",
+      "latitude": 9.978339,
+      "longitude": 33.75841,
+      "website": ""
+    },
+    {
+      "name": "Idleb",
+      "name_en": "",
+      "city": "Idlib",
+      "country": "Syrian Arab Republic",
+      "latitude": 35.933019,
+      "longitude": 36.641723,
+      "website": ""
+    },
+    {
+      "name": "International Museum",
+      "name_en": "",
+      "city": "Deir ez-Zor",
+      "country": "Syrian Arab Republic",
+      "latitude": 35.340963,
+      "longitude": 40.1337,
+      "website": ""
+    },
+    {
+      "name": "اثار الصاجعة",
+      "name_en": "",
+      "city": "Al Ya‘rubīyah",
+      "country": "Syrian Arab Republic",
+      "latitude": 36.48666,
+      "longitude": 42.485288,
+      "website": ""
+    },
+    {
+      "name": "المتحف الحربي",
+      "name_en": "Military Museum",
+      "city": "Damascus",
+      "country": "Syrian Arab Republic",
+      "latitude": 33.513014,
+      "longitude": 36.291184,
+      "website": ""
+    },
+    {
+      "name": "المتحف الوطني",
+      "name_en": "National Archealogical Museum",
+      "city": "Damascus",
+      "country": "Syrian Arab Republic",
+      "latitude": 33.512934,
+      "longitude": 36.289524,
+      "website": ""
+    },
+    {
+      "name": "المتحف الوطني",
+      "name_en": "",
+      "city": "Latakia",
+      "country": "Syrian Arab Republic",
+      "latitude": 35.517661,
+      "longitude": 35.772196,
+      "website": ""
+    },
+    {
+      "name": "جامع سد اللوز",
+      "name_en": "",
+      "city": "Aleppo",
+      "country": "Syrian Arab Republic",
+      "latitude": 36.209322,
+      "longitude": 37.181375,
+      "website": ""
+    },
+    {
+      "name": "حديقة الأنسة رضية",
+      "name_en": "",
+      "city": "Khirbat Tīn Nūr",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.678866,
+      "longitude": 36.591847,
+      "website": ""
+    },
+    {
+      "name": "قصر العظم",
+      "name_en": "Azm Palace",
+      "city": "Ḩamāh",
+      "country": "Syrian Arab Republic",
+      "latitude": 35.134005,
+      "longitude": 36.753355,
+      "website": ""
+    },
+    {
+      "name": "متحف التقاليد الشعبية",
+      "name_en": "Museum of Popular Tradition",
+      "city": "Aleppo",
+      "country": "Syrian Arab Republic",
+      "latitude": 36.205996,
+      "longitude": 37.156521,
+      "website": ""
+    },
+    {
+      "name": "متحف الحيوانات والفراشات",
+      "name_en": "",
+      "city": "Tallkalakh",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.566719,
+      "longitude": 36.27927,
+      "website": ""
+    },
+    {
+      "name": "متحف السريا بالنبك",
+      "name_en": "Alsarai Museum",
+      "city": "An Nabk",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.023485,
+      "longitude": 36.731826,
+      "website": ""
+    },
+    {
+      "name": "متحف تدمر",
+      "name_en": "Museum Palmira",
+      "city": "Tadmur",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.555255,
+      "longitude": 38.274797,
+      "website": ""
+    },
+    {
+      "name": "متحف تدمر",
+      "name_en": "Palmyra Museum",
+      "city": "Tadmur",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.549355,
+      "longitude": 38.272504,
+      "website": ""
+    },
+    {
+      "name": "متحف عدنان المالكي",
+      "name_en": "",
+      "city": "Damascus",
+      "country": "Syrian Arab Republic",
+      "latitude": 33.522174,
+      "longitude": 36.278769,
+      "website": ""
+    },
+    {
+      "name": "مركز بلدية وادي خالد",
+      "name_en": "",
+      "city": "Ḩadīdah",
+      "country": "Syrian Arab Republic",
+      "latitude": 34.624627,
+      "longitude": 36.386598,
+      "website": ""
+    },
+    {
+      "name": "مكتب عنبر",
+      "name_en": "Maktab Anbar",
+      "city": "Damascus",
+      "country": "Syrian Arab Republic",
+      "latitude": 33.509914,
+      "longitude": 36.309793,
+      "website": ""
+    },
+    {
+      "name": "Borj al Khadija",
+      "name_en": "",
+      "city": "Chebba",
+      "country": "Tunisia",
+      "latitude": 35.234886,
+      "longitude": 11.156399,
+      "website": ""
+    },
+    {
+      "name": "Chemtou",
+      "name_en": "",
+      "city": "Wādī Malīz",
+      "country": "Tunisia",
+      "latitude": 36.490095,
+      "longitude": 8.577147,
+      "website": ""
+    },
+    {
+      "name": "Dar Cherait",
+      "name_en": "",
+      "city": "Tozeur",
+      "country": "Tunisia",
+      "latitude": 33.913164,
+      "longitude": 8.120615,
+      "website": ""
+    },
+    {
+      "name": "Dar El Jem",
+      "name_en": "",
+      "city": "El Jem",
+      "country": "Tunisia",
+      "latitude": 35.298418,
+      "longitude": 10.705421,
+      "website": ""
+    },
+    {
+      "name": "Eden Palm",
+      "name_en": "",
+      "city": "Tozeur",
+      "country": "Tunisia",
+      "latitude": 33.917109,
+      "longitude": 8.147201,
+      "website": "www.eden-palm.com"
+    },
+    {
+      "name": "Lalla Hadria",
+      "name_en": "",
+      "city": "Midoun",
+      "country": "Tunisia",
+      "latitude": 33.819909,
+      "longitude": 11.04492,
+      "website": ""
+    },
+    {
+      "name": "Mausolée Sidi Ammar",
+      "name_en": "",
+      "city": "Aş Şayyādah",
+      "country": "Tunisia",
+      "latitude": 35.670719,
+      "longitude": 10.892351,
+      "website": ""
+    },
+    {
+      "name": "Musee Diar Amor Matmata",
+      "name_en": "",
+      "city": "Matmata",
+      "country": "Tunisia",
+      "latitude": 33.542654,
+      "longitude": 9.895623,
+      "website": ""
+    },
+    {
+      "name": "Museée du patriomoine traditionnel de Djerba",
+      "name_en": "",
+      "city": "Houmt Souk",
+      "country": "Tunisia",
+      "latitude": 33.879968,
+      "longitude": 10.862334,
+      "website": "http://www.djerbamuseum.tn/"
+    },
+    {
+      "name": "Musée",
+      "name_en": "",
+      "city": "El Jem",
+      "country": "Tunisia",
+      "latitude": 35.289419,
+      "longitude": 10.705485,
+      "website": ""
+    },
+    {
+      "name": "Musée d'arts islamiques",
+      "name_en": "",
+      "city": "Monastir",
+      "country": "Tunisia",
+      "latitude": 35.775917,
+      "longitude": 10.833123,
+      "website": ""
+    },
+    {
+      "name": "Musée de Bourguiba",
+      "name_en": "",
+      "city": "Şaqānis",
+      "country": "Tunisia",
+      "latitude": 35.778482,
+      "longitude": 10.784111,
+      "website": ""
+    },
+    {
+      "name": "Musée de Mahdia",
+      "name_en": "",
+      "city": "Mahdia",
+      "country": "Tunisia",
+      "latitude": 35.503748,
+      "longitude": 11.068612,
+      "website": ""
+    },
+    {
+      "name": "Musée des arts et traditions populaires",
+      "name_en": "",
+      "city": "Monastir",
+      "country": "Tunisia",
+      "latitude": 35.774202,
+      "longitude": 10.830994,
+      "website": ""
+    },
+    {
+      "name": "Musée des coutumes et des traditions",
+      "name_en": "",
+      "city": "Gabès",
+      "country": "Tunisia",
+      "latitude": 33.86853,
+      "longitude": 10.090668,
+      "website": ""
+    },
+    {
+      "name": "Musée du Patrimoine de Guellala",
+      "name_en": "",
+      "city": "Houmt Souk",
+      "country": "Tunisia",
+      "latitude": 33.732559,
+      "longitude": 10.86563,
+      "website": ""
+    },
+    {
+      "name": "Musée Du Patrimoine Insulaire",
+      "name_en": "",
+      "city": "Jabinyānah",
+      "country": "Tunisia",
+      "latitude": 34.719568,
+      "longitude": 11.243597,
+      "website": ""
+    },
+    {
+      "name": "Musée national d'Utique",
+      "name_en": "",
+      "city": "Zahānah",
+      "country": "Tunisia",
+      "latitude": 37.050666,
+      "longitude": 10.056935,
+      "website": ""
+    },
+    {
+      "name": "Musée Naturel Du Sud Tunisien",
+      "name_en": "",
+      "city": "Gabès",
+      "country": "Tunisia",
+      "latitude": 33.863794,
+      "longitude": 10.05991,
+      "website": ""
+    },
+    {
+      "name": "Oceanographic Museum",
+      "name_en": "",
+      "city": "Bizerte",
+      "country": "Tunisia",
+      "latitude": 37.278265,
+      "longitude": 9.876949,
+      "website": ""
+    },
+    {
+      "name": "Rakada Palace Museum",
+      "name_en": "",
+      "city": "Kairouan",
+      "country": "Tunisia",
+      "latitude": 35.593493,
+      "longitude": 10.053176,
+      "website": ""
+    },
+    {
+      "name": "Sidi Abid el-Ghariani zaouia (old arabic house, museum)",
+      "name_en": "",
+      "city": "Kairouan",
+      "country": "Tunisia",
+      "latitude": 35.675661,
+      "longitude": 10.102225,
+      "website": ""
+    },
+    {
+      "name": "Sousse Archeological Museum",
+      "name_en": "",
+      "city": "Sousse",
+      "country": "Tunisia",
+      "latitude": 35.822634,
+      "longitude": 10.635668,
+      "website": "http://www.patrimoinedetunisie.com.tn/eng/musees/sousse.php"
+    },
+    {
+      "name": "المتحف الوطني بقرطاج",
+      "name_en": "",
+      "city": "Carthage",
+      "country": "Tunisia",
+      "latitude": 36.85357,
+      "longitude": 10.324298,
+      "website": ""
+    },
+    {
+      "name": "قصر خير الدين باشا",
+      "name_en": "",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "latitude": 36.801647,
+      "longitude": 10.168587,
+      "website": ""
+    },
+    {
+      "name": "متحف العملة",
+      "name_en": "",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "latitude": 36.804688,
+      "longitude": 10.185273,
+      "website": ""
+    },
+    {
+      "name": "متحف القصبة",
+      "name_en": "",
+      "city": "Sfax",
+      "country": "Tunisia",
+      "latitude": 34.7335,
+      "longitude": 10.758808,
+      "website": ""
+    },
+    {
+      "name": "متحف المالية",
+      "name_en": "",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "latitude": 36.80112,
+      "longitude": 10.178309,
+      "website": ""
+    },
+    {
+      "name": "Al Ain National Museum",
+      "name_en": "",
+      "city": "Al Ain",
+      "country": "United Arab Emirates",
+      "latitude": 24.216298,
+      "longitude": 55.774192,
+      "website": ""
+    },
+    {
+      "name": "Al Ain Sheikh Zayed Palace Museum",
+      "name_en": "",
+      "city": "Al Ain",
+      "country": "United Arab Emirates",
+      "latitude": 24.21507,
+      "longitude": 55.760759,
+      "website": ""
+    },
+    {
+      "name": "Al Eslah School Museum",
+      "name_en": "",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.358923,
+      "longitude": 55.383464,
+      "website": ""
+    },
+    {
+      "name": "Al Mahatta Museum",
+      "name_en": "",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.345952,
+      "longitude": 55.395927,
+      "website": ""
+    },
+    {
+      "name": "Barjeel Art Foundation",
+      "name_en": "",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.321817,
+      "longitude": 55.376578,
+      "website": ""
+    },
+    {
+      "name": "Dubai Museum",
+      "name_en": "",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.263521,
+      "longitude": 55.297183,
+      "website": ""
+    },
+    {
+      "name": "Emirates National Auto Museum",
+      "name_en": "",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "latitude": 24.098828,
+      "longitude": 54.41993,
+      "website": "http://en.wikipedia.org/wiki/Emirates_National_Auto_Museum"
+    },
+    {
+      "name": "Heritage Village",
+      "name_en": "",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "latitude": 24.476779,
+      "longitude": 54.331443,
+      "website": ""
+    },
+    {
+      "name": "Last Dhow Building Station",
+      "name_en": "",
+      "city": "Ras al-Khaimah",
+      "country": "United Arab Emirates",
+      "latitude": 25.821019,
+      "longitude": 55.974326,
+      "website": ""
+    },
+    {
+      "name": "living planet \"Dubai Science Musuem\"",
+      "name_en": "",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.205322,
+      "longitude": 55.260307,
+      "website": ""
+    },
+    {
+      "name": "Miraj Islamic Art Centre",
+      "name_en": "",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "latitude": 24.420898,
+      "longitude": 54.456779,
+      "website": ""
+    },
+    {
+      "name": "Museum of Islamic Civilization",
+      "name_en": "",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.364841,
+      "longitude": 55.38931,
+      "website": ""
+    },
+    {
+      "name": "National Museum of Ras al Khaimah",
+      "name_en": "",
+      "city": "Ras al-Khaimah",
+      "country": "United Arab Emirates",
+      "latitude": 25.794387,
+      "longitude": 55.945197,
+      "website": ""
+    },
+    {
+      "name": "Performing Arts Center",
+      "name_en": "",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "latitude": 24.529578,
+      "longitude": 54.40197,
+      "website": ""
+    },
+    {
+      "name": "Repton Museum",
+      "name_en": "",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "latitude": 25.138794,
+      "longitude": 55.359672,
+      "website": ""
+    },
+    {
+      "name": "Sharjah Art Museum",
+      "name_en": "",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "latitude": 25.361271,
+      "longitude": 55.387039,
+      "website": ""
+    },
+    {
+      "name": "Al Mukalla Museum",
+      "name_en": "",
+      "city": "Al Mukallā",
+      "country": "Yemen",
+      "latitude": 14.53133,
+      "longitude": 49.127716,
+      "website": ""
+    },
+    {
+      "name": "Almehdar Museum;متحف المحضار",
+      "name_en": "",
+      "city": "Ash Shiḩr",
+      "country": "Yemen",
+      "latitude": 14.766696,
+      "longitude": 49.607886,
+      "website": ""
+    },
+    {
+      "name": "المتحف الحربي",
+      "name_en": "",
+      "city": "Sanaa",
+      "country": "Yemen",
+      "latitude": 15.353051,
+      "longitude": 44.204582,
+      "website": ""
+    },
+    {
+      "name": "المتحف العسكري",
+      "name_en": "",
+      "city": "Aden",
+      "country": "Yemen",
+      "latitude": 12.779074,
+      "longitude": 45.036435,
+      "website": ""
+    },
+    {
+      "name": "المتحف الوطني",
+      "name_en": "National Museum",
+      "city": "Sanaa",
+      "country": "Yemen",
+      "latitude": 15.35624,
+      "longitude": 44.205809,
+      "website": ""
+    },
+    {
+      "name": "بيت العبد باعوظه",
+      "name_en": "",
+      "city": "Ar Rawḑah",
+      "country": "Yemen",
+      "latitude": 14.355628,
+      "longitude": 47.352638,
+      "website": ""
+    },
+    {
+      "name": "متحف الغيضة",
+      "name_en": "",
+      "city": "Al Ghayz̧ah",
+      "country": "Yemen",
+      "latitude": 16.208468,
+      "longitude": 52.187198,
+      "website": ""
+    },
+    {
+      "name": "متحف الوطني",
+      "name_en": "",
+      "city": "Aden",
+      "country": "Yemen",
+      "latitude": 12.778918,
+      "longitude": 45.043062,
+      "website": ""
+    },
+    {
+      "name": "متحف اليمن للسيارات الكلاسيكية",
+      "name_en": "",
+      "city": "Al Ḩamdī",
+      "country": "Yemen",
+      "latitude": 15.948675,
+      "longitude": 48.776479,
+      "website": ""
+    },
+    {
+      "name": "متحف تعز الوطني",
+      "name_en": "National Museum Taiz",
+      "city": "Ta‘izz",
+      "country": "Yemen",
+      "latitude": 13.573725,
+      "longitude": 44.023981,
+      "website": ""
+    },
+    {
+      "name": "متحف سيئون",
+      "name_en": "",
+      "city": "Al Ḩamdī",
+      "country": "Yemen",
+      "latitude": 15.945797,
+      "longitude": 48.784103,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "متاحف في الدول العربية (Museums in Arab countries) - تحميل مجاني",
+    "description": "قائمة من 342 متحفًا في الدول العربية مستخرجة من OpenStreetMap، تشمل الاسم والمدينة والإحداثيات والموقع الإلكتروني. يحتوي على 342 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "متاحف في الدول العربية (Museums in Arab countries) | ListBase",
+    "seo_description": "تحميل متاحف في الدول العربية (Museums in Arab countries) — 342 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 342 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

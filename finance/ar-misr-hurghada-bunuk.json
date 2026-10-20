@@ -1,0 +1,177 @@
+{
+  "id": "ar-misr-hurghada-bunuk",
+  "name": "بنوك Hurghada — مصر — رموز سويفت (Banks of Hurghada, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Hurghada — مصر — رموز سويفت (Banks of Hurghada, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Hurghada (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 18 سجلًا. List of banks, financial institutions and their branches in Hurghada, Egypt with the SWIFT/BIC code, bank name and branch name for each. 18 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA)",
+      "swift_code": "BCAIEGCX730"
+    },
+    {
+      "id": 2,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA BRANCH)",
+      "swift_code": "MRBAEGCX007"
+    },
+    {
+      "id": 3,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(EL BASHA HOTEL)",
+      "swift_code": "CIBEEGCX052"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(EL GOUNA BRANCH )",
+      "swift_code": "CIBEEGCX050"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA BRANCH)",
+      "swift_code": "CIBEEGCX019"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA BRANCH)",
+      "swift_code": "CIBEEGCX076"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(MAKADI BAY)",
+      "swift_code": "CIBEEGCX051"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(MARINA ABU TIG)",
+      "swift_code": "CIBEEGCX189"
+    },
+    {
+      "id": 9,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(SPLANADA BRANCH)",
+      "swift_code": "CIBEEGCX069"
+    },
+    {
+      "id": 10,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "HURGHADA",
+      "branch": "(SUNRISE BRANCH)",
+      "swift_code": "CIBEEGCX104"
+    },
+    {
+      "id": 11,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "HURGHADA",
+      "branch": "",
+      "swift_code": "ARLBEGCAHRG"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA BRANCH)",
+      "swift_code": "NBADEGCAHUR"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "HURGHADA",
+      "branch": "(SENZO BRANCH)",
+      "swift_code": "NBADEGCASNZ"
+    },
+    {
+      "id": 14,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "HURGHADA",
+      "branch": "(ELMAMSHA BRANCH)",
+      "swift_code": "NBEGEGCX357"
+    },
+    {
+      "id": 15,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "HURGHADA",
+      "branch": "(EMPIRE BRANCH)",
+      "swift_code": "NBEGEGCX355"
+    },
+    {
+      "id": 16,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "HURGHADA",
+      "branch": "(HAY EL SAKALLA BRANCH)",
+      "swift_code": "NBEGEGCX356"
+    },
+    {
+      "id": 17,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "HURGHADA",
+      "branch": "(HAY EL-DAHAR BRANCH)",
+      "swift_code": "NBEGEGCX347"
+    },
+    {
+      "id": 18,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "HURGHADA",
+      "branch": "(HURGHADA BRANCH)",
+      "swift_code": "NBEGEGCX341"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Hurghada — مصر — رموز سويفت (Banks of Hurghada, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Hurghada (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 18 سجلًا. List of banks, financial institutions and their branches in Hurghada, Egypt with the SWIFT/BIC code, bank name and branch name for each. 18 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 18 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Hurghada — مصر — رموز سويفت (Banks of Hurghada, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Hurghada — مصر — رموز سويفت (Banks of Hurghada, Egypt — SWIFT/BIC codes) — 18 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 18 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

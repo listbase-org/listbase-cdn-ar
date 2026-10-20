@@ -1,0 +1,169 @@
+{
+  "id": "ar-misr-sohag-mudun",
+  "name": "مدن ومراكز محافظة سوهاج (Cities & Towns of Sohag)",
+  "title": "مدن ومراكز محافظة سوهاج (Cities & Towns of Sohag)",
+  "description": "قائمة مدن ومراكز محافظة سوهاج في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Sohag governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "316",
+      "name_ar": "أخميم",
+      "name_en": "akhmim",
+      "name_long_ar": "أخميم، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "276",
+      "name_ar": "البلينا",
+      "name_en": "baliana",
+      "name_long_ar": "البلينا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "285",
+      "name_ar": "العسيرات",
+      "name_en": "alasirat",
+      "name_long_ar": "العسيرات، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "283",
+      "name_ar": "المراغة",
+      "name_en": "maragha",
+      "name_long_ar": "المراغة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "284",
+      "name_ar": "المنشاة",
+      "name_en": "monsha-a",
+      "name_long_ar": "المنشاة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "277",
+      "name_ar": "جرجا",
+      "name_en": "girga",
+      "name_long_ar": "جرجا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "279",
+      "name_ar": "جهينة",
+      "name_en": "juhaynah",
+      "name_long_ar": "جهينة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "278",
+      "name_ar": "دارالسلام",
+      "name_en": "dar-es-salam",
+      "name_long_ar": "دارالسلام، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "280",
+      "name_ar": "ساقلتة",
+      "name_en": "sakaltah",
+      "name_long_ar": "ساقلتة، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "281",
+      "name_ar": "طما",
+      "name_en": "tama",
+      "name_long_ar": "طما، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "282",
+      "name_ar": "طهطا",
+      "name_en": "tahta",
+      "name_long_ar": "طهطا، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    },
+    {
+      "id": "274",
+      "name_ar": "مدينة سوهاج",
+      "name_en": "sohag-city",
+      "name_long_ar": "مدينة سوهاج، سوهاج",
+      "muhafaza_ar": "سوهاج",
+      "muhafaza_en": "sohag",
+      "muhafaza_id": 77
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة سوهاج (Cities & Towns of Sohag) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة سوهاج في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Sohag governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة سوهاج (Cities & Towns of Sohag) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة سوهاج (Cities & Towns of Sohag) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

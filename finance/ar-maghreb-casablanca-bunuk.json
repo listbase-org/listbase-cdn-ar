@@ -1,0 +1,443 @@
+{
+  "id": "ar-maghreb-casablanca-bunuk",
+  "name": "بنوك Casablanca — المغرب — رموز سويفت (Banks of Casablanca, Morocco — SWIFT/BIC codes)",
+  "title": "بنوك Casablanca — المغرب — رموز سويفت (Banks of Casablanca, Morocco — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Casablanca (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 56 سجلًا. List of banks, financial institutions and their branches in Casablanca, Morocco with the SWIFT/BIC code, bank name and branch name for each. 56 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK PLC.",
+      "city": "CASABLANCA",
+      "branch": "(AL FIDA AVENUE BRANCH)",
+      "swift_code": "ARABMAM10M4"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB BANK PLC.",
+      "city": "CASABLANCA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "ARABMAMC210"
+    },
+    {
+      "id": 3,
+      "bank": "ARAB BANK PLC.",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "ARABMAMC"
+    },
+    {
+      "id": 4,
+      "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+      "city": "CASABLANCA",
+      "branch": "(ATTIJARI INTERMEDIATION)",
+      "swift_code": "BCMAMAMCATI"
+    },
+    {
+      "id": 5,
+      "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+      "city": "CASABLANCA",
+      "branch": "(BCMAMAMCBAS)",
+      "swift_code": "BCMAMAMCBAS"
+    },
+    {
+      "id": 6,
+      "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+      "city": "CASABLANCA",
+      "branch": "(BRANCH CTN DEVISE)",
+      "swift_code": "BCMAMAMCDEV"
+    },
+    {
+      "id": 7,
+      "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BCMAMAMC"
+    },
+    {
+      "id": 8,
+      "bank": "BANCO DE SABADELL, S.A.",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BSABMAMC"
+    },
+    {
+      "id": 9,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(DEPT. BACK OFFICE)",
+      "swift_code": "BCPOMAMCBKO"
+    },
+    {
+      "id": 10,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(DEPT. MONETIQUES)",
+      "swift_code": "BCPOMAMCMON"
+    },
+    {
+      "id": 11,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(DEPT. RECONCILIATION)",
+      "swift_code": "BCPOMAMCREC"
+    },
+    {
+      "id": 12,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(SCE. DOCUMENTAIRE)",
+      "swift_code": "BCPOMAMCDOC"
+    },
+    {
+      "id": 13,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(SCE. FINANCIER)",
+      "swift_code": "BCPOMAMCFIN"
+    },
+    {
+      "id": 14,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(TRANFERTS DES MAROCAINS RESIDANTS A L'ETRANGER)",
+      "swift_code": "BCPOMAMCMRE"
+    },
+    {
+      "id": 15,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "(YSR)",
+      "swift_code": "BCPOMAMCYSR"
+    },
+    {
+      "id": 16,
+      "bank": "BANQUE CENTRALE POPULAIRE",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BCPOMAMC"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "CASABLANCA",
+      "branch": "(AGENCE CORPORATE)",
+      "swift_code": "BMCEMAMCCOR"
+    },
+    {
+      "id": 18,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "CASABLANCA",
+      "branch": "(COMPTE SPECIAL MRE)",
+      "swift_code": "BMCEMAMCMRE"
+    },
+    {
+      "id": 19,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "CASABLANCA",
+      "branch": "(SALLE DES MARCHES, CASABLANCA)",
+      "swift_code": "BMCEMAMCSDM"
+    },
+    {
+      "id": 20,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BMCEMAMC"
+    },
+    {
+      "id": 21,
+      "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BMCEMAMCBTI"
+    },
+    {
+      "id": 22,
+      "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+      "city": "CASABLANCA",
+      "branch": "(BMCI FINANCE PARTICIPATIVE)",
+      "swift_code": "BMCIMAMCNFP"
+    },
+    {
+      "id": 23,
+      "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BMCIMAMC"
+    },
+    {
+      "id": 24,
+      "bank": "BANQUE POPULAIRE CASA-ANFA",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BCPOMAMCCAS"
+    },
+    {
+      "id": 25,
+      "bank": "BANQUE POPULAIRE CASA-EST",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BCPOMAM10MG"
+    },
+    {
+      "id": 26,
+      "bank": "BANQUE POPULAIRE CASA-SUD",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "BCPOMAM10MH"
+    },
+    {
+      "id": 27,
+      "bank": "BOURSE DE CASABLANCA SA",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "XCASMAM1"
+    },
+    {
+      "id": 28,
+      "bank": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CAIXMAMC"
+    },
+    {
+      "id": 29,
+      "bank": "CENTRALE POPULAIRE (BANQUE) SA",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CRPMMAM1"
+    },
+    {
+      "id": 30,
+      "bank": "CFG BANK",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CAFGMAMC"
+    },
+    {
+      "id": 31,
+      "bank": "CITIBANK MAGHREB",
+      "city": "CASABLANCA",
+      "branch": "(TRADE SERVICES DEPARTMENT)",
+      "swift_code": "CITIMAMCTRD"
+    },
+    {
+      "id": 32,
+      "bank": "CITIBANK MAGHREB",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CITIMAMC"
+    },
+    {
+      "id": 33,
+      "bank": "COMPAGNIE NATIONALE ROYAL AIR MAROC",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "RAMSMAMC"
+    },
+    {
+      "id": 34,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "(ACTIVITES ET OPERATIONS PARTICIPATIVES)",
+      "swift_code": "CDMAMAMCPAR"
+    },
+    {
+      "id": 35,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "(ALL MOROCCO BRANCHES)",
+      "swift_code": "CDMAMAMC"
+    },
+    {
+      "id": 36,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "(OFFSHORE SERVICES)",
+      "swift_code": "CDMAMAMCCOS"
+    },
+    {
+      "id": 37,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "(TRADE CENTER CENTRE-VILLE)",
+      "swift_code": "CDMAMAMC703"
+    },
+    {
+      "id": 38,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "(TRADE CENTER EXPANSION)",
+      "swift_code": "CDMAMAMC700"
+    },
+    {
+      "id": 39,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CDMAMAMC701"
+    },
+    {
+      "id": 40,
+      "bank": "CREDIT DU MAROC",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CDMAMAMC702"
+    },
+    {
+      "id": 41,
+      "bank": "CREDIT IMMOBILIER ET HOTELIER",
+      "city": "CASABLANCA",
+      "branch": "(DEPARTEMENT ETRANGER)",
+      "swift_code": "CIHMMAMCDEP"
+    },
+    {
+      "id": 42,
+      "bank": "CREDIT IMMOBILIER ET HOTELIER",
+      "city": "CASABLANCA",
+      "branch": "(SALLE DES MARCHES)",
+      "swift_code": "CIHMMAMCSDM"
+    },
+    {
+      "id": 43,
+      "bank": "CREDIT IMMOBILIER ET HOTELIER",
+      "city": "CASABLANCA",
+      "branch": "(UMNIA BANK)",
+      "swift_code": "CIHMMAMCUBP"
+    },
+    {
+      "id": 44,
+      "bank": "CREDIT IMMOBILIER ET HOTELIER",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "CIHMMAMC"
+    },
+    {
+      "id": 45,
+      "bank": "GROUPE OCP",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "GOCPMAMC"
+    },
+    {
+      "id": 46,
+      "bank": "INTEGRA BOURSE",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "ITBOMAM1"
+    },
+    {
+      "id": 47,
+      "bank": "MAROC SERVICES INTERMEDIATION",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "MAVIMAM1"
+    },
+    {
+      "id": 48,
+      "bank": "MAROCLEAR SA",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "MAROMAM1"
+    },
+    {
+      "id": 49,
+      "bank": "MEDIAFINANCE",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "MEDCMAMC"
+    },
+    {
+      "id": 50,
+      "bank": "SAMSUNG ELECTRONICS MOROCCO",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "SECTMAM1"
+    },
+    {
+      "id": 51,
+      "bank": "SAMSUNG ELECTRONICS MOROCCO",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "SECTMAM1780"
+    },
+    {
+      "id": 52,
+      "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "city": "CASABLANCA",
+      "branch": "(CASH MANAGEMENT INTERNATIONAL)",
+      "swift_code": "SGMBMAMCCMI"
+    },
+    {
+      "id": 53,
+      "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "city": "CASABLANCA",
+      "branch": "(FLUX CASH MANAGEMENT)",
+      "swift_code": "SGMBMAMCFCM"
+    },
+    {
+      "id": 54,
+      "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "SGMBMAMC"
+    },
+    {
+      "id": 55,
+      "bank": "UNION MAROCAINE DE BANQUES",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "UMABMAMC"
+    },
+    {
+      "id": 56,
+      "bank": "UPLINE INTERNATIONAL S.A.",
+      "city": "CASABLANCA",
+      "branch": "",
+      "swift_code": "UPLNMAM1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Casablanca — المغرب — رموز سويفت (Banks of Casablanca, Morocco — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Casablanca (المغرب) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 56 سجلًا. List of banks, financial institutions and their branches in Casablanca, Morocco with the SWIFT/BIC code, bank name and branch name for each. 56 records. Source: PeterNotenboom/SwiftCodes AllCountries/MA.json (MIT). يحتوي على 56 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Casablanca — المغرب — رموز سويفت (Banks of Casablanca, Morocco — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Casablanca — المغرب — رموز سويفت (Banks of Casablanca, Morocco — SWIFT/BIC codes) — 56 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 56 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

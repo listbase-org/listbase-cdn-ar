@@ -1,0 +1,565 @@
+{
+  "id": "ar-misr-alexandria-mudun",
+  "name": "مدن ومراكز محافظة الإسكندرية (Cities & Towns of Alexandria)",
+  "title": "مدن ومراكز محافظة الإسكندرية (Cities & Towns of Alexandria)",
+  "description": "قائمة مدن ومراكز محافظة الإسكندرية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Alexandria governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "297",
+      "name_ar": "أبو قير",
+      "name_en": "abu-qir",
+      "name_long_ar": "أبو قير، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "96",
+      "name_ar": "الأزاريطة",
+      "name_en": "azarita",
+      "name_long_ar": "الأزاريطة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "390",
+      "name_ar": "الإبراهيمية",
+      "name_en": "al-lbrahimiyyah",
+      "name_long_ar": "الإبراهيمية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "296",
+      "name_ar": "الإسكندرية",
+      "name_en": "alexandria",
+      "name_long_ar": "الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "108",
+      "name_ar": "الجمرك",
+      "name_en": "gomrok",
+      "name_long_ar": "الجمرك، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "362",
+      "name_ar": "الحضرة",
+      "name_en": "al-hadrah",
+      "name_long_ar": "الحضرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "314",
+      "name_ar": "الدخيلة",
+      "name_en": "dekheila",
+      "name_long_ar": "الدخيلة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "304",
+      "name_ar": "السيوف",
+      "name_en": "seyouf",
+      "name_long_ar": "السيوف، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "97",
+      "name_ar": "الصالحية",
+      "name_en": "salehia",
+      "name_long_ar": "الصالحية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "98",
+      "name_ar": "الظاهرية",
+      "name_en": "dhahria",
+      "name_long_ar": "الظاهرية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "99",
+      "name_ar": "العامرية",
+      "name_en": "amreya",
+      "name_long_ar": "العامرية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "100",
+      "name_ar": "العصافرة",
+      "name_en": "asafra",
+      "name_long_ar": "العصافرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "101",
+      "name_ar": "العطارين",
+      "name_en": "attarin",
+      "name_long_ar": "العطارين، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "109",
+      "name_ar": "العوايد",
+      "name_en": "awayed",
+      "name_long_ar": "العوايد، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "122",
+      "name_ar": "القباري",
+      "name_en": "kabbary",
+      "name_long_ar": "القباري، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "102",
+      "name_ar": "اللبان",
+      "name_en": "labban",
+      "name_long_ar": "اللبان، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "299",
+      "name_ar": "المعمورة",
+      "name_en": "maamoura",
+      "name_long_ar": "المعمورة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "361",
+      "name_ar": "المكس",
+      "name_en": "el-max",
+      "name_long_ar": "المكس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "300",
+      "name_ar": "المنتزه",
+      "name_en": "montazah",
+      "name_long_ar": "المنتزه، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "302",
+      "name_ar": "المندرة",
+      "name_en": "mandara",
+      "name_long_ar": "المندرة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "103",
+      "name_ar": "المنشية",
+      "name_en": "manshiyya",
+      "name_long_ar": "المنشية، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "113",
+      "name_ar": "النخيل",
+      "name_en": "nakheel",
+      "name_long_ar": "النخيل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "123",
+      "name_ar": "النزهة",
+      "name_en": "nozha",
+      "name_long_ar": "النزهة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "95",
+      "name_ar": "الورديان",
+      "name_en": "wardian",
+      "name_long_ar": "الورديان، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "104",
+      "name_ar": "باكوس",
+      "name_en": "bacchus",
+      "name_long_ar": "باكوس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "313",
+      "name_ar": "بحرى والأنفوشى",
+      "name_en": "bahray-anfoshy",
+      "name_long_ar": "بحرى والأنفوشى، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "318",
+      "name_ar": "برج العرب",
+      "name_en": "borg-al-arab",
+      "name_long_ar": "برج العرب، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "105",
+      "name_ar": "بولكلي",
+      "name_en": "bolkly",
+      "name_long_ar": "بولكلي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "106",
+      "name_ar": "جليم",
+      "name_en": "glim",
+      "name_long_ar": "جليم، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "107",
+      "name_ar": "جناكليس",
+      "name_en": "gianaclis",
+      "name_long_ar": "جناكليس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "110",
+      "name_ar": "رأس التين",
+      "name_en": "ras-el-tin",
+      "name_long_ar": "رأس التين، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "412",
+      "name_ar": "رشدي",
+      "name_en": "roushdy",
+      "name_long_ar": "رشدي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "111",
+      "name_ar": "زيزينيا",
+      "name_en": "zezenia",
+      "name_long_ar": "زيزينيا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "112",
+      "name_ar": "سابا باشا",
+      "name_en": "saba-pasha",
+      "name_long_ar": "سابا باشا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "305",
+      "name_ar": "سان ستيفانو",
+      "name_en": "san-stefano",
+      "name_long_ar": "سان ستيفانو، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "124",
+      "name_ar": "سبورتنج",
+      "name_en": "sporting",
+      "name_long_ar": "سبورتنج، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "306",
+      "name_ar": "ستانلي",
+      "name_en": "stanley",
+      "name_long_ar": "ستانلي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "309",
+      "name_ar": "سموحة",
+      "name_en": "smoha",
+      "name_long_ar": "سموحة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "303",
+      "name_ar": "سيدي بشر",
+      "name_en": "sidi-beshr",
+      "name_long_ar": "سيدي بشر، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "307",
+      "name_ar": "سيدي جابر",
+      "name_en": "sidi-gaber",
+      "name_long_ar": "سيدي جابر، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "310",
+      "name_ar": "شاطبي",
+      "name_en": "shatby",
+      "name_long_ar": "شاطبي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "114",
+      "name_ar": "شدس",
+      "name_en": "schutz",
+      "name_long_ar": "شدس، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "298",
+      "name_ar": "طوسون",
+      "name_en": "tosson",
+      "name_long_ar": "طوسون، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "317",
+      "name_ar": "عجمي",
+      "name_en": "agami",
+      "name_long_ar": "عجمي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "115",
+      "name_ar": "فلمنج",
+      "name_en": "fleming",
+      "name_long_ar": "فلمنج، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "121",
+      "name_ar": "فيكتوريا",
+      "name_en": "victoria",
+      "name_long_ar": "فيكتوريا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "116",
+      "name_ar": "كامب شيزار",
+      "name_en": "camp-caesar",
+      "name_long_ar": "كامب شيزار، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "117",
+      "name_ar": "كرموز",
+      "name_en": "karmous",
+      "name_long_ar": "كرموز، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "308",
+      "name_ar": "كفر عبدو",
+      "name_en": "kafr-abdo",
+      "name_long_ar": "كفر عبدو، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "125",
+      "name_ar": "كليوباترا",
+      "name_en": "cleopatra",
+      "name_long_ar": "كليوباترا، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "118",
+      "name_ar": "كوم الدكة",
+      "name_en": "koum-al-dikka",
+      "name_long_ar": "كوم الدكة، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "119",
+      "name_ar": "لوران",
+      "name_en": "laurent",
+      "name_long_ar": "لوران، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "312",
+      "name_ar": "محرّم بيك",
+      "name_en": "moharam-bik",
+      "name_long_ar": "محرّم بيك، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "311",
+      "name_ar": "محطة الرمل",
+      "name_en": "raml-station",
+      "name_long_ar": "محطة الرمل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "301",
+      "name_ar": "ميامي",
+      "name_en": "miami",
+      "name_long_ar": "ميامي، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    },
+    {
+      "id": "120",
+      "name_ar": "مينا البصل",
+      "name_en": "mina-al-basal",
+      "name_long_ar": "مينا البصل، الإسكندرية",
+      "muhafaza_ar": "الإسكندرية",
+      "muhafaza_en": "alexandria",
+      "muhafaza_id": 6
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الإسكندرية (Cities & Towns of Alexandria) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الإسكندرية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Alexandria governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 56 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الإسكندرية (Cities & Towns of Alexandria) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الإسكندرية (Cities & Towns of Alexandria) — 56 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 56 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

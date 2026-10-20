@@ -1,0 +1,216 @@
+{
+  "id": "ar-mudun-madagascar",
+  "name": "مدن مدغشقر — Cities of Madagascar (Arabic names)",
+  "title": "مدن مدغشقر — Cities of Madagascar (Arabic names)",
+  "description": "قائمة بأسماء مدن مدغشقر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Madagascar with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "أنتاناناريفو",
+      "name_en": "Antananarivo",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 1275207
+    },
+    {
+      "id": 2,
+      "name_ar": "أنتسيرابي",
+      "name_en": "Antsirabe",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 265018
+    },
+    {
+      "id": 3,
+      "name_ar": "إقليم ماهاجانجا",
+      "name_en": "Mahajanga",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 246022
+    },
+    {
+      "id": 4,
+      "name_ar": "تواماسينا",
+      "name_en": "Toamasina",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 225116
+    },
+    {
+      "id": 5,
+      "name_ar": "فيانارانتسوا",
+      "name_en": "Fianarantsoa",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 191776
+    },
+    {
+      "id": 6,
+      "name_ar": "إقليم توليارا",
+      "name_en": "Toliara",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 168756
+    },
+    {
+      "id": 7,
+      "name_ar": "أنتسيرانانا",
+      "name_en": "Antsiranana",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 129320
+    },
+    {
+      "id": 8,
+      "name_ar": "محافظة سامبافا",
+      "name_en": "Sambava",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 84039
+    },
+    {
+      "id": 9,
+      "name_ar": "ضاحية أنتالاها",
+      "name_en": "Antalaha",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 67888
+    },
+    {
+      "id": 10,
+      "name_ar": "تولانارو",
+      "name_en": "Tolanaro",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 67284
+    },
+    {
+      "id": 11,
+      "name_ar": "ريف أمبانجا",
+      "name_en": "Ambanja",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 60321
+    },
+    {
+      "id": 12,
+      "name_ar": "أنتانيفوتسي",
+      "name_en": "Antanifotsy",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 54448
+    },
+    {
+      "id": 13,
+      "name_ar": "موروندافا",
+      "name_en": "Morondava",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 53510
+    },
+    {
+      "id": 14,
+      "name_ar": "أمباتوندرازاكا",
+      "name_en": "Ambatondrazaka",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 47649
+    },
+    {
+      "id": 15,
+      "name_ar": "فينواريفو أتسينانانا",
+      "name_en": "Fenoarivo Atsinanana",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 41734
+    },
+    {
+      "id": 16,
+      "name_ar": "ايهوسي",
+      "name_en": "Ihosy",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 39556
+    },
+    {
+      "id": 17,
+      "name_ar": "ماروفواي",
+      "name_en": "Marovoay",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 39290
+    },
+    {
+      "id": 18,
+      "name_ar": "جمهورية الكونغو",
+      "name_en": "Ikongo",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 36684
+    },
+    {
+      "id": 19,
+      "name_ar": "بيتافو",
+      "name_en": "Betafo",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 34336
+    },
+    {
+      "id": 20,
+      "name_ar": "دنيغة",
+      "name_en": "Didy",
+      "country_ar": "مدغشقر",
+      "country_en": "Madagascar",
+      "population": 33039
+    }
+  ],
+  "meta": {
+    "title": "مدن مدغشقر — Cities of Madagascar (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مدغشقر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Madagascar with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 20 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مدغشقر — Cities of Madagascar (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مدغشقر — Cities of Madagascar (Arabic names) — 20 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 20 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

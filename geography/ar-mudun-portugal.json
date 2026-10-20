@@ -1,0 +1,720 @@
+{
+  "id": "ar-mudun-portugal",
+  "name": "مدن البرتغال — Cities of Portugal (Arabic names)",
+  "title": "مدن البرتغال — Cities of Portugal (Arabic names)",
+  "description": "قائمة بأسماء مدن البرتغال بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 83 cities in Portugal with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "لشبونة",
+      "name_en": "Lisbon",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 548703
+    },
+    {
+      "id": 2,
+      "name_ar": "طيور",
+      "name_en": "Aves",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 425411
+    },
+    {
+      "id": 3,
+      "name_ar": "شنترة",
+      "name_en": "Sintra",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 385606
+    },
+    {
+      "id": 4,
+      "name_ar": "فيلا نوا دغايا",
+      "name_en": "Vila Nova de Gaia",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 303824
+    },
+    {
+      "id": 5,
+      "name_ar": "بورتو",
+      "name_en": "Porto",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 231800
+    },
+    {
+      "id": 6,
+      "name_ar": "كاشكايش",
+      "name_en": "Cascais",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 214158
+    },
+    {
+      "id": 7,
+      "name_ar": "لوريس",
+      "name_en": "Loures",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 201632
+    },
+    {
+      "id": 8,
+      "name_ar": "سيشال",
+      "name_en": "Seixal",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 184269
+    },
+    {
+      "id": 9,
+      "name_ar": "براقرة",
+      "name_en": "Braga",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 181494
+    },
+    {
+      "id": 10,
+      "name_ar": "ألمادا",
+      "name_en": "Almada",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 177238
+    },
+    {
+      "id": 11,
+      "name_ar": "مَتُزِنيُش",
+      "name_en": "Matosinhos",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 172557
+    },
+    {
+      "id": 12,
+      "name_ar": "أويرس",
+      "name_en": "Oeiras",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 171658
+    },
+    {
+      "id": 13,
+      "name_ar": "أمادورا",
+      "name_en": "Amadora",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 171454
+    },
+    {
+      "id": 14,
+      "name_ar": "جُندُمار",
+      "name_en": "Gondomar",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 164257
+    },
+    {
+      "id": 15,
+      "name_ar": "أوديفلاس",
+      "name_en": "Odivelas",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 148034
+    },
+    {
+      "id": 16,
+      "name_ar": "قلمرية",
+      "name_en": "Coimbra",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 140816
+    },
+    {
+      "id": 17,
+      "name_ar": "فيلا فرانكا دي إكسيرا",
+      "name_en": "Vila Franca de Xira",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 137529
+    },
+    {
+      "id": 18,
+      "name_ar": "مايا",
+      "name_en": "Maia",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 134977
+    },
+    {
+      "id": 19,
+      "name_ar": "فيلا نوا د فاماليساو",
+      "name_en": "Famalicao",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 133832
+    },
+    {
+      "id": 20,
+      "name_ar": "لَيرِية",
+      "name_en": "Leiria",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 126897
+    },
+    {
+      "id": 21,
+      "name_ar": "بَرسِلُش",
+      "name_en": "Barcelos",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 116752
+    },
+    {
+      "id": 22,
+      "name_ar": "فُنْشال",
+      "name_en": "Funchal",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 105795
+    },
+    {
+      "id": 23,
+      "name_ar": "بازو",
+      "name_en": "Viseu",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 99274
+    },
+    {
+      "id": 24,
+      "name_ar": "فالونغو",
+      "name_en": "Valongo",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 93858
+    },
+    {
+      "id": 25,
+      "name_ar": "فيانا دو كاستيلو",
+      "name_en": "Viana do Castelo",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 88725
+    },
+    {
+      "id": 26,
+      "name_ar": "باريديس",
+      "name_en": "Paredes",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 86854
+    },
+    {
+      "id": 27,
+      "name_ar": "فيلا دو كوندي",
+      "name_en": "Vila do Conde",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 79533
+    },
+    {
+      "id": 28,
+      "name_ar": "توريس فيدراس",
+      "name_en": "Torres Vedras",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 79465
+    },
+    {
+      "id": 29,
+      "name_ar": "أفيرو",
+      "name_en": "Aveiro",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 78450
+    },
+    {
+      "id": 30,
+      "name_ar": "برَّيْرة",
+      "name_en": "Barreiro",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 78345
+    },
+    {
+      "id": 31,
+      "name_ar": "كويلوز",
+      "name_en": "Queluz",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 78273
+    },
+    {
+      "id": 32,
+      "name_ar": "سانتو تريسو",
+      "name_en": "Santo Tirso",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 71530
+    },
+    {
+      "id": 33,
+      "name_ar": "لولي",
+      "name_en": "Loule",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 70622
+    },
+    {
+      "id": 34,
+      "name_ar": "بُنتة دِلغَادة",
+      "name_en": "Ponta Delgada",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 68809
+    },
+    {
+      "id": 35,
+      "name_ar": "بوفوا دي فارزيم",
+      "name_en": "Povoa de Varzim",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 64320
+    },
+    {
+      "id": 36,
+      "name_ar": "بالملا",
+      "name_en": "Palmela",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 62831
+    },
+    {
+      "id": 37,
+      "name_ar": "شنترين",
+      "name_en": "Santarem",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 62200
+    },
+    {
+      "id": 38,
+      "name_ar": "فيغيرا دا فوز",
+      "name_en": "Figueira da Foz",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 62125
+    },
+    {
+      "id": 39,
+      "name_ar": "بُرتِماو",
+      "name_en": "Portimao",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 59845
+    },
+    {
+      "id": 40,
+      "name_ar": "فِلجَيرس",
+      "name_en": "Felgueiras",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 58065
+    },
+    {
+      "id": 41,
+      "name_ar": "نادي باسوش دي فيريرا",
+      "name_en": "Pacos de Ferreira",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 56340
+    },
+    {
+      "id": 42,
+      "name_ar": "أمارنتة",
+      "name_en": "Amarante",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 56264
+    },
+    {
+      "id": 43,
+      "name_ar": "كاستيلو برانكو",
+      "name_en": "Castelo Branco",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 56109
+    },
+    {
+      "id": 44,
+      "name_ar": "أوفار",
+      "name_en": "Ovar",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 55398
+    },
+    {
+      "id": 45,
+      "name_ar": "بُمبال",
+      "name_en": "Pombal",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 55217
+    },
+    {
+      "id": 46,
+      "name_ar": "القُباسة",
+      "name_en": "Alcobaca",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 53649
+    },
+    {
+      "id": 47,
+      "name_ar": "يابرة",
+      "name_en": "Evora",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 53591
+    },
+    {
+      "id": 48,
+      "name_ar": "فياريال",
+      "name_en": "Vila Real",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 51850
+    },
+    {
+      "id": 49,
+      "name_ar": "كوفيليا",
+      "name_en": "Covilha",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 51797
+    },
+    {
+      "id": 50,
+      "name_ar": "كالداس دا رينها",
+      "name_en": "Caldas da Rainha",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 51729
+    },
+    {
+      "id": 51,
+      "name_ar": "مونتيجو",
+      "name_en": "Montijo",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 51222
+    },
+    {
+      "id": 52,
+      "name_ar": "مجموعة ريو تينتو",
+      "name_en": "Rio Tinto",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 50713
+    },
+    {
+      "id": 53,
+      "name_ar": "فافي",
+      "name_en": "Fafe",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 50633
+    },
+    {
+      "id": 54,
+      "name_ar": "أمورا",
+      "name_en": "Amora",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 48629
+    },
+    {
+      "id": 55,
+      "name_ar": "أجويدا",
+      "name_en": "Agueda",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 47729
+    },
+    {
+      "id": 56,
+      "name_ar": "أوريم",
+      "name_en": "Ourem",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 45932
+    },
+    {
+      "id": 57,
+      "name_ar": "أولاو",
+      "name_en": "Olhao",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 45396
+    },
+    {
+      "id": 58,
+      "name_ar": "ألبوفيرا",
+      "name_en": "Albufeira",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 44158
+    },
+    {
+      "id": 59,
+      "name_ar": "بونتي دي ليما",
+      "name_en": "Ponte de Lima",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 43498
+    },
+    {
+      "id": 60,
+      "name_ar": "سانتا كروز",
+      "name_en": "Santa Cruz",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 43005
+    },
+    {
+      "id": 61,
+      "name_ar": "غوآردا",
+      "name_en": "Guarda",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 42541
+    },
+    {
+      "id": 62,
+      "name_ar": "تشافيس",
+      "name_en": "Chaves",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 41243
+    },
+    {
+      "id": 63,
+      "name_ar": "طومار",
+      "name_en": "Tomar",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 40677
+    },
+    {
+      "id": 64,
+      "name_ar": "أبرانتيس",
+      "name_en": "Abrantes",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 39325
+    },
+    {
+      "id": 65,
+      "name_ar": "مارينها جراندي",
+      "name_en": "Marinha Grande",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 39032
+    },
+    {
+      "id": 66,
+      "name_ar": "طُروفة",
+      "name_en": "Trofa",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 38999
+    },
+    {
+      "id": 67,
+      "name_ar": "إرمِسِنْدة",
+      "name_en": "Ermezinde",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 38798
+    },
+    {
+      "id": 68,
+      "name_ar": "تورس نواس",
+      "name_en": "Torres Novas",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 36717
+    },
+    {
+      "id": 69,
+      "name_ar": "كَنْتَنهِيدَة",
+      "name_en": "Cantanhede",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 36595
+    },
+    {
+      "id": 70,
+      "name_ar": "باجة",
+      "name_en": "Beja",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 35854
+    },
+    {
+      "id": 71,
+      "name_ar": "أجوَلفة قاسم",
+      "name_en": "Agualva",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 35824
+    },
+    {
+      "id": 72,
+      "name_ar": "كامارا دي لوبوس",
+      "name_en": "Camara de Lobos",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 35666
+    },
+    {
+      "id": 73,
+      "name_ar": "آنغرا دو هروئيسمو",
+      "name_en": "Angra do Heroismo",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 35402
+    },
+    {
+      "id": 74,
+      "name_ar": "بَرغَنسة",
+      "name_en": "Braganca",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 35341
+    },
+    {
+      "id": 75,
+      "name_ar": "إسبوسيندي",
+      "name_en": "Esposende",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 34254
+    },
+    {
+      "id": 76,
+      "name_ar": "ريبيرا غراندي",
+      "name_en": "Ribeira Grande",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 32112
+    },
+    {
+      "id": 77,
+      "name_ar": "إلهافو",
+      "name_en": "Ilhavo",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 31383
+    },
+    {
+      "id": 78,
+      "name_ar": "لاغوس",
+      "name_en": "Lagos",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 31049
+    },
+    {
+      "id": 79,
+      "name_ar": "إسبينيو",
+      "name_en": "Espinho",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 31027
+    },
+    {
+      "id": 80,
+      "name_ar": "سانتياغو دو كاسيم",
+      "name_en": "Santiago do Cacem",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 29749
+    },
+    {
+      "id": 81,
+      "name_ar": "بيرافايتا، برشلونة",
+      "name_en": "Perafita",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 29407
+    },
+    {
+      "id": 82,
+      "name_ar": "بوفوا دي سانتا إريا",
+      "name_en": "Povoa de Santa Iria",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 29348
+    },
+    {
+      "id": 83,
+      "name_ar": "فُنداو",
+      "name_en": "Fundao",
+      "country_ar": "البرتغال",
+      "country_en": "Portugal",
+      "population": 29213
+    }
+  ],
+  "meta": {
+    "title": "مدن البرتغال — Cities of Portugal (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن البرتغال بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 83 cities in Portugal with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 83 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن البرتغال — Cities of Portugal (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن البرتغال — Cities of Portugal (Arabic names) — 83 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 83 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

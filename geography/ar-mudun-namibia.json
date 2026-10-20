@@ -1,0 +1,240 @@
+{
+  "id": "ar-mudun-namibia",
+  "name": "مدن ناميبيا — Cities of Namibia (Arabic names)",
+  "title": "مدن ناميبيا — Cities of Namibia (Arabic names)",
+  "description": "قائمة بأسماء مدن ناميبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 23 cities in Namibia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ويندهوك",
+      "name_en": "Windhoek",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 431000
+    },
+    {
+      "id": 2,
+      "name_ar": "روندو",
+      "name_en": "Rundu",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 118632
+    },
+    {
+      "id": 3,
+      "name_ar": "أوشاكاتي",
+      "name_en": "Oshakati",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 39679
+    },
+    {
+      "id": 4,
+      "name_ar": "تسوميب",
+      "name_en": "Tsumeb",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 34960
+    },
+    {
+      "id": 5,
+      "name_ar": "سواكوبموند",
+      "name_en": "Swakopmund",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 34300
+    },
+    {
+      "id": 6,
+      "name_ar": "أوندانغوا",
+      "name_en": "Ondangwa",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 30364
+    },
+    {
+      "id": 7,
+      "name_ar": "ريهوبوث",
+      "name_en": "Rehoboth",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 28843
+    },
+    {
+      "id": 8,
+      "name_ar": "كاتيما موليلو",
+      "name_en": "Katima Mulilo",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 28699
+    },
+    {
+      "id": 9,
+      "name_ar": "غرووتفونتين",
+      "name_en": "Grootfontein",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 26839
+    },
+    {
+      "id": 10,
+      "name_ar": "أوكاهانديا",
+      "name_en": "Okahandja",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 22639
+    },
+    {
+      "id": 11,
+      "name_ar": "أوتجيوارونغو",
+      "name_en": "Otjiwarongo",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 19614
+    },
+    {
+      "id": 12,
+      "name_ar": "غوبابوس",
+      "name_en": "Gobabis",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 19101
+    },
+    {
+      "id": 13,
+      "name_ar": "كيتمانشوب",
+      "name_en": "Keetmanshoop",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 16800
+    },
+    {
+      "id": 14,
+      "name_ar": "لودريتز",
+      "name_en": "Luderitz",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 12537
+    },
+    {
+      "id": 15,
+      "name_ar": "أوشيكانغو",
+      "name_en": "Oshikango",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 12423
+    },
+    {
+      "id": 16,
+      "name_ar": "أوبوو",
+      "name_en": "Opuwo",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 12335
+    },
+    {
+      "id": 17,
+      "name_ar": "أوماتهييا",
+      "name_en": "Omuthiya",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 7560
+    },
+    {
+      "id": 18,
+      "name_ar": "أومارورو",
+      "name_en": "Omaruru",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 6300
+    },
+    {
+      "id": 19,
+      "name_ar": "أوتجو",
+      "name_en": "Outjo",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 6013
+    },
+    {
+      "id": 20,
+      "name_ar": "كاريبيب",
+      "name_en": "Karibib",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 5132
+    },
+    {
+      "id": 21,
+      "name_ar": "أوتابي",
+      "name_en": "Outapi",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 4606
+    },
+    {
+      "id": 22,
+      "name_ar": "كارازبورغ",
+      "name_en": "Karasburg",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 4401
+    },
+    {
+      "id": 23,
+      "name_ar": "أوساكوس",
+      "name_en": "Usakos",
+      "country_ar": "ناميبيا",
+      "country_en": "Namibia",
+      "population": 3583
+    }
+  ],
+  "meta": {
+    "title": "مدن ناميبيا — Cities of Namibia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ناميبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 23 cities in Namibia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 23 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ناميبيا — Cities of Namibia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ناميبيا — Cities of Namibia (Arabic names) — 23 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 23 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

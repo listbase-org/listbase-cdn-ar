@@ -1,0 +1,496 @@
+{
+  "id": "ar-mudun-malta",
+  "name": "مدن مالطا — Cities of Malta (Arabic names)",
+  "title": "مدن مالطا — Cities of Malta (Arabic names)",
+  "description": "قائمة بأسماء مدن مالطا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Malta with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "البلد",
+      "name_en": "Valletta",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 480134
+    },
+    {
+      "id": 2,
+      "name_ar": "كورمي",
+      "name_en": "Qormi",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 93897
+    },
+    {
+      "id": 3,
+      "name_ar": "سانت بول باي",
+      "name_en": "Saint Paul's Bay",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 32042
+    },
+    {
+      "id": 4,
+      "name_ar": "بئر كركرة",
+      "name_en": "Birkirkara",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 24356
+    },
+    {
+      "id": 5,
+      "name_ar": "سليمة",
+      "name_en": "Sliema",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 22591
+    },
+    {
+      "id": 6,
+      "name_ar": "الموسطة",
+      "name_en": "Mosta",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 20241
+    },
+    {
+      "id": 7,
+      "name_ar": "وادي العين",
+      "name_en": "Marsaskala",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 15579
+    },
+    {
+      "id": 8,
+      "name_ar": "جبار",
+      "name_en": "Zabbar",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 15404
+    },
+    {
+      "id": 9,
+      "name_ar": "النشار",
+      "name_en": "Naxxar",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 14890
+    },
+    {
+      "id": 10,
+      "name_ar": "سان جوان",
+      "name_en": "San Gwann",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 14720
+    },
+    {
+      "id": 11,
+      "name_ar": "سان جليان",
+      "name_en": "San Giljan",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 13792
+    },
+    {
+      "id": 12,
+      "name_ar": "رحل الزبوج",
+      "name_en": "Zebbug",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 11903
+    },
+    {
+      "id": 13,
+      "name_ar": "الفكورة",
+      "name_en": "Fgura",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 11670
+    },
+    {
+      "id": 14,
+      "name_ar": "الزيتون",
+      "name_en": "Zejtun",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 11508
+    },
+    {
+      "id": 15,
+      "name_ar": "الرباط",
+      "name_en": "Rabat",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 11497
+    },
+    {
+      "id": 16,
+      "name_ar": "أتارد",
+      "name_en": "Attard",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 10930
+    },
+    {
+      "id": 17,
+      "name_ar": "الزراق",
+      "name_en": "Zurrieq",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 10823
+    },
+    {
+      "id": 18,
+      "name_ar": "الملاحة",
+      "name_en": "Mellieha",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 10087
+    },
+    {
+      "id": 19,
+      "name_ar": "السواقي",
+      "name_en": "Swieqi",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 10064
+    },
+    {
+      "id": 20,
+      "name_ar": "حمرون",
+      "name_en": "Hamrun",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 9743
+    },
+    {
+      "id": 21,
+      "name_ar": "بئر زبوجة",
+      "name_en": "Birzebbuga",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 9736
+    },
+    {
+      "id": 22,
+      "name_ar": "السجاوي",
+      "name_en": "Siggiewi",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 8721
+    },
+    {
+      "id": 23,
+      "name_ar": "رحل طرشان",
+      "name_en": "Tarxien",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 8583
+    },
+    {
+      "id": 24,
+      "name_ar": "جزيرة",
+      "name_en": "Gzira",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 8029
+    },
+    {
+      "id": 25,
+      "name_ar": "سانتا فينيرا",
+      "name_en": "Santa Venera",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 6932
+    },
+    {
+      "id": 26,
+      "name_ar": "فيكتوريا",
+      "name_en": "Victoria",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 6901
+    },
+    {
+      "id": 27,
+      "name_ar": "لوقا",
+      "name_en": "Luqa",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 5945
+    },
+    {
+      "id": 28,
+      "name_ar": "كوسبيكو",
+      "name_en": "Cospicua",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 5395
+    },
+    {
+      "id": 29,
+      "name_ar": "الشعراء",
+      "name_en": "Xaghra",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 4886
+    },
+    {
+      "id": 30,
+      "name_ar": "غاكساق",
+      "name_en": "Ghaxaq",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 4722
+    },
+    {
+      "id": 31,
+      "name_ar": "الناظور",
+      "name_en": "Nadur",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 4509
+    },
+    {
+      "id": 32,
+      "name_ar": "بييتا",
+      "name_en": "Pieta",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 4020
+    },
+    {
+      "id": 33,
+      "name_ar": "مرسى شلوق",
+      "name_en": "Marsaxlokk",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3534
+    },
+    {
+      "id": 34,
+      "name_ar": "شوكية",
+      "name_en": "Xewkija",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3300
+    },
+    {
+      "id": 35,
+      "name_ar": "عين سالم",
+      "name_en": "Ghajnsielem",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3200
+    },
+    {
+      "id": 36,
+      "name_ar": "الإكليل",
+      "name_en": "Iklin",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3130
+    },
+    {
+      "id": 37,
+      "name_ar": "ليا",
+      "name_en": "Lija",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3070
+    },
+    {
+      "id": 38,
+      "name_ar": "القلقرة",
+      "name_en": "Kalkara",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 3014
+    },
+    {
+      "id": 39,
+      "name_ar": "الكدية",
+      "name_en": "Gudja",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2997
+    },
+    {
+      "id": 40,
+      "name_ar": "السنغلية",
+      "name_en": "Senglea",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2784
+    },
+    {
+      "id": 41,
+      "name_ar": "رحل عرعور",
+      "name_en": "Gharghur",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2768
+    },
+    {
+      "id": 42,
+      "name_ar": "كريندي",
+      "name_en": "Qrendi",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2752
+    },
+    {
+      "id": 43,
+      "name_ar": "البرج",
+      "name_en": "Vittoriosa",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2629
+    },
+    {
+      "id": 44,
+      "name_ar": "القلعة",
+      "name_en": "Qala",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2284
+    },
+    {
+      "id": 45,
+      "name_ar": "كركوب",
+      "name_en": "Kirkop",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2191
+    },
+    {
+      "id": 46,
+      "name_ar": "صافي",
+      "name_en": "Safi",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 2126
+    },
+    {
+      "id": 47,
+      "name_ar": "كرجم",
+      "name_en": "Kercem",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 1938
+    },
+    {
+      "id": 48,
+      "name_ar": "متاع شباش",
+      "name_en": "Ta' Xbiex",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 1804
+    },
+    {
+      "id": 49,
+      "name_ar": "زغواجرا",
+      "name_en": "Xghajra",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 1732
+    },
+    {
+      "id": 50,
+      "name_ar": "الغرب",
+      "name_en": "Gharb",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 1539
+    },
+    {
+      "id": 51,
+      "name_ar": "المنشار",
+      "name_en": "Munxar",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 1454
+    },
+    {
+      "id": 52,
+      "name_ar": "فونتانا",
+      "name_en": "Fontana",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 922
+    },
+    {
+      "id": 53,
+      "name_ar": "سان لورنز",
+      "name_en": "San Lawrenz",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 748
+    },
+    {
+      "id": 54,
+      "name_ar": "غاسري",
+      "name_en": "Ghasri",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 424
+    },
+    {
+      "id": 55,
+      "name_ar": "المدينة",
+      "name_en": "Imdina",
+      "country_ar": "مالطا",
+      "country_en": "Malta",
+      "population": 292
+    }
+  ],
+  "meta": {
+    "title": "مدن مالطا — Cities of Malta (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مالطا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Malta with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 55 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مالطا — Cities of Malta (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مالطا — Cities of Malta (Arabic names) — 55 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 55 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

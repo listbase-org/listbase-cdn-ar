@@ -1,0 +1,696 @@
+{
+  "id": "ar-mudun-italy",
+  "name": "مدن إيطاليا — Cities of Italy (Arabic names)",
+  "title": "مدن إيطاليا — Cities of Italy (Arabic names)",
+  "description": "قائمة بأسماء مدن إيطاليا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Italy with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "روما",
+      "name_en": "Rome",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 2748109
+    },
+    {
+      "id": 2,
+      "name_ar": "ميلان",
+      "name_en": "Milan",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 1354196
+    },
+    {
+      "id": 3,
+      "name_ar": "نابولي",
+      "name_en": "Naples",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 913462
+    },
+    {
+      "id": 4,
+      "name_ar": "تورينو",
+      "name_en": "Turin",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 841600
+    },
+    {
+      "id": 5,
+      "name_ar": "باليرمو",
+      "name_en": "Palermo",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 630167
+    },
+    {
+      "id": 6,
+      "name_ar": "جنوة",
+      "name_en": "Genoa",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 558745
+    },
+    {
+      "id": 7,
+      "name_ar": "بولونيا",
+      "name_en": "Bologna",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 387971
+    },
+    {
+      "id": 8,
+      "name_ar": "فلورانس",
+      "name_en": "Florence",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 360930
+    },
+    {
+      "id": 9,
+      "name_ar": "باري",
+      "name_en": "Bari",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 316015
+    },
+    {
+      "id": 10,
+      "name_ar": "قطانية",
+      "name_en": "Catania",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 311584
+    },
+    {
+      "id": 11,
+      "name_ar": "فيرونا",
+      "name_en": "Verona",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 255588
+    },
+    {
+      "id": 12,
+      "name_ar": "فينسيا",
+      "name_en": "Venice",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 250369
+    },
+    {
+      "id": 13,
+      "name_ar": "ميسينا",
+      "name_en": "Messina",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 218786
+    },
+    {
+      "id": 14,
+      "name_ar": "باذوة",
+      "name_en": "Padova",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 206496
+    },
+    {
+      "id": 15,
+      "name_ar": "ترييستي",
+      "name_en": "Trieste",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 198417
+    },
+    {
+      "id": 16,
+      "name_ar": "بارما",
+      "name_en": "Parma",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 196764
+    },
+    {
+      "id": 17,
+      "name_ar": "بريشا",
+      "name_en": "Brescia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 196446
+    },
+    {
+      "id": 18,
+      "name_ar": "طارنت",
+      "name_en": "Taranto",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 188098
+    },
+    {
+      "id": 19,
+      "name_ar": "مُودِنة",
+      "name_en": "Modena",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 184153
+    },
+    {
+      "id": 20,
+      "name_ar": "رية قلورية",
+      "name_en": "Reggio di Calabria",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 170951
+    },
+    {
+      "id": 21,
+      "name_ar": "ريدجو إميليا",
+      "name_en": "Reggio Emilia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 169545
+    },
+    {
+      "id": 22,
+      "name_ar": "بِروجَة",
+      "name_en": "Perugia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 161748
+    },
+    {
+      "id": 23,
+      "name_ar": "بيار فيليس رافينا",
+      "name_en": "Ravenna",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 155751
+    },
+    {
+      "id": 24,
+      "name_ar": "لِفُرنة",
+      "name_en": "Livorno",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 152914
+    },
+    {
+      "id": 25,
+      "name_ar": "ريميني",
+      "name_en": "Rimini",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 149211
+    },
+    {
+      "id": 26,
+      "name_ar": "كالياري",
+      "name_en": "Cagliari",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 148117
+    },
+    {
+      "id": 27,
+      "name_ar": "فُدجَة",
+      "name_en": "Foggia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 145348
+    },
+    {
+      "id": 28,
+      "name_ar": "اللاتينية",
+      "name_en": "Latina",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 127564
+    },
+    {
+      "id": 29,
+      "name_ar": "سلرنو",
+      "name_en": "Salerno",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 127186
+    },
+    {
+      "id": 30,
+      "name_ar": "جوليانو إن كامبانيا",
+      "name_en": "Giugliano in Campania",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 123679
+    },
+    {
+      "id": 31,
+      "name_ar": "مُنزَة",
+      "name_en": "Monza",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 121799
+    },
+    {
+      "id": 32,
+      "name_ar": "سَسارة",
+      "name_en": "Sassari",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 121021
+    },
+    {
+      "id": 33,
+      "name_ar": "برغامو",
+      "name_en": "Bergamo",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 119534
+    },
+    {
+      "id": 34,
+      "name_ar": "مقاطعة بسكارا",
+      "name_en": "Pescara",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 118657
+    },
+    {
+      "id": 35,
+      "name_ar": "ترينتو",
+      "name_en": "Trento",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 118046
+    },
+    {
+      "id": 36,
+      "name_ar": "فورلي",
+      "name_en": "Forli",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 116440
+    },
+    {
+      "id": 37,
+      "name_ar": "سرقوسة",
+      "name_en": "Siracusa",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 116244
+    },
+    {
+      "id": 38,
+      "name_ar": "فِشِنزة",
+      "name_en": "Vicenza",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 109823
+    },
+    {
+      "id": 39,
+      "name_ar": "تِرنة",
+      "name_en": "Terni",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 106370
+    },
+    {
+      "id": 40,
+      "name_ar": "بولزانو",
+      "name_en": "Bolzano",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 106107
+    },
+    {
+      "id": 41,
+      "name_ar": "بِيَشِنزة",
+      "name_en": "Piacenza",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 102465
+    },
+    {
+      "id": 42,
+      "name_ar": "نُفارة",
+      "name_en": "Novara",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 101257
+    },
+    {
+      "id": 43,
+      "name_ar": "أوديني",
+      "name_en": "Udine",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 97808
+    },
+    {
+      "id": 44,
+      "name_ar": "أرِتسَة",
+      "name_en": "Arezzo",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 96260
+    },
+    {
+      "id": 45,
+      "name_ar": "قاصنة",
+      "name_en": "Cesena",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 95778
+    },
+    {
+      "id": 46,
+      "name_ar": "بيسرة",
+      "name_en": "Pesaro",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 95376
+    },
+    {
+      "id": 47,
+      "name_ar": "ليتشي",
+      "name_en": "Lecce",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 94783
+    },
+    {
+      "id": 48,
+      "name_ar": "لا سبيتسيا",
+      "name_en": "La Spezia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 92119
+    },
+    {
+      "id": 49,
+      "name_ar": "ألساندريا",
+      "name_en": "Alessandria",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 91059
+    },
+    {
+      "id": 50,
+      "name_ar": "ميستري",
+      "name_en": "Mestre",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 89376
+    },
+    {
+      "id": 51,
+      "name_ar": "بستويا",
+      "name_en": "Pistoia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 89309
+    },
+    {
+      "id": 52,
+      "name_ar": "لكة",
+      "name_en": "Lucca",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 88798
+    },
+    {
+      "id": 53,
+      "name_ar": "بيزا",
+      "name_en": "Pisa",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 88737
+    },
+    {
+      "id": 54,
+      "name_ar": "قطنصار",
+      "name_en": "Catanzaro",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 84670
+    },
+    {
+      "id": 55,
+      "name_ar": "تريفيزو",
+      "name_en": "Treviso",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 84607
+    },
+    {
+      "id": 56,
+      "name_ar": "كومو",
+      "name_en": "Como",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 83184
+    },
+    {
+      "id": 57,
+      "name_ar": "بوستو أرسيتسيو",
+      "name_en": "Busto Arsizio",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 82951
+    },
+    {
+      "id": 58,
+      "name_ar": "إبرندس",
+      "name_en": "Brindisi",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 82694
+    },
+    {
+      "id": 59,
+      "name_ar": "فيوميتشينو",
+      "name_en": "Fiumicino",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 81426
+    },
+    {
+      "id": 60,
+      "name_ar": "غروسيتو",
+      "name_en": "Grosseto",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 81321
+    },
+    {
+      "id": 61,
+      "name_ar": "توري دل غريكو",
+      "name_en": "Torre del Greco",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 80508
+    },
+    {
+      "id": 62,
+      "name_ar": "مرسى علي",
+      "name_en": "Marsala",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 79809
+    },
+    {
+      "id": 63,
+      "name_ar": "سستو سان جوفاني",
+      "name_en": "Sesto San Giovanni",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 78884
+    },
+    {
+      "id": 64,
+      "name_ar": "فَرِيزة",
+      "name_en": "Varese",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 78409
+    },
+    {
+      "id": 65,
+      "name_ar": "بوتسوولي",
+      "name_en": "Pozzuoli",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 76331
+    },
+    {
+      "id": 66,
+      "name_ar": "تشينيزيلو بالسامو",
+      "name_en": "Cinisello Balsamo",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 74528
+    },
+    {
+      "id": 67,
+      "name_ar": "أبريليا",
+      "name_en": "Aprilia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 74126
+    },
+    {
+      "id": 68,
+      "name_ar": "كازوريا",
+      "name_en": "Casoria",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 74021
+    },
+    {
+      "id": 69,
+      "name_ar": "أستي",
+      "name_en": "Asti",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 73421
+    },
+    {
+      "id": 70,
+      "name_ar": "بابية",
+      "name_en": "Pavia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 70636
+    },
+    {
+      "id": 71,
+      "name_ar": "مقاطعة لَكوِيلة",
+      "name_en": "L'Aquila",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 69558
+    },
+    {
+      "id": 72,
+      "name_ar": "إيمولا",
+      "name_en": "Imola",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 69121
+    },
+    {
+      "id": 73,
+      "name_ar": "كوارتو سانت إلينا",
+      "name_en": "Quartu Sant'Elena",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 68585
+    },
+    {
+      "id": 74,
+      "name_ar": "كاليميرا",
+      "name_en": "Calimera",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 66777
+    },
+    {
+      "id": 75,
+      "name_ar": "ماساتشوستس",
+      "name_en": "Massa",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 66160
+    },
+    {
+      "id": 76,
+      "name_ar": "بوميتسيا",
+      "name_en": "Pomezia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 64119
+    },
+    {
+      "id": 77,
+      "name_ar": "اسطابة",
+      "name_en": "Castellammare di Stabia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 62772
+    },
+    {
+      "id": 78,
+      "name_ar": "أفراغولا",
+      "name_en": "Afragola",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 61712
+    },
+    {
+      "id": 79,
+      "name_ar": "أولبيا",
+      "name_en": "Olbia",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 61048
+    },
+    {
+      "id": 80,
+      "name_ar": "فياريدجو",
+      "name_en": "Viareggio",
+      "country_ar": "إيطاليا",
+      "country_en": "Italy",
+      "population": 60579
+    }
+  ],
+  "meta": {
+    "title": "مدن إيطاليا — Cities of Italy (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إيطاليا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Italy with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 80 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إيطاليا — Cities of Italy (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إيطاليا — Cities of Italy (Arabic names) — 80 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 80 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ar-mudun-el-salvador",
+  "name": "مدن السلفادور — Cities of El Salvador (Arabic names)",
+  "title": "مدن السلفادور — Cities of El Salvador (Arabic names)",
+  "description": "قائمة بأسماء مدن السلفادور بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in El Salvador with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "سان سلفادور",
+      "name_en": "San Salvador",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 1538525
+    },
+    {
+      "id": 2,
+      "name_ar": "سويابانغو",
+      "name_en": "Soyapango",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 284659
+    },
+    {
+      "id": 3,
+      "name_ar": "سانتا آنا",
+      "name_en": "Santa Ana",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 277264
+    },
+    {
+      "id": 4,
+      "name_ar": "أبوبا، السلفادور",
+      "name_en": "Apopa",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 198528
+    },
+    {
+      "id": 5,
+      "name_ar": "سانتا تكلا، السلفادور",
+      "name_en": "Santa Tecla",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 139908
+    },
+    {
+      "id": 6,
+      "name_ar": "إدارة أهواشابان",
+      "name_en": "Ahuachapan",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 135325
+    },
+    {
+      "id": 7,
+      "name_ar": "ديلغادو",
+      "name_en": "Delgado",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 126839
+    },
+    {
+      "id": 8,
+      "name_ar": "قولون",
+      "name_en": "Colon",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 96989
+    },
+    {
+      "id": 9,
+      "name_ar": "إدارة أوسولوتان",
+      "name_en": "Usulutan",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 87078
+    },
+    {
+      "id": 10,
+      "name_ar": "بلدية ساكاتيكولوكا",
+      "name_en": "Zacatecoluca",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 75100
+    },
+    {
+      "id": 11,
+      "name_ar": "تكساس يو اس اس",
+      "name_en": "San Marcos",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 74221
+    },
+    {
+      "id": 12,
+      "name_ar": "تشالشوابا",
+      "name_en": "Chalchuapa",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 72728
+    },
+    {
+      "id": 13,
+      "name_ar": "إدارة سونسونات",
+      "name_en": "Sonsonate",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 71980
+    },
+    {
+      "id": 14,
+      "name_ar": "إيلوباسكو",
+      "name_en": "Ilobasco",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 61510
+    },
+    {
+      "id": 15,
+      "name_ar": "كويزالتيبيك",
+      "name_en": "Quezaltepeque",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 52643
+    },
+    {
+      "id": 16,
+      "name_ar": "كوخوتيبيكه",
+      "name_en": "Cojutepeque",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 50315
+    },
+    {
+      "id": 17,
+      "name_ar": "سنسانتبيكي",
+      "name_en": "Sensuntepeque",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 41216
+    },
+    {
+      "id": 18,
+      "name_ar": "لا يونيون",
+      "name_en": "La Union",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 37460
+    },
+    {
+      "id": 19,
+      "name_ar": "أرمينيا",
+      "name_en": "Armenia",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 34912
+    },
+    {
+      "id": 20,
+      "name_ar": "روزا من ليما",
+      "name_en": "Santa Rosa de Lima",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 34279
+    },
+    {
+      "id": 21,
+      "name_ar": "اتيكيزايا",
+      "name_en": "Atiquizaya",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 33587
+    },
+    {
+      "id": 22,
+      "name_ar": "تلاكوبان",
+      "name_en": "Tacuba",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 31209
+    },
+    {
+      "id": 23,
+      "name_ar": "أكاخوتلا",
+      "name_en": "Acajutla",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 29701
+    },
+    {
+      "id": 24,
+      "name_ar": "سرقسطة",
+      "name_en": "Zaragoza",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 29679
+    },
+    {
+      "id": 25,
+      "name_ar": "إل ترانسيتو",
+      "name_en": "El Transito",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 26987
+    },
+    {
+      "id": 26,
+      "name_ar": "تشيريلاغوا",
+      "name_en": "Chirilagua",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 24000
+    },
+    {
+      "id": 27,
+      "name_ar": "كانديلاريا دي لا فرونتيرا",
+      "name_en": "Candelaria de La Frontera",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 22686
+    },
+    {
+      "id": 28,
+      "name_ar": "فينتورا",
+      "name_en": "San Buenaventura",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 21901
+    },
+    {
+      "id": 29,
+      "name_ar": "سان فرانسيسكو",
+      "name_en": "San Francisco",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 21049
+    },
+    {
+      "id": 30,
+      "name_ar": "برلين",
+      "name_en": "Berlin",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 17787
+    },
+    {
+      "id": 31,
+      "name_ar": "سان سيباستيان",
+      "name_en": "San Sebastian",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 14411
+    },
+    {
+      "id": 32,
+      "name_ar": "خوكوران",
+      "name_en": "Jucuaran",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 13424
+    },
+    {
+      "id": 33,
+      "name_ar": "إل كارمين",
+      "name_en": "El Carmen",
+      "country_ar": "السلفادور",
+      "country_en": "El Salvador",
+      "population": 13345
+    }
+  ],
+  "meta": {
+    "title": "مدن السلفادور — Cities of El Salvador (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن السلفادور بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in El Salvador with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 33 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن السلفادور — Cities of El Salvador (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن السلفادور — Cities of El Salvador (Arabic names) — 33 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 33 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

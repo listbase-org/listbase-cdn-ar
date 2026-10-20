@@ -1,0 +1,115 @@
+{
+  "id": "ar-misr-new-valley-mudun",
+  "name": "مدن ومراكز محافظة الوادي الجديد (Cities & Towns of New Valley)",
+  "title": "مدن ومراكز محافظة الوادي الجديد (Cities & Towns of New Valley)",
+  "description": "قائمة مدن ومراكز محافظة الوادي الجديد في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the New Valley governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "253",
+      "name_ar": "الخارجة",
+      "name_en": "kharga",
+      "name_long_ar": "الخارجة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "254",
+      "name_ar": "الداخلة",
+      "name_en": "dakhla",
+      "name_long_ar": "الداخلة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "258",
+      "name_ar": "الفرافرة",
+      "name_en": "farafra",
+      "name_long_ar": "الفرافرة، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "255",
+      "name_ar": "باريس",
+      "name_en": "paris",
+      "name_long_ar": "باريس، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "257",
+      "name_ar": "بلاط",
+      "name_en": "balat",
+      "name_long_ar": "بلاط، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    },
+    {
+      "id": "256",
+      "name_ar": "مدينة موط",
+      "name_en": "mut",
+      "name_long_ar": "مدينة موط، الوادي الجديد",
+      "muhafaza_ar": "الوادي الجديد",
+      "muhafaza_en": "new-valley",
+      "muhafaza_id": 74
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الوادي الجديد (Cities & Towns of New Valley) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الوادي الجديد في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the New Valley governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الوادي الجديد (Cities & Towns of New Valley) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الوادي الجديد (Cities & Towns of New Valley) — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

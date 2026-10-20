@@ -1,0 +1,312 @@
+{
+  "id": "ar-mudun-sri-lanka",
+  "name": "مدن سريلانكا — Cities of Sri Lanka (Arabic names)",
+  "title": "مدن سريلانكا — Cities of Sri Lanka (Arabic names)",
+  "description": "قائمة بأسماء مدن سريلانكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 32 cities in Sri Lanka with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كولومبو",
+      "name_en": "Colombo",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 752993
+    },
+    {
+      "id": 2,
+      "name_ar": "كيسبيوا",
+      "name_en": "Kesbewa",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 243842
+    },
+    {
+      "id": 3,
+      "name_ar": "موراتوا",
+      "name_en": "Moratuwa",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 168280
+    },
+    {
+      "id": 4,
+      "name_ar": "راتنابورا",
+      "name_en": "Ratnapura",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 165998
+    },
+    {
+      "id": 5,
+      "name_ar": "نغومبو",
+      "name_en": "Negombo",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 142136
+    },
+    {
+      "id": 6,
+      "name_ar": "كاندي",
+      "name_en": "Kandy",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 120087
+    },
+    {
+      "id": 7,
+      "name_ar": "سري جاياواردنابورا كوتي",
+      "name_en": "Sri Jayewardenepura Kotte",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 115826
+    },
+    {
+      "id": 8,
+      "name_ar": "كيلينوتشي",
+      "name_en": "Kilinochchi",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 103717
+    },
+    {
+      "id": 9,
+      "name_ar": "ترينكومالي",
+      "name_en": "Trincomalee",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 99135
+    },
+    {
+      "id": 10,
+      "name_ar": "جافنا",
+      "name_en": "Jaffna",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 88138
+    },
+    {
+      "id": 11,
+      "name_ar": "باتيكالوا",
+      "name_en": "Batticaloa",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 86227
+    },
+    {
+      "id": 12,
+      "name_ar": "فيليغاما",
+      "name_en": "Weligama",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 72511
+    },
+    {
+      "id": 13,
+      "name_ar": "دامبولا",
+      "name_en": "Dambulla",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 72306
+    },
+    {
+      "id": 14,
+      "name_ar": "كولوناوا",
+      "name_en": "Kolonnawa",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 64887
+    },
+    {
+      "id": 15,
+      "name_ar": "أنورادابورا",
+      "name_en": "Anuradhapura",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 63208
+    },
+    {
+      "id": 16,
+      "name_ar": "جامباها",
+      "name_en": "Gampaha",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 62797
+    },
+    {
+      "id": 17,
+      "name_ar": "بوتالام",
+      "name_en": "Puttalam",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 45661
+    },
+    {
+      "id": 18,
+      "name_ar": "بادولا",
+      "name_en": "Badulla",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 42923
+    },
+    {
+      "id": 19,
+      "name_ar": "فافونيا",
+      "name_en": "Vavuniya",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 38101
+    },
+    {
+      "id": 20,
+      "name_ar": "غامبولا",
+      "name_en": "Gampola",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 37871
+    },
+    {
+      "id": 21,
+      "name_ar": "مديرية مولايتيفو",
+      "name_en": "Mullaittivu",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 37339
+    },
+    {
+      "id": 22,
+      "name_ar": "كالوتارا",
+      "name_en": "Kalutara",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 37081
+    },
+    {
+      "id": 23,
+      "name_ar": "بينتوتا",
+      "name_en": "Bentota",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 37000
+    },
+    {
+      "id": 24,
+      "name_ar": "ماتال",
+      "name_en": "Matale",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 36451
+    },
+    {
+      "id": 25,
+      "name_ar": "منار، سريلانكا",
+      "name_en": "Mannar",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 35000
+    },
+    {
+      "id": 26,
+      "name_ar": "باندارويلا",
+      "name_en": "Bandarawela",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 32000
+    },
+    {
+      "id": 27,
+      "name_ar": "كورونيغالا",
+      "name_en": "Kurunegala",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 30315
+    },
+    {
+      "id": 28,
+      "name_ar": "نوارا إليا",
+      "name_en": "Nuwara Eliya",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 27500
+    },
+    {
+      "id": 29,
+      "name_ar": "كيجاللا",
+      "name_en": "Kegalle",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 17962
+    },
+    {
+      "id": 30,
+      "name_ar": "هاتون",
+      "name_en": "Hatton",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 15073
+    },
+    {
+      "id": 31,
+      "name_ar": "هامبانتوتا",
+      "name_en": "Hambantota",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 11213
+    },
+    {
+      "id": 32,
+      "name_ar": "مديرية موناراغالا",
+      "name_en": "Monaragala",
+      "country_ar": "سريلانكا",
+      "country_en": "Sri Lanka",
+      "population": 10123
+    }
+  ],
+  "meta": {
+    "title": "مدن سريلانكا — Cities of Sri Lanka (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن سريلانكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 32 cities in Sri Lanka with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 32 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن سريلانكا — Cities of Sri Lanka (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن سريلانكا — Cities of Sri Lanka (Arabic names) — 32 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 32 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

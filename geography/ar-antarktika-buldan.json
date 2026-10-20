@@ -1,0 +1,186 @@
+{
+  "id": "ar-antarktika-buldan",
+  "name": "بلدان أنتاركتيكا (Antarctica countries — Arabic)",
+  "title": "بلدان أنتاركتيكا (Antarctica countries — Arabic)",
+  "description": "5 دولة في قارة أنتاركتيكا (Antarctica) مع الأسماء بالعربية والإنجليزية، رموز ISO، رموز الهاتف، العاصمة، العملات، اللغات، وعلم الإيموجي.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_ar_formal",
+      "label": "Name Ar Formal",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_ar",
+      "label": "Continent Ar",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_ar": "أنتاركتيكا",
+      "name_ar_formal": "أنتاركتيكا",
+      "name_en": "Antarctica",
+      "slug": "antarctica",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_ar": "أنتاركتيكا",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "tld": ".aq",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_ar": "جزيرة بوفيت",
+      "name_ar_formal": "جزيرة بوفيت",
+      "name_en": "Bouvet Island",
+      "slug": "bouvet-island",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_ar": "أنتاركتيكا",
+      "capital": "",
+      "currency_codes": "NOK",
+      "language_codes": "",
+      "tld": ".bv",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+      "name_ar_formal": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+      "name_en": "South Georgia and the South Sandwich Islands",
+      "slug": "south-georgia-and-the-south-sandwich-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_ar": "أنتاركتيكا",
+      "capital": "Grytviken",
+      "currency_codes": "",
+      "language_codes": "en",
+      "tld": ".gs",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_ar": "جزيرة هيرد وجزر ماكدونالد",
+      "name_ar_formal": "جزيرة هيرد وجزر ماكدونالد",
+      "name_en": "Heard Island and McDonald Islands",
+      "slug": "heard-island-and-mcdonald-islands",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_ar": "أنتاركتيكا",
+      "capital": "",
+      "currency_codes": "AUD",
+      "language_codes": "",
+      "tld": ".hm",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_ar": "الأراضي الفرنسية الجنوبية الجنوبية",
+      "name_ar_formal": "الأراضي الفرنسية الجنوبية الجنوبية",
+      "name_en": "French Southern Territories",
+      "slug": "french-southern-territories",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_ar": "أنتاركتيكا",
+      "capital": "Port-aux-Francais",
+      "currency_codes": "EUR",
+      "language_codes": "fr",
+      "tld": ".tf",
+      "emoji_flag": "🇹🇫"
+    }
+  ],
+  "meta": {
+    "title": "بلدان أنتاركتيكا (Antarctica countries — Arabic) - تحميل مجاني",
+    "description": "5 دولة في قارة أنتاركتيكا (Antarctica) مع الأسماء بالعربية والإنجليزية، رموز ISO، رموز الهاتف، العاصمة، العملات، اللغات، وعلم الإيموجي. يحتوي على 5 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بلدان أنتاركتيكا (Antarctica countries — Arabic) | ListBase",
+    "seo_description": "تحميل بلدان أنتاركتيكا (Antarctica countries — Arabic) — 5 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 5 سجل / 15 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

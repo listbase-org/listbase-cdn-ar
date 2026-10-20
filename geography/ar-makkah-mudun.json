@@ -1,0 +1,6116 @@
+{
+  "id": "ar-makkah-mudun",
+  "name": "مدن منطقة مكة المكرمة (Cities of Makkah)",
+  "title": "مدن منطقة مكة المكرمة (Cities of Makkah)",
+  "description": "قائمة مدن منطقة مكة المكرمة (Makkah) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Makkah administrative region of Saudi Arabia (region_id=11). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 605,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 5,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الطائف",
+      "name_en": "At Taif",
+      "slug": "at-taif"
+    },
+    {
+      "city_id": 6,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مكة المكرمة",
+      "name_en": "Makkah Al Mukarramah",
+      "slug": "makkah-al-mukarramah"
+    },
+    {
+      "city_id": 18,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جدة",
+      "name_en": "Jeddah",
+      "slug": "jeddah"
+    },
+    {
+      "city_id": 371,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعرة",
+      "name_en": "Al Qaarah",
+      "slug": "al-qaarah-371"
+    },
+    {
+      "city_id": 372,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجحفة",
+      "name_en": "Al Juhfah",
+      "slug": "al-juhfah-372"
+    },
+    {
+      "city_id": 373,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "راين",
+      "name_en": "Rayin",
+      "slug": "rayin"
+    },
+    {
+      "city_id": 374,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزويراء",
+      "name_en": "Az Zuwayra",
+      "slug": "az-zuwayra"
+    },
+    {
+      "city_id": 375,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النويبع",
+      "name_en": "Al Nuwaybi",
+      "slug": "al-nuwaybi"
+    },
+    {
+      "city_id": 376,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-376"
+    },
+    {
+      "city_id": 377,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "رابغ",
+      "name_en": "Rabigh",
+      "slug": "rabigh"
+    },
+    {
+      "city_id": 378,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مستورة",
+      "name_en": "Masturah",
+      "slug": "masturah-378"
+    },
+    {
+      "city_id": 379,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الابواء",
+      "name_en": "Al Abwa",
+      "slug": "al-abwa"
+    },
+    {
+      "city_id": 380,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شلوة",
+      "name_en": "Shuluwah",
+      "slug": "shuluwah"
+    },
+    {
+      "city_id": 381,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كلية",
+      "name_en": "Kilayyah",
+      "slug": "kilayyah"
+    },
+    {
+      "city_id": 382,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حجر",
+      "name_en": "Hajur",
+      "slug": "hajur"
+    },
+    {
+      "city_id": 383,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صعبر",
+      "name_en": "Sabar",
+      "slug": "sabar"
+    },
+    {
+      "city_id": 384,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "التنضبية",
+      "name_en": "At Tandabiyah",
+      "slug": "at-tandabiyah"
+    },
+    {
+      "city_id": 385,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قويزة",
+      "name_en": "Quwayzah",
+      "slug": "quwayzah"
+    },
+    {
+      "city_id": 386,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النزة",
+      "name_en": "An Nazzah",
+      "slug": "an-nazzah"
+    },
+    {
+      "city_id": 387,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shubah",
+      "slug": "ash-shubah-387"
+    },
+    {
+      "city_id": 388,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصدر",
+      "name_en": "As Sadr",
+      "slug": "as-sadr-388"
+    },
+    {
+      "city_id": 389,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المغاربة",
+      "name_en": "Al Magharibah",
+      "slug": "al-magharibah"
+    },
+    {
+      "city_id": 390,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الكويسية",
+      "name_en": "Al Kuwaysiyah",
+      "slug": "al-kuwaysiyah"
+    },
+    {
+      "city_id": 391,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو حليفاء",
+      "name_en": "Abu Hulayfa",
+      "slug": "abu-hulayfa"
+    },
+    {
+      "city_id": 392,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "محجوبة",
+      "name_en": "Mahjubah",
+      "slug": "mahjubah"
+    },
+    {
+      "city_id": 546,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجدعان",
+      "name_en": "Al Jidhan",
+      "slug": "al-jidhan"
+    },
+    {
+      "city_id": 547,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "زنقاحة",
+      "name_en": "Zinqahah",
+      "slug": "zinqahah"
+    },
+    {
+      "city_id": 548,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العمشان",
+      "name_en": "Al Umshan",
+      "slug": "al-umshan"
+    },
+    {
+      "city_id": 549,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجذية",
+      "name_en": "Al Judhayyah",
+      "slug": "al-judhayyah"
+    },
+    {
+      "city_id": 550,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العقدة",
+      "name_en": "Al Uqdah",
+      "slug": "al-uqdah-550"
+    },
+    {
+      "city_id": 551,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرا",
+      "name_en": "Al Qara",
+      "slug": "al-qara-551"
+    },
+    {
+      "city_id": 552,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفطيمة",
+      "name_en": "Al Futaymah",
+      "slug": "al-futaymah"
+    },
+    {
+      "city_id": 553,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المحارزة",
+      "name_en": "Al Maharizah",
+      "slug": "al-maharizah"
+    },
+    {
+      "city_id": 554,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحمة",
+      "name_en": "Al Hamah",
+      "slug": "al-hamah-554"
+    },
+    {
+      "city_id": 555,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صيادة",
+      "name_en": "Sayyadah",
+      "slug": "sayyadah"
+    },
+    {
+      "city_id": 556,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدفينة",
+      "name_en": "Ad Difinah",
+      "slug": "ad-difinah"
+    },
+    {
+      "city_id": 557,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوهط",
+      "name_en": "Al Wahat",
+      "slug": "al-wahat"
+    },
+    {
+      "city_id": 558,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغنم",
+      "name_en": "Al Ghunnam",
+      "slug": "al-ghunnam"
+    },
+    {
+      "city_id": 559,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو غيل",
+      "name_en": "Abu Ghayl",
+      "slug": "abu-ghayl"
+    },
+    {
+      "city_id": 560,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام البكار",
+      "name_en": "Umm Al Bikar",
+      "slug": "umm-al-bikar"
+    },
+    {
+      "city_id": 561,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفعور",
+      "name_en": "Al Fuur",
+      "slug": "al-fuur"
+    },
+    {
+      "city_id": 562,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصخيرة",
+      "name_en": "As Sukhayrah",
+      "slug": "as-sukhayrah"
+    },
+    {
+      "city_id": 563,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السريح",
+      "name_en": "As Sirayh",
+      "slug": "as-sirayh"
+    },
+    {
+      "city_id": 564,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الملعب",
+      "name_en": "Al Malab",
+      "slug": "al-malab"
+    },
+    {
+      "city_id": 565,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغمير",
+      "name_en": "Al Ghimayr",
+      "slug": "al-ghimayr"
+    },
+    {
+      "city_id": 566,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوزير",
+      "name_en": "Al Wazir",
+      "slug": "al-wazir"
+    },
+    {
+      "city_id": 567,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ثمالة",
+      "name_en": "Thumalah",
+      "slug": "thumalah"
+    },
+    {
+      "city_id": 568,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النصبة",
+      "name_en": "An Nusbah",
+      "slug": "an-nusbah"
+    },
+    {
+      "city_id": 569,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عباسة",
+      "name_en": "Abbasah",
+      "slug": "abbasah"
+    },
+    {
+      "city_id": 570,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hifayrah",
+      "slug": "al-hifayrah"
+    },
+    {
+      "city_id": 571,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غرابة",
+      "name_en": "Ghirabah",
+      "slug": "ghirabah"
+    },
+    {
+      "city_id": 572,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحلقة",
+      "name_en": "Al Halaqah",
+      "slug": "al-halaqah"
+    },
+    {
+      "city_id": 573,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرخيلة",
+      "name_en": "Ar Rikhaylah",
+      "slug": "ar-rikhaylah"
+    },
+    {
+      "city_id": 896,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القصر",
+      "name_en": "Al Qasr",
+      "slug": "al-qasr-896"
+    },
+    {
+      "city_id": 897,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ترعة",
+      "name_en": "Tirah",
+      "slug": "tirah-897"
+    },
+    {
+      "city_id": 898,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ظلم",
+      "name_en": "Dhalam",
+      "slug": "dhalam"
+    },
+    {
+      "city_id": 899,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخفاشة",
+      "name_en": "Al Khafashah",
+      "slug": "al-khafashah"
+    },
+    {
+      "city_id": 900,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "براش",
+      "name_en": "Barash",
+      "slug": "barash"
+    },
+    {
+      "city_id": 901,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشريف",
+      "name_en": "Ash Sharif",
+      "slug": "ash-sharif"
+    },
+    {
+      "city_id": 903,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفرع",
+      "name_en": "Al Far",
+      "slug": "al-far-903"
+    },
+    {
+      "city_id": 904,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حرجل",
+      "name_en": "Harjal",
+      "slug": "harjal"
+    },
+    {
+      "city_id": 905,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "هديل",
+      "name_en": "Hidayl",
+      "slug": "hidayl"
+    },
+    {
+      "city_id": 906,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام الحصن",
+      "name_en": "Umm Al Hisn",
+      "slug": "umm-al-hisn"
+    },
+    {
+      "city_id": 907,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اللحيان",
+      "name_en": "Al Lahyan",
+      "slug": "al-lahyan"
+    },
+    {
+      "city_id": 908,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الاسراب",
+      "name_en": "Al Asrab",
+      "slug": "al-asrab"
+    },
+    {
+      "city_id": 909,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العثرية",
+      "name_en": "Al Athriyah",
+      "slug": "al-athriyah"
+    },
+    {
+      "city_id": 1104,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعر الاسفل",
+      "name_en": "Al Qaar Al Asfal",
+      "slug": "al-qaar-al-asfal"
+    },
+    {
+      "city_id": 1105,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خليص",
+      "name_en": "Khulays",
+      "slug": "khulays"
+    },
+    {
+      "city_id": 1106,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحدباء",
+      "name_en": "Al Hadba",
+      "slug": "al-hadba-1106"
+    },
+    {
+      "city_id": 1107,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahawah",
+      "slug": "ar-rahawah-1107"
+    },
+    {
+      "city_id": 1108,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القوز",
+      "name_en": "Al Qawz",
+      "slug": "al-qawz-1108"
+    },
+    {
+      "city_id": 1109,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخنفسة",
+      "name_en": "Al Khunfusah",
+      "slug": "al-khunfusah"
+    },
+    {
+      "city_id": 1110,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حشاش",
+      "name_en": "Hishash",
+      "slug": "hishash"
+    },
+    {
+      "city_id": 1111,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الضبية",
+      "name_en": "Ad Dubayyah",
+      "slug": "ad-dubayyah"
+    },
+    {
+      "city_id": 1112,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البريكة",
+      "name_en": "Al Buraykah",
+      "slug": "al-buraykah-1112"
+    },
+    {
+      "city_id": 1113,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفز",
+      "name_en": "Al Fazz",
+      "slug": "al-fazz"
+    },
+    {
+      "city_id": 1114,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الطينة",
+      "name_en": "At Tinah",
+      "slug": "at-tinah"
+    },
+    {
+      "city_id": 1115,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام الجرم",
+      "name_en": "Umm Al Jurm",
+      "slug": "umm-al-jurm"
+    },
+    {
+      "city_id": 1116,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدوارة",
+      "name_en": "Ad Duwwarah",
+      "slug": "ad-duwwarah"
+    },
+    {
+      "city_id": 1117,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو مراغة",
+      "name_en": "Abu Maraghah",
+      "slug": "abu-maraghah"
+    },
+    {
+      "city_id": 1118,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفياء",
+      "name_en": "Al Hafya",
+      "slug": "al-hafya"
+    },
+    {
+      "city_id": 1119,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخيف",
+      "name_en": "Al Khayf",
+      "slug": "al-khayf-1119"
+    },
+    {
+      "city_id": 1120,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المكسر",
+      "name_en": "Al Maksir",
+      "slug": "al-maksir"
+    },
+    {
+      "city_id": 1121,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفيج",
+      "name_en": "Al Fij",
+      "slug": "al-fij"
+    },
+    {
+      "city_id": 1122,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السهم",
+      "name_en": "Al Saham",
+      "slug": "al-saham"
+    },
+    {
+      "city_id": 1123,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدف",
+      "name_en": "Ad Daff",
+      "slug": "ad-daff"
+    },
+    {
+      "city_id": 1124,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المشريفة",
+      "name_en": "Al Musharifah",
+      "slug": "al-musharifah"
+    },
+    {
+      "city_id": 1125,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوقب",
+      "name_en": "Al Waqib",
+      "slug": "al-waqib"
+    },
+    {
+      "city_id": 1126,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحلقة",
+      "name_en": "Al Halqah",
+      "slug": "al-halqah-1126"
+    },
+    {
+      "city_id": 1127,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جليل",
+      "name_en": "Julayyil",
+      "slug": "julayyil"
+    },
+    {
+      "city_id": 1128,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حلمة",
+      "name_en": "Hilimah",
+      "slug": "hilimah"
+    },
+    {
+      "city_id": 1129,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجضع",
+      "name_en": "Al Jid",
+      "slug": "al-jid"
+    },
+    {
+      "city_id": 1130,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البيار",
+      "name_en": "Al Biyar",
+      "slug": "al-biyar"
+    },
+    {
+      "city_id": 1131,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعالي",
+      "name_en": "Al Maali",
+      "slug": "al-maali"
+    },
+    {
+      "city_id": 1132,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المديد",
+      "name_en": "Al Madid",
+      "slug": "al-madid"
+    },
+    {
+      "city_id": 1133,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المريصيع",
+      "name_en": "Al Maraysi",
+      "slug": "al-maraysi"
+    },
+    {
+      "city_id": 1134,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جليلة",
+      "name_en": "Jilayyilah",
+      "slug": "jilayyilah"
+    },
+    {
+      "city_id": 1135,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المسماة",
+      "name_en": "Al Masammah",
+      "slug": "al-masammah"
+    },
+    {
+      "city_id": 1136,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحصينية",
+      "name_en": "Al Hasayniyah",
+      "slug": "al-hasayniyah"
+    },
+    {
+      "city_id": 1137,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغروف",
+      "name_en": "Al Ghuruf",
+      "slug": "al-ghuruf"
+    },
+    {
+      "city_id": 1138,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البحول",
+      "name_en": "Al Bahawal",
+      "slug": "al-bahawal"
+    },
+    {
+      "city_id": 1139,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دوقة",
+      "name_en": "Dawqah",
+      "slug": "dawqah-1139"
+    },
+    {
+      "city_id": 1140,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البخترية",
+      "name_en": "Al Bakhtariyah",
+      "slug": "al-bakhtariyah"
+    },
+    {
+      "city_id": 1141,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البرزة",
+      "name_en": "Al Barzah",
+      "slug": "al-barzah-1141"
+    },
+    {
+      "city_id": 1142,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السليم",
+      "name_en": "As Silaym",
+      "slug": "as-silaym"
+    },
+    {
+      "city_id": 1143,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مهايع",
+      "name_en": "Al Mahaya",
+      "slug": "al-mahaya"
+    },
+    {
+      "city_id": 1144,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعداء",
+      "name_en": "Al Maada",
+      "slug": "al-maada-1144"
+    },
+    {
+      "city_id": 1145,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام العرمط",
+      "name_en": "Umm Al Urmut",
+      "slug": "umm-al-urmut"
+    },
+    {
+      "city_id": 1146,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المليحة",
+      "name_en": "Al Milayhah",
+      "slug": "al-milayhah"
+    },
+    {
+      "city_id": 1147,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدحلة",
+      "name_en": "Ad Dahalah",
+      "slug": "ad-dahalah"
+    },
+    {
+      "city_id": 1148,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصليلات",
+      "name_en": "As Salaylat",
+      "slug": "as-salaylat"
+    },
+    {
+      "city_id": 1149,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غصين",
+      "name_en": "Ghusayyin",
+      "slug": "ghusayyin"
+    },
+    {
+      "city_id": 1150,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الكامل",
+      "name_en": "Al Kamil",
+      "slug": "al-kamil"
+    },
+    {
+      "city_id": 1151,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العيبة العليا",
+      "name_en": "Al Aybah Al Ulya",
+      "slug": "al-aybah-al-ulya"
+    },
+    {
+      "city_id": 1152,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعور",
+      "name_en": "Al Quur",
+      "slug": "al-quur-1152"
+    },
+    {
+      "city_id": 1153,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعور",
+      "name_en": "Al Quur",
+      "slug": "al-quur-1153"
+    },
+    {
+      "city_id": 1154,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغريب",
+      "name_en": "Al Gharayyib",
+      "slug": "al-gharayyib"
+    },
+    {
+      "city_id": 1155,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مشرق",
+      "name_en": "Mishriq",
+      "slug": "mishriq"
+    },
+    {
+      "city_id": 1156,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اللصب",
+      "name_en": "Al Lusub",
+      "slug": "al-lusub"
+    },
+    {
+      "city_id": 1157,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-1157"
+    },
+    {
+      "city_id": 1158,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العمودة",
+      "name_en": "Al Amudah",
+      "slug": "al-amudah-1158"
+    },
+    {
+      "city_id": 1159,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوقبة",
+      "name_en": "Al Waqbah",
+      "slug": "al-waqbah"
+    },
+    {
+      "city_id": 1160,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفارع",
+      "name_en": "Al Fari",
+      "slug": "al-fari"
+    },
+    {
+      "city_id": 1161,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخديد",
+      "name_en": "Al Khidayd",
+      "slug": "al-khidayd"
+    },
+    {
+      "city_id": 1162,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المغاوي",
+      "name_en": "Al Maghawi",
+      "slug": "al-maghawi"
+    },
+    {
+      "city_id": 1163,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقفي",
+      "name_en": "Al Maqfa",
+      "slug": "al-maqfa"
+    },
+    {
+      "city_id": 1164,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحطامية",
+      "name_en": "Al Hatamiyah",
+      "slug": "al-hatamiyah"
+    },
+    {
+      "city_id": 1165,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كدوة الأعوج",
+      "name_en": "Kidwat Al Awaj",
+      "slug": "kidwat-al-awaj"
+    },
+    {
+      "city_id": 1166,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "هشيمة",
+      "name_en": "Hishaymah",
+      "slug": "hishaymah"
+    },
+    {
+      "city_id": 1167,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خبت مزقة",
+      "name_en": "Khabt Mizqah",
+      "slug": "khabt-mizqah"
+    },
+    {
+      "city_id": 1168,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السبت",
+      "name_en": "As Sabt",
+      "slug": "as-sabt-1168"
+    },
+    {
+      "city_id": 1169,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النيلة",
+      "name_en": "An Nilah",
+      "slug": "an-nilah"
+    },
+    {
+      "city_id": 1170,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-1170"
+    },
+    {
+      "city_id": 1171,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحليفة",
+      "name_en": "Al Hulayfah",
+      "slug": "al-hulayfah"
+    },
+    {
+      "city_id": 1172,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المسيليم",
+      "name_en": "Al Musaylim",
+      "slug": "al-musaylim"
+    },
+    {
+      "city_id": 1173,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرى",
+      "name_en": "Al Qara",
+      "slug": "al-qara-1173"
+    },
+    {
+      "city_id": 1174,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جمعة ربيعة",
+      "name_en": "Jumat At Rabiah",
+      "slug": "jumat-at-rabiah"
+    },
+    {
+      "city_id": 1175,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفالق",
+      "name_en": "Al Faliq",
+      "slug": "al-faliq"
+    },
+    {
+      "city_id": 1176,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خميس حرب",
+      "name_en": "Khamis Harb",
+      "slug": "khamis-harb"
+    },
+    {
+      "city_id": 1177,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجرد",
+      "name_en": "Al Jard",
+      "slug": "al-jard"
+    },
+    {
+      "city_id": 1178,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الركح",
+      "name_en": "Ar Rakh",
+      "slug": "ar-rakh"
+    },
+    {
+      "city_id": 1179,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السبطة",
+      "name_en": "As Sabatah",
+      "slug": "as-sabatah"
+    },
+    {
+      "city_id": 1180,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الثلوث",
+      "name_en": "Ath Thuluth",
+      "slug": "ath-thuluth"
+    },
+    {
+      "city_id": 1181,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشصرة",
+      "name_en": "Ash Shasarah",
+      "slug": "ash-shasarah"
+    },
+    {
+      "city_id": 1182,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عمرات",
+      "name_en": "Amrat",
+      "slug": "amrat-1182"
+    },
+    {
+      "city_id": 1183,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عاجة",
+      "name_en": "Ajah",
+      "slug": "ajah"
+    },
+    {
+      "city_id": 1184,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العقدة",
+      "name_en": "Al Uqdah",
+      "slug": "al-uqdah-1184"
+    },
+    {
+      "city_id": 1185,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخمجان",
+      "name_en": "Al Khumjan",
+      "slug": "al-khumjan"
+    },
+    {
+      "city_id": 1186,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الكدنة",
+      "name_en": "Al Kadanah",
+      "slug": "al-kadanah"
+    },
+    {
+      "city_id": 1187,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شينانة",
+      "name_en": "Shaynanah",
+      "slug": "shaynanah"
+    },
+    {
+      "city_id": 1188,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجلمة",
+      "name_en": "Al Jilamah",
+      "slug": "al-jilamah"
+    },
+    {
+      "city_id": 1189,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصرح",
+      "name_en": "As Sarh",
+      "slug": "as-sarh"
+    },
+    {
+      "city_id": 1190,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصعيب",
+      "name_en": "As Saayb",
+      "slug": "as-saayb"
+    },
+    {
+      "city_id": 1191,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرية",
+      "name_en": "Al Qarayyah",
+      "slug": "al-qarayyah"
+    },
+    {
+      "city_id": 1192,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المضحاة",
+      "name_en": "Al Madhah",
+      "slug": "al-madhah-1192"
+    },
+    {
+      "city_id": 1193,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النهيمية",
+      "name_en": "An Nihaymiyah",
+      "slug": "an-nihaymiyah"
+    },
+    {
+      "city_id": 1194,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغريف",
+      "name_en": "Al Gharif",
+      "slug": "al-gharif-1194"
+    },
+    {
+      "city_id": 1195,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشرع",
+      "name_en": "Ash Shar",
+      "slug": "ash-shar"
+    },
+    {
+      "city_id": 1196,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدغمية",
+      "name_en": "Ad Dughmiyah",
+      "slug": "ad-dughmiyah"
+    },
+    {
+      "city_id": 1197,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أم راكة",
+      "name_en": "Umm Rakah",
+      "slug": "umm-rakah"
+    },
+    {
+      "city_id": 1198,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدبيلة",
+      "name_en": "Ad Dubayyilah",
+      "slug": "ad-dubayyilah"
+    },
+    {
+      "city_id": 1199,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جبار",
+      "name_en": "Jabbar",
+      "slug": "jabbar"
+    },
+    {
+      "city_id": 1200,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحجف",
+      "name_en": "Al Hijif",
+      "slug": "al-hijif-1200"
+    },
+    {
+      "city_id": 1201,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أبو جميدة",
+      "name_en": "Abu Jumaydah",
+      "slug": "abu-jumaydah"
+    },
+    {
+      "city_id": 1202,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غثاة",
+      "name_en": "Ghithah",
+      "slug": "ghithah"
+    },
+    {
+      "city_id": 1203,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الضحياء",
+      "name_en": "Ad Dahya",
+      "slug": "ad-dahya"
+    },
+    {
+      "city_id": 1236,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقيصر",
+      "name_en": "Al Muqaysir",
+      "slug": "al-muqaysir"
+    },
+    {
+      "city_id": 1237,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوطاة",
+      "name_en": "Al Watah",
+      "slug": "al-watah-1237"
+    },
+    {
+      "city_id": 1238,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزرب",
+      "name_en": "Az Zirb",
+      "slug": "az-zirb"
+    },
+    {
+      "city_id": 1239,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اللويات",
+      "name_en": "Al Luwayyat",
+      "slug": "al-luwayyat"
+    },
+    {
+      "city_id": 1240,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الأريقط",
+      "name_en": "Al Urayqit",
+      "slug": "al-urayqit"
+    },
+    {
+      "city_id": 1241,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعيزيلة",
+      "name_en": "Al Muazilah",
+      "slug": "al-muazilah"
+    },
+    {
+      "city_id": 1242,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشرفية",
+      "name_en": "Ash Shurufiyah",
+      "slug": "ash-shurufiyah"
+    },
+    {
+      "city_id": 1243,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البريكة",
+      "name_en": "Al Buraykah",
+      "slug": "al-buraykah-1243"
+    },
+    {
+      "city_id": 1244,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الظليم",
+      "name_en": "Ad Dhalim",
+      "slug": "ad-dhalim"
+    },
+    {
+      "city_id": 1245,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحنو",
+      "name_en": "Al Hinu",
+      "slug": "al-hinu-1245"
+    },
+    {
+      "city_id": 1246,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجعيرة",
+      "name_en": "Al Juayrah",
+      "slug": "al-juayrah"
+    },
+    {
+      "city_id": 1247,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazm",
+      "slug": "al-hazm-1247"
+    },
+    {
+      "city_id": 1248,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخرمة",
+      "name_en": "Al Khurmah",
+      "slug": "al-khurmah"
+    },
+    {
+      "city_id": 1249,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغريف",
+      "name_en": "Al Gharif",
+      "slug": "al-gharif-1249"
+    },
+    {
+      "city_id": 1250,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شبيرم",
+      "name_en": "Shubayrim",
+      "slug": "shubayrim"
+    },
+    {
+      "city_id": 1251,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مطية",
+      "name_en": "Mityah",
+      "slug": "mityah"
+    },
+    {
+      "city_id": 1252,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دف زيني",
+      "name_en": "Daff Zayni",
+      "slug": "daff-zayni"
+    },
+    {
+      "city_id": 1253,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النويدرة",
+      "name_en": "An Nuwaydirah",
+      "slug": "an-nuwaydirah"
+    },
+    {
+      "city_id": 1254,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصمد",
+      "name_en": "As Samad",
+      "slug": "as-samad"
+    },
+    {
+      "city_id": 1255,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المرشدية",
+      "name_en": "Al Murshidiyah",
+      "slug": "al-murshidiyah"
+    },
+    {
+      "city_id": 1256,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدوح الكبير",
+      "name_en": "Ad Dawh Al Kabir",
+      "slug": "ad-dawh-al-kabir"
+    },
+    {
+      "city_id": 1257,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجموم",
+      "name_en": "Al Jumum",
+      "slug": "al-jumum"
+    },
+    {
+      "city_id": 1258,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو عروة",
+      "name_en": "Abu Urwah",
+      "slug": "abu-urwah"
+    },
+    {
+      "city_id": 1259,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البرابير",
+      "name_en": "Al Brabir",
+      "slug": "al-brabir"
+    },
+    {
+      "city_id": 1260,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قرن السرور",
+      "name_en": "Qarn As Surur",
+      "slug": "qarn-as-surur"
+    },
+    {
+      "city_id": 1261,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحميمة",
+      "name_en": "Al Hamimah",
+      "slug": "al-hamimah"
+    },
+    {
+      "city_id": 1262,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حرة الجبل",
+      "name_en": "Harat Al Jabal",
+      "slug": "harat-al-jabal"
+    },
+    {
+      "city_id": 1263,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سمد الحميمة",
+      "name_en": "Samd Al Humaymah",
+      "slug": "samd-al-humaymah"
+    },
+    {
+      "city_id": 1264,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النزهة",
+      "name_en": "An Nuzhah",
+      "slug": "an-nuzhah"
+    },
+    {
+      "city_id": 1314,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو مراغ",
+      "name_en": "Abu Maragh",
+      "slug": "abu-maragh-1314"
+    },
+    {
+      "city_id": 1315,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حداء",
+      "name_en": "Hada",
+      "slug": "hada"
+    },
+    {
+      "city_id": 1316,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقايث",
+      "name_en": "Al Maqayth",
+      "slug": "al-maqayth"
+    },
+    {
+      "city_id": 1317,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرينة / هداة الشام",
+      "name_en": "Al Qurainah / Hadat Ash Sham",
+      "slug": "al-qurainah-hadat-ash-sham"
+    },
+    {
+      "city_id": 1318,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعضبة",
+      "name_en": "Al Qidubah",
+      "slug": "al-qidubah"
+    },
+    {
+      "city_id": 1319,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزلال",
+      "name_en": "Az Zallal",
+      "slug": "az-zallal"
+    },
+    {
+      "city_id": 1320,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرويغة",
+      "name_en": "Ar Ruwayghag",
+      "slug": "ar-ruwayghag"
+    },
+    {
+      "city_id": 1321,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العصب",
+      "name_en": "Al Asb",
+      "slug": "al-asb"
+    },
+    {
+      "city_id": 1322,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القعرة",
+      "name_en": "Al Qaarah",
+      "slug": "al-qaarah-1322"
+    },
+    {
+      "city_id": 1323,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعلاة",
+      "name_en": "Al Malah",
+      "slug": "al-malah"
+    },
+    {
+      "city_id": 1324,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجرف",
+      "name_en": "Al Jarf",
+      "slug": "al-jarf-1324"
+    },
+    {
+      "city_id": 1325,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجيشي",
+      "name_en": "Al Jayshi",
+      "slug": "al-jayshi"
+    },
+    {
+      "city_id": 1326,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزريب",
+      "name_en": "Az Zurayb",
+      "slug": "az-zurayb"
+    },
+    {
+      "city_id": 1327,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البناية",
+      "name_en": "Al Binayah",
+      "slug": "al-binayah"
+    },
+    {
+      "city_id": 1328,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "فيدة",
+      "name_en": "Faydah",
+      "slug": "faydah"
+    },
+    {
+      "city_id": 1329,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشامية",
+      "name_en": "Ash Shamiyah",
+      "slug": "ash-shamiyah-1329"
+    },
+    {
+      "city_id": 1330,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقيطيع",
+      "name_en": "Al Muqayti",
+      "slug": "al-muqayti"
+    },
+    {
+      "city_id": 1331,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقايتة",
+      "name_en": "Al Maqaytah",
+      "slug": "al-maqaytah"
+    },
+    {
+      "city_id": 1332,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقر",
+      "name_en": "Al Miqarr",
+      "slug": "al-miqarr"
+    },
+    {
+      "city_id": 1333,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو حصانية",
+      "name_en": "Abu Hasaniyah",
+      "slug": "abu-hasaniyah"
+    },
+    {
+      "city_id": 1334,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النوارية",
+      "name_en": "An Nawariyah",
+      "slug": "an-nawariyah"
+    },
+    {
+      "city_id": 1335,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخيف",
+      "name_en": "Al Khayf",
+      "slug": "al-khayf-1335"
+    },
+    {
+      "city_id": 1336,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الضرس",
+      "name_en": "Ad Dirs",
+      "slug": "ad-dirs"
+    },
+    {
+      "city_id": 1337,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرية",
+      "name_en": "Al Qurayyah",
+      "slug": "al-qurayyah"
+    },
+    {
+      "city_id": 1338,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مشجي",
+      "name_en": "Mushaji",
+      "slug": "mushaji"
+    },
+    {
+      "city_id": 1339,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخلاصة",
+      "name_en": "Al Khulasah",
+      "slug": "al-khulasah"
+    },
+    {
+      "city_id": 1340,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القاحة",
+      "name_en": "Al Qahah",
+      "slug": "al-qahah"
+    },
+    {
+      "city_id": 1341,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-1341"
+    },
+    {
+      "city_id": 1342,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عسفان",
+      "name_en": "Isfan",
+      "slug": "isfan"
+    },
+    {
+      "city_id": 1343,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المجمعة",
+      "name_en": "Al Majmaah",
+      "slug": "al-majmaah-1343"
+    },
+    {
+      "city_id": 1344,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مدركة",
+      "name_en": "Madrakah",
+      "slug": "madrakah"
+    },
+    {
+      "city_id": 1345,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عين شمس",
+      "name_en": "Ayn Shams",
+      "slug": "ayn-shams"
+    },
+    {
+      "city_id": 1346,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الريان",
+      "name_en": "Ar Rayyan",
+      "slug": "ar-rayyan-1346"
+    },
+    {
+      "city_id": 1366,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوسقة",
+      "name_en": "Al Wasqah",
+      "slug": "al-wasqah"
+    },
+    {
+      "city_id": 1367,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المدرج",
+      "name_en": "Al Midrij",
+      "slug": "al-midrij"
+    },
+    {
+      "city_id": 1368,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحدبة",
+      "name_en": "Al Hadabah",
+      "slug": "al-hadabah-1368"
+    },
+    {
+      "city_id": 1369,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخصرة",
+      "name_en": "Al Khasirah",
+      "slug": "al-khasirah"
+    },
+    {
+      "city_id": 1370,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عوية",
+      "name_en": "Uwayyah",
+      "slug": "uwayyah-1370"
+    },
+    {
+      "city_id": 1371,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المشاش",
+      "name_en": "Al Mishash",
+      "slug": "al-mishash-1371"
+    },
+    {
+      "city_id": 1372,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-1372"
+    },
+    {
+      "city_id": 1373,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحصاحص",
+      "name_en": "Al Hasahis",
+      "slug": "al-hasahis"
+    },
+    {
+      "city_id": 1374,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المدير",
+      "name_en": "Al Mudir",
+      "slug": "al-mudir"
+    },
+    {
+      "city_id": 1375,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ذي رهجان",
+      "name_en": "Dhi Rahjan",
+      "slug": "dhi-rahjan"
+    },
+    {
+      "city_id": 1376,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اللغيسيم",
+      "name_en": "Al Lughaysim",
+      "slug": "al-lughaysim"
+    },
+    {
+      "city_id": 1377,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوقرين",
+      "name_en": "Al Waqrayn",
+      "slug": "al-waqrayn"
+    },
+    {
+      "city_id": 1378,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصواملة",
+      "name_en": "As Suwamilah",
+      "slug": "as-suwamilah"
+    },
+    {
+      "city_id": 1379,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصدية",
+      "name_en": "As Sadiyah",
+      "slug": "as-sadiyah-1379"
+    },
+    {
+      "city_id": 1380,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سوق الجمعة",
+      "name_en": "Suq Al Jumah",
+      "slug": "suq-al-jumah"
+    },
+    {
+      "city_id": 1381,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مسعدة",
+      "name_en": "Masadah",
+      "slug": "masadah-1381"
+    },
+    {
+      "city_id": 1382,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ظهي",
+      "name_en": "Dhaha",
+      "slug": "dhaha"
+    },
+    {
+      "city_id": 1383,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سلم الزواهرة",
+      "name_en": "Salam Az Zuwahirah",
+      "slug": "salam-az-zuwahirah"
+    },
+    {
+      "city_id": 1384,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أم الشوك",
+      "name_en": "Umm Ash Shawk",
+      "slug": "umm-ash-shawk"
+    },
+    {
+      "city_id": 1385,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحريقة",
+      "name_en": "Al Hariqah",
+      "slug": "al-hariqah-1385"
+    },
+    {
+      "city_id": 1386,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحبقة",
+      "name_en": "Al Habqah",
+      "slug": "al-habqah"
+    },
+    {
+      "city_id": 1387,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كرش",
+      "name_en": "Karsh",
+      "slug": "karsh"
+    },
+    {
+      "city_id": 1388,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مفتاح",
+      "name_en": "Miftah",
+      "slug": "miftah"
+    },
+    {
+      "city_id": 1389,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الكردم",
+      "name_en": "Al Kurdum",
+      "slug": "al-kurdum"
+    },
+    {
+      "city_id": 1390,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الليث",
+      "name_en": "Al Lith",
+      "slug": "al-lith"
+    },
+    {
+      "city_id": 1391,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجائزة",
+      "name_en": "Al Jaizah",
+      "slug": "al-jaizah"
+    },
+    {
+      "city_id": 1392,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قاعس",
+      "name_en": "Qais",
+      "slug": "qais"
+    },
+    {
+      "city_id": 1393,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المضحاة",
+      "name_en": "Al Madhah",
+      "slug": "al-madhah-1393"
+    },
+    {
+      "city_id": 1394,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الميثاء",
+      "name_en": "Al Maytha",
+      "slug": "al-maytha"
+    },
+    {
+      "city_id": 1395,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغرات",
+      "name_en": "Al Ghurrat",
+      "slug": "al-ghurrat"
+    },
+    {
+      "city_id": 1396,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صلعة",
+      "name_en": "Salaah",
+      "slug": "salaah"
+    },
+    {
+      "city_id": 1397,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ضبيعة",
+      "name_en": "Dubayah",
+      "slug": "dubayah-1397"
+    },
+    {
+      "city_id": 1398,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shubah",
+      "slug": "ash-shubah-1398"
+    },
+    {
+      "city_id": 1399,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحلي",
+      "name_en": "Al Hulay",
+      "slug": "al-hulay"
+    },
+    {
+      "city_id": 1400,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القري",
+      "name_en": "Al Qari",
+      "slug": "al-qari-1400"
+    },
+    {
+      "city_id": 1401,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرنيفة",
+      "name_en": "Ar Runayfah",
+      "slug": "ar-runayfah"
+    },
+    {
+      "city_id": 1402,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سوق اللصفة",
+      "name_en": "Suq Al Lusafah",
+      "slug": "suq-al-lusafah"
+    },
+    {
+      "city_id": 1403,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عيون حارة",
+      "name_en": "Uyun Harrah",
+      "slug": "uyun-harrah"
+    },
+    {
+      "city_id": 1404,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السوحة",
+      "name_en": "As Siwahah",
+      "slug": "as-siwahah"
+    },
+    {
+      "city_id": 1405,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ربوع العين",
+      "name_en": "Rubu Al Ayn",
+      "slug": "rubu-al-ayn"
+    },
+    {
+      "city_id": 1406,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المجيرمة",
+      "name_en": "Al Mijayrimah",
+      "slug": "al-mijayrimah"
+    },
+    {
+      "city_id": 1407,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السعدية",
+      "name_en": "As Sadiyah",
+      "slug": "as-sadiyah-1407"
+    },
+    {
+      "city_id": 1408,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سوق ذرى",
+      "name_en": "Suq Dhara",
+      "slug": "suq-dhara"
+    },
+    {
+      "city_id": 1409,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سوق ترعا",
+      "name_en": "Suq Taraa",
+      "slug": "suq-taraa"
+    },
+    {
+      "city_id": 1410,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرفغ",
+      "name_en": "Ar Rafugh",
+      "slug": "ar-rafugh"
+    },
+    {
+      "city_id": 1411,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قرضة",
+      "name_en": "Qaradah",
+      "slug": "qaradah-1411"
+    },
+    {
+      "city_id": 1412,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البرد",
+      "name_en": "Al Barid",
+      "slug": "al-barid"
+    },
+    {
+      "city_id": 1413,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سوق بني يزيد",
+      "name_en": "Suq Bani Yazid",
+      "slug": "suq-bani-yazid"
+    },
+    {
+      "city_id": 1414,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حقال",
+      "name_en": "Haqal",
+      "slug": "haqal"
+    },
+    {
+      "city_id": 1415,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الساعي",
+      "name_en": "As Sai",
+      "slug": "as-sai"
+    },
+    {
+      "city_id": 1416,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ذنباء",
+      "name_en": "Dhanaba",
+      "slug": "dhanaba"
+    },
+    {
+      "city_id": 1417,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المقسبة",
+      "name_en": "Al Maqsabah",
+      "slug": "al-maqsabah"
+    },
+    {
+      "city_id": 1418,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شراقب",
+      "name_en": "Sharaqib",
+      "slug": "sharaqib"
+    },
+    {
+      "city_id": 1419,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شيباي",
+      "name_en": "Shaybay",
+      "slug": "shaybay"
+    },
+    {
+      "city_id": 1420,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قفيلان",
+      "name_en": "Qufaylan",
+      "slug": "qufaylan"
+    },
+    {
+      "city_id": 1421,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصالف",
+      "name_en": "As Salif",
+      "slug": "as-salif"
+    },
+    {
+      "city_id": 1422,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صبح",
+      "name_en": "Sabah",
+      "slug": "sabah-1422"
+    },
+    {
+      "city_id": 1423,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغالة",
+      "name_en": "Al Ghallah",
+      "slug": "al-ghallah"
+    },
+    {
+      "city_id": 1424,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غميقة",
+      "name_en": "Ghumayqah",
+      "slug": "ghumayqah"
+    },
+    {
+      "city_id": 1426,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "لملم",
+      "name_en": "Lamlam",
+      "slug": "lamlam"
+    },
+    {
+      "city_id": 1427,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجرين",
+      "name_en": "Al Jarin",
+      "slug": "al-jarin"
+    },
+    {
+      "city_id": 1428,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشاقة / الصهوة",
+      "name_en": "Al Shaqqah / As Shwah",
+      "slug": "al-shaqqah-as-shwah"
+    },
+    {
+      "city_id": 1567,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-1567"
+    },
+    {
+      "city_id": 1568,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أبو علي",
+      "name_en": "Abu Ali",
+      "slug": "abu-ali"
+    },
+    {
+      "city_id": 1569,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العمودية",
+      "name_en": "Al Amudiyah",
+      "slug": "al-amudiyah"
+    },
+    {
+      "city_id": 1570,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قرن بن ساهر",
+      "name_en": "Qarn Bin Sahir",
+      "slug": "qarn-bin-sahir"
+    },
+    {
+      "city_id": 1571,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ثلوث عمارة",
+      "name_en": "Thuluth Imarah",
+      "slug": "thuluth-imarah"
+    },
+    {
+      "city_id": 1572,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حرف مبرة",
+      "name_en": "Harf Mibrah",
+      "slug": "harf-mibrah"
+    },
+    {
+      "city_id": 1573,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفايجة",
+      "name_en": "Al Fayijah",
+      "slug": "al-fayijah"
+    },
+    {
+      "city_id": 1574,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحمضة",
+      "name_en": "Al Hamadah",
+      "slug": "al-hamadah-1574"
+    },
+    {
+      "city_id": 1575,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ناخسة",
+      "name_en": "Nakhusah",
+      "slug": "nakhusah"
+    },
+    {
+      "city_id": 1576,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "نمرة",
+      "name_en": "Numarah",
+      "slug": "numarah"
+    },
+    {
+      "city_id": 1577,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القزعة",
+      "name_en": "Al Qazaah",
+      "slug": "al-qazaah"
+    },
+    {
+      "city_id": 1578,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصحنة",
+      "name_en": "As Sahnah",
+      "slug": "as-sahnah"
+    },
+    {
+      "city_id": 1579,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعقص",
+      "name_en": "Al Muaqas",
+      "slug": "al-muaqas"
+    },
+    {
+      "city_id": 1580,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المروة",
+      "name_en": "Al Marwah",
+      "slug": "al-marwah-1580"
+    },
+    {
+      "city_id": 1581,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصفي",
+      "name_en": "As Sufay",
+      "slug": "as-sufay"
+    },
+    {
+      "city_id": 1582,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشغز",
+      "name_en": "Ash Shaghaz",
+      "slug": "ash-shaghaz"
+    },
+    {
+      "city_id": 1583,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القضب",
+      "name_en": "Al Qadab",
+      "slug": "al-qadab"
+    },
+    {
+      "city_id": 1584,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العجالين",
+      "name_en": "Al Ajalin",
+      "slug": "al-ajalin"
+    },
+    {
+      "city_id": 1585,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعب",
+      "name_en": "Ash Shib",
+      "slug": "ash-shib-1585"
+    },
+    {
+      "city_id": 1586,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصلب",
+      "name_en": "As Sulb",
+      "slug": "as-sulb"
+    },
+    {
+      "city_id": 1587,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفريق",
+      "name_en": "Al Fariq",
+      "slug": "al-fariq"
+    },
+    {
+      "city_id": 1588,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السلامة",
+      "name_en": "As Salamah",
+      "slug": "as-salamah-1588"
+    },
+    {
+      "city_id": 1589,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصهوة",
+      "name_en": "As Sahwah",
+      "slug": "as-sahwah-1589"
+    },
+    {
+      "city_id": 1590,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عنيكر",
+      "name_en": "Unaykir",
+      "slug": "unaykir"
+    },
+    {
+      "city_id": 1591,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الكدسة",
+      "name_en": "Al Kidsah",
+      "slug": "al-kidsah"
+    },
+    {
+      "city_id": 1592,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عجلان",
+      "name_en": "Ajlan",
+      "slug": "ajlan"
+    },
+    {
+      "city_id": 1593,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القحمان",
+      "name_en": "Al Quhman",
+      "slug": "al-quhman"
+    },
+    {
+      "city_id": 1594,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العرجاء",
+      "name_en": "Al Arja",
+      "slug": "al-arja"
+    },
+    {
+      "city_id": 1595,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البريم",
+      "name_en": "Al Buraym",
+      "slug": "al-buraym"
+    },
+    {
+      "city_id": 1596,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفرشة",
+      "name_en": "Al Farshah",
+      "slug": "al-farshah-1596"
+    },
+    {
+      "city_id": 1597,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزعاترة",
+      "name_en": "Az Zaatirah",
+      "slug": "az-zaatirah"
+    },
+    {
+      "city_id": 1598,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العماير",
+      "name_en": "Al Amayir",
+      "slug": "al-amayir"
+    },
+    {
+      "city_id": 1599,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السمرة",
+      "name_en": "As Samrah",
+      "slug": "as-samrah"
+    },
+    {
+      "city_id": 1600,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شعب سامر",
+      "name_en": "Shaib Samir",
+      "slug": "shaib-samir"
+    },
+    {
+      "city_id": 1601,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السادة",
+      "name_en": "As Sadah",
+      "slug": "as-sadah"
+    },
+    {
+      "city_id": 1602,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القحب",
+      "name_en": "Al Qahb",
+      "slug": "al-qahb"
+    },
+    {
+      "city_id": 1603,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بلاقة",
+      "name_en": "Ballaqah",
+      "slug": "ballaqah"
+    },
+    {
+      "city_id": 1604,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "زبيد",
+      "name_en": "Zubayd",
+      "slug": "zubayd"
+    },
+    {
+      "city_id": 1605,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مخشوش",
+      "name_en": "Makhshush",
+      "slug": "makhshush-1605"
+    },
+    {
+      "city_id": 1606,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العينة",
+      "name_en": "Al Aynah",
+      "slug": "al-aynah"
+    },
+    {
+      "city_id": 1607,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خبت السبت",
+      "name_en": "Khabt As Sabt",
+      "slug": "khabt-as-sabt"
+    },
+    {
+      "city_id": 1608,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفاهمة",
+      "name_en": "Al Fahimah",
+      "slug": "al-fahimah"
+    },
+    {
+      "city_id": 1609,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ثريبان",
+      "name_en": "Thurayban",
+      "slug": "thurayban"
+    },
+    {
+      "city_id": 1610,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المبنى",
+      "name_en": "Al Mabna",
+      "slug": "al-mabna"
+    },
+    {
+      "city_id": 1611,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-1611"
+    },
+    {
+      "city_id": 1612,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحذيفة",
+      "name_en": "Al Hudhayfah",
+      "slug": "al-hudhayfah"
+    },
+    {
+      "city_id": 1613,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ناخس",
+      "name_en": "Nakhis",
+      "slug": "nakhis"
+    },
+    {
+      "city_id": 1614,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزبيري",
+      "name_en": "Az Zubayri",
+      "slug": "az-zubayri"
+    },
+    {
+      "city_id": 1615,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غراب",
+      "name_en": "Ghurab",
+      "slug": "ghurab-1615"
+    },
+    {
+      "city_id": 1616,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السر",
+      "name_en": "As Sirr",
+      "slug": "as-sirr-1616"
+    },
+    {
+      "city_id": 1617,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "آل عامر",
+      "name_en": "Al Amir",
+      "slug": "al-amir-1617"
+    },
+    {
+      "city_id": 1618,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النبيعة",
+      "name_en": "An Nubayah",
+      "slug": "an-nubayah"
+    },
+    {
+      "city_id": 1619,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحرش",
+      "name_en": "Al Harsh",
+      "slug": "al-harsh"
+    },
+    {
+      "city_id": 1620,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحدباء",
+      "name_en": "Al Hadba",
+      "slug": "al-hadba-1620"
+    },
+    {
+      "city_id": 1621,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصدرة",
+      "name_en": "As Sudarah",
+      "slug": "as-sudarah"
+    },
+    {
+      "city_id": 1622,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الهدارة",
+      "name_en": "Al Haddarah",
+      "slug": "al-haddarah"
+    },
+    {
+      "city_id": 1623,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشرى",
+      "name_en": "Ash Shara",
+      "slug": "ash-shara-1623"
+    },
+    {
+      "city_id": 1624,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الأنفة",
+      "name_en": "Al Anafah",
+      "slug": "al-anafah"
+    },
+    {
+      "city_id": 1625,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القنفذة",
+      "name_en": "Al Qunfidhah",
+      "slug": "al-qunfidhah"
+    },
+    {
+      "city_id": 1627,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العلاية",
+      "name_en": "Al Alayah",
+      "slug": "al-alayah"
+    },
+    {
+      "city_id": 1628,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القوز",
+      "name_en": "Al Qawz",
+      "slug": "al-qawz-1628"
+    },
+    {
+      "city_id": 1629,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كياد",
+      "name_en": "Kiyad",
+      "slug": "kiyad"
+    },
+    {
+      "city_id": 1630,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصفة",
+      "name_en": "As Suffah",
+      "slug": "as-suffah"
+    },
+    {
+      "city_id": 1631,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المظيلف",
+      "name_en": "Al Mudhaylif",
+      "slug": "al-mudhaylif"
+    },
+    {
+      "city_id": 1632,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحبيل",
+      "name_en": "Al Habil",
+      "slug": "al-habil-1632"
+    },
+    {
+      "city_id": 1633,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صبياء",
+      "name_en": "Sabya",
+      "slug": "sabya-1633"
+    },
+    {
+      "city_id": 1634,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "باشوت",
+      "name_en": "Bashut",
+      "slug": "bashut"
+    },
+    {
+      "city_id": 1635,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "معشوقة",
+      "name_en": "Mashuqah",
+      "slug": "mashuqah-1635"
+    },
+    {
+      "city_id": 1636,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دوقة",
+      "name_en": "Dawqah",
+      "slug": "dawqah-1636"
+    },
+    {
+      "city_id": 1637,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سبت شمران",
+      "name_en": "Sabt Shumran",
+      "slug": "sabt-shumran"
+    },
+    {
+      "city_id": 1638,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "احد بني زيد",
+      "name_en": "Ahd Bani Zayd",
+      "slug": "ahd-bani-zayd"
+    },
+    {
+      "city_id": 1639,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سبت الجارة",
+      "name_en": "Sabt Al Jarah",
+      "slug": "sabt-al-jarah"
+    },
+    {
+      "city_id": 1772,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غديقة",
+      "name_en": "Ghudayqah",
+      "slug": "ghudayqah"
+    },
+    {
+      "city_id": 1773,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخرجة",
+      "name_en": "Al Kharjah",
+      "slug": "al-kharjah"
+    },
+    {
+      "city_id": 1774,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدبانية",
+      "name_en": "Ad Dubaniyah",
+      "slug": "ad-dubaniyah"
+    },
+    {
+      "city_id": 1775,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصبخة",
+      "name_en": "As Sabkhah",
+      "slug": "as-sabkhah"
+    },
+    {
+      "city_id": 1776,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صعبة",
+      "name_en": "Sabah",
+      "slug": "sabah-1776"
+    },
+    {
+      "city_id": 1777,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صور بن شكوان",
+      "name_en": "Sur Bin Shakwan",
+      "slug": "sur-bin-shakwan"
+    },
+    {
+      "city_id": 1778,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخشاشة",
+      "name_en": "Al Khashashah",
+      "slug": "al-khashashah"
+    },
+    {
+      "city_id": 1779,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العوصاء",
+      "name_en": "Al Awsa",
+      "slug": "al-awsa"
+    },
+    {
+      "city_id": 1780,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخشة",
+      "name_en": "Al Khushshah",
+      "slug": "al-khushshah"
+    },
+    {
+      "city_id": 1781,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "لغب",
+      "name_en": "Laghab",
+      "slug": "laghab"
+    },
+    {
+      "city_id": 1782,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرحى",
+      "name_en": "Ar Raha",
+      "slug": "ar-raha"
+    },
+    {
+      "city_id": 1783,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حريزة",
+      "name_en": "Harizah",
+      "slug": "harizah"
+    },
+    {
+      "city_id": 1784,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-1784"
+    },
+    {
+      "city_id": 1785,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحورة",
+      "name_en": "Al Hawrah",
+      "slug": "al-hawrah"
+    },
+    {
+      "city_id": 1786,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "رضوان",
+      "name_en": "Radwan",
+      "slug": "radwan"
+    },
+    {
+      "city_id": 1875,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغبة",
+      "name_en": "Al Ghubbah",
+      "slug": "al-ghubbah"
+    },
+    {
+      "city_id": 1876,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المحاميد",
+      "name_en": "Al Mahamid",
+      "slug": "al-mahamid"
+    },
+    {
+      "city_id": 1877,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مسنى الازيار",
+      "name_en": "Masna Al Azyar",
+      "slug": "masna-al-azyar"
+    },
+    {
+      "city_id": 1878,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحذيفة القالة",
+      "name_en": "Al Hudhayfat Al Qalah",
+      "slug": "al-hudhayfat-al-qalah"
+    },
+    {
+      "city_id": 1879,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ثول",
+      "name_en": "Thuwal",
+      "slug": "thuwal"
+    },
+    {
+      "city_id": 1880,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام السلم",
+      "name_en": "Umm As Salam",
+      "slug": "umm-as-salam"
+    },
+    {
+      "city_id": 1881,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حدة",
+      "name_en": "Haddah",
+      "slug": "haddah"
+    },
+    {
+      "city_id": 1882,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بحرة المجاهدين",
+      "name_en": "Bahrah Al Mujahidin",
+      "slug": "bahrah-al-mujahidin"
+    },
+    {
+      "city_id": 1883,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بحرة القديمة",
+      "name_en": "Bahrah Al Qadimah",
+      "slug": "bahrah-al-qadimah"
+    },
+    {
+      "city_id": 1884,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حداء الجديدة",
+      "name_en": "Hada Al Jadidah",
+      "slug": "hada-al-jadidah"
+    },
+    {
+      "city_id": 1885,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ذهبان",
+      "name_en": "Dhahban",
+      "slug": "dhahban-1885"
+    },
+    {
+      "city_id": 1886,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغولاء",
+      "name_en": "Al Ghawla",
+      "slug": "al-ghawla"
+    },
+    {
+      "city_id": 1887,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العوجانية",
+      "name_en": "Al Awjaniyah",
+      "slug": "al-awjaniyah"
+    },
+    {
+      "city_id": 1888,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصفحة",
+      "name_en": "As Safhah",
+      "slug": "as-safhah"
+    },
+    {
+      "city_id": 1889,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القضيمة",
+      "name_en": "Al Qadimah",
+      "slug": "al-qadimah"
+    },
+    {
+      "city_id": 1890,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ميناء القضيمة",
+      "name_en": "Al Qadimah Port",
+      "slug": "al-qadimah-port"
+    },
+    {
+      "city_id": 1891,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المواليد",
+      "name_en": "Al Mawalid",
+      "slug": "al-mawalid"
+    },
+    {
+      "city_id": 1892,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دغماء",
+      "name_en": "Daghma",
+      "slug": "daghma"
+    },
+    {
+      "city_id": 1893,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-1893"
+    },
+    {
+      "city_id": 1894,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-1894"
+    },
+    {
+      "city_id": 1895,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القهب",
+      "name_en": "Al Qahab",
+      "slug": "al-qahab-1895"
+    },
+    {
+      "city_id": 1896,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجحصة",
+      "name_en": "Al Jahasah",
+      "slug": "al-jahasah"
+    },
+    {
+      "city_id": 1897,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدقم",
+      "name_en": "Ad Duqum",
+      "slug": "ad-duqum-1897"
+    },
+    {
+      "city_id": 1898,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشهومة",
+      "name_en": "Ash Shuhumah",
+      "slug": "ash-shuhumah"
+    },
+    {
+      "city_id": 1899,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عوية",
+      "name_en": "Uwayyah",
+      "slug": "uwayyah-1899"
+    },
+    {
+      "city_id": 1900,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "سيحان",
+      "name_en": "Sayhan",
+      "slug": "sayhan"
+    },
+    {
+      "city_id": 1901,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحوية",
+      "name_en": "Al Hawiyah",
+      "slug": "al-hawiyah-1901"
+    },
+    {
+      "city_id": 1902,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خميس",
+      "name_en": "Humays",
+      "slug": "humays"
+    },
+    {
+      "city_id": 1903,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shabah",
+      "slug": "ash-shabah"
+    },
+    {
+      "city_id": 1904,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الاحلاف",
+      "name_en": "Al Ahlaf",
+      "slug": "al-ahlaf"
+    },
+    {
+      "city_id": 1905,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المويه القديم",
+      "name_en": "Al Muwayh Al Qadim",
+      "slug": "al-muwayh-al-qadim"
+    },
+    {
+      "city_id": 1906,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البحرة",
+      "name_en": "Al Baharah",
+      "slug": "al-baharah-1906"
+    },
+    {
+      "city_id": 1907,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البادرية",
+      "name_en": "Al Badiriyah",
+      "slug": "al-badiriyah"
+    },
+    {
+      "city_id": 1908,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-1908"
+    },
+    {
+      "city_id": 1909,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الذويب",
+      "name_en": "Adh Dhuwayb",
+      "slug": "adh-dhuwayb"
+    },
+    {
+      "city_id": 1910,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مروان",
+      "name_en": "Marwan",
+      "slug": "marwan-1910"
+    },
+    {
+      "city_id": 1911,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرارة",
+      "name_en": "Al Qararah",
+      "slug": "al-qararah-1911"
+    },
+    {
+      "city_id": 1912,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أم الدوم",
+      "name_en": "Umm Ad Dawm",
+      "slug": "umm-ad-dawm"
+    },
+    {
+      "city_id": 1913,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دغيبجة",
+      "name_en": "Dughaybjah",
+      "slug": "dughaybjah"
+    },
+    {
+      "city_id": 1914,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرميدة",
+      "name_en": "Ar Rumaydah",
+      "slug": "ar-rumaydah"
+    },
+    {
+      "city_id": 1915,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "خد الحاج",
+      "name_en": "Khadd Al Haj",
+      "slug": "khadd-al-haj"
+    },
+    {
+      "city_id": 1916,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شويحط",
+      "name_en": "Shuwayhit",
+      "slug": "shuwayhit"
+    },
+    {
+      "city_id": 1917,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "وطيلح",
+      "name_en": "Witaylih",
+      "slug": "witaylih"
+    },
+    {
+      "city_id": 1919,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخضر",
+      "name_en": "Al Khudr",
+      "slug": "al-khudr"
+    },
+    {
+      "city_id": 1920,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الودية",
+      "name_en": "Al Wudiyah",
+      "slug": "al-wudiyah"
+    },
+    {
+      "city_id": 1921,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصالحية",
+      "name_en": "As Salhiyah",
+      "slug": "as-salhiyah-1921"
+    },
+    {
+      "city_id": 1922,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المحاني",
+      "name_en": "Al Mahani",
+      "slug": "al-mahani"
+    },
+    {
+      "city_id": 1923,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدار البيضاء",
+      "name_en": "Ad Dar Al Bayda",
+      "slug": "ad-dar-al-bayda"
+    },
+    {
+      "city_id": 1924,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النمور",
+      "name_en": "An Namur",
+      "slug": "an-namur"
+    },
+    {
+      "city_id": 1925,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المبيرز",
+      "name_en": "Al Mubayriz",
+      "slug": "al-mubayriz"
+    },
+    {
+      "city_id": 1926,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ملح",
+      "name_en": "Malah",
+      "slug": "malah"
+    },
+    {
+      "city_id": 1927,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغديرين",
+      "name_en": "Al Ghadirayn",
+      "slug": "al-ghadirayn"
+    },
+    {
+      "city_id": 2039,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحائط",
+      "name_en": "Al Hait",
+      "slug": "al-hait-2039"
+    },
+    {
+      "city_id": 2040,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-2040"
+    },
+    {
+      "city_id": 2041,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غزال",
+      "name_en": "Ghazal",
+      "slug": "ghazal"
+    },
+    {
+      "city_id": 2042,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السلامة",
+      "name_en": "As Salamah",
+      "slug": "as-salamah-2042"
+    },
+    {
+      "city_id": 2044,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المويه الجديد",
+      "name_en": "Al Muwayh Al Jadid",
+      "slug": "al-muwayh-al-jadid"
+    },
+    {
+      "city_id": 2045,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عبال",
+      "name_en": "Abal",
+      "slug": "abal"
+    },
+    {
+      "city_id": 2046,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجعلان",
+      "name_en": "Al Jilan",
+      "slug": "al-jilan"
+    },
+    {
+      "city_id": 2047,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حلباء",
+      "name_en": "Halaba",
+      "slug": "halaba-2047"
+    },
+    {
+      "city_id": 2048,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حداد",
+      "name_en": "Haddad",
+      "slug": "haddad"
+    },
+    {
+      "city_id": 2049,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السيل الصغير",
+      "name_en": "As Sayl As Saghir",
+      "slug": "as-sayl-as-saghir"
+    },
+    {
+      "city_id": 2050,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ريحة",
+      "name_en": "Rayhah",
+      "slug": "rayhah"
+    },
+    {
+      "city_id": 2051,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العرفاء",
+      "name_en": "Al Arfa",
+      "slug": "al-arfa"
+    },
+    {
+      "city_id": 2052,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الرحبة",
+      "name_en": "Ar Rahbah",
+      "slug": "ar-rahbah"
+    },
+    {
+      "city_id": 2053,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القهيب",
+      "name_en": "Al Quhayb",
+      "slug": "al-quhayb"
+    },
+    {
+      "city_id": 2054,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القران",
+      "name_en": "Al Qaran",
+      "slug": "al-qaran"
+    },
+    {
+      "city_id": 2055,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحوية",
+      "name_en": "Al Hawiyah",
+      "slug": "al-hawiyah-2055"
+    },
+    {
+      "city_id": 2056,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السيل الكبير",
+      "name_en": "As Sayl Al Kabir",
+      "slug": "as-sayl-al-kabir"
+    },
+    {
+      "city_id": 2057,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السوارفية",
+      "name_en": "As Sawarqiyah",
+      "slug": "as-sawarqiyah"
+    },
+    {
+      "city_id": 2058,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عشيرة الجديدة",
+      "name_en": "Ushayrah Al Jadidah",
+      "slug": "ushayrah-al-jadidah"
+    },
+    {
+      "city_id": 2059,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العطيف",
+      "name_en": "Al Atif",
+      "slug": "al-atif"
+    },
+    {
+      "city_id": 2060,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القرشيات",
+      "name_en": "Al Qurrashiyat",
+      "slug": "al-qurrashiyat"
+    },
+    {
+      "city_id": 2061,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عشيرة",
+      "name_en": "Ashayrah",
+      "slug": "ashayrah"
+    },
+    {
+      "city_id": 2062,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السايلة",
+      "name_en": "As Sayilah",
+      "slug": "as-sayilah"
+    },
+    {
+      "city_id": 2063,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفراع",
+      "name_en": "Al Fira",
+      "slug": "al-fira"
+    },
+    {
+      "city_id": 2064,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النجمة",
+      "name_en": "An Najmah",
+      "slug": "an-najmah"
+    },
+    {
+      "city_id": 2065,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العصمان",
+      "name_en": "Al Usman",
+      "slug": "al-usman"
+    },
+    {
+      "city_id": 2066,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العاصد",
+      "name_en": "Al Asid",
+      "slug": "al-asid"
+    },
+    {
+      "city_id": 2067,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اليعاسيب",
+      "name_en": "Al Yaasib",
+      "slug": "al-yaasib"
+    },
+    {
+      "city_id": 2068,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشبان",
+      "name_en": "Ash Shubban",
+      "slug": "ash-shubban"
+    },
+    {
+      "city_id": 2069,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العنع",
+      "name_en": "Al Qana",
+      "slug": "al-qana"
+    },
+    {
+      "city_id": 2070,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الطوال",
+      "name_en": "At Tuwal",
+      "slug": "at-tuwal-2070"
+    },
+    {
+      "city_id": 2071,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفارعة",
+      "name_en": "Al Fariah",
+      "slug": "al-fariah"
+    },
+    {
+      "city_id": 2072,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المريفق",
+      "name_en": "Al Murayfiq",
+      "slug": "al-murayfiq-2072"
+    },
+    {
+      "city_id": 2073,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السد",
+      "name_en": "As Sadd",
+      "slug": "as-sadd"
+    },
+    {
+      "city_id": 2074,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مشرق",
+      "name_en": "Mashriq",
+      "slug": "mashriq"
+    },
+    {
+      "city_id": 2075,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البورة",
+      "name_en": "Al Burah",
+      "slug": "al-burah"
+    },
+    {
+      "city_id": 2076,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشرى",
+      "name_en": "Ash Shara",
+      "slug": "ash-shara-2076"
+    },
+    {
+      "city_id": 2077,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ريشان",
+      "name_en": "Rishan",
+      "slug": "rishan"
+    },
+    {
+      "city_id": 2078,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المثان",
+      "name_en": "Mithan",
+      "slug": "mithan"
+    },
+    {
+      "city_id": 2079,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المناضح",
+      "name_en": "Al Manadih",
+      "slug": "al-manadih"
+    },
+    {
+      "city_id": 2080,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العمار",
+      "name_en": "Al Umar",
+      "slug": "al-umar"
+    },
+    {
+      "city_id": 2081,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المجرد",
+      "name_en": "Al Majrad",
+      "slug": "al-majrad"
+    },
+    {
+      "city_id": 2082,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "آل عطى",
+      "name_en": "Al Ata",
+      "slug": "al-ata"
+    },
+    {
+      "city_id": 2083,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السلاقا",
+      "name_en": "As Salaqa",
+      "slug": "as-salaqa"
+    },
+    {
+      "city_id": 2084,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدار الحمراء",
+      "name_en": "Al Dar Al Hamra",
+      "slug": "al-dar-al-hamra"
+    },
+    {
+      "city_id": 2085,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مران",
+      "name_en": "Marran",
+      "slug": "marran"
+    },
+    {
+      "city_id": 2086,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-2086"
+    },
+    {
+      "city_id": 2087,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شقصان",
+      "name_en": "Shaqasan",
+      "slug": "shaqasan"
+    },
+    {
+      "city_id": 2088,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مظللة",
+      "name_en": "Mudallilah",
+      "slug": "mudallilah"
+    },
+    {
+      "city_id": 2089,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام النخلة",
+      "name_en": "Umm An Nakhlah",
+      "slug": "umm-an-nakhlah"
+    },
+    {
+      "city_id": 2090,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الذيابات",
+      "name_en": "Adh Dhiyabat",
+      "slug": "adh-dhiyabat"
+    },
+    {
+      "city_id": 2091,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "غزايل",
+      "name_en": "Ghazayil",
+      "slug": "ghazayil"
+    },
+    {
+      "city_id": 2092,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قيا",
+      "name_en": "Qiya",
+      "slug": "qiya"
+    },
+    {
+      "city_id": 2093,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بوا",
+      "name_en": "Buwa",
+      "slug": "buwa"
+    },
+    {
+      "city_id": 2094,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "عشيرة مكتن",
+      "name_en": "Ishayra Maktan",
+      "slug": "ishayra-maktan"
+    },
+    {
+      "city_id": 2095,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحفائر",
+      "name_en": "Al Hafair",
+      "slug": "al-hafair-2095"
+    },
+    {
+      "city_id": 2096,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "رمحة",
+      "name_en": "Rumhah",
+      "slug": "rumhah"
+    },
+    {
+      "city_id": 2097,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السلمة",
+      "name_en": "As Salamah",
+      "slug": "as-salamah-2097"
+    },
+    {
+      "city_id": 2098,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "حضن",
+      "name_en": "Hadan",
+      "slug": "hadan"
+    },
+    {
+      "city_id": 2099,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بئر عن",
+      "name_en": "Bir Inn",
+      "slug": "bir-inn"
+    },
+    {
+      "city_id": 2100,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الثابتية",
+      "name_en": "Ath Thabitiyah",
+      "slug": "ath-thabitiyah"
+    },
+    {
+      "city_id": 2101,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جليل",
+      "name_en": "Jalil",
+      "slug": "jalil"
+    },
+    {
+      "city_id": 2102,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "صلبة",
+      "name_en": "Sulubah",
+      "slug": "sulubah"
+    },
+    {
+      "city_id": 2103,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الاخاضر",
+      "name_en": "Al Akhadir",
+      "slug": "al-akhadir"
+    },
+    {
+      "city_id": 2104,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخرائق",
+      "name_en": "Al Kharaiq",
+      "slug": "al-kharaiq"
+    },
+    {
+      "city_id": 2105,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كلاخ",
+      "name_en": "Kulakh",
+      "slug": "kulakh"
+    },
+    {
+      "city_id": 2106,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "زبيدة",
+      "name_en": "Zubaidah",
+      "slug": "zubaidah"
+    },
+    {
+      "city_id": 2107,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "زعفران",
+      "name_en": "Zafaran",
+      "slug": "zafaran"
+    },
+    {
+      "city_id": 2108,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مرفوض",
+      "name_en": "Marfud",
+      "slug": "marfud"
+    },
+    {
+      "city_id": 2109,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القضيفة",
+      "name_en": "Al Qudaifah",
+      "slug": "al-qudaifah"
+    },
+    {
+      "city_id": 2110,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بسل",
+      "name_en": "Bisil",
+      "slug": "bisil"
+    },
+    {
+      "city_id": 2111,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السديرة",
+      "name_en": "As Sudayrah",
+      "slug": "as-sudayrah"
+    },
+    {
+      "city_id": 2112,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المعقر",
+      "name_en": "Al Maqir",
+      "slug": "al-maqir"
+    },
+    {
+      "city_id": 2113,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الطفلان",
+      "name_en": "At Tuflan",
+      "slug": "at-tuflan"
+    },
+    {
+      "city_id": 2114,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصفاة",
+      "name_en": "As Sufah",
+      "slug": "as-sufah"
+    },
+    {
+      "city_id": 2115,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحلقة",
+      "name_en": "Al Halqah",
+      "slug": "al-halqah-2115"
+    },
+    {
+      "city_id": 2116,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجدير",
+      "name_en": "Al Jadir",
+      "slug": "al-jadir"
+    },
+    {
+      "city_id": 2117,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخليف",
+      "name_en": "Al Khulayyif",
+      "slug": "al-khulayyif"
+    },
+    {
+      "city_id": 2118,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحوطة",
+      "name_en": "Al Hawtah",
+      "slug": "al-hawtah-2118"
+    },
+    {
+      "city_id": 2119,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جويرة",
+      "name_en": "Juwairah",
+      "slug": "juwairah"
+    },
+    {
+      "city_id": 2120,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الطفيحاء",
+      "name_en": "At Tufayha",
+      "slug": "at-tufayha"
+    },
+    {
+      "city_id": 2121,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جوش",
+      "name_en": "Jush",
+      "slug": "jush"
+    },
+    {
+      "city_id": 2122,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القحوم",
+      "name_en": "Al Qahum",
+      "slug": "al-qahum"
+    },
+    {
+      "city_id": 2123,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغريب",
+      "name_en": "Al Gharib",
+      "slug": "al-gharib"
+    },
+    {
+      "city_id": 2124,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحمراء",
+      "name_en": "Al Hamra",
+      "slug": "al-hamra"
+    },
+    {
+      "city_id": 2125,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القصر",
+      "name_en": "Al Qasr",
+      "slug": "al-qasr-2125"
+    },
+    {
+      "city_id": 2126,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "اللبة",
+      "name_en": "Al Libbah",
+      "slug": "al-libbah"
+    },
+    {
+      "city_id": 2127,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القريع",
+      "name_en": "Al Qari",
+      "slug": "al-qari-2127"
+    },
+    {
+      "city_id": 2128,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعاعيب",
+      "name_en": "Ash Shaaib",
+      "slug": "ash-shaaib"
+    },
+    {
+      "city_id": 2129,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ميسان",
+      "name_en": "Maysan",
+      "slug": "maysan"
+    },
+    {
+      "city_id": 2130,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قها",
+      "name_en": "Qaha",
+      "slug": "qaha-2130"
+    },
+    {
+      "city_id": 2131,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "برحرح",
+      "name_en": "Barahrah",
+      "slug": "barahrah"
+    },
+    {
+      "city_id": 2132,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصور",
+      "name_en": "As Sur",
+      "slug": "as-sur-2132"
+    },
+    {
+      "city_id": 2133,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو راكة",
+      "name_en": "Abu Rakah",
+      "slug": "abu-rakah"
+    },
+    {
+      "city_id": 2134,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفريع",
+      "name_en": "Al Furay",
+      "slug": "al-furay-2134"
+    },
+    {
+      "city_id": 2135,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الوطاة",
+      "name_en": "Al Watah",
+      "slug": "al-watah-2135"
+    },
+    {
+      "city_id": 2136,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القويعية",
+      "name_en": "Al Quwayiyah",
+      "slug": "al-quwayiyah-2136"
+    },
+    {
+      "city_id": 2137,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "إبن غنام",
+      "name_en": "Ibn Ghannam",
+      "slug": "ibn-ghannam-2137"
+    },
+    {
+      "city_id": 2138,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ذواد",
+      "name_en": "Dhawwad",
+      "slug": "dhawwad"
+    },
+    {
+      "city_id": 2139,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المبرك",
+      "name_en": "Al Mabrak",
+      "slug": "al-mabrak"
+    },
+    {
+      "city_id": 2140,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العلاوة",
+      "name_en": "Al Ilawah",
+      "slug": "al-ilawah"
+    },
+    {
+      "city_id": 2141,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحائرية",
+      "name_en": "Al Hairiyah",
+      "slug": "al-hairiyah"
+    },
+    {
+      "city_id": 2142,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "دعيمر",
+      "name_en": "Duaymir",
+      "slug": "duaymir"
+    },
+    {
+      "city_id": 2143,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "وساعد",
+      "name_en": "Wusaad",
+      "slug": "wusaad"
+    },
+    {
+      "city_id": 2144,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المدرة",
+      "name_en": "Al Midarah",
+      "slug": "al-midarah"
+    },
+    {
+      "city_id": 2145,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الديرة",
+      "name_en": "Ad Dayyirah",
+      "slug": "ad-dayyirah"
+    },
+    {
+      "city_id": 2146,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الخالدية",
+      "name_en": "Al Khalidiyah",
+      "slug": "al-khalidiyah-2146"
+    },
+    {
+      "city_id": 2147,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغرابة",
+      "name_en": "Al Ghirabah",
+      "slug": "al-ghirabah"
+    },
+    {
+      "city_id": 2148,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العلبة",
+      "name_en": "Al Ilabah",
+      "slug": "al-ilabah"
+    },
+    {
+      "city_id": 2149,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العابسية",
+      "name_en": "Al Abisiyah",
+      "slug": "al-abisiyah"
+    },
+    {
+      "city_id": 2150,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العرقين",
+      "name_en": "Al Irqayn",
+      "slug": "al-irqayn"
+    },
+    {
+      "city_id": 2151,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغرمول",
+      "name_en": "Al Gharmul",
+      "slug": "al-gharmul"
+    },
+    {
+      "city_id": 2152,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العصلة",
+      "name_en": "Al Isalah",
+      "slug": "al-isalah"
+    },
+    {
+      "city_id": 2153,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "زلاقة",
+      "name_en": "Zallaqah",
+      "slug": "zallaqah"
+    },
+    {
+      "city_id": 2154,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحشفة",
+      "name_en": "Al Hashafah",
+      "slug": "al-hashafah-2154"
+    },
+    {
+      "city_id": 2155,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو مظلة",
+      "name_en": "Abu Madhallah",
+      "slug": "abu-madhallah"
+    },
+    {
+      "city_id": 2156,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "تربه",
+      "name_en": "Turbah",
+      "slug": "turbah"
+    },
+    {
+      "city_id": 2157,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحشرج",
+      "name_en": "Al Hashraj",
+      "slug": "al-hashraj-2157"
+    },
+    {
+      "city_id": 2158,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شعر",
+      "name_en": "Shir",
+      "slug": "shir"
+    },
+    {
+      "city_id": 2181,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ابو مراغ",
+      "name_en": "Abu Maragh",
+      "slug": "abu-maragh-2181"
+    },
+    {
+      "city_id": 2182,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شرائع المجاهدين",
+      "name_en": "Sharai Al Mujahidin",
+      "slug": "sharai-al-mujahidin"
+    },
+    {
+      "city_id": 2183,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "التنعيم",
+      "name_en": "At Tanim",
+      "slug": "at-tanim"
+    },
+    {
+      "city_id": 2185,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشرائع",
+      "name_en": "Ash Sharai",
+      "slug": "ash-sharai"
+    },
+    {
+      "city_id": 2186,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الريجة",
+      "name_en": "Ar Rayjah",
+      "slug": "ar-rayjah"
+    },
+    {
+      "city_id": 2187,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قابل عيفان",
+      "name_en": "Qabil Ifan",
+      "slug": "qabil-ifan"
+    },
+    {
+      "city_id": 2188,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بني عمير",
+      "name_en": "Bani Umayr",
+      "slug": "bani-umayr"
+    },
+    {
+      "city_id": 2189,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "البجيدي",
+      "name_en": "Al Bijaydi",
+      "slug": "al-bijaydi"
+    },
+    {
+      "city_id": 2190,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "قرى الصدر",
+      "name_en": "Qura As Sadr",
+      "slug": "qura-as-sadr"
+    },
+    {
+      "city_id": 2191,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المضيق",
+      "name_en": "Al Madiq",
+      "slug": "al-madiq-2191"
+    },
+    {
+      "city_id": 2192,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المجاريش",
+      "name_en": "Al Majarish",
+      "slug": "al-majarish"
+    },
+    {
+      "city_id": 2193,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحسن",
+      "name_en": "Al Hasan",
+      "slug": "al-hasan"
+    },
+    {
+      "city_id": 2194,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشدقاء",
+      "name_en": "Ash Shadqa",
+      "slug": "ash-shadqa"
+    },
+    {
+      "city_id": 2195,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الريقة",
+      "name_en": "Ar Riqah",
+      "slug": "ar-riqah"
+    },
+    {
+      "city_id": 2196,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الزيمة",
+      "name_en": "Az Zaymah",
+      "slug": "az-zaymah"
+    },
+    {
+      "city_id": 2197,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشميسي",
+      "name_en": "Ash Shumaysi",
+      "slug": "ash-shumaysi"
+    },
+    {
+      "city_id": 2198,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام حبيتر",
+      "name_en": "Umm Hubaytir",
+      "slug": "umm-hubaytir"
+    },
+    {
+      "city_id": 2199,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الصرف",
+      "name_en": "As Sarf",
+      "slug": "as-sarf"
+    },
+    {
+      "city_id": 2200,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "شداد",
+      "name_en": "Shadad",
+      "slug": "shadad"
+    },
+    {
+      "city_id": 2201,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام الزلة",
+      "name_en": "Umm Al Zillah",
+      "slug": "umm-al-zillah"
+    },
+    {
+      "city_id": 2202,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "بني دعد",
+      "name_en": "Bani Daad",
+      "slug": "bani-daad"
+    },
+    {
+      "city_id": 2203,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام الراكة",
+      "name_en": "Umm Ar Rakah",
+      "slug": "umm-ar-rakah"
+    },
+    {
+      "city_id": 2204,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الشعيبة",
+      "name_en": "Ash Shaibah",
+      "slug": "ash-shaibah"
+    },
+    {
+      "city_id": 2205,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الدحيلة",
+      "name_en": "Ad Duhaylah",
+      "slug": "ad-duhaylah"
+    },
+    {
+      "city_id": 2206,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-2206"
+    },
+    {
+      "city_id": 2207,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "جعرانة",
+      "name_en": "Juranah",
+      "slug": "juranah"
+    },
+    {
+      "city_id": 2794,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجمدة",
+      "name_en": "Al Jimdah",
+      "slug": "al-jimdah"
+    },
+    {
+      "city_id": 2795,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ام الفروغ",
+      "name_en": "Umm Al Furugh",
+      "slug": "umm-al-furugh-2795"
+    },
+    {
+      "city_id": 2796,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفجانة",
+      "name_en": "Al Fajjanah",
+      "slug": "al-fajjanah"
+    },
+    {
+      "city_id": 2797,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحجرة",
+      "name_en": "Al Hujrah",
+      "slug": "al-hujrah"
+    },
+    {
+      "city_id": 2798,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجريف",
+      "name_en": "Al Jurayf",
+      "slug": "al-jurayf"
+    },
+    {
+      "city_id": 2799,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحجيرة",
+      "name_en": "Al Hujayrah",
+      "slug": "al-hujayrah"
+    },
+    {
+      "city_id": 2800,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "رنية",
+      "name_en": "Ranyah",
+      "slug": "ranyah"
+    },
+    {
+      "city_id": 2801,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العمائر",
+      "name_en": "Al Amair",
+      "slug": "al-amair-2801"
+    },
+    {
+      "city_id": 2802,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القوز",
+      "name_en": "Al Qawz",
+      "slug": "al-qawz-2802"
+    },
+    {
+      "city_id": 2803,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الابرق",
+      "name_en": "Al Abraq",
+      "slug": "al-abraq-2803"
+    },
+    {
+      "city_id": 2804,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "كويكب",
+      "name_en": "Kuwaykib",
+      "slug": "kuwaykib"
+    },
+    {
+      "city_id": 2805,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الضرم",
+      "name_en": "Ad Duram",
+      "slug": "ad-duram"
+    },
+    {
+      "city_id": 2806,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العويلة",
+      "name_en": "Al Uwaylah",
+      "slug": "al-uwaylah"
+    },
+    {
+      "city_id": 2807,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الاملح",
+      "name_en": "Al Amlah",
+      "slug": "al-amlah"
+    },
+    {
+      "city_id": 2808,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "تربة الخيالة",
+      "name_en": "Turabat Al Khiyalah",
+      "slug": "turabat-al-khiyalah"
+    },
+    {
+      "city_id": 3186,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-3186"
+    },
+    {
+      "city_id": 3187,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العثيثي",
+      "name_en": "Al Uthaythi",
+      "slug": "al-uthaythi"
+    },
+    {
+      "city_id": 3188,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "ا لحفائر",
+      "name_en": "Al Hafair",
+      "slug": "al-hafair-3188"
+    },
+    {
+      "city_id": 3189,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السلم",
+      "name_en": "As Salam",
+      "slug": "as-salam"
+    },
+    {
+      "city_id": 3190,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-3190"
+    },
+    {
+      "city_id": 3191,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "القوامة",
+      "name_en": "Al Quwamah",
+      "slug": "al-quwamah"
+    },
+    {
+      "city_id": 3192,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الغافة",
+      "name_en": "Al Ghafah",
+      "slug": "al-ghafah"
+    },
+    {
+      "city_id": 3193,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحدة",
+      "name_en": "Al Hiddah",
+      "slug": "al-hiddah"
+    },
+    {
+      "city_id": 3194,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "المغراء",
+      "name_en": "Al Maghara",
+      "slug": "al-maghara"
+    },
+    {
+      "city_id": 3195,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "العفيرية",
+      "name_en": "Al Ufayriyah",
+      "slug": "al-ufayriyah"
+    },
+    {
+      "city_id": 3196,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "أبو ملوح",
+      "name_en": "Abu Miluh",
+      "slug": "abu-miluh"
+    },
+    {
+      "city_id": 3197,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "النغر",
+      "name_en": "An Naghar",
+      "slug": "an-naghar"
+    },
+    {
+      "city_id": 3198,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "السدر",
+      "name_en": "As Sadr",
+      "slug": "as-sadr-3198"
+    },
+    {
+      "city_id": 3199,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الجر ثمية",
+      "name_en": "Al Jarr Thamiyyah",
+      "slug": "al-jarr-thamiyyah"
+    },
+    {
+      "city_id": 3200,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "الحجف",
+      "name_en": "Al Hijif",
+      "slug": "al-hijif-3200"
+    },
+    {
+      "city_id": 3666,
+      "region_id": 11,
+      "region_ar": "مكة المكرمة",
+      "region_en": "Makkah",
+      "region_slug": "makkah",
+      "name_ar": "مدينة الملك عبدالله الاقتصادية",
+      "name_en": "King Abdullah Economic City",
+      "slug": "king-abdullah-economic-city"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة مكة المكرمة (Cities of Makkah) - تحميل مجاني",
+    "description": "قائمة مدن منطقة مكة المكرمة (Makkah) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Makkah administrative region of Saudi Arabia (region_id=11). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 605 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة مكة المكرمة (Cities of Makkah) | ListBase",
+    "seo_description": "تحميل مدن منطقة مكة المكرمة (Cities of Makkah) — 605 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 605 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

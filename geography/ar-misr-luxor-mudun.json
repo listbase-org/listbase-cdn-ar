@@ -1,0 +1,124 @@
+{
+  "id": "ar-misr-luxor-mudun",
+  "name": "مدن ومراكز محافظة الأقصر (Cities & Towns of Luxor)",
+  "title": "مدن ومراكز محافظة الأقصر (Cities & Towns of Luxor)",
+  "description": "قائمة مدن ومراكز محافظة الأقصر في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Luxor governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "334",
+      "name_ar": "أرمنت",
+      "name_en": "armant",
+      "name_long_ar": "أرمنت، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "336",
+      "name_ar": "إسنا",
+      "name_en": "isna",
+      "name_long_ar": "إسنا، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "335",
+      "name_ar": "البياضية",
+      "name_en": "bayadeya",
+      "name_long_ar": "البياضية، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "168",
+      "name_ar": "الزينية",
+      "name_en": "zinnia",
+      "name_long_ar": "الزينية، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "170",
+      "name_ar": "الطود",
+      "name_en": "tod",
+      "name_long_ar": "الطود، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "169",
+      "name_ar": "القرنه",
+      "name_en": "qurna",
+      "name_long_ar": "القرنه، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    },
+    {
+      "id": "167",
+      "name_ar": "مدينة الأقصر",
+      "name_en": "luxor-city",
+      "name_long_ar": "مدينة الأقصر، الأقصر",
+      "muhafaza_ar": "الأقصر",
+      "muhafaza_en": "luxor",
+      "muhafaza_id": 54
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الأقصر (Cities & Towns of Luxor) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الأقصر في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Luxor governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الأقصر (Cities & Towns of Luxor) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الأقصر (Cities & Towns of Luxor) — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

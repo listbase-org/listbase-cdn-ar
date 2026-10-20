@@ -1,0 +1,696 @@
+{
+  "id": "ar-mudun-tunisia",
+  "name": "مدن تونس — Cities of Tunisia (Arabic names)",
+  "title": "مدن تونس — Cities of Tunisia (Arabic names)",
+  "description": "قائمة بأسماء مدن تونس بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Tunisia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تونس",
+      "name_en": "Tunis",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 599368
+    },
+    {
+      "id": 2,
+      "name_ar": "سوسة",
+      "name_en": "Sousse",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 314071
+    },
+    {
+      "id": 3,
+      "name_ar": "القيروان",
+      "name_en": "Kairouan",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 210313
+    },
+    {
+      "id": 4,
+      "name_ar": "قابس",
+      "name_en": "Gabes",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 167863
+    },
+    {
+      "id": 5,
+      "name_ar": "بنزرت",
+      "name_en": "Bizerte",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 162053
+    },
+    {
+      "id": 6,
+      "name_ar": "سكرة، تونس",
+      "name_en": "Sukrah",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 153307
+    },
+    {
+      "id": 7,
+      "name_ar": "اريانا",
+      "name_en": "Ariana",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 123079
+    },
+    {
+      "id": 8,
+      "name_ar": "قفصة",
+      "name_en": "Gafsa",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 120739
+    },
+    {
+      "id": 9,
+      "name_ar": "ولاية القصرين",
+      "name_en": "Kasserine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 108794
+    },
+    {
+      "id": 10,
+      "name_ar": "بوتلي",
+      "name_en": "Monastir",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 107127
+    },
+    {
+      "id": 11,
+      "name_ar": "الحمامات",
+      "name_en": "Hammamet",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 106326
+    },
+    {
+      "id": 12,
+      "name_ar": "المرسى",
+      "name_en": "La Marsa",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 100000
+    },
+    {
+      "id": 13,
+      "name_ar": "مساكن",
+      "name_en": "Msaken",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 89745
+    },
+    {
+      "id": 14,
+      "name_ar": "باجة",
+      "name_en": "Beja",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 88251
+    },
+    {
+      "id": 15,
+      "name_ar": "بنقردان",
+      "name_en": "Ben Gardane",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 87404
+    },
+    {
+      "id": 16,
+      "name_ar": "حومة السوق",
+      "name_en": "Houmt Souk",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 84494
+    },
+    {
+      "id": 17,
+      "name_ar": "نابل",
+      "name_en": "Nabeul",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 84291
+    },
+    {
+      "id": 18,
+      "name_ar": "ولاية مدنين",
+      "name_en": "Medenine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 79406
+    },
+    {
+      "id": 19,
+      "name_ar": "جرجيس",
+      "name_en": "Zarzis",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 78766
+    },
+    {
+      "id": 20,
+      "name_ar": "المهدية",
+      "name_en": "Mahdia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 76513
+    },
+    {
+      "id": 21,
+      "name_ar": "فوشانة",
+      "name_en": "Fouchana",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 74868
+    },
+    {
+      "id": 22,
+      "name_ar": "الكرم",
+      "name_en": "Le Kram",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 74132
+    },
+    {
+      "id": 23,
+      "name_ar": "باردو",
+      "name_en": "Le Bardo",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 73953
+    },
+    {
+      "id": 24,
+      "name_ar": "ولاية تطاوين",
+      "name_en": "Tataouine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 70224
+    },
+    {
+      "id": 25,
+      "name_ar": "وادي ليلي",
+      "name_en": "Oued Lill",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 66100
+    },
+    {
+      "id": 26,
+      "name_ar": "ميدون",
+      "name_en": "Midoun",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 63528
+    },
+    {
+      "id": 27,
+      "name_ar": "القلعة الكبرى",
+      "name_en": "Kelaa Kebira",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 63264
+    },
+    {
+      "id": 28,
+      "name_ar": "قليبية",
+      "name_en": "Kelibia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 62993
+    },
+    {
+      "id": 29,
+      "name_ar": "المكنين",
+      "name_en": "Moknine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 62802
+    },
+    {
+      "id": 30,
+      "name_ar": "منزل تميم",
+      "name_en": "Menzel Temime",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 61489
+    },
+    {
+      "id": 31,
+      "name_ar": "منزل بورقيبة",
+      "name_en": "Menzel Bourguiba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 58800
+    },
+    {
+      "id": 32,
+      "name_ar": "قصر هلال",
+      "name_en": "Ksar Hellal",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 55415
+    },
+    {
+      "id": 33,
+      "name_ar": "الكاف",
+      "name_en": "El Kef",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 54701
+    },
+    {
+      "id": 34,
+      "name_ar": "معتمدية بئر علي بن خليفة",
+      "name_en": "Bir Ali Ben Khalifa",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 54143
+    },
+    {
+      "id": 35,
+      "name_ar": "دار شعبان الفهري",
+      "name_en": "Dar Chabanne",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 52406
+    },
+    {
+      "id": 36,
+      "name_ar": "ولاية سيدي بوزيد",
+      "name_en": "Sidi Bouzid",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 52339
+    },
+    {
+      "id": 37,
+      "name_ar": "جندوبة",
+      "name_en": "Jendouba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 47551
+    },
+    {
+      "id": 38,
+      "name_ar": "حمام سوسة",
+      "name_en": "Hammam Sousse",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 47520
+    },
+    {
+      "id": 39,
+      "name_ar": "الحامة",
+      "name_en": "El Hamma",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 47000
+    },
+    {
+      "id": 40,
+      "name_ar": "حلق الوادي",
+      "name_en": "La Goulette",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 45711
+    },
+    {
+      "id": 41,
+      "name_ar": "الجديدة",
+      "name_en": "Jedeida",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 45000
+    },
+    {
+      "id": 42,
+      "name_ar": "حمام الأنف",
+      "name_en": "Hammam-Lif",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 44207
+    },
+    {
+      "id": 43,
+      "name_ar": "طبلبة",
+      "name_en": "Teboulba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 41731
+    },
+    {
+      "id": 44,
+      "name_ar": "توزر",
+      "name_en": "Tozeur",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 41370
+    },
+    {
+      "id": 45,
+      "name_ar": "المتلوي",
+      "name_en": "Metlaoui",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 39100
+    },
+    {
+      "id": 46,
+      "name_ar": "سبيطلة",
+      "name_en": "Sbeitla",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 38895
+    },
+    {
+      "id": 47,
+      "name_ar": "قصور الساف",
+      "name_en": "Ksour Essaf",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 37683
+    },
+    {
+      "id": 48,
+      "name_ar": "الزهراء",
+      "name_en": "Ez Zahra",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 36298
+    },
+    {
+      "id": 49,
+      "name_ar": "منوبة",
+      "name_en": "Manouba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 36194
+    },
+    {
+      "id": 50,
+      "name_ar": "القصر",
+      "name_en": "El Ksar",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 33729
+    },
+    {
+      "id": 51,
+      "name_ar": "ماطر",
+      "name_en": "Mateur",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 32546
+    },
+    {
+      "id": 52,
+      "name_ar": "أكودة",
+      "name_en": "Akouda",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 31938
+    },
+    {
+      "id": 53,
+      "name_ar": "بني خيار",
+      "name_en": "Beni Khiar",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 30036
+    },
+    {
+      "id": 54,
+      "name_ar": "طبربة",
+      "name_en": "Tebourba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 29948
+    },
+    {
+      "id": 55,
+      "name_ar": "ولاية قبلي",
+      "name_en": "Kebili",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 28081
+    },
+    {
+      "id": 56,
+      "name_ar": "مقرين",
+      "name_en": "Megrine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 27960
+    },
+    {
+      "id": 57,
+      "name_ar": "الدهماني",
+      "name_en": "Dahmani",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 27907
+    },
+    {
+      "id": 58,
+      "name_ar": "قرمبالية",
+      "name_en": "Grombalia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 27236
+    },
+    {
+      "id": 59,
+      "name_ar": "الرديف",
+      "name_en": "Ar Rudayyif",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 26976
+    },
+    {
+      "id": 60,
+      "name_ar": "الفحص",
+      "name_en": "El Fahs",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 25100
+    },
+    {
+      "id": 61,
+      "name_ar": "أجيم",
+      "name_en": "Ajim",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 24294
+    },
+    {
+      "id": 62,
+      "name_ar": "تاكلسة",
+      "name_en": "Takelsa",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 24109
+    },
+    {
+      "id": 63,
+      "name_ar": "مجاز الباب",
+      "name_en": "Medjez el Bab",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 24100
+    },
+    {
+      "id": 64,
+      "name_ar": "بني خلاد",
+      "name_en": "Beni Khalled",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 23356
+    },
+    {
+      "id": 65,
+      "name_ar": "المرناقية",
+      "name_en": "La Mornaghia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 23100
+    },
+    {
+      "id": 66,
+      "name_ar": "نفطة",
+      "name_en": "Nefta",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 22745
+    },
+    {
+      "id": 67,
+      "name_ar": "ولاية زغوان",
+      "name_en": "Zaghouan",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 22637
+    },
+    {
+      "id": 68,
+      "name_ar": "الشابة",
+      "name_en": "Chebba",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 22227
+    },
+    {
+      "id": 69,
+      "name_ar": "طبرقة",
+      "name_en": "Tabarka",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 22119
+    },
+    {
+      "id": 70,
+      "name_ar": "المتحف الأثري بالجم",
+      "name_en": "El Jem",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 21544
+    },
+    {
+      "id": 71,
+      "name_ar": "الساحلين",
+      "name_en": "Sahline",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 21533
+    },
+    {
+      "id": 72,
+      "name_ar": "كارثاغ",
+      "name_en": "Carthage",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 21276
+    },
+    {
+      "id": 73,
+      "name_ar": "تبرسق",
+      "name_en": "Tabursuq",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 21022
+    },
+    {
+      "id": 74,
+      "name_ar": "زاوية سوسة",
+      "name_en": "Zaouiet Sousse",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 20681
+    },
+    {
+      "id": 75,
+      "name_ar": "المطوية",
+      "name_en": "Metouia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 20648
+    },
+    {
+      "id": 76,
+      "name_ar": "البقالطة",
+      "name_en": "Bekalta",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 20506
+    },
+    {
+      "id": 77,
+      "name_ar": "غار الدماء",
+      "name_en": "Ghardimaou",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 19574
+    },
+    {
+      "id": 78,
+      "name_ar": "تاجروين",
+      "name_en": "Tajerouine",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 19362
+    },
+    {
+      "id": 79,
+      "name_ar": "منزل عبد الرحمان",
+      "name_en": "Menzel Abderhaman",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 19078
+    },
+    {
+      "id": 80,
+      "name_ar": "العالية",
+      "name_en": "El Alia",
+      "country_ar": "تونس",
+      "country_en": "Tunisia",
+      "population": 18410
+    }
+  ],
+  "meta": {
+    "title": "مدن تونس — Cities of Tunisia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن تونس بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Tunisia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 80 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن تونس — Cities of Tunisia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن تونس — Cities of Tunisia (Arabic names) — 80 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 80 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

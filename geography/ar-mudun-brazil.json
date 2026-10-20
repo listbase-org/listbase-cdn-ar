@@ -1,0 +1,792 @@
+{
+  "id": "ar-mudun-brazil",
+  "name": "مدن البرازيل — Cities of Brazil (Arabic names)",
+  "title": "مدن البرازيل — Cities of Brazil (Arabic names)",
+  "description": "قائمة بأسماء مدن البرازيل بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 92 cities in Brazil with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ساو باولو",
+      "name_en": "Sao Paulo",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 23086000
+    },
+    {
+      "id": 2,
+      "name_ar": "ريو دي جانيرو",
+      "name_en": "Rio de Janeiro",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 12592000
+    },
+    {
+      "id": 3,
+      "name_ar": "بيلو هوريزونتي",
+      "name_en": "Belo Horizonte",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 5328000
+    },
+    {
+      "id": 4,
+      "name_ar": "فورتاليزا",
+      "name_en": "Fortaleza",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 4167996
+    },
+    {
+      "id": 5,
+      "name_ar": "سالبادور",
+      "name_en": "Salvador",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 2417678
+    },
+    {
+      "id": 6,
+      "name_ar": "كوريتيبا",
+      "name_en": "Curitiba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1773718
+    },
+    {
+      "id": 7,
+      "name_ar": "ريسيفي",
+      "name_en": "Recife",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1488920
+    },
+    {
+      "id": 8,
+      "name_ar": "بورتو أليغري",
+      "name_en": "Porto Alegre",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1332845
+    },
+    {
+      "id": 9,
+      "name_ar": "غوارولوس",
+      "name_en": "Guarulhos",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1324781
+    },
+    {
+      "id": 10,
+      "name_ar": "بليم",
+      "name_en": "Belem",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1280614
+    },
+    {
+      "id": 11,
+      "name_ar": "كامبيناس",
+      "name_en": "Campinas",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1213792
+    },
+    {
+      "id": 12,
+      "name_ar": "غويانيا",
+      "name_en": "Goiania",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1093007
+    },
+    {
+      "id": 13,
+      "name_ar": "ساو لويز",
+      "name_en": "Sao Luis",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 1037775
+    },
+    {
+      "id": 14,
+      "name_ar": "ماسايو",
+      "name_en": "Maceio",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 957916
+    },
+    {
+      "id": 15,
+      "name_ar": "ساو غونتشالو",
+      "name_en": "Sao Goncalo",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 896744
+    },
+    {
+      "id": 16,
+      "name_ar": "جواو بيسوا",
+      "name_en": "Joao Pessoa",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 833932
+    },
+    {
+      "id": 17,
+      "name_ar": "ساو برناردو دو كامبو",
+      "name_en": "Sao Bernardo do Campo",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 810729
+    },
+    {
+      "id": 18,
+      "name_ar": "ناتاليا",
+      "name_en": "Natal",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 751300
+    },
+    {
+      "id": 19,
+      "name_ar": "سانت أندري",
+      "name_en": "Santo Andre",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 748919
+    },
+    {
+      "id": 20,
+      "name_ar": "سوروكابا",
+      "name_en": "Sorocaba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 723574
+    },
+    {
+      "id": 21,
+      "name_ar": "أراكاجو",
+      "name_en": "Aracaju",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 664908
+    },
+    {
+      "id": 22,
+      "name_ar": "كامبو غراندي",
+      "name_en": "Campo Grande",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 663621
+    },
+    {
+      "id": 23,
+      "name_ar": "أوساسكو",
+      "name_en": "Osasco",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 652593
+    },
+    {
+      "id": 24,
+      "name_ar": "جابواتاو دوس غوارارابيس",
+      "name_en": "Jaboatao dos Guararapes",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 581556
+    },
+    {
+      "id": 25,
+      "name_ar": "جويز دي فورا",
+      "name_en": "Juiz de Fora",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 540756
+    },
+    {
+      "id": 26,
+      "name_ar": "ساو جوزيه دوس كامبوس",
+      "name_en": "Sao Jose dos Campos",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 539313
+    },
+    {
+      "id": 27,
+      "name_ar": "كونتاجيم",
+      "name_en": "Contagem",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 538017
+    },
+    {
+      "id": 28,
+      "name_ar": "ماكابا",
+      "name_en": "Macapa",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 512902
+    },
+    {
+      "id": 29,
+      "name_ar": "كامبوس",
+      "name_en": "Campos",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 511168
+    },
+    {
+      "id": 30,
+      "name_ar": "ريبيراو بريتو",
+      "name_en": "Ribeirao Preto",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 504923
+    },
+    {
+      "id": 31,
+      "name_ar": "أوبيرلانديا",
+      "name_en": "Uberlandia",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 501214
+    },
+    {
+      "id": 32,
+      "name_ar": "نيتيروي",
+      "name_en": "Niteroi",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 496696
+    },
+    {
+      "id": 33,
+      "name_ar": "كويابا",
+      "name_en": "Cuiaba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 483346
+    },
+    {
+      "id": 34,
+      "name_ar": "فييرا دي سانتانا",
+      "name_en": "Feira de Santana",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 480949
+    },
+    {
+      "id": 35,
+      "name_ar": "أنانينديوا",
+      "name_en": "Ananindeua",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 478778
+    },
+    {
+      "id": 36,
+      "name_ar": "فيلا فاليا",
+      "name_en": "Vila Velha",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 472762
+    },
+    {
+      "id": 37,
+      "name_ar": "موجي داس كروزيز",
+      "name_en": "Mogi das Cruzes",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 450785
+    },
+    {
+      "id": 38,
+      "name_ar": "لوندرينا",
+      "name_en": "Londrina",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 447065
+    },
+    {
+      "id": 39,
+      "name_ar": "بيراسيكابا",
+      "name_en": "Piracicaba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 423323
+    },
+    {
+      "id": 40,
+      "name_ar": "كامبينا غراندي",
+      "name_en": "Campina Grande",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 419379
+    },
+    {
+      "id": 41,
+      "name_ar": "سانتوس",
+      "name_en": "Santos",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 418608
+    },
+    {
+      "id": 42,
+      "name_ar": "بوا فيستا",
+      "name_en": "Boa Vista",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 413486
+    },
+    {
+      "id": 43,
+      "name_ar": "مارينغا",
+      "name_en": "Maringa",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 409657
+    },
+    {
+      "id": 44,
+      "name_ar": "جوندياي",
+      "name_en": "Jundiai",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 401896
+    },
+    {
+      "id": 45,
+      "name_ar": "إيتاكاكيسيتوبا",
+      "name_en": "Itaquaquecetuba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 375011
+    },
+    {
+      "id": 46,
+      "name_ar": "باورو",
+      "name_en": "Bauru",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 366992
+    },
+    {
+      "id": 47,
+      "name_ar": "ريو برانكو",
+      "name_en": "Rio Branco",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 364756
+    },
+    {
+      "id": 48,
+      "name_ar": "بلوميناو",
+      "name_en": "Blumenau",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 361261
+    },
+    {
+      "id": 49,
+      "name_ar": "كاكسياس دو سول",
+      "name_en": "Caxias do Sul",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 360419
+    },
+    {
+      "id": 50,
+      "name_ar": "ساو جوزية دو ريو بريتو",
+      "name_en": "Sao Jose do Rio Preto",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 358523
+    },
+    {
+      "id": 51,
+      "name_ar": "كاوكايا",
+      "name_en": "Caucaia",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 355679
+    },
+    {
+      "id": 52,
+      "name_ar": "أوليندا",
+      "name_en": "Olinda",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 349976
+    },
+    {
+      "id": 53,
+      "name_ar": "برايا غراندي",
+      "name_en": "Praia Grande",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 349935
+    },
+    {
+      "id": 54,
+      "name_ar": "كاسكافل",
+      "name_en": "Cascavel",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 348051
+    },
+    {
+      "id": 55,
+      "name_ar": "كانواس",
+      "name_en": "Canoas",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 347657
+    },
+    {
+      "id": 56,
+      "name_ar": "كارابيكويبا",
+      "name_en": "Carapicuiba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 344596
+    },
+    {
+      "id": 57,
+      "name_ar": "فلوريانوبوليس",
+      "name_en": "Florianopolis",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 342315
+    },
+    {
+      "id": 58,
+      "name_ar": "فيتوريا دا كونكيستا",
+      "name_en": "Vitoria da Conquista",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 341128
+    },
+    {
+      "id": 59,
+      "name_ar": "بورتو فاليو",
+      "name_en": "Porto Velho",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 334661
+    },
+    {
+      "id": 60,
+      "name_ar": "شنترين",
+      "name_en": "Santarem",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 331937
+    },
+    {
+      "id": 61,
+      "name_ar": "ريبيرو داس نيفيس",
+      "name_en": "Ribeirao das Neves",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 329794
+    },
+    {
+      "id": 62,
+      "name_ar": "كارياسيكا",
+      "name_en": "Cariacica",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 324285
+    },
+    {
+      "id": 63,
+      "name_ar": "بيلوتاس",
+      "name_en": "Pelotas",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 323158
+    },
+    {
+      "id": 64,
+      "name_ar": "فيتوريا-غاستيز",
+      "name_en": "Vitoria",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 322869
+    },
+    {
+      "id": 65,
+      "name_ar": "سيرا",
+      "name_en": "Serra",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 321181
+    },
+    {
+      "id": 66,
+      "name_ar": "تاوباتي",
+      "name_en": "Taubate",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 317915
+    },
+    {
+      "id": 67,
+      "name_ar": "بارويري",
+      "name_en": "Barueri",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 316473
+    },
+    {
+      "id": 68,
+      "name_ar": "غواروجا",
+      "name_en": "Guaruja",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 311230
+    },
+    {
+      "id": 69,
+      "name_ar": "مونتيس كلاروس",
+      "name_en": "Montes Claros",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 306947
+    },
+    {
+      "id": 70,
+      "name_ar": "فارزيا غراندي",
+      "name_en": "Varzea Grande",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 300078
+    },
+    {
+      "id": 71,
+      "name_ar": "أنابوليس",
+      "name_en": "Anapolis",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 288085
+    },
+    {
+      "id": 72,
+      "name_ar": "فرانكا",
+      "name_en": "Franca",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 287737
+    },
+    {
+      "id": 73,
+      "name_ar": "جوازيرو دو نورتي",
+      "name_en": "Juazeiro do Norte",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 286120
+    },
+    {
+      "id": 74,
+      "name_ar": "فوز دو إيغواسو",
+      "name_en": "Foz do Iguacu",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 285415
+    },
+    {
+      "id": 75,
+      "name_ar": "بتروبوليس",
+      "name_en": "Petropolis",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 278881
+    },
+    {
+      "id": 76,
+      "name_ar": "بونتا غروسا",
+      "name_en": "Ponta Grossa",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 273616
+    },
+    {
+      "id": 77,
+      "name_ar": "تابواو دا سيرا",
+      "name_en": "Taboao da Serra",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 273542
+    },
+    {
+      "id": 78,
+      "name_ar": "امبراتريز",
+      "name_en": "Imperatriz",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 273110
+    },
+    {
+      "id": 79,
+      "name_ar": "سوماري",
+      "name_en": "Sumare",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 265955
+    },
+    {
+      "id": 80,
+      "name_ar": "موسورو",
+      "name_en": "Mossoro",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 264577
+    },
+    {
+      "id": 81,
+      "name_ar": "إتاخايي",
+      "name_en": "Itajai",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 264054
+    },
+    {
+      "id": 82,
+      "name_ar": "إنداياتوبا",
+      "name_en": "Indaiatuba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 256223
+    },
+    {
+      "id": 83,
+      "name_ar": "ساو كارلوس",
+      "name_en": "Sao Carlos",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 254484
+    },
+    {
+      "id": 84,
+      "name_ar": "كاروارو",
+      "name_en": "Caruaru",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 253634
+    },
+    {
+      "id": 85,
+      "name_ar": "بارناميريم",
+      "name_en": "Parnamirim",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 252716
+    },
+    {
+      "id": 86,
+      "name_ar": "أوبيرابا",
+      "name_en": "Uberaba",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 252051
+    },
+    {
+      "id": 87,
+      "name_ar": "ليميرا",
+      "name_en": "Limeira",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 249046
+    },
+    {
+      "id": 88,
+      "name_ar": "غوفيرنادور فالاداريس",
+      "name_en": "Governador Valadares",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 247131
+    },
+    {
+      "id": 89,
+      "name_ar": "ماكاي",
+      "name_en": "Macae",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 246391
+    },
+    {
+      "id": 90,
+      "name_ar": "ساو خوسيه دي ريبامار",
+      "name_en": "Sao Jose de Ribamar",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 244579
+    },
+    {
+      "id": 91,
+      "name_ar": "سانتا ماريا",
+      "name_en": "Santa Maria",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 243611
+    },
+    {
+      "id": 92,
+      "name_ar": "أراراكوارا",
+      "name_en": "Araraquara",
+      "country_ar": "البرازيل",
+      "country_en": "Brazil",
+      "population": 242228
+    }
+  ],
+  "meta": {
+    "title": "مدن البرازيل — Cities of Brazil (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن البرازيل بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 92 cities in Brazil with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 92 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن البرازيل — Cities of Brazil (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن البرازيل — Cities of Brazil (Arabic names) — 92 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 92 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

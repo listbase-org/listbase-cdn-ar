@@ -1,0 +1,214 @@
+{
+  "id": "ar-sa-manatiq-alenwan",
+  "name": "مناطق المملكة العربية السعودية (العنوان الوطني) — Regions of Saudi Arabia (National Address)",
+  "title": "مناطق المملكة العربية السعودية (العنوان الوطني) — Regions of Saudi Arabia (National Address)",
+  "description": "المناطق الإدارية الـ13 في المملكة العربية السعودية مع الأكواد الرسمية وعدد السكان والإحداثيات. The 13 administrative regions (مناطق / manatiq) of Saudi Arabia with official SPL region codes, population and centroid coordinates. From the open CC0 Saudi National Address (العنوان الوطني) dataset — distinct, richer-field source vs the existing Manateq-derived ar-sa-manatiq.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "capital_city_id",
+      "label": "Capital City Id",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region_id": 1,
+      "code": "RD",
+      "name_ar": "منطقة الرياض",
+      "name_en": "Riyadh",
+      "region_slug": "ar-riyadh",
+      "capital_city_id": 3,
+      "population": 6777146,
+      "lat": 24.69999996,
+      "lon": 46.73333003
+    },
+    {
+      "region_id": 2,
+      "code": "MQ",
+      "name_ar": "منطقة مكة المكرمة",
+      "name_en": "Makkah",
+      "region_slug": "makkah",
+      "capital_city_id": 6,
+      "population": 6915006,
+      "lat": 21.42717994,
+      "lon": 39.84349001
+    },
+    {
+      "region_id": 3,
+      "code": "MN",
+      "name_ar": "منطقة المدينة المنورة",
+      "name_en": "Madinah",
+      "region_slug": "al-madinah",
+      "capital_city_id": 14,
+      "population": 1777933,
+      "lat": 24.47057996,
+      "lon": 39.60781006
+    },
+    {
+      "region_id": 4,
+      "code": "QA",
+      "name_ar": "منطقة القصيم",
+      "name_en": "Qassim",
+      "region_slug": "al-qassim",
+      "capital_city_id": 11,
+      "population": 1215858,
+      "lat": 26.33033999,
+      "lon": 43.97435997
+    },
+    {
+      "region_id": 5,
+      "code": "SQ",
+      "name_ar": "المنطقة الشرقية",
+      "name_en": "Eastern Province",
+      "region_slug": "eastern",
+      "capital_city_id": 13,
+      "population": 4105780,
+      "lat": 26.44199002,
+      "lon": 50.10919981
+    },
+    {
+      "region_id": 6,
+      "code": "AS",
+      "name_ar": "منطقة عسير",
+      "name_en": "Asir",
+      "region_slug": "asir",
+      "capital_city_id": 15,
+      "population": 1913392,
+      "lat": 18.21667,
+      "lon": 42.50000002
+    },
+    {
+      "region_id": 7,
+      "code": "TB",
+      "name_ar": "منطقة تبوك",
+      "name_en": "Tabuk",
+      "region_slug": "tabuk",
+      "capital_city_id": 1,
+      "population": 791535,
+      "lat": 28.41463997,
+      "lon": 36.53387003
+    },
+    {
+      "region_id": 8,
+      "code": "HA",
+      "name_ar": "منطقة حائل",
+      "name_en": "Hail",
+      "region_slug": "hail",
+      "capital_city_id": 10,
+      "population": 597144,
+      "lat": 27.53054999,
+      "lon": 41.69733002
+    },
+    {
+      "region_id": 9,
+      "code": "SH",
+      "name_ar": "منطقة الحدود الشمالية",
+      "name_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "capital_city_id": 2213,
+      "population": 320524,
+      "lat": 30.97214998,
+      "lon": 41.01332997
+    },
+    {
+      "region_id": 10,
+      "code": "GA",
+      "name_ar": "منطقة جازان",
+      "name_en": "Jazan",
+      "region_slug": "jazan",
+      "capital_city_id": 17,
+      "population": 1365110,
+      "lat": 16.89671995,
+      "lon": 42.55360001
+    },
+    {
+      "region_id": 11,
+      "code": "NG",
+      "name_ar": "منطقة نجران",
+      "name_en": "Najran",
+      "region_slug": "najran",
+      "capital_city_id": 3417,
+      "population": 505652,
+      "lat": 17.5408618,
+      "lon": 44.2663834
+    },
+    {
+      "region_id": 12,
+      "code": "BA",
+      "name_ar": "منطقة الباحة",
+      "name_en": "Bahah",
+      "region_slug": "al-baha",
+      "capital_city_id": 1542,
+      "population": 411888,
+      "lat": 20.00695006,
+      "lon": 41.46314
+    },
+    {
+      "region_id": 13,
+      "code": "GO",
+      "name_ar": "منطقة الجوف",
+      "name_en": "Jawf",
+      "region_slug": "al-jawf",
+      "capital_city_id": 2237,
+      "population": 440009,
+      "lat": 29.9728,
+      "lon": 40.21416997
+    }
+  ],
+  "meta": {
+    "title": "مناطق المملكة العربية السعودية (العنوان الوطني) — Regions of Saudi Arabia (National Address) - تحميل مجاني",
+    "description": "المناطق الإدارية الـ13 في المملكة العربية السعودية مع الأكواد الرسمية وعدد السكان والإحداثيات. The 13 administrative regions (مناطق / manatiq) of Saudi Arabia with official SPL region codes, population and centroid coordinates. From the open CC0 Saudi National Address (العنوان الوطني) dataset — distinct, richer-field source vs the existing Manateq-derived ar-sa-manatiq. يحتوي على 13 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مناطق المملكة العربية السعودية (العنوان الوطني) — Regions of Saudi Arabia (National Address) | ListBase",
+    "seo_description": "تحميل مناطق المملكة العربية السعودية (العنوان الوطني) — Regions of Saudi Arabia (National Address) — 13 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 13 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

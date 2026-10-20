@@ -1,0 +1,124 @@
+{
+  "id": "ar-misr-fayoum-mudun",
+  "name": "مدن ومراكز محافظة الفيوم (Cities & Towns of Fayoum)",
+  "title": "مدن ومراكز محافظة الفيوم (Cities & Towns of Fayoum)",
+  "description": "قائمة مدن ومراكز محافظة الفيوم في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Fayoum governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "73",
+      "name_ar": "أطسا",
+      "name_en": "atssa",
+      "name_long_ar": "أطسا، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "72",
+      "name_ar": "إبشواي",
+      "name_en": "ibshway",
+      "name_long_ar": "إبشواي، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "160",
+      "name_ar": "الفيوم الجديدة",
+      "name_en": "new-fayoum",
+      "name_long_ar": "الفيوم الجديدة، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "75",
+      "name_ar": "سنورس",
+      "name_en": "sinnuras",
+      "name_long_ar": "سنورس، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "76",
+      "name_ar": "طامية",
+      "name_en": "tamiya",
+      "name_long_ar": "طامية، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "74",
+      "name_ar": "مدينة الفيوم",
+      "name_en": "fayoum-city",
+      "name_long_ar": "مدينة الفيوم، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    },
+    {
+      "id": "161",
+      "name_ar": "يوسف الصديق",
+      "name_en": "yusuf-al-sadiq",
+      "name_long_ar": "يوسف الصديق، الفيوم",
+      "muhafaza_ar": "الفيوم",
+      "muhafaza_en": "fayoum",
+      "muhafaza_id": 64
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الفيوم (Cities & Towns of Fayoum) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الفيوم في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Fayoum governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الفيوم (Cities & Towns of Fayoum) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الفيوم (Cities & Towns of Fayoum) — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

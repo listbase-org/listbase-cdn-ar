@@ -1,0 +1,448 @@
+{
+  "id": "ar-mudun-uzbekistan",
+  "name": "مدن أوزبكستان — Cities of Uzbekistan (Arabic names)",
+  "title": "مدن أوزبكستان — Cities of Uzbekistan (Arabic names)",
+  "description": "قائمة بأسماء مدن أوزبكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Uzbekistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "طشقند",
+      "name_en": "Tashkent",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 3095498
+    },
+    {
+      "id": 2,
+      "name_ar": "نمنكان",
+      "name_en": "Namangan",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 1010000
+    },
+    {
+      "id": 3,
+      "name_ar": "أنديجان",
+      "name_en": "Andijon",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 747800
+    },
+    {
+      "id": 4,
+      "name_ar": "سمرقند",
+      "name_en": "Samarkand",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 513572
+    },
+    {
+      "id": 5,
+      "name_ar": "نكوص",
+      "name_en": "Nukus",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 332500
+    },
+    {
+      "id": 6,
+      "name_ar": "فرغانة",
+      "name_en": "Farg`ona",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 299200
+    },
+    {
+      "id": 7,
+      "name_ar": "بخارى",
+      "name_en": "Bukhara",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 280187
+    },
+    {
+      "id": 8,
+      "name_ar": "قرشي",
+      "name_en": "Qarshi",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 278300
+    },
+    {
+      "id": 9,
+      "name_ar": "قوقند",
+      "name_en": "Qo`qon",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 259700
+    },
+    {
+      "id": 10,
+      "name_ar": "مرغلان",
+      "name_en": "Marg`ilon",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 242500
+    },
+    {
+      "id": 11,
+      "name_ar": "جيزك",
+      "name_en": "Jizzax",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 202200
+    },
+    {
+      "id": 12,
+      "name_ar": "أنجرين",
+      "name_en": "Angren",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 191300
+    },
+    {
+      "id": 13,
+      "name_ar": "ترمذ",
+      "name_en": "Termiz",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 182800
+    },
+    {
+      "id": 14,
+      "name_ar": "تشيرتشيق",
+      "name_en": "Chirchiq",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 162800
+    },
+    {
+      "id": 15,
+      "name_ar": "جرجانية",
+      "name_en": "Urganch",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 145000
+    },
+    {
+      "id": 16,
+      "name_ar": "نواوي",
+      "name_en": "Navoiy",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 144158
+    },
+    {
+      "id": 17,
+      "name_ar": "شهرسبز",
+      "name_en": "Shahrisabz",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 142700
+    },
+    {
+      "id": 18,
+      "name_ar": "خيوة",
+      "name_en": "Xiva",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 115000
+    },
+    {
+      "id": 19,
+      "name_ar": "كاغان",
+      "name_en": "Kogon Shahri",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 107566
+    },
+    {
+      "id": 20,
+      "name_ar": "كولستان",
+      "name_en": "Guliston",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 90398
+    },
+    {
+      "id": 21,
+      "name_ar": "شهرخان",
+      "name_en": "Shahrixon",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 71400
+    },
+    {
+      "id": 22,
+      "name_ar": "كاسانساي",
+      "name_en": "Kosonsoy",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 50900
+    },
+    {
+      "id": 23,
+      "name_ar": "مقاطعة تورتكول",
+      "name_en": "Turtkul",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 50800
+    },
+    {
+      "id": 24,
+      "name_ar": "قبا",
+      "name_en": "Quva",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 46400
+    },
+    {
+      "id": 25,
+      "name_ar": "يانجير",
+      "name_en": "Yangiyer",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 44200
+    },
+    {
+      "id": 26,
+      "name_ar": "خان‌ آباد",
+      "name_en": "Xonobod",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 44000
+    },
+    {
+      "id": 27,
+      "name_ar": "كتاب",
+      "name_en": "Kitob",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 40800
+    },
+    {
+      "id": 28,
+      "name_ar": "قونغيرات",
+      "name_en": "Qunghirot",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 37100
+    },
+    {
+      "id": 29,
+      "name_ar": "بشقند",
+      "name_en": "Piskent",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 34900
+    },
+    {
+      "id": 30,
+      "name_ar": "رشتان",
+      "name_en": "Rishton",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 34800
+    },
+    {
+      "id": 31,
+      "name_ar": "قرصو",
+      "name_en": "Qorasuv",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 33000
+    },
+    {
+      "id": 32,
+      "name_ar": "مقاطعة نوراتا",
+      "name_en": "Nurota",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 32300
+    },
+    {
+      "id": 33,
+      "name_ar": "بلاغباشي",
+      "name_en": "Buloqboshi",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 32200
+    },
+    {
+      "id": 34,
+      "name_ar": "قرغان تبه",
+      "name_en": "Qo`rg`ontepa",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 30800
+    },
+    {
+      "id": 35,
+      "name_ar": "بوب",
+      "name_en": "Pop",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 30000
+    },
+    {
+      "id": 36,
+      "name_ar": "مقاطعة شيرآباد",
+      "name_en": "Sherobod",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 29100
+    },
+    {
+      "id": 37,
+      "name_ar": "مقاطعة آلتينقال",
+      "name_en": "Oltinko`l",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 28300
+    },
+    {
+      "id": 38,
+      "name_ar": "بايسون",
+      "name_en": "Boysun",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 27600
+    },
+    {
+      "id": 39,
+      "name_ar": "إسكندر",
+      "name_en": "Iskandar",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 26161
+    },
+    {
+      "id": 40,
+      "name_ar": "داردق",
+      "name_en": "Dardoq",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 26055
+    },
+    {
+      "id": 41,
+      "name_ar": "البرتغالية",
+      "name_en": "Poytug`",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 26000
+    },
+    {
+      "id": 42,
+      "name_ar": "باليقجي",
+      "name_en": "Baliqchi",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 25100
+    },
+    {
+      "id": 43,
+      "name_ar": "شورتشي",
+      "name_en": "Sho`rchi",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 25000
+    },
+    {
+      "id": 44,
+      "name_ar": "يايبان",
+      "name_en": "Yaypan",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 24900
+    },
+    {
+      "id": 45,
+      "name_ar": "جيراقجي",
+      "name_en": "Chiroqchi",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 23800
+    },
+    {
+      "id": 46,
+      "name_ar": "جركورغان",
+      "name_en": "Jarqo`rg`on",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 22700
+    },
+    {
+      "id": 47,
+      "name_ar": "كرمانة",
+      "name_en": "Karmana",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 20816
+    },
+    {
+      "id": 48,
+      "name_ar": "يكباغ",
+      "name_en": "Yakkabog`",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 20600
+    },
+    {
+      "id": 49,
+      "name_ar": "مقاطعة خوجه آباد",
+      "name_en": "Xo`jaobod",
+      "country_ar": "أوزبكستان",
+      "country_en": "Uzbekistan",
+      "population": 20200
+    }
+  ],
+  "meta": {
+    "title": "مدن أوزبكستان — Cities of Uzbekistan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أوزبكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Uzbekistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 49 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أوزبكستان — Cities of Uzbekistan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أوزبكستان — Cities of Uzbekistan (Arabic names) — 49 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 49 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

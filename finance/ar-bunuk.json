@@ -1,0 +1,183 @@
+{
+  "id": "ar-bunuk",
+  "name": "البنوك في المملكة العربية السعودية (Banks of Saudi Arabia)",
+  "title": "البنوك في المملكة العربية السعودية (Banks of Saudi Arabia)",
+  "description": "قائمة البنوك المعتمدة في المملكة العربية السعودية مع رمز ساما (SAMA) المكوّن من رقمين والاسم العربي والإنجليزي. List of licensed banks in Saudi Arabia with their 2-digit SAMA (Saudi Central Bank / مؤسسة النقد العربي السعودي) identifier code as embedded in every Saudi IBAN (positions 5–6 of the SA-prefixed 24-character IBAN). Source: yosif111/saudi-iban-validator validateIBAN.js (MIT) — 18 records covering the Saudi-licensed retail / commercial / Islamic / GCC-foreign-branch banks active under SAMA supervision as of 2020-12.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "sama_code",
+      "label": "Sama Code",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_internal",
+      "label": "Name Internal",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "sarie_code",
+      "label": "Sarie Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sama_code": "05",
+      "name_ar": "بنك الانماء",
+      "name_en": "AL Inma Bank",
+      "name_internal": "Alinma Bank",
+      "slug": "al-inma-bank"
+    },
+    {
+      "sama_code": "10",
+      "name_ar": "البنك الأهلي التجاري",
+      "name_en": "National Commertial Bank",
+      "name_internal": "National Commercial Bank",
+      "slug": "national-commertial-bank"
+    },
+    {
+      "sama_code": "15",
+      "name_ar": "بنك البلاد",
+      "name_en": "BANK ALBELAD",
+      "name_internal": "Bank AlBilad",
+      "slug": "bank-albelad"
+    },
+    {
+      "sama_code": "20",
+      "name_ar": "بنك الرياض",
+      "name_en": "Riyad Bank",
+      "name_internal": "Riyadh Bank",
+      "slug": "riyad-bank"
+    },
+    {
+      "sama_code": "30",
+      "name_ar": "البنك العربي الوطني",
+      "name_en": "Arab National Bank",
+      "name_internal": "Arab National Bank",
+      "slug": "arab-national-bank"
+    },
+    {
+      "sama_code": "40",
+      "name_ar": "سامبا",
+      "name_en": "SAMBA",
+      "name_internal": "Saudi American Bank",
+      "slug": "samba"
+    },
+    {
+      "sama_code": "45",
+      "name_ar": "ساب",
+      "name_en": "SABB",
+      "name_internal": "Saudi British Bank",
+      "slug": "sabb"
+    },
+    {
+      "sama_code": "50",
+      "name_ar": "البنك الأول",
+      "name_en": "AlAwwal Bank",
+      "name_internal": "Alawwal bank",
+      "slug": "alawwal-bank"
+    },
+    {
+      "sama_code": "55",
+      "name_ar": "البنك السعودي الفرنسي",
+      "name_en": "Banque Saudi Fransi",
+      "name_internal": "Banque Saudi Fransi",
+      "slug": "banque-saudi-fransi"
+    },
+    {
+      "sama_code": "60",
+      "name_ar": "بنك الجزيرة",
+      "name_en": "Bank Aljazerah",
+      "name_internal": "Bank AlJazira",
+      "slug": "bank-aljazerah"
+    },
+    {
+      "sama_code": "65",
+      "name_ar": "البنك السعودي للأستثمار",
+      "name_en": "Saudi Investment Bank",
+      "name_internal": "Saudi Investment Bank",
+      "slug": "saudi-investment-bank"
+    },
+    {
+      "sama_code": "71",
+      "name_ar": "بنك البحرين الوطني",
+      "name_en": "National Bank Of Bahrain",
+      "name_internal": "National Bank of Bahrain",
+      "slug": "national-bank-of-bahrain"
+    },
+    {
+      "sama_code": "75",
+      "name_ar": "بنك الكويت الوطني",
+      "name_en": "National Bank of Kuwait",
+      "name_internal": "National Bank of Kuwait",
+      "slug": "national-bank-of-kuwait"
+    },
+    {
+      "sama_code": "76",
+      "name_ar": "بنك مسقط",
+      "name_en": "Bank Muscat",
+      "name_internal": "Bank Muscat",
+      "slug": "bank-muscat"
+    },
+    {
+      "sama_code": "80",
+      "name_ar": "بنك الراجحي",
+      "name_en": "Alrajhi Bank",
+      "name_internal": "Alrajhi Bank",
+      "slug": "alrajhi-bank"
+    },
+    {
+      "sama_code": "85",
+      "name_ar": "بي ان بي باريبوس",
+      "name_en": "BNP PARIBAS SAUDI ARABIA",
+      "name_internal": "BNP Paribas Bank",
+      "slug": "bnp-paribas-saudi-arabia"
+    },
+    {
+      "sama_code": "90",
+      "name_ar": "بنك الخليج",
+      "name_en": "Gulf International Bank",
+      "name_internal": "GULF Bank",
+      "slug": "gulf-international-bank",
+      "sarie_code": "GULFSARI"
+    },
+    {
+      "sama_code": "95",
+      "name_ar": "بنك الامارات",
+      "name_en": "EMARITE BANK",
+      "name_internal": "Emirates Bank",
+      "slug": "emarite-bank"
+    }
+  ],
+  "meta": {
+    "title": "البنوك في المملكة العربية السعودية (Banks of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة البنوك المعتمدة في المملكة العربية السعودية مع رمز ساما (SAMA) المكوّن من رقمين والاسم العربي والإنجليزي. List of licensed banks in Saudi Arabia with their 2-digit SAMA (Saudi Central Bank / مؤسسة النقد العربي السعودي) identifier code as embedded in every Saudi IBAN (positions 5–6 of the SA-prefixed 24-character IBAN). Source: yosif111/saudi-iban-validator validateIBAN.js (MIT) — 18 records covering the Saudi-licensed retail / commercial / Islamic / GCC-foreign-branch banks active under SAMA supervision as of 2020-12. يحتوي على 18 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "البنوك في المملكة العربية السعودية (Banks of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل البنوك في المملكة العربية السعودية (Banks of Saudi Arabia) — 18 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 18 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "id": "ar-mudun-france",
+  "name": "مدن فرنسا — Cities of France (Arabic names)",
+  "title": "مدن فرنسا — Cities of France (Arabic names)",
+  "description": "قائمة بأسماء مدن فرنسا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 99 cities in France with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "باريس",
+      "name_en": "Paris",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 11060000
+    },
+    {
+      "id": 2,
+      "name_ar": "بوردو",
+      "name_en": "Bordeaux",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 994920
+    },
+    {
+      "id": 3,
+      "name_ar": "مارسيليا",
+      "name_en": "Marseille",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 877215
+    },
+    {
+      "id": 4,
+      "name_ar": "ليون",
+      "name_en": "Lyon",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 520774
+    },
+    {
+      "id": 5,
+      "name_ar": "تولوز",
+      "name_en": "Toulouse",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 511684
+    },
+    {
+      "id": 6,
+      "name_ar": "نيس",
+      "name_en": "Nice",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 353701
+    },
+    {
+      "id": 7,
+      "name_ar": "نانت",
+      "name_en": "Nantes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 325070
+    },
+    {
+      "id": 8,
+      "name_ar": "مونبلييه",
+      "name_en": "Montpellier",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 307101
+    },
+    {
+      "id": 9,
+      "name_ar": "ستراسبورغ",
+      "name_en": "Strasbourg",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 291709
+    },
+    {
+      "id": 10,
+      "name_ar": "ليل",
+      "name_en": "Lille",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 238695
+    },
+    {
+      "id": 11,
+      "name_ar": "رين",
+      "name_en": "Rennes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 227830
+    },
+    {
+      "id": 12,
+      "name_ar": "تولون",
+      "name_en": "Toulon",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 180834
+    },
+    {
+      "id": 13,
+      "name_ar": "رانس",
+      "name_en": "Reims",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 178478
+    },
+    {
+      "id": 14,
+      "name_ar": "سانت إتيان",
+      "name_en": "Saint-Etienne",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 172569
+    },
+    {
+      "id": 15,
+      "name_ar": "لو هافر",
+      "name_en": "Le Havre",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 166462
+    },
+    {
+      "id": 16,
+      "name_ar": "فيلوربان",
+      "name_en": "Villeurbanne",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 162207
+    },
+    {
+      "id": 17,
+      "name_ar": "ديجون",
+      "name_en": "Dijon",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 159941
+    },
+    {
+      "id": 18,
+      "name_ar": "أنجيه",
+      "name_en": "Angers",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 157555
+    },
+    {
+      "id": 19,
+      "name_ar": "غرونوبل",
+      "name_en": "Grenoble",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 156389
+    },
+    {
+      "id": 20,
+      "name_ar": "نيم",
+      "name_en": "Nimes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 150444
+    },
+    {
+      "id": 21,
+      "name_ar": "آكس أون بروفانس",
+      "name_en": "Aix-en-Provence",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 147933
+    },
+    {
+      "id": 22,
+      "name_ar": "كليرمون فيران",
+      "name_en": "Clermont-Ferrand",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 147751
+    },
+    {
+      "id": 23,
+      "name_ar": "لو مان",
+      "name_en": "Le Mans",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 145182
+    },
+    {
+      "id": 24,
+      "name_ar": "بريست",
+      "name_en": "Brest",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 140993
+    },
+    {
+      "id": 25,
+      "name_ar": "تور",
+      "name_en": "Tours",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 138668
+    },
+    {
+      "id": 26,
+      "name_ar": "أميان",
+      "name_en": "Amiens",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 134780
+    },
+    {
+      "id": 27,
+      "name_ar": "آنسي",
+      "name_en": "Annecy",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 131272
+    },
+    {
+      "id": 28,
+      "name_ar": "ليموج",
+      "name_en": "Limoges",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 129754
+    },
+    {
+      "id": 29,
+      "name_ar": "متز",
+      "name_en": "Metz",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 121695
+    },
+    {
+      "id": 30,
+      "name_ar": "بربنية",
+      "name_en": "Perpignan",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 120996
+    },
+    {
+      "id": 31,
+      "name_ar": "بولون-بيانكور",
+      "name_en": "Boulogne-Billancourt",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 120205
+    },
+    {
+      "id": 32,
+      "name_ar": "بِزَنصُون",
+      "name_en": "Besancon",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 120057
+    },
+    {
+      "id": 33,
+      "name_ar": "أورليان",
+      "name_en": "Orleans",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 116344
+    },
+    {
+      "id": 34,
+      "name_ar": "روان",
+      "name_en": "Rouen",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 116331
+    },
+    {
+      "id": 35,
+      "name_ar": "سان ديني",
+      "name_en": "Saint-Denis",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 115237
+    },
+    {
+      "id": 36,
+      "name_ar": "مونتروي",
+      "name_en": "Montreuil",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 110758
+    },
+    {
+      "id": 37,
+      "name_ar": "كان",
+      "name_en": "Caen",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 108398
+    },
+    {
+      "id": 38,
+      "name_ar": "أرجنتوي",
+      "name_en": "Argenteuil",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 107135
+    },
+    {
+      "id": 39,
+      "name_ar": "ميلوز",
+      "name_en": "Mulhouse",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 104924
+    },
+    {
+      "id": 40,
+      "name_ar": "نانسي",
+      "name_en": "Nancy",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 104387
+    },
+    {
+      "id": 41,
+      "name_ar": "روبيه",
+      "name_en": "Roubaix",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 99507
+    },
+    {
+      "id": 42,
+      "name_ar": "توركوان",
+      "name_en": "Tourcoing",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 99160
+    },
+    {
+      "id": 43,
+      "name_ar": "نانتير",
+      "name_en": "Nanterre",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 98119
+    },
+    {
+      "id": 44,
+      "name_ar": "فيتري سور سين",
+      "name_en": "Vitry-sur-Seine",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 95282
+    },
+    {
+      "id": 45,
+      "name_ar": "كريتاي",
+      "name_en": "Creteil",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 92859
+    },
+    {
+      "id": 46,
+      "name_ar": "أفنيون",
+      "name_en": "Avignon",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 91760
+    },
+    {
+      "id": 47,
+      "name_ar": "كولومب",
+      "name_en": "Colombes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 90692
+    },
+    {
+      "id": 48,
+      "name_ar": "أوبارفيلييه",
+      "name_en": "Aubervilliers",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 89489
+    },
+    {
+      "id": 49,
+      "name_ar": "بواتييه",
+      "name_en": "Poitiers",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 89472
+    },
+    {
+      "id": 50,
+      "name_ar": "دونكيرك",
+      "name_en": "Dunkerque",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 87013
+    },
+    {
+      "id": 51,
+      "name_ar": "أولنيه سو بوا",
+      "name_en": "Aulnay-sous-Bois",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 86360
+    },
+    {
+      "id": 52,
+      "name_ar": "فرساي",
+      "name_en": "Versailles",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 83918
+    },
+    {
+      "id": 53,
+      "name_ar": "روي-مالميزون",
+      "name_en": "Rueil-Malmaison",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 80842
+    },
+    {
+      "id": 54,
+      "name_ar": "بيزييه",
+      "name_en": "Beziers",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 80815
+    },
+    {
+      "id": 55,
+      "name_ar": "لا روشيل",
+      "name_en": "La Rochelle",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 79961
+    },
+    {
+      "id": 56,
+      "name_ar": "بو",
+      "name_en": "Pau",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 78620
+    },
+    {
+      "id": 57,
+      "name_ar": "شامبيني سور مارن",
+      "name_en": "Champigny-sur-Marne",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 78367
+    },
+    {
+      "id": 58,
+      "name_ar": "مريجناك",
+      "name_en": "Merignac",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 77136
+    },
+    {
+      "id": 59,
+      "name_ar": "أنتيب",
+      "name_en": "Antibes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 76612
+    },
+    {
+      "id": 60,
+      "name_ar": "سان مور ديه فوسيه",
+      "name_en": "Saint-Maur-des-Fosses",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 76010
+    },
+    {
+      "id": 61,
+      "name_ar": "أجاكسيو",
+      "name_en": "Ajaccio",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 75343
+    },
+    {
+      "id": 62,
+      "name_ar": "كان",
+      "name_en": "Cannes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 74040
+    },
+    {
+      "id": 63,
+      "name_ar": "سان نازير",
+      "name_en": "Saint-Nazaire",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 73111
+    },
+    {
+      "id": 64,
+      "name_ar": "نوازي لو غران",
+      "name_en": "Noisy-le-Grand",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 71632
+    },
+    {
+      "id": 65,
+      "name_ar": "درانسي",
+      "name_en": "Drancy",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 71312
+    },
+    {
+      "id": 66,
+      "name_ar": "سيرجي",
+      "name_en": "Cergy",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 69578
+    },
+    {
+      "id": 67,
+      "name_ar": "لوفالوا-بيري",
+      "name_en": "Levallois-Perret",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 68412
+    },
+    {
+      "id": 68,
+      "name_ar": "إيسي ليه مولينو",
+      "name_en": "Issy-les-Moulineaux",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 67695
+    },
+    {
+      "id": 69,
+      "name_ar": "كاليه",
+      "name_en": "Calais",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 67585
+    },
+    {
+      "id": 70,
+      "name_ar": "كولمار",
+      "name_en": "Colmar",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 67360
+    },
+    {
+      "id": 71,
+      "name_ar": "بيساك",
+      "name_en": "Pessac",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 66874
+    },
+    {
+      "id": 72,
+      "name_ar": "فينيسيس",
+      "name_en": "Venissieux",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 66701
+    },
+    {
+      "id": 73,
+      "name_ar": "كليشي",
+      "name_en": "Clichy",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 65102
+    },
+    {
+      "id": 74,
+      "name_ar": "كامبار",
+      "name_en": "Quimper",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 64530
+    },
+    {
+      "id": 75,
+      "name_ar": "إيفري سور سين",
+      "name_en": "Ivry-sur-Seine",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 64526
+    },
+    {
+      "id": 76,
+      "name_ar": "فالانس",
+      "name_en": "Valence",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 64288
+    },
+    {
+      "id": 77,
+      "name_ar": "بورج",
+      "name_en": "Bourges",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 64238
+    },
+    {
+      "id": 78,
+      "name_ar": "أنطوني",
+      "name_en": "Antony",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 64026
+    },
+    {
+      "id": 79,
+      "name_ar": "لا سين سور مير",
+      "name_en": "La Seyne-sur-Mer",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 62905
+    },
+    {
+      "id": 80,
+      "name_ar": "مونتوبان",
+      "name_en": "Montauban",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 62487
+    },
+    {
+      "id": 81,
+      "name_ar": "تروا",
+      "name_en": "Troyes",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 62443
+    },
+    {
+      "id": 82,
+      "name_ar": "بانتان",
+      "name_en": "Pantin",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 60954
+    },
+    {
+      "id": 83,
+      "name_ar": "شامبيري",
+      "name_en": "Chambery",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 60251
+    },
+    {
+      "id": 84,
+      "name_ar": "نيور",
+      "name_en": "Niort",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 60074
+    },
+    {
+      "id": 85,
+      "name_ar": "جوان لي بان",
+      "name_en": "Juan-les-Pins",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 60000
+    },
+    {
+      "id": 86,
+      "name_ar": "لو بلان مينيل",
+      "name_en": "Le Blanc-Mesnil",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 59912
+    },
+    {
+      "id": 87,
+      "name_ar": "نويي-سور-سين",
+      "name_en": "Neuilly-sur-Seine",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 59200
+    },
+    {
+      "id": 88,
+      "name_ar": "سارسيل",
+      "name_en": "Sarcelles",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 58576
+    },
+    {
+      "id": 89,
+      "name_ar": "فريجوس",
+      "name_en": "Frejus",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 58499
+    },
+    {
+      "id": 90,
+      "name_ar": "لوريان",
+      "name_en": "Lorient",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 58202
+    },
+    {
+      "id": 91,
+      "name_ar": "فيلجويف",
+      "name_en": "Villejuif",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 58142
+    },
+    {
+      "id": 92,
+      "name_ar": "بيليفيو",
+      "name_en": "Bellevue",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 57699
+    },
+    {
+      "id": 93,
+      "name_ar": "ميزون ألفور",
+      "name_en": "Maisons-Alfort",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 57422
+    },
+    {
+      "id": 94,
+      "name_ar": "كلامار",
+      "name_en": "Clamart",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 56882
+    },
+    {
+      "id": 95,
+      "name_ar": "أربونة",
+      "name_en": "Narbonne",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 56692
+    },
+    {
+      "id": 96,
+      "name_ar": "مو",
+      "name_en": "Meaux",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 56659
+    },
+    {
+      "id": 97,
+      "name_ar": "بوفيه",
+      "name_en": "Beauvais",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 55906
+    },
+    {
+      "id": 98,
+      "name_ar": "إيرش",
+      "name_en": "Hyeres",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 55384
+    },
+    {
+      "id": 99,
+      "name_ar": "بوبيني",
+      "name_en": "Bobigny",
+      "country_ar": "فرنسا",
+      "country_en": "France",
+      "population": 55270
+    }
+  ],
+  "meta": {
+    "title": "مدن فرنسا — Cities of France (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن فرنسا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 99 cities in France with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 99 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن فرنسا — Cities of France (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن فرنسا — Cities of France (Arabic names) — 99 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 99 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

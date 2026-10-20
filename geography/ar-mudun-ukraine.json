@@ -1,0 +1,704 @@
+{
+  "id": "ar-mudun-ukraine",
+  "name": "مدن أوكرانيا — Cities of Ukraine (Arabic names)",
+  "title": "مدن أوكرانيا — Cities of Ukraine (Arabic names)",
+  "description": "قائمة بأسماء مدن أوكرانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Ukraine with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "خاركيف",
+      "name_en": "Kharkiv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 1421125
+    },
+    {
+      "id": 2,
+      "name_ar": "أوديسا",
+      "name_en": "Odesa",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 1010537
+    },
+    {
+      "id": 3,
+      "name_ar": "دنِبرُو",
+      "name_en": "Dnipro",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 968502
+    },
+    {
+      "id": 4,
+      "name_ar": "دونيتسك",
+      "name_en": "Donetsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 901645
+    },
+    {
+      "id": 5,
+      "name_ar": "لفيف",
+      "name_en": "Lviv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 717273
+    },
+    {
+      "id": 6,
+      "name_ar": "زاباروجيا",
+      "name_en": "Zaporizhzhia",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 710052
+    },
+    {
+      "id": 7,
+      "name_ar": "كريفي ريه",
+      "name_en": "Kryvyi Rih",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 603904
+    },
+    {
+      "id": 8,
+      "name_ar": "ميكولايف",
+      "name_en": "Mykolaiv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 470011
+    },
+    {
+      "id": 9,
+      "name_ar": "لوهانسك",
+      "name_en": "Luhansk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 397677
+    },
+    {
+      "id": 10,
+      "name_ar": "فينيتسا",
+      "name_en": "Vinnytsia",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 356303
+    },
+    {
+      "id": 11,
+      "name_ar": "ماكيفكا",
+      "name_en": "Makiivka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 338968
+    },
+    {
+      "id": 12,
+      "name_ar": "تشرنيغوف",
+      "name_en": "Chernihiv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 282747
+    },
+    {
+      "id": 13,
+      "name_ar": "بولتافا",
+      "name_en": "Poltava",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 279593
+    },
+    {
+      "id": 14,
+      "name_ar": "خيرسون",
+      "name_en": "Kherson",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 279131
+    },
+    {
+      "id": 15,
+      "name_ar": "خملنيتسكي",
+      "name_en": "Khmelnytskyi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 274452
+    },
+    {
+      "id": 16,
+      "name_ar": "تشيركاسي",
+      "name_en": "Cherkasy",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 269836
+    },
+    {
+      "id": 17,
+      "name_ar": "تشيرنوفتسي",
+      "name_en": "Chernivtsi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 264298
+    },
+    {
+      "id": 18,
+      "name_ar": "جيتومير",
+      "name_en": "Zhytomyr",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 261624
+    },
+    {
+      "id": 19,
+      "name_ar": "سومي",
+      "name_en": "Sumy",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 256474
+    },
+    {
+      "id": 20,
+      "name_ar": "روفنو",
+      "name_en": "Rivne",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 243873
+    },
+    {
+      "id": 21,
+      "name_ar": "هورليفكا",
+      "name_en": "Horlivka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 239828
+    },
+    {
+      "id": 22,
+      "name_ar": "إيفانو-فرانكيفسك",
+      "name_en": "Ivano-Frankivsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 238196
+    },
+    {
+      "id": 23,
+      "name_ar": "ترنوبل",
+      "name_en": "Ternopil",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 225004
+    },
+    {
+      "id": 24,
+      "name_ar": "لوتسك",
+      "name_en": "Lutsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 220986
+    },
+    {
+      "id": 25,
+      "name_ar": "كروبيفنيتسكي",
+      "name_en": "Kropyvnytskyi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 219676
+    },
+    {
+      "id": 26,
+      "name_ar": "كريمنشوك",
+      "name_en": "Kremenchuk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 215271
+    },
+    {
+      "id": 27,
+      "name_ar": "بيلا تسيركفا",
+      "name_en": "Bila Tserkva",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 207273
+    },
+    {
+      "id": 28,
+      "name_ar": "ميليتوبول",
+      "name_en": "Melitopol",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 148851
+    },
+    {
+      "id": 29,
+      "name_ar": "كراماتورسك",
+      "name_en": "Kramatorsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 147145
+    },
+    {
+      "id": 30,
+      "name_ar": "ماريوبول",
+      "name_en": "Mariupol",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 120000
+    },
+    {
+      "id": 31,
+      "name_ar": "أوجهورود",
+      "name_en": "Uzhhorod",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 115449
+    },
+    {
+      "id": 32,
+      "name_ar": "بروفاري",
+      "name_en": "Brovary",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 109806
+    },
+    {
+      "id": 33,
+      "name_ar": "سلوفيانسك",
+      "name_en": "Sloviansk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 105141
+    },
+    {
+      "id": 34,
+      "name_ar": "بافلوجراد",
+      "name_en": "Pavlohrad",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 101430
+    },
+    {
+      "id": 35,
+      "name_ar": "سفرودونتسك",
+      "name_en": "Sievierodonetsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 99067
+    },
+    {
+      "id": 36,
+      "name_ar": "كامينيتس",
+      "name_en": "Kamianets-Podilskyi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 96896
+    },
+    {
+      "id": 37,
+      "name_ar": "ليسيتشانسك",
+      "name_en": "Lysychansk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 93340
+    },
+    {
+      "id": 38,
+      "name_ar": "موكاجيفا",
+      "name_en": "Mukacheve",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 85569
+    },
+    {
+      "id": 39,
+      "name_ar": "كونوتوب",
+      "name_en": "Konotop",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 83543
+    },
+    {
+      "id": 40,
+      "name_ar": "سلطنة عمان",
+      "name_en": "Uman",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 81525
+    },
+    {
+      "id": 41,
+      "name_ar": "كراسني لوتش",
+      "name_en": "Krasnyi Luch",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 79533
+    },
+    {
+      "id": 42,
+      "name_ar": "كراسني لوتش",
+      "name_en": "Khrustalnyi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 79533
+    },
+    {
+      "id": 43,
+      "name_ar": "يناكييف",
+      "name_en": "Yenakiieve",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 76673
+    },
+    {
+      "id": 44,
+      "name_ar": "أوليكساندريا",
+      "name_en": "Oleksandriia",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 76097
+    },
+    {
+      "id": 45,
+      "name_ar": "ستاخانوف",
+      "name_en": "Stakhanov",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 74546
+    },
+    {
+      "id": 46,
+      "name_ar": "دروغوبيتش",
+      "name_en": "Drohobych",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 73682
+    },
+    {
+      "id": 47,
+      "name_ar": "بيردوشيف",
+      "name_en": "Berdychiv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 73046
+    },
+    {
+      "id": 48,
+      "name_ar": "شوستاكا",
+      "name_en": "Shostka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 71966
+    },
+    {
+      "id": 49,
+      "name_ar": "بخموت",
+      "name_en": "Bakhmut",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 71094
+    },
+    {
+      "id": 50,
+      "name_ar": "إيزمائيل",
+      "name_en": "Izmail",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 69932
+    },
+    {
+      "id": 51,
+      "name_ar": "كوفل",
+      "name_en": "Kovel",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 67575
+    },
+    {
+      "id": 52,
+      "name_ar": "نيجين",
+      "name_en": "Nizhyn",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 65830
+    },
+    {
+      "id": 53,
+      "name_ar": "فشاغ",
+      "name_en": "Smila",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 65675
+    },
+    {
+      "id": 54,
+      "name_ar": "إربين",
+      "name_en": "Irpin",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 65167
+    },
+    {
+      "id": 55,
+      "name_ar": "بوريسبيل",
+      "name_en": "Boryspil",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 64117
+    },
+    {
+      "id": 56,
+      "name_ar": "كورستين",
+      "name_en": "Korosten",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 61496
+    },
+    {
+      "id": 57,
+      "name_ar": "كولوميا",
+      "name_en": "Kolomyia",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 60821
+    },
+    {
+      "id": 58,
+      "name_ar": "ستري",
+      "name_en": "Stryi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 59425
+    },
+    {
+      "id": 59,
+      "name_ar": "تشورنومورسك",
+      "name_en": "Chornomorsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 57983
+    },
+    {
+      "id": 60,
+      "name_ar": "دروزهكيفكا، فولغوغراد",
+      "name_en": "Druzhkivka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 53977
+    },
+    {
+      "id": 61,
+      "name_ar": "لوزوفا",
+      "name_en": "Lozova",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 53126
+    },
+    {
+      "id": 62,
+      "name_ar": "إنيرهودار",
+      "name_en": "Enerhodar",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 52237
+    },
+    {
+      "id": 63,
+      "name_ar": "أنتراتسيت",
+      "name_en": "Antratsyt",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 52150
+    },
+    {
+      "id": 64,
+      "name_ar": "بريلوكي",
+      "name_en": "Pryluky",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 51637
+    },
+    {
+      "id": 65,
+      "name_ar": "هوريشني بلافني",
+      "name_en": "Horishni Plavni",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 49854
+    },
+    {
+      "id": 66,
+      "name_ar": "بيلهورود دنيستروفسكيي",
+      "name_en": "Bilhorod-Dnistrovskyi",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 47727
+    },
+    {
+      "id": 67,
+      "name_ar": "أوختيركا",
+      "name_en": "Okhtyrka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 46660
+    },
+    {
+      "id": 68,
+      "name_ar": "ميرناغرد",
+      "name_en": "Myrnohrad",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 46098
+    },
+    {
+      "id": 69,
+      "name_ar": "مارهانيتس",
+      "name_en": "Marhanets",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 44980
+    },
+    {
+      "id": 70,
+      "name_ar": "إزيوم",
+      "name_en": "Izium",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 44979
+    },
+    {
+      "id": 71,
+      "name_ar": "بريانكا",
+      "name_en": "Brianka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 44760
+    },
+    {
+      "id": 72,
+      "name_ar": "نوفا كاخوفكا",
+      "name_en": "Nova Kakhovka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 44427
+    },
+    {
+      "id": 73,
+      "name_ar": "فاستيف",
+      "name_en": "Fastiv",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 44014
+    },
+    {
+      "id": 74,
+      "name_ar": "سفيتلوفودسك",
+      "name_en": "Svitlovodsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 43130
+    },
+    {
+      "id": 75,
+      "name_ar": "فيشنيفي",
+      "name_en": "Vyshneve",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 42983
+    },
+    {
+      "id": 76,
+      "name_ar": "كراسنودون",
+      "name_en": "Krasnodon",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 42315
+    },
+    {
+      "id": 77,
+      "name_ar": "جوفتي فودي",
+      "name_en": "Zhovti Vody",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 42052
+    },
+    {
+      "id": 78,
+      "name_ar": "فاراش",
+      "name_en": "Varash",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 41711
+    },
+    {
+      "id": 79,
+      "name_ar": "شيبيتيفكا",
+      "name_en": "Shepetivka",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 40299
+    },
+    {
+      "id": 80,
+      "name_ar": "بوديلسك",
+      "name_en": "Podilsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 39220
+    },
+    {
+      "id": 81,
+      "name_ar": "يوزنوكراينسك",
+      "name_en": "Yuzhnoukrainsk",
+      "country_ar": "أوكرانيا",
+      "country_en": "Ukraine",
+      "population": 38560
+    }
+  ],
+  "meta": {
+    "title": "مدن أوكرانيا — Cities of Ukraine (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أوكرانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Ukraine with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 81 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أوكرانيا — Cities of Ukraine (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أوكرانيا — Cities of Ukraine (Arabic names) — 81 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 81 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

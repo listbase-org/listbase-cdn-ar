@@ -1,0 +1,704 @@
+{
+  "id": "ar-mudun-united-kingdom",
+  "name": "مدن المملكة المتحدة — Cities of United Kingdom (Arabic names)",
+  "title": "مدن المملكة المتحدة — Cities of United Kingdom (Arabic names)",
+  "description": "قائمة بأسماء مدن المملكة المتحدة بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in United Kingdom with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "برمنغهام",
+      "name_en": "Birmingham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 2590363
+    },
+    {
+      "id": 2,
+      "name_ar": "بورتسموث",
+      "name_en": "Portsmouth",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 855679
+    },
+    {
+      "id": 3,
+      "name_ar": "ساوثهامبتون",
+      "name_en": "Southampton",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 855569
+    },
+    {
+      "id": 4,
+      "name_ar": "غلاسكو",
+      "name_en": "Glasgow",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 626410
+    },
+    {
+      "id": 5,
+      "name_ar": "مانشستر",
+      "name_en": "Manchester",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 547627
+    },
+    {
+      "id": 6,
+      "name_ar": "شفيلد",
+      "name_en": "Sheffield",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 518090
+    },
+    {
+      "id": 7,
+      "name_ar": "ليفربول",
+      "name_en": "Liverpool",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 513441
+    },
+    {
+      "id": 8,
+      "name_ar": "وورثينغ",
+      "name_en": "Worthing",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 474485
+    },
+    {
+      "id": 9,
+      "name_ar": "كوفنتري",
+      "name_en": "Coventry",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 362690
+    },
+    {
+      "id": 10,
+      "name_ar": "كارديف",
+      "name_en": "Caerdydd",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 361469
+    },
+    {
+      "id": 11,
+      "name_ar": "بلفاست",
+      "name_en": "Belfast",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 345006
+    },
+    {
+      "id": 12,
+      "name_ar": "ريدنغ",
+      "name_en": "Reading",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 337108
+    },
+    {
+      "id": 13,
+      "name_ar": "نيوكاسل أبون تاين",
+      "name_en": "Newcastle",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 300196
+    },
+    {
+      "id": 14,
+      "name_ar": "ستوكبورت كونتي",
+      "name_en": "Stockport",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 294773
+    },
+    {
+      "id": 15,
+      "name_ar": "برادفورد",
+      "name_en": "Bradford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 293277
+    },
+    {
+      "id": 16,
+      "name_ar": "نوتنغهام",
+      "name_en": "Nottingham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 289301
+    },
+    {
+      "id": 17,
+      "name_ar": "بليموث",
+      "name_en": "Plymouth",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 267918
+    },
+    {
+      "id": 18,
+      "name_ar": "ميلتون كينز",
+      "name_en": "Milton Keynes",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 264349
+    },
+    {
+      "id": 19,
+      "name_ar": "برلمان المملكة المتحدة",
+      "name_en": "Westminster",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 255324
+    },
+    {
+      "id": 20,
+      "name_ar": "وولفرهامبتون واندررز",
+      "name_en": "Wolverhampton",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 250970
+    },
+    {
+      "id": 21,
+      "name_ar": "سوانزي",
+      "name_en": "Abertawe",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 246700
+    },
+    {
+      "id": 22,
+      "name_ar": "نادي بارنسلي",
+      "name_en": "Barnsley",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 245199
+    },
+    {
+      "id": 23,
+      "name_ar": "ستوك أون ترينت",
+      "name_en": "Stoke-on-Trent",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 245000
+    },
+    {
+      "id": 24,
+      "name_ar": "سويندون تاون",
+      "name_en": "Swindon",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 222193
+    },
+    {
+      "id": 25,
+      "name_ar": "نورتش",
+      "name_en": "Norwich",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 213166
+    },
+    {
+      "id": 26,
+      "name_ar": "نادي لوتون تاون",
+      "name_en": "Luton",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 213052
+    },
+    {
+      "id": 27,
+      "name_ar": "سوليهل",
+      "name_en": "Solihull",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 206674
+    },
+    {
+      "id": 28,
+      "name_ar": "إزلنغتون",
+      "name_en": "Islington",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 206125
+    },
+    {
+      "id": 29,
+      "name_ar": "أبردين",
+      "name_en": "Aberdeen",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 200680
+    },
+    {
+      "id": 30,
+      "name_ar": "بيتيربوروغ",
+      "name_en": "Peterborough",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 194000
+    },
+    {
+      "id": 31,
+      "name_ar": "جبل سانت هيلين",
+      "name_en": "Saint Helens",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 183248
+    },
+    {
+      "id": 32,
+      "name_ar": "إيلفورد",
+      "name_en": "Ilford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 168168
+    },
+    {
+      "id": 33,
+      "name_ar": "هدرسفيلد تاون",
+      "name_en": "Huddersfield",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 162949
+    },
+    {
+      "id": 34,
+      "name_ar": "نادي ساوثيند يونايتد",
+      "name_en": "Southend",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 160257
+    },
+    {
+      "id": 35,
+      "name_ar": "نيوبورت",
+      "name_en": "Newport",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 159600
+    },
+    {
+      "id": 36,
+      "name_ar": "إبسوتش",
+      "name_en": "Ipswich",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 151562
+    },
+    {
+      "id": 37,
+      "name_ar": "دندي",
+      "name_en": "Dundee",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 148280
+    },
+    {
+      "id": 38,
+      "name_ar": "ويست بروميتش",
+      "name_en": "West Bromwich",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 146386
+    },
+    {
+      "id": 39,
+      "name_ar": "غلوستر",
+      "name_en": "Gloucester",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 145563
+    },
+    {
+      "id": 40,
+      "name_ar": "برستون",
+      "name_en": "Preston",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 141801
+    },
+    {
+      "id": 41,
+      "name_ar": "يورك",
+      "name_en": "York",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 141685
+    },
+    {
+      "id": 42,
+      "name_ar": "نادي ميدلزبره",
+      "name_en": "Middlesbrough",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 140545
+    },
+    {
+      "id": 43,
+      "name_ar": "نادي بلاكبول",
+      "name_en": "Blackpool",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 139305
+    },
+    {
+      "id": 44,
+      "name_ar": "نورثامبتون",
+      "name_en": "Northampton",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 137467
+    },
+    {
+      "id": 45,
+      "name_ar": "برايتون",
+      "name_en": "Brighton",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 134293
+    },
+    {
+      "id": 46,
+      "name_ar": "لينكولن",
+      "name_en": "Lincoln",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 130200
+    },
+    {
+      "id": 47,
+      "name_ar": "توتنهام هوتسبير",
+      "name_en": "Tottenham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 129237
+    },
+    {
+      "id": 48,
+      "name_ar": "إكستر",
+      "name_en": "Exeter",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 124180
+    },
+    {
+      "id": 49,
+      "name_ar": "كامبريدج",
+      "name_en": "Cambridge",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 123867
+    },
+    {
+      "id": 50,
+      "name_ar": "رومفورد",
+      "name_en": "Romford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 122854
+    },
+    {
+      "id": 51,
+      "name_ar": "كولشيستر",
+      "name_en": "Colchester",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 121859
+    },
+    {
+      "id": 52,
+      "name_ar": "هاي ويكومب",
+      "name_en": "High Wycombe",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 120256
+    },
+    {
+      "id": 53,
+      "name_ar": "غيتسهيد",
+      "name_en": "Gateshead",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 120046
+    },
+    {
+      "id": 54,
+      "name_ar": "سلاو",
+      "name_en": "Slough",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 119070
+    },
+    {
+      "id": 55,
+      "name_ar": "بلاكبيرن روفرز",
+      "name_en": "Blackburn",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 117963
+    },
+    {
+      "id": 56,
+      "name_ar": "شلتنهام",
+      "name_en": "Cheltenham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 116447
+    },
+    {
+      "id": 57,
+      "name_ar": "تشيلمسفورد",
+      "name_en": "Chelmsford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 115369
+    },
+    {
+      "id": 58,
+      "name_ar": "نادي روتشديل",
+      "name_en": "Rochdale",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 110194
+    },
+    {
+      "id": 59,
+      "name_ar": "بيركنهيد",
+      "name_en": "Birkenhead",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 109848
+    },
+    {
+      "id": 60,
+      "name_ar": "نادي دونكاستر روفرز",
+      "name_en": "Doncaster",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 109805
+    },
+    {
+      "id": 61,
+      "name_ar": "نادي روذرهام يونايتد",
+      "name_en": "Rotherham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 109691
+    },
+    {
+      "id": 62,
+      "name_ar": "ميدستون",
+      "name_en": "Maidstone",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 109490
+    },
+    {
+      "id": 63,
+      "name_ar": "أكسفورد",
+      "name_en": "Oxford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 108600
+    },
+    {
+      "id": 64,
+      "name_ar": "باسينجستوك",
+      "name_en": "Basingstoke",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 107355
+    },
+    {
+      "id": 65,
+      "name_ar": "كرولي",
+      "name_en": "Crawley",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 106597
+    },
+    {
+      "id": 66,
+      "name_ar": "داغنهام وريدبريدج",
+      "name_en": "Dagenham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 106247
+    },
+    {
+      "id": 67,
+      "name_ar": "نادي غيلينغهام",
+      "name_en": "Gillingham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 104157
+    },
+    {
+      "id": 68,
+      "name_ar": "هاليفاكس",
+      "name_en": "Halifax",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 104100
+    },
+    {
+      "id": 69,
+      "name_ar": "سالفورد",
+      "name_en": "Salford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 103886
+    },
+    {
+      "id": 70,
+      "name_ar": "ويغان أتلتيك",
+      "name_en": "Wigan",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 103608
+    },
+    {
+      "id": 71,
+      "name_ar": "هاونزلو",
+      "name_en": "Hounslow",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 103337
+    },
+    {
+      "id": 72,
+      "name_ar": "ملعب ويمبلي",
+      "name_en": "Wembley",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 102856
+    },
+    {
+      "id": 73,
+      "name_ar": "إيستبورن",
+      "name_en": "Eastbourne",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 101547
+    },
+    {
+      "id": 74,
+      "name_ar": "ويكفيلد",
+      "name_en": "Wakefield",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 99251
+    },
+    {
+      "id": 75,
+      "name_ar": "أولدهام",
+      "name_en": "Oldham",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 96555
+    },
+    {
+      "id": 76,
+      "name_ar": "هامرسميث",
+      "name_en": "Hammersmith",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 95996
+    },
+    {
+      "id": 77,
+      "name_ar": "هيميل هيمبستيد",
+      "name_en": "Hemel Hempstead",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 94932
+    },
+    {
+      "id": 78,
+      "name_ar": "داريلنغتون",
+      "name_en": "Darlington",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 93015
+    },
+    {
+      "id": 79,
+      "name_ar": "بيدفورد",
+      "name_en": "Bedford",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 92407
+    },
+    {
+      "id": 80,
+      "name_ar": "هوف",
+      "name_en": "Hove",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 91900
+    },
+    {
+      "id": 81,
+      "name_ar": "نادي ساوثبورت",
+      "name_en": "Southport",
+      "country_ar": "المملكة المتحدة",
+      "country_en": "United Kingdom",
+      "population": 91703
+    }
+  ],
+  "meta": {
+    "title": "مدن المملكة المتحدة — Cities of United Kingdom (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن المملكة المتحدة بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in United Kingdom with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 81 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن المملكة المتحدة — Cities of United Kingdom (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن المملكة المتحدة — Cities of United Kingdom (Arabic names) — 81 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 81 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

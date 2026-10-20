@@ -1,0 +1,448 @@
+{
+  "id": "ar-mudun-colombia",
+  "name": "مدن كولومبيا — Cities of Colombia (Arabic names)",
+  "title": "مدن كولومبيا — Cities of Colombia (Arabic names)",
+  "description": "قائمة بأسماء مدن كولومبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Colombia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بوغوتا",
+      "name_en": "Bogota",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 8034649
+    },
+    {
+      "id": 2,
+      "name_ar": "كاليفورنيا",
+      "name_en": "Cali",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 2838333
+    },
+    {
+      "id": 3,
+      "name_ar": "ميديلين",
+      "name_en": "Medellin",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 2529403
+    },
+    {
+      "id": 4,
+      "name_ar": "بارانكيا",
+      "name_en": "Barranquilla",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 1326588
+    },
+    {
+      "id": 5,
+      "name_ar": "كارتاخينا",
+      "name_en": "Cartagena",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 914552
+    },
+    {
+      "id": 6,
+      "name_ar": "بوكارامانغا",
+      "name_en": "Bucaramanga",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 893040
+    },
+    {
+      "id": 7,
+      "name_ar": "كوكوتا",
+      "name_en": "Cucuta",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 806378
+    },
+    {
+      "id": 8,
+      "name_ar": "باليرمو",
+      "name_en": "Palermo",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 800000
+    },
+    {
+      "id": 9,
+      "name_ar": "فيلافيسنسيو",
+      "name_en": "Villavicencio",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 664148
+    },
+    {
+      "id": 10,
+      "name_ar": "بيريرا",
+      "name_en": "Pereira",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 590554
+    },
+    {
+      "id": 11,
+      "name_ar": "بيلو",
+      "name_en": "Bello",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 561955
+    },
+    {
+      "id": 12,
+      "name_ar": "إيباغيه",
+      "name_en": "Ibague",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 546003
+    },
+    {
+      "id": 13,
+      "name_ar": "فاليدوبار",
+      "name_en": "Valledupar",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 544134
+    },
+    {
+      "id": 14,
+      "name_ar": "سانتا مارتا",
+      "name_en": "Santa Marta",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 515556
+    },
+    {
+      "id": 15,
+      "name_ar": "مانيزاليس",
+      "name_en": "Manizales",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 454494
+    },
+    {
+      "id": 16,
+      "name_ar": "مونتيريا",
+      "name_en": "Monteria",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 400000
+    },
+    {
+      "id": 17,
+      "name_ar": "نيفا",
+      "name_en": "Neiva",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 380019
+    },
+    {
+      "id": 18,
+      "name_ar": "أرمينيا",
+      "name_en": "Armenia",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 301226
+    },
+    {
+      "id": 19,
+      "name_ar": "بوبايان",
+      "name_en": "Popayan",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 300837
+    },
+    {
+      "id": 20,
+      "name_ar": "بارانكابيرميخا",
+      "name_en": "Barrancabermeja",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 300000
+    },
+    {
+      "id": 21,
+      "name_ar": "سينسليخو",
+      "name_en": "Sincelejo",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 286716
+    },
+    {
+      "id": 22,
+      "name_ar": "إنفيغادو",
+      "name_en": "Envigado",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 228848
+    },
+    {
+      "id": 23,
+      "name_ar": "توماكو",
+      "name_en": "Tumaco",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 212692
+    },
+    {
+      "id": 24,
+      "name_ar": "مديعة",
+      "name_en": "Turbo",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 181000
+    },
+    {
+      "id": 25,
+      "name_ar": "سانتاندير دي كيليجاو",
+      "name_en": "Santander de Quilichao",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 180000
+    },
+    {
+      "id": 26,
+      "name_ar": "إبياليز",
+      "name_en": "Ipiales",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 169864
+    },
+    {
+      "id": 27,
+      "name_ar": "ريوهاتشا",
+      "name_en": "Riohacha",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 167865
+    },
+    {
+      "id": 28,
+      "name_ar": "تونخا",
+      "name_en": "Tunja",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 163894
+    },
+    {
+      "id": 29,
+      "name_ar": "غيرون، أين",
+      "name_en": "Giron",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 152582
+    },
+    {
+      "id": 30,
+      "name_ar": "كارتاغو، كوستاريكا",
+      "name_en": "Cartago",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 142902
+    },
+    {
+      "id": 31,
+      "name_ar": "ريونيغرو أغيلاس",
+      "name_en": "Rionegro",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 135465
+    },
+    {
+      "id": 32,
+      "name_ar": "كيبدو",
+      "name_en": "Quibdo",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 130825
+    },
+    {
+      "id": 33,
+      "name_ar": "هور",
+      "name_en": "Cienaga",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 129414
+    },
+    {
+      "id": 34,
+      "name_ar": "بوغة",
+      "name_en": "Guadalajara de Buga",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 128945
+    },
+    {
+      "id": 35,
+      "name_ar": "تشياباس",
+      "name_en": "Chia",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 124309
+    },
+    {
+      "id": 36,
+      "name_ar": "بلدية ماغانغوي",
+      "name_en": "Magangue",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 123906
+    },
+    {
+      "id": 37,
+      "name_ar": "مايكاو",
+      "name_en": "Maicao",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 123757
+    },
+    {
+      "id": 38,
+      "name_ar": "سوغاموسو",
+      "name_en": "Sogamoso",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 116031
+    },
+    {
+      "id": 39,
+      "name_ar": "مدريد",
+      "name_en": "Madrid",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 112254
+    },
+    {
+      "id": 40,
+      "name_ar": "يوبال",
+      "name_en": "Yopal",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 106822
+    },
+    {
+      "id": 41,
+      "name_ar": "بلدية سابانالارغا",
+      "name_en": "Sabanalarga",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 100049
+    },
+    {
+      "id": 42,
+      "name_ar": "إدارة أروكا",
+      "name_en": "Arauca",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 96814
+    },
+    {
+      "id": 43,
+      "name_ar": "سهاجون",
+      "name_en": "Sahagun",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 90487
+    },
+    {
+      "id": 44,
+      "name_ar": "القوقاز",
+      "name_en": "Caucasia",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 90213
+    },
+    {
+      "id": 45,
+      "name_ar": "تشيكوينكويرا",
+      "name_en": "Chiquinquira",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 85274
+    },
+    {
+      "id": 46,
+      "name_ar": "سنط",
+      "name_en": "Acacias",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 75252
+    },
+    {
+      "id": 47,
+      "name_ar": "كوباكبانا",
+      "name_en": "Copacabana",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 73574
+    },
+    {
+      "id": 48,
+      "name_ar": "سان فيسينت ديل كاغوان",
+      "name_en": "San Vicente del Caguan",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 72949
+    },
+    {
+      "id": 49,
+      "name_ar": "إل بانكو",
+      "name_en": "El Banco",
+      "country_ar": "كولومبيا",
+      "country_en": "Colombia",
+      "population": 72131
+    }
+  ],
+  "meta": {
+    "title": "مدن كولومبيا — Cities of Colombia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كولومبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 49 cities in Colombia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 49 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كولومبيا — Cities of Colombia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كولومبيا — Cities of Colombia (Arabic names) — 49 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 49 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

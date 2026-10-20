@@ -1,0 +1,1087 @@
+{
+  "id": "ar-urdun-amman-bunuk",
+  "name": "بنوك Amman — الأردن — رموز سويفت (Banks of Amman, Jordan — SWIFT/BIC codes)",
+  "title": "بنوك Amman — الأردن — رموز سويفت (Banks of Amman, Jordan — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Amman (الأردن) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 148 سجلًا. List of banks, financial institutions and their branches in Amman, Jordan with the SWIFT/BIC code, bank name and branch name for each. 148 records. Source: PeterNotenboom/SwiftCodes AllCountries/JO.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ABC INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ABCVJOA1"
+    },
+    {
+      "id": 2,
+      "bank": "ABUSHEIKHA EXCHANGE LLC",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ABXLJOA1"
+    },
+    {
+      "id": 3,
+      "bank": "AGRICULTURAL CREDIT CORPORATION",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ACRCJOA1"
+    },
+    {
+      "id": 4,
+      "bank": "AHLI BROKERAGE COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AHBOJOA1"
+    },
+    {
+      "id": 5,
+      "bank": "AJIAD FOR SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AJSEJOA1"
+    },
+    {
+      "id": 6,
+      "bank": "AL - NAKHEEL EXCHANGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NAKHJOAM"
+    },
+    {
+      "id": 7,
+      "bank": "AL ALAMI EXCHANGE COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALEYJOAM"
+    },
+    {
+      "id": 8,
+      "bank": "AL AMAL FINANCIAL INVESMENTS CO. LTD",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AMFNJOA1"
+    },
+    {
+      "id": 9,
+      "bank": "AL ARABI INVESTMENT GROUP CO.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ATIGJOA1"
+    },
+    {
+      "id": 10,
+      "bank": "AL ARABI INVESTMENT GROUP COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AIGMJOA1"
+    },
+    {
+      "id": 11,
+      "bank": "AL AWAEL INTERNATIONAL",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AWAIJOA1"
+    },
+    {
+      "id": 12,
+      "bank": "AL MAWARED FOR BROKERAGE COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "MBRCJOA1"
+    },
+    {
+      "id": 13,
+      "bank": "AL RAJHI BANK , JORDAN BRANCH",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "RJHIJOAM"
+    },
+    {
+      "id": 14,
+      "bank": "AL WAMEEDH FOR FINANCIAL SERVICES AND INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "WFSIJOA1"
+    },
+    {
+      "id": 15,
+      "bank": "AL-AULA FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALNTJOA1"
+    },
+    {
+      "id": 16,
+      "bank": "ALAWNEH EXCHANGE L.L.C",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALELJOAM"
+    },
+    {
+      "id": 17,
+      "bank": "AL-BILAD FOR SECURITIES AND INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALSVJOA1"
+    },
+    {
+      "id": 18,
+      "bank": "ALEMAN FINANCIAL INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALNVJOA1"
+    },
+    {
+      "id": 19,
+      "bank": "AL-HEKMA FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALLEJOA1"
+    },
+    {
+      "id": 20,
+      "bank": "ALNOUR FOR FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ANFNJOA1"
+    },
+    {
+      "id": 21,
+      "bank": "AL-OMANA'A PORTFOLIO AND INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALPMJOA1"
+    },
+    {
+      "id": 22,
+      "bank": "ALSAFWA FININCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ASFVJOA1"
+    },
+    {
+      "id": 23,
+      "bank": "AL-SAHM INTERNATIONAL FOR INVESTMENT AND BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AIIRJOA1"
+    },
+    {
+      "id": 24,
+      "bank": "AL-SALAM FOR FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ASFTJOA1"
+    },
+    {
+      "id": 25,
+      "bank": "AL-SHOROUQ FINANCIAL BROKERS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALNBJOA1"
+    },
+    {
+      "id": 26,
+      "bank": "AL-WATANIEH FOR FINANCIAL SERVICES CO.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ALNEJOA1"
+    },
+    {
+      "id": 27,
+      "bank": "AMAN FOR SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AMSIJOA1"
+    },
+    {
+      "id": 28,
+      "bank": "AMMAN BANK FOR INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AMBIJOM1"
+    },
+    {
+      "id": 29,
+      "bank": "AMMAN STOCK EXCHANGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "XAMMJOA1"
+    },
+    {
+      "id": 30,
+      "bank": "AMWAL BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AMWBJOA1"
+    },
+    {
+      "id": 31,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "((ABDOUN BRANCH)",
+      "swift_code": "ARABJOAX133"
+    },
+    {
+      "id": 32,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(ABDALI BRANCH)",
+      "swift_code": "ARABJOAX119"
+    },
+    {
+      "id": 33,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(ABU ALANDA)",
+      "swift_code": "ARABJOAX131"
+    },
+    {
+      "id": 34,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(AL-JUBEIHA BRANCH)",
+      "swift_code": "ARABJOAX126"
+    },
+    {
+      "id": 35,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(CENTRAL OPERATIONS UNIT-TRADE FINANCE SERVICES)",
+      "swift_code": "ARABJOAX501"
+    },
+    {
+      "id": 36,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(CENTRALIZED INWARD TRANSFERS DEPT.)",
+      "swift_code": "ARABJOAXCUT"
+    },
+    {
+      "id": 37,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(CENTRALIZED OUTWARD TRANSFERS DEPT.)",
+      "swift_code": "ARABJOAXTRF"
+    },
+    {
+      "id": 38,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(CENTRALIZED SALARIES UNIT)",
+      "swift_code": "ARABJOAXSLR"
+    },
+    {
+      "id": 39,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(FIFTH CIRCLE BRANCH)",
+      "swift_code": "ARABJOAX134"
+    },
+    {
+      "id": 40,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(GARDENS BRANCH)",
+      "swift_code": "ARABJOAX128"
+    },
+    {
+      "id": 41,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(GENERAL SECRETARIAT DEPARTMENT)",
+      "swift_code": "ARABJOAXSEC"
+    },
+    {
+      "id": 42,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "ARABJOAX"
+    },
+    {
+      "id": 43,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "ARABJOAXINT"
+    },
+    {
+      "id": 44,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(JABAL AMMAN BRANCH)",
+      "swift_code": "ARABJOAX115"
+    },
+    {
+      "id": 45,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(JABAL HUSSEIN BRANCH)",
+      "swift_code": "ARABJOAX116"
+    },
+    {
+      "id": 46,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(JABAL LUWEIBDEH BRANCH)",
+      "swift_code": "ARABJOAX113"
+    },
+    {
+      "id": 47,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(JORDAN BRANCHES CENTRE)",
+      "swift_code": "ARABJOAX100"
+    },
+    {
+      "id": 48,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(KING FAISAL STREET)",
+      "swift_code": "ARABJOAX111"
+    },
+    {
+      "id": 49,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(MAHATIA STREET BRANCH)",
+      "swift_code": "ARABJOAX112"
+    },
+    {
+      "id": 50,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(MECCA STREET BRANCH)",
+      "swift_code": "ARABJOAX139"
+    },
+    {
+      "id": 51,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(OPERATIONS DIVISION)",
+      "swift_code": "ARABJOAXOPS"
+    },
+    {
+      "id": 52,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(PRIVATE BANKING DEPARTMENT 6)",
+      "swift_code": "ARABJOAXPBD"
+    },
+    {
+      "id": 53,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(QURAYSH STREET BRANCH)",
+      "swift_code": "ARABJOAX108"
+    },
+    {
+      "id": 54,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(RABIA BRANCH)",
+      "swift_code": "ARABJOAX138"
+    },
+    {
+      "id": 55,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(SHMEISANI BRANCH)",
+      "swift_code": "ARABJOAX118"
+    },
+    {
+      "id": 56,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(SUWAIFEYYA BRANCH)",
+      "swift_code": "ARABJOAX130"
+    },
+    {
+      "id": 57,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(SUWEILEH BRANCH)",
+      "swift_code": "ARABJOAX110"
+    },
+    {
+      "id": 58,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(TEST KEY DEPARTMENT)",
+      "swift_code": "ARABJOAXTKD"
+    },
+    {
+      "id": 59,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(UNIVERSITY STREET)",
+      "swift_code": "ARABJOAX125"
+    },
+    {
+      "id": 60,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(WADI SEER BRANCH)",
+      "swift_code": "ARABJOAX162"
+    },
+    {
+      "id": 61,
+      "bank": "ARAB BANK PLC",
+      "city": "AMMAN",
+      "branch": "(WAHDAT BRANCH)",
+      "swift_code": "ARABJOAX114"
+    },
+    {
+      "id": 62,
+      "bank": "ARAB BANKING CORPORATION (JORDAN)",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ABCJJOAM"
+    },
+    {
+      "id": 63,
+      "bank": "ARAB FALCON FOR SELLING AND BUYING SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AFSUJOA1"
+    },
+    {
+      "id": 64,
+      "bank": "ARAB JORDAN INVESTMENT BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AJIBJOAX"
+    },
+    {
+      "id": 65,
+      "bank": "ARAB JORDAN INVESTMENT BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AJIBJOAX600"
+    },
+    {
+      "id": 66,
+      "bank": "ASIA STOCK BROKERS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ASSKJOA1"
+    },
+    {
+      "id": 67,
+      "bank": "AWRAQ INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AWRIJOA1"
+    },
+    {
+      "id": 68,
+      "bank": "BANK ALETIHAD",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "UBSIJOAX"
+    },
+    {
+      "id": 69,
+      "bank": "BANK AUDI S.A.L. JORDAN BRANCHES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "AUDBJOAM"
+    },
+    {
+      "id": 70,
+      "bank": "BANK OF JORDAN PLC",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "BJORJOAX"
+    },
+    {
+      "id": 71,
+      "bank": "BANK OF JORDAN PLC",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "BJORJOAXCNC"
+    },
+    {
+      "id": 72,
+      "bank": "BLOM BANK S.A.L.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "BLOMJOAM"
+    },
+    {
+      "id": 73,
+      "bank": "BUSINESS WOMEN TRADING SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "BWTSJOA1"
+    },
+    {
+      "id": 74,
+      "bank": "CAIRO AMMAN BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "CAABJOAM"
+    },
+    {
+      "id": 75,
+      "bank": "CAPITAL BANK OF JORDAN",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "EFBKJOAM"
+    },
+    {
+      "id": 76,
+      "bank": "CAPITAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "CPIVJOA1"
+    },
+    {
+      "id": 77,
+      "bank": "CENTRAL BANK OF JORDAN",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "CBJOJOAX"
+    },
+    {
+      "id": 78,
+      "bank": "CITIBANK N.A.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "CITIJOAX"
+    },
+    {
+      "id": 79,
+      "bank": "CITIES AND VILLAGES DEVELOPMENT BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "CVDBJOA1"
+    },
+    {
+      "id": 80,
+      "bank": "DELTA FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "DEFVJOA1"
+    },
+    {
+      "id": 81,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ARLBJOAM"
+    },
+    {
+      "id": 82,
+      "bank": "ELITE FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ELFEJOA1"
+    },
+    {
+      "id": 83,
+      "bank": "EXPERTS FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "EXFSJOA1"
+    },
+    {
+      "id": 84,
+      "bank": "FRIENDS FINANCIAL INVESTMENT AND BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "FFIBJOA1"
+    },
+    {
+      "id": 85,
+      "bank": "FUTURE EXCHANGE CO., LTD.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "FUEXJOAM"
+    },
+    {
+      "id": 86,
+      "bank": "GLOBAL INVESTMENT HOUSE JORDAN",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "GIHJJOA1"
+    },
+    {
+      "id": 87,
+      "bank": "HOUSING BANK FOR TRADE AND FINANCE, THE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "HBHOJOAX"
+    },
+    {
+      "id": 88,
+      "bank": "IMCAN FOR FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "IMFSJOA1"
+    },
+    {
+      "id": 89,
+      "bank": "INDUSTRIAL DEVELOPMENT BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "IDEVJOA1"
+    },
+    {
+      "id": 90,
+      "bank": "INTERNATIONAL FINANCIAL ADVISORS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "IFAVJOA1"
+    },
+    {
+      "id": 91,
+      "bank": "INTERNATIONAL FINANCIAL CENTER",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ITFEJOA1"
+    },
+    {
+      "id": 92,
+      "bank": "INVESTBANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JIFBJOAM"
+    },
+    {
+      "id": 93,
+      "bank": "INVESTMENT AND SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ISEUJOA1"
+    },
+    {
+      "id": 94,
+      "bank": "INVESTMENT HOUSE FOR FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "IHFSJOA1"
+    },
+    {
+      "id": 95,
+      "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+      "city": "AMMAN",
+      "branch": "(CENTRAL OPERATIONS DEPARTMENT/ BACK OFFICE)",
+      "swift_code": "IIBAJOAMJBC"
+    },
+    {
+      "id": 96,
+      "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+      "city": "AMMAN",
+      "branch": "(CENTRAL OPERATIONS DEPARTMENT/ LCS)",
+      "swift_code": "IIBAJOAM100"
+    },
+    {
+      "id": 97,
+      "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+      "city": "AMMAN",
+      "branch": "(CENTRAL OPERATIONS DEPARTMENT/ LGS AND BCS)",
+      "swift_code": "IIBAJOAM300"
+    },
+    {
+      "id": 98,
+      "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+      "city": "AMMAN",
+      "branch": "(CENTRAL OPERATIONS DEPARTMENT/ TRANSFERS)",
+      "swift_code": "IIBAJOAM200"
+    },
+    {
+      "id": 99,
+      "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "IIBAJOAM"
+    },
+    {
+      "id": 100,
+      "bank": "JORDAN AHLI BANK PLC",
+      "city": "AMMAN",
+      "branch": "(JORDAN BRANCHES MANAGEMENT)",
+      "swift_code": "JONBJOAX"
+    },
+    {
+      "id": 101,
+      "bank": "JORDAN AND GULF INVESTMENT INDUSTRIAL",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JGIIJOA1"
+    },
+    {
+      "id": 102,
+      "bank": "JORDAN COMMERCIAL BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JGBAJOAM"
+    },
+    {
+      "id": 103,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(AL-HUSSEIN BRANCH)",
+      "swift_code": "JIBAJOAM111"
+    },
+    {
+      "id": 104,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(AL-YARMOUK STREET BRANCH)",
+      "swift_code": "JIBAJOAM113"
+    },
+    {
+      "id": 105,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(AMMAN BRANCH)",
+      "swift_code": "JIBAJOAM110"
+    },
+    {
+      "id": 106,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(H.O.)",
+      "swift_code": "JIBAJOAM115"
+    },
+    {
+      "id": 107,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(SAQF EL-SAIL BRANCH)",
+      "swift_code": "JIBAJOAM112"
+    },
+    {
+      "id": 108,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "(WASFI-AL-TEL STREET BRANCH)",
+      "swift_code": "JIBAJOAM114"
+    },
+    {
+      "id": 109,
+      "bank": "JORDAN ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JIBAJOAM"
+    },
+    {
+      "id": 110,
+      "bank": "JORDAN KUWAIT BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JKBAJOAM"
+    },
+    {
+      "id": 111,
+      "bank": "JORDAN RIVER FINANCIAL INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JRFIJOA1"
+    },
+    {
+      "id": 112,
+      "bank": "KAMAL EXCHANGE CO L.L.C",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "MAKSJOAX"
+    },
+    {
+      "id": 113,
+      "bank": "KAMIRAN ALI AND PARTNER EXCHANGE CO",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "HUDAJOAM"
+    },
+    {
+      "id": 114,
+      "bank": "KHALED HASAN, HADI WASHAKA, AND MUWAFFAQ ABDEL JALEEL EXCHANGE CO.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "KHHWJOA1"
+    },
+    {
+      "id": 115,
+      "bank": "LBDA' FOR FINANCIAL INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "LBDAJOA1"
+    },
+    {
+      "id": 116,
+      "bank": "MOH'D FAWAS ABU ENNASER AND PARTNERS EXCHANGE COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ABOXJOA1"
+    },
+    {
+      "id": 117,
+      "bank": "MUBADALA FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "MUFNJOA1"
+    },
+    {
+      "id": 118,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "AMMAN",
+      "branch": "(TRADE FINANCE DEPARTMENT)",
+      "swift_code": "NBADJOAMTFO"
+    },
+    {
+      "id": 119,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NBADJOAM"
+    },
+    {
+      "id": 120,
+      "bank": "NATIONAL BANK OF KUWAIT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NBOKJOAM"
+    },
+    {
+      "id": 121,
+      "bank": "NATIONAL PORTFOLIO SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NAPSJOA1"
+    },
+    {
+      "id": 122,
+      "bank": "NATIONAL SECURITIES COMPANY",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NSECJOA1"
+    },
+    {
+      "id": 123,
+      "bank": "OSOOL INV AND FIN SRV CO",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "OIFSJOA1"
+    },
+    {
+      "id": 124,
+      "bank": "PALESTINE ESTABLISHMENT FOR EXCHANGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "NADIJOA1"
+    },
+    {
+      "id": 125,
+      "bank": "RAFIDAIN BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "RAFBJOAM"
+    },
+    {
+      "id": 126,
+      "bank": "SABAEK FOR FINANCIAL SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SALEJOA1"
+    },
+    {
+      "id": 127,
+      "bank": "SAFWA ISLAMIC BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "JDIBJOAM"
+    },
+    {
+      "id": 128,
+      "bank": "SAMIR AND SAMEH BROS. FOR INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SSBNJOA1"
+    },
+    {
+      "id": 129,
+      "bank": "SAMSUNG ELECTRONICS LEVANT LTD.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SECTJOA1"
+    },
+    {
+      "id": 130,
+      "bank": "SAMSUNG ELECTRONICS LEVANT LTD.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SECTJOA1770"
+    },
+    {
+      "id": 131,
+      "bank": "SANABEL ALKHAIR FOR FINANCIAL INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SAFTJOA1"
+    },
+    {
+      "id": 132,
+      "bank": "SECURITIES DEPOSITORY CENTER",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SEDCJOAX"
+    },
+    {
+      "id": 133,
+      "bank": "SELWAN FINANCIAL BROKERS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SEFRJOA1"
+    },
+    {
+      "id": 134,
+      "bank": "SHARECO BROKERAGE CO.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SHBRJOA1"
+    },
+    {
+      "id": 135,
+      "bank": "SHUA'A FOR SECURITIES TRADING AND INVESTMENTS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SSTIJOA1"
+    },
+    {
+      "id": 136,
+      "bank": "SOCIETE GENERALE DE BANQUE - JORDANIE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SGMEJOAM"
+    },
+    {
+      "id": 137,
+      "bank": "SOCIETE GENERALE JORDAN - BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SGJBJOA1"
+    },
+    {
+      "id": 138,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SCBLJOAX"
+    },
+    {
+      "id": 139,
+      "bank": "SUKOOK INVESTMENT AND BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "SUIOJOA1"
+    },
+    {
+      "id": 140,
+      "bank": "TADAWOL",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "TADAJOA1"
+    },
+    {
+      "id": 141,
+      "bank": "TANMIA SECURITIES INC.",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "TAERJOA1"
+    },
+    {
+      "id": 142,
+      "bank": "THE ARAB FINANCIAL INVESTMENT",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "ARFVJOA1"
+    },
+    {
+      "id": 143,
+      "bank": "THE BANKERS FOR BROKERAGE AND FINANCIAL INVEST",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "BRFIJOA1"
+    },
+    {
+      "id": 144,
+      "bank": "THE FINANCIAL INVESTMENT COMPANY FOR SHARES AND BONDS",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "FIOHJOA1"
+    },
+    {
+      "id": 145,
+      "bank": "UNION FINANCIAL BROKERAGE",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "UNFBJOA1"
+    },
+    {
+      "id": 146,
+      "bank": "UNITED ARABIAN JORDANIAN FOR INVESTMENT AND BROKERAGE SERVICES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "UAJIJOA1"
+    },
+    {
+      "id": 147,
+      "bank": "UNITED CO. FOR INVESTMENT AND SECURITIES",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "UNNCJOA1"
+    },
+    {
+      "id": 148,
+      "bank": "UNITED FINANCIAL INVESTMENTS PLC",
+      "city": "AMMAN",
+      "branch": "",
+      "swift_code": "UNFNJOA1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Amman — الأردن — رموز سويفت (Banks of Amman, Jordan — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Amman (الأردن) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 148 سجلًا. List of banks, financial institutions and their branches in Amman, Jordan with the SWIFT/BIC code, bank name and branch name for each. 148 records. Source: PeterNotenboom/SwiftCodes AllCountries/JO.json (MIT). يحتوي على 148 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Amman — الأردن — رموز سويفت (Banks of Amman, Jordan — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Amman — الأردن — رموز سويفت (Banks of Amman, Jordan — SWIFT/BIC codes) — 148 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 148 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

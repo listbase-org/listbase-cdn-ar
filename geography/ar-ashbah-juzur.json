@@ -1,0 +1,522 @@
+{
+  "id": "ar-ashbah-juzur",
+  "name": "أشباه الجزر في الوطن العربي (Peninsulas of the Arab world)",
+  "title": "أشباه الجزر في الوطن العربي (Peninsulas of the Arab world)",
+  "description": "قائمة أشباه الجزر في الدول العربية مع الإحداثيات (WGS84). مأخوذة من ويكي بيانات (P31/P279* = Q34763) مقيّدة بالدول العربية عبر P17، وقد استُبعدت الكيانات المصنّفة رؤوسًا ساحلية (Q185113) لتفادي التداخل مع مجموعة ar-ruus فبقيت المجموعتان منفصلتين. هذه أول مجموعة بيانات أشباه جزر في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2921024",
+      "name_ar": "شبه جزيرة اللسان",
+      "name_en": "Lisan Peninsula",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.25,
+      "longitude": 35.45,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%84%D8%B3%D8%A7%D9%86"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q21737810",
+      "name_ar": "جزيرة الصفية",
+      "name_en": "Jazīrat aş Şafīyah",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 25.411944,
+      "longitude": 55.459722,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31945",
+      "name_ar": "شبه الجزيرة العربية",
+      "name_en": "Arabian Peninsula",
+      "country_ar": "البحرين",
+      "country_qid": "Q398",
+      "latitude": 23,
+      "longitude": 46,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q7294661",
+      "name_ar": "راس قصار",
+      "name_en": "Ras Kasar",
+      "country_ar": "السودان",
+      "country_qid": "Q1049",
+      "latitude": 18.020204,
+      "longitude": 38.581415,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B3_%D9%82%D8%B5%D8%A7%D8%B1"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7294644",
+      "name_ar": "رأس بنه",
+      "name_en": "Ras Binnah",
+      "country_ar": "الصومال",
+      "country_qid": "Q1045",
+      "latitude": 11.142022,
+      "longitude": 51.171467,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A8%D9%86%D9%87"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1719488",
+      "name_ar": "كامبوني",
+      "name_en": "Ras Kamboni",
+      "country_ar": "الصومال",
+      "country_qid": "Q1045",
+      "latitude": -1.633333,
+      "longitude": 41.566667,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%83%D8%A7%D9%85%D8%A8%D9%88%D9%86%D9%8A"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2984682",
+      "name_ar": "شبه جزيرة الفاو",
+      "name_en": "Al-Faw Peninsula",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": 29.974444,
+      "longitude": 48.464167,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D9%88"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3402443",
+      "name_ar": "شبه جزيرة الداخلة",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 23.717,
+      "longitude": -15.95,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D8%A9"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4806580",
+      "name_ar": "شبه جزيرة طنجة",
+      "name_en": "Tingitana Peninsula",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.8903,
+      "longitude": -5.48004,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%B7%D9%86%D8%AC%D8%A9"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2502720",
+      "name_ar": "جبل الشيخ سعيد",
+      "name_en": "Cheikh Saïd",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 12.734456,
+      "longitude": 43.505172,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%B3%D8%B9%D9%8A%D8%AF"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7294665",
+      "name_ar": "رأس منهلي",
+      "name_en": "Ras Menheli",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%85%D9%86%D9%87%D9%84%D9%8A"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q40556",
+      "name_ar": "القرن الإفريقي",
+      "name_en": "Horn of Africa",
+      "country_ar": "جيبوتي",
+      "country_qid": "Q977",
+      "latitude": 9.5,
+      "longitude": 48,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D9%86_%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7294675",
+      "name_ar": "رأس سيان",
+      "name_en": "Ras Siyyan",
+      "country_ar": "جيبوتي",
+      "country_qid": "Q977",
+      "latitude": 12.4753,
+      "longitude": 43.3217,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%B3%D9%8A%D8%A7%D9%86"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q21586787",
+      "name_ar": "جزيرة ابراهيم فرح",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.5475,
+      "longitude": 35.755278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q11058817",
+      "name_ar": "بر الحكمان",
+      "name_en": "Barr al-Hikman",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 20.490278,
+      "longitude": 58.383056,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1_%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A7%D9%86"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3246200",
+      "name_ar": "شبه جزيرة مسندم",
+      "name_en": "Musandam Peninsula",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 26.198094,
+      "longitude": 56.249189,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%B3%D9%86%D8%AF%D9%85"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q23975112",
+      "name_ar": "القلس",
+      "name_en": "Al Qals",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.211944,
+      "longitude": 33.085556,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q23956710",
+      "name_ar": "ام غرقدة",
+      "name_en": "Umm Gharqadah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.103611,
+      "longitude": 33.126944,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q23937560",
+      "name_ar": "بر السماريات",
+      "name_en": "Barr as Samārīyāt",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.209167,
+      "longitude": 32.18,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q23966720",
+      "name_ar": "بوز البلاط",
+      "name_en": "Būz al Balāţ",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.280833,
+      "longitude": 32.19,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q23938145",
+      "name_ar": "بوز الرقة",
+      "name_en": "Būz ar Riqqah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.095833,
+      "longitude": 32.101944,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q23946323",
+      "name_ar": "جزيرة المدورة",
+      "name_en": "Jazīrat al Mudawwarah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.215556,
+      "longitude": 32.192222,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q23947409",
+      "name_ar": "جزيرة المرابط",
+      "name_en": "Jazīrat al Marābiţ",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.149444,
+      "longitude": 29.792778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q23949644",
+      "name_ar": "جزيرة كوم تنيس",
+      "name_en": "Jazīrat Kawm Tinnīs",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.211667,
+      "longitude": 32.230278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q23944838",
+      "name_ar": "رأس النترو",
+      "name_en": "Rā's an Nitrū",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.244722,
+      "longitude": 32.051667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3419767",
+      "name_ar": "رأس بناس",
+      "name_en": "Ras Banas",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 23.904722,
+      "longitude": 35.788889,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A8%D9%86%D8%A7%D8%B3"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q23949744",
+      "name_ar": "رأس جنب التمساح",
+      "name_en": "Ra's Janb at Timsāḩ",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.3125,
+      "longitude": 32.087778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q23952228",
+      "name_ar": "رأس دهيسة",
+      "name_en": "Ra's Duhaysah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.759167,
+      "longitude": 32.666667,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%AF%D9%87%D9%8A%D8%B3%D8%A9"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q23937738",
+      "name_ar": "رأس شراتيب",
+      "name_en": "Ra's Sharātīb",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 28.671111,
+      "longitude": 33.198889,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%B4%D8%B1%D8%A7%D8%AA%D9%8A%D8%A8"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q23946247",
+      "name_ar": "رأس مسلة",
+      "name_en": "Ra's Misallah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.82158,
+      "longitude": 32.61272,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%85%D8%B3%D9%84%D8%A9"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q23946996",
+      "name_ar": "رأس مطارمة",
+      "name_en": "Ra's Maţārimah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.449444,
+      "longitude": 32.719722,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%85%D8%B7%D8%A7%D8%B1%D9%85%D8%A9"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q23948446",
+      "name_ar": "رأس ملعب",
+      "name_en": "Ra's Mal‘ab",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.205833,
+      "longitude": 32.926389,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%85%D9%84%D8%B9%D8%A8"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q14218642",
+      "name_ar": "رأس نصراني",
+      "name_en": "Ras Nasrani",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 27.964719,
+      "longitude": 34.416111,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%86%D8%B5%D8%B1%D8%A7%D9%86%D9%8A"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q23972234",
+      "name_ar": "راس بكر",
+      "name_en": "Ra's Bakr",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 28.391944,
+      "longitude": 33.061944,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B3_%D8%A8%D9%83%D8%B1"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q23950071",
+      "name_ar": "راس عسران",
+      "name_en": "Râs Issaran",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 28.786944,
+      "longitude": 32.795556,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B3_%D8%B9%D8%B3%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q125996",
+      "name_ar": "سوما باي",
+      "name_en": "Soma Bay",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 26.84735,
+      "longitude": 33.9905,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D9%85%D8%A7_%D8%A8%D8%A7%D9%8A"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q36755",
+      "name_ar": "شبه جزيرة سيناء",
+      "name_en": "Sinai Peninsula",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.5,
+      "longitude": 33.833333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87_%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%B3%D9%8A%D9%86%D8%A7%D8%A1"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q23946319",
+      "name_ar": "علوة المدورة",
+      "name_en": "‘Ilwat al Mudawwarah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.225,
+      "longitude": 32.177222,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q2696558",
+      "name_ar": "فاروس",
+      "name_en": "Pharos",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.213222,
+      "longitude": 29.884333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%81%D8%A7%D8%B1%D9%88%D8%B3"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q23947002",
+      "name_ar": "مات ابليس",
+      "name_en": "Māt Iblīs",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.185833,
+      "longitude": 33.116111,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q1520946",
+      "name_ar": "رأس نواذيبو",
+      "name_en": "Ras Nouadhibou",
+      "country_ar": "موريتانيا",
+      "country_qid": "Q1025",
+      "latitude": 20.771389,
+      "longitude": -17.047222,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%86%D9%88%D8%A7%D8%B0%D9%8A%D8%A8%D9%88"
+    }
+  ],
+  "meta": {
+    "title": "أشباه الجزر في الوطن العربي (Peninsulas of the Arab world) - تحميل مجاني",
+    "description": "قائمة أشباه الجزر في الدول العربية مع الإحداثيات (WGS84). مأخوذة من ويكي بيانات (P31/P279* = Q34763) مقيّدة بالدول العربية عبر P17، وقد استُبعدت الكيانات المصنّفة رؤوسًا ساحلية (Q185113) لتفادي التداخل مع مجموعة ar-ruus فبقيت المجموعتان منفصلتين. هذه أول مجموعة بيانات أشباه جزر في النطاق العربي. يغطّي مجموعةَ دول جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 41 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أشباه الجزر في الوطن العربي (Peninsulas of the Arab world) | ListBase",
+    "seo_description": "تحميل أشباه الجزر في الوطن العربي (Peninsulas of the Arab world) — 41 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 41 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

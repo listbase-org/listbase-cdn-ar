@@ -1,0 +1,247 @@
+{
+  "id": "ar-sa-natihat-sahab",
+  "name": "ناطحات السحاب في المملكة العربية السعودية (Skyscrapers of Saudi Arabia)",
+  "title": "ناطحات السحاب في المملكة العربية السعودية (Skyscrapers of Saudi Arabia)",
+  "description": "Skyscrapers of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q18712428",
+      "name_ar": "",
+      "name_en": "Makkah Clock Royal Tower Hotel",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.418889,
+      "longitude": 39.826389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18712428"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q189476",
+      "name_ar": "أبراج الساعة",
+      "name_en": "Abraj Al Bait",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.418889,
+      "longitude": 39.826389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q189476"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q117289908",
+      "name_ar": "المكعب",
+      "name_en": "Mukaab",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.808118,
+      "longitude": 46.569226,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117289908"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q28419353",
+      "name_ar": "برج الحقيط",
+      "name_en": "Al Hugayet tower",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.308534,
+      "longitude": 50.210032,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28419353"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4704851",
+      "name_ar": "برج السبيعي",
+      "name_en": "Al Subeaei Tower Complex",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.30351,
+      "longitude": 50.20918,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4704851"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5268698",
+      "name_ar": "برج السويكت",
+      "name_en": "Dhahran Tower",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.337611,
+      "longitude": 50.200476,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5268698"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q30632124",
+      "name_ar": "برج العبد الكريم",
+      "name_en": "Al AbdulKarim Tower",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.370049,
+      "longitude": 50.177567,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30632124"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2303314",
+      "name_ar": "برج الفيصلية",
+      "name_en": "Al Faisaliah Centre",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.690278,
+      "longitude": 46.685278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2303314"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q5270933",
+      "name_ar": "برج الماسة",
+      "name_en": "Diamond Tower",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.646944,
+      "longitude": 39.103611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5270933"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q656743",
+      "name_ar": "برج المملكة",
+      "name_en": "Kingdom Centre",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.711389,
+      "longitude": 46.674444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q656743"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q737945",
+      "name_ar": "برج الميل",
+      "name_en": "",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.734,
+      "longitude": 39.08284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q737945"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q6960571",
+      "name_ar": "برج النخيل",
+      "name_en": "Nakheel Tower, Riyadh",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.748836,
+      "longitude": 46.652761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6960571"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q15790479",
+      "name_ar": "برج رافال",
+      "name_en": "Burj Rafal",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.792222,
+      "longitude": 46.632222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15790479"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q28791021",
+      "name_ar": "برج سبكس",
+      "name_en": "SPX Tower",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.739281,
+      "longitude": 46.659284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28791021"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q626425",
+      "name_ar": "برج طريق الملك",
+      "name_en": "King Road Tower",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.5591,
+      "longitude": 39.1249,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q626425"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q13892708",
+      "name_ar": "مبنى هيئة السوق المالية",
+      "name_en": "Capital Market Authority Headquarters",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.762778,
+      "longitude": 46.640278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13892708"
+    }
+  ],
+  "meta": {
+    "title": "ناطحات السحاب في المملكة العربية السعودية (Skyscrapers of Saudi Arabia) - تحميل مجاني",
+    "description": "Skyscrapers of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates. يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "ناطحات السحاب في المملكة العربية السعودية (Skyscrapers of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل ناطحات السحاب في المملكة العربية السعودية (Skyscrapers of Saudi Arabia) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "ar-mudun-south-africa",
+  "name": "مدن جنوب أفريقيا — Cities of South Africa (Arabic names)",
+  "title": "مدن جنوب أفريقيا — Cities of South Africa (Arabic names)",
+  "description": "قائمة بأسماء مدن جنوب أفريقيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in South Africa with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "جوهانسبرغ",
+      "name_en": "Johannesburg",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 7860781
+    },
+    {
+      "id": 2,
+      "name_ar": "كيب تاون",
+      "name_en": "Cape Town",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 4770313
+    },
+    {
+      "id": 3,
+      "name_ar": "بريتوريا",
+      "name_en": "Pretoria",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 2818100
+    },
+    {
+      "id": 4,
+      "name_ar": "سويتو",
+      "name_en": "Soweto",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 1271628
+    },
+    {
+      "id": 5,
+      "name_ar": "بورت إليزابيث",
+      "name_en": "Gqeberha",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 967677
+    },
+    {
+      "id": 6,
+      "name_ar": "بيترماريتزبرغ",
+      "name_en": "Pietermaritzburg",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 839327
+    },
+    {
+      "id": 7,
+      "name_ar": "روستنبرغ",
+      "name_en": "Rustenburg",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 549575
+    },
+    {
+      "id": 8,
+      "name_ar": "نيوكاسل أبون تاين",
+      "name_en": "Newcastle",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 507710
+    },
+    {
+      "id": 9,
+      "name_ar": "كايليتشا",
+      "name_en": "Khayelitsha",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 391749
+    },
+    {
+      "id": 10,
+      "name_ar": "راندبورغ",
+      "name_en": "Randburg",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 337053
+    },
+    {
+      "id": 11,
+      "name_ar": "روديبورت",
+      "name_en": "Roodepoort",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 326416
+    },
+    {
+      "id": 12,
+      "name_ar": "بارل",
+      "name_en": "Paarl",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 294457
+    },
+    {
+      "id": 13,
+      "name_ar": "مافكينج",
+      "name_en": "Mahikeng",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 291527
+    },
+    {
+      "id": 14,
+      "name_ar": "إيست لندن",
+      "name_en": "East London",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 267007
+    },
+    {
+      "id": 15,
+      "name_ar": "بوكسبورغ",
+      "name_en": "Boksburg",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 260321
+    },
+    {
+      "id": 16,
+      "name_ar": "بلومفونتين",
+      "name_en": "Bloemfontein",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 256185
+    },
+    {
+      "id": 17,
+      "name_ar": "جرميستون",
+      "name_en": "Germiston",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 255863
+    },
+    {
+      "id": 18,
+      "name_ar": "ساندتون",
+      "name_en": "Sandton",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 222415
+    },
+    {
+      "id": 19,
+      "name_ar": "كليركسدورب",
+      "name_en": "Klerksdorp",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 186515
+    },
+    {
+      "id": 20,
+      "name_ar": "كرونستاد",
+      "name_en": "Kroonstad",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 168762
+    },
+    {
+      "id": 21,
+      "name_ar": "جورج",
+      "name_en": "George",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 157394
+    },
+    {
+      "id": 22,
+      "name_ar": "كروجرزدروب",
+      "name_en": "Krugersdorp",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 140643
+    },
+    {
+      "id": 23,
+      "name_ar": "بولوكوان",
+      "name_en": "Polokwane",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 130028
+    },
+    {
+      "id": 24,
+      "name_ar": "سبرينغز",
+      "name_en": "Springs",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 121610
+    },
+    {
+      "id": 25,
+      "name_ar": "وايت بانك",
+      "name_en": "Witbank",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 108673
+    },
+    {
+      "id": 26,
+      "name_ar": "يوتينهاغ",
+      "name_en": "Uitenhage",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 103639
+    },
+    {
+      "id": 27,
+      "name_ar": "خليج موسيل",
+      "name_en": "Mossel Bay",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 99000
+    },
+    {
+      "id": 28,
+      "name_ar": "فيرينخن",
+      "name_en": "Vereeniging",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 99000
+    },
+    {
+      "id": 29,
+      "name_ar": "كيمبرلي",
+      "name_en": "Kimberley",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 96977
+    },
+    {
+      "id": 30,
+      "name_ar": "متاتا",
+      "name_en": "Mthatha",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 96114
+    },
+    {
+      "id": 31,
+      "name_ar": "فاندربيجلبارك",
+      "name_en": "Vanderbijlpark",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 95840
+    },
+    {
+      "id": 32,
+      "name_ar": "غراهامستاون",
+      "name_en": "Grahamstown",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 91548
+    },
+    {
+      "id": 33,
+      "name_ar": "ميدراند",
+      "name_en": "Midrand",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 87387
+    },
+    {
+      "id": 34,
+      "name_ar": "ستانديرتون",
+      "name_en": "Standerton",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 84383
+    },
+    {
+      "id": 35,
+      "name_ar": "إيرميلو",
+      "name_en": "Ermelo",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 83865
+    },
+    {
+      "id": 36,
+      "name_ar": "جامعة ستيلينبوش",
+      "name_en": "Stellenbosch",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 77476
+    },
+    {
+      "id": 37,
+      "name_ar": "كنيسنا",
+      "name_en": "Knysna",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 76150
+    },
+    {
+      "id": 38,
+      "name_ar": "آبنغتون",
+      "name_en": "Upington",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 74834
+    },
+    {
+      "id": 39,
+      "name_ar": "ثابا نشو",
+      "name_en": "Thaba Nchu",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 70118
+    },
+    {
+      "id": 40,
+      "name_ar": "كوينزتاون",
+      "name_en": "Queenstown",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 68872
+    },
+    {
+      "id": 41,
+      "name_ar": "فرجينيا",
+      "name_en": "Virginia",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 66208
+    },
+    {
+      "id": 42,
+      "name_ar": "ليديسميث",
+      "name_en": "Ladysmith",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 64855
+    },
+    {
+      "id": 43,
+      "name_ar": "ولكوم",
+      "name_en": "Welkom",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 64130
+    },
+    {
+      "id": 44,
+      "name_ar": "بليتينبيرغ باي",
+      "name_en": "Plettenberg Bay",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 64108
+    },
+    {
+      "id": 45,
+      "name_ar": "بيثال",
+      "name_en": "Bethal",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 60779
+    },
+    {
+      "id": 46,
+      "name_ar": "ريتشاردز باي",
+      "name_en": "Richards Bay",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 57387
+    },
+    {
+      "id": 47,
+      "name_ar": "ويلينغتون",
+      "name_en": "Wellington",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 55543
+    },
+    {
+      "id": 48,
+      "name_ar": "بريطانيون",
+      "name_en": "Brits",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 53511
+    },
+    {
+      "id": 49,
+      "name_ar": "كوكستاد",
+      "name_en": "Kokstad",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 51561
+    },
+    {
+      "id": 50,
+      "name_ar": "فرايهيد",
+      "name_en": "Vryheid",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 47365
+    },
+    {
+      "id": 51,
+      "name_ar": "بوتشيفستروم",
+      "name_en": "Potchefstroom",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 43448
+    },
+    {
+      "id": 52,
+      "name_ar": "موسينا",
+      "name_en": "Musina",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 42678
+    },
+    {
+      "id": 53,
+      "name_ar": "ثانية",
+      "name_en": "Secunda",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 40198
+    },
+    {
+      "id": 54,
+      "name_ar": "نايجل",
+      "name_en": "Nigel",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 38318
+    },
+    {
+      "id": 55,
+      "name_ar": "جراف رينيت",
+      "name_en": "Graaff-Reinet",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 35672
+    },
+    {
+      "id": 56,
+      "name_ar": "ميناء شيبستون",
+      "name_en": "Port Shepstone",
+      "country_ar": "جنوب أفريقيا",
+      "country_en": "South Africa",
+      "population": 35633
+    }
+  ],
+  "meta": {
+    "title": "مدن جنوب أفريقيا — Cities of South Africa (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن جنوب أفريقيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in South Africa with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 56 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن جنوب أفريقيا — Cities of South Africa (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن جنوب أفريقيا — Cities of South Africa (Arabic names) — 56 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 56 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

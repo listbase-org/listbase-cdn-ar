@@ -1,0 +1,296 @@
+{
+  "id": "ar-uman-ruwi-bunuk",
+  "name": "بنوك Ruwi — عُمان — رموز سويفت (Banks of Ruwi, Oman — SWIFT/BIC codes)",
+  "title": "بنوك Ruwi — عُمان — رموز سويفت (Banks of Ruwi, Oman — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ruwi (عُمان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 35 سجلًا. List of banks, financial institutions and their branches in Ruwi, Oman with the SWIFT/BIC code, bank name and branch name for each. 35 records. Source: PeterNotenboom/SwiftCodes AllCountries/OM.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI BANK S.A.O.G",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "AUBOOMRU"
+    },
+    {
+      "id": 2,
+      "bank": "AL AHLIA ASSET MGT CO. (SAOC)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "AAMOOMR1"
+    },
+    {
+      "id": 3,
+      "bank": "AL AMIN SECURITIES COMPANY LLC",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "ASMLOMR1"
+    },
+    {
+      "id": 4,
+      "bank": "AL MADINA FINANCIAL AND INVESTMENT SERVICES CO. (S.A.O.G)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "MFIEOMR1"
+    },
+    {
+      "id": 5,
+      "bank": "AL QURUM INVESTMENT SERVICES (SAOC)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "QURUOMR1"
+    },
+    {
+      "id": 6,
+      "bank": "AL SHUROOQ SECURITIES CO LLC",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "SHUROMR1"
+    },
+    {
+      "id": 7,
+      "bank": "BANK DHOFAR (S.A.O.G.)",
+      "city": "RUWI",
+      "branch": "(MAISARAH ISLAMIC BANKING SERVICES)",
+      "swift_code": "BDOFOMRUMIB"
+    },
+    {
+      "id": 8,
+      "bank": "BANK DHOFAR (S.A.O.G.)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BDOFOMRU"
+    },
+    {
+      "id": 9,
+      "bank": "BANK DHOFAR (S.A.O.G.)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BDOFOMRUTFD"
+    },
+    {
+      "id": 10,
+      "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BARBOMMX"
+    },
+    {
+      "id": 11,
+      "bank": "BANK SOHAR S.A.O.G",
+      "city": "RUWI",
+      "branch": "(SOHAR ISLAMIC)",
+      "swift_code": "BSHROMRUISL"
+    },
+    {
+      "id": 12,
+      "bank": "BANK SOHAR S.A.O.G",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BSHROMRU"
+    },
+    {
+      "id": 13,
+      "bank": "CENTRAL BANK OF OMAN",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "CBOMOMRU"
+    },
+    {
+      "id": 14,
+      "bank": "FINANCIAL SERVICES COMPANY SAOG",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "FIVOOMR1"
+    },
+    {
+      "id": 15,
+      "bank": "GLOBAL FINANCIAL SERVICES CO.",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "FISOOMR1"
+    },
+    {
+      "id": 16,
+      "bank": "GULF INVESTMENT SERVICES CO. (S.A.O.G)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "GISCOMR1"
+    },
+    {
+      "id": 17,
+      "bank": "HABIB BANK OMAN",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "HABBOMRX"
+    },
+    {
+      "id": 18,
+      "bank": "HSBC BANK OMAN S.A.O.G",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BBMEOMRX"
+    },
+    {
+      "id": 19,
+      "bank": "INTERNATIONAL FINANCIAL SERVICES",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "IFELOMR1"
+    },
+    {
+      "id": 20,
+      "bank": "MIDDLE EAST BROKERAGE COMPANY",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "MEBCOMR1"
+    },
+    {
+      "id": 21,
+      "bank": "MUSCAT DEPOSITORY AND SECURITIES REGISTRATION CO SAOC",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "MDSROMR1"
+    },
+    {
+      "id": 22,
+      "bank": "MUZN ISLAMIC BANKING TRADING UNDER NATIONAL BANK OF OMAN",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "MUZNOMR1"
+    },
+    {
+      "id": 23,
+      "bank": "NATIONAL BANK OF OMAN",
+      "city": "RUWI",
+      "branch": "(MUZN ISLAMIC BANKING)",
+      "swift_code": "NBOMOMRXIBS"
+    },
+    {
+      "id": 24,
+      "bank": "NATIONAL BANK OF OMAN",
+      "city": "RUWI",
+      "branch": "(MUZN ISLAMIC TRADE FINANCE)",
+      "swift_code": "NBOMOMRXITF"
+    },
+    {
+      "id": 25,
+      "bank": "OMAN AND EMIRATES INVESTMENT HOLDING CO SAOG",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OMEMOMR1"
+    },
+    {
+      "id": 26,
+      "bank": "OMAN AND UAE EXCHANGE CENTRE CO LLC",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OUAEOMRU"
+    },
+    {
+      "id": 27,
+      "bank": "OMAN ARAB BANK SAOC",
+      "city": "RUWI",
+      "branch": "(AL-YUSR ISLAMIC BANKING)",
+      "swift_code": "OMABOMRUYSR"
+    },
+    {
+      "id": 28,
+      "bank": "OMAN ARAB BANK SAOC",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OMABOMRU"
+    },
+    {
+      "id": 29,
+      "bank": "OMAN BANKING CORP.",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "BOGUOMR1"
+    },
+    {
+      "id": 30,
+      "bank": "OMAN INTERNATIONAL DEVELOPMENT AND INVESTMENT COMPANY SAOG",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OIDIOMR1"
+    },
+    {
+      "id": 31,
+      "bank": "OMAN INVESTMENTS SERVICES (SAOC)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OISOOMR1"
+    },
+    {
+      "id": 32,
+      "bank": "OMAN SECURITY PORTFOLIO CO. (SAOG)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "OSPOOMR1"
+    },
+    {
+      "id": 33,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "SCBLOMRX"
+    },
+    {
+      "id": 34,
+      "bank": "UNITED SECURITIES L.L.C.",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "USECOMR1"
+    },
+    {
+      "id": 35,
+      "bank": "VISION INVESTMENT SERVICES CO (S.A.O.C)",
+      "city": "RUWI",
+      "branch": "",
+      "swift_code": "VISIOMR1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Ruwi — عُمان — رموز سويفت (Banks of Ruwi, Oman — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Ruwi (عُمان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 35 سجلًا. List of banks, financial institutions and their branches in Ruwi, Oman with the SWIFT/BIC code, bank name and branch name for each. 35 records. Source: PeterNotenboom/SwiftCodes AllCountries/OM.json (MIT). يحتوي على 35 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Ruwi — عُمان — رموز سويفت (Banks of Ruwi, Oman — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Ruwi — عُمان — رموز سويفت (Banks of Ruwi, Oman — SWIFT/BIC codes) — 35 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 35 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

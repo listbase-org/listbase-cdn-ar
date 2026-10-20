@@ -1,0 +1,464 @@
+{
+  "id": "ar-sudan-khartoum-bunuk",
+  "name": "بنوك Khartoum — السودان — رموز سويفت (Banks of Khartoum, Sudan — SWIFT/BIC codes)",
+  "title": "بنوك Khartoum — السودان — رموز سويفت (Banks of Khartoum, Sudan — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Khartoum (السودان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 59 سجلًا. List of banks, financial institutions and their branches in Khartoum, Sudan with the SWIFT/BIC code, bank name and branch name for each. 59 records. Source: PeterNotenboom/SwiftCodes AllCountries/SD.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ABU DHABI ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ABDISDKH"
+    },
+    {
+      "id": 2,
+      "bank": "AGRICULTURAL BANK OF SUDAN",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ABSUSDKH"
+    },
+    {
+      "id": 3,
+      "bank": "AL BARAKA BANK (SUDAN)",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "RAKASDKH"
+    },
+    {
+      "id": 4,
+      "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
+      "city": "KHARTOUM",
+      "branch": "(KHARTOUM NORTH BRANCH)",
+      "swift_code": "NILESDKH0K2"
+    },
+    {
+      "id": 5,
+      "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "NILESDKH"
+    },
+    {
+      "id": 6,
+      "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "NILESDKH02E"
+    },
+    {
+      "id": 7,
+      "bank": "AL SHAMAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ISBSSDKH"
+    },
+    {
+      "id": 8,
+      "bank": "ALKHALEEJ BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "KHJBSDKH"
+    },
+    {
+      "id": 9,
+      "bank": "ALSALAM BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ALSASDKH"
+    },
+    {
+      "id": 10,
+      "bank": "ANIMAL RESOURCES BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ANRESDKH"
+    },
+    {
+      "id": 11,
+      "bank": "ARAB BANK FOR ECONOMIC DEVELOPMENT IN AFRICA (BADEA)",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ABEASDKH"
+    },
+    {
+      "id": 12,
+      "bank": "ARAB SUDANESE BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ARABSDKH"
+    },
+    {
+      "id": 13,
+      "bank": "BANK OF KHARTOUM",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BAKHSDKH"
+    },
+    {
+      "id": 14,
+      "bank": "BANK OF OMAN LTD. (SUDAN)",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BOLSSDK1"
+    },
+    {
+      "id": 15,
+      "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE - SOUDAN BRANCHE - (B.S.I.C.)",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BSAHSDKH"
+    },
+    {
+      "id": 16,
+      "bank": "BLUE NILE MASHREG BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BLNISDKH"
+    },
+    {
+      "id": 17,
+      "bank": "BYBLOS BANK AFRICA LIMITED",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BYBASDKH"
+    },
+    {
+      "id": 18,
+      "bank": "CENTRAL BANK OF SUDAN",
+      "city": "KHARTOUM",
+      "branch": "(HEAD QUARTER)",
+      "swift_code": "BSDNSDKHHQR"
+    },
+    {
+      "id": 19,
+      "bank": "CENTRAL BANK OF SUDAN",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "BSDNSDKH"
+    },
+    {
+      "id": 20,
+      "bank": "CITIBANK N.A.",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "CITISDK1"
+    },
+    {
+      "id": 21,
+      "bank": "EL NILEIN INDUSTRIAL DEVELOPMENT BANK GROUP",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "ENIDSDKH"
+    },
+    {
+      "id": 22,
+      "bank": "ELECTRONIC BANKING SERVICES",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "EBSLSDK1"
+    },
+    {
+      "id": 23,
+      "bank": "ELGAZEERA SUDANESE JORDANIAN BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "GSJBSDKH"
+    },
+    {
+      "id": 24,
+      "bank": "EXPORT DEVELOPMENT BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "EXPDSDKH"
+    },
+    {
+      "id": 25,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(AL SAGANAH BRANCH)",
+      "swift_code": "FISBSDKH107"
+    },
+    {
+      "id": 26,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(AL SUK AL ARABI BRANCH)",
+      "swift_code": "FISBSDKH118"
+    },
+    {
+      "id": 27,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(AL SUK AL MAHALI BRANCH)",
+      "swift_code": "FISBSDKH116"
+    },
+    {
+      "id": 28,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(AL SUK AL SHABI KHARTOUM BRANCH)",
+      "swift_code": "FISBSDKH110"
+    },
+    {
+      "id": 29,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(CORPORATE DEPARTMENT)",
+      "swift_code": "FISBSDKH122"
+    },
+    {
+      "id": 30,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(FAIHA BRANCH)",
+      "swift_code": "FISBSDKH101"
+    },
+    {
+      "id": 31,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(KHARTOUM CENTRAL STATION BRANCH)",
+      "swift_code": "FISBSDKH102"
+    },
+    {
+      "id": 32,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(KHARTOUM NEW INDUSTRIAL AREA BRANCH)",
+      "swift_code": "FISBSDKH115"
+    },
+    {
+      "id": 33,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(KHARTOUM NORTH INDUSTRIAL AREA BRANCH)",
+      "swift_code": "FISBSDKH114"
+    },
+    {
+      "id": 34,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "(UNIVERSITY OF KHARTOUM BRANCH)",
+      "swift_code": "FISBSDKH105"
+    },
+    {
+      "id": 35,
+      "bank": "FAISAL ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "FISBSDKH"
+    },
+    {
+      "id": 36,
+      "bank": "FARMERS COMMERCIAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "FARCSDKH"
+    },
+    {
+      "id": 37,
+      "bank": "FINANCIAL INVESTMENT BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "FITBSDKH"
+    },
+    {
+      "id": 38,
+      "bank": "HABIB BANK LTD",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "HABBSDK1"
+    },
+    {
+      "id": 39,
+      "bank": "ISLAMIC BANK FOR WESTERN SUDAN",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "IBWSSDK1"
+    },
+    {
+      "id": 40,
+      "bank": "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH",
+      "city": "KHARTOUM",
+      "branch": "(AMARAT BRANCH)",
+      "swift_code": "NBADSDKHAMR"
+    },
+    {
+      "id": 41,
+      "bank": "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "NBADSDKH"
+    },
+    {
+      "id": 42,
+      "bank": "NATIONAL BANK OF EGYPT (KHARTOUM)",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "NBEKSDKH"
+    },
+    {
+      "id": 43,
+      "bank": "NATIONAL BANK OF SUDAN",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "NBSUSDKH"
+    },
+    {
+      "id": 44,
+      "bank": "OMDURMAN NATIONAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "OMDBSDKH"
+    },
+    {
+      "id": 45,
+      "bank": "QATAR ISLAMIC BANK SUDAN BRANCH",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "QIBSSDKH"
+    },
+    {
+      "id": 46,
+      "bank": "QATAR NATIONAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "QNBASDKH"
+    },
+    {
+      "id": 47,
+      "bank": "REAL ESTATE COMMERCIAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "CRETSDKH"
+    },
+    {
+      "id": 48,
+      "bank": "SAUDI SUDANESE BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SAUSSDKH"
+    },
+    {
+      "id": 49,
+      "bank": "SAVINGS AND SOCIAL DEVELOPMENT BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SBSUSDK1"
+    },
+    {
+      "id": 50,
+      "bank": "SAVINGS AND SOCIAL DEVELOPMENT BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SSODSDKH"
+    },
+    {
+      "id": 51,
+      "bank": "SUDAN COMMERCIAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SUCBSDK1"
+    },
+    {
+      "id": 52,
+      "bank": "SUDANESE EGYPTIAN BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SUEGSDKH"
+    },
+    {
+      "id": 53,
+      "bank": "SUDANESE FRENCH BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SUFRSDKH"
+    },
+    {
+      "id": 54,
+      "bank": "SUDANESE INTERNATIONAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SUINSDK1"
+    },
+    {
+      "id": 55,
+      "bank": "SUDANESE ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "SEIBSDKH"
+    },
+    {
+      "id": 56,
+      "bank": "TADAMON ISLAMIC BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "TISBSDKH"
+    },
+    {
+      "id": 57,
+      "bank": "THE INDUSTRIAL DEVELOPMENT BANK-SUDAN",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "INSDSDKH"
+    },
+    {
+      "id": 58,
+      "bank": "UNITED CAPITAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "CBSKSDKH"
+    },
+    {
+      "id": 59,
+      "bank": "WORKERS NATIONAL BANK",
+      "city": "KHARTOUM",
+      "branch": "",
+      "swift_code": "WONTSDKH"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Khartoum — السودان — رموز سويفت (Banks of Khartoum, Sudan — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Khartoum (السودان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 59 سجلًا. List of banks, financial institutions and their branches in Khartoum, Sudan with the SWIFT/BIC code, bank name and branch name for each. 59 records. Source: PeterNotenboom/SwiftCodes AllCountries/SD.json (MIT). يحتوي على 59 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Khartoum — السودان — رموز سويفت (Banks of Khartoum, Sudan — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Khartoum — السودان — رموز سويفت (Banks of Khartoum, Sudan — SWIFT/BIC codes) — 59 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 59 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

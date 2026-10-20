@@ -1,0 +1,712 @@
+{
+  "id": "ar-mudun-spain",
+  "name": "مدن إسبانيا — Cities of Spain (Arabic names)",
+  "title": "مدن إسبانيا — Cities of Spain (Arabic names)",
+  "description": "قائمة بأسماء مدن إسبانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 82 cities in Spain with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مدريد",
+      "name_en": "Madrid",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 6211000
+    },
+    {
+      "id": 2,
+      "name_ar": "برشلونة",
+      "name_en": "Barcelona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 4800000
+    },
+    {
+      "id": 3,
+      "name_ar": "بلنسية",
+      "name_en": "Valencia",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 1595000
+    },
+    {
+      "id": 4,
+      "name_ar": "إشبيلية",
+      "name_en": "Sevilla",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 1100000
+    },
+    {
+      "id": 5,
+      "name_ar": "مالقة",
+      "name_en": "Malaga",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 967250
+    },
+    {
+      "id": 6,
+      "name_ar": "سرقسطة",
+      "name_en": "Zaragoza",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 686986
+    },
+    {
+      "id": 7,
+      "name_ar": "لاس بالماس دي غران كناريا",
+      "name_en": "Las Palmas",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 635000
+    },
+    {
+      "id": 8,
+      "name_ar": "بالما",
+      "name_en": "Palma",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 550000
+    },
+    {
+      "id": 9,
+      "name_ar": "سانتا كروز",
+      "name_en": "Santa Cruz",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 538000
+    },
+    {
+      "id": 10,
+      "name_ar": "لقنت",
+      "name_en": "Alicante",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 358720
+    },
+    {
+      "id": 11,
+      "name_ar": "قرطبة",
+      "name_en": "Cordoba",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 323763
+    },
+    {
+      "id": 12,
+      "name_ar": "بلد الوليد",
+      "name_en": "Valladolid",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 300618
+    },
+    {
+      "id": 13,
+      "name_ar": "خيخون",
+      "name_en": "Gijon",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 268561
+    },
+    {
+      "id": 14,
+      "name_ar": "فيتوريا-غاستيز",
+      "name_en": "Vitoria-Gasteiz",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 257968
+    },
+    {
+      "id": 15,
+      "name_ar": "قرجيطة",
+      "name_en": "A Coruna",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 249261
+    },
+    {
+      "id": 16,
+      "name_ar": "إلش",
+      "name_en": "Elche",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 243128
+    },
+    {
+      "id": 17,
+      "name_ar": "غرناطة",
+      "name_en": "Granada",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 232717
+    },
+    {
+      "id": 18,
+      "name_ar": "تاراسا",
+      "name_en": "Tarrasa",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 228708
+    },
+    {
+      "id": 19,
+      "name_ar": "بادالونا",
+      "name_en": "Badalona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 227083
+    },
+    {
+      "id": 20,
+      "name_ar": "ساباديل",
+      "name_en": "Sabadell",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 222177
+    },
+    {
+      "id": 21,
+      "name_ar": "أبيط",
+      "name_en": "Oviedo",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 220543
+    },
+    {
+      "id": 22,
+      "name_ar": "كارتاخينا",
+      "name_en": "Cartagena",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 219777
+    },
+    {
+      "id": 23,
+      "name_ar": "شريش",
+      "name_en": "Jerez de la Frontera",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 213688
+    },
+    {
+      "id": 24,
+      "name_ar": "موستولس",
+      "name_en": "Mostoles",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 209639
+    },
+    {
+      "id": 25,
+      "name_ar": "بنبلونة",
+      "name_en": "Pamplona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 207777
+    },
+    {
+      "id": 26,
+      "name_ar": "المرية",
+      "name_en": "Almeria",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 202675
+    },
+    {
+      "id": 27,
+      "name_ar": "القلعة الحجارة",
+      "name_en": "Alcala de Henares",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 196888
+    },
+    {
+      "id": 28,
+      "name_ar": "فوينلابرادا",
+      "name_en": "Fuenlabrada",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 190790
+    },
+    {
+      "id": 29,
+      "name_ar": "سان سيباستيان",
+      "name_en": "Donostia",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 189093
+    },
+    {
+      "id": 30,
+      "name_ar": "قسطلونة",
+      "name_en": "Castellon de la Plana",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 180379
+    },
+    {
+      "id": 31,
+      "name_ar": "برغش",
+      "name_en": "Burgos",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 175895
+    },
+    {
+      "id": 32,
+      "name_ar": "البسيط",
+      "name_en": "Albacete",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 174137
+    },
+    {
+      "id": 33,
+      "name_ar": "ألكوركون",
+      "name_en": "Alcorcon",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 173625
+    },
+    {
+      "id": 34,
+      "name_ar": "غوادالاخارا",
+      "name_en": "Guadalajara",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 161683
+    },
+    {
+      "id": 35,
+      "name_ar": "سان كريستوبال دي لا لاغونا",
+      "name_en": "La Laguna",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 160258
+    },
+    {
+      "id": 36,
+      "name_ar": "مربلة",
+      "name_en": "Marbella",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 159000
+    },
+    {
+      "id": 37,
+      "name_ar": "جرندة",
+      "name_en": "Girona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 156423
+    },
+    {
+      "id": 38,
+      "name_ar": "لوغرونيو",
+      "name_en": "Logrono",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 151164
+    },
+    {
+      "id": 39,
+      "name_ar": "بطليوس",
+      "name_en": "Badajoz",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 150570
+    },
+    {
+      "id": 40,
+      "name_ar": "شلمنقة",
+      "name_en": "Salamanca",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 144866
+    },
+    {
+      "id": 41,
+      "name_ar": "لاردة",
+      "name_en": "Lleida",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 144739
+    },
+    {
+      "id": 42,
+      "name_ar": "ولبة",
+      "name_en": "Huelva",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 143290
+    },
+    {
+      "id": 43,
+      "name_ar": "طركونة",
+      "name_en": "Tarragona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 141151
+    },
+    {
+      "id": 44,
+      "name_ar": "دوس إيرماناس",
+      "name_en": "Dos Hermanas",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 140430
+    },
+    {
+      "id": 45,
+      "name_ar": "ماتارو، برشلونة",
+      "name_en": "Mataro",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 129870
+    },
+    {
+      "id": 46,
+      "name_ar": "توريخون دي أردوز",
+      "name_en": "Torrejon de Ardoz",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 127132
+    },
+    {
+      "id": 47,
+      "name_ar": "الجزيرة الخضراء",
+      "name_en": "Algeciras",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 124978
+    },
+    {
+      "id": 48,
+      "name_ar": "ليون",
+      "name_en": "Leon",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 122051
+    },
+    {
+      "id": 49,
+      "name_ar": "ألكوبينداس",
+      "name_en": "Alcobendas",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 117041
+    },
+    {
+      "id": 50,
+      "name_ar": "كاديز",
+      "name_en": "Cadiz",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 110914
+    },
+    {
+      "id": 51,
+      "name_ar": "ريوس",
+      "name_en": "Reus",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 109930
+    },
+    {
+      "id": 52,
+      "name_ar": "روكويتاس دي مار",
+      "name_en": "Roquetas de Mar",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 109204
+    },
+    {
+      "id": 53,
+      "name_ar": "أورينسي",
+      "name_en": "Ourense",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 104891
+    },
+    {
+      "id": 54,
+      "name_ar": "شنت ياقُب",
+      "name_en": "Santiago de Compostela",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 99536
+    },
+    {
+      "id": 55,
+      "name_ar": "لك",
+      "name_en": "Lugo",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 99482
+    },
+    {
+      "id": 56,
+      "name_ar": "سانت كوجات ديل فاليس",
+      "name_en": "San Cugat del Valles",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 98621
+    },
+    {
+      "id": 57,
+      "name_ar": "لاس روزاس دي مدريد",
+      "name_en": "Las Rozas de Madrid",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 98590
+    },
+    {
+      "id": 58,
+      "name_ar": "فيديريكو غارثيا لوركا",
+      "name_en": "Lorca",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 98334
+    },
+    {
+      "id": 59,
+      "name_ar": "سان سباستيان دي لوس رييس",
+      "name_en": "San Sebastian de los Reyes",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 94969
+    },
+    {
+      "id": 60,
+      "name_ar": "توريفايجا",
+      "name_en": "Torrevieja",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 94803
+    },
+    {
+      "id": 61,
+      "name_ar": "سان فرناندو، الفلبين",
+      "name_en": "San Fernando",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 93645
+    },
+    {
+      "id": 62,
+      "name_ar": "ميخاس",
+      "name_en": "Mijas",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 93302
+    },
+    {
+      "id": 63,
+      "name_ar": "إل إخيدو",
+      "name_en": "El Ejido",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 90135
+    },
+    {
+      "id": 64,
+      "name_ar": "إل بويرتو دي سانتا ماريا",
+      "name_en": "El Puerto de Santa Maria",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 89960
+    },
+    {
+      "id": 65,
+      "name_ar": "تشايكلانا دي لا فرونتيرا",
+      "name_en": "Chiclana de la Frontera",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 89794
+    },
+    {
+      "id": 66,
+      "name_ar": "توليدو",
+      "name_en": "Toledo",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 86526
+    },
+    {
+      "id": 67,
+      "name_ar": "بلش مالقة",
+      "name_en": "Velez-Malaga",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 85990
+    },
+    {
+      "id": 68,
+      "name_ar": "مليلية",
+      "name_en": "Ciudad de Melilla",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 85985
+    },
+    {
+      "id": 69,
+      "name_ar": "فوينخيرولا",
+      "name_en": "Fuengirola",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 85859
+    },
+    {
+      "id": 70,
+      "name_ar": "سان باوديليو دي يوبريغات",
+      "name_en": "San Baudilio de Llobregat",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 84831
+    },
+    {
+      "id": 71,
+      "name_ar": "فالديمورو",
+      "name_en": "Valdemoro",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 83507
+    },
+    {
+      "id": 72,
+      "name_ar": "طلبيرة",
+      "name_en": "Talavera de la Reina",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 83477
+    },
+    {
+      "id": 73,
+      "name_ar": "بونتيفيدرا",
+      "name_en": "Pontevedra",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 83077
+    },
+    {
+      "id": 74,
+      "name_ar": "فوية",
+      "name_en": "Rubi",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 81532
+    },
+    {
+      "id": 75,
+      "name_ar": "أوريولة",
+      "name_en": "Orihuela",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 80784
+    },
+    {
+      "id": 76,
+      "name_ar": "مانريسا",
+      "name_en": "Manresa",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 80201
+    },
+    {
+      "id": 77,
+      "name_ar": "غانديا",
+      "name_en": "Gandia",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 80095
+    },
+    {
+      "id": 78,
+      "name_ar": "أسطبونة",
+      "name_en": "Estepona",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 78413
+    },
+    {
+      "id": 79,
+      "name_ar": "بينالمادينا",
+      "name_en": "Benalmadena",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 77654
+    },
+    {
+      "id": 80,
+      "name_ar": "مولينا دي سيغورا",
+      "name_en": "Molina de Segura",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 77493
+    },
+    {
+      "id": 81,
+      "name_ar": "القلعة دو غواداريا",
+      "name_en": "Alcala de Guadaira",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 76922
+    },
+    {
+      "id": 82,
+      "name_ar": "ثيوداد ريال",
+      "name_en": "Ciudad Real",
+      "country_ar": "إسبانيا",
+      "country_en": "Spain",
+      "population": 75909
+    }
+  ],
+  "meta": {
+    "title": "مدن إسبانيا — Cities of Spain (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إسبانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 82 cities in Spain with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 82 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إسبانيا — Cities of Spain (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إسبانيا — Cities of Spain (Arabic names) — 82 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 82 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

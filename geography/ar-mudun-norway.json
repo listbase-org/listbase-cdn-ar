@@ -1,0 +1,552 @@
+{
+  "id": "ar-mudun-norway",
+  "name": "مدن النرويج — Cities of Norway (Arabic names)",
+  "title": "مدن النرويج — Cities of Norway (Arabic names)",
+  "description": "قائمة بأسماء مدن النرويج بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Norway with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "أوسلو",
+      "name_en": "Oslo",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 709037
+    },
+    {
+      "id": 2,
+      "name_ar": "برغن",
+      "name_en": "Bergen",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 291189
+    },
+    {
+      "id": 3,
+      "name_ar": "تروندهايم",
+      "name_en": "Trondheim",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 212660
+    },
+    {
+      "id": 4,
+      "name_ar": "ستافانغر",
+      "name_en": "Stavanger",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 146011
+    },
+    {
+      "id": 5,
+      "name_ar": "ساندفيكا",
+      "name_en": "Sandvika",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 115543
+    },
+    {
+      "id": 6,
+      "name_ar": "درامن",
+      "name_en": "Drammen",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 109416
+    },
+    {
+      "id": 7,
+      "name_ar": "ساندفيورد",
+      "name_en": "Sandefjord",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 66231
+    },
+    {
+      "id": 8,
+      "name_ar": "كريستيانساند",
+      "name_en": "Kristiansand",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 64057
+    },
+    {
+      "id": 9,
+      "name_ar": "فريدريكستاد",
+      "name_en": "Fredrikstad",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 63610
+    },
+    {
+      "id": 10,
+      "name_ar": "ساندنيس",
+      "name_en": "Sandnes",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 58694
+    },
+    {
+      "id": 11,
+      "name_ar": "تونسبرغ",
+      "name_en": "Tonsberg",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 58561
+    },
+    {
+      "id": 12,
+      "name_ar": "ساربسبورغ",
+      "name_en": "Sarpsborg",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 54678
+    },
+    {
+      "id": 13,
+      "name_ar": "أوليسوند",
+      "name_en": "Alesund",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 52163
+    },
+    {
+      "id": 14,
+      "name_ar": "شين",
+      "name_en": "Skien",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 50607
+    },
+    {
+      "id": 15,
+      "name_ar": "لورينسكوغ",
+      "name_en": "Lorenskog",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 46797
+    },
+    {
+      "id": 16,
+      "name_ar": "آرندال",
+      "name_en": "Arendal",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 45891
+    },
+    {
+      "id": 17,
+      "name_ar": "هاوغسوند",
+      "name_en": "Haugesund",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 45040
+    },
+    {
+      "id": 18,
+      "name_ar": "ترومسو",
+      "name_en": "Tromso",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 38980
+    },
+    {
+      "id": 19,
+      "name_ar": "بورشغرون",
+      "name_en": "Porsgrunn",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 37056
+    },
+    {
+      "id": 20,
+      "name_ar": "رينغساكر",
+      "name_en": "Ringsaker",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 35475
+    },
+    {
+      "id": 21,
+      "name_ar": "آسكوي",
+      "name_en": "Askoy",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 29989
+    },
+    {
+      "id": 22,
+      "name_ar": "نيتيدال",
+      "name_en": "Nittedal",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 25440
+    },
+    {
+      "id": 23,
+      "name_ar": "هارستاد",
+      "name_en": "Harstad",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 25148
+    },
+    {
+      "id": 24,
+      "name_ar": "كونغسبرغ",
+      "name_en": "Kongsberg",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 25090
+    },
+    {
+      "id": 25,
+      "name_ar": "ساند",
+      "name_en": "Sand",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 24898
+    },
+    {
+      "id": 26,
+      "name_ar": "أيدسفول",
+      "name_en": "Eidsvoll",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 24647
+    },
+    {
+      "id": 27,
+      "name_ar": "لارفيك",
+      "name_en": "Larvik",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 24647
+    },
+    {
+      "id": 28,
+      "name_ar": "ستيوردال",
+      "name_en": "Stjordal",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 24541
+    },
+    {
+      "id": 29,
+      "name_ar": "رويكن",
+      "name_en": "Royken",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 22635
+    },
+    {
+      "id": 30,
+      "name_ar": "نيدره آيكر",
+      "name_en": "Nedre Eiker",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 21377
+    },
+    {
+      "id": 31,
+      "name_ar": "ستانغ",
+      "name_en": "Stange",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 21356
+    },
+    {
+      "id": 32,
+      "name_ar": "مولده",
+      "name_en": "Molde",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 21103
+    },
+    {
+      "id": 33,
+      "name_ar": "ساموا الأمريكية",
+      "name_en": "As",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 20652
+    },
+    {
+      "id": 34,
+      "name_ar": "ليلهامر",
+      "name_en": "Lillehammer",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 20580
+    },
+    {
+      "id": 35,
+      "name_ar": "هورتن",
+      "name_en": "Horten",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 20504
+    },
+    {
+      "id": 36,
+      "name_ar": "تايم",
+      "name_en": "Time",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 19781
+    },
+    {
+      "id": 37,
+      "name_ar": "خريطة الشارع المفتوحة",
+      "name_en": "Os",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 19742
+    },
+    {
+      "id": 38,
+      "name_ar": "مو إي رانا",
+      "name_en": "Mo i Rana",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 18899
+    },
+    {
+      "id": 39,
+      "name_ar": "كريستيانسوند",
+      "name_en": "Kristiansund",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 18273
+    },
+    {
+      "id": 40,
+      "name_ar": "ترومسدالن",
+      "name_en": "Tromsdalen",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 16787
+    },
+    {
+      "id": 41,
+      "name_ar": "هونفوس",
+      "name_en": "Honefoss",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 16547
+    },
+    {
+      "id": 42,
+      "name_ar": "فروغن",
+      "name_en": "Frogn",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 16106
+    },
+    {
+      "id": 43,
+      "name_ar": "نانستاد",
+      "name_en": "Nannestad",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 15530
+    },
+    {
+      "id": 44,
+      "name_ar": "ألتا",
+      "name_en": "Alta",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 15342
+    },
+    {
+      "id": 45,
+      "name_ar": "فينيسلا",
+      "name_en": "Vennesla",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 15294
+    },
+    {
+      "id": 46,
+      "name_ar": "مالفيك",
+      "name_en": "Malvik",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 14662
+    },
+    {
+      "id": 47,
+      "name_ar": "أسكيم",
+      "name_en": "Askim",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 14488
+    },
+    {
+      "id": 48,
+      "name_ar": "بامبله",
+      "name_en": "Bamble",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 14172
+    },
+    {
+      "id": 49,
+      "name_ar": "نارفيك",
+      "name_en": "Narvik",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 14051
+    },
+    {
+      "id": 50,
+      "name_ar": "شاطئ",
+      "name_en": "Strand",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 13474
+    },
+    {
+      "id": 51,
+      "name_ar": "دروباك",
+      "name_en": "Drobak",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 13393
+    },
+    {
+      "id": 52,
+      "name_ar": "ليلهامر",
+      "name_en": "Faberg",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 13381
+    },
+    {
+      "id": 53,
+      "name_ar": "غريمستاد",
+      "name_en": "Grimstad",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 13304
+    },
+    {
+      "id": 54,
+      "name_ar": "فيستبي",
+      "name_en": "Vestby",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 13159
+    },
+    {
+      "id": 55,
+      "name_ar": "ستاينشار",
+      "name_en": "Steinkjer",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 12985
+    },
+    {
+      "id": 56,
+      "name_ar": "نادي برينه",
+      "name_en": "Bryne",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 12465
+    },
+    {
+      "id": 57,
+      "name_ar": "كونغسفينغر",
+      "name_en": "Kongsvinger",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 12034
+    },
+    {
+      "id": 58,
+      "name_ar": "إلفروم",
+      "name_en": "Elverum",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 11633
+    },
+    {
+      "id": 59,
+      "name_ar": "إغرسوند",
+      "name_en": "Egersund",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 11629
+    },
+    {
+      "id": 60,
+      "name_ar": "لينفيك",
+      "name_en": "Lenvik",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 11618
+    },
+    {
+      "id": 61,
+      "name_ar": "إينيباك",
+      "name_en": "Enebakk",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 11392
+    },
+    {
+      "id": 62,
+      "name_ar": "لوميدالن",
+      "name_en": "Lommedalen",
+      "country_ar": "النرويج",
+      "country_en": "Norway",
+      "population": 11200
+    }
+  ],
+  "meta": {
+    "title": "مدن النرويج — Cities of Norway (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن النرويج بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Norway with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 62 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن النرويج — Cities of Norway (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن النرويج — Cities of Norway (Arabic names) — 62 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 62 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

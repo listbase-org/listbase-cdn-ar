@@ -1,0 +1,896 @@
+{
+  "id": "ar-shawati",
+  "name": "الشواطئ في الوطن العربي (Beaches of the Arab world)",
+  "title": "الشواطئ في الوطن العربي (Beaches of the Arab world)",
+  "description": "قائمة الشواطئ في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q40080) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة شواطئ في النطاق العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q6310943",
+      "name_ar": "شاطئ الجميرة",
+      "name_en": "Jumeirah Beach",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 25.1647,
+      "longitude": 55.2072,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B1%D8%A9"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q124727321",
+      "name_ar": "شاطئ الحيرة الشارقة",
+      "name_en": "Al Heera Beach Sharjah",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 25.3927,
+      "longitude": 55.4192,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%AD%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q21737852",
+      "name_ar": "شاطئ السيدات",
+      "name_en": "Shāţi' as Sayyidāt",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 24.458611,
+      "longitude": 54.302778,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q55888085",
+      "name_ar": "شاطئ الفجيرة",
+      "name_en": "Fujairah Beach",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 25.14193,
+      "longitude": 56.356536,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D9%81%D8%AC%D9%8A%D8%B1%D8%A9"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q21737849",
+      "name_ar": "شاطئ هيلتونيا",
+      "name_en": "Shāţi' Hīltawniyā",
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_qid": "Q878",
+      "latitude": 24.466389,
+      "longitude": 54.329167,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q20926087",
+      "name_ar": "حَدّ الدِّيب",
+      "name_en": "",
+      "country_ar": "البحرين",
+      "country_qid": "Q398",
+      "latitude": 25.561667,
+      "longitude": 50.791667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q20926074",
+      "name_ar": "حَدّ اَلْبَحْرَيْن",
+      "name_en": "",
+      "country_ar": "البحرين",
+      "country_qid": "Q398",
+      "latitude": 25.797778,
+      "longitude": 50.566667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q20926132",
+      "name_ar": "رَأْس اَلنِّقَاه",
+      "name_en": "Ra’s an Niqāh",
+      "country_ar": "البحرين",
+      "country_qid": "Q398",
+      "latitude": 25.868889,
+      "longitude": 50.605556,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q30081226",
+      "name_ar": "الشاطئ الأحمر",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.658361,
+      "longitude": 5.436333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q105200775",
+      "name_ar": "الصخيرات",
+      "name_en": "Skhirat, Boumerdès",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.773053,
+      "longitude": 3.504506,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%B5%D8%AE%D9%8A%D8%B1%D8%A7%D8%AA_(%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q28714426",
+      "name_ar": "شاطئ الصابلات",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.743333,
+      "longitude": 3.1175,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%B5%D8%A7%D8%A8%D9%84%D8%A7%D8%AA"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q121303671",
+      "name_ar": "شاطئ الكهوف العجيبة",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.694361,
+      "longitude": 5.526583,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D9%83%D9%87%D9%88%D9%81_%D8%A7%D9%84%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q125363162",
+      "name_ar": "شاطئ رشقون",
+      "name_en": "Rachgoun Beach",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 35.299149,
+      "longitude": -1.469906,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q134704700",
+      "name_ar": "شاطئ سبيعات",
+      "name_en": "Sbiaat Beach",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 35.553411,
+      "longitude": -1.196748,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q22932886",
+      "name_ar": "شاطئ فلفلة سكيكدة",
+      "name_en": "",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%81%D9%84%D9%81%D9%84%D8%A9_%D8%B3%D9%83%D9%8A%D9%83%D8%AF%D8%A9"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3275202",
+      "name_ar": "شاطئ مداغ",
+      "name_en": "Madagh beach",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 35.6315,
+      "longitude": -1.06687,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%85%D8%AF%D8%A7%D8%BA"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q133501994",
+      "name_ar": "شاطئ مدينة بومرداس",
+      "name_en": "Boumerdès beach",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 36.767312,
+      "longitude": 3.471612,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q125092162",
+      "name_ar": "شاطئ موسكاردة",
+      "name_en": "Moscarda Beach",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q12191023",
+      "name_ar": "الفناتير",
+      "name_en": "",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 27.154167,
+      "longitude": 49.57,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%AA%D9%8A%D8%B1"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q85873189",
+      "name_ar": "شاطئ الرملة البيضاء",
+      "name_en": "",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 26.55904,
+      "longitude": 50.08455,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%B1%D9%85%D9%84%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q16911505",
+      "name_ar": "شاطئ الجزيرة",
+      "name_en": "Gezira Beach",
+      "country_ar": "الصومال",
+      "country_qid": "Q1045",
+      "latitude": 1.94396,
+      "longitude": 45.16684,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q25108684",
+      "name_ar": "شاطئ ليدو",
+      "name_en": "Lido Beach, Mogadishu",
+      "country_ar": "الصومال",
+      "country_qid": "Q1045",
+      "latitude": 2.039751,
+      "longitude": 45.363723,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%84%D9%8A%D8%AF%D9%88"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q108000869",
+      "name_ar": "راس البيشة",
+      "name_en": "Ras Albisha",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": 29.912838,
+      "longitude": 48.591874,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B3_%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D8%A9"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3390828",
+      "name_ar": "الشاطئ الأبيض",
+      "name_en": "Plage Blanche",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 28.87,
+      "longitude": -10.78,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6_(%D8%B4%D8%A7%D8%B7%D8%A6)"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q123371480",
+      "name_ar": "شاطئ أكادير",
+      "name_en": "Plage d'Agadir",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q60574275",
+      "name_ar": "شاطئ إسلي",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.219553,
+      "longitude": -3.912876,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A5%D8%B3%D9%84%D9%8A"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q27512014",
+      "name_ar": "شاطئ السواني",
+      "name_en": "Plage Souani",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.19811,
+      "longitude": -3.85691,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D9%86%D9%8A"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q116602897",
+      "name_ar": "شاطئ الشراط",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D8%B7"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q57266052",
+      "name_ar": "شاطئ بونتو نيكري",
+      "name_en": "Punte Negri beach",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.25473,
+      "longitude": -3.115547,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q123439015",
+      "name_ar": "شاطئ تلات بوعزة",
+      "name_en": "Talat Bouazza Sahel",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 29.705994,
+      "longitude": -9.951328,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27511846",
+      "name_ar": "شاطئ سيدي قاسم",
+      "name_en": "Plage de Sidi Kacem",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.73798,
+      "longitude": -5.94433,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q123415119",
+      "name_ar": "شاطئ سيدي وساي",
+      "name_en": "Sidi Wassay beach",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q60574273",
+      "name_ar": "شاطئ صفيحة",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.208521,
+      "longitude": -3.893209,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B5%D9%81%D9%8A%D8%AD%D8%A9"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q60574277",
+      "name_ar": "شاطئ كالابونيطا",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.234562,
+      "longitude": -3.92301,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%83%D8%A7%D9%84%D8%A7%D8%A8%D9%88%D9%86%D9%8A%D8%B7%D8%A7"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q111677177",
+      "name_ar": "شاطئ مانسمان",
+      "name_en": "Manessmane Beach",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.709923,
+      "longitude": -7.369247,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%85%D8%A7%D9%86%D8%B3%D9%85%D8%A7%D9%86"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q111668528",
+      "name_ar": "شاطئ ميرامار",
+      "name_en": "Miramar beach",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.707493,
+      "longitude": -7.385907,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%85%D9%8A%D8%B1%D8%A7%D9%85%D8%A7%D8%B1"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q64744478",
+      "name_ar": "شاطيء الوليدية",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF%D9%8A%D8%A9_(%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8)"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q31868020",
+      "name_ar": "مرصة كعيد",
+      "name_en": "Marsat Gaayad",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 34.56606,
+      "longitude": -6.46221,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q21402497",
+      "name_ar": "موقع سيدي إدريس",
+      "name_en": "Sidi Driss",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 35.219481,
+      "longitude": -3.568164,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%82%D8%B9_%D8%B3%D9%8A%D8%AF%D9%8A_%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q31285471",
+      "name_ar": "الساحل الذهبي",
+      "name_en": "As Sāḩil adh Dhahhabī",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 12.766111,
+      "longitude": 44.994722,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q125497291",
+      "name_ar": "شاطئ بوقرنين",
+      "name_en": "",
+      "country_ar": "تونس",
+      "country_qid": "Q948",
+      "latitude": 36.739631,
+      "longitude": 10.32742,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A8%D9%88%D9%82%D8%B1%D9%86%D9%8A%D9%86"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q125497168",
+      "name_ar": "شاطئ مرسى القصيبة",
+      "name_en": "",
+      "country_ar": "تونس",
+      "country_qid": "Q948",
+      "latitude": 33.20551,
+      "longitude": 11.22944,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D9%85%D8%B1%D8%B3%D9%89_%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%A8%D8%A9"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q21589513",
+      "name_ar": "المالحة",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.218611,
+      "longitude": 39.977222,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q21596374",
+      "name_ar": "مسبح الشاطئ الازرق",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.588611,
+      "longitude": 35.746111,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q21594145",
+      "name_ar": "مملحة أبو الخير",
+      "name_en": "",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.794722,
+      "longitude": 37.803611,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q111744794",
+      "name_ar": "شاطئ رأس مدركة",
+      "name_en": "Ras Madrakah Beach",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 18.982524,
+      "longitude": 57.812067,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B1%D8%A3%D8%B3_%D9%85%D8%AF%D8%B1%D9%83%D8%A9"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q31895048",
+      "name_ar": "الصبانة دخان",
+      "name_en": "Aş Şabbānah Dukhān",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.391944,
+      "longitude": 50.763333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q49324758",
+      "name_ar": "شاطئ دخان",
+      "name_en": "",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.43,
+      "longitude": 50.755278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q49324759",
+      "name_ar": "شاطئ دخان الصبانة",
+      "name_en": "",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.405278,
+      "longitude": 50.756389,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q49324756",
+      "name_ar": "شاليهات دخان",
+      "name_en": "",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.492778,
+      "longitude": 50.768056,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q21577224",
+      "name_ar": "إبريال",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": 33.294167,
+      "longitude": 35.22,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q64729610",
+      "name_ar": "شاطئ طبرجا",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B7%D8%A8%D8%B1%D8%AC%D8%A7"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q64729600",
+      "name_ar": "شاطيء البترون",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%86"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q64729627",
+      "name_ar": "شاطيء جونية",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": 33.985389,
+      "longitude": 35.633623,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%AC%D9%88%D9%86%D9%8A%D8%A9"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q64729602",
+      "name_ar": "شاطيء شكا",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B4%D9%83%D8%A7"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q64729596",
+      "name_ar": "شاطيء صور",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B5%D9%88%D8%B1"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q64729598",
+      "name_ar": "شاطيء عمشيت",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B9%D9%85%D8%B4%D9%8A%D8%AA"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q21579739",
+      "name_ar": "شط الأوزاعي",
+      "name_en": "Chatt el Ouzaai",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": 33.824167,
+      "longitude": 35.483056,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q21561115",
+      "name_ar": "ياروتي",
+      "name_en": "",
+      "country_ar": "لبنان",
+      "country_qid": "Q822",
+      "latitude": 33.701667,
+      "longitude": 35.439444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q23937087",
+      "name_ar": "بر الشيخ بدير",
+      "name_en": "Barr ash Shaykh Budayr",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.269722,
+      "longitude": 32.156389,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q23973069",
+      "name_ar": "بر القرعة",
+      "name_en": "Barr al Qar‘ah",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.154722,
+      "longitude": 32.1225,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q14208294",
+      "name_ar": "بستان سمك الأنقليس",
+      "name_en": "Eel Garden",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 27.738211,
+      "longitude": 34.257011,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q55649699",
+      "name_ar": "بير سوير",
+      "name_en": "Bir Sweir",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.251111,
+      "longitude": 34.729444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q12212770",
+      "name_ar": "رأس كنايس",
+      "name_en": "",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D9%83%D9%86%D8%A7%D9%8A%D8%B3"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q23974406",
+      "name_ar": "شاطئ الإبراهيمية",
+      "name_en": "Al Ibrahimiyyah Beach",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.216111,
+      "longitude": 29.9225,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q23976216",
+      "name_ar": "شاطئ الانفوشي",
+      "name_en": "Shāţi' al Anfūshī",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.209444,
+      "longitude": 29.8825,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q23976220",
+      "name_ar": "شاطئ الشاطبي",
+      "name_en": "El Shatby Beach",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.213611,
+      "longitude": 29.918056,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q23957332",
+      "name_ar": "شاطئ جليم",
+      "name_en": "Shāţi' Jalīm",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.241389,
+      "longitude": 29.959444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q23976215",
+      "name_ar": "شاطئ رأس التين",
+      "name_en": "Shāţi' Ra's at Tīn",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.205278,
+      "longitude": 29.876667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q12218163",
+      "name_ar": "شاطئ عجيبة",
+      "name_en": "Agiba beach",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.414722,
+      "longitude": 27.006944,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B7%D8%A6_%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q23957330",
+      "name_ar": "شاطئ كليوباترا",
+      "name_en": "Cleopatra Beach",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.22308,
+      "longitude": 29.93789,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q23976242",
+      "name_ar": "شاطى حي العرب",
+      "name_en": "Shāţi‘ Ḩayy al ‘Arab",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 31.273056,
+      "longitude": 32.303333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q102309044",
+      "name_ar": "شرم اللولي",
+      "name_en": "Sharm al-Luli",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 24.613078,
+      "longitude": 35.117455,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q911885",
+      "name_ar": "طابا هايتس",
+      "name_en": "Taba Heights",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 29.386389,
+      "longitude": 34.798611,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q6462456",
+      "name_ar": "لا فام",
+      "name_en": "La Femme",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 30.837346,
+      "longitude": 28.99019,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%84%D8%A7_%D9%81%D8%A7%D9%85"
+    }
+  ],
+  "meta": {
+    "title": "الشواطئ في الوطن العربي (Beaches of the Arab world) - تحميل مجاني",
+    "description": "قائمة الشواطئ في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q40080) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة شواطئ في النطاق العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 75 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الشواطئ في الوطن العربي (Beaches of the Arab world) | ListBase",
+    "seo_description": "تحميل الشواطئ في الوطن العربي (Beaches of the Arab world) — 75 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 75 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

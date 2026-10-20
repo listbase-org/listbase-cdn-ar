@@ -1,0 +1,216 @@
+{
+  "id": "ar-mudun-zambia",
+  "name": "مدن زامبيا — Cities of Zambia (Arabic names)",
+  "title": "مدن زامبيا — Cities of Zambia (Arabic names)",
+  "description": "قائمة بأسماء مدن زامبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Zambia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "لوساكا",
+      "name_en": "Lusaka",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 1747152
+    },
+    {
+      "id": 2,
+      "name_ar": "كيتوي",
+      "name_en": "Kitwe",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 661901
+    },
+    {
+      "id": 3,
+      "name_ar": "ندولا",
+      "name_en": "Ndola",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 627503
+    },
+    {
+      "id": 4,
+      "name_ar": "شينغولا",
+      "name_en": "Chingola",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 256560
+    },
+    {
+      "id": 5,
+      "name_ar": "كافو",
+      "name_en": "Kafue",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 219000
+    },
+    {
+      "id": 6,
+      "name_ar": "مونغو",
+      "name_en": "Mongu",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 179585
+    },
+    {
+      "id": 7,
+      "name_ar": "لوانشيا",
+      "name_en": "Luanshya",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 154863
+    },
+    {
+      "id": 8,
+      "name_ar": "كاسيمبا",
+      "name_en": "Kasempa",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 111272
+    },
+    {
+      "id": 9,
+      "name_ar": "كاساما",
+      "name_en": "Kasama",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 101845
+    },
+    {
+      "id": 10,
+      "name_ar": "سولويزي",
+      "name_en": "Solwezi",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 90856
+    },
+    {
+      "id": 11,
+      "name_ar": "تشيليلابومبوي",
+      "name_en": "Chililabombwe",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 90530
+    },
+    {
+      "id": 12,
+      "name_ar": "مبيكا",
+      "name_en": "Mpika",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 28445
+    },
+    {
+      "id": 13,
+      "name_ar": "كاوامبوا",
+      "name_en": "Kawambwa",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 20589
+    },
+    {
+      "id": 14,
+      "name_ar": "مبالا",
+      "name_en": "Mbala",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 20570
+    },
+    {
+      "id": 15,
+      "name_ar": "سيشيك",
+      "name_en": "Sesheke",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 20149
+    },
+    {
+      "id": 16,
+      "name_ar": "موينيلونغا",
+      "name_en": "Mwinilunga",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 15704
+    },
+    {
+      "id": 17,
+      "name_ar": "تشينسالي",
+      "name_en": "Chinsali",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 15198
+    },
+    {
+      "id": 18,
+      "name_ar": "كابيري مبوشي",
+      "name_en": "Kapiri Mposhi",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 14792
+    },
+    {
+      "id": 19,
+      "name_ar": "سينانغا",
+      "name_en": "Senanga",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 10005
+    },
+    {
+      "id": 20,
+      "name_ar": "كالابو",
+      "name_en": "Kalabo",
+      "country_ar": "زامبيا",
+      "country_en": "Zambia",
+      "population": 7731
+    }
+  ],
+  "meta": {
+    "title": "مدن زامبيا — Cities of Zambia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن زامبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Zambia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 20 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن زامبيا — Cities of Zambia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن زامبيا — Cities of Zambia (Arabic names) — 20 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 20 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

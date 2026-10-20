@@ -1,0 +1,496 @@
+{
+  "id": "ar-mudun-belgium",
+  "name": "مدن بلجيكا — Cities of Belgium (Arabic names)",
+  "title": "مدن بلجيكا — Cities of Belgium (Arabic names)",
+  "description": "قائمة بأسماء مدن بلجيكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Belgium with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مدينة بروكسل",
+      "name_en": "Brussels",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 1249597
+    },
+    {
+      "id": 2,
+      "name_ar": "أنتويرب",
+      "name_en": "Antwerp",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 565039
+    },
+    {
+      "id": 3,
+      "name_ar": "خنت",
+      "name_en": "Gent",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 265086
+    },
+    {
+      "id": 4,
+      "name_ar": "شارلوروا",
+      "name_en": "Charleroi",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 204322
+    },
+    {
+      "id": 5,
+      "name_ar": "لييج",
+      "name_en": "Liege",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 195278
+    },
+    {
+      "id": 6,
+      "name_ar": "شيربيك",
+      "name_en": "Schaarbeek",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 132799
+    },
+    {
+      "id": 7,
+      "name_ar": "أندرلخت",
+      "name_en": "Anderlecht",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 120887
+    },
+    {
+      "id": 8,
+      "name_ar": "نامور",
+      "name_en": "Namur",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 114007
+    },
+    {
+      "id": 9,
+      "name_ar": "الست",
+      "name_en": "Aalst",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 88854
+    },
+    {
+      "id": 10,
+      "name_ar": "مِشِلين",
+      "name_en": "Mechelen",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 86921
+    },
+    {
+      "id": 11,
+      "name_ar": "لا لوفيير",
+      "name_en": "La Louviere",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 80986
+    },
+    {
+      "id": 12,
+      "name_ar": "سينت نيكلاس",
+      "name_en": "Sint-Niklaas",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 80167
+    },
+    {
+      "id": 13,
+      "name_ar": "كورتريك",
+      "name_en": "Kortrijk",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 77741
+    },
+    {
+      "id": 14,
+      "name_ar": "هَسِلت",
+      "name_en": "Hasselt",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 77651
+    },
+    {
+      "id": 15,
+      "name_ar": "أوستند",
+      "name_en": "Ostend",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 71557
+    },
+    {
+      "id": 16,
+      "name_ar": "طرناي",
+      "name_en": "Tournai",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 69554
+    },
+    {
+      "id": 17,
+      "name_ar": "غِنْك",
+      "name_en": "Genk",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 66110
+    },
+    {
+      "id": 18,
+      "name_ar": "روسلاريه",
+      "name_en": "Roeselare",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 64495
+    },
+    {
+      "id": 19,
+      "name_ar": "سيراين",
+      "name_en": "Seraing",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 64270
+    },
+    {
+      "id": 20,
+      "name_ar": "لاكن",
+      "name_en": "Laeken",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 60295
+    },
+    {
+      "id": 21,
+      "name_ar": "غابة",
+      "name_en": "Forest",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 56581
+    },
+    {
+      "id": 22,
+      "name_ar": "فيرفيا",
+      "name_en": "Verviers",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 55198
+    },
+    {
+      "id": 23,
+      "name_ar": "بيفيرن",
+      "name_en": "Beveren",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 50281
+    },
+    {
+      "id": 24,
+      "name_ar": "إيتربيك",
+      "name_en": "Etterbeek",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 48473
+    },
+    {
+      "id": 25,
+      "name_ar": "برغرهت",
+      "name_en": "Borgerhout",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 45769
+    },
+    {
+      "id": 26,
+      "name_ar": "دَندَرمُند",
+      "name_en": "Dendermonde",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 45673
+    },
+    {
+      "id": 27,
+      "name_ar": "مركسيم",
+      "name_en": "Merksem",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 44808
+    },
+    {
+      "id": 28,
+      "name_ar": "دينز",
+      "name_en": "Deinze",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 44315
+    },
+    {
+      "id": 29,
+      "name_ar": "تُرَنْهَوت",
+      "name_en": "Turnhout",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 44136
+    },
+    {
+      "id": 30,
+      "name_ar": "فيلفورد",
+      "name_en": "Vilvoorde",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 44015
+    },
+    {
+      "id": 31,
+      "name_ar": "نيكولاس بيترس بيرشم",
+      "name_en": "Berchem",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 43180
+    },
+    {
+      "id": 32,
+      "name_ar": "هوبوكين (أنتويرب)",
+      "name_en": "Hoboken",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 41220
+    },
+    {
+      "id": 33,
+      "name_ar": "سانت تروند",
+      "name_en": "Sint-Truiden",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 40672
+    },
+    {
+      "id": 34,
+      "name_ar": "هيرستال",
+      "name_en": "Herstal",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 39958
+    },
+    {
+      "id": 35,
+      "name_ar": "هاله",
+      "name_en": "Halle",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 39096
+    },
+    {
+      "id": 36,
+      "name_ar": "مول",
+      "name_en": "Mol",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 37022
+    },
+    {
+      "id": 37,
+      "name_ar": "تينان",
+      "name_en": "Tienen",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 36581
+    },
+    {
+      "id": 38,
+      "name_ar": "شاتليه",
+      "name_en": "Chatelet",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 36101
+    },
+    {
+      "id": 39,
+      "name_ar": "زافينتيم",
+      "name_en": "Zaventem",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 35184
+    },
+    {
+      "id": 40,
+      "name_ar": "شوتان",
+      "name_en": "Schoten",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 34462
+    },
+    {
+      "id": 41,
+      "name_ar": "وافر",
+      "name_en": "Wavre",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 34305
+    },
+    {
+      "id": 42,
+      "name_ar": "لُمِل",
+      "name_en": "Lommel",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 34044
+    },
+    {
+      "id": 43,
+      "name_ar": "بينشي",
+      "name_en": "Binche",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 33598
+    },
+    {
+      "id": 44,
+      "name_ar": "كنوكه- هايست",
+      "name_en": "Knokke-Heist",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 33097
+    },
+    {
+      "id": 45,
+      "name_ar": "اودانارد",
+      "name_en": "Oudenaarde",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 31866
+    },
+    {
+      "id": 46,
+      "name_ar": "وفلجم",
+      "name_en": "Wevelgem",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 31412
+    },
+    {
+      "id": 47,
+      "name_ar": "تونغيرين",
+      "name_en": "Tongeren",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 31142
+    },
+    {
+      "id": 48,
+      "name_ar": "أرلُون",
+      "name_en": "Arlon",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 30818
+    },
+    {
+      "id": 49,
+      "name_ar": "واترلو",
+      "name_en": "Waterloo",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 30174
+    },
+    {
+      "id": 50,
+      "name_ar": "أنس",
+      "name_en": "Ans",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 28238
+    },
+    {
+      "id": 51,
+      "name_ar": "هاريل بيك",
+      "name_en": "Harelbeke",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 27886
+    },
+    {
+      "id": 52,
+      "name_ar": "فيلبروك",
+      "name_en": "Willebroek",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 26223
+    },
+    {
+      "id": 53,
+      "name_ar": "مورتسيل",
+      "name_en": "Mortsel",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 26157
+    },
+    {
+      "id": 54,
+      "name_ar": "توبيز",
+      "name_en": "Tubize",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 25914
+    },
+    {
+      "id": 55,
+      "name_ar": "لناكن",
+      "name_en": "Lanaken",
+      "country_ar": "بلجيكا",
+      "country_en": "Belgium",
+      "population": 25818
+    }
+  ],
+  "meta": {
+    "title": "مدن بلجيكا — Cities of Belgium (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بلجيكا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Belgium with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 55 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بلجيكا — Cities of Belgium (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بلجيكا — Cities of Belgium (Arabic names) — 55 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 55 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "id": "ar-jazair-algiers-bunuk",
+  "name": "بنوك Algiers — الجزائر — رموز سويفت (Banks of Algiers, Algeria — SWIFT/BIC codes)",
+  "title": "بنوك Algiers — الجزائر — رموز سويفت (Banks of Algiers, Algeria — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Algiers (الجزائر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 42 سجلًا. List of banks, financial institutions and their branches in Algiers, Algeria with the SWIFT/BIC code, bank name and branch name for each. 42 records. Source: PeterNotenboom/SwiftCodes AllCountries/DZ.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL SALAM BANK ALGERIA",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "SALGDZAL"
+    },
+    {
+      "id": 2,
+      "bank": "ALGERIA GULF BANK",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "AGUBDZAL"
+    },
+    {
+      "id": 3,
+      "bank": "ARAB BANK PLC ALGERIA",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "ARABDZAL"
+    },
+    {
+      "id": 4,
+      "bank": "ARAB BANKING CORPORATION - ALGERIA",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "ABCODZAL"
+    },
+    {
+      "id": 5,
+      "bank": "BANK OF ALGERIA",
+      "city": "ALGIERS",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BALGDZAL"
+    },
+    {
+      "id": 6,
+      "bank": "BANK OF ALGERIA",
+      "city": "ALGIERS",
+      "branch": "(SERVICES BANCAIRES ETRANGERS)",
+      "swift_code": "BALGDZALSBE"
+    },
+    {
+      "id": 7,
+      "bank": "BANK OF ALGERIA",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BALGDZAP"
+    },
+    {
+      "id": 8,
+      "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BDLODZAL"
+    },
+    {
+      "id": 9,
+      "bank": "BANQUE DE L'AGRICULTURE ET DE DEVELOPPEMENT RURAL",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BADRDZAL"
+    },
+    {
+      "id": 10,
+      "bank": "BANQUE DU MAGHREB ARABE POUR L'INVESTISSEMENT ET LE COMMERCE",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BMICDZAL"
+    },
+    {
+      "id": 11,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE 113)",
+      "swift_code": "BEXADZAL113"
+    },
+    {
+      "id": 12,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE AMIROUCHE)",
+      "swift_code": "BEXADZAL012"
+    },
+    {
+      "id": 13,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE BELCOURT)",
+      "swift_code": "BEXADZAL020"
+    },
+    {
+      "id": 14,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE BEN M'HIDI)",
+      "swift_code": "BEXADZAL015"
+    },
+    {
+      "id": 15,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE CAROUBIER NAFTAL)",
+      "swift_code": "BEXADZAL001"
+    },
+    {
+      "id": 16,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE CHERAGA NAFTAL)",
+      "swift_code": "BEXADZAL008"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE CHERAGA VILLE)",
+      "swift_code": "BEXADZAL004"
+    },
+    {
+      "id": 18,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE DE TIZI OUZOU)",
+      "swift_code": "BEXADZAL034"
+    },
+    {
+      "id": 19,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE DELY IBRAHIM)",
+      "swift_code": "BEXADZAL090"
+    },
+    {
+      "id": 20,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE DES ACCREDITES)",
+      "swift_code": "BEXADZAL017"
+    },
+    {
+      "id": 21,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE DRARIA)",
+      "swift_code": "BEXADZAL116"
+    },
+    {
+      "id": 22,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE EL HARRACH)",
+      "swift_code": "BEXADZAL030"
+    },
+    {
+      "id": 23,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE GUEVARA)",
+      "swift_code": "BEXADZAL010"
+    },
+    {
+      "id": 24,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE HAMANI)",
+      "swift_code": "BEXADZAL018"
+    },
+    {
+      "id": 25,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE HASSIBA BEN BOUALI)",
+      "swift_code": "BEXADZAL038"
+    },
+    {
+      "id": 26,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE HUSSEIN DEY)",
+      "swift_code": "BEXADZAL022"
+    },
+    {
+      "id": 27,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE HYDRA LES ROSIERS)",
+      "swift_code": "BEXADZAL912"
+    },
+    {
+      "id": 28,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE HYDRA SITE SONATRACH)",
+      "swift_code": "BEXADZAL005"
+    },
+    {
+      "id": 29,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE KHEMIS MILIANA)",
+      "swift_code": "BEXADZAL013"
+    },
+    {
+      "id": 30,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE PALIS DES EXPOSITIONS)",
+      "swift_code": "BEXADZAL016"
+    },
+    {
+      "id": 31,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE RAVIN)",
+      "swift_code": "BEXADZAL095"
+    },
+    {
+      "id": 32,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(AGENCE RIAD EL FETH)",
+      "swift_code": "BEXADZAL002"
+    },
+    {
+      "id": 33,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(BARAKI)",
+      "swift_code": "BEXADZAL089"
+    },
+    {
+      "id": 34,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(DIRECTION DE LA TRESORERIE)",
+      "swift_code": "BEXADZALDTD"
+    },
+    {
+      "id": 35,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(DIRECTION DES OPERATIONS AVEC L'ETRANGER - DEPARTEMENT L/C ET NOSTRO)",
+      "swift_code": "BEXADZALDOE"
+    },
+    {
+      "id": 36,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(DIRECTION DES RELATIONS INTERNATIONALES)",
+      "swift_code": "BEXADZALDRI"
+    },
+    {
+      "id": 37,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(DIRECTION DU COMMERCE EXTERIEUR)",
+      "swift_code": "BEXADZALDCE"
+    },
+    {
+      "id": 38,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(EL DJAZAIR)",
+      "swift_code": "BEXADZAL101"
+    },
+    {
+      "id": 39,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(EL MOURADIA)",
+      "swift_code": "BEXADZAL102"
+    },
+    {
+      "id": 40,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "(ZERALDA)",
+      "swift_code": "BEXADZAL100"
+    },
+    {
+      "id": 41,
+      "bank": "BANQUE EXTERIEURE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BEXADZAL"
+    },
+    {
+      "id": 42,
+      "bank": "BANQUE NATIONALE D'ALGERIE",
+      "city": "ALGIERS",
+      "branch": "",
+      "swift_code": "BNALDZAL"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Algiers — الجزائر — رموز سويفت (Banks of Algiers, Algeria — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Algiers (الجزائر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 42 سجلًا. List of banks, financial institutions and their branches in Algiers, Algeria with the SWIFT/BIC code, bank name and branch name for each. 42 records. Source: PeterNotenboom/SwiftCodes AllCountries/DZ.json (MIT). يحتوي على 42 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Algiers — الجزائر — رموز سويفت (Banks of Algiers, Algeria — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Algiers — الجزائر — رموز سويفت (Banks of Algiers, Algeria — SWIFT/BIC codes) — 42 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 42 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

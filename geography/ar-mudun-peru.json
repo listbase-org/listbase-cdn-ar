@@ -1,0 +1,464 @@
+{
+  "id": "ar-mudun-peru",
+  "name": "مدن بيرو — Cities of Peru (Arabic names)",
+  "title": "مدن بيرو — Cities of Peru (Arabic names)",
+  "description": "قائمة بأسماء مدن بيرو بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 51 cities in Peru with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ليما",
+      "name_en": "Lima",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 10320000
+    },
+    {
+      "id": 2,
+      "name_ar": "إقليم أريكيبا",
+      "name_en": "Arequipa",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 1008290
+    },
+    {
+      "id": 3,
+      "name_ar": "تروخيلو",
+      "name_en": "Trujillo",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 935147
+    },
+    {
+      "id": 4,
+      "name_ar": "تشيكلايو",
+      "name_en": "Chiclayo",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 552508
+    },
+    {
+      "id": 5,
+      "name_ar": "إقليم بيورا",
+      "name_en": "Piura",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 473025
+    },
+    {
+      "id": 6,
+      "name_ar": "كوسكو",
+      "name_en": "Cusco",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 428450
+    },
+    {
+      "id": 7,
+      "name_ar": "وانكاشو",
+      "name_en": "Huancayo",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 378203
+    },
+    {
+      "id": 8,
+      "name_ar": "إكيتوس",
+      "name_en": "Iquitos",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 377609
+    },
+    {
+      "id": 9,
+      "name_ar": "شيمبوتي",
+      "name_en": "Chimbote",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 291408
+    },
+    {
+      "id": 10,
+      "name_ar": "إقليم تاكنا",
+      "name_en": "Tacna",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 286240
+    },
+    {
+      "id": 11,
+      "name_ar": "شريان سباتي باطن",
+      "name_en": "Ica",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 282407
+    },
+    {
+      "id": 12,
+      "name_ar": "خولياكا",
+      "name_en": "Juliaca",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 276110
+    },
+    {
+      "id": 13,
+      "name_ar": "تارابوتو",
+      "name_en": "Tarapoto",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 240453
+    },
+    {
+      "id": 14,
+      "name_ar": "إقليم أياكوتشو",
+      "name_en": "Ayacucho",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 216444
+    },
+    {
+      "id": 15,
+      "name_ar": "إقليم هانوكو",
+      "name_en": "Huanuco",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 196627
+    },
+    {
+      "id": 16,
+      "name_ar": "سولانا",
+      "name_en": "Sullana",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 162434
+    },
+    {
+      "id": 17,
+      "name_ar": "بونو",
+      "name_en": "Puno",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 128637
+    },
+    {
+      "id": 18,
+      "name_ar": "هواراس",
+      "name_en": "Huaraz",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 118836
+    },
+    {
+      "id": 19,
+      "name_ar": "حي تشوسيكا",
+      "name_en": "Chosica",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 88606
+    },
+    {
+      "id": 20,
+      "name_ar": "بويرتو مالدونادو",
+      "name_en": "Puerto Maldonado",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 85024
+    },
+    {
+      "id": 21,
+      "name_ar": "تشولوكاناس",
+      "name_en": "Chulucanas",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 82521
+    },
+    {
+      "id": 22,
+      "name_ar": "ابانكاي",
+      "name_en": "Abancay",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 72277
+    },
+    {
+      "id": 23,
+      "name_ar": "إقليم موكيغوا",
+      "name_en": "Moquegua",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 69882
+    },
+    {
+      "id": 24,
+      "name_ar": "تشينتشا ألتا",
+      "name_en": "Chincha Alta",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 63671
+    },
+    {
+      "id": 25,
+      "name_ar": "سيرو دي باسكو",
+      "name_en": "Cerro de Pasco",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 58899
+    },
+    {
+      "id": 26,
+      "name_ar": "إقليم لمباييكه",
+      "name_en": "Lambayeque",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 58276
+    },
+    {
+      "id": 27,
+      "name_ar": "مويوبامبا",
+      "name_en": "Moyobamba",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 56452
+    },
+    {
+      "id": 28,
+      "name_ar": "تارما",
+      "name_en": "Tarma",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 54078
+    },
+    {
+      "id": 29,
+      "name_ar": "سيتشورا",
+      "name_en": "Sechura",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 50000
+    },
+    {
+      "id": 30,
+      "name_ar": "إقليم هوانكافليكا",
+      "name_en": "Huancavelica",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 49570
+    },
+    {
+      "id": 31,
+      "name_ar": "باتيفيلكا",
+      "name_en": "Pativilca",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 47827
+    },
+    {
+      "id": 32,
+      "name_ar": "تينجو ماريا",
+      "name_en": "Tingo Maria",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 46191
+    },
+    {
+      "id": 33,
+      "name_ar": "هواماتشوكو",
+      "name_en": "Huamachuco",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 39806
+    },
+    {
+      "id": 34,
+      "name_ar": "فيروس",
+      "name_en": "Viru",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 36029
+    },
+    {
+      "id": 35,
+      "name_ar": "شاشابوياس",
+      "name_en": "Chachapoyas",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 32026
+    },
+    {
+      "id": 36,
+      "name_ar": "الموشي",
+      "name_en": "Moche",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 30671
+    },
+    {
+      "id": 37,
+      "name_ar": "كيابمبا",
+      "name_en": "Quillabamba",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 30422
+    },
+    {
+      "id": 38,
+      "name_ar": "هوانتا",
+      "name_en": "Huanta",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 30234
+    },
+    {
+      "id": 39,
+      "name_ar": "لا رينكونادا",
+      "name_en": "La Rinconada",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 29678
+    },
+    {
+      "id": 40,
+      "name_ar": "إيلاف",
+      "name_en": "Ilave",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 28483
+    },
+    {
+      "id": 41,
+      "name_ar": "موليندو",
+      "name_en": "Mollendo",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 28305
+    },
+    {
+      "id": 42,
+      "name_ar": "حاسوب فائق",
+      "name_en": "Supe",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 28286
+    },
+    {
+      "id": 43,
+      "name_ar": "جاويا",
+      "name_en": "Jauja",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 27560
+    },
+    {
+      "id": 44,
+      "name_ar": "باكاسيامو",
+      "name_en": "Pacasmayo",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 26125
+    },
+    {
+      "id": 45,
+      "name_ar": "سان فيسينتي دي كانيتي",
+      "name_en": "San Vicente de Canete",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 25829
+    },
+    {
+      "id": 46,
+      "name_ar": "ركانة (بلنسية)",
+      "name_en": "Requena",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 25313
+    },
+    {
+      "id": 47,
+      "name_ar": "سمك ذهبي",
+      "name_en": "Caras",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 23841
+    },
+    {
+      "id": 48,
+      "name_ar": "خولي",
+      "name_en": "Juli",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 21462
+    },
+    {
+      "id": 49,
+      "name_ar": "لا يونيون",
+      "name_en": "La Union",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 19155
+    },
+    {
+      "id": 50,
+      "name_ar": "بوكويو",
+      "name_en": "Puquio",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 17890
+    },
+    {
+      "id": 51,
+      "name_ar": "لاماس",
+      "name_en": "Lamas",
+      "country_ar": "بيرو",
+      "country_en": "Peru",
+      "population": 16871
+    }
+  ],
+  "meta": {
+    "title": "مدن بيرو — Cities of Peru (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بيرو بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 51 cities in Peru with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 51 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بيرو — Cities of Peru (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بيرو — Cities of Peru (Arabic names) — 51 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 51 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

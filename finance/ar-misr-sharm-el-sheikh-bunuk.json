@@ -1,0 +1,149 @@
+{
+  "id": "ar-misr-sharm-el-sheikh-bunuk",
+  "name": "بنوك Sharm El Sheikh — مصر — رموز سويفت (Banks of Sharm El Sheikh, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Sharm El Sheikh — مصر — رموز سويفت (Banks of Sharm El Sheikh, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Sharm El Sheikh (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Sharm El Sheikh, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK PLC",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM-ELSHEIKH BRANCH)",
+      "swift_code": "ARABEGCXSHR"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB INTERNATIONAL BANK",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM EL SHEIKH BRANCH)",
+      "swift_code": "ARIBEGCX012"
+    },
+    {
+      "id": 3,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM ELSHEIKH)",
+      "swift_code": "MRBAEGCX011"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(EL-HADABA BRANCH)",
+      "swift_code": "CIBEEGCX131"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(NABQ BAY BRANCH)",
+      "swift_code": "CIBEEGCX063"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM EL SHEIKH BRANCH)",
+      "swift_code": "CIBEEGCX027"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(TABA BRANCH)",
+      "swift_code": "CIBEEGCX113"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(TIRAN CENTER BRANCH)",
+      "swift_code": "CIBEEGCX064"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM EL SHEIKH BRANCH)",
+      "swift_code": "NBADEGCASHK"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(KHALIG NABAQ BRANCH)",
+      "swift_code": "NBEGEGCX348"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(NAEMA BAY  BRANCH)",
+      "swift_code": "NBEGEGCX349"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SAVOY SHARM EL SHEIKH  BRANCH)",
+      "swift_code": "NBEGEGCX359"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM EL SHEIKH BRANCH)",
+      "swift_code": "NBEGEGCX340"
+    },
+    {
+      "id": 14,
+      "bank": "SUEZ CANAL BANK",
+      "city": "SHARM EL SHEIKH",
+      "branch": "(SHARM EL SHEIKH BRANCH)",
+      "swift_code": "SUCAEGCXSHR"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Sharm El Sheikh — مصر — رموز سويفت (Banks of Sharm El Sheikh, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Sharm El Sheikh (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in Sharm El Sheikh, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Sharm El Sheikh — مصر — رموز سويفت (Banks of Sharm El Sheikh, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Sharm El Sheikh — مصر — رموز سويفت (Banks of Sharm El Sheikh, Egypt — SWIFT/BIC codes) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

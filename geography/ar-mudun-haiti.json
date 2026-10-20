@@ -1,0 +1,616 @@
+{
+  "id": "ar-mudun-haiti",
+  "name": "مدن هايتي — Cities of Haiti (Arabic names)",
+  "title": "مدن هايتي — Cities of Haiti (Arabic names)",
+  "description": "قائمة بأسماء مدن هايتي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 70 cities in Haiti with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بورت أو برانس",
+      "name_en": "Port-au-Prince",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 987310
+    },
+    {
+      "id": 2,
+      "name_ar": "كارفور",
+      "name_en": "Carrefour",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 511345
+    },
+    {
+      "id": 3,
+      "name_ar": "بيتيونفيل",
+      "name_en": "Petion-Ville",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 359615
+    },
+    {
+      "id": 4,
+      "name_ar": "غوناييف",
+      "name_en": "Gonaives",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 356324
+    },
+    {
+      "id": 5,
+      "name_ar": "كروكس ديس بوكيتس",
+      "name_en": "Croix-des-Bouquets",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 284812
+    },
+    {
+      "id": 6,
+      "name_ar": "بيتيت ريفيري دي أرتيبونيت",
+      "name_en": "Petite Riviere de l'Artibonite",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 170740
+    },
+    {
+      "id": 7,
+      "name_ar": "كاب هايتيان",
+      "name_en": "Cap-Haitien",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 155505
+    },
+    {
+      "id": 8,
+      "name_ar": "جاكميل",
+      "name_en": "Jacmel",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 137966
+    },
+    {
+      "id": 9,
+      "name_ar": "أركاهاي",
+      "name_en": "Arcahaie",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 130306
+    },
+    {
+      "id": 10,
+      "name_ar": "تاباري",
+      "name_en": "Tabarre",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 130283
+    },
+    {
+      "id": 11,
+      "name_ar": "بورت دي بيه",
+      "name_en": "Port-de-Paix",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 121220
+    },
+    {
+      "id": 12,
+      "name_ar": "آكينو",
+      "name_en": "Aquin",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 104216
+    },
+    {
+      "id": 13,
+      "name_ar": "هنش",
+      "name_en": "Hinche",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 102745
+    },
+    {
+      "id": 14,
+      "name_ar": "سانت ميشيل دي اتالايا",
+      "name_en": "Saint-Michel de l'Atalaye",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 95216
+    },
+    {
+      "id": 15,
+      "name_ar": "يوغان",
+      "name_en": "Leogane",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 90000
+    },
+    {
+      "id": 16,
+      "name_ar": "ليس كايس",
+      "name_en": "Les Cayes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 86780
+    },
+    {
+      "id": 17,
+      "name_ar": "بيلاديري",
+      "name_en": "Belladere",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 86612
+    },
+    {
+      "id": 18,
+      "name_ar": "سانت لويس الشمالية",
+      "name_en": "Saint-Louis du Nord",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 69592
+    },
+    {
+      "id": 19,
+      "name_ar": "يموناد",
+      "name_en": "Limonade",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 69256
+    },
+    {
+      "id": 20,
+      "name_ar": "ليمبي",
+      "name_en": "Limbe",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 69256
+    },
+    {
+      "id": 21,
+      "name_ar": "آنس جيليتس",
+      "name_en": "Anse a Galets",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 62559
+    },
+    {
+      "id": 22,
+      "name_ar": "بانيت",
+      "name_en": "Bainet",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 62300
+    },
+    {
+      "id": 23,
+      "name_ar": "سانت لويس الجنوبية",
+      "name_en": "Saint-Louis du Sud",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 59042
+    },
+    {
+      "id": 24,
+      "name_ar": "ميراغوان",
+      "name_en": "Miragoane",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 56864
+    },
+    {
+      "id": 25,
+      "name_ar": "آكل دو نورد",
+      "name_en": "Acul du Nord",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 55908
+    },
+    {
+      "id": 26,
+      "name_ar": "بيلي آنس",
+      "name_en": "Belle-Anse",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 51707
+    },
+    {
+      "id": 27,
+      "name_ar": "دائرة سيرسا لا سورس",
+      "name_en": "Cerca la Source",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 51410
+    },
+    {
+      "id": 28,
+      "name_ar": "باس ليمبي",
+      "name_en": "Bas Limbe",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 50456
+    },
+    {
+      "id": 29,
+      "name_ar": "فيريتليس",
+      "name_en": "Verrettes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 48724
+    },
+    {
+      "id": 30,
+      "name_ar": "بوكان كاريه",
+      "name_en": "Boucan Carre",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 48700
+    },
+    {
+      "id": 31,
+      "name_ar": "كامب بيرن",
+      "name_en": "Camp Perrin",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 46000
+    },
+    {
+      "id": 32,
+      "name_ar": "أنس روج",
+      "name_en": "Anse Rouge",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 43395
+    },
+    {
+      "id": 33,
+      "name_ar": "ميساد",
+      "name_en": "Maissade",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 43138
+    },
+    {
+      "id": 34,
+      "name_ar": "توماسك",
+      "name_en": "Thomassique",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 42557
+    },
+    {
+      "id": 35,
+      "name_ar": "فوندس فيريتيس",
+      "name_en": "Fonds Verrettes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 40224
+    },
+    {
+      "id": 36,
+      "name_ar": "آسلي",
+      "name_en": "L'Asile",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 40000
+    },
+    {
+      "id": 37,
+      "name_ar": "ترو الشمالية",
+      "name_en": "Trou du Nord",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 37405
+    },
+    {
+      "id": 38,
+      "name_ar": "بورت مارغوت",
+      "name_en": "Port-Margot",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 36937
+    },
+    {
+      "id": 39,
+      "name_ar": "أنس هينولت",
+      "name_en": "Anse d'Hainault",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 36401
+    },
+    {
+      "id": 40,
+      "name_ar": "لا فالي دي جاكميل",
+      "name_en": "La Vallee de Jacmel",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 36188
+    },
+    {
+      "id": 41,
+      "name_ar": "بوتي ترو دو نيب",
+      "name_en": "Petit-Trou de Nippes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 36143
+    },
+    {
+      "id": 42,
+      "name_ar": "بومباردوبولس",
+      "name_en": "Bombardopolis",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 36028
+    },
+    {
+      "id": 43,
+      "name_ar": "آنس فيوي",
+      "name_en": "Anse-a-Veau",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 34613
+    },
+    {
+      "id": 44,
+      "name_ar": "فورت ليبرتي",
+      "name_en": "Fort Liberte",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 34434
+    },
+    {
+      "id": 45,
+      "name_ar": "باسن بلي",
+      "name_en": "Bassin Bleu",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 33926
+    },
+    {
+      "id": 46,
+      "name_ar": "كوتيس دي فير",
+      "name_en": "Cotes de Fer",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 33577
+    },
+    {
+      "id": 47,
+      "name_ar": "باردريس",
+      "name_en": "Baraderes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 31689
+    },
+    {
+      "id": 48,
+      "name_ar": "شانتال",
+      "name_en": "Chantal",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 31030
+    },
+    {
+      "id": 49,
+      "name_ar": "أنس فولير",
+      "name_en": "Anse-a-Foleur",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 30217
+    },
+    {
+      "id": 50,
+      "name_ar": "آنس بيترس",
+      "name_en": "Anse a Pitre",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 30146
+    },
+    {
+      "id": 51,
+      "name_ar": "بيتيتي ريفيري دي نيبيس",
+      "name_en": "Petite Riviere de Nippes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 29815
+    },
+    {
+      "id": 52,
+      "name_ar": "سافانيت",
+      "name_en": "Savanette",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 29717
+    },
+    {
+      "id": 53,
+      "name_ar": "بينيون",
+      "name_en": "Pignon",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 29327
+    },
+    {
+      "id": 54,
+      "name_ar": "أرنكيت",
+      "name_en": "Arniquet",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 29180
+    },
+    {
+      "id": 55,
+      "name_ar": "روزو",
+      "name_en": "Roseaux",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 28811
+    },
+    {
+      "id": 56,
+      "name_ar": "بلين الشمالية",
+      "name_en": "Plaine du Nord",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 28544
+    },
+    {
+      "id": 57,
+      "name_ar": "ليس أنجليس",
+      "name_en": "Les Anglais",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 27182
+    },
+    {
+      "id": 58,
+      "name_ar": "غريسر",
+      "name_en": "Gressier",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 25947
+    },
+    {
+      "id": 59,
+      "name_ar": "تشاردونيريس",
+      "name_en": "Chardonnieres",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 25240
+    },
+    {
+      "id": 60,
+      "name_ar": "مومبين كروشو",
+      "name_en": "Mombin Crochu",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 25113
+    },
+    {
+      "id": 61,
+      "name_ar": "ليس إرويس",
+      "name_en": "Les Irois",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 24374
+    },
+    {
+      "id": 62,
+      "name_ar": "غراند سالين",
+      "name_en": "Grande Saline",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 23236
+    },
+    {
+      "id": 63,
+      "name_ar": "تيوت",
+      "name_en": "Thiotte",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 23041
+    },
+    {
+      "id": 64,
+      "name_ar": "بوينت راكوت",
+      "name_en": "Pointe a Raquettes",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 22886
+    },
+    {
+      "id": 65,
+      "name_ar": "مانيش",
+      "name_en": "Maniche",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 21766
+    },
+    {
+      "id": 66,
+      "name_ar": "تيرير روج",
+      "name_en": "Terrier Rouge",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 21328
+    },
+    {
+      "id": 67,
+      "name_ar": "تيبورون",
+      "name_en": "Tiburon",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 21170
+    },
+    {
+      "id": 68,
+      "name_ar": "أرنو",
+      "name_en": "Arnaud",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 20718
+    },
+    {
+      "id": 69,
+      "name_ar": "ليس كوتياكس",
+      "name_en": "Les Coteaux",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 19372
+    },
+    {
+      "id": 70,
+      "name_ar": "كوارتر مورين",
+      "name_en": "Quartier Morin",
+      "country_ar": "هايتي",
+      "country_en": "Haiti",
+      "population": 19241
+    }
+  ],
+  "meta": {
+    "title": "مدن هايتي — Cities of Haiti (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن هايتي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 70 cities in Haiti with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 70 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن هايتي — Cities of Haiti (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن هايتي — Cities of Haiti (Arabic names) — 70 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 70 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

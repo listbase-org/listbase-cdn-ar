@@ -1,0 +1,445 @@
+{
+  "id": "ar-sa-mawaqi-athariyya",
+  "name": "المواقع الأثرية في المملكة العربية السعودية (Archaeological Sites of Saudi Arabia)",
+  "title": "المواقع الأثرية في المملكة العربية السعودية (Archaeological Sites of Saudi Arabia)",
+  "description": "قائمة المواقع الأثرية في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q839954) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة المواقع الأثرية سعودية في النطاق العربي. List of archaeological sites in Saudi Arabia from Wikidata.",
+  "category": "history",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12179955",
+      "name_ar": "أعمدة الرجاجيل",
+      "name_en": "Columns of Rajajil",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 29.8125,
+      "longitude": 40.22,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12179955"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2829197",
+      "name_ar": "الأخدود",
+      "name_en": "al-Ukhdud",
+      "admin_area_ar": "منطقة نجران",
+      "admin_area_en": "Najran Province",
+      "latitude": 17.491667,
+      "longitude": 44.132222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2829197"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q29513737",
+      "name_ar": "البلدة القديمة",
+      "name_en": "Al-Ula Old Town",
+      "admin_area_ar": "العُـلا",
+      "admin_area_en": "Al-Ula",
+      "latitude": 26.616667,
+      "longitude": 37.916667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29513737"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12246907",
+      "name_ar": "الجار",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 23.650833,
+      "longitude": 38.519444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246907"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3303516",
+      "name_ar": "الربذة",
+      "name_en": "Al-Rabadha",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.631856,
+      "longitude": 41.2906,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3303516"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12188408",
+      "name_ar": "السفن",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.740995,
+      "longitude": 41.52609,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12188408"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q20643274",
+      "name_ar": "الفنون الصخرية في منطقة حائل السعودية",
+      "name_en": "Rock Art in the Hail Region of Saudi Arabia",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 28,
+      "longitude": 40.9,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20643274"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3134340",
+      "name_ar": "تاروت",
+      "name_en": "Tarout Island",
+      "admin_area_ar": "المنطقة الشرقية",
+      "admin_area_en": "Eastern Province",
+      "latitude": 26.566667,
+      "longitude": 50.066667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3134340"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27365",
+      "name_ar": "تيماء",
+      "name_en": "Tayma",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 27.626086,
+      "longitude": 38.547598,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27365"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1528269",
+      "name_ar": "ثاج",
+      "name_en": "Thāj",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.869167,
+      "longitude": 48.774444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1528269"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1250920",
+      "name_ar": "دوسرية الجبيل",
+      "name_en": "Dosariyah",
+      "admin_area_ar": "الجبيل",
+      "admin_area_en": "Jubail",
+      "latitude": 26.877,
+      "longitude": 49.818,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1250920"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2719371",
+      "name_ar": "دومة الجندل",
+      "name_en": "Dumat Al-Jandal",
+      "admin_area_ar": "منطقة الجوف",
+      "admin_area_en": "Al-Jowf Province",
+      "latitude": 29.811417,
+      "longitude": 39.868306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2719371"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q24891001",
+      "name_ar": "ذات الحاج",
+      "name_en": "Dhat al-Hajj",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 29.047272,
+      "longitude": 36.169288,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24891001"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q110243551",
+      "name_ar": "عريش الملك عبد العزيز",
+      "name_en": "",
+      "admin_area_ar": "محافظة الخرج",
+      "admin_area_en": "Al-Kharj",
+      "latitude": 24.201219,
+      "longitude": 47.286021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110243551"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q22688967",
+      "name_ar": "عين قناص",
+      "name_en": "Ain Qannas",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 25.5923,
+      "longitude": 49.6,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22688967"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12231514",
+      "name_ar": "فيد",
+      "name_en": "Fayd",
+      "admin_area_ar": "منطقة حائل",
+      "admin_area_en": "Ḥaʼil Province",
+      "latitude": 27.120278,
+      "longitude": 42.5225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12231514"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q120938015",
+      "name_ar": "قرية أم الأجراس",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 31.410584,
+      "longitude": 37.47533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120938015"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q2829327",
+      "name_ar": "قرية الفاو",
+      "name_en": "Qaryat al-Faw",
+      "admin_area_ar": "محافظة السليل",
+      "admin_area_en": "As Sulayyil governorate",
+      "latitude": 19.7833,
+      "longitude": 45.15,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2829327"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q64729469",
+      "name_ar": "قصر السبيعي",
+      "name_en": "Al-Subaie Palace",
+      "admin_area_ar": "محافظة شقراء",
+      "admin_area_en": "Shaqra governorate",
+      "latitude": 25.248333,
+      "longitude": 45.252778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64729469"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q100156205",
+      "name_ar": "قصر بهجة",
+      "name_en": "",
+      "admin_area_ar": "محافظة وادي الدواسر",
+      "admin_area_en": "Wadi ad-Dawasir governorate",
+      "latitude": 20.466705,
+      "longitude": 44.790594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100156205"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q12233052",
+      "name_ar": "قصر صاهود",
+      "name_en": "Sahood Fort",
+      "admin_area_ar": "محافظة الأحساء",
+      "admin_area_en": "Al-Ahsa governorate",
+      "latitude": 25.4125,
+      "longitude": 49.584167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233052"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q12233066",
+      "name_ar": "قصر محيرس",
+      "name_en": "Muhaires Castle",
+      "admin_area_ar": "محافظة الأحساء",
+      "admin_area_en": "Al-Ahsa governorate",
+      "latitude": 25.383333,
+      "longitude": 49.6,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233066"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q22689262",
+      "name_ar": "قلعة ذات حاج",
+      "name_en": "Zat ul Hajj Fort",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 29.047234,
+      "longitude": 36.169319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689262"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4117141",
+      "name_ar": "قلعة مارد",
+      "name_en": "Marid Castle",
+      "admin_area_ar": "منطقة الجوف",
+      "admin_area_en": "Al-Jowf Province",
+      "latitude": 29.811333,
+      "longitude": 39.867339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4117141"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q27356",
+      "name_ar": "مدائن صالح",
+      "name_en": "Hegra",
+      "admin_area_ar": "منطقة المدينة المنورة",
+      "admin_area_en": "Medina Province",
+      "latitude": 26.791667,
+      "longitude": 37.952778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27356"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q100328322",
+      "name_ar": "مرقب الحسين",
+      "name_en": "Murqib Al-Hussain",
+      "admin_area_ar": "محافظة شقراء",
+      "admin_area_en": "Shaqra governorate",
+      "latitude": 25.26427,
+      "longitude": 45.25301,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100328322"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q136377853",
+      "name_ar": "مستوطنة مصيون",
+      "name_en": "Musaywin Neolithic Settlement",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 28.631833,
+      "longitude": 35.379556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136377853"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q99677957",
+      "name_ar": "مسجد الحسيني",
+      "name_en": "",
+      "admin_area_ar": "محافظة شقراء",
+      "admin_area_en": "Shaqra governorate",
+      "latitude": 25.257906,
+      "longitude": 45.253043,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99677957"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q25463285",
+      "name_ar": "مسجد الخضر",
+      "name_en": "Al-Khidr Mosque",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.563457,
+      "longitude": 50.079221,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25463285"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q99983739",
+      "name_ar": "مسجد مشرفة",
+      "name_en": "Mushrifa Mosque",
+      "admin_area_ar": "محافظة المجمعة",
+      "admin_area_en": "Al Majma'ah governorate",
+      "latitude": 25.612762,
+      "longitude": 45.564083,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99983739"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q108782135",
+      "name_ar": "معبد محلب الناقة",
+      "name_en": "The temple of Mahlab al-Naqa",
+      "admin_area_ar": "العُـلا",
+      "admin_area_en": "Al-Ula",
+      "latitude": 26.655779,
+      "longitude": 37.912984,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108782135"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q2419298",
+      "name_ar": "مقبرة أمنا حواء",
+      "name_en": "Tomb of Eve",
+      "admin_area_ar": "الحجاز",
+      "admin_area_en": "Hejaz",
+      "latitude": 21.4919,
+      "longitude": 39.19,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2419298"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4915544",
+      "name_ar": "منطقة حمى الثقافية",
+      "name_en": "Bir Hima Rock Petroglyphs and Inscriptions",
+      "admin_area_ar": "منطقة نجران",
+      "admin_area_en": "Najran Province",
+      "latitude": 18.249239,
+      "longitude": 44.451839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4915544"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q116272374",
+      "name_ar": "موقع دحضة الأثري",
+      "name_en": "",
+      "admin_area_ar": "منطقة نجران",
+      "admin_area_en": "Najran Province",
+      "latitude": 17.516407,
+      "longitude": 44.155408,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116272374"
+    }
+  ],
+  "meta": {
+    "title": "المواقع الأثرية في المملكة العربية السعودية (Archaeological Sites of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة المواقع الأثرية في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q839954) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة المواقع الأثرية سعودية في النطاق العربي. List of archaeological sites in Saudi Arabia from Wikidata. يحتوي على 34 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المواقع الأثرية في المملكة العربية السعودية (Archaeological Sites of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المواقع الأثرية في المملكة العربية السعودية (Archaeological Sites of Saudi Arabia) — 34 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 34 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

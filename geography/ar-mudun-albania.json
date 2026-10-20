@@ -1,0 +1,256 @@
+{
+  "id": "ar-mudun-albania",
+  "name": "مدن ألبانيا — Cities of Albania (Arabic names)",
+  "title": "مدن ألبانيا — Cities of Albania (Arabic names)",
+  "description": "قائمة بأسماء مدن ألبانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 25 cities in Albania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تيرانا",
+      "name_en": "Tirana",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 418495
+    },
+    {
+      "id": 2,
+      "name_ar": "دراس",
+      "name_en": "Durres",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 153614
+    },
+    {
+      "id": 3,
+      "name_ar": "فلوره",
+      "name_en": "Vlore",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 130827
+    },
+    {
+      "id": 4,
+      "name_ar": "كامزا",
+      "name_en": "Kamez",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 126777
+    },
+    {
+      "id": 5,
+      "name_ar": "إيلبصان",
+      "name_en": "Elbasan",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 78703
+    },
+    {
+      "id": 6,
+      "name_ar": "إشقودرة",
+      "name_en": "Shkoder",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 76000
+    },
+    {
+      "id": 7,
+      "name_ar": "فيير",
+      "name_en": "Fier",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 55845
+    },
+    {
+      "id": 8,
+      "name_ar": "كورتشي",
+      "name_en": "Korce",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 51152
+    },
+    {
+      "id": 9,
+      "name_ar": "سارنده",
+      "name_en": "Sarande",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 41000
+    },
+    {
+      "id": 10,
+      "name_ar": "لوشنيه",
+      "name_en": "Lushnje",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 27000
+    },
+    {
+      "id": 11,
+      "name_ar": "بوغراديك",
+      "name_en": "Pogradec",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 20848
+    },
+    {
+      "id": 12,
+      "name_ar": "قواية",
+      "name_en": "Kavaje",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 20192
+    },
+    {
+      "id": 13,
+      "name_ar": "جيروكاستر",
+      "name_en": "Gjirokaster",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 19836
+    },
+    {
+      "id": 14,
+      "name_ar": "العظاءة",
+      "name_en": "Lac",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 17086
+    },
+    {
+      "id": 15,
+      "name_ar": "مقاطعة لجه",
+      "name_en": "Lezhe",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 15510
+    },
+    {
+      "id": 16,
+      "name_ar": "باتوس",
+      "name_en": "Patos",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 15397
+    },
+    {
+      "id": 17,
+      "name_ar": "بيشكوبي",
+      "name_en": "Peshkopi",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 13251
+    },
+    {
+      "id": 18,
+      "name_ar": "كرويه",
+      "name_en": "Kruje",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 11721
+    },
+    {
+      "id": 19,
+      "name_ar": "بوريل",
+      "name_en": "Burrel",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 10862
+    },
+    {
+      "id": 20,
+      "name_ar": "ليبراجد",
+      "name_en": "Librazhd",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 6937
+    },
+    {
+      "id": 21,
+      "name_ar": "برمت",
+      "name_en": "Permet",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 5945
+    },
+    {
+      "id": 22,
+      "name_ar": "باجرام كوري",
+      "name_en": "Bajram Curri",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 5340
+    },
+    {
+      "id": 23,
+      "name_ar": "تيبلين",
+      "name_en": "Tepelene",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 4342
+    },
+    {
+      "id": 24,
+      "name_ar": "إيرسيكي",
+      "name_en": "Erseke",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 3746
+    },
+    {
+      "id": 25,
+      "name_ar": "تل",
+      "name_en": "Puke",
+      "country_ar": "ألبانيا",
+      "country_en": "Albania",
+      "population": 3607
+    }
+  ],
+  "meta": {
+    "title": "مدن ألبانيا — Cities of Albania (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ألبانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 25 cities in Albania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 25 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ألبانيا — Cities of Albania (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ألبانيا — Cities of Albania (Arabic names) — 25 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 25 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

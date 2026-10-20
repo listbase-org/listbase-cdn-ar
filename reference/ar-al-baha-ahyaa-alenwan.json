@@ -1,0 +1,324 @@
+{
+  "id": "ar-al-baha-ahyaa-alenwan",
+  "name": "أحياء منطقة منطقة الباحة (العنوان الوطني) — Districts of Bahah (National Address)",
+  "title": "أحياء منطقة منطقة الباحة (العنوان الوطني) — Districts of Bahah (National Address)",
+  "description": "قائمة أحياء منطقة منطقة الباحة (Bahah) من بيانات العنوان الوطني (CC0). List of districts within the Bahah administrative region (region_id=12); filtered subset of the national ar-sa-ahyaa-alenwan, same schema. Open CC0 Saudi National Address source.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "district_id",
+      "label": "District Id",
+      "type": "number"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "district_id": 11201531001,
+      "city_id": 1531,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الشطيبة",
+      "name_en": "Shateebah Dist.",
+      "slug": "shateebah-dist"
+    },
+    {
+      "district_id": 11201542001,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الشروق",
+      "name_en": "Al Shorouk Dist.",
+      "slug": "al-shorouk-dist"
+    },
+    {
+      "district_id": 11201542002,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي النسيم",
+      "name_en": "Al Naseem Dist.",
+      "slug": "al-naseem-dist"
+    },
+    {
+      "district_id": 11201542003,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي السلامة",
+      "name_en": "As Salamah Dist.",
+      "slug": "as-salamah-dist"
+    },
+    {
+      "district_id": 11201542004,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الصفا",
+      "name_en": "Al Safa Dist.",
+      "slug": "al-safa-dist"
+    },
+    {
+      "district_id": 11201542005,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الازهر",
+      "name_en": "Al Azhar Dist.",
+      "slug": "al-azhar-dist"
+    },
+    {
+      "district_id": 11201542006,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الضباب",
+      "name_en": "Ad Dabab Dist.",
+      "slug": "ad-dabab-dist"
+    },
+    {
+      "district_id": 11201542007,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي شهبة",
+      "name_en": "Shahbah Dist.",
+      "slug": "shahbah-dist"
+    },
+    {
+      "district_id": 11201542008,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي النزهة",
+      "name_en": "An Nuzhah Dist.",
+      "slug": "an-nuzhah-dist"
+    },
+    {
+      "district_id": 11201542009,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الربوة",
+      "name_en": "Ar Rabwah Dist.",
+      "slug": "ar-rabwah-dist"
+    },
+    {
+      "district_id": 11201542010,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الشفا",
+      "name_en": "Ash Shifa Dist.",
+      "slug": "ash-shifa-dist"
+    },
+    {
+      "district_id": 11201542011,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي البريدة",
+      "name_en": "Al Buraydah Dist.",
+      "slug": "al-buraydah-dist"
+    },
+    {
+      "district_id": 11201542012,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي المرتفعات",
+      "name_en": "Al Murtafat Dist.",
+      "slug": "al-murtafat-dist"
+    },
+    {
+      "district_id": 11201542013,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الروضة",
+      "name_en": "Al Rawdha Dist.",
+      "slug": "al-rawdha-dist"
+    },
+    {
+      "district_id": 11201542014,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الباهر",
+      "name_en": "Al Baher Dist.",
+      "slug": "al-baher-dist"
+    },
+    {
+      "district_id": 11201542015,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الحجاز",
+      "name_en": "Al Hijaz Dist.",
+      "slug": "al-hijaz-dist"
+    },
+    {
+      "district_id": 11201542016,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي ج1",
+      "name_en": "1 C Dist.",
+      "slug": "1-c-dist"
+    },
+    {
+      "district_id": 11201542017,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي ج2",
+      "name_en": "2 C Dist.",
+      "slug": "2-c-dist"
+    },
+    {
+      "district_id": 11201542018,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي ج4",
+      "name_en": "4 C Dist.",
+      "slug": "4-c-dist"
+    },
+    {
+      "district_id": 11201542019,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي ج5",
+      "name_en": "5 C Dist.",
+      "slug": "5-c-dist"
+    },
+    {
+      "district_id": 11201542020,
+      "city_id": 1542,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الطفير",
+      "name_en": "At Tafeer Dist.",
+      "slug": "at-tafeer-dist"
+    },
+    {
+      "district_id": 11202819001,
+      "city_id": 2819,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "مخطط المطار",
+      "name_en": "Al Matar Subdivision Plan",
+      "slug": "al-matar-subdivision-plan"
+    },
+    {
+      "district_id": 11202819002,
+      "city_id": 2819,
+      "region_id": 12,
+      "region_ar": "منطقة الباحة",
+      "region_en": "Bahah",
+      "region_slug": "al-baha",
+      "name_ar": "حي الغوث",
+      "name_en": "Al Goth Dist.",
+      "slug": "al-goth-dist"
+    }
+  ],
+  "meta": {
+    "title": "أحياء منطقة منطقة الباحة (العنوان الوطني) — Districts of Bahah (National Address) - تحميل مجاني",
+    "description": "قائمة أحياء منطقة منطقة الباحة (Bahah) من بيانات العنوان الوطني (CC0). List of districts within the Bahah administrative region (region_id=12); filtered subset of the national ar-sa-ahyaa-alenwan, same schema. Open CC0 Saudi National Address source. يحتوي على 23 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أحياء منطقة منطقة الباحة (العنوان الوطني) — Districts of Bahah (National Address) | ListBase",
+    "seo_description": "تحميل أحياء منطقة منطقة الباحة (العنوان الوطني) — Districts of Bahah (National Address) — 23 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 23 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

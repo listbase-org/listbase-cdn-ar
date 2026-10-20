@@ -1,0 +1,170 @@
+{
+  "id": "ar-misr-el-mansoura-bunuk",
+  "name": "بنوك El Mansoura — مصر — رموز سويفت (Banks of El Mansoura, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك El Mansoura — مصر — رموز سويفت (Banks of El Mansoura, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Mansoura (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 17 سجلًا. List of banks, financial institutions and their branches in El Mansoura, Egypt with the SWIFT/BIC code, bank name and branch name for each. 17 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "EL MANSOURA",
+      "branch": "(EL MANSOURA BRANCH)",
+      "swift_code": "DEIBEGCX518"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MANSOURA",
+      "branch": "(MANSURA BRANCH)",
+      "swift_code": "BCAIEGCX420"
+    },
+    {
+      "id": 3,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "EL MANSOURA",
+      "branch": "(AL MANSOURA BRANCH)",
+      "swift_code": "CIBEEGCX015"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "EL MANSOURA",
+      "branch": "(EL GOMHORYA BRANCH)",
+      "swift_code": "CIBEEGCX096"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "EL MANSOURA",
+      "branch": "(NEW MANSOURA BRANCH)",
+      "swift_code": "CIBEEGCX195"
+    },
+    {
+      "id": 6,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "EL MANSOURA",
+      "branch": "",
+      "swift_code": "ARLBEGCAMAN"
+    },
+    {
+      "id": 7,
+      "bank": "EGYPTIAN GULF BANK",
+      "city": "EL MANSOURA",
+      "branch": "(MANSOURA BRANCH)",
+      "swift_code": "EGGBEGCAMAN"
+    },
+    {
+      "id": 8,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(AL MANSOURA BRANCH)",
+      "swift_code": "FIEGEGCXMNS"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "EL MANSOURA",
+      "branch": "(MANSOURA BRANCH)",
+      "swift_code": "NBADEGCAMNS"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(EL DAKAHLIA GOVERNORATE BRANCH)",
+      "swift_code": "NBEGEGCX438"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(EL MANSOURA UNIVERISTY BRANCH)",
+      "swift_code": "NBEGEGCX433"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(ELKHOLAFA ELRASHEDEEN BR)",
+      "swift_code": "NBEGEGCX387"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(MANSOURA BRANCH)",
+      "swift_code": "NBEGEGCX432"
+    },
+    {
+      "id": 14,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "EL MANSOURA",
+      "branch": "(MANSOURA BRANCH)",
+      "swift_code": "WABAEGCXMNS"
+    },
+    {
+      "id": 15,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "EL MANSOURA",
+      "branch": "(DAKAHLIA BRANCH)",
+      "swift_code": "BDACEGCA050"
+    },
+    {
+      "id": 16,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "EL MANSOURA",
+      "branch": "",
+      "swift_code": "SBNKEGCXMNS"
+    },
+    {
+      "id": 17,
+      "bank": "SUEZ CANAL BANK",
+      "city": "EL MANSOURA",
+      "branch": "(EL MANSOURA BRANCH)",
+      "swift_code": "SUCAEGCXMAN"
+    }
+  ],
+  "meta": {
+    "title": "بنوك El Mansoura — مصر — رموز سويفت (Banks of El Mansoura, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Mansoura (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 17 سجلًا. List of banks, financial institutions and their branches in El Mansoura, Egypt with the SWIFT/BIC code, bank name and branch name for each. 17 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 17 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك El Mansoura — مصر — رموز سويفت (Banks of El Mansoura, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك El Mansoura — مصر — رموز سويفت (Banks of El Mansoura, Egypt — SWIFT/BIC codes) — 17 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 17 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

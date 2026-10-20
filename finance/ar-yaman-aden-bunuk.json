@@ -1,0 +1,135 @@
+{
+  "id": "ar-yaman-aden-bunuk",
+  "name": "بنوك Aden — اليمن — رموز سويفت (Banks of Aden, Yemen — SWIFT/BIC codes)",
+  "title": "بنوك Aden — اليمن — رموز سويفت (Banks of Aden, Yemen — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Aden (اليمن) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 12 سجلًا. List of banks, financial institutions and their branches in Aden, Yemen with the SWIFT/BIC code, bank name and branch name for each. 12 records. Source: PeterNotenboom/SwiftCodes AllCountries/YE.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ARAB BANK PLC - YEMEN",
+      "city": "ADEN",
+      "branch": "(ADEN BRANCH)",
+      "swift_code": "ARABYESAADN"
+    },
+    {
+      "id": 2,
+      "bank": "BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "",
+      "swift_code": "BAYEYEY1"
+    },
+    {
+      "id": 3,
+      "bank": "CENTRAL BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "",
+      "swift_code": "CBYEYESA"
+    },
+    {
+      "id": 4,
+      "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
+      "city": "ADEN",
+      "branch": "(ADEN - CRATER BRANCH)",
+      "swift_code": "ISBYYESA107"
+    },
+    {
+      "id": 5,
+      "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
+      "city": "ADEN",
+      "branch": "(SHEIKH OTHMAN BRANCH)",
+      "swift_code": "ISBYYESA109"
+    },
+    {
+      "id": 6,
+      "bank": "NATIONAL BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "(AIDROOS BRANCH)",
+      "swift_code": "NBOYYESA001"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "(ARAWA BRANCH)",
+      "swift_code": "NBOYYESA002"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "(MALAA BRANCH)",
+      "swift_code": "NBOYYESA003"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF YEMEN",
+      "city": "ADEN",
+      "branch": "",
+      "swift_code": "NBOYYESA"
+    },
+    {
+      "id": 10,
+      "bank": "TADHAMON INTERNATIONAL ISLAMIC BANK",
+      "city": "ADEN",
+      "branch": "(ADEN BRANCH)",
+      "swift_code": "TIBKYESA103"
+    },
+    {
+      "id": 11,
+      "bank": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+      "city": "ADEN",
+      "branch": "(AL SAEEDA BRANCH)",
+      "swift_code": "YBRDYESA601"
+    },
+    {
+      "id": 12,
+      "bank": "YEMEN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+      "city": "ADEN",
+      "branch": "(AL-SHAIKH OTHMAN BRANCH)",
+      "swift_code": "YBRDYESA607"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Aden — اليمن — رموز سويفت (Banks of Aden, Yemen — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Aden (اليمن) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 12 سجلًا. List of banks, financial institutions and their branches in Aden, Yemen with the SWIFT/BIC code, bank name and branch name for each. 12 records. Source: PeterNotenboom/SwiftCodes AllCountries/YE.json (MIT). يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Aden — اليمن — رموز سويفت (Banks of Aden, Yemen — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Aden — اليمن — رموز سويفت (Banks of Aden, Yemen — SWIFT/BIC codes) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

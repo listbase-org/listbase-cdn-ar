@@ -1,0 +1,6326 @@
+{
+  "id": "ar-ar-riyadh-mudun",
+  "name": "مدن منطقة الرياض (Cities of Ar Riyadh)",
+  "title": "مدن منطقة الرياض (Cities of Ar Riyadh)",
+  "description": "قائمة مدن منطقة الرياض (Ar Riyadh) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Ar Riyadh administrative region of Saudi Arabia (region_id=6). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 626,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 3,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرياض",
+      "name_en": "Riyadh",
+      "slug": "riyadh"
+    },
+    {
+      "city_id": 24,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المجمعة",
+      "name_en": "Al Majmaah",
+      "slug": "al-majmaah-24"
+    },
+    {
+      "city_id": 140,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الوسيعة",
+      "name_en": "Al Wasiah",
+      "slug": "al-wasiah"
+    },
+    {
+      "city_id": 141,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "تمرية",
+      "name_en": "Tamriyah",
+      "slug": "tamriyah"
+    },
+    {
+      "city_id": 142,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ابو خسيفاء",
+      "name_en": "Abu Khusayfa",
+      "slug": "abu-khusayfa"
+    },
+    {
+      "city_id": 143,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النخيل",
+      "name_en": "An Nakhil",
+      "slug": "an-nakhil"
+    },
+    {
+      "city_id": 144,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السحيمي",
+      "name_en": "As Suhaymi",
+      "slug": "as-suhaymi"
+    },
+    {
+      "city_id": 145,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مصدة",
+      "name_en": "Musiddah",
+      "slug": "musiddah-145"
+    },
+    {
+      "city_id": 146,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم سديرة",
+      "name_en": "Umm Sudayrah",
+      "slug": "umm-sudayrah"
+    },
+    {
+      "city_id": 147,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "التنهاة",
+      "name_en": "At Tanhah",
+      "slug": "at-tanhah"
+    },
+    {
+      "city_id": 148,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قري التويم",
+      "name_en": "Qiri At Tuwaym",
+      "slug": "qiri-at-tuwaym"
+    },
+    {
+      "city_id": 149,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشحمة",
+      "name_en": "Ash Shahmah",
+      "slug": "ash-shahmah"
+    },
+    {
+      "city_id": 150,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الودي",
+      "name_en": "Al Wudayy",
+      "slug": "al-wudayy-150"
+    },
+    {
+      "city_id": 151,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جوي",
+      "name_en": "Juwayy",
+      "slug": "juwayy"
+    },
+    {
+      "city_id": 152,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مقبلة",
+      "name_en": "Muqbilah",
+      "slug": "muqbilah"
+    },
+    {
+      "city_id": 153,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حرمة",
+      "name_en": "Harmah",
+      "slug": "harmah"
+    },
+    {
+      "city_id": 155,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جراب",
+      "name_en": "Jirab",
+      "slug": "jirab"
+    },
+    {
+      "city_id": 156,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-156"
+    },
+    {
+      "city_id": 157,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النغيق",
+      "name_en": "An Nughayq",
+      "slug": "an-nughayq"
+    },
+    {
+      "city_id": 158,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حويمضة",
+      "name_en": "Huwaimidah",
+      "slug": "huwaimidah"
+    },
+    {
+      "city_id": 159,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البتيراء",
+      "name_en": "Al Butaira",
+      "slug": "al-butaira"
+    },
+    {
+      "city_id": 160,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المشاش",
+      "name_en": "Al Mishash",
+      "slug": "al-mishash-160"
+    },
+    {
+      "city_id": 161,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفروثي",
+      "name_en": "Al Furuthi",
+      "slug": "al-furuthi"
+    },
+    {
+      "city_id": 162,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جلاجل",
+      "name_en": "Jalajil",
+      "slug": "jalajil"
+    },
+    {
+      "city_id": 163,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدخيلة",
+      "name_en": "Ad Dakhilah",
+      "slug": "ad-dakhilah"
+    },
+    {
+      "city_id": 164,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحصون",
+      "name_en": "Al Husun",
+      "slug": "al-husun-164"
+    },
+    {
+      "city_id": 165,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حوطة سدير",
+      "name_en": "Hawtat Sudair",
+      "slug": "hawtat-sudair"
+    },
+    {
+      "city_id": 166,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "روضة سدير",
+      "name_en": "Rawdhat Sudair",
+      "slug": "rawdhat-sudair"
+    },
+    {
+      "city_id": 167,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "تمير",
+      "name_en": "Tumair",
+      "slug": "tumair"
+    },
+    {
+      "city_id": 168,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الارطاوية",
+      "name_en": "Al Artawiyah",
+      "slug": "al-artawiyah"
+    },
+    {
+      "city_id": 169,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العمار",
+      "name_en": "Al Amar",
+      "slug": "al-amar-169"
+    },
+    {
+      "city_id": 170,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخيس",
+      "name_en": "Al Khis",
+      "slug": "al-khis-170"
+    },
+    {
+      "city_id": 171,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المعشبة",
+      "name_en": "Al Maashbah",
+      "slug": "al-maashbah"
+    },
+    {
+      "city_id": 172,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "التويم",
+      "name_en": "At Tuwaym",
+      "slug": "at-tuwaym"
+    },
+    {
+      "city_id": 173,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخطامة",
+      "name_en": "Al Khutamah",
+      "slug": "al-khutamah"
+    },
+    {
+      "city_id": 174,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرويضة",
+      "name_en": "Ar Ruwaydah",
+      "slug": "ar-ruwaydah-174"
+    },
+    {
+      "city_id": 175,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشعب",
+      "name_en": "Ash Shib",
+      "slug": "ash-shib-175"
+    },
+    {
+      "city_id": 176,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عشيرة سدير",
+      "name_en": "Asharat Sudair",
+      "slug": "asharat-sudair"
+    },
+    {
+      "city_id": 177,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجنيفي",
+      "name_en": "Al Junayfi",
+      "slug": "al-junayfi"
+    },
+    {
+      "city_id": 178,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العطار",
+      "name_en": "Al Attar",
+      "slug": "al-attar"
+    },
+    {
+      "city_id": 179,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام الجماجم",
+      "name_en": "Umm Al Jamajim",
+      "slug": "umm-al-jamajim"
+    },
+    {
+      "city_id": 180,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشلح",
+      "name_en": "Mishlah",
+      "slug": "mishlah"
+    },
+    {
+      "city_id": 181,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام رجوم",
+      "name_en": "Umm Rujum",
+      "slug": "umm-rujum"
+    },
+    {
+      "city_id": 182,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرويضة",
+      "name_en": "Ar Ruwaidah",
+      "slug": "ar-ruwaidah"
+    },
+    {
+      "city_id": 183,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيصلية",
+      "name_en": "Al Faisaliyah",
+      "slug": "al-faisaliyah"
+    },
+    {
+      "city_id": 184,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بوضاء",
+      "name_en": "Bawda",
+      "slug": "bawda"
+    },
+    {
+      "city_id": 185,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحائر",
+      "name_en": "Al Hair",
+      "slug": "al-hair-185"
+    },
+    {
+      "city_id": 186,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وشي",
+      "name_en": "Wushayy",
+      "slug": "wushayy"
+    },
+    {
+      "city_id": 187,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عودة سدير",
+      "name_en": "Awdat Sudayr",
+      "slug": "awdat-sudayr"
+    },
+    {
+      "city_id": 188,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مبايض",
+      "name_en": "Mubayid",
+      "slug": "mubayid"
+    },
+    {
+      "city_id": 189,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-189"
+    },
+    {
+      "city_id": 258,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-258"
+    },
+    {
+      "city_id": 259,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المنسف",
+      "name_en": "Al Mansaf",
+      "slug": "al-mansaf"
+    },
+    {
+      "city_id": 260,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "منسية الغربية",
+      "name_en": "Mansiyah Al Gharbiyah",
+      "slug": "mansiyah-al-gharbiyah"
+    },
+    {
+      "city_id": 261,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عشيرة",
+      "name_en": "Ushayrah",
+      "slug": "ushayrah"
+    },
+    {
+      "city_id": 262,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيصلية",
+      "name_en": "Al Faysaliyah",
+      "slug": "al-faysaliyah-262"
+    },
+    {
+      "city_id": 263,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثوير",
+      "name_en": "Ath Thuwayr",
+      "slug": "ath-thuwayr"
+    },
+    {
+      "city_id": 264,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "زليغف",
+      "name_en": "Zulayghif",
+      "slug": "zulayghif"
+    },
+    {
+      "city_id": 265,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع الاثلة",
+      "name_en": "Mazari Al Athlah",
+      "slug": "mazari-al-athlah"
+    },
+    {
+      "city_id": 266,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع الرحية",
+      "name_en": "Mazari Ar Ruhayyah",
+      "slug": "mazari-ar-ruhayyah"
+    },
+    {
+      "city_id": 267,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قصيباء",
+      "name_en": "Qusayba",
+      "slug": "qusayba-267"
+    },
+    {
+      "city_id": 268,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزرعة بيضاء نثيل",
+      "name_en": "Mazraat Bayda Nuthayl",
+      "slug": "mazraat-bayda-nuthayl"
+    },
+    {
+      "city_id": 269,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "امارة المستوي",
+      "name_en": "Imarat Al Mistawi",
+      "slug": "imarat-al-mistawi"
+    },
+    {
+      "city_id": 270,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الزلفي",
+      "name_en": "Az Zulfi",
+      "slug": "az-zulfi"
+    },
+    {
+      "city_id": 271,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سمنان",
+      "name_en": "Samnan",
+      "slug": "samnan"
+    },
+    {
+      "city_id": 272,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "علقة",
+      "name_en": "Iliqah",
+      "slug": "iliqah"
+    },
+    {
+      "city_id": 294,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "رماح",
+      "name_en": "Rumah",
+      "slug": "rumah"
+    },
+    {
+      "city_id": 295,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حفر العتك",
+      "name_en": "Hafr Al Atk",
+      "slug": "hafr-al-atk"
+    },
+    {
+      "city_id": 296,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المزيرع",
+      "name_en": "Al Muzayri",
+      "slug": "al-muzayri"
+    },
+    {
+      "city_id": 297,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "شوية",
+      "name_en": "Shawyah",
+      "slug": "shawyah"
+    },
+    {
+      "city_id": 298,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفنة",
+      "name_en": "Al Hifnah",
+      "slug": "al-hifnah-298"
+    },
+    {
+      "city_id": 299,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغيلانة",
+      "name_en": "Al Ghaylanah",
+      "slug": "al-ghaylanah"
+    },
+    {
+      "city_id": 300,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرمحية",
+      "name_en": "Ar Rumhiyah",
+      "slug": "ar-rumhiyah"
+    },
+    {
+      "city_id": 306,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغاط",
+      "name_en": "Al Ghat",
+      "slug": "al-ghat"
+    },
+    {
+      "city_id": 307,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مليح",
+      "name_en": "Mulayh",
+      "slug": "mulayh-307"
+    },
+    {
+      "city_id": 329,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع البدائع",
+      "name_en": "Mazari Al Badai",
+      "slug": "mazari-al-badai"
+    },
+    {
+      "city_id": 330,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخاتلة",
+      "name_en": "Al Khatilah",
+      "slug": "al-khatilah"
+    },
+    {
+      "city_id": 331,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البلاد الوسطى",
+      "name_en": "Al Bilad Al Wusta",
+      "slug": "al-bilad-al-wusta"
+    },
+    {
+      "city_id": 332,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العليا",
+      "name_en": "Al Ulya",
+      "slug": "al-ulya"
+    },
+    {
+      "city_id": 333,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحسيان",
+      "name_en": "Al Hisyan",
+      "slug": "al-hisyan"
+    },
+    {
+      "city_id": 334,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الضلعي",
+      "name_en": "Ad Dul Ayi",
+      "slug": "ad-dul-ayi"
+    },
+    {
+      "city_id": 335,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "تنيبيكة",
+      "name_en": "Tunaibikah",
+      "slug": "tunaibikah"
+    },
+    {
+      "city_id": 336,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبلة",
+      "name_en": "Abla",
+      "slug": "abla"
+    },
+    {
+      "city_id": 337,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبلية",
+      "name_en": "Abliyah",
+      "slug": "abliyah"
+    },
+    {
+      "city_id": 338,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "هجرة السلات",
+      "name_en": "Hijrat As Silat",
+      "slug": "hijrat-as-silat"
+    },
+    {
+      "city_id": 339,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام طلحة",
+      "name_en": "Umm Talhah",
+      "slug": "umm-talhah-339"
+    },
+    {
+      "city_id": 340,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "معرج قليشة",
+      "name_en": "Muarij Qulaishah",
+      "slug": "muarij-qulaishah"
+    },
+    {
+      "city_id": 341,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "داغان",
+      "name_en": "Daghan",
+      "slug": "daghan"
+    },
+    {
+      "city_id": 342,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجرفية",
+      "name_en": "Al Jurfiyah",
+      "slug": "al-jurfiyah"
+    },
+    {
+      "city_id": 343,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حشاشة",
+      "name_en": "Hashashah",
+      "slug": "hashashah"
+    },
+    {
+      "city_id": 344,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "دار المردمة",
+      "name_en": "Dar Al Marudumah",
+      "slug": "dar-al-marudumah"
+    },
+    {
+      "city_id": 345,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لهدة الصياهد",
+      "name_en": "Lahdat As Sayahid",
+      "slug": "lahdat-as-sayahid"
+    },
+    {
+      "city_id": 346,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البرزاء",
+      "name_en": "Al Barza",
+      "slug": "al-barza"
+    },
+    {
+      "city_id": 347,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-347"
+    },
+    {
+      "city_id": 348,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخالدية",
+      "name_en": "Al Khaldiyah",
+      "slug": "al-khaldiyah"
+    },
+    {
+      "city_id": 349,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحمادة",
+      "name_en": "Al Hamadah",
+      "slug": "al-hamadah-349"
+    },
+    {
+      "city_id": 350,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرارة",
+      "name_en": "Al Qararah",
+      "slug": "al-qararah-350"
+    },
+    {
+      "city_id": 393,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بئر الفيضة",
+      "name_en": "Bir Al Faydah",
+      "slug": "bir-al-faydah"
+    },
+    {
+      "city_id": 394,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهميج",
+      "name_en": "Al Humayj",
+      "slug": "al-humayj-394"
+    },
+    {
+      "city_id": 395,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الذيبية",
+      "name_en": "Adh Dhibiyah",
+      "slug": "adh-dhibiyah-395"
+    },
+    {
+      "city_id": 396,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خضراء",
+      "name_en": "Khadra",
+      "slug": "khadra-396"
+    },
+    {
+      "city_id": 397,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البدايع",
+      "name_en": "Al Badayi",
+      "slug": "al-badayi"
+    },
+    {
+      "city_id": 398,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بطاحة",
+      "name_en": "Battahah",
+      "slug": "battahah"
+    },
+    {
+      "city_id": 399,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصقرة",
+      "name_en": "As Saqrah",
+      "slug": "as-saqrah"
+    },
+    {
+      "city_id": 400,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وبرة",
+      "name_en": "Wabrah",
+      "slug": "wabrah"
+    },
+    {
+      "city_id": 401,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو عشرة",
+      "name_en": "Abu Isharah",
+      "slug": "abu-isharah"
+    },
+    {
+      "city_id": 402,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المعلق",
+      "name_en": "Al Muallaq",
+      "slug": "al-muallaq"
+    },
+    {
+      "city_id": 403,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرميثي",
+      "name_en": "Ar Rumaythi",
+      "slug": "ar-rumaythi"
+    },
+    {
+      "city_id": 404,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهرانية",
+      "name_en": "Al Hiraniyah",
+      "slug": "al-hiraniyah"
+    },
+    {
+      "city_id": 405,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرضم",
+      "name_en": "Ar Radum",
+      "slug": "ar-radum"
+    },
+    {
+      "city_id": 406,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثعل",
+      "name_en": "Ath Thaal",
+      "slug": "ath-thaal"
+    },
+    {
+      "city_id": 407,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الانسيات",
+      "name_en": "Al Unsiyat",
+      "slug": "al-unsiyat"
+    },
+    {
+      "city_id": 408,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فرعة الرميثي",
+      "name_en": "Farat Ar Rumaythi",
+      "slug": "farat-ar-rumaythi"
+    },
+    {
+      "city_id": 409,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البطين",
+      "name_en": "Al Butin",
+      "slug": "al-butin"
+    },
+    {
+      "city_id": 410,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرفة",
+      "name_en": "Mushrifah",
+      "slug": "mushrifah-410"
+    },
+    {
+      "city_id": 411,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بديدة",
+      "name_en": "Bidaydah",
+      "slug": "bidaydah"
+    },
+    {
+      "city_id": 412,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المجهلية",
+      "name_en": "Al Mijhiliyah",
+      "slug": "al-mijhiliyah"
+    },
+    {
+      "city_id": 413,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البحرة",
+      "name_en": "Al Baharah",
+      "slug": "al-baharah-413"
+    },
+    {
+      "city_id": 414,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بديعة",
+      "name_en": "Budayah",
+      "slug": "budayah"
+    },
+    {
+      "city_id": 415,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجثوم",
+      "name_en": "Al Juthum",
+      "slug": "al-juthum"
+    },
+    {
+      "city_id": 416,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشويطن",
+      "name_en": "Ash Shuwaytin",
+      "slug": "ash-shuwaytin"
+    },
+    {
+      "city_id": 417,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المحامة",
+      "name_en": "Al Mahamah",
+      "slug": "al-mahamah-417"
+    },
+    {
+      "city_id": 418,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عفيف",
+      "name_en": "Afif",
+      "slug": "afif"
+    },
+    {
+      "city_id": 419,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ابرقية",
+      "name_en": "Abraqiyah",
+      "slug": "abraqiyah-419"
+    },
+    {
+      "city_id": 420,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجمانية",
+      "name_en": "Al Jammaniyah",
+      "slug": "al-jammaniyah"
+    },
+    {
+      "city_id": 421,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الاشعرية",
+      "name_en": "Al Ashariyah",
+      "slug": "al-ashariyah"
+    },
+    {
+      "city_id": 422,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخضارة",
+      "name_en": "Al Khadarah",
+      "slug": "al-khadarah"
+    },
+    {
+      "city_id": 423,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصالحية",
+      "name_en": "As Salihiyah",
+      "slug": "as-salihiyah"
+    },
+    {
+      "city_id": 424,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدائع العضيان",
+      "name_en": "Bidai Al Idyan",
+      "slug": "bidai-al-idyan"
+    },
+    {
+      "city_id": 425,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم أرطى",
+      "name_en": "Umm Arta",
+      "slug": "umm-arta"
+    },
+    {
+      "city_id": 426,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المكلاة",
+      "name_en": "Al Maklah",
+      "slug": "al-maklah"
+    },
+    {
+      "city_id": 427,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عشيران",
+      "name_en": "Ushayran",
+      "slug": "ushayran-427"
+    },
+    {
+      "city_id": 428,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بعيثران",
+      "name_en": "Buaythiran",
+      "slug": "buaythiran"
+    },
+    {
+      "city_id": 429,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم قصور",
+      "name_en": "Umm Qusur",
+      "slug": "umm-qusur"
+    },
+    {
+      "city_id": 430,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبدة",
+      "name_en": "Abdah",
+      "slug": "abdah"
+    },
+    {
+      "city_id": 431,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خريصة",
+      "name_en": "Khuraysah",
+      "slug": "khuraysah"
+    },
+    {
+      "city_id": 432,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عجابة",
+      "name_en": "Ajabah",
+      "slug": "ajabah"
+    },
+    {
+      "city_id": 433,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المديفع",
+      "name_en": "Al Mudayfi",
+      "slug": "al-mudayfi"
+    },
+    {
+      "city_id": 434,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القدراوية",
+      "name_en": "Al Qidrawiyah",
+      "slug": "al-qidrawiyah"
+    },
+    {
+      "city_id": 435,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-435"
+    },
+    {
+      "city_id": 436,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم أثلة",
+      "name_en": "Umm Athlah",
+      "slug": "umm-athlah-436"
+    },
+    {
+      "city_id": 437,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الأخضر",
+      "name_en": "Al Akhdar",
+      "slug": "al-akhdar-437"
+    },
+    {
+      "city_id": 438,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مطيعة",
+      "name_en": "Mutiah",
+      "slug": "mutiah"
+    },
+    {
+      "city_id": 439,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المدارة",
+      "name_en": "Al Madarah",
+      "slug": "al-madarah"
+    },
+    {
+      "city_id": 440,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عسيلة",
+      "name_en": "Usaylah",
+      "slug": "usaylah-440"
+    },
+    {
+      "city_id": 441,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحلوة",
+      "name_en": "Al Hilwah",
+      "slug": "al-hilwah-441"
+    },
+    {
+      "city_id": 442,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدبيجة",
+      "name_en": "Ad Dubayjah",
+      "slug": "ad-dubayjah"
+    },
+    {
+      "city_id": 443,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ثادق",
+      "name_en": "Thadiq",
+      "slug": "thadiq"
+    },
+    {
+      "city_id": 444,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الروبضة / رغبة",
+      "name_en": "Ar Rawbidah / Raghabah",
+      "slug": "ar-rawbidah-raghabah"
+    },
+    {
+      "city_id": 445,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "رويضة السهول",
+      "name_en": "Rawdat As Suhul",
+      "slug": "rawdat-as-suhul"
+    },
+    {
+      "city_id": 446,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشاش السهول",
+      "name_en": "Mishash As Suhul",
+      "slug": "mishash-as-suhul"
+    },
+    {
+      "city_id": 447,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحسي",
+      "name_en": "Al Hisi",
+      "slug": "al-hisi"
+    },
+    {
+      "city_id": 448,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصفرات",
+      "name_en": "As Sufarat",
+      "slug": "as-sufarat"
+    },
+    {
+      "city_id": 449,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البير",
+      "name_en": "Al Bir",
+      "slug": "al-bir-449"
+    },
+    {
+      "city_id": 450,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "رويغب",
+      "name_en": "Ruwayghib",
+      "slug": "ruwayghib"
+    },
+    {
+      "city_id": 493,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرائن",
+      "name_en": "Al Qarain",
+      "slug": "al-qarain"
+    },
+    {
+      "city_id": 494,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشكيرة",
+      "name_en": "Ash Shukayyrah",
+      "slug": "ash-shukayyrah"
+    },
+    {
+      "city_id": 495,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "هجرة المغر",
+      "name_en": "Hijrat Al Mughur",
+      "slug": "hijrat-al-mughur"
+    },
+    {
+      "city_id": 496,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع المحتجبة",
+      "name_en": "Mazari Al Muhtajibah",
+      "slug": "mazari-al-muhtajibah"
+    },
+    {
+      "city_id": 497,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغرابة",
+      "name_en": "Al Ghurabah",
+      "slug": "al-ghurabah"
+    },
+    {
+      "city_id": 498,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-498"
+    },
+    {
+      "city_id": 499,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "غسلة",
+      "name_en": "Ghuslah",
+      "slug": "ghuslah"
+    },
+    {
+      "city_id": 500,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "شقراء",
+      "name_en": "Shaqra",
+      "slug": "shaqra"
+    },
+    {
+      "city_id": 501,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهفوف",
+      "name_en": "Al Hafuf",
+      "slug": "al-hafuf"
+    },
+    {
+      "city_id": 502,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حلوان",
+      "name_en": "Halwan",
+      "slug": "halwan"
+    },
+    {
+      "city_id": 503,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حصرة",
+      "name_en": "Hasarah",
+      "slug": "hasarah"
+    },
+    {
+      "city_id": 504,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثمامية",
+      "name_en": "Ath Thumamiyah",
+      "slug": "ath-thumamiyah"
+    },
+    {
+      "city_id": 505,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لبيدة",
+      "name_en": "Lubaydah",
+      "slug": "lubaydah"
+    },
+    {
+      "city_id": 506,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العضيانية",
+      "name_en": "Al Idayyaniyah",
+      "slug": "al-idayyaniyah"
+    },
+    {
+      "city_id": 507,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عجلة",
+      "name_en": "Ajlah",
+      "slug": "ajlah"
+    },
+    {
+      "city_id": 508,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سعدة",
+      "name_en": "Sadah",
+      "slug": "sadah"
+    },
+    {
+      "city_id": 509,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جفن ضب",
+      "name_en": "Jafn Dabb",
+      "slug": "jafn-dabb"
+    },
+    {
+      "city_id": 510,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "دلقان",
+      "name_en": "Dalqan",
+      "slug": "dalqan"
+    },
+    {
+      "city_id": 511,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم السباع",
+      "name_en": "Umm As Siba",
+      "slug": "umm-as-siba"
+    },
+    {
+      "city_id": 512,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجله الأعلى",
+      "name_en": "Al Jilh Al Ala",
+      "slug": "al-jilh-al-ala"
+    },
+    {
+      "city_id": 513,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخفق الجنوبي",
+      "name_en": "Al Khafaq Al Janubi",
+      "slug": "al-khafaq-al-janubi"
+    },
+    {
+      "city_id": 514,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدحوة",
+      "name_en": "Ad Dihwah",
+      "slug": "ad-dihwah"
+    },
+    {
+      "city_id": 515,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخفق القديم",
+      "name_en": "Al Khafaq Al Qadim",
+      "slug": "al-khafaq-al-qadim"
+    },
+    {
+      "city_id": 516,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشرمية",
+      "name_en": "Ash Sharmiyah",
+      "slug": "ash-sharmiyah"
+    },
+    {
+      "city_id": 517,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مراغان",
+      "name_en": "Maraghan",
+      "slug": "maraghan-517"
+    },
+    {
+      "city_id": 518,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-518"
+    },
+    {
+      "city_id": 519,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجروية",
+      "name_en": "Al Jarwiyah",
+      "slug": "al-jarwiyah"
+    },
+    {
+      "city_id": 520,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العوشزية",
+      "name_en": "Al Awshaziyah",
+      "slug": "al-awshaziyah-520"
+    },
+    {
+      "city_id": 521,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو رجوم",
+      "name_en": "Abu Rijum",
+      "slug": "abu-rijum"
+    },
+    {
+      "city_id": 522,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القلتة",
+      "name_en": "Al Qaltah",
+      "slug": "al-qaltah"
+    },
+    {
+      "city_id": 523,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لعلع",
+      "name_en": "Lili",
+      "slug": "lili"
+    },
+    {
+      "city_id": 524,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغريري",
+      "name_en": "Al Ghurayri",
+      "slug": "al-ghurayri"
+    },
+    {
+      "city_id": 525,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخنقة",
+      "name_en": "Al Khunqah",
+      "slug": "al-khunqah"
+    },
+    {
+      "city_id": 526,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النسق القديم",
+      "name_en": "An Nasaq Al Qadim",
+      "slug": "an-nasaq-al-qadim"
+    },
+    {
+      "city_id": 527,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وثيلان",
+      "name_en": "Wuthaylan",
+      "slug": "wuthaylan-527"
+    },
+    {
+      "city_id": 528,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بيضاء نثيل",
+      "name_en": "Bayda Nthayl",
+      "slug": "bayda-nthayl"
+    },
+    {
+      "city_id": 529,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم الدباء",
+      "name_en": "Umm Ad Diba",
+      "slug": "umm-ad-diba"
+    },
+    {
+      "city_id": 530,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الأمار",
+      "name_en": "Al Amar",
+      "slug": "al-amar-530"
+    },
+    {
+      "city_id": 531,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عسيلان",
+      "name_en": "Usaylan",
+      "slug": "usaylan"
+    },
+    {
+      "city_id": 532,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السدرية",
+      "name_en": "As Sidriyah",
+      "slug": "as-sidriyah"
+    },
+    {
+      "city_id": 533,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم الشبرم",
+      "name_en": "Umm Ash Shubrum",
+      "slug": "umm-ash-shubrum"
+    },
+    {
+      "city_id": 534,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحجاجي",
+      "name_en": "Al Hijjaji",
+      "slug": "al-hijjaji"
+    },
+    {
+      "city_id": 535,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغبياء",
+      "name_en": "Al Ghubayya",
+      "slug": "al-ghubayya"
+    },
+    {
+      "city_id": 536,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-536"
+    },
+    {
+      "city_id": 537,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو حميض",
+      "name_en": "Abu Humayd",
+      "slug": "abu-humayd"
+    },
+    {
+      "city_id": 538,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النبيبيع",
+      "name_en": "An Nubaybi",
+      "slug": "an-nubaybi"
+    },
+    {
+      "city_id": 539,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النباع",
+      "name_en": "An Naba",
+      "slug": "an-naba"
+    },
+    {
+      "city_id": 540,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الملقى",
+      "name_en": "Al Malqa",
+      "slug": "al-malqa-540"
+    },
+    {
+      "city_id": 541,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حجيلاء",
+      "name_en": "Hujayla",
+      "slug": "hujayla"
+    },
+    {
+      "city_id": 542,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العبد",
+      "name_en": "Al Abd",
+      "slug": "al-abd"
+    },
+    {
+      "city_id": 543,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم الجثجاث",
+      "name_en": "Umm Al Jithjath",
+      "slug": "umm-al-jithjath"
+    },
+    {
+      "city_id": 544,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم جفر",
+      "name_en": "Umm Jafr",
+      "slug": "umm-jafr"
+    },
+    {
+      "city_id": 545,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخلفية",
+      "name_en": "Al Khalfiyah",
+      "slug": "al-khalfiyah"
+    },
+    {
+      "city_id": 574,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القصب",
+      "name_en": "Al Qasab",
+      "slug": "al-qasab-574"
+    },
+    {
+      "city_id": 575,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المشاش",
+      "name_en": "Al Mishash",
+      "slug": "al-mishash-575"
+    },
+    {
+      "city_id": 576,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصوح",
+      "name_en": "As Suh",
+      "slug": "as-suh"
+    },
+    {
+      "city_id": 577,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "اشيقر",
+      "name_en": "Ushayqir",
+      "slug": "ushayqir"
+    },
+    {
+      "city_id": 578,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام طليحة",
+      "name_en": "Umm Tulaihah",
+      "slug": "umm-tulaihah"
+    },
+    {
+      "city_id": 579,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الداهنة",
+      "name_en": "Ad Dahinah",
+      "slug": "ad-dahinah"
+    },
+    {
+      "city_id": 580,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحريق",
+      "name_en": "Al Hurayyiq",
+      "slug": "al-hurayyiq"
+    },
+    {
+      "city_id": 581,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجريفة",
+      "name_en": "Al Juraifah",
+      "slug": "al-juraifah"
+    },
+    {
+      "city_id": 582,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الوقف",
+      "name_en": "Al Waqf",
+      "slug": "al-waqf"
+    },
+    {
+      "city_id": 583,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العلوة",
+      "name_en": "Al Uluwah",
+      "slug": "al-uluwah"
+    },
+    {
+      "city_id": 584,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فرحة",
+      "name_en": "Farhah",
+      "slug": "farhah"
+    },
+    {
+      "city_id": 585,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عروى",
+      "name_en": "Arawa",
+      "slug": "arawa"
+    },
+    {
+      "city_id": 586,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فردة",
+      "name_en": "Fardah",
+      "slug": "fardah-586"
+    },
+    {
+      "city_id": 587,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مويسل",
+      "name_en": "Muwaysil",
+      "slug": "muwaysil"
+    },
+    {
+      "city_id": 588,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشاة",
+      "name_en": "Ash Shat",
+      "slug": "ash-shat"
+    },
+    {
+      "city_id": 589,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-589"
+    },
+    {
+      "city_id": 590,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرف",
+      "name_en": "Mushrif",
+      "slug": "mushrif-590"
+    },
+    {
+      "city_id": 591,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدائع سويقة",
+      "name_en": "Bidai Suwayqah",
+      "slug": "bidai-suwayqah"
+    },
+    {
+      "city_id": 592,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصلبية",
+      "name_en": "As Sulubiyah",
+      "slug": "as-sulubiyah-592"
+    },
+    {
+      "city_id": 593,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرفة",
+      "name_en": "Mishrifah",
+      "slug": "mishrifah-593"
+    },
+    {
+      "city_id": 594,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع الروضة",
+      "name_en": "Mazari Ar Rawdah",
+      "slug": "mazari-ar-rawdah"
+    },
+    {
+      "city_id": 595,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "هرمولة",
+      "name_en": "Hurmulah",
+      "slug": "hurmulah"
+    },
+    {
+      "city_id": 596,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السليسية",
+      "name_en": "As Silaysiyah",
+      "slug": "as-silaysiyah"
+    },
+    {
+      "city_id": 597,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدارة",
+      "name_en": "Ad Darah",
+      "slug": "ad-darah-597"
+    },
+    {
+      "city_id": 598,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مطربة",
+      "name_en": "Mutribah",
+      "slug": "mutribah-598"
+    },
+    {
+      "city_id": 599,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "رغلة",
+      "name_en": "Raghlah",
+      "slug": "raghlah"
+    },
+    {
+      "city_id": 600,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرفة",
+      "name_en": "Mushrifah",
+      "slug": "mushrifah-600"
+    },
+    {
+      "city_id": 601,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ضبة",
+      "name_en": "Dabbah",
+      "slug": "dabbah"
+    },
+    {
+      "city_id": 602,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العطاوي",
+      "name_en": "Al Atawi",
+      "slug": "al-atawi"
+    },
+    {
+      "city_id": 603,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفائر",
+      "name_en": "Al Hafair",
+      "slug": "al-hafair-603"
+    },
+    {
+      "city_id": 604,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع طينان",
+      "name_en": "Mazari Tinan",
+      "slug": "mazari-tinan"
+    },
+    {
+      "city_id": 605,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "منيفة",
+      "name_en": "Munifah",
+      "slug": "munifah-605"
+    },
+    {
+      "city_id": 606,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قويعان",
+      "name_en": "Quwayan",
+      "slug": "quwayan"
+    },
+    {
+      "city_id": 607,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحنابج",
+      "name_en": "Al Hanabij",
+      "slug": "al-hanabij"
+    },
+    {
+      "city_id": 608,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشفلحية",
+      "name_en": "Ash Shifallahiyah",
+      "slug": "ash-shifallahiyah"
+    },
+    {
+      "city_id": 609,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "روضة وثيلان",
+      "name_en": "Rawdat Wuthaylan",
+      "slug": "rawdat-wuthaylan"
+    },
+    {
+      "city_id": 610,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ابو ركب",
+      "name_en": "Abu Rukab",
+      "slug": "abu-rukab"
+    },
+    {
+      "city_id": 611,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخالدية",
+      "name_en": "Al Khalidiyah",
+      "slug": "al-khalidiyah-611"
+    },
+    {
+      "city_id": 612,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفنة",
+      "name_en": "Al Hifnah",
+      "slug": "al-hifnah-612"
+    },
+    {
+      "city_id": 613,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو عرينة",
+      "name_en": "Abu Uraynah",
+      "slug": "abu-uraynah"
+    },
+    {
+      "city_id": 614,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-614"
+    },
+    {
+      "city_id": 615,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بحار الجديد",
+      "name_en": "Bihar Al Jadid",
+      "slug": "bihar-al-jadid"
+    },
+    {
+      "city_id": 616,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-616"
+    },
+    {
+      "city_id": 617,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو عرينة",
+      "name_en": "Abu Urainah",
+      "slug": "abu-urainah"
+    },
+    {
+      "city_id": 618,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-618"
+    },
+    {
+      "city_id": 619,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفنة",
+      "name_en": "Al Hifnah",
+      "slug": "al-hifnah-619"
+    },
+    {
+      "city_id": 620,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدهاسية",
+      "name_en": "Ad Dahasiyah",
+      "slug": "ad-dahasiyah"
+    },
+    {
+      "city_id": 621,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المصلوم",
+      "name_en": "Al Maslum",
+      "slug": "al-maslum"
+    },
+    {
+      "city_id": 622,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سعدة",
+      "name_en": "Saadah",
+      "slug": "saadah"
+    },
+    {
+      "city_id": 623,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم رضمة",
+      "name_en": "Umm Rudmah",
+      "slug": "umm-rudmah-623"
+    },
+    {
+      "city_id": 624,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السنارية",
+      "name_en": "As Sinnariyah",
+      "slug": "as-sinnariyah"
+    },
+    {
+      "city_id": 625,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الديرية",
+      "name_en": "Ad Dirirah",
+      "slug": "ad-dirirah"
+    },
+    {
+      "city_id": 626,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المغزل",
+      "name_en": "Al Mighzal",
+      "slug": "al-mighzal"
+    },
+    {
+      "city_id": 627,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جوباح",
+      "name_en": "Jubah",
+      "slug": "jubah"
+    },
+    {
+      "city_id": 628,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرنة",
+      "name_en": "Al Qurnah",
+      "slug": "al-qurnah"
+    },
+    {
+      "city_id": 629,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وثيلان",
+      "name_en": "Wuthaylan",
+      "slug": "wuthaylan-629"
+    },
+    {
+      "city_id": 630,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عين الصوينع",
+      "name_en": "Ayn As Suwayni",
+      "slug": "ayn-as-suwayni"
+    },
+    {
+      "city_id": 631,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الأرطاوي",
+      "name_en": "Al Artawi",
+      "slug": "al-artawi"
+    },
+    {
+      "city_id": 632,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثندوة",
+      "name_en": "Ath Thiduwah",
+      "slug": "ath-thiduwah"
+    },
+    {
+      "city_id": 633,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو جلال",
+      "name_en": "Abu Jilal",
+      "slug": "abu-jilal"
+    },
+    {
+      "city_id": 634,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جنوب البرود",
+      "name_en": "Janub Al Burud",
+      "slug": "janub-al-burud"
+    },
+    {
+      "city_id": 635,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "غرب البرود",
+      "name_en": "Gharb Al Burud",
+      "slug": "gharb-al-burud"
+    },
+    {
+      "city_id": 636,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الريشية",
+      "name_en": "Ar Rishiyah",
+      "slug": "ar-rishiyah"
+    },
+    {
+      "city_id": 637,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبلة",
+      "name_en": "Ablah",
+      "slug": "ablah-637"
+    },
+    {
+      "city_id": 638,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزرعة البيضة",
+      "name_en": "Mazraat Al Bidah",
+      "slug": "mazraat-al-bidah"
+    },
+    {
+      "city_id": 639,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السليسية",
+      "name_en": "As Sulaysiyah",
+      "slug": "as-sulaysiyah-639"
+    },
+    {
+      "city_id": 640,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزرعة سليسان",
+      "name_en": "Mazraat Sulaysan",
+      "slug": "mazraat-sulaysan"
+    },
+    {
+      "city_id": 641,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العويجاء",
+      "name_en": "Al Uwayja",
+      "slug": "al-uwayja"
+    },
+    {
+      "city_id": 642,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العدوة",
+      "name_en": "Al Udwah",
+      "slug": "al-udwah"
+    },
+    {
+      "city_id": 643,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجديدة",
+      "name_en": "Al Jadidah",
+      "slug": "al-jadidah-643"
+    },
+    {
+      "city_id": 644,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدائع الهمجة",
+      "name_en": "Badai Al Hamjah",
+      "slug": "badai-al-hamjah"
+    },
+    {
+      "city_id": 645,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فيضة القوازين",
+      "name_en": "Faydat Al Quwazin",
+      "slug": "faydat-al-quwazin"
+    },
+    {
+      "city_id": 646,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع مصيقرة",
+      "name_en": "Mazari Musayqirat",
+      "slug": "mazari-musayqirat"
+    },
+    {
+      "city_id": 647,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيحاء",
+      "name_en": "Al Fayha",
+      "slug": "al-fayha-647"
+    },
+    {
+      "city_id": 648,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدسمة",
+      "name_en": "Ad Dasmah",
+      "slug": "ad-dasmah"
+    },
+    {
+      "city_id": 649,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "صفاقة",
+      "name_en": "Saffaqah",
+      "slug": "saffaqah"
+    },
+    {
+      "city_id": 650,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قبيعة",
+      "name_en": "Qubayah",
+      "slug": "qubayah"
+    },
+    {
+      "city_id": 651,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشبرمية",
+      "name_en": "Ash Shubrumiyah",
+      "slug": "ash-shubrumiyah"
+    },
+    {
+      "city_id": 652,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "كويكبة",
+      "name_en": "Kuwaykibah",
+      "slug": "kuwaykibah"
+    },
+    {
+      "city_id": 654,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم طليحة",
+      "name_en": "Umm Tulayhah",
+      "slug": "umm-tulayhah-654"
+    },
+    {
+      "city_id": 655,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرقيبة",
+      "name_en": "Ar Raqibah",
+      "slug": "ar-raqibah"
+    },
+    {
+      "city_id": 656,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدع الصعكي",
+      "name_en": "Bid As Siaki",
+      "slug": "bid-as-siaki"
+    },
+    {
+      "city_id": 657,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سلطانة",
+      "name_en": "Sultanah",
+      "slug": "sultanah"
+    },
+    {
+      "city_id": 658,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبلة",
+      "name_en": "Ablah",
+      "slug": "ablah-658"
+    },
+    {
+      "city_id": 659,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الملينية",
+      "name_en": "Al Milayyiniyah",
+      "slug": "al-milayyiniyah"
+    },
+    {
+      "city_id": 660,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البديعة",
+      "name_en": "Al Bidiah",
+      "slug": "al-bidiah"
+    },
+    {
+      "city_id": 661,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "روضة جهام",
+      "name_en": "Rawdat Jaham",
+      "slug": "rawdat-jaham"
+    },
+    {
+      "city_id": 662,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزارع الجديدة",
+      "name_en": "Mazari Al Jadidah",
+      "slug": "mazari-al-jadidah"
+    },
+    {
+      "city_id": 663,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "منيفة المغايرة",
+      "name_en": "Munifat Al Maghayirah",
+      "slug": "munifat-al-maghayirah"
+    },
+    {
+      "city_id": 664,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدرعية",
+      "name_en": "Ad Diriyah",
+      "slug": "ad-diriyah-664"
+    },
+    {
+      "city_id": 665,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرميحة",
+      "name_en": "Ar Rumayhah",
+      "slug": "ar-rumayhah"
+    },
+    {
+      "city_id": 666,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حسو الحيد",
+      "name_en": "Hasu Al Hayd",
+      "slug": "hasu-al-hayd"
+    },
+    {
+      "city_id": 667,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حديجة",
+      "name_en": "Hudayjah",
+      "slug": "hudayjah-667"
+    },
+    {
+      "city_id": 668,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدارة",
+      "name_en": "Ad Darah",
+      "slug": "ad-darah-668"
+    },
+    {
+      "city_id": 669,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدوادمي",
+      "name_en": "Ad Duwadimi",
+      "slug": "ad-duwadimi-669"
+    },
+    {
+      "city_id": 670,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدمثي",
+      "name_en": "Ad Damthi",
+      "slug": "ad-damthi"
+    },
+    {
+      "city_id": 671,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أوضاخ",
+      "name_en": "Udakh",
+      "slug": "udakh"
+    },
+    {
+      "city_id": 672,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "كبشان",
+      "name_en": "Kabshan",
+      "slug": "kabshan"
+    },
+    {
+      "city_id": 673,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حديجة",
+      "name_en": "Hudayjah",
+      "slug": "hudayjah-673"
+    },
+    {
+      "city_id": 674,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرارة",
+      "name_en": "Al Qararah",
+      "slug": "al-qararah-674"
+    },
+    {
+      "city_id": 675,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العوشزية",
+      "name_en": "Al Awshaziyah",
+      "slug": "al-awshaziyah-675"
+    },
+    {
+      "city_id": 676,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجمش",
+      "name_en": "Al Jimsh",
+      "slug": "al-jimsh"
+    },
+    {
+      "city_id": 677,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "نجخ",
+      "name_en": "Najkh",
+      "slug": "najkh"
+    },
+    {
+      "city_id": 678,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جريسة",
+      "name_en": "Juraysah",
+      "slug": "juraysah"
+    },
+    {
+      "city_id": 679,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام العثاكل",
+      "name_en": "Umm Al Athakil",
+      "slug": "umm-al-athakil"
+    },
+    {
+      "city_id": 680,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عرجاء",
+      "name_en": "Arja",
+      "slug": "arja-680"
+    },
+    {
+      "city_id": 681,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم سليم",
+      "name_en": "Umm Sulaym",
+      "slug": "umm-sulaym-681"
+    },
+    {
+      "city_id": 682,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ساجر",
+      "name_en": "Sajir",
+      "slug": "sajir"
+    },
+    {
+      "city_id": 683,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-683"
+    },
+    {
+      "city_id": 684,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "نفي",
+      "name_en": "Nifi",
+      "slug": "nifi"
+    },
+    {
+      "city_id": 685,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مصدة",
+      "name_en": "Musiddah",
+      "slug": "musiddah-685"
+    },
+    {
+      "city_id": 686,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخفيفية",
+      "name_en": "Al Khufayfiyah",
+      "slug": "al-khufayfiyah"
+    },
+    {
+      "city_id": 687,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عسيلة",
+      "name_en": "Usaylah",
+      "slug": "usaylah-687"
+    },
+    {
+      "city_id": 688,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أرطاوي الرقاص",
+      "name_en": "Artawi Ar Raqqas",
+      "slug": "artawi-ar-raqqas"
+    },
+    {
+      "city_id": 689,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عشيران",
+      "name_en": "Ushayran",
+      "slug": "ushayran-689"
+    },
+    {
+      "city_id": 690,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزرعة الخفيسة",
+      "name_en": "Mazraat Al Khufaysah",
+      "slug": "mazraat-al-khufaysah"
+    },
+    {
+      "city_id": 691,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عين القنور",
+      "name_en": "Ayn Al Qannur",
+      "slug": "ayn-al-qannur"
+    },
+    {
+      "city_id": 692,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "التسرير",
+      "name_en": "At Tasrir",
+      "slug": "at-tasrir"
+    },
+    {
+      "city_id": 693,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الاثلة",
+      "name_en": "Al Athlah",
+      "slug": "al-athlah-693"
+    },
+    {
+      "city_id": 694,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عريفيجان",
+      "name_en": "Urayfijan",
+      "slug": "urayfijan"
+    },
+    {
+      "city_id": 695,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السكران",
+      "name_en": "As Sakran",
+      "slug": "as-sakran"
+    },
+    {
+      "city_id": 696,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جفن",
+      "name_en": "Jifin",
+      "slug": "jifin"
+    },
+    {
+      "city_id": 697,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البرود",
+      "name_en": "Al Burud",
+      "slug": "al-burud-697"
+    },
+    {
+      "city_id": 698,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جفنا",
+      "name_en": "Jifana",
+      "slug": "jifana"
+    },
+    {
+      "city_id": 699,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصالحية",
+      "name_en": "As Salhiyah",
+      "slug": "as-salhiyah-699"
+    },
+    {
+      "city_id": 700,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العاذرية",
+      "name_en": "Al Adhiriyah",
+      "slug": "al-adhiriyah-700"
+    },
+    {
+      "city_id": 701,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البجادية",
+      "name_en": "Al Bijadiyah",
+      "slug": "al-bijadiyah"
+    },
+    {
+      "city_id": 702,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفائع",
+      "name_en": "Ar Rafai",
+      "slug": "ar-rafai-702"
+    },
+    {
+      "city_id": 703,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جهام ابو عشر",
+      "name_en": "Jaham Abu Ishar",
+      "slug": "jaham-abu-ishar"
+    },
+    {
+      "city_id": 704,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرفة",
+      "name_en": "Mushrifah",
+      "slug": "mushrifah-704"
+    },
+    {
+      "city_id": 705,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحزيمية",
+      "name_en": "Al Huzaymiyah",
+      "slug": "al-huzaymiyah"
+    },
+    {
+      "city_id": 706,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خف",
+      "name_en": "Khuff",
+      "slug": "khuff"
+    },
+    {
+      "city_id": 707,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المحمدية",
+      "name_en": "Al Muhammadiyah",
+      "slug": "al-muhammadiyah"
+    },
+    {
+      "city_id": 708,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-708"
+    },
+    {
+      "city_id": 709,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ماسل",
+      "name_en": "Masal",
+      "slug": "masal"
+    },
+    {
+      "city_id": 710,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-710"
+    },
+    {
+      "city_id": 711,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "منيفة",
+      "name_en": "Munifah",
+      "slug": "munifah-711"
+    },
+    {
+      "city_id": 712,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "رضوى",
+      "name_en": "Radwa",
+      "slug": "radwa"
+    },
+    {
+      "city_id": 713,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ارطاوي حليت",
+      "name_en": "Artawi Hillit",
+      "slug": "artawi-hillit"
+    },
+    {
+      "city_id": 714,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عواضة",
+      "name_en": "Awwadah",
+      "slug": "awwadah"
+    },
+    {
+      "city_id": 715,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "شرارة",
+      "name_en": "Shararah",
+      "slug": "shararah"
+    },
+    {
+      "city_id": 716,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazim",
+      "slug": "al-hazim-716"
+    },
+    {
+      "city_id": 717,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "صقرة",
+      "name_en": "Saqrah",
+      "slug": "saqrah"
+    },
+    {
+      "city_id": 718,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العقيشية",
+      "name_en": "Al Uqayshiyah",
+      "slug": "al-uqayshiyah"
+    },
+    {
+      "city_id": 719,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرين",
+      "name_en": "Al Qurayn",
+      "slug": "al-qurayn-719"
+    },
+    {
+      "city_id": 720,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عقلة الغويري",
+      "name_en": "Uqlat Al Uwayri",
+      "slug": "uqlat-al-uwayri"
+    },
+    {
+      "city_id": 721,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام زموع",
+      "name_en": "Umm Zumu",
+      "slug": "umm-zumu"
+    },
+    {
+      "city_id": 722,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عين البراحة",
+      "name_en": "Ayn Al Barahah",
+      "slug": "ayn-al-barahah"
+    },
+    {
+      "city_id": 723,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مغيراء",
+      "name_en": "Mughayra",
+      "slug": "mughayra-723"
+    },
+    {
+      "city_id": 724,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الضحوي",
+      "name_en": "Ad Dahawi",
+      "slug": "ad-dahawi"
+    },
+    {
+      "city_id": 725,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عسيلة",
+      "name_en": "Usaylah",
+      "slug": "usaylah-725"
+    },
+    {
+      "city_id": 726,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المغيب",
+      "name_en": "Al Maghib",
+      "slug": "al-maghib"
+    },
+    {
+      "city_id": 727,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فيضة المفص",
+      "name_en": "Faydat Al Mafass",
+      "slug": "faydat-al-mafass"
+    },
+    {
+      "city_id": 728,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عريدة",
+      "name_en": "Urayyidah",
+      "slug": "urayyidah"
+    },
+    {
+      "city_id": 729,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشعراء",
+      "name_en": "Ash Shaara",
+      "slug": "ash-shaara"
+    },
+    {
+      "city_id": 730,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العازمية",
+      "name_en": "Al Azimiyah",
+      "slug": "al-azimiyah"
+    },
+    {
+      "city_id": 731,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المحوي",
+      "name_en": "Al Mahawi",
+      "slug": "al-mahawi"
+    },
+    {
+      "city_id": 732,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المدرع",
+      "name_en": "Al Mudarri",
+      "slug": "al-mudarri"
+    },
+    {
+      "city_id": 733,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سرورة",
+      "name_en": "Sururah",
+      "slug": "sururah"
+    },
+    {
+      "city_id": 734,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عصماء",
+      "name_en": "Asma",
+      "slug": "asma"
+    },
+    {
+      "city_id": 735,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام طليحة",
+      "name_en": "Umm Tulayhah",
+      "slug": "umm-tulayhah-735"
+    },
+    {
+      "city_id": 736,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشرفة",
+      "name_en": "Mushrifah",
+      "slug": "mushrifah-736"
+    },
+    {
+      "city_id": 737,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مساوي",
+      "name_en": "Musawi",
+      "slug": "musawi"
+    },
+    {
+      "city_id": 738,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النقعة",
+      "name_en": "An Niqah",
+      "slug": "an-niqah"
+    },
+    {
+      "city_id": 739,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "افقرا",
+      "name_en": "Afqirah",
+      "slug": "afqirah"
+    },
+    {
+      "city_id": 740,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفاع",
+      "name_en": "Ar Rufa",
+      "slug": "ar-rufa-740"
+    },
+    {
+      "city_id": 741,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفقارة",
+      "name_en": "Al Fuqarah",
+      "slug": "al-fuqarah-741"
+    },
+    {
+      "city_id": 742,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الودي",
+      "name_en": "Al Wuday",
+      "slug": "al-wuday"
+    },
+    {
+      "city_id": 743,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rufiah",
+      "slug": "ar-rufiah"
+    },
+    {
+      "city_id": 744,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخبة",
+      "name_en": "Al Khubbah",
+      "slug": "al-khubbah"
+    },
+    {
+      "city_id": 745,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النبوان",
+      "name_en": "An Nabuwan",
+      "slug": "an-nabuwan-745"
+    },
+    {
+      "city_id": 746,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرديفة",
+      "name_en": "Ar Rudifah",
+      "slug": "ar-rudifah"
+    },
+    {
+      "city_id": 747,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرشاوية",
+      "name_en": "Ar Rishawiyah",
+      "slug": "ar-rishawiyah-747"
+    },
+    {
+      "city_id": 748,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مطربة",
+      "name_en": "Mutribah",
+      "slug": "mutribah-748"
+    },
+    {
+      "city_id": 749,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المستجدة",
+      "name_en": "Al Mustajiddah",
+      "slug": "al-mustajiddah-749"
+    },
+    {
+      "city_id": 750,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العامرية",
+      "name_en": "Al Amiriyah",
+      "slug": "al-amiriyah"
+    },
+    {
+      "city_id": 751,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-751"
+    },
+    {
+      "city_id": 752,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الظلماوي",
+      "name_en": "Adh Dhalmawi",
+      "slug": "adh-dhalmawi"
+    },
+    {
+      "city_id": 753,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "شبيرمة",
+      "name_en": "Shubayrimah",
+      "slug": "shubayrimah"
+    },
+    {
+      "city_id": 754,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عصام",
+      "name_en": "Isam",
+      "slug": "isam"
+    },
+    {
+      "city_id": 755,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عبادة",
+      "name_en": "Abbadah",
+      "slug": "abbadah"
+    },
+    {
+      "city_id": 756,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحيد",
+      "name_en": "Al Hayd",
+      "slug": "al-hayd"
+    },
+    {
+      "city_id": 757,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العبل",
+      "name_en": "Al Abal",
+      "slug": "al-abal"
+    },
+    {
+      "city_id": 758,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ارطاوي الحماميد",
+      "name_en": "Artawi Al Hamamid",
+      "slug": "artawi-al-hamamid"
+    },
+    {
+      "city_id": 759,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدائع ابن نجم",
+      "name_en": "Badai Ibn Najim",
+      "slug": "badai-ibn-najim"
+    },
+    {
+      "city_id": 793,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazm",
+      "slug": "al-hazm-793"
+    },
+    {
+      "city_id": 794,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الطوقي",
+      "name_en": "At Tawqi",
+      "slug": "at-tawqi"
+    },
+    {
+      "city_id": 795,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حريملاء",
+      "name_en": "Huraymila",
+      "slug": "huraymila"
+    },
+    {
+      "city_id": 796,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ملهم",
+      "name_en": "Malham",
+      "slug": "malham"
+    },
+    {
+      "city_id": 797,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سدوس",
+      "name_en": "Sudus",
+      "slug": "sudus"
+    },
+    {
+      "city_id": 798,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حزوى",
+      "name_en": "Hizwa",
+      "slug": "hizwa"
+    },
+    {
+      "city_id": 799,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "دقلة",
+      "name_en": "Diqalah",
+      "slug": "diqalah"
+    },
+    {
+      "city_id": 800,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حليفة",
+      "name_en": "Hulayfah",
+      "slug": "hulayfah"
+    },
+    {
+      "city_id": 801,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "صلبوخ",
+      "name_en": "Sulbukh",
+      "slug": "sulbukh"
+    },
+    {
+      "city_id": 802,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البرة",
+      "name_en": "Al Barrah",
+      "slug": "al-barrah-802"
+    },
+    {
+      "city_id": 803,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العويند",
+      "name_en": "Al Uwaynid",
+      "slug": "al-uwaynid"
+    },
+    {
+      "city_id": 804,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البويب",
+      "name_en": "Al Buwayb",
+      "slug": "al-buwayb"
+    },
+    {
+      "city_id": 806,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "إبن غنام",
+      "name_en": "Ibn Ghannam",
+      "slug": "ibn-ghannam-806"
+    },
+    {
+      "city_id": 807,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغنامية",
+      "name_en": "Al Ghanamiyah",
+      "slug": "al-ghanamiyah"
+    },
+    {
+      "city_id": 808,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العماج",
+      "name_en": "Al Ammaj",
+      "slug": "al-ammaj"
+    },
+    {
+      "city_id": 809,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "هيت",
+      "name_en": "Hit",
+      "slug": "hit"
+    },
+    {
+      "city_id": 810,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحائر",
+      "name_en": "Al Hair",
+      "slug": "al-hair-810"
+    },
+    {
+      "city_id": 811,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "كهف برمة",
+      "name_en": "Kahf Barmah",
+      "slug": "kahf-barmah"
+    },
+    {
+      "city_id": 812,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بنبان",
+      "name_en": "Banban",
+      "slug": "banban"
+    },
+    {
+      "city_id": 813,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثمامة",
+      "name_en": "Ath Thumamah",
+      "slug": "ath-thumamah"
+    },
+    {
+      "city_id": 814,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لبن",
+      "name_en": "Laban",
+      "slug": "laban"
+    },
+    {
+      "city_id": 815,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العريدية",
+      "name_en": "Al Uraydiyah",
+      "slug": "al-uraydiyah"
+    },
+    {
+      "city_id": 816,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العباسية",
+      "name_en": "Al Abbasiyah",
+      "slug": "al-abbasiyah-816"
+    },
+    {
+      "city_id": 817,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم رضمة",
+      "name_en": "Umm Radmah",
+      "slug": "umm-radmah"
+    },
+    {
+      "city_id": 818,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم سليم",
+      "name_en": "Umm Sulaym",
+      "slug": "umm-sulaym-818"
+    },
+    {
+      "city_id": 819,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ثرمداء",
+      "name_en": "Tharmada",
+      "slug": "tharmada"
+    },
+    {
+      "city_id": 820,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مرات",
+      "name_en": "Marat",
+      "slug": "marat"
+    },
+    {
+      "city_id": 821,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أثيثية",
+      "name_en": "Uthaythiyah",
+      "slug": "uthaythiyah"
+    },
+    {
+      "city_id": 822,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لبخة",
+      "name_en": "Labkhah",
+      "slug": "labkhah"
+    },
+    {
+      "city_id": 823,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "روضة الفرس",
+      "name_en": "Rawdat Al Faras",
+      "slug": "rawdat-al-faras"
+    },
+    {
+      "city_id": 824,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام طلحة",
+      "name_en": "Umm Talhah",
+      "slug": "umm-talhah-824"
+    },
+    {
+      "city_id": 825,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حويتة",
+      "name_en": "Huwaytah",
+      "slug": "huwaytah"
+    },
+    {
+      "city_id": 826,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الطويلة",
+      "name_en": "At Tawilah",
+      "slug": "at-tawilah"
+    },
+    {
+      "city_id": 827,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أوبير",
+      "name_en": "Ubayr",
+      "slug": "ubayr"
+    },
+    {
+      "city_id": 828,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدرعية",
+      "name_en": "Ad Diriyah",
+      "slug": "ad-diriyah-828"
+    },
+    {
+      "city_id": 829,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عرقة",
+      "name_en": "Irqah",
+      "slug": "irqah-829"
+    },
+    {
+      "city_id": 830,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العيينة",
+      "name_en": "Al Uyainah",
+      "slug": "al-uyainah"
+    },
+    {
+      "city_id": 831,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الوصيل",
+      "name_en": "Al Wusayl",
+      "slug": "al-wusayl"
+    },
+    {
+      "city_id": 832,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبا الكباش",
+      "name_en": "Aba Al Kibash",
+      "slug": "aba-al-kibash"
+    },
+    {
+      "city_id": 833,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجبيلة",
+      "name_en": "Al Jubaylah",
+      "slug": "al-jubaylah"
+    },
+    {
+      "city_id": 834,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العمارية",
+      "name_en": "Al Ammariyah",
+      "slug": "al-ammariyah"
+    },
+    {
+      "city_id": 835,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بوضة",
+      "name_en": "Bawdah",
+      "slug": "bawdah"
+    },
+    {
+      "city_id": 836,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العليا",
+      "name_en": "Al Ulayya",
+      "slug": "al-ulayya-836"
+    },
+    {
+      "city_id": 837,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قصر القرينة",
+      "name_en": "Qasr Al Quraynah",
+      "slug": "qasr-al-quraynah"
+    },
+    {
+      "city_id": 838,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قصر فيهق",
+      "name_en": "Qasr Fayhaq",
+      "slug": "qasr-fayhaq"
+    },
+    {
+      "city_id": 839,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ضرما",
+      "name_en": "Duruma",
+      "slug": "duruma"
+    },
+    {
+      "city_id": 840,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قصور المقبل",
+      "name_en": "Qusur Al Muqbil",
+      "slug": "qusur-al-muqbil"
+    },
+    {
+      "city_id": 841,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغطغط",
+      "name_en": "Al Ghutghut",
+      "slug": "al-ghutghut"
+    },
+    {
+      "city_id": 842,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قصر ابن شهيل",
+      "name_en": "Qasr Ibn Shuhayl",
+      "slug": "qasr-ibn-shuhayl"
+    },
+    {
+      "city_id": 843,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المغرفية",
+      "name_en": "Al Maghrafiyah",
+      "slug": "al-maghrafiyah"
+    },
+    {
+      "city_id": 844,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جو",
+      "name_en": "Jaww",
+      "slug": "jaww"
+    },
+    {
+      "city_id": 845,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغزيز",
+      "name_en": "Al Ghuzayz",
+      "slug": "al-ghuzayz"
+    },
+    {
+      "city_id": 846,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثمامي",
+      "name_en": "Ath Thumamy",
+      "slug": "ath-thumamy"
+    },
+    {
+      "city_id": 847,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وعلة",
+      "name_en": "Waalah",
+      "slug": "waalah"
+    },
+    {
+      "city_id": 848,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشامانية",
+      "name_en": "Ash Shamaniyah",
+      "slug": "ash-shamaniyah"
+    },
+    {
+      "city_id": 849,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القصورية",
+      "name_en": "Al Qusuriyah",
+      "slug": "al-qusuriyah"
+    },
+    {
+      "city_id": 850,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزلة",
+      "name_en": "Mazallah",
+      "slug": "mazallah"
+    },
+    {
+      "city_id": 851,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عصيلة",
+      "name_en": "Usaylah",
+      "slug": "usaylah-851"
+    },
+    {
+      "city_id": 852,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشواة",
+      "name_en": "Ash Shawah",
+      "slug": "ash-shawah"
+    },
+    {
+      "city_id": 853,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عليان",
+      "name_en": "Ilayyan",
+      "slug": "ilayyan"
+    },
+    {
+      "city_id": 854,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عيدان",
+      "name_en": "Idan",
+      "slug": "idan-854"
+    },
+    {
+      "city_id": 855,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سيح الدبول",
+      "name_en": "Sayh Ad Dubul",
+      "slug": "sayh-ad-dubul"
+    },
+    {
+      "city_id": 856,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهمجة",
+      "name_en": "Al Hamjah",
+      "slug": "al-hamjah-856"
+    },
+    {
+      "city_id": 857,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-857"
+    },
+    {
+      "city_id": 858,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الكدرة",
+      "name_en": "Al Kadrah",
+      "slug": "al-kadrah"
+    },
+    {
+      "city_id": 859,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-859"
+    },
+    {
+      "city_id": 860,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخيس",
+      "name_en": "Al Khis",
+      "slug": "al-khis-860"
+    },
+    {
+      "city_id": 861,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدويرة",
+      "name_en": "Ad Duwayrah",
+      "slug": "ad-duwayrah"
+    },
+    {
+      "city_id": 862,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبو مروة",
+      "name_en": "Abu Marwah",
+      "slug": "abu-marwah"
+    },
+    {
+      "city_id": 863,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سماح",
+      "name_en": "Samah",
+      "slug": "samah-863"
+    },
+    {
+      "city_id": 864,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرنة",
+      "name_en": "Al Qarnah",
+      "slug": "al-qarnah"
+    },
+    {
+      "city_id": 865,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "داحس",
+      "name_en": "Dahis",
+      "slug": "dahis"
+    },
+    {
+      "city_id": 866,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "دسمان",
+      "name_en": "Dasman",
+      "slug": "dasman"
+    },
+    {
+      "city_id": 867,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العويسية",
+      "name_en": "Al Uwaysiyah",
+      "slug": "al-uwaysiyah"
+    },
+    {
+      "city_id": 868,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العلياء",
+      "name_en": "Al Ulayya",
+      "slug": "al-ulayya-868"
+    },
+    {
+      "city_id": 869,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزرعة مزعلة",
+      "name_en": "Mazraat Mizilah",
+      "slug": "mazraat-mizilah"
+    },
+    {
+      "city_id": 870,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القوسة",
+      "name_en": "Al Qawsah",
+      "slug": "al-qawsah"
+    },
+    {
+      "city_id": 871,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الروغ",
+      "name_en": "Ar Rawgh",
+      "slug": "ar-rawgh"
+    },
+    {
+      "city_id": 872,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الوسيطاء",
+      "name_en": "Al Wusayta",
+      "slug": "al-wusayta-872"
+    },
+    {
+      "city_id": 873,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البعيثية",
+      "name_en": "Al Buaythiyah",
+      "slug": "al-buaythiyah"
+    },
+    {
+      "city_id": 874,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشتلانية",
+      "name_en": "Ash Shatlaniyah",
+      "slug": "ash-shatlaniyah"
+    },
+    {
+      "city_id": 875,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جدالة",
+      "name_en": "Jaddalah",
+      "slug": "jaddalah"
+    },
+    {
+      "city_id": 876,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قفرة",
+      "name_en": "Qafarah",
+      "slug": "qafarah"
+    },
+    {
+      "city_id": 877,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أجزالا",
+      "name_en": "Ajzala",
+      "slug": "ajzala"
+    },
+    {
+      "city_id": 878,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجفارة",
+      "name_en": "Al Jafarah",
+      "slug": "al-jafarah"
+    },
+    {
+      "city_id": 879,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "غودة",
+      "name_en": "Ghawdah",
+      "slug": "ghawdah"
+    },
+    {
+      "city_id": 880,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القويعية",
+      "name_en": "Quwayiyah",
+      "slug": "quwayiyah"
+    },
+    {
+      "city_id": 881,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حلبان",
+      "name_en": "Halaban",
+      "slug": "halaban"
+    },
+    {
+      "city_id": 882,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سنام",
+      "name_en": "Sanam",
+      "slug": "sanam"
+    },
+    {
+      "city_id": 883,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرجع",
+      "name_en": "Ar Raj",
+      "slug": "ar-raj-883"
+    },
+    {
+      "city_id": 884,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "طحي",
+      "name_en": "Tuhayy",
+      "slug": "tuhayy"
+    },
+    {
+      "city_id": 885,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرويضة",
+      "name_en": "Ar Ruwaydah",
+      "slug": "ar-ruwaydah-885"
+    },
+    {
+      "city_id": 886,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخنيقية",
+      "name_en": "Al Khunayqiyah",
+      "slug": "al-khunayqiyah"
+    },
+    {
+      "city_id": 887,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الناصفة",
+      "name_en": "An Nasifah",
+      "slug": "an-nasifah-887"
+    },
+    {
+      "city_id": 888,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المثناة",
+      "name_en": "Al Mathnah",
+      "slug": "al-mathnah-888"
+    },
+    {
+      "city_id": 889,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجله",
+      "name_en": "Al Jilh",
+      "slug": "al-jilh"
+    },
+    {
+      "city_id": 890,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الربواء",
+      "name_en": "Ar Rabwa",
+      "slug": "ar-rabwa"
+    },
+    {
+      "city_id": 891,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "لجعة",
+      "name_en": "Lajah",
+      "slug": "lajah"
+    },
+    {
+      "city_id": 892,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "نخيلان",
+      "name_en": "Nukhaylan",
+      "slug": "nukhaylan"
+    },
+    {
+      "city_id": 893,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عنان",
+      "name_en": "Inan",
+      "slug": "inan"
+    },
+    {
+      "city_id": 894,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البدع",
+      "name_en": "Al Bad",
+      "slug": "al-bad-894"
+    },
+    {
+      "city_id": 895,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "صبحاء",
+      "name_en": "Sabha",
+      "slug": "sabha-895"
+    },
+    {
+      "city_id": 956,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم سريحة",
+      "name_en": "Umm Surayhah",
+      "slug": "umm-surayhah"
+    },
+    {
+      "city_id": 957,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخروعية",
+      "name_en": "Al Kharwaiyah",
+      "slug": "al-kharwaiyah"
+    },
+    {
+      "city_id": 958,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المجذمية",
+      "name_en": "Al Majdhamiyah",
+      "slug": "al-majdhamiyah"
+    },
+    {
+      "city_id": 959,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحفيرة / حصاة قحطان",
+      "name_en": "Al Hufayyirah / Hasat Qahtan",
+      "slug": "al-hufayyirah-hasat-qahtan"
+    },
+    {
+      "city_id": 960,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحرملية",
+      "name_en": "Al Harmaliyah",
+      "slug": "al-harmaliyah-960"
+    },
+    {
+      "city_id": 961,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خبراء الثوير",
+      "name_en": "Khabra Ath Thawir",
+      "slug": "khabra-ath-thawir"
+    },
+    {
+      "city_id": 962,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرين",
+      "name_en": "Ar Rayn",
+      "slug": "ar-rayn"
+    },
+    {
+      "city_id": 963,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "محيرقة",
+      "name_en": "Muhairiqah",
+      "slug": "muhairiqah"
+    },
+    {
+      "city_id": 964,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مرقان",
+      "name_en": "Marqan",
+      "slug": "marqan"
+    },
+    {
+      "city_id": 965,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام نخيلة",
+      "name_en": "Umm Nakhilah",
+      "slug": "umm-nakhilah"
+    },
+    {
+      "city_id": 966,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ام الدبي",
+      "name_en": "Umm Ad Dibay",
+      "slug": "umm-ad-dibay"
+    },
+    {
+      "city_id": 967,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خبراء حلوة",
+      "name_en": "Khabra Halwah",
+      "slug": "khabra-halwah"
+    },
+    {
+      "city_id": 968,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حجيلا",
+      "name_en": "Hujaila",
+      "slug": "hujaila"
+    },
+    {
+      "city_id": 969,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفويلق",
+      "name_en": "Al Fuwayliq",
+      "slug": "al-fuwayliq-969"
+    },
+    {
+      "city_id": 970,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القويع",
+      "name_en": "Al Quway",
+      "slug": "al-quway"
+    },
+    {
+      "city_id": 971,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مزعل",
+      "name_en": "Mizil",
+      "slug": "mizil"
+    },
+    {
+      "city_id": 972,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بدائع المشاعلة",
+      "name_en": "Badai Al Mashailah",
+      "slug": "badai-al-mashailah"
+    },
+    {
+      "city_id": 973,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خبراء فاران",
+      "name_en": "Khabra Faran",
+      "slug": "khabra-faran"
+    },
+    {
+      "city_id": 974,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خبيب الريم",
+      "name_en": "Khubayb Ar Rim",
+      "slug": "khubayb-ar-rim"
+    },
+    {
+      "city_id": 975,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القرارة",
+      "name_en": "Al Qararah",
+      "slug": "al-qararah-975"
+    },
+    {
+      "city_id": 976,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم طليح",
+      "name_en": "Umm Tulayh",
+      "slug": "umm-tulayh"
+    },
+    {
+      "city_id": 977,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المانعية",
+      "name_en": "Al Maniiyah",
+      "slug": "al-maniiyah"
+    },
+    {
+      "city_id": 978,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجديدة",
+      "name_en": "Al Jadidah",
+      "slug": "al-jadidah-978"
+    },
+    {
+      "city_id": 979,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العدوة",
+      "name_en": "Al Idwah",
+      "slug": "al-idwah-979"
+    },
+    {
+      "city_id": 980,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الذيبية",
+      "name_en": "Adh Dhibiyah",
+      "slug": "adh-dhibiyah-980"
+    },
+    {
+      "city_id": 981,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصدر",
+      "name_en": "As Sadr",
+      "slug": "as-sadr-981"
+    },
+    {
+      "city_id": 982,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أبرقية",
+      "name_en": "Abraqiyah",
+      "slug": "abraqiyah-982"
+    },
+    {
+      "city_id": 983,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حجرفة",
+      "name_en": "Hajrufah",
+      "slug": "hajrufah"
+    },
+    {
+      "city_id": 984,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "معانيق",
+      "name_en": "Maaniq",
+      "slug": "maaniq"
+    },
+    {
+      "city_id": 985,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصيهد",
+      "name_en": "As Sayhad",
+      "slug": "as-sayhad"
+    },
+    {
+      "city_id": 986,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "اللغفة",
+      "name_en": "Al Laghfah",
+      "slug": "al-laghfah"
+    },
+    {
+      "city_id": 987,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخفق الجديد",
+      "name_en": "Al Khafaq Al Jadid",
+      "slug": "al-khafaq-al-jadid"
+    },
+    {
+      "city_id": 988,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ظلماء",
+      "name_en": "Dhalma",
+      "slug": "dhalma-988"
+    },
+    {
+      "city_id": 989,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخلائق الشرقية",
+      "name_en": "Al Khalaiq Ash Sharqiyah",
+      "slug": "al-khalaiq-ash-sharqiyah"
+    },
+    {
+      "city_id": 990,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المزاحمية",
+      "name_en": "Al Muzahimiyah",
+      "slug": "al-muzahimiyah"
+    },
+    {
+      "city_id": 991,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "تبراك",
+      "name_en": "Tibrak",
+      "slug": "tibrak"
+    },
+    {
+      "city_id": 992,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-992"
+    },
+    {
+      "city_id": 993,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الاوسط",
+      "name_en": "Al Awsat",
+      "slug": "al-awsat"
+    },
+    {
+      "city_id": 994,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحويرة",
+      "name_en": "Al Huwayrrah",
+      "slug": "al-huwayrrah"
+    },
+    {
+      "city_id": 995,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خشم معضد",
+      "name_en": "Khashm Midad",
+      "slug": "khashm-midad"
+    },
+    {
+      "city_id": 996,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البخرا",
+      "name_en": "Al Bakhra",
+      "slug": "al-bakhra"
+    },
+    {
+      "city_id": 997,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "اللغفية",
+      "name_en": "Al Lughfiyah",
+      "slug": "al-lughfiyah"
+    },
+    {
+      "city_id": 998,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المسبر",
+      "name_en": "Al Masbar",
+      "slug": "al-masbar"
+    },
+    {
+      "city_id": 999,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النظيم",
+      "name_en": "An Nadhim",
+      "slug": "an-nadhim-999"
+    },
+    {
+      "city_id": 1000,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حفرة نساح",
+      "name_en": "Hafirat Nisah",
+      "slug": "hafirat-nisah"
+    },
+    {
+      "city_id": 1001,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عجاج",
+      "name_en": "Ajaj",
+      "slug": "ajaj"
+    },
+    {
+      "city_id": 1002,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المشاعلة",
+      "name_en": "Al Mashailah",
+      "slug": "al-mashailah"
+    },
+    {
+      "city_id": 1003,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "قنيفذة",
+      "name_en": "Qunayfidhah",
+      "slug": "qunayfidhah"
+    },
+    {
+      "city_id": 1004,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "عفرية",
+      "name_en": "Ifriyah",
+      "slug": "ifriyah"
+    },
+    {
+      "city_id": 1005,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخلائق الغربية",
+      "name_en": "Al Khalaiq Al Gharbiyah",
+      "slug": "al-khalaiq-al-gharbiyah"
+    },
+    {
+      "city_id": 1006,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الجفير",
+      "name_en": "Al Jufayr",
+      "slug": "al-jufayr"
+    },
+    {
+      "city_id": 1058,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-1058"
+    },
+    {
+      "city_id": 1059,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خفس دغرة",
+      "name_en": "Khafs Daghrah",
+      "slug": "khafs-daghrah"
+    },
+    {
+      "city_id": 1060,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البياض",
+      "name_en": "Al Biyad",
+      "slug": "al-biyad"
+    },
+    {
+      "city_id": 1061,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخرج",
+      "name_en": "Al Kharj",
+      "slug": "al-kharj"
+    },
+    {
+      "city_id": 1062,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "اليمامة",
+      "name_en": "Al Yamamah",
+      "slug": "al-yamamah"
+    },
+    {
+      "city_id": 1063,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفاع",
+      "name_en": "Ar Rufa",
+      "slug": "ar-rufa-1063"
+    },
+    {
+      "city_id": 1064,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البرة",
+      "name_en": "Al Barrah",
+      "slug": "al-barrah-1064"
+    },
+    {
+      "city_id": 1065,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "فرزان",
+      "name_en": "Farzan",
+      "slug": "farzan-1065"
+    },
+    {
+      "city_id": 1066,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفيعه",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-1066"
+    },
+    {
+      "city_id": 1067,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرفائع",
+      "name_en": "Ar Rufai",
+      "slug": "ar-rufai-1067"
+    },
+    {
+      "city_id": 1068,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "العذار",
+      "name_en": "Al Adhar",
+      "slug": "al-adhar"
+    },
+    {
+      "city_id": 1069,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "زميقة",
+      "name_en": "Zumayqah",
+      "slug": "zumayqah"
+    },
+    {
+      "city_id": 1070,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazim",
+      "slug": "al-hazim-1070"
+    },
+    {
+      "city_id": 1071,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهياثم",
+      "name_en": "Al Hayathim",
+      "slug": "al-hayathim"
+    },
+    {
+      "city_id": 1072,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البدع القديم",
+      "name_en": "Al Bada Al Qadim",
+      "slug": "al-bada-al-qadim"
+    },
+    {
+      "city_id": 1073,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدلم",
+      "name_en": "Ad Dilam",
+      "slug": "ad-dilam"
+    },
+    {
+      "city_id": 1074,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الضبعية",
+      "name_en": "Ad Dubayah",
+      "slug": "ad-dubayah"
+    },
+    {
+      "city_id": 1075,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "نعجان",
+      "name_en": "Najan",
+      "slug": "najan"
+    },
+    {
+      "city_id": 1076,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حي القطار",
+      "name_en": "Hai Al Qitar",
+      "slug": "hai-al-qitar"
+    },
+    {
+      "city_id": 1077,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الناصفة",
+      "name_en": "An Nasifah",
+      "slug": "an-nasifah-1077"
+    },
+    {
+      "city_id": 1078,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السلمية",
+      "name_en": "As Silimiyah",
+      "slug": "as-silimiyah"
+    },
+    {
+      "city_id": 1079,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البدع",
+      "name_en": "Al Bada",
+      "slug": "al-bada"
+    },
+    {
+      "city_id": 1080,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السهباء",
+      "name_en": "As Sahba",
+      "slug": "as-sahba"
+    },
+    {
+      "city_id": 1081,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الثليما",
+      "name_en": "Ath Thalima",
+      "slug": "ath-thalima"
+    },
+    {
+      "city_id": 1082,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "التوضيحية",
+      "name_en": "At Tawdihiyyah",
+      "slug": "at-tawdihiyyah"
+    },
+    {
+      "city_id": 1083,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المحطة",
+      "name_en": "Al Mahattah",
+      "slug": "al-mahattah-1083"
+    },
+    {
+      "city_id": 1084,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الرغيب",
+      "name_en": "Ar Rughayb",
+      "slug": "ar-rughayb"
+    },
+    {
+      "city_id": 1085,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المحمدي",
+      "name_en": "Al Muhammadi",
+      "slug": "al-muhammadi"
+    },
+    {
+      "city_id": 1086,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الصحنة",
+      "name_en": "As Sahanah",
+      "slug": "as-sahanah"
+    },
+    {
+      "city_id": 1347,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "جرير",
+      "name_en": "Jarir",
+      "slug": "jarir"
+    },
+    {
+      "city_id": 1348,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفائزية",
+      "name_en": "Al Faiziyah",
+      "slug": "al-faiziyah"
+    },
+    {
+      "city_id": 1349,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المصارير",
+      "name_en": "Al Masarir",
+      "slug": "al-masarir"
+    },
+    {
+      "city_id": 1350,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النويعمة",
+      "name_en": "An Nuwaymah",
+      "slug": "an-nuwaymah"
+    },
+    {
+      "city_id": 1351,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وادي الدواسر",
+      "name_en": "Wadi Ad Dawasir",
+      "slug": "wadi-ad-dawasir"
+    },
+    {
+      "city_id": 1352,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ابرق النعام",
+      "name_en": "Abraq An Na Am",
+      "slug": "abraq-an-na-am"
+    },
+    {
+      "city_id": 1353,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "كمدة",
+      "name_en": "Kamdah",
+      "slug": "kamdah"
+    },
+    {
+      "city_id": 1354,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفاو",
+      "name_en": "Al Faw",
+      "slug": "al-faw"
+    },
+    {
+      "city_id": 1355,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حرجة الزفر",
+      "name_en": "Hirjat Az Zufur",
+      "slug": "hirjat-az-zufur"
+    },
+    {
+      "city_id": 1356,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حجلة السواد",
+      "name_en": "Hajlat As Suwad",
+      "slug": "hajlat-as-suwad"
+    },
+    {
+      "city_id": 1357,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الكواكب",
+      "name_en": "Al Kawakib",
+      "slug": "al-kawakib"
+    },
+    {
+      "city_id": 1358,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الدلعبي",
+      "name_en": "Ad Dhalaaby",
+      "slug": "ad-dhalaaby"
+    },
+    {
+      "city_id": 1359,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "بني لبيب",
+      "name_en": "Bani Labib",
+      "slug": "bani-labib"
+    },
+    {
+      "city_id": 1360,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خشم البازوم",
+      "name_en": "Khashm Al Bazum",
+      "slug": "khashm-al-bazum"
+    },
+    {
+      "city_id": 1361,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "السليل",
+      "name_en": "As Sulayyil",
+      "slug": "as-sulayyil-1361"
+    },
+    {
+      "city_id": 1362,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "خيران",
+      "name_en": "Khayran",
+      "slug": "khayran"
+    },
+    {
+      "city_id": 1363,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "تمرة",
+      "name_en": "Tamrah",
+      "slug": "tamrah"
+    },
+    {
+      "city_id": 1364,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حمام",
+      "name_en": "Himam",
+      "slug": "himam"
+    },
+    {
+      "city_id": 1365,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ريدا",
+      "name_en": "Rayda",
+      "slug": "rayda"
+    },
+    {
+      "city_id": 3158,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحريق",
+      "name_en": "Al Hariq",
+      "slug": "al-hariq"
+    },
+    {
+      "city_id": 3159,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "نعام",
+      "name_en": "An Naam",
+      "slug": "an-naam"
+    },
+    {
+      "city_id": 3160,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حوطة الحلوة",
+      "name_en": "Hutat Al Hilwah",
+      "slug": "hutat-al-hilwah"
+    },
+    {
+      "city_id": 3161,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حوطة بني تميم",
+      "name_en": "Hawtat Bani Tamim",
+      "slug": "hawtat-bani-tamim"
+    },
+    {
+      "city_id": 3162,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "اسفل الباطن",
+      "name_en": "Asfal Al Batin",
+      "slug": "asfal-al-batin"
+    },
+    {
+      "city_id": 3163,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-3163"
+    },
+    {
+      "city_id": 3164,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المثعب",
+      "name_en": "Al Mithab",
+      "slug": "al-mithab"
+    },
+    {
+      "city_id": 3165,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحلوة",
+      "name_en": "Al Hilwah",
+      "slug": "al-hilwah-3165"
+    },
+    {
+      "city_id": 3166,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحيطان",
+      "name_en": "Al Haytan",
+      "slug": "al-haytan"
+    },
+    {
+      "city_id": 3167,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "وادي البرك",
+      "name_en": "Wadi Al Bark",
+      "slug": "wadi-al-bark"
+    },
+    {
+      "city_id": 3168,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الشكرة",
+      "name_en": "Ash Shukrah",
+      "slug": "ash-shukrah"
+    },
+    {
+      "city_id": 3169,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الفيصلية",
+      "name_en": "Al Faysaliyah",
+      "slug": "al-faysaliyah-3169"
+    },
+    {
+      "city_id": 3170,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "النايفية",
+      "name_en": "An Naifiyah",
+      "slug": "an-naifiyah"
+    },
+    {
+      "city_id": 3171,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "القطين",
+      "name_en": "Al Qatin",
+      "slug": "al-qatin"
+    },
+    {
+      "city_id": 3172,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الخرفة",
+      "name_en": "Al Kharfah",
+      "slug": "al-kharfah"
+    },
+    {
+      "city_id": 3173,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-3173"
+    },
+    {
+      "city_id": 3174,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ليلى",
+      "name_en": "Layla",
+      "slug": "layla"
+    },
+    {
+      "city_id": 3175,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "سويدانا",
+      "name_en": "Swidana",
+      "slug": "swidana"
+    },
+    {
+      "city_id": 3176,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مروان",
+      "name_en": "Marwan",
+      "slug": "marwan-3176"
+    },
+    {
+      "city_id": 3177,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "واسط",
+      "name_en": "Wasit",
+      "slug": "wasit-3177"
+    },
+    {
+      "city_id": 3178,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الحمر",
+      "name_en": "Al Hamr",
+      "slug": "al-hamr"
+    },
+    {
+      "city_id": 3179,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البديع الجنوبى",
+      "name_en": "Al Badi Al Janubi",
+      "slug": "al-badi-al-janubi"
+    },
+    {
+      "city_id": 3180,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البديع الشمالي",
+      "name_en": "Al Badi Ash Shamali",
+      "slug": "al-badi-ash-shamali"
+    },
+    {
+      "city_id": 3181,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الهدار",
+      "name_en": "Al Haddar",
+      "slug": "al-haddar"
+    },
+    {
+      "city_id": 3182,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ساقي الناهض",
+      "name_en": "Saqi An Nahid",
+      "slug": "saqi-an-nahid"
+    },
+    {
+      "city_id": 3183,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "الغيل",
+      "name_en": "Al Ghayl",
+      "slug": "al-ghayl-3183"
+    },
+    {
+      "city_id": 3184,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "ستارة",
+      "name_en": "Sitarah",
+      "slug": "sitarah"
+    },
+    {
+      "city_id": 3185,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "حراضة",
+      "name_en": "Haradah",
+      "slug": "haradah"
+    },
+    {
+      "city_id": 3672,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "البرزة",
+      "name_en": "Al Barzah",
+      "slug": "al-barzah-3672"
+    },
+    {
+      "city_id": 3673,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "أم سدرة",
+      "name_en": "Umm Sidrah",
+      "slug": "umm-sidrah"
+    },
+    {
+      "city_id": 3674,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "مشذوبة",
+      "name_en": "Mashdhubah",
+      "slug": "mashdhubah"
+    },
+    {
+      "city_id": 3675,
+      "region_id": 6,
+      "region_ar": "الرياض",
+      "region_en": "Ar Riyadh",
+      "region_slug": "ar-riyadh",
+      "name_ar": "المفيجر",
+      "name_en": "Al Mufaijir",
+      "slug": "al-mufaijir"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة الرياض (Cities of Ar Riyadh) - تحميل مجاني",
+    "description": "قائمة مدن منطقة الرياض (Ar Riyadh) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Ar Riyadh administrative region of Saudi Arabia (region_id=6). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 626 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة الرياض (Cities of Ar Riyadh) | ListBase",
+    "seo_description": "تحميل مدن منطقة الرياض (Cities of Ar Riyadh) — 626 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 626 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

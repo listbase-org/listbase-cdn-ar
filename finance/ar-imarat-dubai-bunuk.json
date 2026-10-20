@@ -1,0 +1,1689 @@
+{
+  "id": "ar-imarat-dubai-bunuk",
+  "name": "بنوك Dubai — الإمارات العربية المتحدة — رموز سويفت (Banks of Dubai, United Arab Emirates — SWIFT/BIC codes)",
+  "title": "بنوك Dubai — الإمارات العربية المتحدة — رموز سويفت (Banks of Dubai, United Arab Emirates — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Dubai (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 234 سجلًا. List of banks, financial institutions and their branches in Dubai, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 234 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 234,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ABN AMRO BANK N.V. UNITED ARAB EMIRATES BRANCH",
+      "city": "DUBAI",
+      "branch": "(INTERNATIONAL PRIVATE CLIENTS DEPARTMENT)",
+      "swift_code": "ABNAAEAAIPC"
+    },
+    {
+      "id": 2,
+      "bank": "ABN AMRO BANK N.V. UNITED ARAB EMIRATES BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABNAAEAA"
+    },
+    {
+      "id": 3,
+      "bank": "ABRAAJ CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABPPAEA1"
+    },
+    {
+      "id": 4,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "DUBAI",
+      "branch": "(DUBAI TRADE FINANCE)",
+      "swift_code": "ADCBAEAA060"
+    },
+    {
+      "id": 5,
+      "bank": "AGRICULTURAL BANK OF CHINA (DIFC BRANCH)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABOCAEAD"
+    },
+    {
+      "id": 6,
+      "bank": "AGRICULTURAL BANK OF CHINA(DUBAI BRANCH)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABOCAEAA"
+    },
+    {
+      "id": 7,
+      "bank": "AHLI UNITED BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AUBBAEAD"
+    },
+    {
+      "id": 8,
+      "bank": "AL AHLI BANK OF KUWAIT K.S.C.P, DUBAI BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABKKAEAD"
+    },
+    {
+      "id": 9,
+      "bank": "AL DAHAB EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DMTIAEAA"
+    },
+    {
+      "id": 10,
+      "bank": "AL FUTTAIM HC SECURITIES COMPANY LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FSCLAEA1"
+    },
+    {
+      "id": 11,
+      "bank": "AL GHURAIR INTERNATIONAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ALGHAEAD"
+    },
+    {
+      "id": 12,
+      "bank": "AL JARWAN EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "JAEXAEAD"
+    },
+    {
+      "id": 13,
+      "bank": "AL KHALIJI FRANCE S.A.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "LICOAEAD"
+    },
+    {
+      "id": 14,
+      "bank": "AL MAL CAPITAL PSC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AMCXAEAA"
+    },
+    {
+      "id": 15,
+      "bank": "AL MAL SECURITIES EMIRATES LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AMSUAEA1"
+    },
+    {
+      "id": 16,
+      "bank": "AL NAHDI EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NAHDAEA1"
+    },
+    {
+      "id": 17,
+      "bank": "AL RASHEED EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "RDEXAEA1"
+    },
+    {
+      "id": 18,
+      "bank": "AL ROSTAMANI INTERNATIONAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "TCARAEAD"
+    },
+    {
+      "id": 19,
+      "bank": "AL SAFWA MUBASHER FINANCIAL SERVICES PRIVATE JOINT STOCK COMPANY",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DBFSAEAA"
+    },
+    {
+      "id": 20,
+      "bank": "ALFA EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ALEHAEAD"
+    },
+    {
+      "id": 21,
+      "bank": "ALFUAD EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ALFXAEAD"
+    },
+    {
+      "id": 22,
+      "bank": "APEX FUND SERVICES (DUBAI) LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "APFSAEA1"
+    },
+    {
+      "id": 23,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARAIAEAD"
+    },
+    {
+      "id": 24,
+      "bank": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "ABINAEAADXB"
+    },
+    {
+      "id": 25,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "(CENTRAL TRANSFERS UNIT)",
+      "swift_code": "ARABAEADCTU"
+    },
+    {
+      "id": 26,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "(DEIRA BRANCH)",
+      "swift_code": "ARABAEADDER"
+    },
+    {
+      "id": 27,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "ARABAEADMAK"
+    },
+    {
+      "id": 28,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "(FOREIGN TRADE CENTER)",
+      "swift_code": "ARABAEADFTC"
+    },
+    {
+      "id": 29,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "(PAYMENTS INVESTIGATIONS)",
+      "swift_code": "ARABAEADINV"
+    },
+    {
+      "id": 30,
+      "bank": "ARAB BANK PLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARABAEAD"
+    },
+    {
+      "id": 31,
+      "bank": "ARAMEX PJSC FINANCIAL DEPARTMENT",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARMPAEAD"
+    },
+    {
+      "id": 32,
+      "bank": "ARQAAM CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARQMAEAD"
+    },
+    {
+      "id": 33,
+      "bank": "ARQAAM SECURITIES LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARQSAEA1"
+    },
+    {
+      "id": 34,
+      "bank": "ASIA PACIFIC BANKING GROUP MIDDLE E",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "APGTAEA1"
+    },
+    {
+      "id": 35,
+      "bank": "ASIA PACIFIC FINANCIALS SERVICES MIDDLE EAST LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "APFRAEA1"
+    },
+    {
+      "id": 36,
+      "bank": "AUDI VOLKSWAGEN MIDDLE EAST",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AVMEAEA1"
+    },
+    {
+      "id": 37,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UTIBAEA1"
+    },
+    {
+      "id": 38,
+      "bank": "AXIS BANK LIMITED, DIFC BRANCH (REGULATED BY DFSA)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AXISAEAD"
+    },
+    {
+      "id": 39,
+      "bank": "AZIZ EXCHANGE CO LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AZIZAEAD"
+    },
+    {
+      "id": 40,
+      "bank": "BANK ALFALAH LIMITED (DUBAI BRANCH)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ALFHAEAD"
+    },
+    {
+      "id": 41,
+      "bank": "BANK MELLI IRAN",
+      "city": "DUBAI",
+      "branch": "(BUR DUBAI BRANCH)",
+      "swift_code": "MELIAEADBR2"
+    },
+    {
+      "id": 42,
+      "bank": "BANK MELLI IRAN",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MELIAEAD"
+    },
+    {
+      "id": 43,
+      "bank": "BANK OF BARODA",
+      "city": "DUBAI",
+      "branch": "(DEIRA BRANCH)",
+      "swift_code": "BARBAEADDEI"
+    },
+    {
+      "id": 44,
+      "bank": "BANK OF BARODA",
+      "city": "DUBAI",
+      "branch": "(DUBAI INTERNATIONAL FINANCIAL CENTRE (DIFC OBU))",
+      "swift_code": "BARBAEADIFC"
+    },
+    {
+      "id": 45,
+      "bank": "BANK OF BARODA",
+      "city": "DUBAI",
+      "branch": "(DUBAI MAIN OFFICE)",
+      "swift_code": "BARBAEADDUB"
+    },
+    {
+      "id": 46,
+      "bank": "BANK OF BARODA",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BARBAEAD"
+    },
+    {
+      "id": 47,
+      "bank": "BANK OF CHINA (DUBAI) BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BKCHAEAD"
+    },
+    {
+      "id": 48,
+      "bank": "BANK OF INDIA",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BKIDAEAD"
+    },
+    {
+      "id": 49,
+      "bank": "BANK OF THE ARAB COAST",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ARCOAEA1"
+    },
+    {
+      "id": 50,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD.,",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BOTKAEAD"
+    },
+    {
+      "id": 51,
+      "bank": "BANKMED SAL (DUBAI)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MEDLAEAD"
+    },
+    {
+      "id": 52,
+      "bank": "BANQUE DE COMMERCE ET DE PLACEMENTS SA-DIFC BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BPCPAEAD"
+    },
+    {
+      "id": 53,
+      "bank": "BANQUE MISR",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "BCAIAEAA803"
+    },
+    {
+      "id": 54,
+      "bank": "BELTONE FINANCIAL SECURITIES-EMIRATES",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BEFSAEA1"
+    },
+    {
+      "id": 55,
+      "bank": "BLOM BANK FRANCE S.A.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BLOMAEAD"
+    },
+    {
+      "id": 56,
+      "bank": "BNP PARIBAS, DUBAI",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BNPAAEAD"
+    },
+    {
+      "id": 57,
+      "bank": "BRITISH AMERICAN TOBACCO GCC DMCC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BATSAE21"
+    },
+    {
+      "id": 58,
+      "bank": "BRITISH AMERICAN TOBACCO ME DMCC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BATSAEA1"
+    },
+    {
+      "id": 59,
+      "bank": "CANARA BANK ( DIFC BRANCH )",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CNRBAEAD"
+    },
+    {
+      "id": 60,
+      "bank": "CAPITAL UNION",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CPUNAEA1"
+    },
+    {
+      "id": 61,
+      "bank": "CENTRAL DEPOSITORY",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CTDTAEA1"
+    },
+    {
+      "id": 62,
+      "bank": "CHINA CONSTRUCTION BANK DIFC BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "PCBCAEAD"
+    },
+    {
+      "id": 63,
+      "bank": "CIMD (DUBAI) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CIDAAEA1"
+    },
+    {
+      "id": 64,
+      "bank": "CITIBANK N.A.",
+      "city": "DUBAI",
+      "branch": "(CITIBANK N.A. DIFC)",
+      "swift_code": "CITIAEADDIF"
+    },
+    {
+      "id": 65,
+      "bank": "CITIBANK N.A.",
+      "city": "DUBAI",
+      "branch": "(TRADE SERVICES DEPT.)",
+      "swift_code": "CITIAEADTRD"
+    },
+    {
+      "id": 66,
+      "bank": "CITIBANK N.A.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CITIAEAD"
+    },
+    {
+      "id": 67,
+      "bank": "CITIBANK, N.A.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CITIAEA10AD"
+    },
+    {
+      "id": 68,
+      "bank": "CITIBANK, N.A.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CITIAEA1TRD"
+    },
+    {
+      "id": 69,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "DUBAI",
+      "branch": "(BUR DUBAI BRANCH)",
+      "swift_code": "CLBIAEADDB1"
+    },
+    {
+      "id": 70,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "DUBAI",
+      "branch": "(SHEIKH ZAID ROAD BRANCH)",
+      "swift_code": "CLBIAEADDB2"
+    },
+    {
+      "id": 71,
+      "bank": "COMMERCIAL BANK INTERNATIONAL",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CLBIAEAD"
+    },
+    {
+      "id": 72,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(AL GARHOUD BRANCH)",
+      "swift_code": "CBDUAEADGAR"
+    },
+    {
+      "id": 73,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(AL MAKTOUM ST. BRANCH)",
+      "swift_code": "CBDUAEADAMS"
+    },
+    {
+      "id": 74,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(AL SAFA BRANCH)",
+      "swift_code": "CBDUAEADSAF"
+    },
+    {
+      "id": 75,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(DEIRA BRANCH)",
+      "swift_code": "CBDUAEADDER"
+    },
+    {
+      "id": 76,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "CBDUAEADDXB"
+    },
+    {
+      "id": 77,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(JEBEL ALI BRANCH)",
+      "swift_code": "CBDUAEADJAL"
+    },
+    {
+      "id": 78,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(JUMEIRAH BRANCH)",
+      "swift_code": "CBDUAEADJUM"
+    },
+    {
+      "id": 79,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "(SOUQ AL WASL BRANCH)",
+      "swift_code": "CBDUAEADSAW"
+    },
+    {
+      "id": 80,
+      "bank": "COMMERCIAL BANK OF DUBAI",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CBDUAEAD"
+    },
+    {
+      "id": 81,
+      "bank": "COMMERZBANK AG DUBAI BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "COBAAEAD"
+    },
+    {
+      "id": 82,
+      "bank": "CORPORATE INTERNATIONAL BUSINESS FINANCE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CIBDAEA1"
+    },
+    {
+      "id": 83,
+      "bank": "CREDIT AGRICOLE CHEUVREUX MIDDLE EAST",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "CACHAEA1"
+    },
+    {
+      "id": 84,
+      "bank": "CREDIT AGRICOLE CIB (DIFC BRANCH, REGULATED BY THEDFSA)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BSUIAEAF"
+    },
+    {
+      "id": 85,
+      "bank": "CREDIT AGRICOLE CIB (DUBAI BRANCH)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BSUIAEAD"
+    },
+    {
+      "id": 86,
+      "bank": "CREDIT EUROPE BANK (DUBAI) LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FBHLAEAD"
+    },
+    {
+      "id": 87,
+      "bank": "DBS BANK LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DBSSAEAD"
+    },
+    {
+      "id": 88,
+      "bank": "DESERT EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DEEXAEAD"
+    },
+    {
+      "id": 89,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DEUTAEAD"
+    },
+    {
+      "id": 90,
+      "bank": "DINAR EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DNARAEA1"
+    },
+    {
+      "id": 91,
+      "bank": "DOHA BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DOHBAEAD"
+    },
+    {
+      "id": 92,
+      "bank": "DUBAI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DBXPAEAD"
+    },
+    {
+      "id": 93,
+      "bank": "DUBAI EXCHANGE CENTRE L.L.C.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DEXEAEAD"
+    },
+    {
+      "id": 94,
+      "bank": "DUBAI FINANCIAL MARKET, PJSC.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DFMTAEA1"
+    },
+    {
+      "id": 95,
+      "bank": "DUBAI GOLD AND COMMODITIES EXCHANGE DMCC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DGCXAEAA"
+    },
+    {
+      "id": 96,
+      "bank": "DUBAI ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(DEPARTMENT LETTERS OF CREDIT)",
+      "swift_code": "DUIBAEADLCS"
+    },
+    {
+      "id": 97,
+      "bank": "DUBAI ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(DIRECT EQUITIES OPERATIONS)",
+      "swift_code": "DUIBAEADDEO"
+    },
+    {
+      "id": 98,
+      "bank": "DUBAI ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(TREASURY DEPARTMENT)",
+      "swift_code": "DUIBAEADTOS"
+    },
+    {
+      "id": 99,
+      "bank": "DUBAI ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DUIBAEAD"
+    },
+    {
+      "id": 100,
+      "bank": "DUBAI, FITCH RATINGS LTD (DUBAI BRANCH)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FRIPAEA1"
+    },
+    {
+      "id": 101,
+      "bank": "DUET MENA LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DUMNAEA1"
+    },
+    {
+      "id": 102,
+      "bank": "ECONOMIC EXCHANGE CENTRE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ECOXAEAD"
+    },
+    {
+      "id": 103,
+      "bank": "ED AND F MAN PROFESSIONAL TRADING (DUBAI) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MPTDAEA1"
+    },
+    {
+      "id": 104,
+      "bank": "EFG-HERMES BROKERAGE - UAE LTD.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EFGHAEB1"
+    },
+    {
+      "id": 105,
+      "bank": "EFG-HERMES UAE LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EFGHAEA1"
+    },
+    {
+      "id": 106,
+      "bank": "EMAAR FINANCIAL SERVICES LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EMFSAEA1"
+    },
+    {
+      "id": 107,
+      "bank": "EMAAR PROPERTIES PJSC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EMPPAEAD"
+    },
+    {
+      "id": 108,
+      "bank": "EMIRATES INDIA INTERNATIONAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EINIAEA1"
+    },
+    {
+      "id": 109,
+      "bank": "EMIRATES INDIA INTERNATIONAL EXCHANGE LPC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "EIIEAEA1"
+    },
+    {
+      "id": 110,
+      "bank": "EMIRATES INVESTMENT BANK P.J.S.C.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AEINAEAD"
+    },
+    {
+      "id": 111,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(AL DHIYAFA ROAD BRANCH)",
+      "swift_code": "MEBLAEADDFR"
+    },
+    {
+      "id": 112,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(AL RIQA BRANCH)",
+      "swift_code": "MEBLAEADRIQ"
+    },
+    {
+      "id": 113,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(BUR DUBAI BRANCH)",
+      "swift_code": "MEBLAEADBUD"
+    },
+    {
+      "id": 114,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "(MURSHID BAZAR BRANCH)",
+      "swift_code": "MEBLAEADMRD"
+    },
+    {
+      "id": 115,
+      "bank": "EMIRATES ISLAMIC BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MEBLAEAD"
+    },
+    {
+      "id": 116,
+      "bank": "EMIRATES NATIONAL BANK LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ENABAEA1"
+    },
+    {
+      "id": 117,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(AL MAKTOUM ROAD BRANCH)",
+      "swift_code": "EBILAEADAMR"
+    },
+    {
+      "id": 118,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(AL SOUK BRANCH)",
+      "swift_code": "EBILAEADSUK"
+    },
+    {
+      "id": 119,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(BANDER TALEB BRANCH)",
+      "swift_code": "EBILAEADBTA"
+    },
+    {
+      "id": 120,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(BENIYAS SQUARE BRANCH)",
+      "swift_code": "EBILAEADBSQ"
+    },
+    {
+      "id": 121,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(DUBAI MAIN BRANCH)",
+      "swift_code": "EBILAEADDMB"
+    },
+    {
+      "id": 122,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(EMIRATES NBD SECURITIES)",
+      "swift_code": "EBILAEADSEC"
+    },
+    {
+      "id": 123,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(GALLERIA BRANCH)",
+      "swift_code": "EBILAEADGAL"
+    },
+    {
+      "id": 124,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(GROUP HEAD OFFICE, FINANCE DEPARTMENT)",
+      "swift_code": "EBILAEADFIN"
+    },
+    {
+      "id": 125,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(GROUP HEAD OFFICE, TRADE FINANCE SERVICES)",
+      "swift_code": "EBILAEADTFS"
+    },
+    {
+      "id": 126,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "EBILAEAD"
+    },
+    {
+      "id": 127,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(JEBEL ALI BRANCH)",
+      "swift_code": "EBILAEADJAZ"
+    },
+    {
+      "id": 128,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(JUMEIRAH BRANCH)",
+      "swift_code": "EBILAEADJUM"
+    },
+    {
+      "id": 129,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(KARAMA BRANCH)",
+      "swift_code": "EBILAEADKAM"
+    },
+    {
+      "id": 130,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(QIYADAH BRANCH)",
+      "swift_code": "EBILAEADQID"
+    },
+    {
+      "id": 131,
+      "bank": "EMIRATES NBD BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(SATWA BRANCH)",
+      "swift_code": "EBILAEADSAT"
+    },
+    {
+      "id": 132,
+      "bank": "FEDERAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FEDXAE21"
+    },
+    {
+      "id": 133,
+      "bank": "FEDERAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FEDXAEA1"
+    },
+    {
+      "id": 134,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(AL QUSAIS BRANCH)",
+      "swift_code": "NBADAEAAAQB"
+    },
+    {
+      "id": 135,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(DEIRA BRANCH)",
+      "swift_code": "NBADAEAADEI"
+    },
+    {
+      "id": 136,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(DUBAI HEALTH CARE CENTRE)",
+      "swift_code": "NBADAEAADHC"
+    },
+    {
+      "id": 137,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(DUBAI SIDE BRANCH)",
+      "swift_code": "NBADAEAADUB"
+    },
+    {
+      "id": 138,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(JEBEL ALI BRANCH)",
+      "swift_code": "NBADAEAAJBL"
+    },
+    {
+      "id": 139,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(MALL OF THE EMIRATES BRANCH)",
+      "swift_code": "NBADAEAAMOE"
+    },
+    {
+      "id": 140,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(SH.ZAYED ROAD BRANCH)",
+      "swift_code": "NBADAEAASZR"
+    },
+    {
+      "id": 141,
+      "bank": "FIRST ABU DHABI BANK PJSC",
+      "city": "DUBAI",
+      "branch": "(TRADE FINANCE OPERATIONS)",
+      "swift_code": "NBADAEAATFN"
+    },
+    {
+      "id": 142,
+      "bank": "GCC EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "GCCEAEAD"
+    },
+    {
+      "id": 143,
+      "bank": "GLOBAL INVESTMENT BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "RIBBAEAA"
+    },
+    {
+      "id": 144,
+      "bank": "GULF EXPRESS EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "GUEEAEAD"
+    },
+    {
+      "id": 145,
+      "bank": "GULF MERCHANT GROUP LLP",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "GMGLAEA1"
+    },
+    {
+      "id": 146,
+      "bank": "HABIB BANK AG ZURICH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HBZUAEAD"
+    },
+    {
+      "id": 147,
+      "bank": "HABIB BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HABBAEAD"
+    },
+    {
+      "id": 148,
+      "bank": "HINDUJA BANK (MIDDLE EAST) LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ABSGAEAD"
+    },
+    {
+      "id": 149,
+      "bank": "HORIZON EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HREXAEAD"
+    },
+    {
+      "id": 150,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "DUBAI",
+      "branch": "(DIFC BRANCH)",
+      "swift_code": "BBMEAEADDIF"
+    },
+    {
+      "id": 151,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "DUBAI",
+      "branch": "(SECURITIES BROKERAGE)",
+      "swift_code": "BBMEAEADBDU"
+    },
+    {
+      "id": 152,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BBMEAEAD"
+    },
+    {
+      "id": 153,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HBMEAEAD"
+    },
+    {
+      "id": 154,
+      "bank": "HSBC FINANCIAL SERVICES (MIDDLE EAST) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "WDMEAEA1"
+    },
+    {
+      "id": 155,
+      "bank": "HSBC MIDDLE EAST SECURITIES L.L.C (HMES)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HMEEAEA1"
+    },
+    {
+      "id": 156,
+      "bank": "ICICI BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "(CENTRAL OPERATIONS)",
+      "swift_code": "ICICAEADCOP"
+    },
+    {
+      "id": 157,
+      "bank": "ICICI BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "(GLOBAL TRADE SERVICE UNIT)",
+      "swift_code": "ICICAEADGTS"
+    },
+    {
+      "id": 158,
+      "bank": "ICICI BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "(TREASURY)",
+      "swift_code": "ICICAEADTMO"
+    },
+    {
+      "id": 159,
+      "bank": "ICICI BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ICICAEAD"
+    },
+    {
+      "id": 160,
+      "bank": "IDBI BANK LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "IBKLAEAD"
+    },
+    {
+      "id": 161,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, DUBAI(DIFC) BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ICBKAEAD"
+    },
+    {
+      "id": 162,
+      "bank": "INTESA SANPAOLO SPA",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BCITAEAD"
+    },
+    {
+      "id": 163,
+      "bank": "JANATA BANK",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "JANBAEAADXB"
+    },
+    {
+      "id": 164,
+      "bank": "KBC ALDINI CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "KBCKAEAD"
+    },
+    {
+      "id": 165,
+      "bank": "KHALIL AL FARDAN EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "KHFXAEAD"
+    },
+    {
+      "id": 166,
+      "bank": "LANDMARK RETAIL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "LANRAEAD"
+    },
+    {
+      "id": 167,
+      "bank": "MAC CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MCCPAEA1"
+    },
+    {
+      "id": 168,
+      "bank": "MAC SHARAF SECURITIES (UAE) LLC.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MSSUAEA1"
+    },
+    {
+      "id": 169,
+      "bank": "MAJID AL FUTTAIM HOLDING LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MAFHAEAD"
+    },
+    {
+      "id": 170,
+      "bank": "MARKET SECURITIES DUBAI LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MSDLAEA1"
+    },
+    {
+      "id": 171,
+      "bank": "MASHREQ SECURITIES LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MSSLAEA1"
+    },
+    {
+      "id": 172,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(FI-CUSTOMER SERVICES)",
+      "swift_code": "BOMLAEADCSU"
+    },
+    {
+      "id": 173,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(FINANCIAL INSTITUTIONS DIVISION)",
+      "swift_code": "BOMLAEADEBC"
+    },
+    {
+      "id": 174,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(FOREIGN TRADE CENTRE)",
+      "swift_code": "BOMLAEADFTC"
+    },
+    {
+      "id": 175,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BOMLAEADHDO"
+    },
+    {
+      "id": 176,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(REMITTANCES CENTRE)",
+      "swift_code": "BOMLAEADRAM"
+    },
+    {
+      "id": 177,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "(TREASURY AND INVESTMENT DIVISION)",
+      "swift_code": "BOMLAEADTID"
+    },
+    {
+      "id": 178,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BOMLAEAD"
+    },
+    {
+      "id": 179,
+      "bank": "MASHREQBANK PSC.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "BOMLAEADGTS"
+    },
+    {
+      "id": 180,
+      "bank": "MCB BANK LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MUCBAEAD"
+    },
+    {
+      "id": 181,
+      "bank": "MERRILL LYNCH INTERNATIONAL",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MLINAEA1"
+    },
+    {
+      "id": 182,
+      "bank": "MIDDLE EAST FINANCIAL BROKERAGE COMPANY, L.L.C",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MFBCAEA1"
+    },
+    {
+      "id": 183,
+      "bank": "MINISTRY OF ENERGY",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MIEEAEA1"
+    },
+    {
+      "id": 184,
+      "bank": "MIRABAUD (MIDDLE EAST) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MIRAAEAD"
+    },
+    {
+      "id": 185,
+      "bank": "MOBIS PARTS MIDDLE EAST FZE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HYMOAEA1"
+    },
+    {
+      "id": 186,
+      "bank": "MULTINET TRUST EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "MULXAEAE"
+    },
+    {
+      "id": 187,
+      "bank": "NAEEM SHARES AND BONDS",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NSHOAEA1"
+    },
+    {
+      "id": 188,
+      "bank": "NASDAQ DUBAI LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "DIFXAEAA"
+    },
+    {
+      "id": 189,
+      "bank": "NASIM AL BARARI EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NABEAEA1"
+    },
+    {
+      "id": 190,
+      "bank": "NATIONAL BANK OF FUJAIRAH",
+      "city": "DUBAI",
+      "branch": "(DUBAI BRANCH)",
+      "swift_code": "NBFUAEAFDXB"
+    },
+    {
+      "id": 191,
+      "bank": "NATIONAL BANK OF FUJAIRAH",
+      "city": "DUBAI",
+      "branch": "(JEBEL ALI)",
+      "swift_code": "NBFUAEAFJBA"
+    },
+    {
+      "id": 192,
+      "bank": "NATIONAL BANK OF KUWAIT (S.A.K.).",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NBOKAEAD"
+    },
+    {
+      "id": 193,
+      "bank": "NATIONAL BANK OF UMM AL QAIWAIN PSC.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UMMQAEAD"
+    },
+    {
+      "id": 194,
+      "bank": "NATIXIS DUBAI",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NATXAEAD"
+    },
+    {
+      "id": 195,
+      "bank": "NOOR BANK P.J.S.C.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "NISLAEAD"
+    },
+    {
+      "id": 196,
+      "bank": "OASIS CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "OACAAEA1"
+    },
+    {
+      "id": 197,
+      "bank": "OASIS CRESCENT CAPITAL (DIFC) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "OCCDAEA1"
+    },
+    {
+      "id": 198,
+      "bank": "ORIENT EXCHANGE CO.(L.L.C.)",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "OECOAEAD"
+    },
+    {
+      "id": 199,
+      "bank": "PHOENIX GLOBAL DMCC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "PGDMAEAD"
+    },
+    {
+      "id": 200,
+      "bank": "PROMETHEUS CAPITAL FINANCE LIMTED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "PCFIAEA1"
+    },
+    {
+      "id": 201,
+      "bank": "PROMETHEUS CAPITAL FINANCE LIMTED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "PCFIAEAB"
+    },
+    {
+      "id": 202,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "PUNBAEAD"
+    },
+    {
+      "id": 203,
+      "bank": "QATAR CAPITAL LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "QACAAEA1"
+    },
+    {
+      "id": 204,
+      "bank": "REDHA AL ANSARI EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "RAECAEAD"
+    },
+    {
+      "id": 205,
+      "bank": "REYL FINANCE (MEA) LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "REYLAEAD"
+    },
+    {
+      "id": 206,
+      "bank": "REYL FINANCE (MEA) LTD",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "REYLAEADIFC"
+    },
+    {
+      "id": 207,
+      "bank": "ROYAL BANK OF CANADA",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ROYCAEA1"
+    },
+    {
+      "id": 208,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SAMBAEAD"
+    },
+    {
+      "id": 209,
+      "bank": "SAMSUNG GULF ELECTRONICS CO., LTD.",
+      "city": "DUBAI",
+      "branch": "(SGE)",
+      "swift_code": "SECTAEA1710"
+    },
+    {
+      "id": 210,
+      "bank": "SAMSUNG GULF ELECTRONICS CO., LTD.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SECTAEA1"
+    },
+    {
+      "id": 211,
+      "bank": "SCT BANKERS",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SCTSAEA1"
+    },
+    {
+      "id": 212,
+      "bank": "SHARAF EXCHANGE LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SHEXAEA1"
+    },
+    {
+      "id": 213,
+      "bank": "SHINHAN BANK CO LTD. DUBAI BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SHBKAEAD"
+    },
+    {
+      "id": 214,
+      "bank": "SHUAA CAPITAL P.S.C.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "AGEIAEA1"
+    },
+    {
+      "id": 215,
+      "bank": "SHUAA CAPITAL PSC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SHCPAEAD"
+    },
+    {
+      "id": 216,
+      "bank": "SORINET COMERCIAL TRUST",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SCERAEA1"
+    },
+    {
+      "id": 217,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "DUBAI",
+      "branch": "(DUBAI INTERNATIONAL FINANCIAL CENTRE - OFFSHORE BANKING)",
+      "swift_code": "SCBLAEADDIF"
+    },
+    {
+      "id": 218,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SCBLAEAD"
+    },
+    {
+      "id": 219,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SBINAEAD"
+    },
+    {
+      "id": 220,
+      "bank": "SULTAN AL THAHAB EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SLTXAEAD"
+    },
+    {
+      "id": 221,
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "SMBCAEAD"
+    },
+    {
+      "id": 222,
+      "bank": "SWISS INVESTMENT BANK PLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "FIWSAEA1"
+    },
+    {
+      "id": 223,
+      "bank": "TABARAK INVESTMENT CAPITAL LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "TIBIAEAD"
+    },
+    {
+      "id": 224,
+      "bank": "TABRA AND AL NIBAL EXCHANGE",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "TBRAAEA1"
+    },
+    {
+      "id": 225,
+      "bank": "UNION BANK OF INDIA DIFC BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UBINAEAD"
+    },
+    {
+      "id": 226,
+      "bank": "UNITED BANK LTD.",
+      "city": "DUBAI",
+      "branch": "(UBL, CENTRAL PROCESSING UNIT)",
+      "swift_code": "UNILAEADCPU"
+    },
+    {
+      "id": 227,
+      "bank": "UNITED BANK LTD.",
+      "city": "DUBAI",
+      "branch": "(UBL, TRADE FINANCE CENTRE)",
+      "swift_code": "UNILAEADTFC"
+    },
+    {
+      "id": 228,
+      "bank": "UNITED BANK LTD.",
+      "city": "DUBAI",
+      "branch": "(UBL, TREASURY OPERATIONS DEPT.)",
+      "swift_code": "UNILAEADTRY"
+    },
+    {
+      "id": 229,
+      "bank": "UNITED BANK LTD.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UNILAEAD"
+    },
+    {
+      "id": 230,
+      "bank": "UNITED INVESTMENT BANK LTD.",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UIBLAEA1"
+    },
+    {
+      "id": 231,
+      "bank": "UNIVERSAL EXCHANGE CENTER",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "UECEAEAD"
+    },
+    {
+      "id": 232,
+      "bank": "WALL STREET EXCHANGE CENTRE LLC",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "WSEEAEAD"
+    },
+    {
+      "id": 233,
+      "bank": "WOORI BANK DUBAI BRANCH",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "HVBKAEAD"
+    },
+    {
+      "id": 234,
+      "bank": "ZFP EQUITY TRADING (DUBAI) LIMITED",
+      "city": "DUBAI",
+      "branch": "",
+      "swift_code": "ZETDAEA1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Dubai — الإمارات العربية المتحدة — رموز سويفت (Banks of Dubai, United Arab Emirates — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Dubai (الإمارات العربية المتحدة) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 234 سجلًا. List of banks, financial institutions and their branches in Dubai, United Arab Emirates with the SWIFT/BIC code, bank name and branch name for each. 234 records. Source: PeterNotenboom/SwiftCodes AllCountries/AE.json (MIT). يحتوي على 234 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Dubai — الإمارات العربية المتحدة — رموز سويفت (Banks of Dubai, United Arab Emirates — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Dubai — الإمارات العربية المتحدة — رموز سويفت (Banks of Dubai, United Arab Emirates — SWIFT/BIC codes) — 234 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 234 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "id": "ar-mudun-indonesia",
+  "name": "مدن إندونيسيا — Cities of Indonesia (Arabic names)",
+  "title": "مدن إندونيسيا — Cities of Indonesia (Arabic names)",
+  "description": "قائمة بأسماء مدن إندونيسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 73 cities in Indonesia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "جاكرتا",
+      "name_en": "Jakarta",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 33756000
+    },
+    {
+      "id": 2,
+      "name_ar": "سورابايا",
+      "name_en": "Surabaya",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 6556000
+    },
+    {
+      "id": 3,
+      "name_ar": "ميدان",
+      "name_en": "Medan",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 3632000
+    },
+    {
+      "id": 4,
+      "name_ar": "مالانغ",
+      "name_en": "Malang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 2795209
+    },
+    {
+      "id": 5,
+      "name_ar": "بيكاسي",
+      "name_en": "Bekasi",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 2381053
+    },
+    {
+      "id": 6,
+      "name_ar": "ديبوك",
+      "name_en": "Depok",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 2330333
+    },
+    {
+      "id": 7,
+      "name_ar": "تانقيرانغ",
+      "name_en": "Tangerang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 2237006
+    },
+    {
+      "id": 8,
+      "name_ar": "سمارانغ",
+      "name_en": "Semarang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1621384
+    },
+    {
+      "id": 9,
+      "name_ar": "فلمبان",
+      "name_en": "Palembang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1535952
+    },
+    {
+      "id": 10,
+      "name_ar": "ماكاسار",
+      "name_en": "Makassar",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1338663
+    },
+    {
+      "id": 11,
+      "name_ar": "سوميدانغ",
+      "name_en": "Sumedang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1240000
+    },
+    {
+      "id": 12,
+      "name_ar": "سيلاكاب",
+      "name_en": "Cilacap",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1174964
+    },
+    {
+      "id": 13,
+      "name_ar": "باندار لامبونج",
+      "name_en": "Bandar Lampung",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 1166761
+    },
+    {
+      "id": 14,
+      "name_ar": "بيكانبارو",
+      "name_en": "Pekanbaru",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 983356
+    },
+    {
+      "id": 15,
+      "name_ar": "بوكور",
+      "name_en": "Bogor",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 982469
+    },
+    {
+      "id": 16,
+      "name_ar": "ساماريندا",
+      "name_en": "Samarinda",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 831460
+    },
+    {
+      "id": 17,
+      "name_ar": "بونتياناك",
+      "name_en": "Pontianak",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 680880
+    },
+    {
+      "id": 18,
+      "name_ar": "تاسيكمالايا",
+      "name_en": "Tasikmalaya",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 678027
+    },
+    {
+      "id": 19,
+      "name_ar": "دنباسار",
+      "name_en": "Denpasar",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 670210
+    },
+    {
+      "id": 20,
+      "name_ar": "بنجرماسين",
+      "name_en": "Banjarmasin",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 662230
+    },
+    {
+      "id": 21,
+      "name_ar": "سيرانغ",
+      "name_en": "Serang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 613356
+    },
+    {
+      "id": 22,
+      "name_ar": "جمبي",
+      "name_en": "Jambi",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 612162
+    },
+    {
+      "id": 23,
+      "name_ar": "باليكبابان",
+      "name_en": "Balikpapan",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 598043
+    },
+    {
+      "id": 24,
+      "name_ar": "شيماهي",
+      "name_en": "Cimahi",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 586580
+    },
+    {
+      "id": 25,
+      "name_ar": "سوراكارتا",
+      "name_en": "Surakarta",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 552118
+    },
+    {
+      "id": 26,
+      "name_ar": "كوبانغ",
+      "name_en": "Kupang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 466632
+    },
+    {
+      "id": 27,
+      "name_ar": "مانادو",
+      "name_en": "Manado",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 461636
+    },
+    {
+      "id": 28,
+      "name_ar": "باندونغ",
+      "name_en": "Bandung",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 432557
+    },
+    {
+      "id": 29,
+      "name_ar": "يوغياكارتا",
+      "name_en": "Yogyakarta",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 422732
+    },
+    {
+      "id": 30,
+      "name_ar": "جايابورا",
+      "name_en": "Jayapura",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 413283
+    },
+    {
+      "id": 31,
+      "name_ar": "ماتارام",
+      "name_en": "Mataram",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 408900
+    },
+    {
+      "id": 32,
+      "name_ar": "سيليغون",
+      "name_en": "Cilegon",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 387543
+    },
+    {
+      "id": 33,
+      "name_ar": "بنغكولو",
+      "name_en": "Bengkulu",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 360495
+    },
+    {
+      "id": 34,
+      "name_ar": "كنداري",
+      "name_en": "Kendari",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 331013
+    },
+    {
+      "id": 35,
+      "name_ar": "سوكابومي",
+      "name_en": "Sukabumi",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 320970
+    },
+    {
+      "id": 36,
+      "name_ar": "كراوانغ",
+      "name_en": "Karawang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 307880
+    },
+    {
+      "id": 37,
+      "name_ar": "مجلس جيمبر",
+      "name_en": "Jember",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 298585
+    },
+    {
+      "id": 38,
+      "name_ar": "بيكالونغان",
+      "name_en": "Pekalongan",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 298386
+    },
+    {
+      "id": 39,
+      "name_ar": "سيربون",
+      "name_en": "Cirebon",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 296389
+    },
+    {
+      "id": 40,
+      "name_ar": "سورونغ",
+      "name_en": "Sorong",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 295809
+    },
+    {
+      "id": 41,
+      "name_ar": "بيماتانغسياتار",
+      "name_en": "Pematangsiantar",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 278055
+    },
+    {
+      "id": 42,
+      "name_ar": "تيغال",
+      "name_en": "Tegal",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 275789
+    },
+    {
+      "id": 43,
+      "name_ar": "ماجيني",
+      "name_en": "Majene",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 272377
+    },
+    {
+      "id": 44,
+      "name_ar": "بنجاي",
+      "name_en": "Binjai",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 269053
+    },
+    {
+      "id": 45,
+      "name_ar": "دوماي",
+      "name_en": "Dumai",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 264084
+    },
+    {
+      "id": 46,
+      "name_ar": "كديري",
+      "name_en": "Kediri",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 252000
+    },
+    {
+      "id": 47,
+      "name_ar": "بالانغكارايا",
+      "name_en": "Palangkaraya",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 249434
+    },
+    {
+      "id": 48,
+      "name_ar": "باندا آتشيه",
+      "name_en": "Banda Aceh",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 235305
+    },
+    {
+      "id": 49,
+      "name_ar": "بوروكيرتو",
+      "name_en": "Purwokerto",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 233865
+    },
+    {
+      "id": 50,
+      "name_ar": "سينغكوانغ",
+      "name_en": "Singkawang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 230376
+    },
+    {
+      "id": 51,
+      "name_ar": "بروبولينغو",
+      "name_en": "Probolinggo",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 223159
+    },
+    {
+      "id": 52,
+      "name_ar": "سيبوتات",
+      "name_en": "Ciputat",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 222186
+    },
+    {
+      "id": 53,
+      "name_ar": "بانغكال بينانغ",
+      "name_en": "Pangkalpinang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 218569
+    },
+    {
+      "id": 54,
+      "name_ar": "بيتونغ",
+      "name_en": "Bitung",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 218520
+    },
+    {
+      "id": 55,
+      "name_ar": "بنجاربارو",
+      "name_en": "Banjarbaru",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 216600
+    },
+    {
+      "id": 56,
+      "name_ar": "لوبوكلنغاو",
+      "name_en": "Lubuklinggau",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 208225
+    },
+    {
+      "id": 57,
+      "name_ar": "البنجرية",
+      "name_en": "Banjar",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 203417
+    },
+    {
+      "id": 58,
+      "name_ar": "تانجونغ",
+      "name_en": "Tanjungpinang",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 203008
+    },
+    {
+      "id": 59,
+      "name_ar": "ماديون",
+      "name_en": "Madiun",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 202544
+    },
+    {
+      "id": 60,
+      "name_ar": "تاراكان",
+      "name_en": "Tarakan",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 201635
+    },
+    {
+      "id": 61,
+      "name_ar": "غورونتالو",
+      "name_en": "Gorontalo",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 191897
+    },
+    {
+      "id": 62,
+      "name_ar": "برايوموليه",
+      "name_en": "Prabumulih",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 188082
+    },
+    {
+      "id": 63,
+      "name_ar": "باسوروان",
+      "name_en": "Pasuruan",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 186262
+    },
+    {
+      "id": 64,
+      "name_ar": "لوكسوماوي",
+      "name_en": "Lhokseumawe",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 180200
+    },
+    {
+      "id": 65,
+      "name_ar": "بالوبو",
+      "name_en": "Palopo",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 180130
+    },
+    {
+      "id": 66,
+      "name_ar": "بورواكارتا",
+      "name_en": "Purwakarta",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 179233
+    },
+    {
+      "id": 67,
+      "name_ar": "لانغسا",
+      "name_en": "Langsa",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 178334
+    },
+    {
+      "id": 68,
+      "name_ar": "سيانجور",
+      "name_en": "Cianjur",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 176368
+    },
+    {
+      "id": 69,
+      "name_ar": "سالاتيغا",
+      "name_en": "Salatiga",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 175288
+    },
+    {
+      "id": 70,
+      "name_ar": "ينبوع",
+      "name_en": "Beji",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 171660
+    },
+    {
+      "id": 71,
+      "name_ar": "سامبت",
+      "name_en": "Sampit",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 166773
+    },
+    {
+      "id": 72,
+      "name_ar": "تانجونغ بالاي",
+      "name_en": "Tanjungbalai",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 165763
+    },
+    {
+      "id": 73,
+      "name_ar": "أونغاران",
+      "name_en": "Ungaran",
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "population": 164916
+    }
+  ],
+  "meta": {
+    "title": "مدن إندونيسيا — Cities of Indonesia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إندونيسيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 73 cities in Indonesia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 73 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إندونيسيا — Cities of Indonesia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إندونيسيا — Cities of Indonesia (Arabic names) — 73 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 73 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": "ar-mudun-bulgaria",
+  "name": "مدن بلغاريا — Cities of Bulgaria (Arabic names)",
+  "title": "مدن بلغاريا — Cities of Bulgaria (Arabic names)",
+  "description": "قائمة بأسماء مدن بلغاريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in Bulgaria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "صوفيا",
+      "name_en": "Sofia",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 1404116
+    },
+    {
+      "id": 2,
+      "name_ar": "بلوفديف",
+      "name_en": "Plovdiv",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 346893
+    },
+    {
+      "id": 3,
+      "name_ar": "برغاس",
+      "name_en": "Burgas",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 210284
+    },
+    {
+      "id": 4,
+      "name_ar": "زغرة العتيقة",
+      "name_en": "Stara Zagora",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 142746
+    },
+    {
+      "id": 5,
+      "name_ar": "روسه",
+      "name_en": "Ruse",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 140537
+    },
+    {
+      "id": 6,
+      "name_ar": "بلفن",
+      "name_en": "Pleven",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 119596
+    },
+    {
+      "id": 7,
+      "name_ar": "سليفن",
+      "name_en": "Sliven",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 115241
+    },
+    {
+      "id": 8,
+      "name_ar": "برنيك",
+      "name_en": "Pernik",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 97181
+    },
+    {
+      "id": 9,
+      "name_ar": "هاسكوفو",
+      "name_en": "Haskovo",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 94156
+    },
+    {
+      "id": 10,
+      "name_ar": "كازنلاك",
+      "name_en": "Kazanlak",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 89197
+    },
+    {
+      "id": 11,
+      "name_ar": "دوبريتش",
+      "name_en": "Dobrich",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 87361
+    },
+    {
+      "id": 12,
+      "name_ar": "يامبل",
+      "name_en": "Yambol",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 83861
+    },
+    {
+      "id": 13,
+      "name_ar": "شومن",
+      "name_en": "Shumen",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 81207
+    },
+    {
+      "id": 14,
+      "name_ar": "بلاغويفغراد",
+      "name_en": "Blagoevgrad",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 77441
+    },
+    {
+      "id": 15,
+      "name_ar": "ترنوة",
+      "name_en": "Veliko Tarnovo",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 66943
+    },
+    {
+      "id": 16,
+      "name_ar": "أسينوفغراد",
+      "name_en": "Asenovgrad",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 65962
+    },
+    {
+      "id": 17,
+      "name_ar": "تارغوفيشته",
+      "name_en": "Targovishte",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 57264
+    },
+    {
+      "id": 18,
+      "name_ar": "فراتسا",
+      "name_en": "Vratsa",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 55451
+    },
+    {
+      "id": 19,
+      "name_ar": "ديميتروفغراد",
+      "name_en": "Dimitrovgrad",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 53557
+    },
+    {
+      "id": 20,
+      "name_ar": "قرجة علي",
+      "name_en": "Kardzhali",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 51841
+    },
+    {
+      "id": 21,
+      "name_ar": "غابروفو",
+      "name_en": "Gabrovo",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 51398
+    },
+    {
+      "id": 22,
+      "name_ar": "فيدين",
+      "name_en": "Vidin",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 46269
+    },
+    {
+      "id": 23,
+      "name_ar": "كيوستينديل",
+      "name_en": "Kyustendil",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 43534
+    },
+    {
+      "id": 24,
+      "name_ar": "مونتانا",
+      "name_en": "Montana",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 40044
+    },
+    {
+      "id": 25,
+      "name_ar": "سموليان",
+      "name_en": "Smolyan",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 34465
+    },
+    {
+      "id": 26,
+      "name_ar": "دوبنيتسا",
+      "name_en": "Dupnitsa",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 33705
+    },
+    {
+      "id": 27,
+      "name_ar": "سيليسترا",
+      "name_en": "Silistra",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 33480
+    },
+    {
+      "id": 28,
+      "name_ar": "غوتسه دلتشو",
+      "name_en": "Gotse Delchev",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 33208
+    },
+    {
+      "id": 29,
+      "name_ar": "رازغراد",
+      "name_en": "Razgrad",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 32391
+    },
+    {
+      "id": 30,
+      "name_ar": "لوفتش",
+      "name_en": "Lovech",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 31899
+    },
+    {
+      "id": 31,
+      "name_ar": "غورنا اورياهوفيتسا",
+      "name_en": "Gorna Oryahovitsa",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 29423
+    },
+    {
+      "id": 32,
+      "name_ar": "أيتوس",
+      "name_en": "Aytos",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 27326
+    },
+    {
+      "id": 33,
+      "name_ar": "ساندانسكي",
+      "name_en": "Sandanski",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 26914
+    },
+    {
+      "id": 34,
+      "name_ar": "بشترة",
+      "name_en": "Peshtera",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 23972
+    },
+    {
+      "id": 35,
+      "name_ar": "سفيشتوف",
+      "name_en": "Svishtov",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 22584
+    },
+    {
+      "id": 36,
+      "name_ar": "كارنوبات",
+      "name_en": "Karnobat",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 22464
+    },
+    {
+      "id": 37,
+      "name_ar": "زغرة الجديدة",
+      "name_en": "Nova Zagora",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 22175
+    },
+    {
+      "id": 38,
+      "name_ar": "ميزدرا",
+      "name_en": "Mezdra",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 21726
+    },
+    {
+      "id": 39,
+      "name_ar": "وسام الاستحقاق الأمريكي",
+      "name_en": "Lom",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 21425
+    },
+    {
+      "id": 40,
+      "name_ar": "الأرخانية",
+      "name_en": "Botevgrad",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 20602
+    },
+    {
+      "id": 41,
+      "name_ar": "طريان",
+      "name_en": "Troyan",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 19984
+    },
+    {
+      "id": 42,
+      "name_ar": "فيليكي بريسلاف",
+      "name_en": "Veliki Preslav",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 14960
+    },
+    {
+      "id": 43,
+      "name_ar": "جربان",
+      "name_en": "Chirpan",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 14672
+    },
+    {
+      "id": 44,
+      "name_ar": "نيسيبار",
+      "name_en": "Nesebar",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 14596
+    },
+    {
+      "id": 45,
+      "name_ar": "لباس",
+      "name_en": "Garmen",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 14439
+    },
+    {
+      "id": 46,
+      "name_ar": "إختيمان",
+      "name_en": "Ihtiman",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 13617
+    },
+    {
+      "id": 47,
+      "name_ar": "نوفي إسكار",
+      "name_en": "Novi Iskar",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 13491
+    },
+    {
+      "id": 48,
+      "name_ar": "رادومير",
+      "name_en": "Radomir",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 12975
+    },
+    {
+      "id": 49,
+      "name_ar": "نوفي بازار",
+      "name_en": "Novi Pazar",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 12710
+    },
+    {
+      "id": 50,
+      "name_ar": "بلجق",
+      "name_en": "Balchik",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 12429
+    },
+    {
+      "id": 51,
+      "name_ar": "رازلوغ",
+      "name_en": "Razlog",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 12232
+    },
+    {
+      "id": 52,
+      "name_ar": "كافارنا",
+      "name_en": "Kavarna",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 11202
+    },
+    {
+      "id": 53,
+      "name_ar": "ليفسكي صوفيا",
+      "name_en": "Levski",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 9866
+    },
+    {
+      "id": 54,
+      "name_ar": "بيليتسا",
+      "name_en": "Belitsa",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 9801
+    },
+    {
+      "id": 55,
+      "name_ar": "الخوة",
+      "name_en": "Elhovo",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 9299
+    },
+    {
+      "id": 56,
+      "name_ar": "صوفيا",
+      "name_en": "Sredets",
+      "country_ar": "بلغاريا",
+      "country_en": "Bulgaria",
+      "population": 8504
+    }
+  ],
+  "meta": {
+    "title": "مدن بلغاريا — Cities of Bulgaria (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بلغاريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in Bulgaria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 56 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بلغاريا — Cities of Bulgaria (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بلغاريا — Cities of Bulgaria (Arabic names) — 56 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 56 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "id": "ar-mudun-egypt",
+  "name": "مدن مصر — Cities of Egypt (Arabic names)",
+  "title": "مدن مصر — Cities of Egypt (Arabic names)",
+  "description": "قائمة بأسماء مدن مصر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Egypt with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "القاهرة",
+      "name_en": "Cairo",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 20296000
+    },
+    {
+      "id": 2,
+      "name_ar": "الإسكندرية",
+      "name_en": "Alexandria",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 4870000
+    },
+    {
+      "id": 3,
+      "name_ar": "شبرا الخيمة",
+      "name_en": "Shubra al Khaymah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 1025569
+    },
+    {
+      "id": 4,
+      "name_ar": "سنورس",
+      "name_en": "Sinnuris",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 692701
+    },
+    {
+      "id": 5,
+      "name_ar": "ديروط",
+      "name_en": "Dayrut",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 653847
+    },
+    {
+      "id": 6,
+      "name_ar": "المنصورة",
+      "name_en": "Al Mansurah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 621953
+    },
+    {
+      "id": 7,
+      "name_ar": "المحلة الكبرى",
+      "name_en": "Al Mahallah al Kubra",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 592573
+    },
+    {
+      "id": 8,
+      "name_ar": "شبين القناطر",
+      "name_en": "Shibin al Qanatir",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 570868
+    },
+    {
+      "id": 9,
+      "name_ar": "مركز أبو حمص",
+      "name_en": "Abu Hummus",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 569157
+    },
+    {
+      "id": 10,
+      "name_ar": "بورسعيد",
+      "name_en": "Port Said",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 524433
+    },
+    {
+      "id": 11,
+      "name_ar": "سعيد الفيومي",
+      "name_en": "Al Fayyum",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 519047
+    },
+    {
+      "id": 12,
+      "name_ar": "Suez",
+      "name_en": "Suez",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 516959
+    },
+    {
+      "id": 13,
+      "name_ar": "أبو تشت",
+      "name_en": "Abu Tisht",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 514535
+    },
+    {
+      "id": 14,
+      "name_ar": "الفشن",
+      "name_en": "Al Fashn",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 512242
+    },
+    {
+      "id": 15,
+      "name_ar": "أخميم",
+      "name_en": "Akhmim",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 482666
+    },
+    {
+      "id": 16,
+      "name_ar": "المراغة",
+      "name_en": "Al Maraghah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 432678
+    },
+    {
+      "id": 17,
+      "name_ar": "الباجور",
+      "name_en": "Al Bajur",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 427017
+    },
+    {
+      "id": 18,
+      "name_ar": "ليتوبوليس",
+      "name_en": "Awsim",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 415735
+    },
+    {
+      "id": 19,
+      "name_ar": "تالا",
+      "name_en": "Tala",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 413839
+    },
+    {
+      "id": 20,
+      "name_ar": "طلخا",
+      "name_en": "Talkha",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 413584
+    },
+    {
+      "id": 21,
+      "name_ar": "أسيوط",
+      "name_en": "Asyut",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 389307
+    },
+    {
+      "id": 22,
+      "name_ar": "مدينة السادس من أكتوبر",
+      "name_en": "Madinat as Sadis min Uktubar",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 376302
+    },
+    {
+      "id": 23,
+      "name_ar": "دكرنس",
+      "name_en": "Dikirnis",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 372871
+    },
+    {
+      "id": 24,
+      "name_ar": "مثلث الشهداء",
+      "name_en": "Ash Shuhada'",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 358486
+    },
+    {
+      "id": 25,
+      "name_ar": "مركز بركة السبع",
+      "name_en": "Birkat as Sab`",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 330847
+    },
+    {
+      "id": 26,
+      "name_ar": "الزقازيق",
+      "name_en": "Az Zaqaziq",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 302840
+    },
+    {
+      "id": 27,
+      "name_ar": "مركز الوقف",
+      "name_en": "Al Waqf",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 301486
+    },
+    {
+      "id": 28,
+      "name_ar": "مستشفي العجمي التخصصي",
+      "name_en": "Al `Ajami",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 300000
+    },
+    {
+      "id": 29,
+      "name_ar": "المطرية",
+      "name_en": "Al Matariyah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 300000
+    },
+    {
+      "id": 30,
+      "name_ar": "مركز شبراخيت",
+      "name_en": "Shubrakhit",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 295777
+    },
+    {
+      "id": 31,
+      "name_ar": "مركز كفر صقر",
+      "name_en": "Kafr Saqr",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 294765
+    },
+    {
+      "id": 32,
+      "name_ar": "قلين",
+      "name_en": "Qillin",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 284853
+    },
+    {
+      "id": 33,
+      "name_ar": "شبين الكوم",
+      "name_en": "Shibin al Kawm",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 267945
+    },
+    {
+      "id": 34,
+      "name_ar": "أسوان",
+      "name_en": "Aswan",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 267913
+    },
+    {
+      "id": 35,
+      "name_ar": "طنطا",
+      "name_en": "Tanta",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 253600
+    },
+    {
+      "id": 36,
+      "name_ar": "دمنهور",
+      "name_en": "Damanhur",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 244043
+    },
+    {
+      "id": 37,
+      "name_ar": "جامعة المنيا",
+      "name_en": "Al Minya",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 236043
+    },
+    {
+      "id": 38,
+      "name_ar": "بيلا",
+      "name_en": "Biyala",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 231569
+    },
+    {
+      "id": 39,
+      "name_ar": "ساقلتة",
+      "name_en": "Saqultah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 227719
+    },
+    {
+      "id": 40,
+      "name_ar": "ملوي",
+      "name_en": "Mallawi",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 212628
+    },
+    {
+      "id": 41,
+      "name_ar": "فرشوط",
+      "name_en": "Farshut",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 207547
+    },
+    {
+      "id": 42,
+      "name_ar": "دمياط",
+      "name_en": "Damietta",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 206664
+    },
+    {
+      "id": 43,
+      "name_ar": "الأقصر",
+      "name_en": "Luxor",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 202232
+    },
+    {
+      "id": 44,
+      "name_ar": "مركز صدفا",
+      "name_en": "Sidfa",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 200977
+    },
+    {
+      "id": 45,
+      "name_ar": "سوهاج",
+      "name_en": "Suhaj",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 193931
+    },
+    {
+      "id": 46,
+      "name_ar": "محافظة بني سويف",
+      "name_en": "Bani Suwayf",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 193048
+    },
+    {
+      "id": 47,
+      "name_ar": "العريش",
+      "name_en": "Al `Arish",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 178651
+    },
+    {
+      "id": 48,
+      "name_ar": "قليوب",
+      "name_en": "Qalyub",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 156363
+    },
+    {
+      "id": 49,
+      "name_ar": "كفر الشيخ",
+      "name_en": "Kafr ash Shaykh",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 147393
+    },
+    {
+      "id": 50,
+      "name_ar": "دسوق",
+      "name_en": "Disuq",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 143404
+    },
+    {
+      "id": 51,
+      "name_ar": "بلبيس",
+      "name_en": "Bilbays",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 141285
+    },
+    {
+      "id": 52,
+      "name_ar": "إدفو",
+      "name_en": "Idfu",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 133772
+    },
+    {
+      "id": 53,
+      "name_ar": "روزيتَا",
+      "name_en": "Rosetta",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 125778
+    },
+    {
+      "id": 54,
+      "name_ar": "ميت غمر",
+      "name_en": "Mit Ghamr",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 121039
+    },
+    {
+      "id": 55,
+      "name_ar": "منيا القمح",
+      "name_en": "Faqus",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 116945
+    },
+    {
+      "id": 56,
+      "name_ar": "محافظة مطروح",
+      "name_en": "Matruh",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 108774
+    },
+    {
+      "id": 57,
+      "name_ar": "إدكو",
+      "name_en": "Idku",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 105875
+    },
+    {
+      "id": 58,
+      "name_ar": "كفر الدوار",
+      "name_en": "Kafr ad Dawwar",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 104709
+    },
+    {
+      "id": 59,
+      "name_ar": "جرجا",
+      "name_en": "Jirja",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 102597
+    },
+    {
+      "id": 60,
+      "name_ar": "زفتى",
+      "name_en": "Zifta",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 93740
+    },
+    {
+      "id": 61,
+      "name_ar": "سمالوط",
+      "name_en": "Samalut",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 91475
+    },
+    {
+      "id": 62,
+      "name_ar": "مركز البدرشين",
+      "name_en": "Al Badrashayn",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 90000
+    },
+    {
+      "id": 63,
+      "name_ar": "إبشواي",
+      "name_en": "Ibshaway",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 86186
+    },
+    {
+      "id": 64,
+      "name_ar": "منفلوط",
+      "name_en": "Manfalut",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 82585
+    },
+    {
+      "id": 65,
+      "name_ar": "رفح",
+      "name_en": "Rafah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 80823
+    },
+    {
+      "id": 66,
+      "name_ar": "مركز ميت سلسيل",
+      "name_en": "Mit Salsil",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 79957
+    },
+    {
+      "id": 67,
+      "name_ar": "بني مزار",
+      "name_en": "Bani Mazar",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 79553
+    },
+    {
+      "id": 68,
+      "name_ar": "مدينة السادات",
+      "name_en": "Madinat as Sadat",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 79000
+    },
+    {
+      "id": 69,
+      "name_ar": "الخانكة",
+      "name_en": "Al Khankah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 78185
+    },
+    {
+      "id": 70,
+      "name_ar": "كفر الزيات",
+      "name_en": "Kafr az Zayyat",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 76413
+    },
+    {
+      "id": 71,
+      "name_ar": "مركز مغاغة",
+      "name_en": "Maghaghah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 75657
+    },
+    {
+      "id": 72,
+      "name_ar": "شرم الشيخ",
+      "name_en": "Sharm ash Shaykh",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 73000
+    },
+    {
+      "id": 73,
+      "name_ar": "أبو تيج",
+      "name_en": "Abu Tij",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 70969
+    },
+    {
+      "id": 74,
+      "name_ar": "بورفؤاد",
+      "name_en": "Bur Fu'ad",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 70417
+    },
+    {
+      "id": 75,
+      "name_ar": "القوصية",
+      "name_en": "Al Qusiyah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 69388
+    },
+    {
+      "id": 76,
+      "name_ar": "كرداسة",
+      "name_en": "Kirdasah",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 69317
+    },
+    {
+      "id": 77,
+      "name_ar": "أبنوب",
+      "name_en": "Abnub",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 67526
+    },
+    {
+      "id": 78,
+      "name_ar": "ههيا",
+      "name_en": "Hihya",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 66702
+    },
+    {
+      "id": 79,
+      "name_ar": "القرين",
+      "name_en": "Al Qurayn",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 64453
+    },
+    {
+      "id": 80,
+      "name_ar": "قسم الشيخ زويد",
+      "name_en": "Ash Shaykh Zuwayd",
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "population": 64305
+    }
+  ],
+  "meta": {
+    "title": "مدن مصر — Cities of Egypt (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مصر بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Egypt with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 80 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مصر — Cities of Egypt (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مصر — Cities of Egypt (Arabic names) — 80 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 80 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ar-mudun-latvia",
+  "name": "مدن لاتفيا — Cities of Latvia (Arabic names)",
+  "title": "مدن لاتفيا — Cities of Latvia (Arabic names)",
+  "description": "قائمة بأسماء مدن لاتفيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Latvia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ريغا",
+      "name_en": "Riga",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 605273
+    },
+    {
+      "id": 2,
+      "name_ar": "داوغافبيلس",
+      "name_en": "Daugavpils",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 77799
+    },
+    {
+      "id": 3,
+      "name_ar": "ليباجا",
+      "name_en": "Liepaja",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 66680
+    },
+    {
+      "id": 4,
+      "name_ar": "يلغافا",
+      "name_en": "Jelgava",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 54701
+    },
+    {
+      "id": 5,
+      "name_ar": "يورمالا",
+      "name_en": "Jurmala",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 52154
+    },
+    {
+      "id": 6,
+      "name_ar": "فينتسبيلس",
+      "name_en": "Ventspils",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 32634
+    },
+    {
+      "id": 7,
+      "name_ar": "ريزكني",
+      "name_en": "Rezekne",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 26131
+    },
+    {
+      "id": 8,
+      "name_ar": "أوغره",
+      "name_en": "Ogre",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 22767
+    },
+    {
+      "id": 9,
+      "name_ar": "يكابيلس",
+      "name_en": "Jekabpils",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 21150
+    },
+    {
+      "id": 10,
+      "name_ar": "سالاسبليس",
+      "name_en": "Salaspils",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 17826
+    },
+    {
+      "id": 11,
+      "name_ar": "توكوموس",
+      "name_en": "Tukums",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 16318
+    },
+    {
+      "id": 12,
+      "name_ar": "سسيس",
+      "name_en": "Cesis",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 14699
+    },
+    {
+      "id": 13,
+      "name_ar": "سيغولدا",
+      "name_en": "Sigulda",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 14632
+    },
+    {
+      "id": 14,
+      "name_ar": "كولديغا",
+      "name_en": "Kuldiga",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 9940
+    },
+    {
+      "id": 15,
+      "name_ar": "أولاين",
+      "name_en": "Olaine",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 9908
+    },
+    {
+      "id": 16,
+      "name_ar": "باساكا",
+      "name_en": "Bauska",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 9811
+    },
+    {
+      "id": 17,
+      "name_ar": "سالدوس",
+      "name_en": "Saldus",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 9553
+    },
+    {
+      "id": 18,
+      "name_ar": "تالسي",
+      "name_en": "Talsi",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 8649
+    },
+    {
+      "id": 19,
+      "name_ar": "دوبل",
+      "name_en": "Dobele",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 8589
+    },
+    {
+      "id": 20,
+      "name_ar": "لودزا",
+      "name_en": "Ludza",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 7524
+    },
+    {
+      "id": 21,
+      "name_ar": "كراسلافا",
+      "name_en": "Kraslava",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6854
+    },
+    {
+      "id": 22,
+      "name_ar": "آيزاكراوكل",
+      "name_en": "Aizkraukle",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6853
+    },
+    {
+      "id": 23,
+      "name_ar": "ليفاني",
+      "name_en": "Livani",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6790
+    },
+    {
+      "id": 24,
+      "name_ar": "غولبين",
+      "name_en": "Gulbene",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6715
+    },
+    {
+      "id": 25,
+      "name_ar": "ليمباجي",
+      "name_en": "Limbazi",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6613
+    },
+    {
+      "id": 26,
+      "name_ar": "آلوكسني",
+      "name_en": "Aluksne",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 6175
+    },
+    {
+      "id": 27,
+      "name_ar": "بريلي",
+      "name_en": "Preili",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 5841
+    },
+    {
+      "id": 28,
+      "name_ar": "بالفي",
+      "name_en": "Balvi",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 5584
+    },
+    {
+      "id": 29,
+      "name_ar": "سميلتين",
+      "name_en": "Smiltene",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 5129
+    },
+    {
+      "id": 30,
+      "name_ar": "فالكا",
+      "name_en": "Valka",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 4564
+    },
+    {
+      "id": 31,
+      "name_ar": "ساولكراستي",
+      "name_en": "Saulkrasti",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 3149
+    },
+    {
+      "id": 32,
+      "name_ar": "بلدية روباجي",
+      "name_en": "Ropazi",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 1681
+    },
+    {
+      "id": 33,
+      "name_ar": "فاركلاني",
+      "name_en": "Varaklani",
+      "country_ar": "لاتفيا",
+      "country_en": "Latvia",
+      "population": 1653
+    }
+  ],
+  "meta": {
+    "title": "مدن لاتفيا — Cities of Latvia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن لاتفيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Latvia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 33 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن لاتفيا — Cities of Latvia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن لاتفيا — Cities of Latvia (Arabic names) — 33 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 33 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

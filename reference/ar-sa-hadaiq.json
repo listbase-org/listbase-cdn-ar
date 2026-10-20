@@ -1,0 +1,302 @@
+{
+  "id": "ar-sa-hadaiq",
+  "name": "الحدائق العامة في المملكة العربية السعودية (Public Parks of Saudi Arabia)",
+  "title": "الحدائق العامة في المملكة العربية السعودية (Public Parks of Saudi Arabia)",
+  "description": "قائمة حديقة عامة في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q22698) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of urban parks in Saudi Arabia from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q106855848",
+      "name_ar": "حديقة الملك عبد الله",
+      "name_en": "King Abdullah Park",
+      "admin_area_ar": "محافظة الرياض",
+      "admin_area_en": "Riyadh governorate",
+      "latitude": 24.666388888,
+      "longitude": 46.736944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106855848"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q107016359",
+      "name_ar": "منتزه الخالدية",
+      "name_en": "Al Khalidiya Park, Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.615833333,
+      "longitude": 46.761388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107016359"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31871937",
+      "name_ar": "الامواج منتزه ومطاعم والعاب",
+      "name_en": "Al Amwāj Muntazah wa Maţā‘im wa Al‘āb",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.584444444,
+      "longitude": 39.110277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31871937"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q31876106",
+      "name_ar": "الحديقة الصخرية البفدادية",
+      "name_en": "Al Ḩadīqah aş Şakhrīyah al Baghdādīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.499444444,
+      "longitude": 39.185555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31876106"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q32122802",
+      "name_ar": "فن تايم",
+      "name_en": "Fun Tāyim",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.593055555,
+      "longitude": 39.107222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32122802"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q32138275",
+      "name_ar": "مدينة العاب بدر الترفيهية",
+      "name_en": "Madīnat Al‘āb Badr at Tarfīhīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.447777777,
+      "longitude": 39.8075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138275"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q32138698",
+      "name_ar": "ملاهي النورس",
+      "name_en": "Malāhī an Nawras",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.559722222,
+      "longitude": 39.112777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138698"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q32141433",
+      "name_ar": "منتزه اليمامة",
+      "name_en": "Muntazah al Yamāmah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.58,
+      "longitude": 39.151388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32141433"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q32141448",
+      "name_ar": "منتزه بيبي بارك",
+      "name_en": "Muntazah Bībī Bārk",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.416666666,
+      "longitude": 39.791944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32141448"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q32141482",
+      "name_ar": "منتزه ومركز العمدة",
+      "name_en": "Muntazah wa Markaz al ‘Umdah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.478333333,
+      "longitude": 39.205833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32141482"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q32143414",
+      "name_ar": "نيو جاردن العاب مائية مطعم وكافيه",
+      "name_en": "Niyū Jārdan Al‘āb Mā'īyah Maţ‘am wa Kāfayh",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.597222222,
+      "longitude": 39.110833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32143414"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q32222475",
+      "name_ar": "حديقة الامواج الترفيهية",
+      "name_en": "Ḩadīqat al Amwāj at Tarfīhīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.513888888,
+      "longitude": 39.190833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222475"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q32222486",
+      "name_ar": "حديقة الامواج الترفيهية",
+      "name_en": "Ḩadīqat al Amwāj at Tarfīhīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.524444444,
+      "longitude": 39.199166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222486"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q32222497",
+      "name_ar": "حديقة البلدية",
+      "name_en": "Ḩadīqat al Baladīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.551944444,
+      "longitude": 39.21,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222497"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q32222506",
+      "name_ar": "حديقة الاحسان",
+      "name_en": "Ḩadīqat al Iḩsān",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.42,
+      "longitude": 39.855555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222506"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q32222541",
+      "name_ar": "حديقة الوطن",
+      "name_en": "Ḩadīqat al Waţan",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.621111111,
+      "longitude": 46.708333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222541"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q32222553",
+      "name_ar": "حديقة النداء الخالد",
+      "name_en": "Ḩadīqat an Nadā' al Khālid",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.392777777,
+      "longitude": 39.789444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222553"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q32222578",
+      "name_ar": "حديقة الطفل الخيرية",
+      "name_en": "Ḩadīqat aţ Ţifl al Khayrīyah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.413888888,
+      "longitude": 39.858055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222578"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q32222588",
+      "name_ar": "حديقة الطائف",
+      "name_en": "Ḩadīqat aţ Ţā'if",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.418055555,
+      "longitude": 39.854722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222588"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q32222598",
+      "name_ar": "حديقة جرين لاند",
+      "name_en": "Ḩadīqat Jarīn Lānd",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.408333333,
+      "longitude": 39.82,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32222598"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q65066729",
+      "name_ar": "حديقة الملك سلمان",
+      "name_en": "King Salman Park",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.71928,
+      "longitude": 46.72363,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65066729"
+    }
+  ],
+  "meta": {
+    "title": "الحدائق العامة في المملكة العربية السعودية (Public Parks of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة حديقة عامة في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q22698) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of urban parks in Saudi Arabia from Wikidata. يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الحدائق العامة في المملكة العربية السعودية (Public Parks of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل الحدائق العامة في المملكة العربية السعودية (Public Parks of Saudi Arabia) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

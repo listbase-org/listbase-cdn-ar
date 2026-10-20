@@ -1,0 +1,133 @@
+{
+  "id": "ar-eid-saudia",
+  "name": "الأعياد والمناسبات الرسمية في المملكة العربية السعودية",
+  "title": "الأعياد والمناسبات الرسمية في المملكة العربية السعودية",
+  "description": "الأعياد الوطنية والإسلامية الرسمية في المملكة العربية السعودية — تشمل عيد الفطر، عيد الأضحى، اليوم الوطني، ويوم التأسيس. مواعيد الأعياد الإسلامية تعتمد على التقويم الهجري وقد تختلف الرؤية. المصدر: commenthol/date-holidays (Wikipedia، CC-BY-SA-3.0).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rule",
+      "label": "Rule",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "reference",
+      "label": "Reference",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "substitute",
+      "label": "Substitute",
+      "type": "boolean"
+    },
+    {
+      "key": "disable",
+      "label": "Disable",
+      "type": "string"
+    },
+    {
+      "key": "enable",
+      "label": "Enable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rule": "02-22 since 2022",
+      "name_native": "يوم التأسيس",
+      "name_en": "Founding Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 2,
+      "rule": "09-23 since 2005",
+      "name_native": "اليوم الوطني",
+      "name_en": "National Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 3,
+      "rule": "30 Ramadan P4D",
+      "name_native": "عيد الفطر",
+      "name_en": "End of Ramadan (Eid al-Fitr)",
+      "type": "public",
+      "reference": "1 Shawwal",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 4,
+      "rule": "9 Dhu al-Hijjah P4D",
+      "name_native": "عيد الأضحى",
+      "name_en": "Feast of the Sacrifice (Eid al-Adha)",
+      "type": "public",
+      "reference": "10 Dhu al-Hijjah",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    }
+  ],
+  "meta": {
+    "title": "الأعياد والمناسبات الرسمية في المملكة العربية السعودية - تحميل مجاني",
+    "description": "الأعياد الوطنية والإسلامية الرسمية في المملكة العربية السعودية — تشمل عيد الفطر، عيد الأضحى، اليوم الوطني، ويوم التأسيس. مواعيد الأعياد الإسلامية تعتمد على التقويم الهجري وقد تختلف الرؤية. المصدر: commenthol/date-holidays (Wikipedia، CC-BY-SA-3.0). يحتوي على 4 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الأعياد والمناسبات الرسمية في المملكة العربية السعودية | ListBase",
+    "seo_description": "تحميل الأعياد والمناسبات الرسمية في المملكة العربية السعودية — 4 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 4 سجل / 11 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

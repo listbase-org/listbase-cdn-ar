@@ -1,0 +1,352 @@
+{
+  "id": "ar-mudun-cameroon",
+  "name": "مدن الكاميرون — Cities of Cameroon (Arabic names)",
+  "title": "مدن الكاميرون — Cities of Cameroon (Arabic names)",
+  "description": "قائمة بأسماء مدن الكاميرون بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 37 cities in Cameroon with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دوالة",
+      "name_en": "Douala",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 5768400
+    },
+    {
+      "id": 2,
+      "name_ar": "ياوندي",
+      "name_en": "Yaounde",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 2440462
+    },
+    {
+      "id": 3,
+      "name_ar": "غاروا",
+      "name_en": "Garoua",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 600000
+    },
+    {
+      "id": 4,
+      "name_ar": "بامندة",
+      "name_en": "Bamenda",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 600000
+    },
+    {
+      "id": 5,
+      "name_ar": "بافوسام",
+      "name_en": "Bafoussam",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 600000
+    },
+    {
+      "id": 6,
+      "name_ar": "ماروا",
+      "name_en": "Maroua",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 201371
+    },
+    {
+      "id": 7,
+      "name_ar": "نغاونديري",
+      "name_en": "Ngaoundere",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 189800
+    },
+    {
+      "id": 8,
+      "name_ar": "نكونغسامبا",
+      "name_en": "Nkongsamba",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 135405
+    },
+    {
+      "id": 9,
+      "name_ar": "بويا",
+      "name_en": "Buea",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 131325
+    },
+    {
+      "id": 10,
+      "name_ar": "قصور‎",
+      "name_en": "Kousseri",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 101246
+    },
+    {
+      "id": 11,
+      "name_ar": "بوغو",
+      "name_en": "Bogo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 95230
+    },
+    {
+      "id": 12,
+      "name_ar": "بيرتوا",
+      "name_en": "Bertoua",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 88462
+    },
+    {
+      "id": 13,
+      "name_ar": "نيتشر",
+      "name_en": "Maga",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 85100
+    },
+    {
+      "id": 14,
+      "name_ar": "فاومبان",
+      "name_en": "Foumban",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 83522
+    },
+    {
+      "id": 15,
+      "name_ar": "كومبو",
+      "name_en": "Kumbo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 80212
+    },
+    {
+      "id": 16,
+      "name_ar": "إيسيكا",
+      "name_en": "Eseka",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 79500
+    },
+    {
+      "id": 17,
+      "name_ar": "ايبولوا",
+      "name_en": "Ebolowa",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 76885
+    },
+    {
+      "id": 18,
+      "name_ar": "جان",
+      "name_en": "Dschang",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 76524
+    },
+    {
+      "id": 19,
+      "name_ar": "إديا",
+      "name_en": "Edea",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 73128
+    },
+    {
+      "id": 20,
+      "name_ar": "باذنجان",
+      "name_en": "Melong",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 71189
+    },
+    {
+      "id": 21,
+      "name_ar": "بافيا",
+      "name_en": "Bafia",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 69270
+    },
+    {
+      "id": 22,
+      "name_ar": "جويدو ريني",
+      "name_en": "Guider",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 65165
+    },
+    {
+      "id": 23,
+      "name_ar": "سانغمليما",
+      "name_en": "Sangmelima",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 64227
+    },
+    {
+      "id": 24,
+      "name_ar": "مبالمايو",
+      "name_en": "Mbalmayo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 60091
+    },
+    {
+      "id": 25,
+      "name_ar": "كريبي",
+      "name_en": "Kribi",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 60000
+    },
+    {
+      "id": 26,
+      "name_ar": "مورا",
+      "name_en": "Mora",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 53667
+    },
+    {
+      "id": 27,
+      "name_ar": "يوم",
+      "name_en": "Mokolo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 40168
+    },
+    {
+      "id": 28,
+      "name_ar": "صفة",
+      "name_en": "Obala",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 37888
+    },
+    {
+      "id": 29,
+      "name_ar": "ريف باتوري",
+      "name_en": "Batouri",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 33594
+    },
+    {
+      "id": 30,
+      "name_ar": "بافانغ",
+      "name_en": "Bafang",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 33342
+    },
+    {
+      "id": 31,
+      "name_ar": "لاغدو",
+      "name_en": "Lagdo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 28239
+    },
+    {
+      "id": 32,
+      "name_ar": "ليمبي",
+      "name_en": "Limbe",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 26988
+    },
+    {
+      "id": 33,
+      "name_ar": "بيلابو",
+      "name_en": "Belabo",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 22553
+    },
+    {
+      "id": 34,
+      "name_ar": "أبونغ-مبانغ",
+      "name_en": "Abong Mbang",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 18700
+    },
+    {
+      "id": 35,
+      "name_ar": "محافظة نغوني",
+      "name_en": "Ngou",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 12000
+    },
+    {
+      "id": 36,
+      "name_ar": "تيوفيلين",
+      "name_en": "Tefam",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 12000
+    },
+    {
+      "id": 37,
+      "name_ar": "كونتشا",
+      "name_en": "Kontcha",
+      "country_ar": "الكاميرون",
+      "country_en": "Cameroon",
+      "population": 8018
+    }
+  ],
+  "meta": {
+    "title": "مدن الكاميرون — Cities of Cameroon (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الكاميرون بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 37 cities in Cameroon with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 37 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الكاميرون — Cities of Cameroon (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الكاميرون — Cities of Cameroon (Arabic names) — 37 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 37 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

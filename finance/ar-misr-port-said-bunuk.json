@@ -1,0 +1,275 @@
+{
+  "id": "ar-misr-port-said-bunuk",
+  "name": "بنوك Port Said — مصر — رموز سويفت (Banks of Port Said, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Port Said — مصر — رموز سويفت (Banks of Port Said, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Port Said (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 32 سجلًا. List of banks, financial institutions and their branches in Port Said, Egypt with the SWIFT/BIC code, bank name and branch name for each. 32 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "DEIBEGCX621"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB INTERNATIONAL BANK",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "ARIBEGCX006"
+    },
+    {
+      "id": 3,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "AINBEGCAPSD"
+    },
+    {
+      "id": 4,
+      "bank": "BANK OF ALEXANDRIA S A E",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "ALEXEGCX002"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE DU CAIRE",
+      "city": "PORT SAID",
+      "branch": "(PORT FOUAD BRANCH)",
+      "swift_code": "BCAIEGCX330"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE DU CAIRE",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "BCAIEGCX300"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE MISR",
+      "city": "PORT SAID",
+      "branch": "(EL GOMHORIA ST. BRANCH)",
+      "swift_code": "BMISEGCX373"
+    },
+    {
+      "id": 8,
+      "bank": "BANQUE MISR",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "BMISEGCX413"
+    },
+    {
+      "id": 9,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID)",
+      "swift_code": "MRBAEGCX026"
+    },
+    {
+      "id": 10,
+      "bank": "CENTRAL BANK OF EGYPT CAIRO",
+      "city": "PORT SAID",
+      "branch": "(CBE PORT SAID BRANCH)",
+      "swift_code": "CBEGEGCAPRT"
+    },
+    {
+      "id": 11,
+      "bank": "CENTRAL BANK OF EGYPT CAIRO",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "CBEGEGCXPOS"
+    },
+    {
+      "id": 12,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORT FOUAD BRANCH)",
+      "swift_code": "CIBEEGCX197"
+    },
+    {
+      "id": 13,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "CIBEEGCX002"
+    },
+    {
+      "id": 14,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORTSAID CORNISH BRANCH)",
+      "swift_code": "CIBEEGCX208"
+    },
+    {
+      "id": 15,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(SHIPPING  OPERATION)",
+      "swift_code": "CIBEEGCXSHP"
+    },
+    {
+      "id": 16,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "PORT SAID",
+      "branch": "",
+      "swift_code": "ARLBEGCAPOR"
+    },
+    {
+      "id": 17,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID)",
+      "swift_code": "FIEGEGCXPSD"
+    },
+    {
+      "id": 18,
+      "bank": "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "",
+      "swift_code": "DIBBEGCA0A5"
+    },
+    {
+      "id": 19,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "MIDBEGCXPTS"
+    },
+    {
+      "id": 20,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "NBADEGCAPSD"
+    },
+    {
+      "id": 21,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(23 JULY BRANCH)",
+      "swift_code": "NBEGEGCX313"
+    },
+    {
+      "id": 22,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(EL KUWAIT AVENUE BRANCH)",
+      "swift_code": "NBEGEGCX311"
+    },
+    {
+      "id": 23,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(LOCAL LETTERS OF GUARANTEE CANAL  CENTER)",
+      "swift_code": "NBEGEGCX562"
+    },
+    {
+      "id": 24,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(PORT FOUAD BRANCH)",
+      "swift_code": "NBEGEGCX312"
+    },
+    {
+      "id": 25,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "NBEGEGCX310"
+    },
+    {
+      "id": 26,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "PORT SAID",
+      "branch": "(PORT-SAID-AL GOMROK BRANCH)",
+      "swift_code": "NBEGEGCX314"
+    },
+    {
+      "id": 27,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "PORT SAID",
+      "branch": "(EL NOURS)",
+      "swift_code": "SBNKEGCXNRS"
+    },
+    {
+      "id": 28,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "PORT SAID",
+      "branch": "(INVESTMENT)",
+      "swift_code": "SBNKEGCXINV"
+    },
+    {
+      "id": 29,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "PORT SAID",
+      "branch": "(ISLAMIC BRANCH)",
+      "swift_code": "SBNKEGCXISL"
+    },
+    {
+      "id": 30,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "PORT SAID",
+      "branch": "",
+      "swift_code": "SBNKEGCXSHD"
+    },
+    {
+      "id": 31,
+      "bank": "SUEZ CANAL BANK",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "SUCAEGCXPTS"
+    },
+    {
+      "id": 32,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "PORT SAID",
+      "branch": "(PORT SAID BRANCH)",
+      "swift_code": "UNBEEGCXPSD"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Port Said — مصر — رموز سويفت (Banks of Port Said, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Port Said (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 32 سجلًا. List of banks, financial institutions and their branches in Port Said, Egypt with the SWIFT/BIC code, bank name and branch name for each. 32 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 32 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Port Said — مصر — رموز سويفت (Banks of Port Said, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Port Said — مصر — رموز سويفت (Banks of Port Said, Egypt — SWIFT/BIC codes) — 32 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 32 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

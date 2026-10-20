@@ -1,0 +1,352 @@
+{
+  "id": "ar-filastin-matarat",
+  "name": "مطارات فلسطين",
+  "title": "مطارات فلسطين",
+  "description": "قائمة بجميع المطارات ومرافق الطيران في فلسطين (7 سجلاً) مستخرجة من قاعدة بيانات OurAirports. تشمل المطارات الدولية والإقليمية والمهابط ومهابط الطائرات المروحية، مع الأسماء والإحداثيات والارتفاع ورموز ICAO و IATA والمنطقة الإدارية. مقسمة من المجموعة العربية الشاملة ar-matarat.",
+  "category": "transport",
+  "source": "https://github.com/davidmegginson/ourairports-data",
+  "source_url": "https://github.com/davidmegginson/ourairports-data",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "country_name_ar",
+      "label": "Country Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_name_en",
+      "label": "Country Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "region_name_source",
+      "label": "Region Name Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 45009,
+      "ident": "PS-0001",
+      "type": "closed",
+      "name": "Jurish Highway Strip H",
+      "latitude_deg": 32.098363,
+      "longitude_deg": 35.345356,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-NBS",
+      "region_local_code": "NBS",
+      "region_name": "Nablus Governorate",
+      "municipality": "Jurish",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Palestine, West Bank",
+      "parent_index": 1036,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Nablus Governorate"
+    },
+    {
+      "id": 340576,
+      "ident": "PS-0002",
+      "type": "closed",
+      "name": "Muqeible Airfield",
+      "latitude_deg": 32.503056,
+      "longitude_deg": 35.289167,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-JEN",
+      "region_local_code": "JEN",
+      "region_name": "Jenin Governorate",
+      "municipality": "Jenin",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 1037,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Jenin Governorate"
+    },
+    {
+      "id": 340583,
+      "ident": "PS-0003",
+      "type": "heliport",
+      "name": "Bethlehem Heliport",
+      "latitude_deg": 31.695021,
+      "longitude_deg": 35.188522,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-BTH",
+      "region_local_code": "BTH",
+      "region_name": "Bethlehem Governorate",
+      "municipality": "Dheisheh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 1038,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Bethlehem Governorate"
+    },
+    {
+      "id": 520329,
+      "ident": "PS-0004",
+      "type": "closed",
+      "name": "RAF Gaza",
+      "latitude_deg": 31.472586,
+      "longitude_deg": 34.478874,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-GZA",
+      "region_local_code": "GZA",
+      "region_name": "Gaza Governorate",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Gaza",
+      "keywords": "RAF, RAF Gaza",
+      "parent_index": 1039,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Gaza Governorate"
+    },
+    {
+      "id": 29928,
+      "ident": "PS-0005",
+      "type": "closed",
+      "name": "Gush Katif Airport",
+      "latitude_deg": 31.36705,
+      "longitude_deg": 34.29451,
+      "elevation_ft": 112,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-KYS",
+      "region_local_code": "KYS",
+      "region_name": "Khan Yunis Governorate",
+      "municipality": "Khan Yunis",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Gush_Katif",
+      "keywords": "GHK, Palestine, Gaza, LLAZ",
+      "parent_index": 1040,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Khan Yunis Governorate"
+    },
+    {
+      "id": 34929,
+      "ident": "PS-0006",
+      "type": "closed",
+      "name": "Yasser Arafat International Airport",
+      "latitude_deg": 31.246401,
+      "longitude_deg": 34.2761,
+      "elevation_ft": 320,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-RFH",
+      "region_local_code": "RFH",
+      "region_name": "Rafah Governorate",
+      "municipality": "Gaza",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Yasser_Arafat_International_Airport",
+      "keywords": "Dahaniya International Airport, LVGZ, GZA",
+      "parent_index": 1041,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Rafah Governorate"
+    },
+    {
+      "id": 352767,
+      "ident": "ZDM",
+      "type": "heliport",
+      "name": "Ramallah Heliport",
+      "latitude_deg": 31.91123,
+      "longitude_deg": 35.20756,
+      "elevation_ft": 2858,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-RBH",
+      "region_local_code": "RBH",
+      "region_name": "Ramallah and al-Bireh Governorate",
+      "municipality": "Ramallah",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "ZDM",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "",
+      "parent_index": 1042,
+      "country_name_ar": "فلسطين",
+      "country_name_en": "Palestine",
+      "country_slug": "filastin",
+      "region_name_source": "Ramallah and al-Bireh Governorate"
+    }
+  ],
+  "meta": {
+    "title": "مطارات فلسطين - تحميل مجاني",
+    "description": "قائمة بجميع المطارات ومرافق الطيران في فلسطين (7 سجلاً) مستخرجة من قاعدة بيانات OurAirports. تشمل المطارات الدولية والإقليمية والمهابط ومهابط الطائرات المروحية، مع الأسماء والإحداثيات والارتفاع ورموز ICAO و IATA والمنطقة الإدارية. مقسمة من المجموعة العربية الشاملة ar-matarat. يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مطارات فلسطين | ListBase",
+    "seo_description": "تحميل مطارات فلسطين — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 26 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: https://github.com/davidmegginson/ourairports-data"
+    ]
+  }
+}

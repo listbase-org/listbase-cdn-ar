@@ -1,0 +1,232 @@
+{
+  "id": "ar-mudun-cambodia",
+  "name": "مدن كمبوديا — Cities of Cambodia (Arabic names)",
+  "title": "مدن كمبوديا — Cities of Cambodia (Arabic names)",
+  "description": "قائمة بأسماء مدن كمبوديا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Cambodia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بنوم بنه",
+      "name_en": "Phnom Penh",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 2129371
+    },
+    {
+      "id": 2,
+      "name_ar": "سيام ريب",
+      "name_en": "Siem Reap",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 147866
+    },
+    {
+      "id": 3,
+      "name_ar": "باتامبانج",
+      "name_en": "Battambang",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 130000
+    },
+    {
+      "id": 4,
+      "name_ar": "كامبونج تشام",
+      "name_en": "Kampong Cham",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 118242
+    },
+    {
+      "id": 5,
+      "name_ar": "سيسوفون",
+      "name_en": "Sisophon",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 99019
+    },
+    {
+      "id": 6,
+      "name_ar": "سيهانوكفيل",
+      "name_en": "Sihanoukville",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 71082
+    },
+    {
+      "id": 7,
+      "name_ar": "سامرونج",
+      "name_en": "Samraong",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 70944
+    },
+    {
+      "id": 8,
+      "name_ar": "محافظة كراتي",
+      "name_en": "Kratie",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 60000
+    },
+    {
+      "id": 9,
+      "name_ar": "محافظة بورسات",
+      "name_en": "Pursat",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 58255
+    },
+    {
+      "id": 10,
+      "name_ar": "تاكيو",
+      "name_en": "Takeo",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 52000
+    },
+    {
+      "id": 11,
+      "name_ar": "محافطة كامبونغ تشنانغ",
+      "name_en": "Kampong Chhnang",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 41700
+    },
+    {
+      "id": 12,
+      "name_ar": "تاي نينه",
+      "name_en": "Svay Rieng",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 41424
+    },
+    {
+      "id": 13,
+      "name_ar": "كامبوت",
+      "name_en": "Kampot",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 39186
+    },
+    {
+      "id": 14,
+      "name_ar": "محافظة بري فنغ",
+      "name_en": "Prey Veng",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 36254
+    },
+    {
+      "id": 15,
+      "name_ar": "محافظة كوه كونغ",
+      "name_en": "Koh Kong",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 33591
+    },
+    {
+      "id": 16,
+      "name_ar": "محافظة كامبونغ سبيو",
+      "name_en": "Kampong Speu",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 33231
+    },
+    {
+      "id": 17,
+      "name_ar": "محافظة كامبونغ ثوم",
+      "name_en": "Kampong Thom",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 31871
+    },
+    {
+      "id": 18,
+      "name_ar": "بانلونغ",
+      "name_en": "Banlung",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 30399
+    },
+    {
+      "id": 19,
+      "name_ar": "محافظة ستونغ ترينغ",
+      "name_en": "Stung Treng",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 29665
+    },
+    {
+      "id": 20,
+      "name_ar": "محافظة برياه فيهير",
+      "name_en": "Preah Vihear",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 24360
+    },
+    {
+      "id": 21,
+      "name_ar": "محافظة كامبونغ ثوم",
+      "name_en": "Kampong Thum",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 19951
+    },
+    {
+      "id": 22,
+      "name_ar": "سنمونوروم",
+      "name_en": "Sen Monorom",
+      "country_ar": "كمبوديا",
+      "country_en": "Cambodia",
+      "population": 7500
+    }
+  ],
+  "meta": {
+    "title": "مدن كمبوديا — Cities of Cambodia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كمبوديا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 22 cities in Cambodia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 22 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كمبوديا — Cities of Cambodia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كمبوديا — Cities of Cambodia (Arabic names) — 22 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 22 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

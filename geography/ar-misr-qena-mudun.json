@@ -1,0 +1,142 @@
+{
+  "id": "ar-misr-qena-mudun",
+  "name": "مدن ومراكز محافظة قنا (Cities & Towns of Qena)",
+  "title": "مدن ومراكز محافظة قنا (Cities & Towns of Qena)",
+  "description": "قائمة مدن ومراكز محافظة قنا في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Qena governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "266",
+      "name_ar": "أبو تشت",
+      "name_en": "abu-tisht",
+      "name_long_ar": "أبو تشت، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "315",
+      "name_ar": "الوقف",
+      "name_en": "wakf",
+      "name_long_ar": "الوقف، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "270",
+      "name_ar": "شنا",
+      "name_en": "shna",
+      "name_long_ar": "شنا، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "267",
+      "name_ar": "فرشوط",
+      "name_en": "farshout",
+      "name_long_ar": "فرشوط، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "271",
+      "name_ar": "قفط",
+      "name_en": "keft",
+      "name_long_ar": "قفط، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "272",
+      "name_ar": "قوص",
+      "name_en": "quos",
+      "name_long_ar": "قوص، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "265",
+      "name_ar": "مدينة قنا",
+      "name_en": "qena-city",
+      "name_long_ar": "مدينة قنا، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "268",
+      "name_ar": "نجع حمادي",
+      "name_en": "nag-hammadi",
+      "name_long_ar": "نجع حمادي، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    },
+    {
+      "id": "273",
+      "name_ar": "نقادة",
+      "name_en": "nakada",
+      "name_long_ar": "نقادة، قنا",
+      "muhafaza_ar": "قنا",
+      "muhafaza_en": "qena",
+      "muhafaza_id": 76
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة قنا (Cities & Towns of Qena) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة قنا في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Qena governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 9 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة قنا (Cities & Towns of Qena) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة قنا (Cities & Towns of Qena) — 9 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 9 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

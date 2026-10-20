@@ -1,0 +1,170 @@
+{
+  "id": "ar-sa-marakiz-tasawwuq",
+  "name": "مراكز التسوق في المملكة العربية السعودية (Shopping Malls of Saudi Arabia)",
+  "title": "مراكز التسوق في المملكة العربية السعودية (Shopping Malls of Saudi Arabia)",
+  "description": "قائمة مركز تسوق في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q11315) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of shopping malls in Saudi Arabia from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q106936047",
+      "name_ar": "مركز الشعلة التجاري",
+      "name_en": "Shola Shopping Center",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.676388888,
+      "longitude": 46.718888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106936047"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q107260098",
+      "name_ar": "الرياض بارك",
+      "name_en": "Riyadh Park",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.756777777,
+      "longitude": 46.630027777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107260098"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q111726423",
+      "name_ar": "الرياض جاليري مول",
+      "name_en": "Riyadh Gallery Mall",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.743055555,
+      "longitude": 46.658055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111726423"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4704690",
+      "name_ar": "مجمع الراشد",
+      "name_en": "Al Rashid Mall",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.2907,
+      "longitude": 50.1809,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4704690"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5594094",
+      "name_ar": "مركز غرناطة",
+      "name_en": "Granada Center",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.7817,
+      "longitude": 46.7311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5594094"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q6743988",
+      "name_ar": "مول العرب",
+      "name_en": "Mall of Arabia",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.6325,
+      "longitude": 39.1572,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6743988"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7305003",
+      "name_ar": "رد سي مول",
+      "name_en": "Red Sea Mall",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.6278,
+      "longitude": 39.1111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7305003"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q7399501",
+      "name_ar": "صحارى مول",
+      "name_en": "Sahara Mall",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.7386,
+      "longitude": 46.6828,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7399501"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q7452608",
+      "name_ar": "صيرفي ميقا مول",
+      "name_en": "Serafi Mega Mall",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.56,
+      "longitude": 39.185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7452608"
+    }
+  ],
+  "meta": {
+    "title": "مراكز التسوق في المملكة العربية السعودية (Shopping Malls of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة مركز تسوق في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q11315) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of shopping malls in Saudi Arabia from Wikidata. يحتوي على 9 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مراكز التسوق في المملكة العربية السعودية (Shopping Malls of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل مراكز التسوق في المملكة العربية السعودية (Shopping Malls of Saudi Arabia) — 9 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 9 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

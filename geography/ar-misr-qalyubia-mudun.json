@@ -1,0 +1,178 @@
+{
+  "id": "ar-misr-qalyubia-mudun",
+  "name": "مدن ومراكز محافظة القليوبية (Cities & Towns of Qalyubia)",
+  "title": "مدن ومراكز محافظة القليوبية (Cities & Towns of Qalyubia)",
+  "description": "قائمة مدن ومراكز محافظة القليوبية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Qalyubia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "15",
+      "name_ar": "الخانكة",
+      "name_en": "khanka",
+      "name_long_ar": "الخانكة، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "16",
+      "name_ar": "الخصوص",
+      "name_en": "khosous",
+      "name_long_ar": "الخصوص، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "18",
+      "name_ar": "العبور",
+      "name_en": "el-ubour",
+      "name_long_ar": "العبور، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "17",
+      "name_ar": "القناطر الخيرية",
+      "name_en": "qanater-al-khairia",
+      "name_long_ar": "القناطر الخيرية، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "19",
+      "name_ar": "بنها",
+      "name_en": "banha",
+      "name_long_ar": "بنها، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "164",
+      "name_ar": "بهتيم",
+      "name_en": "bahtim",
+      "name_long_ar": "بهتيم، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "410",
+      "name_ar": "زاويه النجار",
+      "name_en": "zawya-el-naggar",
+      "name_long_ar": "زاويه النجار، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "23",
+      "name_ar": "شبرا الخيمة",
+      "name_en": "shubra-al-khaimah",
+      "name_long_ar": "شبرا الخيمة، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "24",
+      "name_ar": "شبين القناطر",
+      "name_en": "shebin-al-qanater",
+      "name_long_ar": "شبين القناطر، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "25",
+      "name_ar": "طوخ",
+      "name_en": "tookh",
+      "name_long_ar": "طوخ، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "22",
+      "name_ar": "قليوب",
+      "name_en": "qalyub",
+      "name_long_ar": "قليوب، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "21",
+      "name_ar": "قها",
+      "name_en": "qaha",
+      "name_long_ar": "قها، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    },
+    {
+      "id": "20",
+      "name_ar": "كفر شكر",
+      "name_en": "kafr-shukr",
+      "name_long_ar": "كفر شكر، القليوبية",
+      "muhafaza_ar": "القليوبية",
+      "muhafaza_en": "qalyubia",
+      "muhafaza_id": 59
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة القليوبية (Cities & Towns of Qalyubia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة القليوبية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Qalyubia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 13 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة القليوبية (Cities & Towns of Qalyubia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة القليوبية (Cities & Towns of Qalyubia) — 13 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 13 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

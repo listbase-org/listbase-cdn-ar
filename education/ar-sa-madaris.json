@@ -1,0 +1,324 @@
+{
+  "id": "ar-sa-madaris",
+  "name": "المدارس في المملكة العربية السعودية (Schools of Saudi Arabia)",
+  "title": "المدارس في المملكة العربية السعودية (Schools of Saudi Arabia)",
+  "description": "Schools of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q108559397",
+      "name_ar": "",
+      "name_en": "American School Dhahran",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.3031,
+      "longitude": 50.1569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108559397"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q19904052",
+      "name_ar": "المدرسة الألمانية الدولية",
+      "name_en": "German International School Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.851282,
+      "longitude": 46.638455,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19904052"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4744195",
+      "name_ar": "المدرسة الأمريكية الدولية - الرياض",
+      "name_en": "American International School – Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.84733,
+      "longitude": 46.63475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4744195"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q7125608",
+      "name_ar": "المدرسة الباكستانية الدولية",
+      "name_en": "Pakistan International School, Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.6517,
+      "longitude": 46.6867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7125608"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q15204893",
+      "name_ar": "المدرسة البريطانية الدولية",
+      "name_en": "British International School, Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.791111,
+      "longitude": 46.729722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15204893"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q119705194",
+      "name_ar": "المدرسة التحضيرية الاميرية",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.348171,
+      "longitude": 35.694852,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119705194"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q19891560",
+      "name_ar": "المدرسة الدولية الألمانية",
+      "name_en": "German International School Jeddah",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.596493,
+      "longitude": 39.191861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19891560"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q7125607",
+      "name_ar": "المدرسة الدولية الباكستانية",
+      "name_en": "Pakistan International School, Al-Khobar",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.295278,
+      "longitude": 50.211389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7125607"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4855318",
+      "name_ar": "المدرسة الدولية البنجلاديشية القسم الإنجليزي الرياض",
+      "name_en": "Bangladesh International School, English Section, Riyadh",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.6846,
+      "longitude": 46.6982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4855318"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q15228754",
+      "name_ar": "المدرسة الدولية الفلبينية في الخبر",
+      "name_en": "International Philippine School in Al Khobar",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.268333,
+      "longitude": 50.213889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15228754"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q6051058",
+      "name_ar": "المدرسة الدولية الهندية",
+      "name_en": "International Indian School, Riyadh",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.722778,
+      "longitude": 46.7725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6051058"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q21666077",
+      "name_ar": "المدرسة الفلبينية العالمية بجدة",
+      "name_en": "International Philippine School in Jeddah",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.545034,
+      "longitude": 39.202796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21666077"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q6051055",
+      "name_ar": "المدرسة الهندية الدولية (الدمام)",
+      "name_en": "International Indian School, Dammam",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.383167,
+      "longitude": 50.18241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6051055"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q6051062",
+      "name_ar": "المدرسة الهندية العالمية",
+      "name_en": "International Indian School Jeddah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.5503,
+      "longitude": 39.2258,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6051062"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q6051052",
+      "name_ar": "المدرسة الهندية العالمية (الجبيل)",
+      "name_en": "International Indian School, Al-Jubail",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.021617,
+      "longitude": 49.640428,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6051052"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q6168054",
+      "name_ar": "جامعة جازان",
+      "name_en": "Jazan University",
+      "admin_area_ar": "جيزان",
+      "admin_area_en": "Jizan",
+      "latitude": 16.965556,
+      "longitude": 42.541194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6168054"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q17003495",
+      "name_ar": "كليات الغد للعلوم الطبية التطبيقية",
+      "name_en": "alghad Colleges for applied medical science",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 26.450514,
+      "longitude": 50.083219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17003495"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q5254669",
+      "name_ar": "مدارس دلتا",
+      "name_en": "Delta International School",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.6872,
+      "longitude": 46.6908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5254669"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q23305652",
+      "name_ar": "مدرسة الموارد الدولية",
+      "name_en": "Al Mawarid International School",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.550278,
+      "longitude": 39.225833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23305652"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q48732757",
+      "name_ar": "مدرسة النبلاء العالمية",
+      "name_en": "Nobles International School",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.556516,
+      "longitude": 39.15905,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48732757"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4703317",
+      "name_ar": "مدرسة الواحة العالمية",
+      "name_en": "Al-Waha International School",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.5571,
+      "longitude": 39.2214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4703317"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q8061907",
+      "name_ar": "مدرسة اليسر العالمية",
+      "name_en": "Yusr International School",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 21.627108,
+      "longitude": 39.112987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8061907"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q110664415",
+      "name_ar": "مدرسة يارا العالمية",
+      "name_en": "Yara International School",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.628889,
+      "longitude": 46.717222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110664415"
+    }
+  ],
+  "meta": {
+    "title": "المدارس في المملكة العربية السعودية (Schools of Saudi Arabia) - تحميل مجاني",
+    "description": "Schools of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates. يحتوي على 23 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المدارس في المملكة العربية السعودية (Schools of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المدارس في المملكة العربية السعودية (Schools of Saudi Arabia) — 23 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 23 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,704 @@
+{
+  "id": "ar-mudun-canada",
+  "name": "مدن كندا — Cities of Canada (Arabic names)",
+  "title": "مدن كندا — Cities of Canada (Arabic names)",
+  "description": "قائمة بأسماء مدن كندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Canada with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تورونتو",
+      "name_en": "Toronto",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 5647656
+    },
+    {
+      "id": 2,
+      "name_ar": "مونتريال",
+      "name_en": "Montreal",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 3675219
+    },
+    {
+      "id": 3,
+      "name_ar": "فانكوفر",
+      "name_en": "Vancouver",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 2426160
+    },
+    {
+      "id": 4,
+      "name_ar": "كالغاري",
+      "name_en": "Calgary",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 1306784
+    },
+    {
+      "id": 5,
+      "name_ar": "إدمونتون",
+      "name_en": "Edmonton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 1151635
+    },
+    {
+      "id": 6,
+      "name_ar": "أوتاوا",
+      "name_en": "Ottawa",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 1068821
+    },
+    {
+      "id": 7,
+      "name_ar": "وينيبيغ",
+      "name_en": "Winnipeg",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 758515
+    },
+    {
+      "id": 8,
+      "name_ar": "مدينة كيبك",
+      "name_en": "Quebec City",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 733156
+    },
+    {
+      "id": 9,
+      "name_ar": "هاميلتون",
+      "name_en": "Hamilton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 729560
+    },
+    {
+      "id": 10,
+      "name_ar": "ميسيساغا",
+      "name_en": "Mississauga",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 717961
+    },
+    {
+      "id": 11,
+      "name_ar": "كيتشنر",
+      "name_en": "Kitchener",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 522888
+    },
+    {
+      "id": 12,
+      "name_ar": "هاليفاكس",
+      "name_en": "Halifax",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 439819
+    },
+    {
+      "id": 13,
+      "name_ar": "لافال",
+      "name_en": "Laval",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 438366
+    },
+    {
+      "id": 14,
+      "name_ar": "لندن",
+      "name_en": "London",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 423369
+    },
+    {
+      "id": 15,
+      "name_ar": "فيكتوريا",
+      "name_en": "Victoria",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 363222
+    },
+    {
+      "id": 16,
+      "name_ar": "ماركام",
+      "name_en": "Markham",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 338503
+    },
+    {
+      "id": 17,
+      "name_ar": "أوشاوا",
+      "name_en": "Oshawa",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 335949
+    },
+    {
+      "id": 18,
+      "name_ar": "فوغان",
+      "name_en": "Vaughan",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 323103
+    },
+    {
+      "id": 19,
+      "name_ar": "وندسور",
+      "name_en": "Windsor",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 306519
+    },
+    {
+      "id": 20,
+      "name_ar": "غاتينو",
+      "name_en": "Gatineau",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 291041
+    },
+    {
+      "id": 21,
+      "name_ar": "ساسكاتون",
+      "name_en": "Saskatoon",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 266141
+    },
+    {
+      "id": 22,
+      "name_ar": "لونغوي",
+      "name_en": "Longueuil",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 254483
+    },
+    {
+      "id": 23,
+      "name_ar": "سانت كاثرينز",
+      "name_en": "St. Catharines",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 242460
+    },
+    {
+      "id": 24,
+      "name_ar": "ريغينا",
+      "name_en": "Regina",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 226404
+    },
+    {
+      "id": 25,
+      "name_ar": "أوكفيل",
+      "name_en": "Oakville",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 213759
+    },
+    {
+      "id": 26,
+      "name_ar": "ريتشموند",
+      "name_en": "Richmond",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 209937
+    },
+    {
+      "id": 27,
+      "name_ar": "ريتشموند هيل",
+      "name_en": "Richmond Hill",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 202022
+    },
+    {
+      "id": 28,
+      "name_ar": "برلنغتون",
+      "name_en": "Burlington",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 186948
+    },
+    {
+      "id": 29,
+      "name_ar": "سانت جونز",
+      "name_en": "St. John's",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 185565
+    },
+    {
+      "id": 30,
+      "name_ar": "كيلونا",
+      "name_en": "Kelowna",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 181380
+    },
+    {
+      "id": 31,
+      "name_ar": "غريتر سودبوري",
+      "name_en": "Sudbury",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 166004
+    },
+    {
+      "id": 32,
+      "name_ar": "باري",
+      "name_en": "Barrie",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 154676
+    },
+    {
+      "id": 33,
+      "name_ar": "كوكويتلام، كولومبيا البريطانية",
+      "name_en": "Coquitlam",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 148625
+    },
+    {
+      "id": 34,
+      "name_ar": "ساغينيه",
+      "name_en": "Saguenay",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 144723
+    },
+    {
+      "id": 35,
+      "name_ar": "غويلف",
+      "name_en": "Guelph",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 144356
+    },
+    {
+      "id": 36,
+      "name_ar": "تروا ريفيير",
+      "name_en": "Trois-Rivieres",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 139163
+    },
+    {
+      "id": 37,
+      "name_ar": "ويتبي",
+      "name_en": "Whitby",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 138501
+    },
+    {
+      "id": 38,
+      "name_ar": "كامبريدج",
+      "name_en": "Cambridge",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 138479
+    },
+    {
+      "id": 39,
+      "name_ar": "كندا",
+      "name_en": "Kanata",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 137118
+    },
+    {
+      "id": 40,
+      "name_ar": "ميلتون",
+      "name_en": "Milton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 132979
+    },
+    {
+      "id": 41,
+      "name_ar": "كينغستون",
+      "name_en": "Kingston",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 132485
+    },
+    {
+      "id": 42,
+      "name_ar": "أياكس أمستردام",
+      "name_en": "Ajax",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 126666
+    },
+    {
+      "id": 43,
+      "name_ar": "واترلو",
+      "name_en": "Waterloo",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 121436
+    },
+    {
+      "id": 44,
+      "name_ar": "مونكتون",
+      "name_en": "Moncton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 119785
+    },
+    {
+      "id": 45,
+      "name_ar": "سانيتش، كولومبيا البريطانية",
+      "name_en": "Saanich",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 117735
+    },
+    {
+      "id": 46,
+      "name_ar": "وايت روك، كولومبيا البريطانية",
+      "name_en": "White Rock",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 109167
+    },
+    {
+      "id": 47,
+      "name_ar": "ثاندر باي",
+      "name_en": "Thunder Bay",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 108843
+    },
+    {
+      "id": 48,
+      "name_ar": "نانيامو إي، كولومبيا البريطانية",
+      "name_en": "Nanaimo",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 106079
+    },
+    {
+      "id": 49,
+      "name_ar": "برانتفورد",
+      "name_en": "Brantford",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 104688
+    },
+    {
+      "id": 50,
+      "name_ar": "شيكوتيمي",
+      "name_en": "Chicoutimi",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 103934
+    },
+    {
+      "id": 51,
+      "name_ar": "جيروم",
+      "name_en": "Saint-Jerome",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 100859
+    },
+    {
+      "id": 52,
+      "name_ar": "أيل أحمر",
+      "name_en": "Red Deer",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 100844
+    },
+    {
+      "id": 53,
+      "name_ar": "بيكرينغ",
+      "name_en": "Pickering",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 99186
+    },
+    {
+      "id": 54,
+      "name_ar": "كاملوبس، كولومبيا البريطانية",
+      "name_en": "Kamloops",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 97902
+    },
+    {
+      "id": 55,
+      "name_ar": "سان جان سور ريشليو",
+      "name_en": "Saint-Jean-sur-Richelieu",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 97873
+    },
+    {
+      "id": 56,
+      "name_ar": "نيغارا فولز",
+      "name_en": "Niagara Falls",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 94415
+    },
+    {
+      "id": 57,
+      "name_ar": "جزيرة كيب بريتون",
+      "name_en": "Cape Breton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 93694
+    },
+    {
+      "id": 58,
+      "name_ar": "تشيليواك، كولومبيا البريطانية",
+      "name_en": "Chilliwack",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 93203
+    },
+    {
+      "id": 59,
+      "name_ar": "مابل ريدج، كولومبيا البريطانية",
+      "name_en": "Maple Ridge",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 90990
+    },
+    {
+      "id": 60,
+      "name_ar": "نيوماركت",
+      "name_en": "Newmarket",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 87942
+    },
+    {
+      "id": 61,
+      "name_ar": "بيتيربوروغ",
+      "name_en": "Peterborough",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 84793
+    },
+    {
+      "id": 62,
+      "name_ar": "درومونفيل",
+      "name_en": "Drummondville",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 79258
+    },
+    {
+      "id": 63,
+      "name_ar": "كورثا ليكس",
+      "name_en": "Kawartha Lakes",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 79247
+    },
+    {
+      "id": 64,
+      "name_ar": "نيو ويستمينيستر، كولومبيا البريطانية",
+      "name_en": "New Westminster",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 78916
+    },
+    {
+      "id": 65,
+      "name_ar": "برينس جورج، كولومبيا البريطانية",
+      "name_en": "Prince George",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 76708
+    },
+    {
+      "id": 66,
+      "name_ar": "شاتوغيه",
+      "name_en": "Chateauguay",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 75891
+    },
+    {
+      "id": 67,
+      "name_ar": "أردري",
+      "name_en": "Airdrie",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 74100
+    },
+    {
+      "id": 68,
+      "name_ar": "سارنيا",
+      "name_en": "Sarnia",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 73944
+    },
+    {
+      "id": 69,
+      "name_ar": "منطقة وودبفالو",
+      "name_en": "Wood Buffalo",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 72326
+    },
+    {
+      "id": 70,
+      "name_ar": "سولت سانت ماري",
+      "name_en": "Sault Ste. Marie",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 72051
+    },
+    {
+      "id": 71,
+      "name_ar": "سانت جون",
+      "name_en": "Saint John",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 69895
+    },
+    {
+      "id": 72,
+      "name_ar": "سانت ألبرت",
+      "name_en": "St. Albert",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 68232
+    },
+    {
+      "id": 73,
+      "name_ar": "فورت ماكموراي",
+      "name_en": "Fort McMurray",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 68002
+    },
+    {
+      "id": 74,
+      "name_ar": "فريدريكتون",
+      "name_en": "Fredericton",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 64614
+    },
+    {
+      "id": 75,
+      "name_ar": "غراند براري",
+      "name_en": "Grande Prairie",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 64141
+    },
+    {
+      "id": 76,
+      "name_ar": "مدسين هات",
+      "name_en": "Medicine Hat",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 63382
+    },
+    {
+      "id": 77,
+      "name_ar": "هالتون هيلس",
+      "name_en": "Halton Hills",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 62951
+    },
+    {
+      "id": 78,
+      "name_ar": "أورورا",
+      "name_en": "Aurora",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 62057
+    },
+    {
+      "id": 79,
+      "name_ar": "بورت كوكويتلام، كولومبيا البريطانية",
+      "name_en": "Port Coquitlam",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 61498
+    },
+    {
+      "id": 80,
+      "name_ar": "لاك برومي",
+      "name_en": "Lac-Brome",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 58889
+    },
+    {
+      "id": 81,
+      "name_ar": "شمال فانكوفر",
+      "name_en": "North Vancouver",
+      "country_ar": "كندا",
+      "country_en": "Canada",
+      "population": 58120
+    }
+  ],
+  "meta": {
+    "title": "مدن كندا — Cities of Canada (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Canada with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 81 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كندا — Cities of Canada (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كندا — Cities of Canada (Arabic names) — 81 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 81 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "id": "ar-mudun-turkey",
+  "name": "مدن تركيا — Cities of Turkey (Arabic names)",
+  "title": "مدن تركيا — Cities of Turkey (Arabic names)",
+  "description": "قائمة بأسماء مدن تركيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 86 cities in Turkey with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "إسطنبول",
+      "name_en": "Istanbul",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 14441000
+    },
+    {
+      "id": 2,
+      "name_ar": "أنقرة",
+      "name_en": "Ankara",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 5864049
+    },
+    {
+      "id": 3,
+      "name_ar": "ولاية بورصة",
+      "name_en": "Bursa",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 3101833
+    },
+    {
+      "id": 4,
+      "name_ar": "ولاية إزمير",
+      "name_en": "Izmir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 2965900
+    },
+    {
+      "id": 5,
+      "name_ar": "قونية",
+      "name_en": "Konya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 2320241
+    },
+    {
+      "id": 6,
+      "name_ar": "ولاية عنتاب",
+      "name_en": "Gaziantep",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 2130432
+    },
+    {
+      "id": 7,
+      "name_ar": "ولاية ديار بكر",
+      "name_en": "Diyarbakir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1791373
+    },
+    {
+      "id": 8,
+      "name_ar": "أضنة",
+      "name_en": "Adana",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1765981
+    },
+    {
+      "id": 9,
+      "name_ar": "ولاية قيصرية",
+      "name_en": "Kayseri",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1434357
+    },
+    {
+      "id": 10,
+      "name_ar": "سَمسون",
+      "name_en": "Samsun",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1356079
+    },
+    {
+      "id": 11,
+      "name_ar": "ولاية أنطالية",
+      "name_en": "Antalya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1344000
+    },
+    {
+      "id": 12,
+      "name_ar": "ولاية مرسين",
+      "name_en": "Mersin",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 1040507
+    },
+    {
+      "id": 13,
+      "name_ar": "اسن يورت",
+      "name_en": "Esenyurt",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 983571
+    },
+    {
+      "id": 14,
+      "name_ar": "جنقياء",
+      "name_en": "Cankaya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 942553
+    },
+    {
+      "id": 15,
+      "name_ar": "كجي أورن",
+      "name_en": "Kecioren",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 939279
+    },
+    {
+      "id": 16,
+      "name_ar": "عثمان غازي",
+      "name_en": "Osmangazi",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 891250
+    },
+    {
+      "id": 17,
+      "name_ar": "إسكي شهر",
+      "name_en": "Eskisehir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 820568
+    },
+    {
+      "id": 18,
+      "name_ar": "سيحان",
+      "name_en": "Seyhan",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 795012
+    },
+    {
+      "id": 19,
+      "name_ar": "ولاية أرضروم",
+      "name_en": "Erzurum",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 767848
+    },
+    {
+      "id": 20,
+      "name_ar": "بنديك",
+      "name_en": "Pendik",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 750435
+    },
+    {
+      "id": 21,
+      "name_ar": "بغجيلر",
+      "name_en": "Bagcilar",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 740069
+    },
+    {
+      "id": 22,
+      "name_ar": "العمرانية",
+      "name_en": "Umraniye",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 723760
+    },
+    {
+      "id": 23,
+      "name_ar": "يني محلة",
+      "name_en": "Yenimahalle",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 704652
+    },
+    {
+      "id": 24,
+      "name_ar": "سلجوقلي",
+      "name_en": "Selcuklu",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 690667
+    },
+    {
+      "id": 25,
+      "name_ar": "ماماق",
+      "name_en": "Mamak",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 687535
+    },
+    {
+      "id": 26,
+      "name_ar": "يلدرم",
+      "name_en": "Yildirim",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 655856
+    },
+    {
+      "id": 27,
+      "name_ar": "ولاية دنزلة",
+      "name_en": "Denizli",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 651200
+    },
+    {
+      "id": 28,
+      "name_ar": "أتيمسغوت",
+      "name_en": "Etimesgut",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 614891
+    },
+    {
+      "id": 29,
+      "name_ar": "أورفة",
+      "name_en": "Sanliurfa",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 596637
+    },
+    {
+      "id": 30,
+      "name_ar": "ملك غازي",
+      "name_en": "Melikgazi",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 594344
+    },
+    {
+      "id": 31,
+      "name_ar": "سنجان (أنقرة)",
+      "name_en": "Sincan",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 572609
+    },
+    {
+      "id": 32,
+      "name_ar": "ولاية قهرمان مرعش",
+      "name_en": "Kahramanmaras",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 571266
+    },
+    {
+      "id": 33,
+      "name_ar": "نيلوفر",
+      "name_en": "Nilufer",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 536365
+    },
+    {
+      "id": 34,
+      "name_ar": "فانواتو",
+      "name_en": "Van",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 525016
+    },
+    {
+      "id": 35,
+      "name_ar": "بوجة",
+      "name_en": "Buca",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 522404
+    },
+    {
+      "id": 36,
+      "name_ar": "ولاية ملطية",
+      "name_en": "Malatya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 485484
+    },
+    {
+      "id": 37,
+      "name_ar": "قرتال",
+      "name_en": "Kartal",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 483418
+    },
+    {
+      "id": 38,
+      "name_ar": "كاغد خانة",
+      "name_en": "Kagithane",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 455943
+    },
+    {
+      "id": 39,
+      "name_ar": "برناوة",
+      "name_en": "Bornova",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 454470
+    },
+    {
+      "id": 40,
+      "name_ar": "ولاية بطمان",
+      "name_en": "Batman",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 452157
+    },
+    {
+      "id": 41,
+      "name_ar": "أوجيلر",
+      "name_en": "Avcilar",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 452132
+    },
+    {
+      "id": 42,
+      "name_ar": "إسنلر",
+      "name_en": "Esenler",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 445421
+    },
+    {
+      "id": 43,
+      "name_ar": "بيلك دوزي",
+      "name_en": "Beylikduzu",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 415290
+    },
+    {
+      "id": 44,
+      "name_ar": "ألتنطاغ",
+      "name_en": "Altindag",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 413994
+    },
+    {
+      "id": 45,
+      "name_ar": "كبزة",
+      "name_en": "Gebze",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 407019
+    },
+    {
+      "id": 46,
+      "name_ar": "يورغير",
+      "name_en": "Yuregir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 399910
+    },
+    {
+      "id": 47,
+      "name_ar": "ولاية حطاي",
+      "name_en": "Hatay",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 399045
+    },
+    {
+      "id": 48,
+      "name_ar": "ولاية العزيز",
+      "name_en": "Elazig",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 387072
+    },
+    {
+      "id": 49,
+      "name_ar": "ولاية مانيسا",
+      "name_en": "Manisa",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 385452
+    },
+    {
+      "id": 50,
+      "name_ar": "سيواس",
+      "name_en": "Sivas",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 365274
+    },
+    {
+      "id": 51,
+      "name_ar": "علانية",
+      "name_en": "Alanya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 364180
+    },
+    {
+      "id": 52,
+      "name_ar": "ولاية قوجه إيلي",
+      "name_en": "Kocaeli",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 363416
+    },
+    {
+      "id": 53,
+      "name_ar": "سلطان بيلي",
+      "name_en": "Sultanbeyli",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 358201
+    },
+    {
+      "id": 54,
+      "name_ar": "مديرية طرطوس",
+      "name_en": "Tarsus",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 350732
+    },
+    {
+      "id": 55,
+      "name_ar": "ساريير",
+      "name_en": "Sariyer",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 350454
+    },
+    {
+      "id": 56,
+      "name_ar": "قارشياقة",
+      "name_en": "Karsiyaka",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 346264
+    },
+    {
+      "id": 57,
+      "name_ar": "قوناق",
+      "name_en": "Konak",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 332277
+    },
+    {
+      "id": 58,
+      "name_ar": "أرناؤوط كوي",
+      "name_en": "Arnavutkoy",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 326452
+    },
+    {
+      "id": 59,
+      "name_ar": "كجك جكمجة",
+      "name_en": "Kucukcekmece",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 326452
+    },
+    {
+      "id": 60,
+      "name_ar": "ولاية بالي قصر",
+      "name_en": "Balikesir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 314958
+    },
+    {
+      "id": 61,
+      "name_ar": "بطال غازي",
+      "name_en": "Battalgazi",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 307478
+    },
+    {
+      "id": 62,
+      "name_ar": "تشورلو",
+      "name_en": "Corlu",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 300296
+    },
+    {
+      "id": 63,
+      "name_ar": "قرية جكمة",
+      "name_en": "Cekme",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 296066
+    },
+    {
+      "id": 64,
+      "name_ar": "إنغول",
+      "name_en": "Inegol",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 294485
+    },
+    {
+      "id": 65,
+      "name_ar": "طربزون",
+      "name_en": "Trabzon",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 293661
+    },
+    {
+      "id": 66,
+      "name_ar": "طوزله",
+      "name_en": "Tuzla",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 288878
+    },
+    {
+      "id": 67,
+      "name_ar": "كنكورة",
+      "name_en": "Gungoren",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 282692
+    },
+    {
+      "id": 68,
+      "name_ar": "آدابازاري",
+      "name_en": "Sakarya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 281489
+    },
+    {
+      "id": 69,
+      "name_ar": "بيوك جكمجة",
+      "name_en": "Buyukcekmece",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 277181
+    },
+    {
+      "id": 70,
+      "name_ar": "ولاية جوروم",
+      "name_en": "Corum",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 269595
+    },
+    {
+      "id": 71,
+      "name_ar": "حصن منصور",
+      "name_en": "Adiyaman",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 267131
+    },
+    {
+      "id": 72,
+      "name_ar": "ولاية كوتاهية",
+      "name_en": "Kutahya",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 263863
+    },
+    {
+      "id": 73,
+      "name_ar": "ولاية أيدن",
+      "name_en": "Aydin",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 259027
+    },
+    {
+      "id": 74,
+      "name_ar": "مانافجات",
+      "name_en": "Manavgat",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 252941
+    },
+    {
+      "id": 75,
+      "name_ar": "عثمانية",
+      "name_en": "Osmaniye",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 252186
+    },
+    {
+      "id": 76,
+      "name_ar": "أفيون قره حصار",
+      "name_en": "Afyonkarahisar",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 251799
+    },
+    {
+      "id": 77,
+      "name_ar": "بيكوز",
+      "name_en": "Beykoz",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 247875
+    },
+    {
+      "id": 78,
+      "name_ar": "ولاية إسبرطة",
+      "name_en": "Isparta",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 247580
+    },
+    {
+      "id": 79,
+      "name_ar": "ولاية آق سراي",
+      "name_en": "Aksaray",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 247147
+    },
+    {
+      "id": 80,
+      "name_ar": "عشاق",
+      "name_en": "Usak",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 236366
+    },
+    {
+      "id": 81,
+      "name_ar": "أردو",
+      "name_en": "Ordu",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 229214
+    },
+    {
+      "id": 82,
+      "name_ar": "المزيدية",
+      "name_en": "Mezitli",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 222436
+    },
+    {
+      "id": 83,
+      "name_ar": "ساريشام",
+      "name_en": "Saricam",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 221733
+    },
+    {
+      "id": 84,
+      "name_ar": "يني شهر",
+      "name_en": "Yenisehir",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 219759
+    },
+    {
+      "id": 85,
+      "name_ar": "سلورية",
+      "name_en": "Silivri",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 217163
+    },
+    {
+      "id": 86,
+      "name_ar": "جيلة",
+      "name_en": "Cigli",
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "population": 214065
+    }
+  ],
+  "meta": {
+    "title": "مدن تركيا — Cities of Turkey (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن تركيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 86 cities in Turkey with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 86 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن تركيا — Cities of Turkey (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن تركيا — Cities of Turkey (Arabic names) — 86 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 86 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

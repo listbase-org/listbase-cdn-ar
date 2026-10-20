@@ -1,0 +1,552 @@
+{
+  "id": "ar-mudun-israel",
+  "name": "مدن إسرائيل — Cities of Israel (Arabic names)",
+  "title": "مدن إسرائيل — Cities of Israel (Arabic names)",
+  "description": "قائمة بأسماء مدن إسرائيل بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Israel with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "حيفا",
+      "name_en": "Haifa",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 600000
+    },
+    {
+      "id": 2,
+      "name_ar": "تل أبيب",
+      "name_en": "Tel Aviv-Yafo",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 467875
+    },
+    {
+      "id": 3,
+      "name_ar": "ريشون لتسيون",
+      "name_en": "Rishon LeZiyyon",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 249860
+    },
+    {
+      "id": 4,
+      "name_ar": "بتاح تكفا",
+      "name_en": "Petah Tiqwa",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 236169
+    },
+    {
+      "id": 5,
+      "name_ar": "أشدود",
+      "name_en": "Ashdod",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 220174
+    },
+    {
+      "id": 6,
+      "name_ar": "نتانيا",
+      "name_en": "Netanya",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 217200
+    },
+    {
+      "id": 7,
+      "name_ar": "بئر السبع",
+      "name_en": "Beersheba",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 209000
+    },
+    {
+      "id": 8,
+      "name_ar": "حولون",
+      "name_en": "Holon",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 194300
+    },
+    {
+      "id": 9,
+      "name_ar": "بني براك",
+      "name_en": "Bene Beraq",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 193774
+    },
+    {
+      "id": 10,
+      "name_ar": "رمات غان",
+      "name_en": "Ramat Gan",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 159200
+    },
+    {
+      "id": 11,
+      "name_ar": "عسقلان",
+      "name_en": "Ashqelon",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 134454
+    },
+    {
+      "id": 12,
+      "name_ar": "رحوفوت",
+      "name_en": "Rehovot",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 132671
+    },
+    {
+      "id": 13,
+      "name_ar": "بات يام",
+      "name_en": "Bat Yam",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 128800
+    },
+    {
+      "id": 14,
+      "name_ar": "بيت شيمش",
+      "name_en": "Bet Shemesh",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 118700
+    },
+    {
+      "id": 15,
+      "name_ar": "كفار سابا",
+      "name_en": "Kefar Sava",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 100800
+    },
+    {
+      "id": 16,
+      "name_ar": "الخضيرة",
+      "name_en": "Hadera",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 95700
+    },
+    {
+      "id": 17,
+      "name_ar": "هرتسليا",
+      "name_en": "Herzliyya",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 93989
+    },
+    {
+      "id": 18,
+      "name_ar": "نازارث",
+      "name_en": "Nazareth",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 83400
+    },
+    {
+      "id": 19,
+      "name_ar": "وودج",
+      "name_en": "Lod",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 75700
+    },
+    {
+      "id": 20,
+      "name_ar": "كريات جات",
+      "name_en": "Qiryat Gat",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 65610
+    },
+    {
+      "id": 21,
+      "name_ar": "العفولة",
+      "name_en": "Afula",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 60000
+    },
+    {
+      "id": 22,
+      "name_ar": "نهاريا",
+      "name_en": "Nahariyya",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 60000
+    },
+    {
+      "id": 23,
+      "name_ar": "جفعاتايم",
+      "name_en": "Givatayim",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 59518
+    },
+    {
+      "id": 24,
+      "name_ar": "هود هشارون",
+      "name_en": "Hod HaSharon",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 56659
+    },
+    {
+      "id": 25,
+      "name_ar": "روش هاعين",
+      "name_en": "Rosh Ha`Ayin",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 56300
+    },
+    {
+      "id": 26,
+      "name_ar": "كريات آتا",
+      "name_en": "Qiryat Ata",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 55464
+    },
+    {
+      "id": 27,
+      "name_ar": "أم الفحم",
+      "name_en": "Umm el Fahm",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 55300
+    },
+    {
+      "id": 28,
+      "name_ar": "إيلات",
+      "name_en": "Eilat",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 51935
+    },
+    {
+      "id": 29,
+      "name_ar": "رامات هاشارون",
+      "name_en": "Ramat HaSharon",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 46700
+    },
+    {
+      "id": 30,
+      "name_ar": "كرمئيل",
+      "name_en": "Karmiel",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 45300
+    },
+    {
+      "id": 31,
+      "name_ar": "طبريا",
+      "name_en": "Tiberias",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 44200
+    },
+    {
+      "id": 32,
+      "name_ar": "الطيبة، المثلث",
+      "name_en": "Et Taiyiba",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 43100
+    },
+    {
+      "id": 33,
+      "name_ar": "برديس حنا-كركور",
+      "name_en": "Pardes Hanna Karkur",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 42100
+    },
+    {
+      "id": 34,
+      "name_ar": "كريات موصقين",
+      "name_en": "Qiryat Mozqin",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 42000
+    },
+    {
+      "id": 35,
+      "name_ar": "كريات أونو",
+      "name_en": "Qiryat Ono",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 41900
+    },
+    {
+      "id": 36,
+      "name_ar": "عين شفا عمرو",
+      "name_en": "Shefar`am",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 41600
+    },
+    {
+      "id": 37,
+      "name_ar": "كريات بياليك",
+      "name_en": "Qiryat Bialik",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 39900
+    },
+    {
+      "id": 38,
+      "name_ar": "كريات يام",
+      "name_en": "Qiryat Yam",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 39416
+    },
+    {
+      "id": 39,
+      "name_ar": "أور يهودا",
+      "name_en": "Or Yehuda",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 36706
+    },
+    {
+      "id": 40,
+      "name_ar": "صفد",
+      "name_en": "Zefat",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 35700
+    },
+    {
+      "id": 41,
+      "name_ar": "ديمونا",
+      "name_en": "Dimona",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 34135
+    },
+    {
+      "id": 42,
+      "name_ar": "نتيفوت",
+      "name_en": "Netivot",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 31314
+    },
+    {
+      "id": 43,
+      "name_ar": "سخنين",
+      "name_en": "Sakhnin",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 31100
+    },
+    {
+      "id": 44,
+      "name_ar": "يهودا",
+      "name_en": "Yehud",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 29146
+    },
+    {
+      "id": 45,
+      "name_ar": "أوفاكيم",
+      "name_en": "Ofaqim",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 29000
+    },
+    {
+      "id": 46,
+      "name_ar": "كفار يونا",
+      "name_en": "Kefar Yona",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 28025
+    },
+    {
+      "id": 47,
+      "name_ar": "كريشنا",
+      "name_en": "Rama",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 26641
+    },
+    {
+      "id": 48,
+      "name_ar": "غديرا",
+      "name_en": "Gedera",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 26217
+    },
+    {
+      "id": 49,
+      "name_ar": "مجدال هعيمق",
+      "name_en": "Migdal Ha`Emeq",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 25600
+    },
+    {
+      "id": 50,
+      "name_ar": "أراد",
+      "name_en": "Arad",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 24436
+    },
+    {
+      "id": 51,
+      "name_ar": "نيشير",
+      "name_en": "Nesher",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 23700
+    },
+    {
+      "id": 52,
+      "name_ar": "معالوت ترشيحا",
+      "name_en": "Ma`alot Tarshiha",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 23550
+    },
+    {
+      "id": 53,
+      "name_ar": "كريات ملاخي",
+      "name_en": "Qiryat Mal'akhi",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 23100
+    },
+    {
+      "id": 54,
+      "name_ar": "سديروت",
+      "name_en": "Sederot",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 23090
+    },
+    {
+      "id": 55,
+      "name_ar": "كريات شمونة",
+      "name_en": "Qiryat Shemona",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 23076
+    },
+    {
+      "id": 56,
+      "name_ar": "جان يفني",
+      "name_en": "Gan Yavne",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 22453
+    },
+    {
+      "id": 57,
+      "name_ar": "طيرة الكرمل",
+      "name_en": "Tirat Karmel",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 22200
+    },
+    {
+      "id": 58,
+      "name_ar": "كفر قاسم",
+      "name_en": "Kafr Qasim",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 21848
+    },
+    {
+      "id": 59,
+      "name_ar": "قلنسوة",
+      "name_en": "Qalansuwa",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 21451
+    },
+    {
+      "id": 60,
+      "name_ar": "أور عقيفا",
+      "name_en": "Or `Aqiva",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 17759
+    },
+    {
+      "id": 61,
+      "name_ar": "مجدل شمس",
+      "name_en": "Majdal Shams",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 11405
+    },
+    {
+      "id": 62,
+      "name_ar": "عتليت، حيفا",
+      "name_en": "Atlit",
+      "country_ar": "إسرائيل",
+      "country_en": "Israel",
+      "population": 10639
+    }
+  ],
+  "meta": {
+    "title": "مدن إسرائيل — Cities of Israel (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إسرائيل بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Israel with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 62 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إسرائيل — Cities of Israel (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إسرائيل — Cities of Israel (Arabic names) — 62 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 62 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,1386 @@
+{
+  "id": "ar-tabuk-mudun",
+  "name": "مدن منطقة تبوك (Cities of Tabuk)",
+  "title": "مدن منطقة تبوك (Cities of Tabuk)",
+  "description": "قائمة مدن منطقة تبوك (Tabuk) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Tabuk administrative region of Saudi Arabia (region_id=3). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 1,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "تبوك",
+      "name_en": "Tabuk",
+      "slug": "tabuk"
+    },
+    {
+      "city_id": 2,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "نعمي",
+      "name_en": "Nami",
+      "slug": "nami"
+    },
+    {
+      "city_id": 4,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حميط",
+      "name_en": "Humayt",
+      "slug": "humayt"
+    },
+    {
+      "city_id": 7,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "رجم الطيارة",
+      "name_en": "Rajm At Tayarah",
+      "slug": "rajm-at-tayarah"
+    },
+    {
+      "city_id": 8,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الثميد",
+      "name_en": "Ath Thumayd",
+      "slug": "ath-thumayd"
+    },
+    {
+      "city_id": 9,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عسيلة",
+      "name_en": "Asillah",
+      "slug": "asillah"
+    },
+    {
+      "city_id": 16,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حالة عمار",
+      "name_en": "Halat Ammar",
+      "slug": "halat-ammar"
+    },
+    {
+      "city_id": 19,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الشايب",
+      "name_en": "Ash Shayib",
+      "slug": "ash-shayib"
+    },
+    {
+      "city_id": 20,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الفوهة",
+      "name_en": "Al Fawhah",
+      "slug": "al-fawhah"
+    },
+    {
+      "city_id": 21,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "اللوز",
+      "name_en": "Al Lawz",
+      "slug": "al-lawz"
+    },
+    {
+      "city_id": 22,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عين الأخضر",
+      "name_en": "Ayn Al Akhdar",
+      "slug": "ayn-al-akhdar"
+    },
+    {
+      "city_id": 23,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ذات الحاج",
+      "name_en": "Dhat Al Hajj",
+      "slug": "dhat-al-hajj"
+    },
+    {
+      "city_id": 25,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "قيال",
+      "name_en": "Qiyal",
+      "slug": "qiyal"
+    },
+    {
+      "city_id": 26,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الاخضر",
+      "name_en": "Al Akhdar",
+      "slug": "al-akhdar-26"
+    },
+    {
+      "city_id": 27,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "البديعة",
+      "name_en": "Al Badiah",
+      "slug": "al-badiah-27"
+    },
+    {
+      "city_id": 28,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "مغيرة",
+      "name_en": "Mughayrah",
+      "slug": "mughayrah"
+    },
+    {
+      "city_id": 29,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الهوجاء",
+      "name_en": "Al Hawja",
+      "slug": "al-hawja"
+    },
+    {
+      "city_id": 30,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "البديعة",
+      "name_en": "Al Badiah",
+      "slug": "al-badiah-30"
+    },
+    {
+      "city_id": 32,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ابار قنا",
+      "name_en": "Abar Qana",
+      "slug": "abar-qana"
+    },
+    {
+      "city_id": 33,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الجبعاوية",
+      "name_en": "Al Jabawiyah",
+      "slug": "al-jabawiyah"
+    },
+    {
+      "city_id": 34,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحميضة",
+      "name_en": "Al Humaydah",
+      "slug": "al-humaydah"
+    },
+    {
+      "city_id": 35,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "البيانة",
+      "name_en": "Al Bayyanah",
+      "slug": "al-bayyanah"
+    },
+    {
+      "city_id": 36,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حقل",
+      "name_en": "Haql",
+      "slug": "haql"
+    },
+    {
+      "city_id": 37,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الدرة",
+      "name_en": "Ad Durrah",
+      "slug": "ad-durrah"
+    },
+    {
+      "city_id": 38,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الزيتة",
+      "name_en": "Az Zaytah",
+      "slug": "az-zaytah"
+    },
+    {
+      "city_id": 39,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "علقان",
+      "name_en": "Alaqan",
+      "slug": "alaqan"
+    },
+    {
+      "city_id": 40,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الوادي الجديد",
+      "name_en": "Al Wadi Al Jadid",
+      "slug": "al-wadi-al-jadid"
+    },
+    {
+      "city_id": 41,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "مليح",
+      "name_en": "Mulayh",
+      "slug": "mulayh-41"
+    },
+    {
+      "city_id": 42,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ابو الحنشان",
+      "name_en": "Abu Al Hinshan",
+      "slug": "abu-al-hinshan"
+    },
+    {
+      "city_id": 43,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "مقنا",
+      "name_en": "Maqna",
+      "slug": "maqna"
+    },
+    {
+      "city_id": 68,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بوهان",
+      "name_en": "Buhan",
+      "slug": "buhan"
+    },
+    {
+      "city_id": 69,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "السنانيات",
+      "name_en": "As Sananiyat",
+      "slug": "as-sananiyat"
+    },
+    {
+      "city_id": 70,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حزايا",
+      "name_en": "Hazaya",
+      "slug": "hazaya"
+    },
+    {
+      "city_id": 71,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "أكباد",
+      "name_en": "Akbad",
+      "slug": "akbad"
+    },
+    {
+      "city_id": 72,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر الحيز",
+      "name_en": "Bir Al Hayz",
+      "slug": "bir-al-hayz"
+    },
+    {
+      "city_id": 73,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "جريداء",
+      "name_en": "Jurayda",
+      "slug": "jurayda"
+    },
+    {
+      "city_id": 74,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "تيماء",
+      "name_en": "Tayma",
+      "slug": "tayma"
+    },
+    {
+      "city_id": 75,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "العسافية",
+      "name_en": "Al Assafiyah",
+      "slug": "al-assafiyah"
+    },
+    {
+      "city_id": 76,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عردة",
+      "name_en": "Ardah",
+      "slug": "ardah-76"
+    },
+    {
+      "city_id": 77,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الكتيب",
+      "name_en": "Al Kutaib",
+      "slug": "al-kutaib"
+    },
+    {
+      "city_id": 78,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر فجر",
+      "name_en": "Bir Fajr",
+      "slug": "bir-fajr"
+    },
+    {
+      "city_id": 79,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "القليبة",
+      "name_en": "Al Qalibah",
+      "slug": "al-qalibah"
+    },
+    {
+      "city_id": 154,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المعظم",
+      "name_en": "Al Madham",
+      "slug": "al-madham"
+    },
+    {
+      "city_id": 223,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الراس",
+      "name_en": "Ar Ras",
+      "slug": "ar-ras"
+    },
+    {
+      "city_id": 224,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "البيت",
+      "name_en": "Al Bayt",
+      "slug": "al-bayt"
+    },
+    {
+      "city_id": 225,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر بحار",
+      "name_en": "Bir Bahar",
+      "slug": "bir-bahar"
+    },
+    {
+      "city_id": 226,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "سبحان",
+      "name_en": "Sabhan",
+      "slug": "sabhan"
+    },
+    {
+      "city_id": 228,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "أم الريح",
+      "name_en": "Umm Ar Rih",
+      "slug": "umm-ar-rih"
+    },
+    {
+      "city_id": 229,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حرم",
+      "name_en": "Haram",
+      "slug": "haram"
+    },
+    {
+      "city_id": 230,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عكوز",
+      "name_en": "Akuz",
+      "slug": "akuz"
+    },
+    {
+      "city_id": 231,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "السديد",
+      "name_en": "As Sudayd",
+      "slug": "as-sudayd"
+    },
+    {
+      "city_id": 232,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayrah",
+      "slug": "al-hufayrah-232"
+    },
+    {
+      "city_id": 233,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الوجه",
+      "name_en": "Al Wajh",
+      "slug": "al-wajh"
+    },
+    {
+      "city_id": 234,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "النابع",
+      "name_en": "An Nabi",
+      "slug": "an-nabi"
+    },
+    {
+      "city_id": 235,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عنتر",
+      "name_en": "Antar",
+      "slug": "antar"
+    },
+    {
+      "city_id": 236,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المنجور",
+      "name_en": "Al Manjur",
+      "slug": "al-manjur"
+    },
+    {
+      "city_id": 237,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ابا القزاز",
+      "name_en": "Aba Al Qizaz",
+      "slug": "aba-al-qizaz"
+    },
+    {
+      "city_id": 238,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بداء",
+      "name_en": "Bada",
+      "slug": "bada"
+    },
+    {
+      "city_id": 239,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "خرباء",
+      "name_en": "Khurba",
+      "slug": "khurba"
+    },
+    {
+      "city_id": 240,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الكر",
+      "name_en": "Al Kurr",
+      "slug": "al-kurr"
+    },
+    {
+      "city_id": 302,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الخريطة",
+      "name_en": "Al Khuraytah",
+      "slug": "al-khuraytah"
+    },
+    {
+      "city_id": 305,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "شدوا",
+      "name_en": "Shadwa",
+      "slug": "shadwa"
+    },
+    {
+      "city_id": 308,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الشبعان",
+      "name_en": "Ash Shaban",
+      "slug": "ash-shaban"
+    },
+    {
+      "city_id": 309,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الدقم",
+      "name_en": "Ad Duqum",
+      "slug": "ad-duqum-309"
+    },
+    {
+      "city_id": 310,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "القرص",
+      "name_en": "Al Qars",
+      "slug": "al-qars"
+    },
+    {
+      "city_id": 311,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "حراض",
+      "name_en": "Hirad",
+      "slug": "hirad"
+    },
+    {
+      "city_id": 312,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الشبحة",
+      "name_en": "Ash Shibahah",
+      "slug": "ash-shibahah"
+    },
+    {
+      "city_id": 313,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "روضة الاغيدرات",
+      "name_en": "Rawdat Al Aghaydirat",
+      "slug": "rawdat-al-aghaydirat"
+    },
+    {
+      "city_id": 314,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الخضراء الجديدة",
+      "name_en": "Al Khadra Al Jadidah",
+      "slug": "al-khadra-al-jadidah"
+    },
+    {
+      "city_id": 315,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "سمور",
+      "name_en": "Samur",
+      "slug": "samur"
+    },
+    {
+      "city_id": 316,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الرويضات",
+      "name_en": "Al Ruwaydat",
+      "slug": "al-ruwaydat"
+    },
+    {
+      "city_id": 317,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المهدرة",
+      "name_en": "Al Mahadrah",
+      "slug": "al-mahadrah"
+    },
+    {
+      "city_id": 318,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بقيلة",
+      "name_en": "Buqaylah",
+      "slug": "buqaylah"
+    },
+    {
+      "city_id": 319,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "النعيلة",
+      "name_en": "An Nuaylah",
+      "slug": "an-nuaylah"
+    },
+    {
+      "city_id": 320,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الزغلية",
+      "name_en": "Az Zaghliyah",
+      "slug": "az-zaghliyah"
+    },
+    {
+      "city_id": 321,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "توله",
+      "name_en": "Tuwalah",
+      "slug": "tuwalah"
+    },
+    {
+      "city_id": 322,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-322"
+    },
+    {
+      "city_id": 323,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "املج",
+      "name_en": "Umluj",
+      "slug": "umluj"
+    },
+    {
+      "city_id": 324,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "فم شثاث",
+      "name_en": "Famm Shithath",
+      "slug": "famm-shithath"
+    },
+    {
+      "city_id": 325,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحرة",
+      "name_en": "Al Harrah",
+      "slug": "al-harrah-325"
+    },
+    {
+      "city_id": 326,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "العمبجة",
+      "name_en": "Al Ambijah",
+      "slug": "al-ambijah"
+    },
+    {
+      "city_id": 327,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الشدخ",
+      "name_en": "Ash Shidakh",
+      "slug": "ash-shidakh"
+    },
+    {
+      "city_id": 328,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المرامية",
+      "name_en": "Al Maramiyah",
+      "slug": "al-maramiyah"
+    },
+    {
+      "city_id": 805,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عيينة",
+      "name_en": "Uyaynah",
+      "slug": "uyaynah"
+    },
+    {
+      "city_id": 940,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المريشدية",
+      "name_en": "Al Murayshdiyah",
+      "slug": "al-murayshdiyah"
+    },
+    {
+      "city_id": 1918,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "العنبة",
+      "name_en": "Al Anabah",
+      "slug": "al-anabah"
+    },
+    {
+      "city_id": 1928,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الهامة",
+      "name_en": "Al Hamah",
+      "slug": "al-hamah-1928"
+    },
+    {
+      "city_id": 1929,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر ابو العجاج",
+      "name_en": "Bir Abu Al Ajjaj",
+      "slug": "bir-abu-al-ajjaj"
+    },
+    {
+      "city_id": 1930,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر السادي",
+      "name_en": "Bir As Sadi",
+      "slug": "bir-as-sadi"
+    },
+    {
+      "city_id": 1931,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "قلعة الاذنم",
+      "name_en": "Qalat Al Adhnum",
+      "slug": "qalat-al-adhnum"
+    },
+    {
+      "city_id": 1932,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "سلوى",
+      "name_en": "Salwa",
+      "slug": "salwa-1932"
+    },
+    {
+      "city_id": 1933,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "وادي ابو طينة",
+      "name_en": "Wadi Abu Tinah",
+      "slug": "wadi-abu-tinah"
+    },
+    {
+      "city_id": 1934,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الصورة",
+      "name_en": "As Surah",
+      "slug": "as-surah"
+    },
+    {
+      "city_id": 1935,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "تريم",
+      "name_en": "Tiraym",
+      "slug": "tiraym"
+    },
+    {
+      "city_id": 1936,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر فحيمان",
+      "name_en": "Bir Fhayman",
+      "slug": "bir-fhayman"
+    },
+    {
+      "city_id": 1937,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "قاصرة",
+      "name_en": "Qasrah",
+      "slug": "qasrah"
+    },
+    {
+      "city_id": 1938,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "هداج",
+      "name_en": "Haddaj",
+      "slug": "haddaj"
+    },
+    {
+      "city_id": 1939,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحواويط",
+      "name_en": "Al Hawawit",
+      "slug": "al-hawawit"
+    },
+    {
+      "city_id": 1940,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "جبة",
+      "name_en": "Jubbah",
+      "slug": "jubbah-1940"
+    },
+    {
+      "city_id": 1941,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المهارش",
+      "name_en": "Al Mharish",
+      "slug": "al-mharish"
+    },
+    {
+      "city_id": 1942,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ضوجي",
+      "name_en": "Duji",
+      "slug": "duji"
+    },
+    {
+      "city_id": 1943,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المرير",
+      "name_en": "Al Murayr",
+      "slug": "al-murayr-1943"
+    },
+    {
+      "city_id": 1944,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "شواق",
+      "name_en": "Shuwaq",
+      "slug": "shuwaq"
+    },
+    {
+      "city_id": 1945,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "آمدان",
+      "name_en": "Amdan",
+      "slug": "amdan-1945"
+    },
+    {
+      "city_id": 1946,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "رواقا",
+      "name_en": "Ruwaqa",
+      "slug": "ruwaqa"
+    },
+    {
+      "city_id": 1947,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "ضبا",
+      "name_en": "Duba",
+      "slug": "duba"
+    },
+    {
+      "city_id": 1948,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الخريبة",
+      "name_en": "Al Khuraybah",
+      "slug": "al-khuraybah"
+    },
+    {
+      "city_id": 1949,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "صر",
+      "name_en": "Surr",
+      "slug": "surr"
+    },
+    {
+      "city_id": 1950,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "صدر",
+      "name_en": "Sadr",
+      "slug": "sadr-1950"
+    },
+    {
+      "city_id": 1951,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "نابع داما",
+      "name_en": "Nabi Dama",
+      "slug": "nabi-dama"
+    },
+    {
+      "city_id": 1952,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "قبقاب",
+      "name_en": "Qabqab",
+      "slug": "qabqab"
+    },
+    {
+      "city_id": 1953,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "شرماء",
+      "name_en": "Sharma",
+      "slug": "sharma"
+    },
+    {
+      "city_id": 1954,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "شغب",
+      "name_en": "Shaghab",
+      "slug": "shaghab"
+    },
+    {
+      "city_id": 1955,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "المويلح",
+      "name_en": "Al Muwaylih",
+      "slug": "al-muwaylih"
+    },
+    {
+      "city_id": 1956,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الديسة",
+      "name_en": "Ad Disah",
+      "slug": "ad-disah-1956"
+    },
+    {
+      "city_id": 2021,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عمرات",
+      "name_en": "Amrat",
+      "slug": "amrat-2021"
+    },
+    {
+      "city_id": 2160,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر ابن رشدان",
+      "name_en": "Bir Ibn Rashdan",
+      "slug": "bir-ibn-rashdan"
+    },
+    {
+      "city_id": 2184,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الشرف",
+      "name_en": "Ash Sharaf",
+      "slug": "ash-sharaf-2184"
+    },
+    {
+      "city_id": 2329,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "كلوة",
+      "name_en": "Kilwah",
+      "slug": "kilwah"
+    },
+    {
+      "city_id": 2381,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "العمود",
+      "name_en": "Al Amud",
+      "slug": "al-amud"
+    },
+    {
+      "city_id": 2382,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحميرة",
+      "name_en": "Al Humayrah",
+      "slug": "al-humayrah-2382"
+    },
+    {
+      "city_id": 2383,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الغال",
+      "name_en": "Al Ghal",
+      "slug": "al-ghal-2383"
+    },
+    {
+      "city_id": 2384,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عينونة",
+      "name_en": "Aynunah",
+      "slug": "aynunah-2384"
+    },
+    {
+      "city_id": 2385,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الحشا",
+      "name_en": "Al Hasha",
+      "slug": "al-hasha"
+    },
+    {
+      "city_id": 2386,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "عينونة",
+      "name_en": "Aynunah",
+      "slug": "aynunah-2386"
+    },
+    {
+      "city_id": 2387,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر عودة",
+      "name_en": "Bir Audah",
+      "slug": "bir-audah"
+    },
+    {
+      "city_id": 2388,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الجدة",
+      "name_en": "Al Jiddah",
+      "slug": "al-jiddah"
+    },
+    {
+      "city_id": 2782,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "الخشة",
+      "name_en": "Al Khashah",
+      "slug": "al-khashah-2782"
+    },
+    {
+      "city_id": 2967,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بجدة",
+      "name_en": "Bajdah",
+      "slug": "bajdah"
+    },
+    {
+      "city_id": 3098,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "شقري",
+      "name_en": "Shiqri",
+      "slug": "shiqri"
+    },
+    {
+      "city_id": 3581,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "بئر بن هرماس",
+      "name_en": "Bir Ibn Hermas",
+      "slug": "bir-ibn-hermas"
+    },
+    {
+      "city_id": 3614,
+      "region_id": 3,
+      "region_ar": "تبوك",
+      "region_en": "Tabuk",
+      "region_slug": "tabuk",
+      "name_ar": "البدع",
+      "name_en": "Al Bad",
+      "slug": "al-bad-3614"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة تبوك (Cities of Tabuk) - تحميل مجاني",
+    "description": "قائمة مدن منطقة تبوك (Tabuk) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Tabuk administrative region of Saudi Arabia (region_id=3). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 132 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة تبوك (Cities of Tabuk) | ListBase",
+    "seo_description": "تحميل مدن منطقة تبوك (Cities of Tabuk) — 132 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 132 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

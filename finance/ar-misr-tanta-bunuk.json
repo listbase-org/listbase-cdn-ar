@@ -1,0 +1,163 @@
+{
+  "id": "ar-misr-tanta-bunuk",
+  "name": "بنوك Tanta — مصر — رموز سويفت (Banks of Tanta, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Tanta — مصر — رموز سويفت (Banks of Tanta, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tanta (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Tanta, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "DEIBEGCX319"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "TANTA",
+      "branch": "",
+      "swift_code": "ARAIEGCXTNT"
+    },
+    {
+      "id": 3,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "TANTA",
+      "branch": "(TANTA)",
+      "swift_code": "MRBAEGCX028"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "TANTA",
+      "branch": "(57357 TANTA BRANCH)",
+      "swift_code": "CIBEEGCX168"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "CIBEEGCX011"
+    },
+    {
+      "id": 6,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "TANTA",
+      "branch": "(NEW BRANCH)",
+      "swift_code": "ARLBEGC1TN2"
+    },
+    {
+      "id": 7,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "TANTA",
+      "branch": "",
+      "swift_code": "ARLBEGCATNT"
+    },
+    {
+      "id": 8,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "FIEGEGCXTAN"
+    },
+    {
+      "id": 9,
+      "bank": "INDUSTRIAL DEVELOPMENT AND WORKERS BANK OF EGYPT",
+      "city": "TANTA",
+      "branch": "",
+      "swift_code": "DIBBEGCA03B"
+    },
+    {
+      "id": 10,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "MIDBEGCXTAT"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "TANTA",
+      "branch": "(ALMOUTASEM)",
+      "swift_code": "NBEGEGCX379"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "NBEGEGCX381"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "TANTA",
+      "branch": "(TANTA UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX386"
+    },
+    {
+      "id": 14,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "TANTA",
+      "branch": "(EL GHARBIA BRANCH)",
+      "swift_code": "BDACEGCA040"
+    },
+    {
+      "id": 15,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "TANTA",
+      "branch": "",
+      "swift_code": "SBNKEGCXTAN"
+    },
+    {
+      "id": 16,
+      "bank": "SUEZ CANAL BANK",
+      "city": "TANTA",
+      "branch": "(TANTA BRANCH)",
+      "swift_code": "SUCAEGCXTAN"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Tanta — مصر — رموز سويفت (Banks of Tanta, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tanta (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Tanta, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Tanta — مصر — رموز سويفت (Banks of Tanta, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Tanta — مصر — رموز سويفت (Banks of Tanta, Egypt — SWIFT/BIC codes) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

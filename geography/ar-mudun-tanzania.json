@@ -1,0 +1,392 @@
+{
+  "id": "ar-mudun-tanzania",
+  "name": "مدن تنزانيا — Cities of Tanzania (Arabic names)",
+  "title": "مدن تنزانيا — Cities of Tanzania (Arabic names)",
+  "description": "قائمة بأسماء مدن تنزانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 42 cities in Tanzania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دار السلام",
+      "name_en": "Dar es Salaam",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 7962000
+    },
+    {
+      "id": 2,
+      "name_ar": "إقليم موانزا",
+      "name_en": "Mwanza",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 1104521
+    },
+    {
+      "id": 3,
+      "name_ar": "دودوما",
+      "name_en": "Dodoma",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 765179
+    },
+    {
+      "id": 4,
+      "name_ar": "أروشا",
+      "name_en": "Arusha",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 617631
+    },
+    {
+      "id": 5,
+      "name_ar": "مبيا",
+      "name_en": "Mbeya",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 541603
+    },
+    {
+      "id": 6,
+      "name_ar": "إقليم موروغورو",
+      "name_en": "Morogoro",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 471409
+    },
+    {
+      "id": 7,
+      "name_ar": "يوفينزا",
+      "name_en": "Uvinza",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 387442
+    },
+    {
+      "id": 8,
+      "name_ar": "جيتا",
+      "name_en": "Geita",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 361671
+    },
+    {
+      "id": 9,
+      "name_ar": "تابورا",
+      "name_en": "Tabora",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 308741
+    },
+    {
+      "id": 10,
+      "name_ar": "سومباوانغا",
+      "name_en": "Sumbawanga",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 303986
+    },
+    {
+      "id": 11,
+      "name_ar": "سونجيا",
+      "name_en": "Songea",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 286285
+    },
+    {
+      "id": 12,
+      "name_ar": "كيباها",
+      "name_en": "Kibaha",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 265360
+    },
+    {
+      "id": 13,
+      "name_ar": "كاسولو",
+      "name_en": "Kasulu",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 238321
+    },
+    {
+      "id": 14,
+      "name_ar": "سينغيدا",
+      "name_en": "Singida",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 232459
+    },
+    {
+      "id": 15,
+      "name_ar": "إقليم كيغوما",
+      "name_en": "Kigoma",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 232388
+    },
+    {
+      "id": 16,
+      "name_ar": "زنجبار",
+      "name_en": "Zanzibar",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 219007
+    },
+    {
+      "id": 17,
+      "name_ar": "إيفاكارا",
+      "name_en": "Ifakara",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 205843
+    },
+    {
+      "id": 18,
+      "name_ar": "مباندا",
+      "name_en": "Mpanda",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 204338
+    },
+    {
+      "id": 19,
+      "name_ar": "إيرينغا",
+      "name_en": "Iringa",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 202490
+    },
+    {
+      "id": 20,
+      "name_ar": "أنثى",
+      "name_en": "Musoma",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 164172
+    },
+    {
+      "id": 21,
+      "name_ar": "بوكوبا",
+      "name_en": "Bukoba",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 144938
+    },
+    {
+      "id": 22,
+      "name_ar": "متوارا",
+      "name_en": "Mtwara",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 140793
+    },
+    {
+      "id": 23,
+      "name_ar": "شينيانغا",
+      "name_en": "Shinyanga",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 139727
+    },
+    {
+      "id": 24,
+      "name_ar": "ولاية تاريم",
+      "name_en": "Tarime",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 133043
+    },
+    {
+      "id": 25,
+      "name_ar": "إقليم ليندي",
+      "name_en": "Lindi",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 95096
+    },
+    {
+      "id": 26,
+      "name_ar": "باجامويو",
+      "name_en": "Bagamoyo",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 82578
+    },
+    {
+      "id": 27,
+      "name_ar": "باباتي",
+      "name_en": "Babati",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 67445
+    },
+    {
+      "id": 28,
+      "name_ar": "توكويو",
+      "name_en": "Tukuyu",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 50000
+    },
+    {
+      "id": 29,
+      "name_ar": "تشاك-تشاك",
+      "name_en": "Chake Chake",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 49959
+    },
+    {
+      "id": 30,
+      "name_ar": "توندورو",
+      "name_en": "Tunduru",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 48000
+    },
+    {
+      "id": 31,
+      "name_ar": "طاووس كونغو",
+      "name_en": "Mbulu",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 45384
+    },
+    {
+      "id": 32,
+      "name_ar": "كيلوزا",
+      "name_en": "Kilosa",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 43418
+    },
+    {
+      "id": 33,
+      "name_ar": "نجومبي",
+      "name_en": "Njombe",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 40607
+    },
+    {
+      "id": 34,
+      "name_ar": "ماينتس",
+      "name_en": "Magu",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 35000
+    },
+    {
+      "id": 35,
+      "name_ar": "سيم",
+      "name_en": "Same",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 34322
+    },
+    {
+      "id": 36,
+      "name_ar": "ولاية سيكونج",
+      "name_en": "Sikonge",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 27113
+    },
+    {
+      "id": 37,
+      "name_ar": "ويتي",
+      "name_en": "Wete",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 26450
+    },
+    {
+      "id": 38,
+      "name_ar": "ولاية مانيوني",
+      "name_en": "Manyoni",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 25505
+    },
+    {
+      "id": 39,
+      "name_ar": "محافظة بيهارامولو",
+      "name_en": "Biharamulo",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 24573
+    },
+    {
+      "id": 40,
+      "name_ar": "كيليندوني",
+      "name_en": "Kilindoni",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 23426
+    },
+    {
+      "id": 41,
+      "name_ar": "مكوكوتوني",
+      "name_en": "Mkokotoni",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 2572
+    },
+    {
+      "id": 42,
+      "name_ar": "واقع",
+      "name_en": "Kanyato",
+      "country_ar": "تنزانيا",
+      "country_en": "Tanzania",
+      "population": 232
+    }
+  ],
+  "meta": {
+    "title": "مدن تنزانيا — Cities of Tanzania (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن تنزانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 42 cities in Tanzania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 42 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن تنزانيا — Cities of Tanzania (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن تنزانيا — Cities of Tanzania (Arabic names) — 42 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 42 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "ar-mudun-moldova",
+  "name": "مدن مولدافيا — Cities of Moldova (Arabic names)",
+  "title": "مدن مولدافيا — Cities of Moldova (Arabic names)",
+  "description": "قائمة بأسماء مدن مولدافيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 24 cities in Moldova with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كيشيناو",
+      "name_en": "Chisinau",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 639000
+    },
+    {
+      "id": 2,
+      "name_ar": "تيراسبول",
+      "name_en": "Tiraspol",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 133807
+    },
+    {
+      "id": 3,
+      "name_ar": "بالتيمور",
+      "name_en": "Balti",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 97930
+    },
+    {
+      "id": 4,
+      "name_ar": "بندر",
+      "name_en": "Bender",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 76158
+    },
+    {
+      "id": 5,
+      "name_ar": "ريف كاهول",
+      "name_en": "Cahul",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 30018
+    },
+    {
+      "id": 6,
+      "name_ar": "دوباساري",
+      "name_en": "Dubasari",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 28500
+    },
+    {
+      "id": 7,
+      "name_ar": "كومرات",
+      "name_en": "Comrat",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 20113
+    },
+    {
+      "id": 8,
+      "name_ar": "مقاطعة ستراسيني",
+      "name_en": "Straseni",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 18376
+    },
+    {
+      "id": 9,
+      "name_ar": "مقاطعة إيدينت",
+      "name_en": "Edinet",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 15520
+    },
+    {
+      "id": 10,
+      "name_ar": "مقاطعة كوسيني",
+      "name_en": "Causeni",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 12874
+    },
+    {
+      "id": 11,
+      "name_ar": "مقاطعة هينسيستي",
+      "name_en": "Hincesti",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 12491
+    },
+    {
+      "id": 12,
+      "name_ar": "مقاطعة سونجري",
+      "name_en": "Singerei",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 12465
+    },
+    {
+      "id": 13,
+      "name_ar": "فاليستي",
+      "name_en": "Falesti",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 12074
+    },
+    {
+      "id": 14,
+      "name_ar": "مقاطعة تشيميشليا",
+      "name_en": "Cimislia",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 11997
+    },
+    {
+      "id": 15,
+      "name_ar": "أنيني نوي",
+      "name_en": "Anenii Noi",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 10872
+    },
+    {
+      "id": 16,
+      "name_ar": "مقاطعة روشكاني",
+      "name_en": "Riscani",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 9259
+    },
+    {
+      "id": 17,
+      "name_ar": "باسارابياسكا",
+      "name_en": "Basarabeasca",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 8471
+    },
+    {
+      "id": 18,
+      "name_ar": "نيسبوريني",
+      "name_en": "Nisporeni",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 7986
+    },
+    {
+      "id": 19,
+      "name_ar": "مقاطعة تيلينيشتي",
+      "name_en": "Telenesti",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 7227
+    },
+    {
+      "id": 20,
+      "name_ar": "مقاطعة دوندوسيني",
+      "name_en": "Donduseni",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 7101
+    },
+    {
+      "id": 21,
+      "name_ar": "مقاطعة ستيفان فودا",
+      "name_en": "Stefan Voda",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 7078
+    },
+    {
+      "id": 22,
+      "name_ar": "مقاطعة شولدانيشتي",
+      "name_en": "Soldanesti",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 5883
+    },
+    {
+      "id": 23,
+      "name_ar": "مقاطعة كانتيمير",
+      "name_en": "Cantemir",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 3429
+    },
+    {
+      "id": 24,
+      "name_ar": "مقاطعة أونيتا",
+      "name_en": "Ocnita",
+      "country_ar": "مولدافيا",
+      "country_en": "Moldova",
+      "population": 3133
+    }
+  ],
+  "meta": {
+    "title": "مدن مولدافيا — Cities of Moldova (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مولدافيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 24 cities in Moldova with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 24 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مولدافيا — Cities of Moldova (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مولدافيا — Cities of Moldova (Arabic names) — 24 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 24 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

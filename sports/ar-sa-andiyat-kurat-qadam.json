@@ -1,0 +1,302 @@
+{
+  "id": "ar-sa-andiyat-kurat-qadam",
+  "name": "أندية كرة القدم السعودية (Saudi Arabian football clubs)",
+  "title": "أندية كرة القدم السعودية (Saudi Arabian football clubs)",
+  "description": "Football clubs of Saudi Arabia, including Saudi Pro League and First Division Pro League sides plus historic clubs. Each record carries the canonical Latin-transliterated club name, founded year where known, host city, and alternative spellings (aliases). Sourced from the openfootball/clubs registry — upstream provides Latin transliteration only; no Arabic-script names are published in the source file.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Abha",
+      "name_native": "",
+      "slug": "abha",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Abha",
+      "aliases": "Abha Club, Abha Football Club"
+    },
+    {
+      "id": 2,
+      "name": "Al Batin FC",
+      "name_native": "",
+      "slug": "al-batin-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Hafar al-Batin",
+      "aliases": "Al Batin, Al Batin Football Club"
+    },
+    {
+      "id": 3,
+      "name": "Al Qadsiah FC",
+      "name_native": "",
+      "slug": "al-qadsiah-fc",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Khobar",
+      "aliases": "Al-Qadsiah Football Club, Al-Qadsiah Saudi Football Club"
+    },
+    {
+      "id": 4,
+      "name": "Al-Ahli",
+      "name_native": "",
+      "slug": "al-ahli",
+      "founded": 1937,
+      "defunct": "",
+      "stadium": "",
+      "city": "Jeddah",
+      "aliases": "Al-Ahli Jeddah, Al-Ahli Saudi FC, Al-Ahli Saudi Football Club"
+    },
+    {
+      "id": 5,
+      "name": "Al-Ettifaq",
+      "name_native": "",
+      "slug": "al-ettifaq",
+      "founded": 1945,
+      "defunct": "",
+      "stadium": "",
+      "city": "Dammam",
+      "aliases": "Al-Ettifaq FC, Al-Ettifaq Football Club, Ettifaq FC"
+    },
+    {
+      "id": 6,
+      "name": "Al-Fateh",
+      "name_native": "",
+      "slug": "al-fateh",
+      "founded": 1958,
+      "defunct": "",
+      "stadium": "",
+      "city": "Al-Mubarraz",
+      "aliases": "Al Fateh SC, Al Fateh Sports Club"
+    },
+    {
+      "id": 7,
+      "name": "Al-Fayha",
+      "name_native": "",
+      "slug": "al-fayha",
+      "founded": 1953,
+      "defunct": "",
+      "stadium": "",
+      "city": "Al Majma'ah",
+      "aliases": "Al Fayha FC, Al Fayha Football Club"
+    },
+    {
+      "id": 8,
+      "name": "Al-Hazem",
+      "name_native": "",
+      "slug": "al-hazem",
+      "founded": 1957,
+      "defunct": "",
+      "stadium": "",
+      "city": "Ar Rass",
+      "aliases": "Al Hazem FC, Al-Hazem SC, Al-Hazem Sport Club"
+    },
+    {
+      "id": 9,
+      "name": "Al-Hilal",
+      "name_native": "",
+      "slug": "al-hilal",
+      "founded": 1957,
+      "defunct": "",
+      "stadium": "",
+      "city": "Riyadh",
+      "aliases": "Al Hilal FC, Al Hilal Riyadh, Al-Hilal Riyad, Al Hilal Saudi Football Club, Al Hilal SFC"
+    },
+    {
+      "id": 10,
+      "name": "Al-Ittihad",
+      "name_native": "",
+      "slug": "al-ittihad",
+      "founded": 1927,
+      "defunct": "",
+      "stadium": "",
+      "city": "Jeddah",
+      "aliases": "Al-Ittihad Club, Al-Ittihad Saudi Arabian Club"
+    },
+    {
+      "id": 11,
+      "name": "Al-Jandal",
+      "name_native": "",
+      "slug": "al-jandal",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Dumat al-Jandal",
+      "aliases": "Al Jandal SC, Al Jandal Sport Club"
+    },
+    {
+      "id": 12,
+      "name": "Al-Khaleej",
+      "name_native": "",
+      "slug": "al-khaleej",
+      "founded": 1945,
+      "defunct": "",
+      "stadium": "",
+      "city": "Saihat",
+      "aliases": "Al Khaleej Saihat, Al-Khaleej FC, Khaleej, Khaleej Football Club"
+    },
+    {
+      "id": 13,
+      "name": "Al-Nassr",
+      "name_native": "",
+      "slug": "al-nassr",
+      "founded": 1955,
+      "defunct": "",
+      "stadium": "",
+      "city": "Riyadh",
+      "aliases": "Al Nasr Riad, Al Nassr FC, Al Nassr Football Club"
+    },
+    {
+      "id": 14,
+      "name": "Al-Okhdood",
+      "name_native": "",
+      "slug": "al-okhdood",
+      "founded": 1976,
+      "defunct": "",
+      "stadium": "",
+      "city": "Najran",
+      "aliases": "Al Akhdood, Al-Okhdood Club"
+    },
+    {
+      "id": 15,
+      "name": "Al-Raed",
+      "name_native": "",
+      "slug": "al-raed",
+      "founded": 1954,
+      "defunct": "",
+      "stadium": "",
+      "city": "Buraidah",
+      "aliases": "Al Raed FC, Al Raed Saudi Football Club"
+    },
+    {
+      "id": 16,
+      "name": "Al-Riyadh",
+      "name_native": "",
+      "slug": "al-riyadh",
+      "founded": 1953,
+      "defunct": "",
+      "stadium": "",
+      "city": "Riyadh",
+      "aliases": "Al Riyadh, Al-Riyadh SC, Al-Riyadh Saudi Club"
+    },
+    {
+      "id": 17,
+      "name": "Al-Shabab",
+      "name_native": "",
+      "slug": "al-shabab",
+      "founded": 1947,
+      "defunct": "",
+      "stadium": "",
+      "city": "Riyadh",
+      "aliases": "Al-Shabab Football Club, Al Shabab FC"
+    },
+    {
+      "id": 18,
+      "name": "Al-Taawoun",
+      "name_native": "",
+      "slug": "al-taawoun",
+      "founded": 1954,
+      "defunct": "",
+      "stadium": "",
+      "city": "Buraidah",
+      "aliases": "Al Taawoun FC, Al Taawoun Football Club"
+    },
+    {
+      "id": 19,
+      "name": "Al-Tai",
+      "name_native": "",
+      "slug": "al-tai",
+      "founded": 1961,
+      "defunct": "",
+      "stadium": "",
+      "city": "Ha'il",
+      "aliases": "Al-Tai FC, Al-Tai Football Club"
+    },
+    {
+      "id": 20,
+      "name": "Al-Wehda",
+      "name_native": "",
+      "slug": "al-wehda",
+      "founded": 1916,
+      "defunct": "",
+      "stadium": "",
+      "city": "Mecca",
+      "aliases": "Al Wehda FC, Al-Wehda Football Club"
+    },
+    {
+      "id": 21,
+      "name": "Damac",
+      "name_native": "",
+      "slug": "damac",
+      "founded": 1972,
+      "defunct": "",
+      "stadium": "",
+      "city": "Khamis Mushait",
+      "aliases": "Damac FC, Damac Football Club"
+    }
+  ],
+  "meta": {
+    "title": "أندية كرة القدم السعودية (Saudi Arabian football clubs) - تحميل مجاني",
+    "description": "Football clubs of Saudi Arabia, including Saudi Pro League and First Division Pro League sides plus historic clubs. Each record carries the canonical Latin-transliterated club name, founded year where known, host city, and alternative spellings (aliases). Sourced from the openfootball/clubs registry — upstream provides Latin transliteration only; no Arabic-script names are published in the source file. يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أندية كرة القدم السعودية (Saudi Arabian football clubs) | ListBase",
+    "seo_description": "تحميل أندية كرة القدم السعودية (Saudi Arabian football clubs) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

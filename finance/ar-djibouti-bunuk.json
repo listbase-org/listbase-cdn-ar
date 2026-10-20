@@ -1,0 +1,142 @@
+{
+  "id": "ar-djibouti-bunuk",
+  "name": "بنوك جيبوتي — رموز سويفت (Banks of Djibouti — SWIFT/BIC codes)",
+  "title": "بنوك جيبوتي — رموز سويفت (Banks of Djibouti — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في جيبوتي مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 13 سجلًا. List of banks, financial institutions and their branches in Djibouti with the SWIFT/BIC code, bank name, city and branch name for each. 13 records. Source: PeterNotenboom/SwiftCodes AllCountries/DJ.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANK OF AFRICA MER ROUGE",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "MRINDJJD"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE CENTRALE DE DJIBOUTI",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "BCDJDJJD"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE CENTRALE DE DJIBOUTI",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "BNDJDJD1"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE DE DEPOT ET CREDIT DJIBOUTI",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "DECDDJJD"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE DE DJIBOUTI ET DU MOYEN ORIENT",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "BDMODJD1"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE - MER ROUGE",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "BCIMDJJX"
+    },
+    {
+      "id": 7,
+      "bank": "CAC INTERNATIONAL BANK",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "CACDDJJD"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL BANK OF DJIBOUTI SA",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "CBDJDJJD"
+    },
+    {
+      "id": 9,
+      "bank": "EAST AFRICA BANK",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "EABDDJJD"
+    },
+    {
+      "id": 10,
+      "bank": "EXIM BANK (DJIBOUTI) S.A.",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "EXTNDJJD"
+    },
+    {
+      "id": 11,
+      "bank": "INTERNATIONAL COMMERCIAL BANK DJIBOUTI",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "ICDJDJJD"
+    },
+    {
+      "id": 12,
+      "bank": "SABA ISLAMIC BANK",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "SAAIDJJD"
+    },
+    {
+      "id": 13,
+      "bank": "SALAAM AFRICAN BANK",
+      "city": "DJIBOUTI",
+      "branch": "",
+      "swift_code": "ISEADJJD"
+    }
+  ],
+  "meta": {
+    "title": "بنوك جيبوتي — رموز سويفت (Banks of Djibouti — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في جيبوتي مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والمدينة والفرع. 13 سجلًا. List of banks, financial institutions and their branches in Djibouti with the SWIFT/BIC code, bank name, city and branch name for each. 13 records. Source: PeterNotenboom/SwiftCodes AllCountries/DJ.json (MIT). يحتوي على 13 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك جيبوتي — رموز سويفت (Banks of Djibouti — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك جيبوتي — رموز سويفت (Banks of Djibouti — SWIFT/BIC codes) — 13 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 13 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "id": "ar-suria-damascus-bunuk",
+  "name": "بنوك Damascus — سوريا — رموز سويفت (Banks of Damascus, Syria — SWIFT/BIC codes)",
+  "title": "بنوك Damascus — سوريا — رموز سويفت (Banks of Damascus, Syria — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Damascus (سوريا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 46 سجلًا. List of banks, financial institutions and their branches in Damascus, Syria with the SWIFT/BIC code, bank name and branch name for each. 46 records. Source: PeterNotenboom/SwiftCodes AllCountries/SY.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL BARAKA BANK SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BBSYSYDA"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB BANK-SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "ARBXSYDA"
+    },
+    {
+      "id": 3,
+      "bank": "BANK AL-SHARQ S.A.",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "SHRQSYDA"
+    },
+    {
+      "id": 4,
+      "bank": "BANK AUDI SYRIA S.A.",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BASYSYDA"
+    },
+    {
+      "id": 5,
+      "bank": "BANK OF JORDAN-SYRIA-",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BJORSYDA"
+    },
+    {
+      "id": 6,
+      "bank": "BANK OF SYRIA AND OVERSEAS",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BSOMSYDA"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE BEMO SAUDI FRANSI S.A.",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BBSFSYDA"
+    },
+    {
+      "id": 8,
+      "bank": "BYBLOS BANK SYRIA SA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "BYBASYDA"
+    },
+    {
+      "id": 9,
+      "bank": "CENTRAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CBSYSYDA"
+    },
+    {
+      "id": 10,
+      "bank": "CHAM BANK",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CHMMSYDA"
+    },
+    {
+      "id": 11,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(AL TEL)",
+      "swift_code": "CMSYSYDATL1"
+    },
+    {
+      "id": 12,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.10 DAMASCUS)",
+      "swift_code": "CMSYSYDAD10"
+    },
+    {
+      "id": 13,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.11 DAMASCUS)",
+      "swift_code": "CMSYSYDAD11"
+    },
+    {
+      "id": 14,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.12 DAMASCUS)",
+      "swift_code": "CMSYSYDAD12"
+    },
+    {
+      "id": 15,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.13 DAMASCUS)",
+      "swift_code": "CMSYSYDAD13"
+    },
+    {
+      "id": 16,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.15 DAMASCUS)",
+      "swift_code": "CMSYSYDAD15"
+    },
+    {
+      "id": 17,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.18 DAMASCUS)",
+      "swift_code": "CMSYSYDAD18"
+    },
+    {
+      "id": 18,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.7 DAMASCUS)",
+      "swift_code": "CMSYSYDADA7"
+    },
+    {
+      "id": 19,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.8 DAMASCUS)",
+      "swift_code": "CMSYSYDADA8"
+    },
+    {
+      "id": 20,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(BRANCH NR.9 DAMASCUS)",
+      "swift_code": "CMSYSYDADA9"
+    },
+    {
+      "id": 21,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAHET ASSAD BR)",
+      "swift_code": "CMSYSYDAD24"
+    },
+    {
+      "id": 22,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 1 BRANCH)",
+      "swift_code": "CMSYSYDADA1"
+    },
+    {
+      "id": 23,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 16 BRANCH)",
+      "swift_code": "CMSYSYDAD16"
+    },
+    {
+      "id": 24,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 17 BRANCH)",
+      "swift_code": "CMSYSYDAD17"
+    },
+    {
+      "id": 25,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 2 BRANCH)",
+      "swift_code": "CMSYSYDADA2"
+    },
+    {
+      "id": 26,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 3 BRANCH)",
+      "swift_code": "CMSYSYDADA3"
+    },
+    {
+      "id": 27,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 4 BRANCH)",
+      "swift_code": "CMSYSYDADA4"
+    },
+    {
+      "id": 28,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 5 BRANCH)",
+      "swift_code": "CMSYSYDADA5"
+    },
+    {
+      "id": 29,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS 6 BRANCH)",
+      "swift_code": "CMSYSYDADA6"
+    },
+    {
+      "id": 30,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DAMASCUS FREE ZONE BRANCH)",
+      "swift_code": "CMSYSYDADFZ"
+    },
+    {
+      "id": 31,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DEIR ATTIEH BR)",
+      "swift_code": "CMSYSYDAD25"
+    },
+    {
+      "id": 32,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(DOUMA BRANCH)",
+      "swift_code": "CMSYSYDADUM"
+    },
+    {
+      "id": 33,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(MALLIEH BR)",
+      "swift_code": "CMSYSYDAD21"
+    },
+    {
+      "id": 34,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(MASAKIN BARZEH BR)",
+      "swift_code": "CMSYSYDABA1"
+    },
+    {
+      "id": 35,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "(ZABADANI)",
+      "swift_code": "CMSYSYDAZA1"
+    },
+    {
+      "id": 36,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CMSYSYDA"
+    },
+    {
+      "id": 37,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CMSYSYDAD14"
+    },
+    {
+      "id": 38,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CMSYSYDAD26"
+    },
+    {
+      "id": 39,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CMSYSYDAD27"
+    },
+    {
+      "id": 40,
+      "bank": "COMMERCIAL BANK OF SYRIA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "CMSYSYDAD28"
+    },
+    {
+      "id": 41,
+      "bank": "FRANSABANK SYRIA SA",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "FSBSSYDA"
+    },
+    {
+      "id": 42,
+      "bank": "INTERNATIONAL BANK FOR TRADE AND FINANCE, THE",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "GBTFSYDA"
+    },
+    {
+      "id": 43,
+      "bank": "QNB",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "QNBASYDA"
+    },
+    {
+      "id": 44,
+      "bank": "REAL ESTATE BANK",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "REBSSYDA"
+    },
+    {
+      "id": 45,
+      "bank": "SYRIA GULF BANK, S.A.",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "SGBSSYDA"
+    },
+    {
+      "id": 46,
+      "bank": "SYRIA INTERNATIONAL ISLAMIC BANK",
+      "city": "DAMASCUS",
+      "branch": "",
+      "swift_code": "SIIBSYDA"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Damascus — سوريا — رموز سويفت (Banks of Damascus, Syria — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Damascus (سوريا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 46 سجلًا. List of banks, financial institutions and their branches in Damascus, Syria with the SWIFT/BIC code, bank name and branch name for each. 46 records. Source: PeterNotenboom/SwiftCodes AllCountries/SY.json (MIT). يحتوي على 46 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Damascus — سوريا — رموز سويفت (Banks of Damascus, Syria — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Damascus — سوريا — رموز سويفت (Banks of Damascus, Syria — SWIFT/BIC codes) — 46 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 46 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

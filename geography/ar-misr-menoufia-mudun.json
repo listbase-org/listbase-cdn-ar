@@ -1,0 +1,160 @@
+{
+  "id": "ar-misr-menoufia-mudun",
+  "name": "مدن ومراكز محافظة المنوفية (Cities & Towns of Menoufia)",
+  "title": "مدن ومراكز محافظة المنوفية (Cities & Towns of Menoufia)",
+  "description": "قائمة مدن ومراكز محافظة المنوفية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Menoufia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "53",
+      "name_ar": "أشمون",
+      "name_en": "ashmon",
+      "name_long_ar": "أشمون، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "54",
+      "name_ar": "الباجور",
+      "name_en": "bagour",
+      "name_long_ar": "الباجور، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "57",
+      "name_ar": "السادات",
+      "name_en": "sadat",
+      "name_long_ar": "السادات، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "60",
+      "name_ar": "الشهداء",
+      "name_en": "shohadaa",
+      "name_long_ar": "الشهداء، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "55",
+      "name_ar": "بركة السبع",
+      "name_en": "berket-al-sabaa",
+      "name_long_ar": "بركة السبع، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "59",
+      "name_ar": "تلا",
+      "name_en": "tala",
+      "name_long_ar": "تلا، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "58",
+      "name_ar": "سرس الليان",
+      "name_en": "sers-al-lyan",
+      "name_long_ar": "سرس الليان، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "61",
+      "name_ar": "شبين الكوم",
+      "name_en": "shebin-al-koum",
+      "name_long_ar": "شبين الكوم، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "62",
+      "name_ar": "قويسنا",
+      "name_en": "quesna",
+      "name_long_ar": "قويسنا، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "56",
+      "name_ar": "منوف",
+      "name_en": "menouf",
+      "name_long_ar": "منوف، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    },
+    {
+      "id": "405",
+      "name_ar": "ميت العز",
+      "name_en": "mit-el-ezz",
+      "name_long_ar": "ميت العز، المنوفية",
+      "muhafaza_ar": "المنوفية",
+      "muhafaza_en": "menoufia",
+      "muhafaza_id": 62
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة المنوفية (Cities & Towns of Menoufia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة المنوفية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Menoufia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة المنوفية (Cities & Towns of Menoufia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة المنوفية (Cities & Towns of Menoufia) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

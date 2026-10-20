@@ -1,0 +1,488 @@
+{
+  "id": "ar-mudun-romania",
+  "name": "مدن رومانيا — Cities of Romania (Arabic names)",
+  "title": "مدن رومانيا — Cities of Romania (Arabic names)",
+  "description": "قائمة بأسماء مدن رومانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Romania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بوخارست",
+      "name_en": "Bucharest",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 2412530
+    },
+    {
+      "id": 2,
+      "name_ar": "كلوج نابوكا",
+      "name_en": "Cluj-Napoca",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 286598
+    },
+    {
+      "id": 3,
+      "name_ar": "ياش",
+      "name_en": "Iasi",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 271692
+    },
+    {
+      "id": 4,
+      "name_ar": "كونستانتسا",
+      "name_en": "Constanta",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 263707
+    },
+    {
+      "id": 5,
+      "name_ar": "تيميشوارا",
+      "name_en": "Timisoara",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 250849
+    },
+    {
+      "id": 6,
+      "name_ar": "مقاطعة براسوف",
+      "name_en": "Brasov",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 237589
+    },
+    {
+      "id": 7,
+      "name_ar": "كرايوفا",
+      "name_en": "Craiova",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 234140
+    },
+    {
+      "id": 8,
+      "name_ar": "غالاتس",
+      "name_en": "Galati",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 217851
+    },
+    {
+      "id": 9,
+      "name_ar": "أوراديا",
+      "name_en": "Oradea",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 183105
+    },
+    {
+      "id": 10,
+      "name_ar": "بلويشت",
+      "name_en": "Ploiesti",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 180539
+    },
+    {
+      "id": 11,
+      "name_ar": "برايلا",
+      "name_en": "Braila",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 154686
+    },
+    {
+      "id": 12,
+      "name_ar": "أراد",
+      "name_en": "Arad",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 145078
+    },
+    {
+      "id": 13,
+      "name_ar": "بيتيشت",
+      "name_en": "Pitesti",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 141275
+    },
+    {
+      "id": 14,
+      "name_ar": "إقليم باكاو",
+      "name_en": "Bacau",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 136087
+    },
+    {
+      "id": 15,
+      "name_ar": "سيبيو",
+      "name_en": "Sibiu",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 134308
+    },
+    {
+      "id": 16,
+      "name_ar": "سوتشافا",
+      "name_en": "Suceava",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 119694
+    },
+    {
+      "id": 17,
+      "name_ar": "تارغو موريش",
+      "name_en": "Targu-Mures",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 116033
+    },
+    {
+      "id": 18,
+      "name_ar": "بايا ماري",
+      "name_en": "Baia Mare",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 108759
+    },
+    {
+      "id": 19,
+      "name_ar": "إقليم بوزاو",
+      "name_en": "Buzau",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 103481
+    },
+    {
+      "id": 20,
+      "name_ar": "رمينكو فيلتشا",
+      "name_en": "Ramnicu Valcea",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 93151
+    },
+    {
+      "id": 21,
+      "name_ar": "إقليم بوتوشان",
+      "name_en": "Botosani",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 90010
+    },
+    {
+      "id": 22,
+      "name_ar": "ريشيتسا",
+      "name_en": "Resita",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 83324
+    },
+    {
+      "id": 23,
+      "name_ar": "دروبيتا تورنو سيفيرين",
+      "name_en": "Drobeta-Turnu Severin",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 79865
+    },
+    {
+      "id": 24,
+      "name_ar": "بياترا نيامتس",
+      "name_en": "Piatra Neamt",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 79679
+    },
+    {
+      "id": 25,
+      "name_ar": "بيستريتسا",
+      "name_en": "Bistrita",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 78877
+    },
+    {
+      "id": 26,
+      "name_ar": "ترجو جيو",
+      "name_en": "Targu Jiu",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 73545
+    },
+    {
+      "id": 27,
+      "name_ar": "ترجوفيشت",
+      "name_en": "Targoviste",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 66965
+    },
+    {
+      "id": 28,
+      "name_ar": "فوكشاني",
+      "name_en": "Focsani",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 66648
+    },
+    {
+      "id": 29,
+      "name_ar": "مقاطعة تولسيا",
+      "name_en": "Tulcea",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 65624
+    },
+    {
+      "id": 30,
+      "name_ar": "ألبا يوليا",
+      "name_en": "Alba Iulia",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 64227
+    },
+    {
+      "id": 31,
+      "name_ar": "فاسلوي",
+      "name_en": "Vaslui",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 63035
+    },
+    {
+      "id": 32,
+      "name_ar": "جورجيو",
+      "name_en": "Giurgiu",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 54551
+    },
+    {
+      "id": 33,
+      "name_ar": "ديوناكري",
+      "name_en": "Deva",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 53113
+    },
+    {
+      "id": 34,
+      "name_ar": "بيرلاد",
+      "name_en": "Barlad",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 52475
+    },
+    {
+      "id": 35,
+      "name_ar": "زالاو",
+      "name_en": "Zalau",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 52359
+    },
+    {
+      "id": 36,
+      "name_ar": "مقاطعة هوندوارا",
+      "name_en": "Hunedoara",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 50457
+    },
+    {
+      "id": 37,
+      "name_ar": "رومان",
+      "name_en": "Roman",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 48644
+    },
+    {
+      "id": 38,
+      "name_ar": "ميركورا تشيوك",
+      "name_en": "Miercurea-Ciuc",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 42029
+    },
+    {
+      "id": 39,
+      "name_ar": "الإسكندرية",
+      "name_en": "Alexandria",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 40390
+    },
+    {
+      "id": 40,
+      "name_ar": "إعلام",
+      "name_en": "Media",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 39505
+    },
+    {
+      "id": 41,
+      "name_ar": "لوغوج",
+      "name_en": "Lugoj",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 35450
+    },
+    {
+      "id": 42,
+      "name_ar": "مجيدية",
+      "name_en": "Medgidia",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 34612
+    },
+    {
+      "id": 43,
+      "name_ar": "بانتيليمون",
+      "name_en": "Pantelimon",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 32873
+    },
+    {
+      "id": 44,
+      "name_ar": "مانغالايا",
+      "name_en": "Mangalia",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 31950
+    },
+    {
+      "id": 45,
+      "name_ar": "بيتروشاني",
+      "name_en": "Petrosani",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 31044
+    },
+    {
+      "id": 46,
+      "name_ar": "باشكاني",
+      "name_en": "Pascani",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 30766
+    },
+    {
+      "id": 47,
+      "name_ar": "ميوفني",
+      "name_en": "Mioveni",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 29317
+    },
+    {
+      "id": 48,
+      "name_ar": "كامبيناس",
+      "name_en": "Campina",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 28993
+    },
+    {
+      "id": 49,
+      "name_ar": "عناق الأرض",
+      "name_en": "Caracal",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 27403
+    },
+    {
+      "id": 50,
+      "name_ar": "كورتا دي أرجيش",
+      "name_en": "Curtea de Arges",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 25977
+    },
+    {
+      "id": 51,
+      "name_ar": "سيغيشوارا",
+      "name_en": "Sighisoara",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 23927
+    },
+    {
+      "id": 52,
+      "name_ar": "كارانسيبيش",
+      "name_en": "Caransebes",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 21714
+    },
+    {
+      "id": 53,
+      "name_ar": "أيو",
+      "name_en": "Aiud",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 21307
+    },
+    {
+      "id": 54,
+      "name_ar": "بوفتيا",
+      "name_en": "Buftea",
+      "country_ar": "رومانيا",
+      "country_en": "Romania",
+      "population": 20577
+    }
+  ],
+  "meta": {
+    "title": "مدن رومانيا — Cities of Romania (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن رومانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Romania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 54 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن رومانيا — Cities of Romania (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن رومانيا — Cities of Romania (Arabic names) — 54 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 54 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

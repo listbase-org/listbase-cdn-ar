@@ -1,0 +1,3046 @@
+{
+  "id": "ar-al-madinah-mudun",
+  "name": "مدن منطقة المدينة المنورة (Cities of Al Madinah)",
+  "title": "مدن منطقة المدينة المنورة (Cities of Al Madinah)",
+  "description": "قائمة مدن منطقة المدينة المنورة (Al Madinah) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Madinah administrative region of Saudi Arabia (region_id=7). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 298,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 14,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المدينة المنورة",
+      "name_en": "Al Madinah Al Munawwarah",
+      "slug": "al-madinah-al-munawwarah"
+    },
+    {
+      "city_id": 190,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "دبدبة فضلاء",
+      "name_en": "Dibdibbat Fudala",
+      "slug": "dibdibbat-fudala"
+    },
+    {
+      "city_id": 191,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحجب",
+      "name_en": "Al Hajab",
+      "slug": "al-hajab"
+    },
+    {
+      "city_id": 192,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الضلفة",
+      "name_en": "Adh Dhalfah",
+      "slug": "adh-dhalfah"
+    },
+    {
+      "city_id": 193,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أبو طاقة",
+      "name_en": "Abu Taqah",
+      "slug": "abu-taqah"
+    },
+    {
+      "city_id": 194,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العين الجديدة",
+      "name_en": "Al Ayn Al Jadidah",
+      "slug": "al-ayn-al-jadidah"
+    },
+    {
+      "city_id": 195,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القعرة",
+      "name_en": "Al Qiarah",
+      "slug": "al-qiarah"
+    },
+    {
+      "city_id": 196,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم زرب",
+      "name_en": "Umm Zarb",
+      "slug": "umm-zarb"
+    },
+    {
+      "city_id": 197,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "هدية",
+      "name_en": "Hadiyah",
+      "slug": "hadiyah"
+    },
+    {
+      "city_id": 198,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القعرة",
+      "name_en": "Al Qarah",
+      "slug": "al-qarah-198"
+    },
+    {
+      "city_id": 199,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العلا",
+      "name_en": "Al Ula",
+      "slug": "al-ula"
+    },
+    {
+      "city_id": 200,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجهراء",
+      "name_en": "Al Jahara",
+      "slug": "al-jahara"
+    },
+    {
+      "city_id": 201,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "رحيب",
+      "name_en": "Ruhayb",
+      "slug": "ruhayb"
+    },
+    {
+      "city_id": 202,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "شلال",
+      "name_en": "Shalal",
+      "slug": "shalal"
+    },
+    {
+      "city_id": 203,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ضاعا",
+      "name_en": "Daa",
+      "slug": "daa"
+    },
+    {
+      "city_id": 204,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "جيدة",
+      "name_en": "Jaydah",
+      "slug": "jaydah"
+    },
+    {
+      "city_id": 205,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قلبان عشرة",
+      "name_en": "Qulban Isharah",
+      "slug": "qulban-isharah"
+    },
+    {
+      "city_id": 206,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النجيل",
+      "name_en": "An Najil",
+      "slug": "an-najil"
+    },
+    {
+      "city_id": 207,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الرزيقية",
+      "name_en": "Ar Ruzayqiyah",
+      "slug": "ar-ruzayqiyah"
+    },
+    {
+      "city_id": 208,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحميدية",
+      "name_en": "Al Hamidiyah",
+      "slug": "al-hamidiyah"
+    },
+    {
+      "city_id": 209,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "صدر",
+      "name_en": "Sadr",
+      "slug": "sadr-209"
+    },
+    {
+      "city_id": 210,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مغيراء",
+      "name_en": "Mughayra",
+      "slug": "mughayra-210"
+    },
+    {
+      "city_id": 211,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قصيب ابو سيال",
+      "name_en": "Qusayb Abu Siyal",
+      "slug": "qusayb-abu-siyal"
+    },
+    {
+      "city_id": 212,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ابو اراكة",
+      "name_en": "Abu Arakah",
+      "slug": "abu-arakah"
+    },
+    {
+      "city_id": 213,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مدائن الصالح",
+      "name_en": "Madain As Salih",
+      "slug": "madain-as-salih"
+    },
+    {
+      "city_id": 214,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عورش",
+      "name_en": "Awarsh",
+      "slug": "awarsh"
+    },
+    {
+      "city_id": 215,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النشيفة",
+      "name_en": "An Nushayfah",
+      "slug": "an-nushayfah"
+    },
+    {
+      "city_id": 216,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الزباير",
+      "name_en": "Az Zubayir",
+      "slug": "az-zubayir"
+    },
+    {
+      "city_id": 217,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الضليعة",
+      "name_en": "Ad Dulayah",
+      "slug": "ad-dulayah"
+    },
+    {
+      "city_id": 218,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "متان العريقة",
+      "name_en": "Mitan Al Urayqah",
+      "slug": "mitan-al-urayqah"
+    },
+    {
+      "city_id": 219,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الابرق",
+      "name_en": "Al Abraq",
+      "slug": "al-abraq-219"
+    },
+    {
+      "city_id": 220,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اميرة",
+      "name_en": "Amirah",
+      "slug": "amirah"
+    },
+    {
+      "city_id": 221,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجديدة",
+      "name_en": "Al Jadidah",
+      "slug": "al-jadidah-221"
+    },
+    {
+      "city_id": 222,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "كتيفة مصادر",
+      "name_en": "Kutayfat Masadir",
+      "slug": "kutayfat-masadir"
+    },
+    {
+      "city_id": 273,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-273"
+    },
+    {
+      "city_id": 274,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المضاويح",
+      "name_en": "Al Mudhawih",
+      "slug": "al-mudhawih"
+    },
+    {
+      "city_id": 275,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ابا البقر",
+      "name_en": "Aba Al Baqar",
+      "slug": "aba-al-baqar"
+    },
+    {
+      "city_id": 276,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحرضة",
+      "name_en": "Al Hardhah",
+      "slug": "al-hardhah"
+    },
+    {
+      "city_id": 277,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الضرس",
+      "name_en": "Adh Dhars",
+      "slug": "adh-dhars"
+    },
+    {
+      "city_id": 278,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الخريبة",
+      "name_en": "Al Khoraibah",
+      "slug": "al-khoraibah"
+    },
+    {
+      "city_id": 279,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العرائد",
+      "name_en": "Al Araid",
+      "slug": "al-araid"
+    },
+    {
+      "city_id": 280,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "غمرة",
+      "name_en": "Ghamrah",
+      "slug": "ghamrah-280"
+    },
+    {
+      "city_id": 281,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العقيلة",
+      "name_en": "Al Uqilah",
+      "slug": "al-uqilah"
+    },
+    {
+      "city_id": 282,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العدلة",
+      "name_en": "Al Adlah",
+      "slug": "al-adlah"
+    },
+    {
+      "city_id": 283,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الديسة",
+      "name_en": "Ad Disah",
+      "slug": "ad-disah-283"
+    },
+    {
+      "city_id": 284,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السليمي",
+      "name_en": "As Sulaymi",
+      "slug": "as-sulaymi-284"
+    },
+    {
+      "city_id": 285,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجرف",
+      "name_en": "Al Jarf",
+      "slug": "al-jarf-285"
+    },
+    {
+      "city_id": 286,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهذلولي",
+      "name_en": "Al Hadhluli",
+      "slug": "al-hadhluli"
+    },
+    {
+      "city_id": 287,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "جدعاء",
+      "name_en": "Jada",
+      "slug": "jada"
+    },
+    {
+      "city_id": 288,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "خيبر",
+      "name_en": "Khaybar",
+      "slug": "khaybar"
+    },
+    {
+      "city_id": 289,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اللحن",
+      "name_en": "Al Lihin",
+      "slug": "al-lihin"
+    },
+    {
+      "city_id": 290,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العشاش",
+      "name_en": "Al Ishash",
+      "slug": "al-ishash"
+    },
+    {
+      "city_id": 291,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصلصلة",
+      "name_en": "As Silsilah",
+      "slug": "as-silsilah"
+    },
+    {
+      "city_id": 292,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الثمد",
+      "name_en": "Al Thamad",
+      "slug": "al-thamad"
+    },
+    {
+      "city_id": 293,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العينية",
+      "name_en": "Al Uyaynah",
+      "slug": "al-uyaynah-293"
+    },
+    {
+      "city_id": 351,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المزرع",
+      "name_en": "Al Mizari",
+      "slug": "al-mizari"
+    },
+    {
+      "city_id": 352,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم الغيران",
+      "name_en": "Umm Al Ghiran",
+      "slug": "umm-al-ghiran"
+    },
+    {
+      "city_id": 353,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المندسة",
+      "name_en": "Al Mundassah",
+      "slug": "al-mundassah"
+    },
+    {
+      "city_id": 354,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السليمية",
+      "name_en": "As Silaymiyah",
+      "slug": "as-silaymiyah"
+    },
+    {
+      "city_id": 355,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البراقية",
+      "name_en": "Al Barraqiyah",
+      "slug": "al-barraqiyah"
+    },
+    {
+      "city_id": 356,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السراقي",
+      "name_en": "As Siraqi",
+      "slug": "as-siraqi"
+    },
+    {
+      "city_id": 357,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "آبار دحمولة",
+      "name_en": "Abar Dahmulah",
+      "slug": "abar-dahmulah"
+    },
+    {
+      "city_id": 358,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القويعية",
+      "name_en": "Al Quwayiyah",
+      "slug": "al-quwayiyah-358"
+    },
+    {
+      "city_id": 359,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بدائع الهراسين",
+      "name_en": "Badai Al Harasin",
+      "slug": "badai-al-harasin"
+    },
+    {
+      "city_id": 360,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مهد الذهب",
+      "name_en": "Mahd Adh Dhahab",
+      "slug": "mahd-adh-dhahab"
+    },
+    {
+      "city_id": 361,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "صفينة",
+      "name_en": "Sufaynah",
+      "slug": "sufaynah-361"
+    },
+    {
+      "city_id": 362,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "صفينة",
+      "name_en": "Sufaynah",
+      "slug": "sufaynah-362"
+    },
+    {
+      "city_id": 363,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصلحانية",
+      "name_en": "As Sulhaniyah",
+      "slug": "as-sulhaniyah"
+    },
+    {
+      "city_id": 364,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغاشية",
+      "name_en": "Al Ghashiyah",
+      "slug": "al-ghashiyah"
+    },
+    {
+      "city_id": 365,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الاصيحر",
+      "name_en": "Al Asayhir",
+      "slug": "al-asayhir"
+    },
+    {
+      "city_id": 366,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السويرقية",
+      "name_en": "As Suwayriqiyah",
+      "slug": "as-suwayriqiyah"
+    },
+    {
+      "city_id": 367,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ثرب",
+      "name_en": "Tharb",
+      "slug": "tharb"
+    },
+    {
+      "city_id": 368,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "حاذة",
+      "name_en": "Hadhah",
+      "slug": "hadhah"
+    },
+    {
+      "city_id": 369,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العمق",
+      "name_en": "Al Umaq",
+      "slug": "al-umaq"
+    },
+    {
+      "city_id": 370,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصعبية",
+      "name_en": "As Sabiyah",
+      "slug": "as-sabiyah"
+    },
+    {
+      "city_id": 451,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النجف",
+      "name_en": "An Najf",
+      "slug": "an-najf"
+    },
+    {
+      "city_id": 452,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السطيح",
+      "name_en": "As Sutayh",
+      "slug": "as-sutayh"
+    },
+    {
+      "city_id": 453,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الخيمة",
+      "name_en": "Al Khaymah",
+      "slug": "al-khaymah"
+    },
+    {
+      "city_id": 455,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "تفيدة",
+      "name_en": "Tafidah",
+      "slug": "tafidah"
+    },
+    {
+      "city_id": 457,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ندياء",
+      "name_en": "Nadya",
+      "slug": "nadya"
+    },
+    {
+      "city_id": 458,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مشرفة",
+      "name_en": "Mishrifah",
+      "slug": "mishrifah-458"
+    },
+    {
+      "city_id": 459,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "دوينه",
+      "name_en": "Duwayyinah",
+      "slug": "duwayyinah"
+    },
+    {
+      "city_id": 460,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عدن",
+      "name_en": "Adan",
+      "slug": "adan"
+    },
+    {
+      "city_id": 461,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الأحمر",
+      "name_en": "Al Ahmar",
+      "slug": "al-ahmar"
+    },
+    {
+      "city_id": 462,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الكلبة",
+      "name_en": "Al Kalbah",
+      "slug": "al-kalbah-462"
+    },
+    {
+      "city_id": 463,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الكلبة",
+      "name_en": "Al Kalbah",
+      "slug": "al-kalbah-463"
+    },
+    {
+      "city_id": 464,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البقاع",
+      "name_en": "Al Biqa",
+      "slug": "al-biqa"
+    },
+    {
+      "city_id": 465,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النجيل",
+      "name_en": "An Nujayl",
+      "slug": "an-nujayl"
+    },
+    {
+      "city_id": 466,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البثنة",
+      "name_en": "Al Bathnah",
+      "slug": "al-bathnah"
+    },
+    {
+      "city_id": 467,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "خيف حسين",
+      "name_en": "Khayf Husayn",
+      "slug": "khayf-husayn"
+    },
+    {
+      "city_id": 468,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البقارية",
+      "name_en": "Al Baqqariyah",
+      "slug": "al-baqqariyah"
+    },
+    {
+      "city_id": 469,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفقعلي",
+      "name_en": "Al Fuqali",
+      "slug": "al-fuqali"
+    },
+    {
+      "city_id": 470,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المشريف",
+      "name_en": "Al Mushayrif",
+      "slug": "al-mushayrif"
+    },
+    {
+      "city_id": 471,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم المسن",
+      "name_en": "Umm Al Misin",
+      "slug": "umm-al-misin"
+    },
+    {
+      "city_id": 472,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البديع",
+      "name_en": "Al Budayyi",
+      "slug": "al-budayyi"
+    },
+    {
+      "city_id": 473,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الدارة",
+      "name_en": "Ad Darah",
+      "slug": "ad-darah-473"
+    },
+    {
+      "city_id": 474,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القري",
+      "name_en": "Al Quray",
+      "slug": "al-quray"
+    },
+    {
+      "city_id": 475,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السليم",
+      "name_en": "As Sulaym",
+      "slug": "as-sulaym"
+    },
+    {
+      "city_id": 476,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اللثامة",
+      "name_en": "Al Luthamah",
+      "slug": "al-luthamah"
+    },
+    {
+      "city_id": 477,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المقنع",
+      "name_en": "Al Muqanna",
+      "slug": "al-muqanna"
+    },
+    {
+      "city_id": 478,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ضفيان",
+      "name_en": "Dufyan",
+      "slug": "dufyan"
+    },
+    {
+      "city_id": 479,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عضاد",
+      "name_en": "Adad",
+      "slug": "adad"
+    },
+    {
+      "city_id": 480,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العدوة",
+      "name_en": "Al Idwah",
+      "slug": "al-idwah-480"
+    },
+    {
+      "city_id": 481,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النباة",
+      "name_en": "An Nabah",
+      "slug": "an-nabah"
+    },
+    {
+      "city_id": 482,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البريدي",
+      "name_en": "Al Baridi",
+      "slug": "al-baridi"
+    },
+    {
+      "city_id": 483,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ينبع",
+      "name_en": "Yanbu",
+      "slug": "yanbu"
+    },
+    {
+      "city_id": 484,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القراصة",
+      "name_en": "Al Qarrasah",
+      "slug": "al-qarrasah"
+    },
+    {
+      "city_id": 485,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العيص",
+      "name_en": "Al Is",
+      "slug": "al-is"
+    },
+    {
+      "city_id": 486,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجابرية",
+      "name_en": "Al Jabiriyah",
+      "slug": "al-jabiriyah-486"
+    },
+    {
+      "city_id": 487,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ينبع النخل",
+      "name_en": "Yanbu An Nakhil",
+      "slug": "yanbu-an-nakhil"
+    },
+    {
+      "city_id": 488,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "جراجر",
+      "name_en": "Jarajir",
+      "slug": "jarajir"
+    },
+    {
+      "city_id": 489,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ترعة",
+      "name_en": "Tirah",
+      "slug": "tirah-489"
+    },
+    {
+      "city_id": 490,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المربع",
+      "name_en": "Al Murabba",
+      "slug": "al-murabba-490"
+    },
+    {
+      "city_id": 491,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "نبط",
+      "name_en": "Nabt",
+      "slug": "nabt"
+    },
+    {
+      "city_id": 492,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السليلة",
+      "name_en": "As Sulayyilah",
+      "slug": "as-sulayyilah"
+    },
+    {
+      "city_id": 760,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المرية",
+      "name_en": "Al Marriyah",
+      "slug": "al-marriyah"
+    },
+    {
+      "city_id": 761,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشقران",
+      "name_en": "Ash Shuqran",
+      "slug": "ash-shuqran-761"
+    },
+    {
+      "city_id": 762,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الكريزية",
+      "name_en": "Al Kurayziyah",
+      "slug": "al-kurayziyah-762"
+    },
+    {
+      "city_id": 763,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ذارة",
+      "name_en": "Dharah",
+      "slug": "dharah"
+    },
+    {
+      "city_id": 764,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قصيباء",
+      "name_en": "Qusayba",
+      "slug": "qusayba-764"
+    },
+    {
+      "city_id": 765,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "رحبة علوش",
+      "name_en": "Rahbat Allush",
+      "slug": "rahbat-allush"
+    },
+    {
+      "city_id": 766,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الكريزية",
+      "name_en": "Al Kurayziyah",
+      "slug": "al-kurayziyah-766"
+    },
+    {
+      "city_id": 767,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البديعة",
+      "name_en": "Al Bidayyiah",
+      "slug": "al-bidayyiah-767"
+    },
+    {
+      "city_id": 768,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "صبحا",
+      "name_en": "Sabha",
+      "slug": "sabha-768"
+    },
+    {
+      "city_id": 769,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "حزرة",
+      "name_en": "Hazrah",
+      "slug": "hazrah"
+    },
+    {
+      "city_id": 770,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "غراب",
+      "name_en": "Ghurab",
+      "slug": "ghurab-770"
+    },
+    {
+      "city_id": 771,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحجرية",
+      "name_en": "Al Hijriyah",
+      "slug": "al-hijriyah"
+    },
+    {
+      "city_id": 772,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أبو مغير",
+      "name_en": "Abu Mughayr",
+      "slug": "abu-mughayr"
+    },
+    {
+      "city_id": 773,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العد",
+      "name_en": "Al Idd",
+      "slug": "al-idd"
+    },
+    {
+      "city_id": 774,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الربثة",
+      "name_en": "Ar Rabtah",
+      "slug": "ar-rabtah"
+    },
+    {
+      "city_id": 775,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البركة",
+      "name_en": "Al Birkah",
+      "slug": "al-birkah-775"
+    },
+    {
+      "city_id": 776,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النفازي",
+      "name_en": "An Nafazi",
+      "slug": "an-nafazi"
+    },
+    {
+      "city_id": 777,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحناكية",
+      "name_en": "Al Hinakiyah",
+      "slug": "al-hinakiyah"
+    },
+    {
+      "city_id": 778,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المحفر",
+      "name_en": "Al Mahaffar",
+      "slug": "al-mahaffar"
+    },
+    {
+      "city_id": 779,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النخيل",
+      "name_en": "An Nakhyil",
+      "slug": "an-nakhyil"
+    },
+    {
+      "city_id": 780,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصمد",
+      "name_en": "As Samd",
+      "slug": "as-samd"
+    },
+    {
+      "city_id": 781,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الضميرية",
+      "name_en": "Ad Dumayriyah",
+      "slug": "ad-dumayriyah"
+    },
+    {
+      "city_id": 782,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المحامة",
+      "name_en": "Al Mahamah",
+      "slug": "al-mahamah-782"
+    },
+    {
+      "city_id": 783,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحسو",
+      "name_en": "Al Hisu",
+      "slug": "al-hisu"
+    },
+    {
+      "city_id": 784,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهميج",
+      "name_en": "Al Humayj",
+      "slug": "al-humayj-784"
+    },
+    {
+      "city_id": 785,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "صخيبرة",
+      "name_en": "Sukhaybirah",
+      "slug": "sukhaybirah"
+    },
+    {
+      "city_id": 786,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "هدبان",
+      "name_en": "Hadban",
+      "slug": "hadban"
+    },
+    {
+      "city_id": 787,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بلغة",
+      "name_en": "Bilghah",
+      "slug": "bilghah"
+    },
+    {
+      "city_id": 788,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الماوية",
+      "name_en": "Al Mawiyah",
+      "slug": "al-mawiyah"
+    },
+    {
+      "city_id": 789,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قصيرة",
+      "name_en": "Qusayrah",
+      "slug": "qusayrah"
+    },
+    {
+      "city_id": 790,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العوشزي",
+      "name_en": "Al Awshazi",
+      "slug": "al-awshazi"
+    },
+    {
+      "city_id": 791,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عرجاء",
+      "name_en": "Arja",
+      "slug": "arja-791"
+    },
+    {
+      "city_id": 792,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "طلال",
+      "name_en": "Talal",
+      "slug": "talal"
+    },
+    {
+      "city_id": 1007,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الأسطح",
+      "name_en": "Al Astah",
+      "slug": "al-astah"
+    },
+    {
+      "city_id": 1008,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الرجع",
+      "name_en": "Ar Raj",
+      "slug": "ar-raj-1008"
+    },
+    {
+      "city_id": 1009,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "دمان",
+      "name_en": "Duman",
+      "slug": "duman"
+    },
+    {
+      "city_id": 1010,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المفرق",
+      "name_en": "Al Mafraq",
+      "slug": "al-mafraq-1010"
+    },
+    {
+      "city_id": 1011,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغزلان",
+      "name_en": "Al Ghuzlan",
+      "slug": "al-ghuzlan"
+    },
+    {
+      "city_id": 1012,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجديد",
+      "name_en": "Al Jadid",
+      "slug": "al-jadid"
+    },
+    {
+      "city_id": 1013,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "وجمة",
+      "name_en": "Wajmah",
+      "slug": "wajmah"
+    },
+    {
+      "city_id": 1014,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عرقوص",
+      "name_en": "Arqus",
+      "slug": "arqus"
+    },
+    {
+      "city_id": 1015,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العنيق",
+      "name_en": "Al Unayq",
+      "slug": "al-unayq"
+    },
+    {
+      "city_id": 1016,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مرتجة",
+      "name_en": "Murattijah",
+      "slug": "murattijah"
+    },
+    {
+      "city_id": 1017,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفقرة",
+      "name_en": "Al Faqrah",
+      "slug": "al-faqrah"
+    },
+    {
+      "city_id": 1018,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "خلص",
+      "name_en": "Khals",
+      "slug": "khals"
+    },
+    {
+      "city_id": 1019,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القفاف",
+      "name_en": "Al Qifaf",
+      "slug": "al-qifaf"
+    },
+    {
+      "city_id": 1020,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم البرك",
+      "name_en": "Umm Al Birak",
+      "slug": "umm-al-birak"
+    },
+    {
+      "city_id": 1021,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مريخة",
+      "name_en": "Muraykhah",
+      "slug": "muraykhah-1021"
+    },
+    {
+      "city_id": 1022,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العبلا",
+      "name_en": "Al Abla",
+      "slug": "al-abla-1022"
+    },
+    {
+      "city_id": 1023,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مرموماء",
+      "name_en": "Marmuma",
+      "slug": "marmuma"
+    },
+    {
+      "city_id": 1024,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قرظة",
+      "name_en": "Qurudhah",
+      "slug": "qurudhah"
+    },
+    {
+      "city_id": 1025,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم فحي",
+      "name_en": "Umm Fahi",
+      "slug": "umm-fahi"
+    },
+    {
+      "city_id": 1026,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البركة",
+      "name_en": "Al Barkah",
+      "slug": "al-barkah"
+    },
+    {
+      "city_id": 1027,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهدى",
+      "name_en": "Al Hada",
+      "slug": "al-hada"
+    },
+    {
+      "city_id": 1028,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغور",
+      "name_en": "Al Ghur",
+      "slug": "al-ghur"
+    },
+    {
+      "city_id": 1029,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مثعر",
+      "name_en": "Mathar",
+      "slug": "mathar"
+    },
+    {
+      "city_id": 1030,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحسينية",
+      "name_en": "Al Husayniyah",
+      "slug": "al-husayniyah-1030"
+    },
+    {
+      "city_id": 1031,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشفية",
+      "name_en": "Ash Shufayyah",
+      "slug": "ash-shufayyah"
+    },
+    {
+      "city_id": 1032,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السليمية",
+      "name_en": "As Sulaymiyah",
+      "slug": "as-sulaymiyah"
+    },
+    {
+      "city_id": 1033,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أبو قرن",
+      "name_en": "Abu Qarn",
+      "slug": "abu-qarn"
+    },
+    {
+      "city_id": 1034,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المسجد",
+      "name_en": "Al Masjid",
+      "slug": "al-masjid-1034"
+    },
+    {
+      "city_id": 1035,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اللهبان",
+      "name_en": "Al Lahban",
+      "slug": "al-lahban"
+    },
+    {
+      "city_id": 1036,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجوابرة",
+      "name_en": "Al Jawabirat",
+      "slug": "al-jawabirat"
+    },
+    {
+      "city_id": 1037,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "خرص",
+      "name_en": "Khuruss",
+      "slug": "khuruss"
+    },
+    {
+      "city_id": 1038,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "عاصر",
+      "name_en": "Asir",
+      "slug": "asir"
+    },
+    {
+      "city_id": 1039,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الأثود",
+      "name_en": "Al Athud",
+      "slug": "al-athud"
+    },
+    {
+      "city_id": 1040,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ترجم",
+      "name_en": "Tarjim",
+      "slug": "tarjim"
+    },
+    {
+      "city_id": 1041,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "كتيدة",
+      "name_en": "Kitaydah",
+      "slug": "kitaydah"
+    },
+    {
+      "city_id": 1042,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "سفاء",
+      "name_en": "Safa",
+      "slug": "safa"
+    },
+    {
+      "city_id": 1043,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "رحقان",
+      "name_en": "Rahqan",
+      "slug": "rahqan"
+    },
+    {
+      "city_id": 1044,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ثعيل",
+      "name_en": "Thuayyil",
+      "slug": "thuayyil"
+    },
+    {
+      "city_id": 1045,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المفرق",
+      "name_en": "Al Mafraq",
+      "slug": "al-mafraq-1045"
+    },
+    {
+      "city_id": 1046,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الميث",
+      "name_en": "Al Mayth",
+      "slug": "al-mayth"
+    },
+    {
+      "city_id": 1047,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بئر الغنم",
+      "name_en": "Bir Al Ghanam",
+      "slug": "bir-al-ghanam"
+    },
+    {
+      "city_id": 1048,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المرتجة",
+      "name_en": "Al Murtajjah",
+      "slug": "al-murtajjah"
+    },
+    {
+      "city_id": 1049,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المعيزلة",
+      "name_en": "Al Maayzilah",
+      "slug": "al-maayzilah"
+    },
+    {
+      "city_id": 1050,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحار",
+      "name_en": "Al Har",
+      "slug": "al-har"
+    },
+    {
+      "city_id": 1051,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصديرة",
+      "name_en": "As Sudayyirah",
+      "slug": "as-sudayyirah"
+    },
+    {
+      "city_id": 1052,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "دريبس",
+      "name_en": "Diraybis",
+      "slug": "diraybis"
+    },
+    {
+      "city_id": 1053,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بدر",
+      "name_en": "Badr",
+      "slug": "badr"
+    },
+    {
+      "city_id": 1054,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بئر قيضي",
+      "name_en": "Bir Qaydi",
+      "slug": "bir-qaydi"
+    },
+    {
+      "city_id": 1055,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الواسطة",
+      "name_en": "Al Wasithah",
+      "slug": "al-wasithah"
+    },
+    {
+      "city_id": 1056,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الرايس",
+      "name_en": "Ar Rayis",
+      "slug": "ar-rayis"
+    },
+    {
+      "city_id": 1057,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المسيجيد",
+      "name_en": "Al Musayjid",
+      "slug": "al-musayjid"
+    },
+    {
+      "city_id": 1087,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجريسية",
+      "name_en": "Al Juraysiyah",
+      "slug": "al-juraysiyah"
+    },
+    {
+      "city_id": 1088,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغمر",
+      "name_en": "Al Ghamr",
+      "slug": "al-ghamr"
+    },
+    {
+      "city_id": 1089,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المزرع",
+      "name_en": "Al Mazri",
+      "slug": "al-mazri"
+    },
+    {
+      "city_id": 1090,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "هبا",
+      "name_en": "Haba",
+      "slug": "haba"
+    },
+    {
+      "city_id": 1091,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصحن",
+      "name_en": "As Sahan",
+      "slug": "as-sahan"
+    },
+    {
+      "city_id": 1092,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مشوقة",
+      "name_en": "Mashuqah",
+      "slug": "mashuqah-1092"
+    },
+    {
+      "city_id": 1093,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم العراد",
+      "name_en": "Umm Al Arad",
+      "slug": "umm-al-arad-1093"
+    },
+    {
+      "city_id": 1094,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهرارة",
+      "name_en": "Al Harrarah",
+      "slug": "al-harrarah"
+    },
+    {
+      "city_id": 1095,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السدرة",
+      "name_en": "As Sidrah",
+      "slug": "as-sidrah"
+    },
+    {
+      "city_id": 1096,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجصة",
+      "name_en": "Al Jissa",
+      "slug": "al-jissa"
+    },
+    {
+      "city_id": 1097,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحويمضة",
+      "name_en": "Al Huwaymidah",
+      "slug": "al-huwaymidah"
+    },
+    {
+      "city_id": 1098,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قران",
+      "name_en": "Qaran",
+      "slug": "qaran"
+    },
+    {
+      "city_id": 1099,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الخفيق",
+      "name_en": "Al Khufayq",
+      "slug": "al-khufayq"
+    },
+    {
+      "city_id": 1100,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهميجة",
+      "name_en": "Al Humayjah",
+      "slug": "al-humayjah"
+    },
+    {
+      "city_id": 1101,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصالحية",
+      "name_en": "As Salhiyah",
+      "slug": "as-salhiyah-1101"
+    },
+    {
+      "city_id": 1102,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مريغان",
+      "name_en": "Murayghan",
+      "slug": "murayghan-1102"
+    },
+    {
+      "city_id": 1103,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العشاي",
+      "name_en": "Al Ashshay",
+      "slug": "al-ashshay"
+    },
+    {
+      "city_id": 2169,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفرش",
+      "name_en": "Al Farsh",
+      "slug": "al-farsh-2169"
+    },
+    {
+      "city_id": 2175,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العصيلي",
+      "name_en": "Al Usayli",
+      "slug": "al-usayli"
+    },
+    {
+      "city_id": 3040,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "قريضة",
+      "name_en": "Quraydah",
+      "slug": "quraydah"
+    },
+    {
+      "city_id": 3041,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجصة",
+      "name_en": "Al Jissah",
+      "slug": "al-jissah"
+    },
+    {
+      "city_id": 3042,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بيار علي",
+      "name_en": "Biyar Ali",
+      "slug": "biyar-ali"
+    },
+    {
+      "city_id": 3043,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أبو كبير",
+      "name_en": "Abu Kabir",
+      "slug": "abu-kabir"
+    },
+    {
+      "city_id": 3044,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الدويخلة",
+      "name_en": "Ad Duwaykhilah",
+      "slug": "ad-duwaykhilah"
+    },
+    {
+      "city_id": 3045,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الوعيرة",
+      "name_en": "Al Wuayrah",
+      "slug": "al-wuayrah"
+    },
+    {
+      "city_id": 3046,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجرف",
+      "name_en": "Al Jurf",
+      "slug": "al-jurf"
+    },
+    {
+      "city_id": 3047,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العيون",
+      "name_en": "Al Ayun",
+      "slug": "al-ayun"
+    },
+    {
+      "city_id": 3048,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الخليل",
+      "name_en": "Al Khulayl",
+      "slug": "al-khulayl"
+    },
+    {
+      "city_id": 3049,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "نعامين",
+      "name_en": "Naamin",
+      "slug": "naamin"
+    },
+    {
+      "city_id": 3050,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مليحة",
+      "name_en": "Mulayhah",
+      "slug": "mulayhah"
+    },
+    {
+      "city_id": 3051,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العاقول",
+      "name_en": "Al Aqul",
+      "slug": "al-aqul-3051"
+    },
+    {
+      "city_id": 3052,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحار السفلى",
+      "name_en": "Al Har As Sufla",
+      "slug": "al-har-as-sufla"
+    },
+    {
+      "city_id": 3053,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "مفرحات",
+      "name_en": "Mufarrihat",
+      "slug": "mufarrihat"
+    },
+    {
+      "city_id": 3054,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القطيعاء",
+      "name_en": "Al Qutaya",
+      "slug": "al-qutaya"
+    },
+    {
+      "city_id": 3055,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفرع",
+      "name_en": "Al Fara",
+      "slug": "al-fara"
+    },
+    {
+      "city_id": 3056,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفقارة",
+      "name_en": "Al Fuqarah",
+      "slug": "al-fuqarah-3056"
+    },
+    {
+      "city_id": 3057,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أرباق",
+      "name_en": "Arbaq",
+      "slug": "arbaq"
+    },
+    {
+      "city_id": 3058,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المليليح",
+      "name_en": "Al Mulaylih",
+      "slug": "al-mulaylih-3058"
+    },
+    {
+      "city_id": 3059,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المغرة",
+      "name_en": "Al Magharah",
+      "slug": "al-magharah"
+    },
+    {
+      "city_id": 3060,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أبو نمصات",
+      "name_en": "Abu Numasat",
+      "slug": "abu-numasat"
+    },
+    {
+      "city_id": 3061,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "دثير",
+      "name_en": "Dithir",
+      "slug": "dithir"
+    },
+    {
+      "city_id": 3062,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العقيلة",
+      "name_en": "Al Uqaylah",
+      "slug": "al-uqaylah"
+    },
+    {
+      "city_id": 3063,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العوينة",
+      "name_en": "Al Uwaynah",
+      "slug": "al-uwaynah"
+    },
+    {
+      "city_id": 3064,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-3064"
+    },
+    {
+      "city_id": 3065,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الثعلة",
+      "name_en": "Ath Thaalah",
+      "slug": "ath-thaalah"
+    },
+    {
+      "city_id": 3066,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الحار العليا",
+      "name_en": "Al Har Al Ulya",
+      "slug": "al-har-al-ulya"
+    },
+    {
+      "city_id": 3067,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المضيبعة",
+      "name_en": "Al Mudaybiah",
+      "slug": "al-mudaybiah"
+    },
+    {
+      "city_id": 3068,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "السوسي",
+      "name_en": "As Susi",
+      "slug": "as-susi"
+    },
+    {
+      "city_id": 3069,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشلايل",
+      "name_en": "Ash Shalayil",
+      "slug": "ash-shalayil"
+    },
+    {
+      "city_id": 3070,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أويدك",
+      "name_en": "Uwaydik",
+      "slug": "uwaydik"
+    },
+    {
+      "city_id": 3071,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغريض",
+      "name_en": "Al Gharid",
+      "slug": "al-gharid"
+    },
+    {
+      "city_id": 3072,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصيفي",
+      "name_en": "As Sayfi",
+      "slug": "as-sayfi"
+    },
+    {
+      "city_id": 3073,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الغصن",
+      "name_en": "Al Ghusan",
+      "slug": "al-ghusan"
+    },
+    {
+      "city_id": 3074,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الظمو",
+      "name_en": "Adh Dhamu",
+      "slug": "adh-dhamu"
+    },
+    {
+      "city_id": 3075,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الطرقية",
+      "name_en": "Al Tarqiyah",
+      "slug": "al-tarqiyah"
+    },
+    {
+      "city_id": 3076,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم العيال",
+      "name_en": "Umm Al Iyal",
+      "slug": "umm-al-iyal"
+    },
+    {
+      "city_id": 3077,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الملبنة",
+      "name_en": "Al Malbanah",
+      "slug": "al-malbanah"
+    },
+    {
+      "city_id": 3078,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "حنذ",
+      "name_en": "Hanadh",
+      "slug": "hanadh"
+    },
+    {
+      "city_id": 3079,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الهندية",
+      "name_en": "Al Hindiyah",
+      "slug": "al-hindiyah"
+    },
+    {
+      "city_id": 3080,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المرير",
+      "name_en": "Al Murayr",
+      "slug": "al-murayr-3080"
+    },
+    {
+      "city_id": 3081,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الدحو",
+      "name_en": "Ad Duhu",
+      "slug": "ad-duhu"
+    },
+    {
+      "city_id": 3082,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النقيعاء",
+      "name_en": "An Nuqaya",
+      "slug": "an-nuqaya"
+    },
+    {
+      "city_id": 3083,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المشينية",
+      "name_en": "Al Mushayniyah",
+      "slug": "al-mushayniyah"
+    },
+    {
+      "city_id": 3084,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القافلة",
+      "name_en": "Al Qafilah",
+      "slug": "al-qafilah"
+    },
+    {
+      "city_id": 3085,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اللثامة",
+      "name_en": "Al Lithamah",
+      "slug": "al-lithamah"
+    },
+    {
+      "city_id": 3086,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الملحة",
+      "name_en": "Al Milhah",
+      "slug": "al-milhah"
+    },
+    {
+      "city_id": 3087,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العيزاء",
+      "name_en": "Al Ayza",
+      "slug": "al-ayza"
+    },
+    {
+      "city_id": 3088,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "النقرة",
+      "name_en": "An Nuqrah",
+      "slug": "an-nuqrah-3088"
+    },
+    {
+      "city_id": 3089,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البردية",
+      "name_en": "Al Bardiyah",
+      "slug": "al-bardiyah"
+    },
+    {
+      "city_id": 3090,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العشيرة",
+      "name_en": "Al Ushayrah",
+      "slug": "al-ushayrah"
+    },
+    {
+      "city_id": 3091,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "القصيبة",
+      "name_en": "Al Qisayyibah",
+      "slug": "al-qisayyibah"
+    },
+    {
+      "city_id": 3092,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشوامين",
+      "name_en": "Ash Shuwamin",
+      "slug": "ash-shuwamin"
+    },
+    {
+      "city_id": 3093,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشفية",
+      "name_en": "Ash Shifayyah",
+      "slug": "ash-shifayyah"
+    },
+    {
+      "city_id": 3094,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "تيتد",
+      "name_en": "Taytad",
+      "slug": "taytad"
+    },
+    {
+      "city_id": 3095,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البييرات",
+      "name_en": "Al Buyayrat",
+      "slug": "al-buyayrat"
+    },
+    {
+      "city_id": 3096,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "هرمة",
+      "name_en": "Hurumah",
+      "slug": "hurumah"
+    },
+    {
+      "city_id": 3097,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العثيا",
+      "name_en": "Al Uthayya",
+      "slug": "al-uthayya"
+    },
+    {
+      "city_id": 3099,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "شجوى",
+      "name_en": "Shajwa",
+      "slug": "shajwa"
+    },
+    {
+      "city_id": 3100,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "البوير",
+      "name_en": "Al Buwair",
+      "slug": "al-buwair"
+    },
+    {
+      "city_id": 3101,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الشقرة",
+      "name_en": "Ash Shuqrah",
+      "slug": "ash-shuqrah"
+    },
+    {
+      "city_id": 3102,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الصويدرة",
+      "name_en": "As Suwaydirah",
+      "slug": "as-suwaydirah"
+    },
+    {
+      "city_id": 3103,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفريش",
+      "name_en": "Al Furaysh",
+      "slug": "al-furaysh"
+    },
+    {
+      "city_id": 3104,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الريان",
+      "name_en": "Ar Rayyan",
+      "slug": "ar-rayyan-3104"
+    },
+    {
+      "city_id": 3105,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المليليح",
+      "name_en": "Al Mulaylih",
+      "slug": "al-mulaylih-3105"
+    },
+    {
+      "city_id": 3106,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الرصيعة",
+      "name_en": "Ar Rasiah",
+      "slug": "ar-rasiah"
+    },
+    {
+      "city_id": 3107,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ابار الماشي",
+      "name_en": "Abar Al Mashi",
+      "slug": "abar-al-mashi"
+    },
+    {
+      "city_id": 3108,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "رواوة",
+      "name_en": "Ruwawah",
+      "slug": "ruwawah"
+    },
+    {
+      "city_id": 3109,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجفر",
+      "name_en": "Al Jafur",
+      "slug": "al-jafur-3109"
+    },
+    {
+      "city_id": 3110,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "ابو ضباع",
+      "name_en": "Abu Diba",
+      "slug": "abu-diba"
+    },
+    {
+      "city_id": 3111,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المضيق",
+      "name_en": "Al Madiq",
+      "slug": "al-madiq-3111"
+    },
+    {
+      "city_id": 3112,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الاكحل",
+      "name_en": "Al Akhal",
+      "slug": "al-akhal"
+    },
+    {
+      "city_id": 3113,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "اليتمة",
+      "name_en": "Al Yitimah",
+      "slug": "al-yitimah"
+    },
+    {
+      "city_id": 3114,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الفقير",
+      "name_en": "Al Faqir",
+      "slug": "al-faqir"
+    },
+    {
+      "city_id": 3115,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المندسة",
+      "name_en": "Al Mandassah",
+      "slug": "al-mandassah"
+    },
+    {
+      "city_id": 3116,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "بواط",
+      "name_en": "Buwat",
+      "slug": "buwat"
+    },
+    {
+      "city_id": 3117,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "العصيلب",
+      "name_en": "Al Usaylib",
+      "slug": "al-usaylib"
+    },
+    {
+      "city_id": 3118,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "الجفدور",
+      "name_en": "Al Jifdur",
+      "slug": "al-jifdur"
+    },
+    {
+      "city_id": 3572,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "أم صمدين",
+      "name_en": "Umm Sumdayn",
+      "slug": "umm-sumdayn"
+    },
+    {
+      "city_id": 3573,
+      "region_id": 7,
+      "region_ar": "المدينة المنورة",
+      "region_en": "Al Madinah",
+      "region_slug": "al-madinah",
+      "name_ar": "المشران",
+      "name_en": "Al Mishran",
+      "slug": "al-mishran"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة المدينة المنورة (Cities of Al Madinah) - تحميل مجاني",
+    "description": "قائمة مدن منطقة المدينة المنورة (Al Madinah) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Madinah administrative region of Saudi Arabia (region_id=7). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 298 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة المدينة المنورة (Cities of Al Madinah) | ListBase",
+    "seo_description": "تحميل مدن منطقة المدينة المنورة (Cities of Al Madinah) — 298 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 298 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

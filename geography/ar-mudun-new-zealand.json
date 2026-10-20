@@ -1,0 +1,376 @@
+{
+  "id": "ar-mudun-new-zealand",
+  "name": "مدن نيوزيلندا — Cities of New Zealand (Arabic names)",
+  "title": "مدن نيوزيلندا — Cities of New Zealand (Arabic names)",
+  "description": "قائمة بأسماء مدن نيوزيلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 40 cities in New Zealand with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "إقليم أوكلاند",
+      "name_en": "Auckland",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 1470100
+    },
+    {
+      "id": 2,
+      "name_ar": "كرايستشرش",
+      "name_en": "Christchurch",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 383200
+    },
+    {
+      "id": 3,
+      "name_ar": "ويلينغتون",
+      "name_en": "Wellington",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 216200
+    },
+    {
+      "id": 4,
+      "name_ar": "هاميلتون",
+      "name_en": "Hamilton",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 176500
+    },
+    {
+      "id": 5,
+      "name_ar": "تاورانجا",
+      "name_en": "Tauranga",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 151300
+    },
+    {
+      "id": 6,
+      "name_ar": "لور هوت",
+      "name_en": "Lower Hutt",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 103400
+    },
+    {
+      "id": 7,
+      "name_ar": "بالميرستون نورث",
+      "name_en": "Palmerston North",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 76236
+    },
+    {
+      "id": 8,
+      "name_ar": "نيبيار",
+      "name_en": "Napier",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 62241
+    },
+    {
+      "id": 9,
+      "name_ar": "نيو بلايموث",
+      "name_en": "New Plymouth",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 57600
+    },
+    {
+      "id": 10,
+      "name_ar": "بوريريوا",
+      "name_en": "Porirua",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 55218
+    },
+    {
+      "id": 11,
+      "name_ar": "روتوروا",
+      "name_en": "Rotorua",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 54204
+    },
+    {
+      "id": 12,
+      "name_ar": "وانجاري",
+      "name_en": "Whangarei",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 50784
+    },
+    {
+      "id": 13,
+      "name_ar": "إنفركارجل",
+      "name_en": "Invercargill",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 47625
+    },
+    {
+      "id": 14,
+      "name_ar": "نيلسون",
+      "name_en": "Nelson",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 46437
+    },
+    {
+      "id": 15,
+      "name_ar": "هوت العليا",
+      "name_en": "Upper Hutt",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 41000
+    },
+    {
+      "id": 16,
+      "name_ar": "وانجانوي",
+      "name_en": "Whanganui",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 39400
+    },
+    {
+      "id": 17,
+      "name_ar": "دنيدن",
+      "name_en": "Dunedin",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 36070
+    },
+    {
+      "id": 18,
+      "name_ar": "غيسبورن",
+      "name_en": "Gisborne",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 34527
+    },
+    {
+      "id": 19,
+      "name_ar": "تيمارو",
+      "name_en": "Timaru",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 27501
+    },
+    {
+      "id": 20,
+      "name_ar": "بلنهيم",
+      "name_en": "Blenheim",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 26400
+    },
+    {
+      "id": 21,
+      "name_ar": "تاوبو",
+      "name_en": "Taupo",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 23622
+    },
+    {
+      "id": 22,
+      "name_ar": "ماسترتون",
+      "name_en": "Masterton",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 19818
+    },
+    {
+      "id": 23,
+      "name_ar": "كامبريدج",
+      "name_en": "Cambridge",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 18651
+    },
+    {
+      "id": 24,
+      "name_ar": "أشتون",
+      "name_en": "Ashton",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 17700
+    },
+    {
+      "id": 25,
+      "name_ar": "ليفين",
+      "name_en": "Levin",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 17670
+    },
+    {
+      "id": 26,
+      "name_ar": "واكتاني",
+      "name_en": "Whakatane",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 16850
+    },
+    {
+      "id": 27,
+      "name_ar": "ريتشموند",
+      "name_en": "Richmond",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 15000
+    },
+    {
+      "id": 28,
+      "name_ar": "هافلوك الشمالية",
+      "name_en": "Havelock North",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 13950
+    },
+    {
+      "id": 29,
+      "name_ar": "موسجيل",
+      "name_en": "Mosgiel",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 13400
+    },
+    {
+      "id": 30,
+      "name_ar": "تي أواموتو",
+      "name_en": "Te Awamutu",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 12195
+    },
+    {
+      "id": 31,
+      "name_ar": "هاويرا",
+      "name_en": "Hawera",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 9792
+    },
+    {
+      "id": 32,
+      "name_ar": "غلنكويي",
+      "name_en": "Glencoe",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 9750
+    },
+    {
+      "id": 33,
+      "name_ar": "مارتينيك",
+      "name_en": "Wanaka",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 8900
+    },
+    {
+      "id": 34,
+      "name_ar": "غرايموث",
+      "name_en": "Greymouth",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 7965
+    },
+    {
+      "id": 35,
+      "name_ar": "نهر التمز",
+      "name_en": "Thames",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 7293
+    },
+    {
+      "id": 36,
+      "name_ar": "كايتيا",
+      "name_en": "Kaitaia",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 5868
+    },
+    {
+      "id": 37,
+      "name_ar": "ستراتفورد",
+      "name_en": "Stratford",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 5740
+    },
+    {
+      "id": 38,
+      "name_ar": "ويستبورت",
+      "name_en": "Westport",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 4660
+    },
+    {
+      "id": 39,
+      "name_ar": "هوكيتيكا",
+      "name_en": "Hokitika",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 2892
+    },
+    {
+      "id": 40,
+      "name_ar": "وايتاكيري",
+      "name_en": "Waitakere",
+      "country_ar": "نيوزيلندا",
+      "country_en": "New Zealand",
+      "population": 2018
+    }
+  ],
+  "meta": {
+    "title": "مدن نيوزيلندا — Cities of New Zealand (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن نيوزيلندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 40 cities in New Zealand with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 40 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن نيوزيلندا — Cities of New Zealand (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن نيوزيلندا — Cities of New Zealand (Arabic names) — 40 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 40 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

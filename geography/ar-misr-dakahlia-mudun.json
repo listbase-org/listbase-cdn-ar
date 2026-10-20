@@ -1,0 +1,223 @@
+{
+  "id": "ar-misr-dakahlia-mudun",
+  "name": "مدن ومراكز محافظة الدقهلية (Cities & Towns of Dakahlia)",
+  "title": "مدن ومراكز محافظة الدقهلية (Cities & Towns of Dakahlia)",
+  "description": "قائمة مدن ومراكز محافظة الدقهلية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Dakahlia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "363",
+      "name_ar": "أجا",
+      "name_en": "aga",
+      "name_long_ar": "أجا، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "158",
+      "name_ar": "أخطاب",
+      "name_en": "akhtab",
+      "name_long_ar": "أخطاب، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "364",
+      "name_ar": "الجمالية",
+      "name_en": "gamaleya",
+      "name_long_ar": "الجمالية، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "368",
+      "name_ar": "السنبلاوين",
+      "name_en": "sinbillawain",
+      "name_long_ar": "السنبلاوين، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "367",
+      "name_ar": "المطرية",
+      "name_en": "matareya",
+      "name_long_ar": "المطرية، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "366",
+      "name_ar": "المنزلة",
+      "name_en": "manzala",
+      "name_long_ar": "المنزلة، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "365",
+      "name_ar": "المنصورة",
+      "name_en": "mansura",
+      "name_long_ar": "المنصورة، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "370",
+      "name_ar": "بلقاس",
+      "name_en": "belqas",
+      "name_long_ar": "بلقاس، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "369",
+      "name_ar": "بني عبيد",
+      "name_en": "bani-ubayd",
+      "name_long_ar": "بني عبيد، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "157",
+      "name_ar": "تمى الامديد",
+      "name_en": "tama-al-amdeed",
+      "name_long_ar": "تمى الامديد، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "159",
+      "name_ar": "جمصه",
+      "name_en": "gamasa",
+      "name_long_ar": "جمصه، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "371",
+      "name_ar": "دكرنس",
+      "name_en": "dikirnis",
+      "name_long_ar": "دكرنس، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "376",
+      "name_ar": "شربين",
+      "name_en": "shirbin",
+      "name_long_ar": "شربين، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "377",
+      "name_ar": "طلخا",
+      "name_en": "talkha",
+      "name_long_ar": "طلخا، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "372",
+      "name_ar": "منية النصر",
+      "name_en": "minat-al-nasr",
+      "name_long_ar": "منية النصر، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "374",
+      "name_ar": "ميت سلسيل",
+      "name_en": "mit-slseel",
+      "name_long_ar": "ميت سلسيل، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "373",
+      "name_ar": "ميت غمر",
+      "name_en": "mit-ghamr",
+      "name_long_ar": "ميت غمر، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    },
+    {
+      "id": "375",
+      "name_ar": "نبروه",
+      "name_en": "nabaruh",
+      "name_long_ar": "نبروه، الدقهلية",
+      "muhafaza_ar": "الدقهلية",
+      "muhafaza_en": "dakahlia",
+      "muhafaza_id": 57
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الدقهلية (Cities & Towns of Dakahlia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الدقهلية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Dakahlia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 18 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الدقهلية (Cities & Towns of Dakahlia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الدقهلية (Cities & Towns of Dakahlia) — 18 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 18 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

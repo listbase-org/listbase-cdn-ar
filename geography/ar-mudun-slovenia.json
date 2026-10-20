@@ -1,0 +1,648 @@
+{
+  "id": "ar-mudun-slovenia",
+  "name": "مدن سلوفينيا — Cities of Slovenia (Arabic names)",
+  "title": "مدن سلوفينيا — Cities of Slovenia (Arabic names)",
+  "description": "قائمة بأسماء مدن سلوفينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 74 cities in Slovenia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "لبلانة",
+      "name_en": "Ljubljana",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 284293
+    },
+    {
+      "id": 2,
+      "name_ar": "ماريبور",
+      "name_en": "Maribor",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 96211
+    },
+    {
+      "id": 3,
+      "name_ar": "تسليه",
+      "name_en": "Celje",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 37872
+    },
+    {
+      "id": 4,
+      "name_ar": "كراني",
+      "name_en": "Kranj",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 37553
+    },
+    {
+      "id": 5,
+      "name_ar": "كوبر",
+      "name_en": "Koper",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 25753
+    },
+    {
+      "id": 6,
+      "name_ar": "فيلينيه",
+      "name_en": "Velenje",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 25594
+    },
+    {
+      "id": 7,
+      "name_ar": "نوفو ميتسو",
+      "name_en": "Novo Mesto",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 24183
+    },
+    {
+      "id": 8,
+      "name_ar": "بتوي",
+      "name_en": "Ptuj",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 17880
+    },
+    {
+      "id": 9,
+      "name_ar": "تربوفلجه",
+      "name_en": "Trbovlje",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 13822
+    },
+    {
+      "id": 10,
+      "name_ar": "بلدية كامنيك",
+      "name_en": "Kamnik",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 13800
+    },
+    {
+      "id": 11,
+      "name_ar": "جيسينتسي",
+      "name_en": "Jesenice",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 13702
+    },
+    {
+      "id": 12,
+      "name_ar": "دومجاله",
+      "name_en": "Domzale",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 13222
+    },
+    {
+      "id": 13,
+      "name_ar": "نوفا جوريتسا",
+      "name_en": "Nova Gorica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 13031
+    },
+    {
+      "id": 14,
+      "name_ar": "شكوفيا لوكا",
+      "name_en": "Skofja Loka",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 11797
+    },
+    {
+      "id": 15,
+      "name_ar": "إيزولا",
+      "name_en": "Izola",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 11682
+    },
+    {
+      "id": 16,
+      "name_ar": "موسكا سوبوتا",
+      "name_en": "Murska Sobota",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 11190
+    },
+    {
+      "id": 17,
+      "name_ar": "بوستوينا",
+      "name_en": "Postojna",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 9605
+    },
+    {
+      "id": 18,
+      "name_ar": "لوغانتيس",
+      "name_en": "Logatec",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 9091
+    },
+    {
+      "id": 19,
+      "name_ar": "فورنيكا",
+      "name_en": "Vrhnika",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 8969
+    },
+    {
+      "id": 20,
+      "name_ar": "سلوفينيسكا بيستريسا",
+      "name_en": "Slovenska Bistrica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 8219
+    },
+    {
+      "id": 21,
+      "name_ar": "بلدية غروسوبلي",
+      "name_en": "Grosuplje",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 7703
+    },
+    {
+      "id": 22,
+      "name_ar": "رافنه ناد كروشكيم",
+      "name_en": "Ravne na Koroskem",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 7363
+    },
+    {
+      "id": 23,
+      "name_ar": "سلوفينج غرادتس",
+      "name_en": "Slovenj Gradec",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 7249
+    },
+    {
+      "id": 24,
+      "name_ar": "كرشكو",
+      "name_en": "Krsko",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 6852
+    },
+    {
+      "id": 25,
+      "name_ar": "برجيتسي",
+      "name_en": "Brezice",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 6843
+    },
+    {
+      "id": 26,
+      "name_ar": "آيدوشتشينا",
+      "name_en": "Ajdovscina",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 6843
+    },
+    {
+      "id": 27,
+      "name_ar": "ليتيجا",
+      "name_en": "Litija",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 6688
+    },
+    {
+      "id": 28,
+      "name_ar": "سيجانا",
+      "name_en": "Sezana",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 6037
+    },
+    {
+      "id": 29,
+      "name_ar": "بلدية رادوفلييكا",
+      "name_en": "Radovljica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5981
+    },
+    {
+      "id": 30,
+      "name_ar": "إيدرييا",
+      "name_en": "Idrija",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5848
+    },
+    {
+      "id": 31,
+      "name_ar": "بلدية كموميليه",
+      "name_en": "Crnomelj",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5496
+    },
+    {
+      "id": 32,
+      "name_ar": "مدفودي",
+      "name_en": "Medvode",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5380
+    },
+    {
+      "id": 33,
+      "name_ar": "سلوفنيسكه كونجيتسه",
+      "name_en": "Slovenske Konjice",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5157
+    },
+    {
+      "id": 34,
+      "name_ar": "جاليتس",
+      "name_en": "Zalec",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 5004
+    },
+    {
+      "id": 35,
+      "name_ar": "هراستنيك",
+      "name_en": "Hrastnik",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4962
+    },
+    {
+      "id": 36,
+      "name_ar": "بلدية شينتيور",
+      "name_en": "Sentjur",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4940
+    },
+    {
+      "id": 37,
+      "name_ar": "سيفنيتسا",
+      "name_en": "Sevnica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4533
+    },
+    {
+      "id": 38,
+      "name_ar": "إيليرسكا بيتريسا",
+      "name_en": "Ilirska Bistrica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4323
+    },
+    {
+      "id": 39,
+      "name_ar": "روسه",
+      "name_en": "Ruse",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4206
+    },
+    {
+      "id": 40,
+      "name_ar": "تسركنيتسا",
+      "name_en": "Cerknica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 4018
+    },
+    {
+      "id": 41,
+      "name_ar": "بلدية تريبنيه",
+      "name_en": "Trebnje",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3927
+    },
+    {
+      "id": 42,
+      "name_ar": "ترزين",
+      "name_en": "Trzin",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3925
+    },
+    {
+      "id": 43,
+      "name_ar": "ميكلافز نا درافسكيم بوليو",
+      "name_en": "Miklavz na Dravskem Polju",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3808
+    },
+    {
+      "id": 44,
+      "name_ar": "بيران",
+      "name_en": "Piran",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3787
+    },
+    {
+      "id": 45,
+      "name_ar": "شيمبتر بري غريتسي",
+      "name_en": "Sempeter pri Gorici",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3694
+    },
+    {
+      "id": 46,
+      "name_ar": "تريجيك",
+      "name_en": "Trzic",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3670
+    },
+    {
+      "id": 47,
+      "name_ar": "مدينة جيري",
+      "name_en": "Ziri",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3657
+    },
+    {
+      "id": 48,
+      "name_ar": "تولمين",
+      "name_en": "Tolmin",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3525
+    },
+    {
+      "id": 49,
+      "name_ar": "ليوتومير",
+      "name_en": "Ljutomer",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3244
+    },
+    {
+      "id": 50,
+      "name_ar": "متليكا",
+      "name_en": "Metlika",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3229
+    },
+    {
+      "id": 51,
+      "name_ar": "مجيستا",
+      "name_en": "Mezica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3176
+    },
+    {
+      "id": 52,
+      "name_ar": "دراوغراد",
+      "name_en": "Dravograd",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3088
+    },
+    {
+      "id": 53,
+      "name_ar": "غرنيا رادغنا",
+      "name_en": "Gornja Radgona",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3086
+    },
+    {
+      "id": 54,
+      "name_ar": "جيليزنيكي",
+      "name_en": "Zelezniki",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 3069
+    },
+    {
+      "id": 55,
+      "name_ar": "ليندافا",
+      "name_en": "Lendava",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2954
+    },
+    {
+      "id": 56,
+      "name_ar": "بلدية روغاشوفتسي",
+      "name_en": "Rogasovci",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2946
+    },
+    {
+      "id": 57,
+      "name_ar": "شوشتانج",
+      "name_en": "Sostanj",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2933
+    },
+    {
+      "id": 58,
+      "name_ar": "زريس",
+      "name_en": "Zrece",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2922
+    },
+    {
+      "id": 59,
+      "name_ar": "سباق",
+      "name_en": "Race",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2693
+    },
+    {
+      "id": 60,
+      "name_ar": "بلدية سفيتا آنا",
+      "name_en": "Sveta Ana",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2285
+    },
+    {
+      "id": 61,
+      "name_ar": "ستيم",
+      "name_en": "Store",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2257
+    },
+    {
+      "id": 62,
+      "name_ar": "الإيجبوية",
+      "name_en": "Ig",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2240
+    },
+    {
+      "id": 63,
+      "name_ar": "بلدية إيفانتسا غوريكا",
+      "name_en": "Ivancna Gorica",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2205
+    },
+    {
+      "id": 64,
+      "name_ar": "بلدية تشرنا نا كوروشكيم",
+      "name_en": "Crna na Koroskem",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2201
+    },
+    {
+      "id": 65,
+      "name_ar": "رادنسي",
+      "name_en": "Radenci",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2171
+    },
+    {
+      "id": 66,
+      "name_ar": "فيبافا",
+      "name_en": "Vipava",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2101
+    },
+    {
+      "id": 67,
+      "name_ar": "بلدية بيفكا",
+      "name_en": "Pivka",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2059
+    },
+    {
+      "id": 68,
+      "name_ar": "شبه موصل",
+      "name_en": "Semic",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 2017
+    },
+    {
+      "id": 69,
+      "name_ar": "رادتشه",
+      "name_en": "Radece",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1993
+    },
+    {
+      "id": 70,
+      "name_ar": "لوفرينس نا بوهوريو",
+      "name_en": "Lovrenc na Pohorju",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1992
+    },
+    {
+      "id": 71,
+      "name_ar": "أورموج",
+      "name_en": "Ormoz",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1962
+    },
+    {
+      "id": 72,
+      "name_ar": "ميسلينيا",
+      "name_en": "Mislinja",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1862
+    },
+    {
+      "id": 73,
+      "name_ar": "بلدية ناكلو",
+      "name_en": "Naklo",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1776
+    },
+    {
+      "id": 74,
+      "name_ar": "بلدية تسيركليه نا غورينيسكيم",
+      "name_en": "Cerklje na Gorenjskem",
+      "country_ar": "سلوفينيا",
+      "country_en": "Slovenia",
+      "population": 1710
+    }
+  ],
+  "meta": {
+    "title": "مدن سلوفينيا — Cities of Slovenia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن سلوفينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 74 cities in Slovenia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 74 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن سلوفينيا — Cities of Slovenia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن سلوفينيا — Cities of Slovenia (Arabic names) — 74 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 74 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "id": "ar-mudun-saudi-arabia",
+  "name": "مدن المملكة العربية السعودية — Cities of Saudi Arabia (Arabic names)",
+  "title": "مدن المملكة العربية السعودية — Cities of Saudi Arabia (Arabic names)",
+  "description": "قائمة بأسماء مدن المملكة العربية السعودية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Saudi Arabia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "منطقة الرياض",
+      "name_en": "Riyadh",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 7237000
+    },
+    {
+      "id": 2,
+      "name_ar": "جدة",
+      "name_en": "Jeddah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 4697000
+    },
+    {
+      "id": 3,
+      "name_ar": "منطقة مكة المكرمة",
+      "name_en": "Mecca",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 2427924
+    },
+    {
+      "id": 4,
+      "name_ar": "ميدينا",
+      "name_en": "Medina",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 1411599
+    },
+    {
+      "id": 5,
+      "name_ar": "الدمام",
+      "name_en": "Ad Dammam",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 903312
+    },
+    {
+      "id": 6,
+      "name_ar": "تابوك",
+      "name_en": "Tabuk",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 886036
+    },
+    {
+      "id": 7,
+      "name_ar": "الهفوف",
+      "name_en": "Al Hufuf",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 660788
+    },
+    {
+      "id": 8,
+      "name_ar": "محافظة القطيف",
+      "name_en": "Al Qatif",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 625092
+    },
+    {
+      "id": 9,
+      "name_ar": "الطائف",
+      "name_en": "At Ta'if",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 579970
+    },
+    {
+      "id": 10,
+      "name_ar": "الجبيل",
+      "name_en": "Al Jubayl",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 474679
+    },
+    {
+      "id": 11,
+      "name_ar": "ضليع رشيد",
+      "name_en": "Buraydah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 467410
+    },
+    {
+      "id": 12,
+      "name_ar": "الكلية التقنية بحفر الباطن",
+      "name_en": "Hafr al Batin",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 387096
+    },
+    {
+      "id": 13,
+      "name_ar": "ينبع",
+      "name_en": "Yanbu`",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 331916
+    },
+    {
+      "id": 14,
+      "name_ar": "منطقة حائل",
+      "name_en": "Ha'il",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 310897
+    },
+    {
+      "id": 15,
+      "name_ar": "محافظة القنفذة",
+      "name_en": "Al Qunfudhah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 300516
+    },
+    {
+      "id": 16,
+      "name_ar": "المبرز",
+      "name_en": "Al Mubarraz",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 298562
+    },
+    {
+      "id": 17,
+      "name_ar": "محافظة الخرج",
+      "name_en": "Al Kharj",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 295462
+    },
+    {
+      "id": 18,
+      "name_ar": "أبها",
+      "name_en": "Abha",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 236157
+    },
+    {
+      "id": 19,
+      "name_ar": "الخوبار",
+      "name_en": "Al Khubar",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 219679
+    },
+    {
+      "id": 20,
+      "name_ar": "عُنَيْزَة",
+      "name_en": "`Unayzah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 184600
+    },
+    {
+      "id": 21,
+      "name_ar": "القريات",
+      "name_en": "Al Qurayyat",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 167080
+    },
+    {
+      "id": 22,
+      "name_ar": "الحوية",
+      "name_en": "Al Hawiyah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 148151
+    },
+    {
+      "id": 23,
+      "name_ar": "منطقة جازان",
+      "name_en": "Jazan",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 127743
+    },
+    {
+      "id": 24,
+      "name_ar": "الزلفي",
+      "name_en": "Az Zulfi",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 125000
+    },
+    {
+      "id": 25,
+      "name_ar": "الرس",
+      "name_en": "Ar Rass",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 121359
+    },
+    {
+      "id": 26,
+      "name_ar": "مديرية حرض",
+      "name_en": "Harad",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 111214
+    },
+    {
+      "id": 27,
+      "name_ar": "خميس مشيط",
+      "name_en": "Khamis Mushayt",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 99213
+    },
+    {
+      "id": 28,
+      "name_ar": "طريف",
+      "name_en": "Turayf",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 91713
+    },
+    {
+      "id": 29,
+      "name_ar": "شرورة",
+      "name_en": "Sharurah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 85977
+    },
+    {
+      "id": 30,
+      "name_ar": "سيهات",
+      "name_en": "Sayhat",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 84818
+    },
+    {
+      "id": 31,
+      "name_ar": "رفحاء",
+      "name_en": "Rafha",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 84536
+    },
+    {
+      "id": 32,
+      "name_ar": "منطقة نجران",
+      "name_en": "Najran",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 72038
+    },
+    {
+      "id": 33,
+      "name_ar": "الليث",
+      "name_en": "Al Lith",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 72000
+    },
+    {
+      "id": 34,
+      "name_ar": "الدرب",
+      "name_en": "Ad Darb",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 69134
+    },
+    {
+      "id": 35,
+      "name_ar": "محافظة بدر",
+      "name_en": "Badr Hunayn",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 63468
+    },
+    {
+      "id": 36,
+      "name_ar": "خليص",
+      "name_en": "Khulays",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 63445
+    },
+    {
+      "id": 37,
+      "name_ar": "رأس تنورة",
+      "name_en": "Ras Tanura",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 62314
+    },
+    {
+      "id": 38,
+      "name_ar": "محافظة النماص",
+      "name_en": "An Nimas",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 53908
+    },
+    {
+      "id": 39,
+      "name_ar": "المجاردة",
+      "name_en": "Al Majaridah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 53629
+    },
+    {
+      "id": 40,
+      "name_ar": "الوجه",
+      "name_en": "Al Wajh",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 50000
+    },
+    {
+      "id": 41,
+      "name_ar": "بقيق",
+      "name_en": "Abqaiq",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 45032
+    },
+    {
+      "id": 42,
+      "name_ar": "العقيق",
+      "name_en": "Al `Aqiq",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 35629
+    },
+    {
+      "id": 43,
+      "name_ar": "محافظة شقراء",
+      "name_en": "Shaqra'",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 35000
+    },
+    {
+      "id": 44,
+      "name_ar": "الظهران",
+      "name_en": "Dhahran",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 32067
+    },
+    {
+      "id": 45,
+      "name_ar": "كارقندا",
+      "name_en": "Qara",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 31480
+    },
+    {
+      "id": 46,
+      "name_ar": "الشنانات",
+      "name_en": "Ash Shinan",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 30441
+    },
+    {
+      "id": 47,
+      "name_ar": "حقل",
+      "name_en": "Haql",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 25649
+    },
+    {
+      "id": 48,
+      "name_ar": "السليل",
+      "name_en": "As Sulayyil",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 24097
+    },
+    {
+      "id": 49,
+      "name_ar": "الباحة",
+      "name_en": "Al Bahah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 21983
+    },
+    {
+      "id": 50,
+      "name_ar": "الدرعية إي بريكس",
+      "name_en": "Ad Dir`iyah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 19143
+    },
+    {
+      "id": 51,
+      "name_ar": "الغاط",
+      "name_en": "Al Ghat",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 16500
+    },
+    {
+      "id": 52,
+      "name_ar": "الاوجام",
+      "name_en": "Al Awjam",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 16147
+    },
+    {
+      "id": 53,
+      "name_ar": "الحائر",
+      "name_en": "Al Ha'ir",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 13473
+    },
+    {
+      "id": 54,
+      "name_ar": "حرمة",
+      "name_en": "Harmah",
+      "country_ar": "المملكة العربية السعودية",
+      "country_en": "Saudi Arabia",
+      "population": 13000
+    }
+  ],
+  "meta": {
+    "title": "مدن المملكة العربية السعودية — Cities of Saudi Arabia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن المملكة العربية السعودية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Saudi Arabia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 54 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن المملكة العربية السعودية — Cities of Saudi Arabia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن المملكة العربية السعودية — Cities of Saudi Arabia (Arabic names) — 54 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 54 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

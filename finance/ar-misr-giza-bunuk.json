@@ -1,0 +1,674 @@
+{
+  "id": "ar-misr-giza-bunuk",
+  "name": "بنوك Giza — مصر — رموز سويفت (Banks of Giza, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Giza — مصر — رموز سويفت (Banks of Giza, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Giza (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 89 سجلًا. List of banks, financial institutions and their branches in Giza, Egypt with the SWIFT/BIC code, bank name and branch name for each. 89 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(AHMED ORABI BRANCH)",
+      "swift_code": "ABRKEGCAORA"
+    },
+    {
+      "id": 2,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(CORRESPONDANTS DEPARTMENT)",
+      "swift_code": "ABRKEGCACOR"
+    },
+    {
+      "id": 3,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(DOKKI BRANCH)",
+      "swift_code": "ABRKEGCADOK"
+    },
+    {
+      "id": 4,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(FINANCIAL DEPARTMENT)",
+      "swift_code": "ABRKEGCAMAL"
+    },
+    {
+      "id": 5,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "ABRKEGCA"
+    },
+    {
+      "id": 6,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(KING FAISAL BRANCH)",
+      "swift_code": "ABRKEGCAFSL"
+    },
+    {
+      "id": 7,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(LC DEPARTMENT)",
+      "swift_code": "ABRKEGCALCG"
+    },
+    {
+      "id": 8,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(MOHANDSEEN BRANCH)",
+      "swift_code": "ABRKEGCAMOH"
+    },
+    {
+      "id": 9,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(MOHYEE ELDIN ABOU EL EZZ BRANCH)",
+      "swift_code": "ABRKEGCAEZZ"
+    },
+    {
+      "id": 10,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(PYRAMIDS BRANCH)",
+      "swift_code": "ABRKEGCAHRM"
+    },
+    {
+      "id": 11,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(SHEIKH ZAYED BRANCH)",
+      "swift_code": "ABRKEGCAZYD"
+    },
+    {
+      "id": 12,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "GIZA",
+      "branch": "(TEST KEY DEPARTMENT)",
+      "swift_code": "ABRKEGCATKY"
+    },
+    {
+      "id": 13,
+      "bank": "ARAB BANK PLC",
+      "city": "GIZA",
+      "branch": "(AL HARAM BRANCH)",
+      "swift_code": "ARABEGCXHRM"
+    },
+    {
+      "id": 14,
+      "bank": "ARAB BANK PLC",
+      "city": "GIZA",
+      "branch": "(EL-THAWRA BRANCH)",
+      "swift_code": "ARABEGCXSAW"
+    },
+    {
+      "id": 15,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "GIZA",
+      "branch": "(MOHANDESIN BRANCH)",
+      "swift_code": "AINBEGCAMOH"
+    },
+    {
+      "id": 16,
+      "bank": "BANQUE DU CAIRE",
+      "city": "GIZA",
+      "branch": "(AL HARAM BRANCH)",
+      "swift_code": "BCAIEGCX607"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE DU CAIRE",
+      "city": "GIZA",
+      "branch": "(GIZA)",
+      "swift_code": "BCAIEGCX600"
+    },
+    {
+      "id": 18,
+      "bank": "BANQUE DU CAIRE",
+      "city": "GIZA",
+      "branch": "(MIDAN GIZA)",
+      "swift_code": "BCAIEGCX605"
+    },
+    {
+      "id": 19,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "(DOKKI)",
+      "swift_code": "MRBAEGCX012"
+    },
+    {
+      "id": 20,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "(MOSADAK)",
+      "swift_code": "MRBAEGCX032"
+    },
+    {
+      "id": 21,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "(PYRAMIDS)",
+      "swift_code": "MRBAEGCX027"
+    },
+    {
+      "id": 22,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "(SHEIKH ZAYED)",
+      "swift_code": "MRBAEGCX031"
+    },
+    {
+      "id": 23,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "MRBAEGB1"
+    },
+    {
+      "id": 24,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(AL HARAM BRANCH)",
+      "swift_code": "CIBEEGCX102"
+    },
+    {
+      "id": 25,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(FUTURE UNIVERSITY BRANCH)",
+      "swift_code": "CIBEEGCX103"
+    },
+    {
+      "id": 26,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(GIZA BRANCH)",
+      "swift_code": "CIBEEGCX001"
+    },
+    {
+      "id": 27,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "CIBEEGCX085"
+    },
+    {
+      "id": 28,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(MESAHA BRANCH)",
+      "swift_code": "CIBEEGCX184"
+    },
+    {
+      "id": 29,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "GIZA",
+      "branch": "(NEW HARAM BRANCH)",
+      "swift_code": "CIBEEGCX139"
+    },
+    {
+      "id": 30,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "ARLBEGCA"
+    },
+    {
+      "id": 31,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "ARLBEGCADOK"
+    },
+    {
+      "id": 32,
+      "bank": "EGYPTIAN GULF BANK",
+      "city": "GIZA",
+      "branch": "(PAY)",
+      "swift_code": "EGGBEGCAPAY"
+    },
+    {
+      "id": 33,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(FISAL)",
+      "swift_code": "EXDEEGCXFSL"
+    },
+    {
+      "id": 34,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(NILE BRANCH)",
+      "swift_code": "EXDEEGCXNIL"
+    },
+    {
+      "id": 35,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(DOKKI BRANCH)",
+      "swift_code": "FIEGEGCXDOK"
+    },
+    {
+      "id": 36,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-HARAM BRANCH)",
+      "swift_code": "FIEGEGCXHRM"
+    },
+    {
+      "id": 37,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "FIEGEGCXITD"
+    },
+    {
+      "id": 38,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "FIEGEGCXMAI"
+    },
+    {
+      "id": 39,
+      "bank": "FINANCIAL BROKERAGE GROUP",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "FIBGEGC1"
+    },
+    {
+      "id": 40,
+      "bank": "HC BROKERAGE(S.A.E)",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "HCBREGC1"
+    },
+    {
+      "id": 41,
+      "bank": "HOUSING AND DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "HDBKEGCA"
+    },
+    {
+      "id": 42,
+      "bank": "MEGA INVESTMENTS SECURITIES",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "MISHEGC1"
+    },
+    {
+      "id": 43,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "(ACCOUNTING DEPT.)",
+      "swift_code": "MIDBEGCXACC"
+    },
+    {
+      "id": 44,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "(DEALING DEPT.)",
+      "swift_code": "MIDBEGCXDEL"
+    },
+    {
+      "id": 45,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "(DOCUMENTARY CREDIT DEPT.)",
+      "swift_code": "MIDBEGCXLCD"
+    },
+    {
+      "id": 46,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "(GIZA BRANCH)",
+      "swift_code": "MIDBEGCXGZA"
+    },
+    {
+      "id": 47,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "(MOHADESEEN BRANCH)",
+      "swift_code": "MIDBEGCXMHD"
+    },
+    {
+      "id": 48,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "MIDBEGCX"
+    },
+    {
+      "id": 49,
+      "bank": "NAEEM BROKERAGE",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "NAEEEGC1"
+    },
+    {
+      "id": 50,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(ABU EL-FEDDA BRANCH)",
+      "swift_code": "NBEGEGCX116"
+    },
+    {
+      "id": 51,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(AL BARAGIL BRANCH)",
+      "swift_code": "NBEGEGCX069"
+    },
+    {
+      "id": 52,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(AMERICANA PLAZA   BRANCH)",
+      "swift_code": "NBEGEGCX098"
+    },
+    {
+      "id": 53,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(AWEL ELHARAM BRANCH)",
+      "swift_code": "NBEGEGCX097"
+    },
+    {
+      "id": 54,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(BEN EL SARAIAT BRANCH)",
+      "swift_code": "NBEGEGCX036"
+    },
+    {
+      "id": 55,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(BEVERLY HILLS BRANCH)",
+      "swift_code": "NBEGEGCX055"
+    },
+    {
+      "id": 56,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(CAIRO UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX164"
+    },
+    {
+      "id": 57,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(DR ABD EL HALIM MAHMOUD   BRANCH)",
+      "swift_code": "NBEGEGCX089"
+    },
+    {
+      "id": 58,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL BDRASHEEN BRANCH)",
+      "swift_code": "NBEGEGCX166"
+    },
+    {
+      "id": 59,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL JEZERA BRANCH)",
+      "swift_code": "NBEGEGCX054"
+    },
+    {
+      "id": 60,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL MARIOTIA BRANCH)",
+      "swift_code": "NBEGEGCX058"
+    },
+    {
+      "id": 61,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL MUNIB BRANCH)",
+      "swift_code": "NBEGEGCX035"
+    },
+    {
+      "id": 62,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-BAHR EL-AAZAM BRANCH)",
+      "swift_code": "NBEGEGCX179"
+    },
+    {
+      "id": 63,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-NIL BRANCH)",
+      "swift_code": "NBEGEGCX165"
+    },
+    {
+      "id": 64,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-RODA BRANCH)",
+      "swift_code": "NBEGEGCX117"
+    },
+    {
+      "id": 65,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-SAFF BRANCH)",
+      "swift_code": "NBEGEGCX181"
+    },
+    {
+      "id": 66,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EL-TAKAMOL BRANCH)",
+      "swift_code": "NBEGEGCX174"
+    },
+    {
+      "id": 67,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(EMBABA BRANCH)",
+      "swift_code": "NBEGEGCX168"
+    },
+    {
+      "id": 68,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(FAISAL BRANCH)",
+      "swift_code": "NBEGEGCX187"
+    },
+    {
+      "id": 69,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(HADABET ELAHRAM BRANCH)",
+      "swift_code": "NBEGEGCX048"
+    },
+    {
+      "id": 70,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(MALL MASR BRANCH)",
+      "swift_code": "NBEGEGCX038"
+    },
+    {
+      "id": 71,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(MARAGHY BRANCH IN AGOUZA)",
+      "swift_code": "NBEGEGCX092"
+    },
+    {
+      "id": 72,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(MESADAK BRANCH)",
+      "swift_code": "NBEGEGCX185"
+    },
+    {
+      "id": 73,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(MOHANDSEEN BRANCH)",
+      "swift_code": "NBEGEGCX083"
+    },
+    {
+      "id": 74,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(MOHEY ELDIN ABO EL EZZ BRANCH)",
+      "swift_code": "NBEGEGCX099"
+    },
+    {
+      "id": 75,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(NAGUIB MAHFOUZ BRANCH)",
+      "swift_code": "NBEGEGCX049"
+    },
+    {
+      "id": 76,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(OM EL MASRYEN)",
+      "swift_code": "NBEGEGCX044"
+    },
+    {
+      "id": 77,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(OMRANIA BRANCH)",
+      "swift_code": "NBEGEGCX064"
+    },
+    {
+      "id": 78,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(OSIM BRANCH)",
+      "swift_code": "NBEGEGCX045"
+    },
+    {
+      "id": 79,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(SPHINX BRANCH)",
+      "swift_code": "NBEGEGCX188"
+    },
+    {
+      "id": 80,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(STAR MALL BRANCH)",
+      "swift_code": "NBEGEGCX037"
+    },
+    {
+      "id": 81,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "GIZA",
+      "branch": "(WEST SOMID BRANCH)",
+      "swift_code": "NBEGEGCX090"
+    },
+    {
+      "id": 82,
+      "bank": "NATIONAL BANK OF GREECE, (EGYPT NETWORK)",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "ETHNEGCA"
+    },
+    {
+      "id": 83,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "GIZA",
+      "branch": "(ALGALAA BRANCH)",
+      "swift_code": "WABAEGCXGAL"
+    },
+    {
+      "id": 84,
+      "bank": "SIGMA SECURITIES BROKERAGE AND BOOK-KEEPING S.A.E",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "SSRBEGA1"
+    },
+    {
+      "id": 85,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "GIZA",
+      "branch": "(HARAM BRANCH)",
+      "swift_code": "SBNKEGCXHAR"
+    },
+    {
+      "id": 86,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "GIZA",
+      "branch": "(SHOOTING CLUB BRANCH)",
+      "swift_code": "SBNKEGCXSHT"
+    },
+    {
+      "id": 87,
+      "bank": "SUEZ CANAL BANK",
+      "city": "GIZA",
+      "branch": "(EL MANYAL BRANCH)",
+      "swift_code": "SUCAEGCXMNL"
+    },
+    {
+      "id": 88,
+      "bank": "SUEZ CANAL BANK",
+      "city": "GIZA",
+      "branch": "(MOHANDESEEN 2 BRANCH)",
+      "swift_code": "SUCAEGCXMO2"
+    },
+    {
+      "id": 89,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "GIZA",
+      "branch": "",
+      "swift_code": "UNBEEGCX"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Giza — مصر — رموز سويفت (Banks of Giza, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Giza (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 89 سجلًا. List of banks, financial institutions and their branches in Giza, Egypt with the SWIFT/BIC code, bank name and branch name for each. 89 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 89 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Giza — مصر — رموز سويفت (Banks of Giza, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Giza — مصر — رموز سويفت (Banks of Giza, Egypt — SWIFT/BIC codes) — 89 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 89 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

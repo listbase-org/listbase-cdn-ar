@@ -1,0 +1,331 @@
+{
+  "id": "ar-muritania-qanawat-tilfiziyya",
+  "name": "قنوات تلفزيونية موريتانية",
+  "title": "قنوات تلفزيونية موريتانية",
+  "description": "قائمة بالقنوات التلفزيونية الموريتانية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AlBarlemania.mr",
+      "name": "Al Barlemania",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "legislative",
+      "is_nsfw": false,
+      "launched": "2019-05-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 2,
+      "channel_id": "Arriadia.mr",
+      "name": "Arriadia",
+      "alt_names": "الرياضية",
+      "network": "",
+      "owners": "Television of Mauritania",
+      "country": "MR",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2017-11-28",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvm.mr/ar/"
+    },
+    {
+      "id": 3,
+      "channel_id": "Athagavia.mr",
+      "name": "Athagavia",
+      "alt_names": "الثقافية",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "2017-12-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvm.mr/"
+    },
+    {
+      "id": 4,
+      "channel_id": "ChinguitTV.mr",
+      "name": "Chinguit TV",
+      "alt_names": "قناة شنقيط",
+      "network": "",
+      "owners": "Chinguetti Media Group",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2011-08-24",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "DavaTV.mr",
+      "name": "Dava TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2021-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 6,
+      "channel_id": "ElMahadra.mr",
+      "name": "El Mahadra",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2014-03-02",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 7,
+      "channel_id": "ElMedina.mr",
+      "name": "El Medina",
+      "alt_names": "قناة المدينة",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://medina-tv.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "ElOussraTV.mr",
+      "name": "El Oussra TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.masef.gov.mr/"
+    },
+    {
+      "id": 9,
+      "channel_id": "ElmourabitonTV.mr",
+      "name": "Elmourabiton TV",
+      "alt_names": "قناة المرابطون",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2012-08-05",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.elmourabiton.tv/"
+    },
+    {
+      "id": 10,
+      "channel_id": "Elmouritania.mr",
+      "name": "Elmouritania",
+      "alt_names": "الموريتانية",
+      "network": "",
+      "owners": "Television of Mauritania",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1984-07-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvm.mr/"
+    },
+    {
+      "id": 11,
+      "channel_id": "Elmouritania2.mr",
+      "name": "Elmouritania 2",
+      "alt_names": "الموريتانية 2",
+      "network": "",
+      "owners": "Television of Mauritania",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2007-10-13",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvm.mr/"
+    },
+    {
+      "id": 12,
+      "channel_id": "ElwataniyaTV.mr",
+      "name": "Elwataniya TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 13,
+      "channel_id": "GhimemTV.mr",
+      "name": "Ghimem TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 14,
+      "channel_id": "HOLPACTV.mr",
+      "name": "HOLPAC TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Ly Hamet Oumar",
+      "country": "MR",
+      "categories": "movies, culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://studioholpac.com/"
+    },
+    {
+      "id": 15,
+      "channel_id": "Sahara24.mr",
+      "name": "Sahara 24",
+      "alt_names": "صحراء 24",
+      "network": "",
+      "owners": "Sahara Medias",
+      "country": "MR",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "2024-06-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://saharamedias.net/"
+    },
+    {
+      "id": 16,
+      "channel_id": "SahelTV.mr",
+      "name": "Sahel TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "MR",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "قنوات تلفزيونية موريتانية - تحميل مجاني",
+    "description": "قائمة بالقنوات التلفزيونية الموريتانية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية. يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "قنوات تلفزيونية موريتانية | ListBase",
+    "seo_description": "تحميل قنوات تلفزيونية موريتانية — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

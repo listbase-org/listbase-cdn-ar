@@ -1,0 +1,181 @@
+{
+  "id": "ar-bahrayn-qanawat-tilfiziyya",
+  "name": "قنوات تلفزيونية بحرينية",
+  "title": "قنوات تلفزيونية بحرينية",
+  "description": "قائمة بالقنوات التلفزيونية البحرينية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BahrainInternational.bh",
+      "name": "Bahrain International",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1971-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "id": 2,
+      "channel_id": "BahrainLawal.bh",
+      "name": "Bahrain Lawal",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2019-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "id": 3,
+      "channel_id": "BahrainQuran.bh",
+      "name": "Bahrain Quran",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "id": 4,
+      "channel_id": "BahrainSports1.bh",
+      "name": "Bahrain Sports 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "id": 5,
+      "channel_id": "BahrainSports2.bh",
+      "name": "Bahrain Sports 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    },
+    {
+      "id": 6,
+      "channel_id": "BahrainTV.bh",
+      "name": "Bahrain TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bahrain Radio and Television Corporation",
+      "country": "BH",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1971-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.mia.gov.bh/media-center/live-tv-and-radio/?lang=en"
+    }
+  ],
+  "meta": {
+    "title": "قنوات تلفزيونية بحرينية - تحميل مجاني",
+    "description": "قائمة بالقنوات التلفزيونية البحرينية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "قنوات تلفزيونية بحرينية | ListBase",
+    "seo_description": "تحميل قنوات تلفزيونية بحرينية — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

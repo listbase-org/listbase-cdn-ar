@@ -1,0 +1,752 @@
+{
+  "id": "ar-mudun-greece",
+  "name": "مدن اليونان — Cities of Greece (Arabic names)",
+  "title": "مدن اليونان — Cities of Greece (Arabic names)",
+  "description": "قائمة بأسماء مدن اليونان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 87 cities in Greece with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "أثينا",
+      "name_en": "Athens",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 3059764
+    },
+    {
+      "id": 2,
+      "name_ar": "سالونيك",
+      "name_en": "Thessaloniki",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 802572
+    },
+    {
+      "id": 3,
+      "name_ar": "بيرايوس",
+      "name_en": "Piraeus",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 448051
+    },
+    {
+      "id": 4,
+      "name_ar": "تيرنافوس",
+      "name_en": "Tyrnavos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 222280
+    },
+    {
+      "id": 5,
+      "name_ar": "كاندية",
+      "name_en": "Irakleio",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 211370
+    },
+    {
+      "id": 6,
+      "name_ar": "بتراس",
+      "name_en": "Patra",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 173600
+    },
+    {
+      "id": 7,
+      "name_ar": "بيريستيري",
+      "name_en": "Peristeri",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 133630
+    },
+    {
+      "id": 8,
+      "name_ar": "أخارنيس",
+      "name_en": "Acharnes",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 108169
+    },
+    {
+      "id": 9,
+      "name_ar": "كاليثيا",
+      "name_en": "Kallithea",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 97616
+    },
+    {
+      "id": 10,
+      "name_ar": "كالاماريا",
+      "name_en": "Kalamaria",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 92248
+    },
+    {
+      "id": 11,
+      "name_ar": "غليفاذا",
+      "name_en": "Glyfada",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 89597
+    },
+    {
+      "id": 12,
+      "name_ar": "نيقية",
+      "name_en": "Nikaia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 88077
+    },
+    {
+      "id": 13,
+      "name_ar": "فولوس",
+      "name_en": "Volos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 85803
+    },
+    {
+      "id": 14,
+      "name_ar": "طروادة",
+      "name_en": "Ilion",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 84004
+    },
+    {
+      "id": 15,
+      "name_ar": "إفوسموس",
+      "name_en": "Evosmos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 79221
+    },
+    {
+      "id": 16,
+      "name_ar": "خالاندري",
+      "name_en": "Chalandri",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 77102
+    },
+    {
+      "id": 17,
+      "name_ar": "إيليوبولي",
+      "name_en": "Ilioupoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 76730
+    },
+    {
+      "id": 18,
+      "name_ar": "كيراتسيني",
+      "name_en": "Keratsini",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 75721
+    },
+    {
+      "id": 19,
+      "name_ar": "نيا سميرني",
+      "name_en": "Nea Smyrni",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 72853
+    },
+    {
+      "id": 20,
+      "name_ar": "ماروسي",
+      "name_en": "Marousi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 71830
+    },
+    {
+      "id": 21,
+      "name_ar": "زوغرافو",
+      "name_en": "Zografos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 69874
+    },
+    {
+      "id": 22,
+      "name_ar": "أيغاليو",
+      "name_en": "Aigaleo",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 65831
+    },
+    {
+      "id": 23,
+      "name_ar": "يوانينا",
+      "name_en": "Ioannina",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 64896
+    },
+    {
+      "id": 24,
+      "name_ar": "باليو فاليرو",
+      "name_en": "Palaio Faliro",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 64863
+    },
+    {
+      "id": 25,
+      "name_ar": "نيا إيونيا",
+      "name_en": "Nea Ionia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 64611
+    },
+    {
+      "id": 26,
+      "name_ar": "تريكالا",
+      "name_en": "Trikala",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 61608
+    },
+    {
+      "id": 27,
+      "name_ar": "كوريذالوس",
+      "name_en": "Korydallos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 61248
+    },
+    {
+      "id": 28,
+      "name_ar": "بتروبولي",
+      "name_en": "Petroupoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 60146
+    },
+    {
+      "id": 29,
+      "name_ar": "كاتريني",
+      "name_en": "Katerini",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 59189
+    },
+    {
+      "id": 30,
+      "name_ar": "فيروناس",
+      "name_en": "Vyronas",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 59134
+    },
+    {
+      "id": 31,
+      "name_ar": "خالكيذا",
+      "name_en": "Chalkida",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 59125
+    },
+    {
+      "id": 32,
+      "name_ar": "حشيشة الخزيرة",
+      "name_en": "Xanthi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 58760
+    },
+    {
+      "id": 33,
+      "name_ar": "غالاتسي",
+      "name_en": "Galatsi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 57909
+    },
+    {
+      "id": 34,
+      "name_ar": "رودس",
+      "name_en": "Rodos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 56969
+    },
+    {
+      "id": 35,
+      "name_ar": "كارذيتسا",
+      "name_en": "Karditsa",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 55979
+    },
+    {
+      "id": 36,
+      "name_ar": "ثيرمي",
+      "name_en": "Thermi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 55358
+    },
+    {
+      "id": 37,
+      "name_ar": "خانية",
+      "name_en": "Chania",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 53910
+    },
+    {
+      "id": 38,
+      "name_ar": "أغرينيو",
+      "name_en": "Agrinio",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 50690
+    },
+    {
+      "id": 39,
+      "name_ar": "كيفيسيا",
+      "name_en": "Kifisia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 47332
+    },
+    {
+      "id": 40,
+      "name_ar": "خايذاري",
+      "name_en": "Chaidari",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 47051
+    },
+    {
+      "id": 41,
+      "name_ar": "ستافروبولي",
+      "name_en": "Stavroupoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 45891
+    },
+    {
+      "id": 42,
+      "name_ar": "بيرغوس",
+      "name_en": "Pyrgos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 45365
+    },
+    {
+      "id": 43,
+      "name_ar": "دراما",
+      "name_en": "Drama",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 44257
+    },
+    {
+      "id": 44,
+      "name_ar": "فيرغينا",
+      "name_en": "Vergina",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 43212
+    },
+    {
+      "id": 45,
+      "name_ar": "فيريا",
+      "name_en": "Veroia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 43212
+    },
+    {
+      "id": 46,
+      "name_ar": "زاكينثوس",
+      "name_en": "Zakynthos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 41180
+    },
+    {
+      "id": 47,
+      "name_ar": "أورايوكاسترو",
+      "name_en": "Oraiokastro",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 40004
+    },
+    {
+      "id": 48,
+      "name_ar": "أليكساندروبولي",
+      "name_en": "Alexandroupoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 38939
+    },
+    {
+      "id": 49,
+      "name_ar": "كوموتيني",
+      "name_en": "Komotini",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 38532
+    },
+    {
+      "id": 50,
+      "name_ar": "كالاماتا",
+      "name_en": "Kalamata",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 37781
+    },
+    {
+      "id": 51,
+      "name_ar": "لانكاداس",
+      "name_en": "Lagkadas",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 37022
+    },
+    {
+      "id": 52,
+      "name_ar": "بيلايا",
+      "name_en": "Pylaia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 36843
+    },
+    {
+      "id": 53,
+      "name_ar": "سيكييس",
+      "name_en": "Sykies",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 35545
+    },
+    {
+      "id": 54,
+      "name_ar": "أنو ليوسيا",
+      "name_en": "Ano Liosia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 35047
+    },
+    {
+      "id": 55,
+      "name_ar": "كوزاني",
+      "name_en": "Kozani",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 34138
+    },
+    {
+      "id": 56,
+      "name_ar": "كمشخانة",
+      "name_en": "Argyroupoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 33312
+    },
+    {
+      "id": 57,
+      "name_ar": "فريليسيا",
+      "name_en": "Vrilissia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 32417
+    },
+    {
+      "id": 58,
+      "name_ar": "آغيي أنارغيري",
+      "name_en": "Agioi Anargyroi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 32283
+    },
+    {
+      "id": 59,
+      "name_ar": "بتولمايذا",
+      "name_en": "Ptolemaida",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 32127
+    },
+    {
+      "id": 60,
+      "name_ar": "أورستياذا",
+      "name_en": "Orestiada",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 31686
+    },
+    {
+      "id": 61,
+      "name_ar": "فولا",
+      "name_en": "Voula",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 31497
+    },
+    {
+      "id": 62,
+      "name_ar": "أسبروبيرغوس",
+      "name_en": "Aspropyrgos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 31381
+    },
+    {
+      "id": 63,
+      "name_ar": "خولارغوس",
+      "name_en": "Cholargos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 31304
+    },
+    {
+      "id": 64,
+      "name_ar": "قورنثوس",
+      "name_en": "Korinthos",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 30816
+    },
+    {
+      "id": 65,
+      "name_ar": "يانيتسا",
+      "name_en": "Giannitsa",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 30498
+    },
+    {
+      "id": 66,
+      "name_ar": "طرابلس",
+      "name_en": "Tripoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 30383
+    },
+    {
+      "id": 67,
+      "name_ar": "سالامينا",
+      "name_en": "Salamina",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 30235
+    },
+    {
+      "id": 68,
+      "name_ar": "ميتامورفوسي",
+      "name_en": "Metamorfosi",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 30174
+    },
+    {
+      "id": 69,
+      "name_ar": "غيراكاس",
+      "name_en": "Gerakas",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 29939
+    },
+    {
+      "id": 70,
+      "name_ar": "ليفاذيا",
+      "name_en": "Livadeia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 29379
+    },
+    {
+      "id": 71,
+      "name_ar": "كاماتيرو",
+      "name_en": "Kamatero",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 28361
+    },
+    {
+      "id": 72,
+      "name_ar": "بايانيا",
+      "name_en": "Paiania",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 28036
+    },
+    {
+      "id": 73,
+      "name_ar": "خيوس",
+      "name_en": "Chios",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 27015
+    },
+    {
+      "id": 74,
+      "name_ar": "أمالياذا",
+      "name_en": "Amaliada",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 26315
+    },
+    {
+      "id": 75,
+      "name_ar": "قيصرياني",
+      "name_en": "Kaisariani",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 26269
+    },
+    {
+      "id": 76,
+      "name_ar": "لسبوس",
+      "name_en": "Mytilini",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 25729
+    },
+    {
+      "id": 77,
+      "name_ar": "بيراما، أتيكي",
+      "name_en": "Perama",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 25628
+    },
+    {
+      "id": 78,
+      "name_ar": "ألاصونية",
+      "name_en": "Elassona",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 25459
+    },
+    {
+      "id": 79,
+      "name_ar": "موسخاتو",
+      "name_en": "Moschato",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 25322
+    },
+    {
+      "id": 80,
+      "name_ar": "نيا فيلادلفيا",
+      "name_en": "Nea Filadelfeia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 25198
+    },
+    {
+      "id": 81,
+      "name_ar": "إلفسينا",
+      "name_en": "Elefsina",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 24910
+    },
+    {
+      "id": 82,
+      "name_ar": "ريثيمنو",
+      "name_en": "Rethymno",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 24893
+    },
+    {
+      "id": 83,
+      "name_ar": "ميليسيا",
+      "name_en": "Melissia",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 23618
+    },
+    {
+      "id": 84,
+      "name_ar": "أرغوستولي",
+      "name_en": "Argostoli",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 23574
+    },
+    {
+      "id": 85,
+      "name_ar": "كورفو",
+      "name_en": "Kerkyra",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 23541
+    },
+    {
+      "id": 86,
+      "name_ar": "دافني",
+      "name_en": "Dafni",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 23431
+    },
+    {
+      "id": 87,
+      "name_ar": "ليفكادا",
+      "name_en": "Lefkada",
+      "country_ar": "اليونان",
+      "country_en": "Greece",
+      "population": 22652
+    }
+  ],
+  "meta": {
+    "title": "مدن اليونان — Cities of Greece (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن اليونان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 87 cities in Greece with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 87 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن اليونان — Cities of Greece (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن اليونان — Cities of Greece (Arabic names) — 87 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 87 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "ar-mudun-mali",
+  "name": "مدن مالي — Cities of Mali (Arabic names)",
+  "title": "مدن مالي — Cities of Mali (Arabic names)",
+  "description": "قائمة بأسماء مدن مالي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 27 cities in Mali with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "باماكو",
+      "name_en": "Bamako",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 4227569
+    },
+    {
+      "id": 2,
+      "name_ar": "منطقة سيكاسو",
+      "name_en": "Sikasso",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 213977
+    },
+    {
+      "id": 3,
+      "name_ar": "كوتيالا",
+      "name_en": "Koutiala",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 137919
+    },
+    {
+      "id": 4,
+      "name_ar": "سيغو",
+      "name_en": "Segou",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 133501
+    },
+    {
+      "id": 5,
+      "name_ar": "منطقة موبتي",
+      "name_en": "Mopti",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 108456
+    },
+    {
+      "id": 6,
+      "name_ar": "كيت",
+      "name_en": "Kati",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 66895
+    },
+    {
+      "id": 7,
+      "name_ar": "كورونادال",
+      "name_en": "Koro",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 62681
+    },
+    {
+      "id": 8,
+      "name_ar": "نيورو",
+      "name_en": "Nioro",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 60112
+    },
+    {
+      "id": 9,
+      "name_ar": "بلدية بونجوني",
+      "name_en": "Bougouni",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 59679
+    },
+    {
+      "id": 10,
+      "name_ar": "كاديولو",
+      "name_en": "Kadiolo",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 52932
+    },
+    {
+      "id": 11,
+      "name_ar": "قاو",
+      "name_en": "Gao",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 49483
+    },
+    {
+      "id": 12,
+      "name_ar": "ملحلاح",
+      "name_en": "Dyero",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 47876
+    },
+    {
+      "id": 13,
+      "name_ar": "كيتا",
+      "name_en": "Kita",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 46435
+    },
+    {
+      "id": 14,
+      "name_ar": "ماركالا",
+      "name_en": "Markala",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 45961
+    },
+    {
+      "id": 15,
+      "name_ar": "السنسكريتية",
+      "name_en": "San",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 41386
+    },
+    {
+      "id": 16,
+      "name_ar": "زنزانة",
+      "name_en": "Zinzana",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 36440
+    },
+    {
+      "id": 17,
+      "name_ar": "منطقة تمبكتو",
+      "name_en": "Timbuktu",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 35330
+    },
+    {
+      "id": 18,
+      "name_ar": "جينيه",
+      "name_en": "Djenne",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 32944
+    },
+    {
+      "id": 19,
+      "name_ar": "أنسنكو",
+      "name_en": "Ansongo",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 32709
+    },
+    {
+      "id": 20,
+      "name_ar": "بانامبا",
+      "name_en": "Banamba",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 30591
+    },
+    {
+      "id": 21,
+      "name_ar": "بمبة",
+      "name_en": "Bamba",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 28524
+    },
+    {
+      "id": 22,
+      "name_ar": "دوينتزا",
+      "name_en": "Douentza",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 28005
+    },
+    {
+      "id": 23,
+      "name_ar": "باوريم",
+      "name_en": "Bourem",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 27486
+    },
+    {
+      "id": 24,
+      "name_ar": "أزيز",
+      "name_en": "Sibi",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 26633
+    },
+    {
+      "id": 25,
+      "name_ar": "باندياجارا",
+      "name_en": "Bandiagara",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 25564
+    },
+    {
+      "id": 26,
+      "name_ar": "غونا",
+      "name_en": "Gouna",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 24704
+    },
+    {
+      "id": 27,
+      "name_ar": "منطقة كوليكورو",
+      "name_en": "Koulikoro",
+      "country_ar": "مالي",
+      "country_en": "Mali",
+      "population": 23919
+    }
+  ],
+  "meta": {
+    "title": "مدن مالي — Cities of Mali (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مالي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 27 cities in Mali with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 27 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مالي — Cities of Mali (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مالي — Cities of Mali (Arabic names) — 27 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 27 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,696 @@
+{
+  "id": "ar-mudun-philippines",
+  "name": "مدن الفلبين — Cities of Philippines (Arabic names)",
+  "title": "مدن الفلبين — Cities of Philippines (Arabic names)",
+  "description": "قائمة بأسماء مدن الفلبين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Philippines with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مانيلا",
+      "name_en": "Manila",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 24922000
+    },
+    {
+      "id": 2,
+      "name_ar": "كيزون",
+      "name_en": "Quezon City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 2960048
+    },
+    {
+      "id": 3,
+      "name_ar": "مدينة زامبوانجا",
+      "name_en": "Zamboanga City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 2100000
+    },
+    {
+      "id": 4,
+      "name_ar": "دافاو",
+      "name_en": "Davao",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 1910167
+    },
+    {
+      "id": 5,
+      "name_ar": "كالوكان",
+      "name_en": "Caloocan City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 1661584
+    },
+    {
+      "id": 6,
+      "name_ar": "مدينة سيبو",
+      "name_en": "Cebu City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 964169
+    },
+    {
+      "id": 7,
+      "name_ar": "مدينة ماسبات",
+      "name_en": "Masbate",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 908920
+    },
+    {
+      "id": 8,
+      "name_ar": "أنتيبولو",
+      "name_en": "Antipolo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 887399
+    },
+    {
+      "id": 9,
+      "name_ar": "تاغويغ",
+      "name_en": "Taguig City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 886722
+    },
+    {
+      "id": 10,
+      "name_ar": "باسيج",
+      "name_en": "Pasig City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 803159
+    },
+    {
+      "id": 11,
+      "name_ar": "كاجايان دو آورو",
+      "name_en": "Cagayan de Oro",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 728402
+    },
+    {
+      "id": 12,
+      "name_ar": "فالنزويلا",
+      "name_en": "Valenzuela",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 714978
+    },
+    {
+      "id": 13,
+      "name_ar": "داسماريناس",
+      "name_en": "Dasmarinas",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 703141
+    },
+    {
+      "id": 14,
+      "name_ar": "جنرال سانتوس",
+      "name_en": "General Santos",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 697315
+    },
+    {
+      "id": 15,
+      "name_ar": "باراناك",
+      "name_en": "City of Paranaque",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 689992
+    },
+    {
+      "id": 16,
+      "name_ar": "باكور",
+      "name_en": "Bacoor",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 664625
+    },
+    {
+      "id": 17,
+      "name_ar": "توندو(فن)",
+      "name_en": "Tondo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 654220
+    },
+    {
+      "id": 18,
+      "name_ar": "سان خوسيه ديل مونتي",
+      "name_en": "San Jose del Monte",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 651813
+    },
+    {
+      "id": 19,
+      "name_ar": "ماكاتي",
+      "name_en": "Makati City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 629616
+    },
+    {
+      "id": 20,
+      "name_ar": "لاس بيناس",
+      "name_en": "Las Pinas City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 606293
+    },
+    {
+      "id": 21,
+      "name_ar": "باكولود",
+      "name_en": "Bacolod",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 600783
+    },
+    {
+      "id": 22,
+      "name_ar": "مدينة إيلويلو",
+      "name_en": "Iloilo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 574000
+    },
+    {
+      "id": 23,
+      "name_ar": "مونتنلوبا",
+      "name_en": "Muntinlupa City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 543445
+    },
+    {
+      "id": 24,
+      "name_ar": "كالامبا",
+      "name_en": "City of Calamba",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 539671
+    },
+    {
+      "id": 25,
+      "name_ar": "لابو لابو",
+      "name_en": "Lapu-Lapu City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 497604
+    },
+    {
+      "id": 26,
+      "name_ar": "إيموس",
+      "name_en": "Imus",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 496794
+    },
+    {
+      "id": 27,
+      "name_ar": "انجلس",
+      "name_en": "Angeles City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 462928
+    },
+    {
+      "id": 28,
+      "name_ar": "ماريكينا",
+      "name_en": "Marikina City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 456059
+    },
+    {
+      "id": 29,
+      "name_ar": "رودريغيز",
+      "name_en": "Rodriguez",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 443954
+    },
+    {
+      "id": 30,
+      "name_ar": "باساي",
+      "name_en": "Pasay City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 440656
+    },
+    {
+      "id": 31,
+      "name_ar": "ماندالويونغ",
+      "name_en": "Mandaluyong City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 425758
+    },
+    {
+      "id": 32,
+      "name_ar": "سانتا روزا",
+      "name_en": "Santa Rosa",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 414812
+    },
+    {
+      "id": 33,
+      "name_ar": "بينان",
+      "name_en": "Binan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 407437
+    },
+    {
+      "id": 34,
+      "name_ar": "مدينة تارلاك",
+      "name_en": "Tarlac City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 385398
+    },
+    {
+      "id": 35,
+      "name_ar": "مالابون",
+      "name_en": "Malabon",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 380522
+    },
+    {
+      "id": 36,
+      "name_ar": "ليبا",
+      "name_en": "Lipa City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 372931
+    },
+    {
+      "id": 37,
+      "name_ar": "بوتوان",
+      "name_en": "Butuan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 372910
+    },
+    {
+      "id": 38,
+      "name_ar": "باغويو",
+      "name_en": "Baguio City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 366358
+    },
+    {
+      "id": 39,
+      "name_ar": "مانداوي",
+      "name_en": "Mandaue City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 364116
+    },
+    {
+      "id": 40,
+      "name_ar": "اليجان",
+      "name_en": "Iligan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 363115
+    },
+    {
+      "id": 41,
+      "name_ar": "كابوياو",
+      "name_en": "Cabuyao",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 355330
+    },
+    {
+      "id": 42,
+      "name_ar": "سان فرناندو، الفلبين",
+      "name_en": "San Fernando",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 354666
+    },
+    {
+      "id": 43,
+      "name_ar": "مدينة باتانجاس",
+      "name_en": "Batangas",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 351437
+    },
+    {
+      "id": 44,
+      "name_ar": "ناغا",
+      "name_en": "Naga City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 342769
+    },
+    {
+      "id": 45,
+      "name_ar": "كاباناتوان",
+      "name_en": "Cabanatuan City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 327325
+    },
+    {
+      "id": 46,
+      "name_ar": "سان بيدرو",
+      "name_en": "San Pedro",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 326001
+    },
+    {
+      "id": 47,
+      "name_ar": "مدينة كوتاباتو",
+      "name_en": "Cotabato",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 325079
+    },
+    {
+      "id": 48,
+      "name_ar": "بورتوبرنسس",
+      "name_en": "Puerto Princesa",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 307079
+    },
+    {
+      "id": 49,
+      "name_ar": "تاجوم",
+      "name_en": "Tagum",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 296202
+    },
+    {
+      "id": 50,
+      "name_ar": "مابالاكات",
+      "name_en": "Mabalacat",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 293244
+    },
+    {
+      "id": 51,
+      "name_ar": "سانتا ماريا",
+      "name_en": "Santa Maria",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 289820
+    },
+    {
+      "id": 52,
+      "name_ar": "لوسينا",
+      "name_en": "Lucena",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 278924
+    },
+    {
+      "id": 53,
+      "name_ar": "تاليساي",
+      "name_en": "Talisay",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 263048
+    },
+    {
+      "id": 54,
+      "name_ar": "مالولوس",
+      "name_en": "Malolos",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 261189
+    },
+    {
+      "id": 55,
+      "name_ar": "اولونجابو",
+      "name_en": "Olongapo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 260317
+    },
+    {
+      "id": 56,
+      "name_ar": "تاكلوبان",
+      "name_en": "Tacloban",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 251881
+    },
+    {
+      "id": 57,
+      "name_ar": "نافوتاس",
+      "name_en": "Navotas",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 247543
+    },
+    {
+      "id": 58,
+      "name_ar": "اورموك",
+      "name_en": "Ormoc",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 230998
+    },
+    {
+      "id": 59,
+      "name_ar": "ميكويان",
+      "name_en": "Meycauayan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 225673
+    },
+    {
+      "id": 60,
+      "name_ar": "بلنسية",
+      "name_en": "Valencia",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 216546
+    },
+    {
+      "id": 61,
+      "name_ar": "تريس مارتيريس",
+      "name_en": "Trece Martires City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 210503
+    },
+    {
+      "id": 62,
+      "name_ar": "باجاديان",
+      "name_en": "Pagadian",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 210452
+    },
+    {
+      "id": 63,
+      "name_ar": "ليجازبي",
+      "name_en": "Legazpi City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 209533
+    },
+    {
+      "id": 64,
+      "name_ar": "بانابو",
+      "name_en": "Panabo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 209230
+    },
+    {
+      "id": 65,
+      "name_ar": "توليدو",
+      "name_en": "Toledo",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 207314
+    },
+    {
+      "id": 66,
+      "name_ar": "مدينة مراوي",
+      "name_en": "Marawi City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 207010
+    },
+    {
+      "id": 67,
+      "name_ar": "سان كارلوس، الفلبين",
+      "name_en": "San Carlos City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 205424
+    },
+    {
+      "id": 68,
+      "name_ar": "سانتا آنا",
+      "name_en": "Santa Ana",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 203598
+    },
+    {
+      "id": 69,
+      "name_ar": "كابانكالان",
+      "name_en": "Kabankalan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 200198
+    },
+    {
+      "id": 70,
+      "name_ar": "كورونادال",
+      "name_en": "Koronadal",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 195398
+    },
+    {
+      "id": 71,
+      "name_ar": "تاناوان",
+      "name_en": "Tanauan",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 193936
+    },
+    {
+      "id": 72,
+      "name_ar": "باجو",
+      "name_en": "Bago",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 191210
+    },
+    {
+      "id": 73,
+      "name_ar": "مالايبالاي",
+      "name_en": "Malaybalay",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 190712
+    },
+    {
+      "id": 74,
+      "name_ar": "ديغوس",
+      "name_en": "Digos",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 188376
+    },
+    {
+      "id": 75,
+      "name_ar": "كالبايوغ",
+      "name_en": "Calbayog City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 186960
+    },
+    {
+      "id": 76,
+      "name_ar": "مدينة سورسوجون",
+      "name_en": "Sorsogon",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 182237
+    },
+    {
+      "id": 77,
+      "name_ar": "داغوبان",
+      "name_en": "Dagupan City",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 174302
+    },
+    {
+      "id": 78,
+      "name_ar": "المكسيك",
+      "name_en": "Mexico",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 173403
+    },
+    {
+      "id": 79,
+      "name_ar": "مدينة سوريجاو",
+      "name_en": "Surigao",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 171107
+    },
+    {
+      "id": 80,
+      "name_ar": "تيغيغيوراو",
+      "name_en": "Tuguegarao",
+      "country_ar": "الفلبين",
+      "country_en": "Philippines",
+      "population": 166334
+    }
+  ],
+  "meta": {
+    "title": "مدن الفلبين — Cities of Philippines (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الفلبين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 80 cities in Philippines with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 80 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الفلبين — Cities of Philippines (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الفلبين — Cities of Philippines (Arabic names) — 80 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 80 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

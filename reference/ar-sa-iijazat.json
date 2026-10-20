@@ -1,0 +1,862 @@
+{
+  "id": "ar-sa-iijazat",
+  "name": "العطل الرسمية في المملكة العربية السعودية (2020–2026)",
+  "title": "العطل الرسمية في المملكة العربية السعودية (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-05-23",
+      "year": 2020,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 23,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-05-24",
+      "year": 2020,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-05-25",
+      "year": 2020,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-26",
+      "year": 2020,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-05-27",
+      "year": 2020,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-07-30",
+      "year": 2020,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 7,
+      "day": 30,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-07-31",
+      "year": 2020,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 31,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-08-01",
+      "year": 2020,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 8,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-08-02",
+      "year": 2020,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 8,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-08-03",
+      "year": 2020,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 8,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-08-04",
+      "year": 2020,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 8,
+      "day": 4,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-09-23",
+      "year": 2020,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-05-12",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 12,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-05-13",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 13,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-05-14",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-15",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-16",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 5,
+      "day": 16,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-05-17",
+      "year": 2021,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 5,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-07-19",
+      "year": 2021,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 7,
+      "day": 19,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-07-20",
+      "year": 2021,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 20,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-07-21",
+      "year": 2021,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 21,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-07-22",
+      "year": 2021,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 22,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-09-23",
+      "year": 2021,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-02-22",
+      "year": 2022,
+      "name_ar": "يوم التأسيسي",
+      "name_en": "Founding Day Holiday",
+      "month": 2,
+      "day": 22,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-02",
+      "year": 2022,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-03",
+      "year": 2022,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-05-04",
+      "year": 2022,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-07-08",
+      "year": 2022,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 7,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-07-09",
+      "year": 2022,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 9,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-07-10",
+      "year": 2022,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 10,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-11",
+      "year": 2022,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 7,
+      "day": 11,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-07-12",
+      "year": 2022,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 7,
+      "day": 12,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-07-13",
+      "year": 2022,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 7,
+      "day": 13,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-09-22",
+      "year": 2022,
+      "name_ar": "اليوم الوطني (يوم تعويضي)",
+      "name_en": "National Day Holiday (observed)",
+      "month": 9,
+      "day": 22,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-09-23",
+      "year": 2022,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-11-23",
+      "year": 2022,
+      "name_ar": "يوم وطني",
+      "name_en": "A National Day",
+      "month": 11,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-02-22",
+      "year": 2023,
+      "name_ar": "يوم التأسيسي",
+      "name_en": "Founding Day Holiday",
+      "month": 2,
+      "day": 22,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-04-21",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-22",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 22,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-23",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-24",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-04-25",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-04-26",
+      "year": 2023,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 4,
+      "day": 26,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-06-27",
+      "year": 2023,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 6,
+      "day": 27,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-06-28",
+      "year": 2023,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-06-29",
+      "year": 2023,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 29,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-06-30",
+      "year": 2023,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-07-02",
+      "year": 2023,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 7,
+      "day": 2,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-09-23",
+      "year": 2023,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-09-24",
+      "year": 2023,
+      "name_ar": "اليوم الوطني (يوم تعويضي)",
+      "name_en": "National Day Holiday (observed)",
+      "month": 9,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-02-22",
+      "year": 2024,
+      "name_ar": "يوم التأسيسي",
+      "name_en": "Founding Day Holiday",
+      "month": 2,
+      "day": 22,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-04-09",
+      "year": 2024,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 9,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-04-10",
+      "year": 2024,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-04-11",
+      "year": 2024,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 11,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-04-12",
+      "year": 2024,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 12,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-14",
+      "year": 2024,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-06-15",
+      "year": 2024,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 6,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-06-16",
+      "year": 2024,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 16,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-06-17",
+      "year": 2024,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-06-18",
+      "year": 2024,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 18,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-06-19",
+      "year": 2024,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 6,
+      "day": 19,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-09-23",
+      "year": 2024,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-02-22",
+      "year": 2025,
+      "name_ar": "يوم التأسيسي",
+      "name_en": "Founding Day Holiday",
+      "month": 2,
+      "day": 22,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-02-23",
+      "year": 2025,
+      "name_ar": "يوم التأسيسي (يوم تعويضي)",
+      "name_en": "Founding Day Holiday (observed)",
+      "month": 2,
+      "day": 23,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-03-30",
+      "year": 2025,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 30,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-03-31",
+      "year": 2025,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 31,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-04-01",
+      "year": 2025,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-04-02",
+      "year": 2025,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-06-05",
+      "year": 2025,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 6,
+      "day": 5,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-06-06",
+      "year": 2025,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-06-07",
+      "year": 2025,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 7,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-06-08",
+      "year": 2025,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-06-09",
+      "year": 2025,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 6,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-06-10",
+      "year": 2025,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 6,
+      "day": 10,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-09-23",
+      "year": 2025,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-02-22",
+      "year": 2026,
+      "name_ar": "يوم التأسيسي",
+      "name_en": "Founding Day Holiday",
+      "month": 2,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-03-19",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 19,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-03-20",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 20,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-03-21",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 21,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-03-22",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر",
+      "name_en": "Eid al-Fitr Holiday",
+      "month": 3,
+      "day": 22,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-03-23",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 3,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-03-24",
+      "year": 2026,
+      "name_ar": "عطلة عيد الفطر (يوم تعويضي)",
+      "name_en": "Eid al-Fitr Holiday (observed)",
+      "month": 3,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-05-26",
+      "year": 2026,
+      "name_ar": "يوم عرفة",
+      "name_en": "Arafat Day",
+      "month": 5,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-05-27",
+      "year": 2026,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 5,
+      "day": 27,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-05-28",
+      "year": 2026,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 5,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-05-29",
+      "year": 2026,
+      "name_ar": "عطلة عيد الأضحى",
+      "name_en": "Eid al-Adha Holiday",
+      "month": 5,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-31",
+      "year": 2026,
+      "name_ar": "عطلة عيد الأضحى (يوم تعويضي)",
+      "name_en": "Eid al-Adha Holiday (observed)",
+      "month": 5,
+      "day": 31,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-09-23",
+      "year": 2026,
+      "name_ar": "اليوم الوطني",
+      "name_en": "National Day Holiday",
+      "month": 9,
+      "day": 23,
+      "day_of_week": "Wednesday"
+    }
+  ],
+  "meta": {
+    "title": "العطل الرسمية في المملكة العربية السعودية (2020–2026) - تحميل مجاني",
+    "description": "Public holidays 2020-2026 with native and English names يحتوي على 89 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "العطل الرسمية في المملكة العربية السعودية (2020–2026) | ListBase",
+    "seo_description": "تحميل العطل الرسمية في المملكة العربية السعودية (2020–2026) — 89 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 89 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

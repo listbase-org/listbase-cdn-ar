@@ -1,0 +1,2506 @@
+{
+  "id": "ar-jazan-mudun",
+  "name": "مدن منطقة جازان (Cities of Jazan)",
+  "title": "مدن منطقة جازان (Cities of Jazan)",
+  "description": "قائمة مدن منطقة جازان (Jazan) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Jazan administrative region of Saudi Arabia (region_id=10). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 244,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 17,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جازان",
+      "name_en": "Jazan",
+      "slug": "jazan"
+    },
+    {
+      "city_id": 3398,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قرار",
+      "name_en": "Qarar",
+      "slug": "qarar"
+    },
+    {
+      "city_id": 3399,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكدارة",
+      "name_en": "Al Kadarah",
+      "slug": "al-kadarah"
+    },
+    {
+      "city_id": 3400,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الهجنبة",
+      "name_en": "Al Hajanbah",
+      "slug": "al-hajanbah"
+    },
+    {
+      "city_id": 3401,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-3401"
+    },
+    {
+      "city_id": 3402,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدرب",
+      "name_en": "Ad Darb",
+      "slug": "ad-darb-3402"
+    },
+    {
+      "city_id": 3403,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو السداد",
+      "name_en": "Abu As Sadad",
+      "slug": "abu-as-sadad"
+    },
+    {
+      "city_id": 3404,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشقيق",
+      "name_en": "Al Shuqayq",
+      "slug": "al-shuqayq"
+    },
+    {
+      "city_id": 3405,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحروف",
+      "name_en": "Al Huruf",
+      "slug": "al-huruf"
+    },
+    {
+      "city_id": 3406,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عتود",
+      "name_en": "Itwad",
+      "slug": "itwad"
+    },
+    {
+      "city_id": 3407,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "رملان",
+      "name_en": "Ramlan",
+      "slug": "ramlan"
+    },
+    {
+      "city_id": 3408,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المنجارة",
+      "name_en": "Al Minjarah",
+      "slug": "al-minjarah-3408"
+    },
+    {
+      "city_id": 3409,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدولة",
+      "name_en": "Ad Dawlah",
+      "slug": "ad-dawlah"
+    },
+    {
+      "city_id": 3410,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مسلية",
+      "name_en": "Misliyah",
+      "slug": "misliyah"
+    },
+    {
+      "city_id": 3411,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الفطيحة",
+      "name_en": "Al Fatihah",
+      "slug": "al-fatihah"
+    },
+    {
+      "city_id": 3426,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "رخية",
+      "name_en": "Rakhyah",
+      "slug": "rakhyah"
+    },
+    {
+      "city_id": 3427,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الريث",
+      "name_en": "Ar Rayth",
+      "slug": "ar-rayth"
+    },
+    {
+      "city_id": 3428,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الرهوة",
+      "name_en": "Al Rahwah",
+      "slug": "al-rahwah"
+    },
+    {
+      "city_id": 3429,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عثوان",
+      "name_en": "Athwan",
+      "slug": "athwan"
+    },
+    {
+      "city_id": 3430,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القعقاع",
+      "name_en": "Al Qaqa",
+      "slug": "al-qaqa"
+    },
+    {
+      "city_id": 3431,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشملاة",
+      "name_en": "Ash Shamlah",
+      "slug": "ash-shamlah"
+    },
+    {
+      "city_id": 3432,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السهية",
+      "name_en": "As Suhayyah",
+      "slug": "as-suhayyah"
+    },
+    {
+      "city_id": 3433,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عراب",
+      "name_en": "Urab",
+      "slug": "urab"
+    },
+    {
+      "city_id": 3434,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخطوة",
+      "name_en": "Al Khutwah",
+      "slug": "al-khutwah-3434"
+    },
+    {
+      "city_id": 3435,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحناية",
+      "name_en": "Al Hinnayah",
+      "slug": "al-hinnayah"
+    },
+    {
+      "city_id": 3436,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "النفيعة",
+      "name_en": "An Nafiah",
+      "slug": "an-nafiah"
+    },
+    {
+      "city_id": 3437,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "زوزاء",
+      "name_en": "Zawza",
+      "slug": "zawza"
+    },
+    {
+      "city_id": 3438,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الركبة",
+      "name_en": "Ar Rukbah",
+      "slug": "ar-rukbah"
+    },
+    {
+      "city_id": 3439,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العزة",
+      "name_en": "Al Izzah",
+      "slug": "al-izzah"
+    },
+    {
+      "city_id": 3440,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "خويعمة",
+      "name_en": "Khuwayimah",
+      "slug": "khuwayimah"
+    },
+    {
+      "city_id": 3441,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدخرة",
+      "name_en": "Ad Dikarah",
+      "slug": "ad-dikarah"
+    },
+    {
+      "city_id": 3442,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخشعة",
+      "name_en": "Al Khashah",
+      "slug": "al-khashah-3442"
+    },
+    {
+      "city_id": 3443,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكوابسة",
+      "name_en": "Al Kawabisar",
+      "slug": "al-kawabisar"
+    },
+    {
+      "city_id": 3444,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الهيجاء",
+      "name_en": "Al Hayja",
+      "slug": "al-hayja"
+    },
+    {
+      "city_id": 3445,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "اليمانية",
+      "name_en": "Al Yamaniyah",
+      "slug": "al-yamaniyah"
+    },
+    {
+      "city_id": 3446,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "فيفاء",
+      "name_en": "Fayfa",
+      "slug": "fayfa"
+    },
+    {
+      "city_id": 3447,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدائر",
+      "name_en": "Ad Dair",
+      "slug": "ad-dair"
+    },
+    {
+      "city_id": 3448,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عيبان",
+      "name_en": "Aiban",
+      "slug": "aiban"
+    },
+    {
+      "city_id": 3449,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الطرف",
+      "name_en": "Al Taraf",
+      "slug": "al-taraf"
+    },
+    {
+      "city_id": 3450,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ظاهرة الصفا",
+      "name_en": "Dhahirat As Safa",
+      "slug": "dhahirat-as-safa"
+    },
+    {
+      "city_id": 3451,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-3451"
+    },
+    {
+      "city_id": 3452,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القتب",
+      "name_en": "Al Qatab",
+      "slug": "al-qatab"
+    },
+    {
+      "city_id": 3453,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الهياج",
+      "name_en": "Al Hiyaj",
+      "slug": "al-hiyaj"
+    },
+    {
+      "city_id": 3454,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العقدة",
+      "name_en": "Al Uqdah",
+      "slug": "al-uqdah-3454"
+    },
+    {
+      "city_id": 3455,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العيدابي",
+      "name_en": "Al Aydabi",
+      "slug": "al-aydabi"
+    },
+    {
+      "city_id": 3456,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مقزع",
+      "name_en": "Muqza",
+      "slug": "muqza"
+    },
+    {
+      "city_id": 3457,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "هروب",
+      "name_en": "Harub",
+      "slug": "harub"
+    },
+    {
+      "city_id": 3458,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشريعة",
+      "name_en": "Ash Shariah",
+      "slug": "ash-shariah"
+    },
+    {
+      "city_id": 3459,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحجروف",
+      "name_en": "Al Hajruf",
+      "slug": "al-hajruf"
+    },
+    {
+      "city_id": 3460,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "نورة",
+      "name_en": "Nurah",
+      "slug": "nurah"
+    },
+    {
+      "city_id": 3461,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الأثلة",
+      "name_en": "Al Athlah",
+      "slug": "al-athlah-3461"
+    },
+    {
+      "city_id": 3462,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "بيش",
+      "name_en": "Baysh",
+      "slug": "baysh"
+    },
+    {
+      "city_id": 3463,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحضن",
+      "name_en": "Al Hadan",
+      "slug": "al-hadan-3463"
+    },
+    {
+      "city_id": 3464,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القوز",
+      "name_en": "Al Qawz",
+      "slug": "al-qawz-3464"
+    },
+    {
+      "city_id": 3465,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحقو",
+      "name_en": "Al Haqu",
+      "slug": "al-haqu"
+    },
+    {
+      "city_id": 3466,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القوام",
+      "name_en": "Al Quwam",
+      "slug": "al-quwam"
+    },
+    {
+      "city_id": 3467,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المطعن",
+      "name_en": "Al Matan",
+      "slug": "al-matan-3467"
+    },
+    {
+      "city_id": 3468,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العداية",
+      "name_en": "Al Addayah",
+      "slug": "al-addayah"
+    },
+    {
+      "city_id": 3469,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الباحر",
+      "name_en": "Al Bahir",
+      "slug": "al-bahir"
+    },
+    {
+      "city_id": 3470,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المعترض",
+      "name_en": "Al Mutarid",
+      "slug": "al-mutarid"
+    },
+    {
+      "city_id": 3471,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "نخلان",
+      "name_en": "Nakhlan",
+      "slug": "nakhlan"
+    },
+    {
+      "city_id": 3472,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الغرا",
+      "name_en": "Al Ghara",
+      "slug": "al-ghara"
+    },
+    {
+      "city_id": 3473,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العبادلة",
+      "name_en": "Al Abadilah",
+      "slug": "al-abadilah"
+    },
+    {
+      "city_id": 3474,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العريش",
+      "name_en": "Al Arish",
+      "slug": "al-arish"
+    },
+    {
+      "city_id": 3475,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مشلحة",
+      "name_en": "Mushallahah",
+      "slug": "mushallahah"
+    },
+    {
+      "city_id": 3476,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الرايغة",
+      "name_en": "Ar Rayighah",
+      "slug": "ar-rayighah"
+    },
+    {
+      "city_id": 3477,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الملحاة",
+      "name_en": "Al Malha",
+      "slug": "al-malha"
+    },
+    {
+      "city_id": 3478,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدهنا",
+      "name_en": "Ad Dahna",
+      "slug": "ad-dahna"
+    },
+    {
+      "city_id": 3479,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "صبيا",
+      "name_en": "Sabya",
+      "slug": "sabya-3479"
+    },
+    {
+      "city_id": 3480,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قائم الدش",
+      "name_en": "Qaim Ad Dashsh",
+      "slug": "qaim-ad-dashsh"
+    },
+    {
+      "city_id": 3481,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "صبيا الجديدة",
+      "name_en": "Sabya Al Jadidah",
+      "slug": "sabya-al-jadidah"
+    },
+    {
+      "city_id": 3482,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكدمي",
+      "name_en": "Al Kudmi",
+      "slug": "al-kudmi"
+    },
+    {
+      "city_id": 3483,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العشة",
+      "name_en": "Al Shshah",
+      "slug": "al-shshah"
+    },
+    {
+      "city_id": 3484,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السلام العليا",
+      "name_en": "As Salam Al Ulya",
+      "slug": "as-salam-al-ulya"
+    },
+    {
+      "city_id": 3485,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو القعايد",
+      "name_en": "Abu Alqaayid",
+      "slug": "abu-alqaayid"
+    },
+    {
+      "city_id": 3486,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو السلع",
+      "name_en": "Abu As Sala",
+      "slug": "abu-as-sala"
+    },
+    {
+      "city_id": 3487,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العالية",
+      "name_en": "Al Aliyah",
+      "slug": "al-aliyah"
+    },
+    {
+      "city_id": 3488,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "غوان",
+      "name_en": "Ghawwan",
+      "slug": "ghawwan"
+    },
+    {
+      "city_id": 3489,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحسيني",
+      "name_en": "Al Husayni",
+      "slug": "al-husayni"
+    },
+    {
+      "city_id": 3490,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الظبية",
+      "name_en": "Al Dhabyah",
+      "slug": "al-dhabyah"
+    },
+    {
+      "city_id": 3491,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجمالة",
+      "name_en": "Al Jammalah",
+      "slug": "al-jammalah"
+    },
+    {
+      "city_id": 3492,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السبخة",
+      "name_en": "Al Sabakhah",
+      "slug": "al-sabakhah"
+    },
+    {
+      "city_id": 3493,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الفقرة",
+      "name_en": "Al Fiqarah",
+      "slug": "al-fiqarah"
+    },
+    {
+      "city_id": 3494,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "خبت سعيدة",
+      "name_en": "Khabt Saidah",
+      "slug": "khabt-saidah"
+    },
+    {
+      "city_id": 3495,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحمي",
+      "name_en": "Al Hima",
+      "slug": "al-hima"
+    },
+    {
+      "city_id": 3496,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السليل",
+      "name_en": "As Sulayl",
+      "slug": "as-sulayl"
+    },
+    {
+      "city_id": 3497,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجهو",
+      "name_en": "Al Jahw",
+      "slug": "al-jahw"
+    },
+    {
+      "city_id": 3498,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القمري",
+      "name_en": "Al Qumri / Amri /omri",
+      "slug": "al-qumri-amri-omri"
+    },
+    {
+      "city_id": 3499,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ضمد",
+      "name_en": "Damad",
+      "slug": "damad"
+    },
+    {
+      "city_id": 3500,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخضيرة",
+      "name_en": "Al Khudayrah",
+      "slug": "al-khudayrah"
+    },
+    {
+      "city_id": 3501,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشقيري",
+      "name_en": "Ash Shuqairi",
+      "slug": "ash-shuqairi"
+    },
+    {
+      "city_id": 3502,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "زبارة رشيد",
+      "name_en": "Zabarat Rashid",
+      "slug": "zabarat-rashid"
+    },
+    {
+      "city_id": 3503,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قنبورة",
+      "name_en": "Qanbura",
+      "slug": "qanbura"
+    },
+    {
+      "city_id": 3504,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "بحرة",
+      "name_en": "Bahrah",
+      "slug": "bahrah"
+    },
+    {
+      "city_id": 3505,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القائم",
+      "name_en": "Al Qaim",
+      "slug": "al-qaim"
+    },
+    {
+      "city_id": 3506,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المحصام",
+      "name_en": "Al Muhsam",
+      "slug": "al-muhsam"
+    },
+    {
+      "city_id": 3507,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحجاجة",
+      "name_en": "Al Hajajah",
+      "slug": "al-hajajah"
+    },
+    {
+      "city_id": 3508,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجربة",
+      "name_en": "Al Jirbah",
+      "slug": "al-jirbah-3508"
+    },
+    {
+      "city_id": 3509,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السادلية",
+      "name_en": "As Sadiliyah",
+      "slug": "as-sadiliyah"
+    },
+    {
+      "city_id": 3510,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مريخية",
+      "name_en": "Muraykhiyah",
+      "slug": "muraykhiyah"
+    },
+    {
+      "city_id": 3511,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العروس",
+      "name_en": "Al Arus",
+      "slug": "al-arus"
+    },
+    {
+      "city_id": 3512,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخزنة",
+      "name_en": "Al Khuznah",
+      "slug": "al-khuznah"
+    },
+    {
+      "city_id": 3513,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العسيلة",
+      "name_en": "Al Usaylah",
+      "slug": "al-usaylah"
+    },
+    {
+      "city_id": 3514,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "سد ملاكي",
+      "name_en": "Sadd Malaki",
+      "slug": "sadd-malaki"
+    },
+    {
+      "city_id": 3515,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكتيفة",
+      "name_en": "Al Kutayfah",
+      "slug": "al-kutayfah"
+    },
+    {
+      "city_id": 3516,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السيبة",
+      "name_en": "As Syabah",
+      "slug": "as-syabah"
+    },
+    {
+      "city_id": 3517,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المرزوق",
+      "name_en": "Al Marzuq",
+      "slug": "al-marzuq-3517"
+    },
+    {
+      "city_id": 3518,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحريقة",
+      "name_en": "Al Hariqah",
+      "slug": "al-hariqah-3518"
+    },
+    {
+      "city_id": 3519,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الرد",
+      "name_en": "Ar Radd",
+      "slug": "ar-radd"
+    },
+    {
+      "city_id": 3520,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "دودة",
+      "name_en": "Dudah",
+      "slug": "dudah"
+    },
+    {
+      "city_id": 3521,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدوشية",
+      "name_en": "Ad Dawshiyah",
+      "slug": "ad-dawshiyah"
+    },
+    {
+      "city_id": 3522,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "أم الحجل",
+      "name_en": "Umm Al Hajal",
+      "slug": "umm-al-hajal"
+    },
+    {
+      "city_id": 3523,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المقيدر",
+      "name_en": "Al Muqaydir",
+      "slug": "al-muqaydir"
+    },
+    {
+      "city_id": 3524,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السلامة",
+      "name_en": "As Salamah",
+      "slug": "as-salamah-3524"
+    },
+    {
+      "city_id": 3525,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو عريش",
+      "name_en": "Abu Arish",
+      "slug": "abu-arish"
+    },
+    {
+      "city_id": 3526,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحميرة",
+      "name_en": "Al Humayrah",
+      "slug": "al-humayrah-3526"
+    },
+    {
+      "city_id": 3527,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "فلس",
+      "name_en": "Falas",
+      "slug": "falas"
+    },
+    {
+      "city_id": 3528,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "حاكمة",
+      "name_en": "Hakimah",
+      "slug": "hakimah-3528"
+    },
+    {
+      "city_id": 3529,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الصيابة",
+      "name_en": "As Sayyabah",
+      "slug": "as-sayyabah"
+    },
+    {
+      "city_id": 3530,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العباسية",
+      "name_en": "Al Abbasiyah",
+      "slug": "al-abbasiyah-3530"
+    },
+    {
+      "city_id": 3531,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكروس",
+      "name_en": "Al Kurus",
+      "slug": "al-kurus"
+    },
+    {
+      "city_id": 3532,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المبيت",
+      "name_en": "Al Mubayyat",
+      "slug": "al-mubayyat"
+    },
+    {
+      "city_id": 3533,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السرداح",
+      "name_en": "As Sirdah",
+      "slug": "as-sirdah"
+    },
+    {
+      "city_id": 3534,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المعزاب",
+      "name_en": "Al Mizab",
+      "slug": "al-mizab"
+    },
+    {
+      "city_id": 3535,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السودي",
+      "name_en": "As Sudy",
+      "slug": "as-sudy"
+    },
+    {
+      "city_id": 3536,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحلحلة",
+      "name_en": "Al Halhalah",
+      "slug": "al-halhalah"
+    },
+    {
+      "city_id": 3537,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "وعلان",
+      "name_en": "Walan",
+      "slug": "walan"
+    },
+    {
+      "city_id": 3538,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "البيسري",
+      "name_en": "Al Baysuri",
+      "slug": "al-baysuri"
+    },
+    {
+      "city_id": 3539,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ديحمة",
+      "name_en": "Dayhamah",
+      "slug": "dayhamah"
+    },
+    {
+      "city_id": 3540,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخلايف",
+      "name_en": "Al Khalayif",
+      "slug": "al-khalayif"
+    },
+    {
+      "city_id": 3541,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشنامرة",
+      "name_en": "Al Shanamirah",
+      "slug": "al-shanamirah"
+    },
+    {
+      "city_id": 3542,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "صامطة",
+      "name_en": "Samtah",
+      "slug": "samtah"
+    },
+    {
+      "city_id": 3543,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجرادية",
+      "name_en": "Al Juradiyah",
+      "slug": "al-juradiyah"
+    },
+    {
+      "city_id": 3544,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو حجر الاسفل",
+      "name_en": "Abu Hajar Al Asfal",
+      "slug": "abu-hajar-al-asfal"
+    },
+    {
+      "city_id": 3545,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدغارير",
+      "name_en": "Ad Dagharir",
+      "slug": "ad-dagharir"
+    },
+    {
+      "city_id": 3546,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "حاكمة",
+      "name_en": "Hakimah",
+      "slug": "hakimah-3546"
+    },
+    {
+      "city_id": 3547,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "حاكمة الدغارير",
+      "name_en": "Hakimat Ad Dagharir",
+      "slug": "hakimat-ad-dagharir"
+    },
+    {
+      "city_id": 3548,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القفل",
+      "name_en": "Al Qufl",
+      "slug": "al-qufl"
+    },
+    {
+      "city_id": 3549,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السر",
+      "name_en": "As Sirr",
+      "slug": "as-sirr-3549"
+    },
+    {
+      "city_id": 3550,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "اللقية",
+      "name_en": "Al Laqyah",
+      "slug": "al-laqyah"
+    },
+    {
+      "city_id": 3551,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ابو حجر الأعلى",
+      "name_en": "Abu Hajar Al Ala",
+      "slug": "abu-hajar-al-ala"
+    },
+    {
+      "city_id": 3552,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "النجامية",
+      "name_en": "An Nujamiyah",
+      "slug": "an-nujamiyah"
+    },
+    {
+      "city_id": 3553,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "شعب الذئب",
+      "name_en": "Shib Adh Dhib",
+      "slug": "shib-adh-dhib"
+    },
+    {
+      "city_id": 3554,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخوجرة",
+      "name_en": "Al Khawjarah",
+      "slug": "al-khawjarah"
+    },
+    {
+      "city_id": 3555,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الطوال",
+      "name_en": "At Tuwal",
+      "slug": "at-tuwal-3555"
+    },
+    {
+      "city_id": 3556,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المجنة",
+      "name_en": "Al Mijannah",
+      "slug": "al-mijannah"
+    },
+    {
+      "city_id": 3557,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عنطوطة",
+      "name_en": "Antutah",
+      "slug": "antutah"
+    },
+    {
+      "city_id": 3558,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجاظع",
+      "name_en": "Al Jadhi",
+      "slug": "al-jadhi"
+    },
+    {
+      "city_id": 3559,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الركوبة",
+      "name_en": "Ar Rukubah",
+      "slug": "ar-rukubah"
+    },
+    {
+      "city_id": 3560,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مجعر",
+      "name_en": "Mujur",
+      "slug": "mujur"
+    },
+    {
+      "city_id": 3561,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الموسم",
+      "name_en": "Al Muwassam",
+      "slug": "al-muwassam"
+    },
+    {
+      "city_id": 3563,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "أبو طوق",
+      "name_en": "Abu Tawq",
+      "slug": "abu-tawq"
+    },
+    {
+      "city_id": 3564,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العقيل",
+      "name_en": "Al Uqail",
+      "slug": "al-uqail"
+    },
+    {
+      "city_id": 3565,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "ختب",
+      "name_en": "Khatb",
+      "slug": "khatb"
+    },
+    {
+      "city_id": 3566,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "صير",
+      "name_en": "Sir",
+      "slug": "sir"
+    },
+    {
+      "city_id": 3567,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القصار",
+      "name_en": "Al Qsar",
+      "slug": "al-qsar"
+    },
+    {
+      "city_id": 3568,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المحرق",
+      "name_en": "Al Muharq",
+      "slug": "al-muharq"
+    },
+    {
+      "city_id": 3569,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جنابه",
+      "name_en": "Gnaba",
+      "slug": "gnaba"
+    },
+    {
+      "city_id": 3570,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الميناء الجديد",
+      "name_en": "New Port",
+      "slug": "new-port"
+    },
+    {
+      "city_id": 3571,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "فرسان",
+      "name_en": "Farasan",
+      "slug": "farasan-3571"
+    },
+    {
+      "city_id": 3584,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "خبت البقر",
+      "name_en": "Khabt Al Baqar",
+      "slug": "khabt-al-baqar"
+    },
+    {
+      "city_id": 3585,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحنبة",
+      "name_en": "Al Hanabah",
+      "slug": "al-hanabah"
+    },
+    {
+      "city_id": 3586,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "عرق",
+      "name_en": "Irq",
+      "slug": "irq"
+    },
+    {
+      "city_id": 3587,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "أبو العشرة",
+      "name_en": "Abu Al Usharah",
+      "slug": "abu-al-usharah"
+    },
+    {
+      "city_id": 3588,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جرار",
+      "name_en": "Jarrar",
+      "slug": "jarrar-3588"
+    },
+    {
+      "city_id": 3589,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العيشة",
+      "name_en": "Al Ayshah",
+      "slug": "al-ayshah"
+    },
+    {
+      "city_id": 3590,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جبل عبادل",
+      "name_en": "Jabal Abadil",
+      "slug": "jabal-abadil"
+    },
+    {
+      "city_id": 3591,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "البحثة",
+      "name_en": "Al Bihthah",
+      "slug": "al-bihthah"
+    },
+    {
+      "city_id": 3592,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المجازيع",
+      "name_en": "Al Mijazi",
+      "slug": "al-mijazi"
+    },
+    {
+      "city_id": 3593,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المسكية",
+      "name_en": "Al Maskiyah",
+      "slug": "al-maskiyah"
+    },
+    {
+      "city_id": 3594,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "حمية",
+      "name_en": "Hamayah",
+      "slug": "hamayah"
+    },
+    {
+      "city_id": 3595,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السحار",
+      "name_en": "As Sahhar",
+      "slug": "as-sahhar"
+    },
+    {
+      "city_id": 3596,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القصبة",
+      "name_en": "Al Qasabah",
+      "slug": "al-qasabah"
+    },
+    {
+      "city_id": 3597,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العارضة",
+      "name_en": "Al Aridah",
+      "slug": "al-aridah"
+    },
+    {
+      "city_id": 3599,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قيس",
+      "name_en": "Qays",
+      "slug": "qays"
+    },
+    {
+      "city_id": 3600,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الوحلة",
+      "name_en": "Al Wahlah",
+      "slug": "al-wahlah"
+    },
+    {
+      "city_id": 3601,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العشوة",
+      "name_en": "Al Ishwah",
+      "slug": "al-ishwah"
+    },
+    {
+      "city_id": 3602,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الفقهاء",
+      "name_en": "Al Fuqha",
+      "slug": "al-fuqha"
+    },
+    {
+      "city_id": 3603,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "دحيقة",
+      "name_en": "Duhayqah",
+      "slug": "duhayqah"
+    },
+    {
+      "city_id": 3604,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشواجرة",
+      "name_en": "Ash Shawajirah",
+      "slug": "ash-shawajirah"
+    },
+    {
+      "city_id": 3605,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "بخشة",
+      "name_en": "Bakhshah",
+      "slug": "bakhshah"
+    },
+    {
+      "city_id": 3606,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الاساملة",
+      "name_en": "Al Asamilah",
+      "slug": "al-asamilah"
+    },
+    {
+      "city_id": 3607,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخلفة",
+      "name_en": "Al Khalfah",
+      "slug": "al-khalfah"
+    },
+    {
+      "city_id": 3608,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جاضع المحاضين",
+      "name_en": "Jadi Al Mahadin",
+      "slug": "jadi-al-mahadin"
+    },
+    {
+      "city_id": 3609,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخمس",
+      "name_en": "Al Khums",
+      "slug": "al-khums"
+    },
+    {
+      "city_id": 3610,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مستورة",
+      "name_en": "Masturah",
+      "slug": "masturah-3610"
+    },
+    {
+      "city_id": 3611,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السداد",
+      "name_en": "As Sudad",
+      "slug": "as-sudad"
+    },
+    {
+      "city_id": 3612,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الزهبين",
+      "name_en": "Az Zahabayn",
+      "slug": "az-zahabayn"
+    },
+    {
+      "city_id": 3613,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "صنبة",
+      "name_en": "Sanbah",
+      "slug": "sanbah"
+    },
+    {
+      "city_id": 3615,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المعبوج",
+      "name_en": "Al Mabuj",
+      "slug": "al-mabuj"
+    },
+    {
+      "city_id": 3616,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخصاوية",
+      "name_en": "Al Khasawiyah",
+      "slug": "al-khasawiyah"
+    },
+    {
+      "city_id": 3617,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المضاية",
+      "name_en": "Al Madayah",
+      "slug": "al-madayah"
+    },
+    {
+      "city_id": 3618,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "البديع والقرفي",
+      "name_en": "Al Badi Wal Qarafi",
+      "slug": "al-badi-wal-qarafi"
+    },
+    {
+      "city_id": 3619,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مزهرة",
+      "name_en": "Mizhirah",
+      "slug": "mizhirah"
+    },
+    {
+      "city_id": 3620,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الكربوص",
+      "name_en": "Al Karbus",
+      "slug": "al-karbus"
+    },
+    {
+      "city_id": 3621,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الواصلي",
+      "name_en": "Al Wasili",
+      "slug": "al-wasili"
+    },
+    {
+      "city_id": 3622,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الريان",
+      "name_en": "Ar Rayyan",
+      "slug": "ar-rayyan-3622"
+    },
+    {
+      "city_id": 3623,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قامزة",
+      "name_en": "Qamizah",
+      "slug": "qamizah"
+    },
+    {
+      "city_id": 3624,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "شهرين",
+      "name_en": "Shahrayn",
+      "slug": "shahrayn"
+    },
+    {
+      "city_id": 3625,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المروة",
+      "name_en": "Al Marwah",
+      "slug": "al-marwah-3625"
+    },
+    {
+      "city_id": 3626,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الظهر",
+      "name_en": "Adh Dhahar",
+      "slug": "adh-dhahar"
+    },
+    {
+      "city_id": 3627,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "العقم",
+      "name_en": "Al Aqum",
+      "slug": "al-aqum"
+    },
+    {
+      "city_id": 3628,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الصبخاية",
+      "name_en": "As Subkhayah",
+      "slug": "as-subkhayah"
+    },
+    {
+      "city_id": 3629,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جلاح",
+      "name_en": "Jilah",
+      "slug": "jilah"
+    },
+    {
+      "city_id": 3630,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الراحة",
+      "name_en": "Ar Rahah",
+      "slug": "ar-rahah-3630"
+    },
+    {
+      "city_id": 3631,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المهدف",
+      "name_en": "Al Mihdaf",
+      "slug": "al-mihdaf"
+    },
+    {
+      "city_id": 3632,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "مخشوش",
+      "name_en": "Makhshush",
+      "slug": "makhshush-3632"
+    },
+    {
+      "city_id": 3633,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخوبة",
+      "name_en": "Al Khawbah",
+      "slug": "al-khawbah"
+    },
+    {
+      "city_id": 3634,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "القحمة",
+      "name_en": "Al Qahmah",
+      "slug": "al-qahmah-3634"
+    },
+    {
+      "city_id": 3635,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخشل",
+      "name_en": "Al Khashal",
+      "slug": "al-khashal"
+    },
+    {
+      "city_id": 3636,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجابري",
+      "name_en": "Al Jabiri",
+      "slug": "al-jabiri"
+    },
+    {
+      "city_id": 3637,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "جحا",
+      "name_en": "Juha",
+      "slug": "juha"
+    },
+    {
+      "city_id": 3638,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السر",
+      "name_en": "As Sirr",
+      "slug": "as-sirr-3638"
+    },
+    {
+      "city_id": 3639,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الهجنبة",
+      "name_en": "Al Hijanbah",
+      "slug": "al-hijanbah"
+    },
+    {
+      "city_id": 3640,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الشطيفية",
+      "name_en": "Ash Shutayfiyah",
+      "slug": "ash-shutayfiyah"
+    },
+    {
+      "city_id": 3641,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحصامة",
+      "name_en": "Al Hassamah",
+      "slug": "al-hassamah"
+    },
+    {
+      "city_id": 3642,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخضراء الشمالية",
+      "name_en": "Al Khadra Ash Shamaliyah",
+      "slug": "al-khadra-ash-shamaliyah"
+    },
+    {
+      "city_id": 3643,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السويدية",
+      "name_en": "Al Suwaydiyah",
+      "slug": "al-suwaydiyah"
+    },
+    {
+      "city_id": 3644,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "رعشة",
+      "name_en": "Rashah",
+      "slug": "rashah"
+    },
+    {
+      "city_id": 3645,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المجامة",
+      "name_en": "Al Mujammah",
+      "slug": "al-mujammah"
+    },
+    {
+      "city_id": 3646,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المخشلية",
+      "name_en": "Al Mukhashshaliyah",
+      "slug": "al-mukhashshaliyah"
+    },
+    {
+      "city_id": 3647,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحامضة",
+      "name_en": "Al Hamidah",
+      "slug": "al-hamidah"
+    },
+    {
+      "city_id": 3648,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الجعدية",
+      "name_en": "Al Jadiyah",
+      "slug": "al-jadiyah"
+    },
+    {
+      "city_id": 3649,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المحامل",
+      "name_en": "Al Mahamil",
+      "slug": "al-mahamil-3649"
+    },
+    {
+      "city_id": 3650,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحصمة",
+      "name_en": "Al Hasamah",
+      "slug": "al-hasamah"
+    },
+    {
+      "city_id": 3651,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "حاكمة",
+      "name_en": "Hakimah",
+      "slug": "hakimah-3651"
+    },
+    {
+      "city_id": 3652,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "احد المسارحة",
+      "name_en": "Ahad Al Musarihah",
+      "slug": "ahad-al-musarihah"
+    },
+    {
+      "city_id": 3653,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحجفار",
+      "name_en": "Al Hijfar",
+      "slug": "al-hijfar"
+    },
+    {
+      "city_id": 3654,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الطاهرية",
+      "name_en": "At Tahiriyah",
+      "slug": "at-tahiriyah"
+    },
+    {
+      "city_id": 3655,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحضرور",
+      "name_en": "Al Hadrur",
+      "slug": "al-hadrur"
+    },
+    {
+      "city_id": 3656,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الدريعية",
+      "name_en": "Ad Durayiyah",
+      "slug": "ad-durayiyah"
+    },
+    {
+      "city_id": 3657,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "البدوي",
+      "name_en": "Al Badawi",
+      "slug": "al-badawi"
+    },
+    {
+      "city_id": 3658,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الهلية",
+      "name_en": "Al Halliyah",
+      "slug": "al-halliyah"
+    },
+    {
+      "city_id": 3659,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحنيني",
+      "name_en": "Al Hanini",
+      "slug": "al-hanini"
+    },
+    {
+      "city_id": 3660,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "قمعة",
+      "name_en": "Qamaah",
+      "slug": "qamaah"
+    },
+    {
+      "city_id": 3661,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المنجارة",
+      "name_en": "Al Minjarah",
+      "slug": "al-minjarah-3661"
+    },
+    {
+      "city_id": 3662,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السودي",
+      "name_en": "As Sawadi",
+      "slug": "as-sawadi"
+    },
+    {
+      "city_id": 3663,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "المحطة",
+      "name_en": "Al Mahattah",
+      "slug": "al-mahattah-3663"
+    },
+    {
+      "city_id": 3664,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الحقلة",
+      "name_en": "Al Haqlah",
+      "slug": "al-haqlah"
+    },
+    {
+      "city_id": 3665,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "أبو الرديف",
+      "name_en": "Abu Ar Radif",
+      "slug": "abu-ar-radif"
+    },
+    {
+      "city_id": 3667,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "الخارش",
+      "name_en": "Al Kharesh",
+      "slug": "al-kharesh"
+    },
+    {
+      "city_id": 3668,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "السهي",
+      "name_en": "As Sahi",
+      "slug": "as-sahi"
+    },
+    {
+      "city_id": 3669,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "رمادا",
+      "name_en": "Ramada",
+      "slug": "ramada"
+    },
+    {
+      "city_id": 3670,
+      "region_id": 10,
+      "region_ar": "جازان",
+      "region_en": "Jazan",
+      "region_slug": "jazan",
+      "name_ar": "روان",
+      "name_en": "Rowan",
+      "slug": "rowan"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة جازان (Cities of Jazan) - تحميل مجاني",
+    "description": "قائمة مدن منطقة جازان (Jazan) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Jazan administrative region of Saudi Arabia (region_id=10). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 244 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة جازان (Cities of Jazan) | ListBase",
+    "seo_description": "تحميل مدن منطقة جازان (Cities of Jazan) — 244 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 244 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

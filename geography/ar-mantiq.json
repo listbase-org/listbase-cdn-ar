@@ -1,0 +1,160 @@
+{
+  "id": "ar-mantiq",
+  "name": "المناطق الإدارية في المملكة العربية السعودية (Administrative Regions of Saudi Arabia)",
+  "title": "المناطق الإدارية في المملكة العربية السعودية (Administrative Regions of Saudi Arabia)",
+  "description": "قائمة المناطق الإدارية الـ13 في المملكة العربية السعودية مع الاسم العربي والإنجليزي وعدد المدن والأحياء. List of the 13 first-level administrative regions (مناطق إدارية / manatiq idariyya) of Saudi Arabia, with native Arabic + English names, slug, and counts of cities (مدن) and districts (أحياء) covered by the Manateq registry. Saudi Arabia's 13 regions are established under Royal Decree A/92 (Basic Law of Governance, Article 5 / Provincial System); each region is administered by an emir reporting to the Ministry of Interior.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "num_cities",
+      "label": "Num Cities",
+      "type": "number"
+    },
+    {
+      "key": "num_districts",
+      "label": "Num Districts",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region_id": 1,
+      "name_ar": "الحدود الشمالية",
+      "name_en": "Northern Borders",
+      "slug": "northern-borders",
+      "num_cities": 30,
+      "num_districts": 43
+    },
+    {
+      "region_id": 2,
+      "name_ar": "الجوف",
+      "name_en": "Al Jawf",
+      "slug": "al-jawf",
+      "num_cities": 37,
+      "num_districts": 61
+    },
+    {
+      "region_id": 3,
+      "name_ar": "تبوك",
+      "name_en": "Tabuk",
+      "slug": "tabuk",
+      "num_cities": 132,
+      "num_districts": 67
+    },
+    {
+      "region_id": 4,
+      "name_ar": "حائل",
+      "name_en": "Hail",
+      "slug": "hail",
+      "num_cities": 283,
+      "num_districts": 41
+    },
+    {
+      "region_id": 5,
+      "name_ar": "القصيم",
+      "name_en": "Al Qassim",
+      "slug": "al-qassim",
+      "num_cities": 389,
+      "num_districts": 241
+    },
+    {
+      "region_id": 6,
+      "name_ar": "الرياض",
+      "name_en": "Ar Riyadh",
+      "slug": "ar-riyadh",
+      "num_cities": 626,
+      "num_districts": 415
+    },
+    {
+      "region_id": 7,
+      "name_ar": "المدينة المنورة",
+      "name_en": "Al Madinah",
+      "slug": "al-madinah",
+      "num_cities": 298,
+      "num_districts": 186
+    },
+    {
+      "region_id": 8,
+      "name_ar": "عسير",
+      "name_en": "Asir",
+      "slug": "asir",
+      "num_cities": 632,
+      "num_districts": 185
+    },
+    {
+      "region_id": 9,
+      "name_ar": "الباحة",
+      "name_en": "Al Baha",
+      "slug": "al-baha",
+      "num_cities": 117,
+      "num_districts": 9
+    },
+    {
+      "region_id": 10,
+      "name_ar": "جازان",
+      "name_en": "Jazan",
+      "slug": "jazan",
+      "num_cities": 244,
+      "num_districts": 92
+    },
+    {
+      "region_id": 11,
+      "name_ar": "مكة المكرمة",
+      "name_en": "Makkah",
+      "slug": "makkah",
+      "num_cities": 605,
+      "num_districts": 257
+    },
+    {
+      "region_id": 12,
+      "name_ar": "نجران",
+      "name_en": "Najran",
+      "slug": "najran",
+      "num_cities": 55,
+      "num_districts": 44
+    },
+    {
+      "region_id": 13,
+      "name_ar": "الشرقية",
+      "name_en": "Eastern",
+      "slug": "eastern",
+      "num_cities": 216,
+      "num_districts": 468
+    }
+  ],
+  "meta": {
+    "title": "المناطق الإدارية في المملكة العربية السعودية (Administrative Regions of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة المناطق الإدارية الـ13 في المملكة العربية السعودية مع الاسم العربي والإنجليزي وعدد المدن والأحياء. List of the 13 first-level administrative regions (مناطق إدارية / manatiq idariyya) of Saudi Arabia, with native Arabic + English names, slug, and counts of cities (مدن) and districts (أحياء) covered by the Manateq registry. Saudi Arabia's 13 regions are established under Royal Decree A/92 (Basic Law of Governance, Article 5 / Provincial System); each region is administered by an emir reporting to the Ministry of Interior. يحتوي على 13 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المناطق الإدارية في المملكة العربية السعودية (Administrative Regions of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المناطق الإدارية في المملكة العربية السعودية (Administrative Regions of Saudi Arabia) — 13 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 13 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

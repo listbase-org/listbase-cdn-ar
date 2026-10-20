@@ -1,0 +1,3956 @@
+{
+  "id": "ar-al-qassim-mudun",
+  "name": "مدن منطقة القصيم (Cities of Al Qassim)",
+  "title": "مدن منطقة القصيم (Cities of Al Qassim)",
+  "description": "قائمة مدن منطقة القصيم (Al Qassim) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Qassim administrative region of Saudi Arabia (region_id=5). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 389,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 11,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بريدة",
+      "name_en": "Buraydah",
+      "slug": "buraydah"
+    },
+    {
+      "city_id": 80,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عنيزة",
+      "name_en": "Unayzah",
+      "slug": "unayzah"
+    },
+    {
+      "city_id": 910,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوطاة",
+      "name_en": "Al Wutah",
+      "slug": "al-wutah-910"
+    },
+    {
+      "city_id": 911,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "غضي",
+      "name_en": "Ghudayy",
+      "slug": "ghudayy"
+    },
+    {
+      "city_id": 912,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحيطان",
+      "name_en": "Al Hitan",
+      "slug": "al-hitan"
+    },
+    {
+      "city_id": 913,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصريف",
+      "name_en": "As Sarif",
+      "slug": "as-sarif"
+    },
+    {
+      "city_id": 914,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفايزية",
+      "name_en": "Al Fayziyah",
+      "slug": "al-fayziyah"
+    },
+    {
+      "city_id": 915,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصعيبية",
+      "name_en": "As Suaybiyah",
+      "slug": "as-suaybiyah"
+    },
+    {
+      "city_id": 916,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نقرة العمارين",
+      "name_en": "Nuqrat Al Amarin",
+      "slug": "nuqrat-al-amarin"
+    },
+    {
+      "city_id": 917,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رغيلة",
+      "name_en": "Rughaylah",
+      "slug": "rughaylah"
+    },
+    {
+      "city_id": 918,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الدغمانيات",
+      "name_en": "Mazari Ad Daghmaniyat",
+      "slug": "mazari-ad-daghmaniyat"
+    },
+    {
+      "city_id": 919,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الراشد",
+      "name_en": "Mazari Ar Rashid",
+      "slug": "mazari-ar-rashid"
+    },
+    {
+      "city_id": 920,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العليا",
+      "name_en": "Al Ulayya",
+      "slug": "al-ulayya-920"
+    },
+    {
+      "city_id": 921,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-921"
+    },
+    {
+      "city_id": 922,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أبلق",
+      "name_en": "Ablaq",
+      "slug": "ablaq"
+    },
+    {
+      "city_id": 923,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ضراس",
+      "name_en": "Diras",
+      "slug": "diras"
+    },
+    {
+      "city_id": 924,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم مكرية",
+      "name_en": "Umm Makriyah",
+      "slug": "umm-makriyah"
+    },
+    {
+      "city_id": 925,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخناصة",
+      "name_en": "Al Khinnasah",
+      "slug": "al-khinnasah"
+    },
+    {
+      "city_id": 926,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الصقيريات",
+      "name_en": "Mazari As Suqayriyat",
+      "slug": "mazari-as-suqayriyat"
+    },
+    {
+      "city_id": 927,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رياض الرماح",
+      "name_en": "Riyad Ar Rimah",
+      "slug": "riyad-ar-rimah"
+    },
+    {
+      "city_id": 928,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-928"
+    },
+    {
+      "city_id": 929,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روض ابن كميان",
+      "name_en": "Rawd Ibn Kumayyan",
+      "slug": "rawd-ibn-kumayyan"
+    },
+    {
+      "city_id": 930,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القرو",
+      "name_en": "Al Qaru",
+      "slug": "al-qaru"
+    },
+    {
+      "city_id": 931,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحديدية",
+      "name_en": "Al Hadidiyah",
+      "slug": "al-hadidiyah"
+    },
+    {
+      "city_id": 932,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البعيثة",
+      "name_en": "Al Biithah",
+      "slug": "al-biithah"
+    },
+    {
+      "city_id": 933,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصغيرية",
+      "name_en": "As Sughayriyah",
+      "slug": "as-sughayriyah"
+    },
+    {
+      "city_id": 934,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "حويلان",
+      "name_en": "Huwaylan",
+      "slug": "huwaylan"
+    },
+    {
+      "city_id": 935,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصباخ",
+      "name_en": "As Subakh",
+      "slug": "as-subakh"
+    },
+    {
+      "city_id": 936,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "اللسيب",
+      "name_en": "Al Lusayb",
+      "slug": "al-lusayb"
+    },
+    {
+      "city_id": 937,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الدعيسة",
+      "name_en": "Ad Daisah",
+      "slug": "ad-daisah"
+    },
+    {
+      "city_id": 938,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العاقول",
+      "name_en": "Al Aqul",
+      "slug": "al-aqul-938"
+    },
+    {
+      "city_id": 939,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البصر",
+      "name_en": "Al Busur",
+      "slug": "al-busur"
+    },
+    {
+      "city_id": 941,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطرفية",
+      "name_en": "At Turfiyah",
+      "slug": "at-turfiyah"
+    },
+    {
+      "city_id": 942,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القرعاء",
+      "name_en": "Al Qara",
+      "slug": "al-qara-942"
+    },
+    {
+      "city_id": 943,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المليداء",
+      "name_en": "Al Mulayda",
+      "slug": "al-mulayda"
+    },
+    {
+      "city_id": 944,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البطين",
+      "name_en": "Al Butayn",
+      "slug": "al-butayn"
+    },
+    {
+      "city_id": 945,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "محير الترمس",
+      "name_en": "Mihir At Turmus",
+      "slug": "mihir-at-turmus"
+    },
+    {
+      "city_id": 946,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "شري",
+      "name_en": "Shari",
+      "slug": "shari"
+    },
+    {
+      "city_id": 947,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشقة العليا",
+      "name_en": "Ash Shiqqah Al Ulya",
+      "slug": "ash-shiqqah-al-ulya"
+    },
+    {
+      "city_id": 948,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشقة السفلى",
+      "name_en": "Ash Shiqqah As Suflah",
+      "slug": "ash-shiqqah-as-suflah"
+    },
+    {
+      "city_id": 949,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الزبيرة",
+      "name_en": "Az Zubayrah",
+      "slug": "az-zubayrah"
+    },
+    {
+      "city_id": 950,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قصيباء",
+      "name_en": "Qusayba",
+      "slug": "qusayba-950"
+    },
+    {
+      "city_id": 951,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القوارة",
+      "name_en": "Al Quwarah",
+      "slug": "al-quwarah"
+    },
+    {
+      "city_id": 952,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهدية",
+      "name_en": "Al Hudayyah",
+      "slug": "al-hudayyah-952"
+    },
+    {
+      "city_id": 953,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الغماس",
+      "name_en": "Al Ghammas",
+      "slug": "al-ghammas"
+    },
+    {
+      "city_id": 954,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مدرج",
+      "name_en": "Mudarraj",
+      "slug": "mudarraj"
+    },
+    {
+      "city_id": 955,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قبة",
+      "name_en": "Qibah",
+      "slug": "qibah"
+    },
+    {
+      "city_id": 1204,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطراق",
+      "name_en": "At Tiraq",
+      "slug": "at-tiraq-1204"
+    },
+    {
+      "city_id": 1957,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السالمية",
+      "name_en": "As Salmiyah",
+      "slug": "as-salmiyah"
+    },
+    {
+      "city_id": 1958,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المريديسية",
+      "name_en": "Al Muraydisiyah",
+      "slug": "al-muraydisiyah"
+    },
+    {
+      "city_id": 1959,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصفراء",
+      "name_en": "As Safra",
+      "slug": "as-safra-1959"
+    },
+    {
+      "city_id": 1960,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "خب روضان",
+      "name_en": "Khabb Rawdan",
+      "slug": "khabb-rawdan"
+    },
+    {
+      "city_id": 1961,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المنتزة",
+      "name_en": "Al Muntazah",
+      "slug": "al-muntazah"
+    },
+    {
+      "city_id": 1962,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مشرفة",
+      "name_en": "Mushrifah",
+      "slug": "mushrifah-1962"
+    },
+    {
+      "city_id": 1979,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قصر العبد الله",
+      "name_en": "Qasr Al Abdallah",
+      "slug": "qasr-al-abdallah"
+    },
+    {
+      "city_id": 1980,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الحفيرات",
+      "name_en": "Mazari Al Hufayrat",
+      "slug": "mazari-al-hufayrat"
+    },
+    {
+      "city_id": 1981,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشنانة",
+      "name_en": "Ash Shananah",
+      "slug": "ash-shananah"
+    },
+    {
+      "city_id": 1982,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السمراء",
+      "name_en": "As Samra",
+      "slug": "as-samra"
+    },
+    {
+      "city_id": 1983,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العطشان",
+      "name_en": "Al Atshan",
+      "slug": "al-atshan"
+    },
+    {
+      "city_id": 1984,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السيق",
+      "name_en": "As Siq",
+      "slug": "as-siq"
+    },
+    {
+      "city_id": 1985,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القعرة",
+      "name_en": "Al Qaarah",
+      "slug": "al-qaarah-1985"
+    },
+    {
+      "city_id": 1986,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الاسياح",
+      "name_en": "Al Asyah",
+      "slug": "al-asyah"
+    },
+    {
+      "city_id": 1987,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "التنومة",
+      "name_en": "At Tannumah",
+      "slug": "at-tannumah"
+    },
+    {
+      "city_id": 1988,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البرود",
+      "name_en": "Al Burud",
+      "slug": "al-burud-1988"
+    },
+    {
+      "city_id": 1989,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "خصيبة",
+      "name_en": "Khusayyibah",
+      "slug": "khusayyibah"
+    },
+    {
+      "city_id": 1990,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "طريف",
+      "name_en": "Turayf",
+      "slug": "turayf"
+    },
+    {
+      "city_id": 1991,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البندرية",
+      "name_en": "Al Bandariyah",
+      "slug": "al-bandariyah"
+    },
+    {
+      "city_id": 1992,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "حنيظل",
+      "name_en": "Hunaydhil",
+      "slug": "hunaydhil"
+    },
+    {
+      "city_id": 1993,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجعلة",
+      "name_en": "Al Jaalah",
+      "slug": "al-jaalah"
+    },
+    {
+      "city_id": 1994,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ابا الدود",
+      "name_en": "Aba Ad Dud",
+      "slug": "aba-ad-dud"
+    },
+    {
+      "city_id": 1995,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ضيدة",
+      "name_en": "Didah",
+      "slug": "didah"
+    },
+    {
+      "city_id": 1996,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النمرية",
+      "name_en": "An Nimriyah",
+      "slug": "an-nimriyah"
+    },
+    {
+      "city_id": 1997,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المطيوي الشمالي",
+      "name_en": "Al Mutaywi Ash Shamali",
+      "slug": "al-mutaywi-ash-shamali"
+    },
+    {
+      "city_id": 1998,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المحلاني",
+      "name_en": "Al Mahalani",
+      "slug": "al-mahalani"
+    },
+    {
+      "city_id": 1999,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عيون الجواء",
+      "name_en": "Uyun Al Jawa",
+      "slug": "uyun-al-jawa"
+    },
+    {
+      "city_id": 2000,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أوثال",
+      "name_en": "Uthal",
+      "slug": "uthal"
+    },
+    {
+      "city_id": 2001,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "غاف الجواء",
+      "name_en": "Ghaf Al Jiwa",
+      "slug": "ghaf-al-jiwa"
+    },
+    {
+      "city_id": 2002,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روض الجواء",
+      "name_en": "Rawd Al Jiwa",
+      "slug": "rawd-al-jiwa"
+    },
+    {
+      "city_id": 2389,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مطربة",
+      "name_en": "Mutribah",
+      "slug": "mutribah-2389"
+    },
+    {
+      "city_id": 2390,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطرفية الغربية",
+      "name_en": "At Turfiyah Al Gharbiyah",
+      "slug": "at-turfiyah-al-gharbiyah"
+    },
+    {
+      "city_id": 2391,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البديعة",
+      "name_en": "Al Bidayyiah",
+      "slug": "al-bidayyiah-2391"
+    },
+    {
+      "city_id": 2392,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عريفجان ساحوق",
+      "name_en": "Urayfjan Sahuq",
+      "slug": "urayfjan-sahuq"
+    },
+    {
+      "city_id": 2393,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصليبي",
+      "name_en": "As Sulaybi",
+      "slug": "as-sulaybi"
+    },
+    {
+      "city_id": 2394,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الزهيرية",
+      "name_en": "Az Zihayriyah",
+      "slug": "az-zihayriyah"
+    },
+    {
+      "city_id": 2395,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روضة قرادان",
+      "name_en": "Rawdat Qiradan",
+      "slug": "rawdat-qiradan"
+    },
+    {
+      "city_id": 2396,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أبانات",
+      "name_en": "Abanat",
+      "slug": "abanat"
+    },
+    {
+      "city_id": 2397,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحنينية",
+      "name_en": "Al Hinayniyah",
+      "slug": "al-hinayniyah"
+    },
+    {
+      "city_id": 2398,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "خضراء",
+      "name_en": "Khadra",
+      "slug": "khadra-2398"
+    },
+    {
+      "city_id": 2399,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ضليع رشيد",
+      "name_en": "Dulay Rashid",
+      "slug": "dulay-rashid"
+    },
+    {
+      "city_id": 2400,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخطيم",
+      "name_en": "Al Khutaym",
+      "slug": "al-khutaym-2400"
+    },
+    {
+      "city_id": 2401,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عطا",
+      "name_en": "Ata",
+      "slug": "ata"
+    },
+    {
+      "city_id": 2402,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عطي",
+      "name_en": "Utayy",
+      "slug": "utayy"
+    },
+    {
+      "city_id": 2403,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهمجة",
+      "name_en": "Al Hamjah",
+      "slug": "al-hamjah-2403"
+    },
+    {
+      "city_id": 2404,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رفائع اللهيب",
+      "name_en": "Rufai Al Luhayb",
+      "slug": "rufai-al-luhayb"
+    },
+    {
+      "city_id": 2405,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجرذاوية",
+      "name_en": "Al Jardhawiyah",
+      "slug": "al-jardhawiyah"
+    },
+    {
+      "city_id": 2406,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الركنة",
+      "name_en": "Ar Ruknah",
+      "slug": "ar-ruknah"
+    },
+    {
+      "city_id": 2407,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البتراء",
+      "name_en": "Al Batra",
+      "slug": "al-batra"
+    },
+    {
+      "city_id": 2408,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-2408"
+    },
+    {
+      "city_id": 2409,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحوطة",
+      "name_en": "Al Hawtah",
+      "slug": "al-hawtah-2409"
+    },
+    {
+      "city_id": 2410,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبيل",
+      "name_en": "Al Ubayl",
+      "slug": "al-ubayl"
+    },
+    {
+      "city_id": 2411,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوسيطاء",
+      "name_en": "Al Wusayta",
+      "slug": "al-wusayta-2411"
+    },
+    {
+      "city_id": 2412,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نفجة",
+      "name_en": "Nafjah",
+      "slug": "nafjah-2412"
+    },
+    {
+      "city_id": 2413,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الغيدانية",
+      "name_en": "Al Ghaydaniyah",
+      "slug": "al-ghaydaniyah"
+    },
+    {
+      "city_id": 2414,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبلة",
+      "name_en": "Al Abla",
+      "slug": "al-abla-2414"
+    },
+    {
+      "city_id": 2415,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الجراوة",
+      "name_en": "Mazari Al Jirawah",
+      "slug": "mazari-al-jirawah"
+    },
+    {
+      "city_id": 2416,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السميراء",
+      "name_en": "As Sumayra",
+      "slug": "as-sumayra"
+    },
+    {
+      "city_id": 2417,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرضيمة",
+      "name_en": "Al Rudaymah",
+      "slug": "al-rudaymah"
+    },
+    {
+      "city_id": 2418,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القوعي",
+      "name_en": "Al Qawi",
+      "slug": "al-qawi"
+    },
+    {
+      "city_id": 2419,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع العقل",
+      "name_en": "Mazari Al Aql",
+      "slug": "mazari-al-aql"
+    },
+    {
+      "city_id": 2420,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "دخنة",
+      "name_en": "Dukhnah",
+      "slug": "dukhnah"
+    },
+    {
+      "city_id": 2421,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرس",
+      "name_en": "Ar Rass",
+      "slug": "ar-rass"
+    },
+    {
+      "city_id": 2422,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشنانة",
+      "name_en": "Ash Shinanah",
+      "slug": "ash-shinanah"
+    },
+    {
+      "city_id": 2423,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشورقية",
+      "name_en": "Ash Shawraqiyah",
+      "slug": "ash-shawraqiyah"
+    },
+    {
+      "city_id": 2424,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-2424"
+    },
+    {
+      "city_id": 2425,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-2425"
+    },
+    {
+      "city_id": 2426,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطلعة",
+      "name_en": "At Talah",
+      "slug": "at-talah"
+    },
+    {
+      "city_id": 2427,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مظيفيرة",
+      "name_en": "Mudhayfirah",
+      "slug": "mudhayfirah"
+    },
+    {
+      "city_id": 2428,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوشحاء",
+      "name_en": "Al Washha",
+      "slug": "al-washha"
+    },
+    {
+      "city_id": 2429,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهيشة",
+      "name_en": "Al Hishah",
+      "slug": "al-hishah"
+    },
+    {
+      "city_id": 2430,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazm",
+      "slug": "al-hazm-2430"
+    },
+    {
+      "city_id": 2431,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العدان",
+      "name_en": "Al Adan",
+      "slug": "al-adan"
+    },
+    {
+      "city_id": 2432,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عين العقيلي",
+      "name_en": "Ayn Al Uqayli",
+      "slug": "ayn-al-uqayli"
+    },
+    {
+      "city_id": 2433,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روضة اللواف",
+      "name_en": "Rawdat Al Lawwaf",
+      "slug": "rawdat-al-lawwaf"
+    },
+    {
+      "city_id": 2434,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العكرشية",
+      "name_en": "Al Ikrashiyah",
+      "slug": "al-ikrashiyah"
+    },
+    {
+      "city_id": 2435,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "زهلولة",
+      "name_en": "Zihlulah",
+      "slug": "zihlulah"
+    },
+    {
+      "city_id": 2436,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرحيمية",
+      "name_en": "Ar Ruhaymiyah",
+      "slug": "ar-ruhaymiyah-2436"
+    },
+    {
+      "city_id": 2437,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوسطى",
+      "name_en": "Al Wista",
+      "slug": "al-wista"
+    },
+    {
+      "city_id": 2438,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المفيض",
+      "name_en": "Al Mafid",
+      "slug": "al-mafid"
+    },
+    {
+      "city_id": 2439,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المحروقة",
+      "name_en": "Al Mahruqah",
+      "slug": "al-mahruqah"
+    },
+    {
+      "city_id": 2440,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع خريمان",
+      "name_en": "Mazari Khurayman",
+      "slug": "mazari-khurayman"
+    },
+    {
+      "city_id": 2441,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الربقية",
+      "name_en": "Ar Ribqiyah",
+      "slug": "ar-ribqiyah"
+    },
+    {
+      "city_id": 2442,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم طليحة",
+      "name_en": "Umm Tulayhah",
+      "slug": "umm-tulayhah-2442"
+    },
+    {
+      "city_id": 2443,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "فردة",
+      "name_en": "Fardah",
+      "slug": "fardah-2443"
+    },
+    {
+      "city_id": 2444,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الناصرية",
+      "name_en": "An Nasiriyah",
+      "slug": "an-nasiriyah"
+    },
+    {
+      "city_id": 2445,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخرماء الجنوبية",
+      "name_en": "Al Kharma Al Janubiyah",
+      "slug": "al-kharma-al-janubiyah"
+    },
+    {
+      "city_id": 2446,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النعايم",
+      "name_en": "An Naayim",
+      "slug": "an-naayim"
+    },
+    {
+      "city_id": 2447,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "خريمان",
+      "name_en": "Khurayman",
+      "slug": "khurayman"
+    },
+    {
+      "city_id": 2448,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المذنب",
+      "name_en": "Al Midhnab",
+      "slug": "al-midhnab"
+    },
+    {
+      "city_id": 2449,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "علباء",
+      "name_en": "Alba",
+      "slug": "alba"
+    },
+    {
+      "city_id": 2450,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روضة الحسو",
+      "name_en": "Rawdat Al Hisu",
+      "slug": "rawdat-al-hisu"
+    },
+    {
+      "city_id": 2451,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المربع",
+      "name_en": "Al Murabba",
+      "slug": "al-murabba-2451"
+    },
+    {
+      "city_id": 2452,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المحلاوية",
+      "name_en": "Al Muhallawiyah",
+      "slug": "al-muhallawiyah"
+    },
+    {
+      "city_id": 2453,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الحزم",
+      "name_en": "Mazari Al Hazm",
+      "slug": "mazari-al-hazm"
+    },
+    {
+      "city_id": 2454,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ظليم",
+      "name_en": "Dhulyim",
+      "slug": "dhulyim"
+    },
+    {
+      "city_id": 2455,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الباطن",
+      "name_en": "Al Batin",
+      "slug": "al-batin"
+    },
+    {
+      "city_id": 2456,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المرغلة",
+      "name_en": "Al Murghalah",
+      "slug": "al-murghalah"
+    },
+    {
+      "city_id": 2457,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رغابية",
+      "name_en": "Raghabiyah",
+      "slug": "raghabiyah"
+    },
+    {
+      "city_id": 2458,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطعمية",
+      "name_en": "At Tumiyah",
+      "slug": "at-tumiyah"
+    },
+    {
+      "city_id": 2459,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العداين",
+      "name_en": "Al Adayin",
+      "slug": "al-adayin"
+    },
+    {
+      "city_id": 2460,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البويطن",
+      "name_en": "Al Buwaytin",
+      "slug": "al-buwaytin-2460"
+    },
+    {
+      "city_id": 2461,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرقة",
+      "name_en": "Ar Riqa",
+      "slug": "ar-riqa"
+    },
+    {
+      "city_id": 2462,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبلة",
+      "name_en": "Al Ablah",
+      "slug": "al-ablah"
+    },
+    {
+      "city_id": 2463,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروغاني",
+      "name_en": "Ar Rawghany",
+      "slug": "ar-rawghany"
+    },
+    {
+      "city_id": 2465,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العوشزية",
+      "name_en": "Al Awshaziyah",
+      "slug": "al-awshaziyah-2465"
+    },
+    {
+      "city_id": 2466,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "وادى أبو على",
+      "name_en": "Wadi Abu Ali",
+      "slug": "wadi-abu-ali"
+    },
+    {
+      "city_id": 2467,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رياض الخبراء",
+      "name_en": "Riyad Al Khabra",
+      "slug": "riyad-al-khabra"
+    },
+    {
+      "city_id": 2468,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "سمراء عيسى",
+      "name_en": "Samra Isa",
+      "slug": "samra-isa"
+    },
+    {
+      "city_id": 2469,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "صبيح",
+      "name_en": "Subayh",
+      "slug": "subayh"
+    },
+    {
+      "city_id": 2470,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نبيها",
+      "name_en": "Nubayha",
+      "slug": "nubayha"
+    },
+    {
+      "city_id": 2471,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشبيبة",
+      "name_en": "Ash Shibibiyah",
+      "slug": "ash-shibibiyah"
+    },
+    {
+      "city_id": 2472,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البدائع أم تلعة",
+      "name_en": "Al Badai Umm Talah",
+      "slug": "al-badai-umm-talah"
+    },
+    {
+      "city_id": 2473,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البدائع العليا",
+      "name_en": "Al Badai Al Ulya",
+      "slug": "al-badai-al-ulya"
+    },
+    {
+      "city_id": 2474,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبيلة",
+      "name_en": "Al Ubaylah",
+      "slug": "al-ubaylah-2474"
+    },
+    {
+      "city_id": 2475,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزرعة عبلا",
+      "name_en": "Mazraat At Abla",
+      "slug": "mazraat-at-abla"
+    },
+    {
+      "city_id": 2476,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عبل عبلا",
+      "name_en": "Abal Abla",
+      "slug": "abal-abla"
+    },
+    {
+      "city_id": 2477,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-2477"
+    },
+    {
+      "city_id": 2478,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبدلية",
+      "name_en": "Al Abdaliyah",
+      "slug": "al-abdaliyah"
+    },
+    {
+      "city_id": 2479,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحجناوي",
+      "name_en": "Al Hajnawi",
+      "slug": "al-hajnawi"
+    },
+    {
+      "city_id": 2480,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الدحلة",
+      "name_en": "Ad Dahlah",
+      "slug": "ad-dahlah"
+    },
+    {
+      "city_id": 2481,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البدائع",
+      "name_en": "Al Badai",
+      "slug": "al-badai-2481"
+    },
+    {
+      "city_id": 2482,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "دهيماء",
+      "name_en": "Duhayma",
+      "slug": "duhayma"
+    },
+    {
+      "city_id": 2483,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الابرق",
+      "name_en": "Al Abraq",
+      "slug": "al-abraq-2483"
+    },
+    {
+      "city_id": 2484,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العبيد",
+      "name_en": "Al Ubayd",
+      "slug": "al-ubayd-2484"
+    },
+    {
+      "city_id": 2485,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النفيد",
+      "name_en": "An Nufayyid",
+      "slug": "an-nufayyid"
+    },
+    {
+      "city_id": 2486,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخبراء",
+      "name_en": "Al Khabra",
+      "slug": "al-khabra"
+    },
+    {
+      "city_id": 2487,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المحوى",
+      "name_en": "Al Mahawa",
+      "slug": "al-mahawa-2487"
+    },
+    {
+      "city_id": 2488,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "فيضة ذيبان",
+      "name_en": "Faydat Dhiban",
+      "slug": "faydat-dhiban"
+    },
+    {
+      "city_id": 2489,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مشرف",
+      "name_en": "Mushrif",
+      "slug": "mushrif-2489"
+    },
+    {
+      "city_id": 2490,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العابر",
+      "name_en": "Al Abir",
+      "slug": "al-abir"
+    },
+    {
+      "city_id": 2491,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الحقباء",
+      "name_en": "Mazari Al Haqba",
+      "slug": "mazari-al-haqba"
+    },
+    {
+      "city_id": 2492,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحجبة",
+      "name_en": "Al Hajbah",
+      "slug": "al-hajbah"
+    },
+    {
+      "city_id": 2493,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الظبة",
+      "name_en": "Adh Dhabah",
+      "slug": "adh-dhabah"
+    },
+    {
+      "city_id": 2494,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الدعثة",
+      "name_en": "Ad Daathah",
+      "slug": "ad-daathah"
+    },
+    {
+      "city_id": 2495,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الضبة",
+      "name_en": "Ad Dabbah",
+      "slug": "ad-dabbah"
+    },
+    {
+      "city_id": 2496,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحنية",
+      "name_en": "Al Haniyah",
+      "slug": "al-haniyah"
+    },
+    {
+      "city_id": 2497,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ابو خشبة",
+      "name_en": "Abu Khashabah",
+      "slug": "abu-khashabah"
+    },
+    {
+      "city_id": 2498,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم الخراسع",
+      "name_en": "Umm Al Kharasi",
+      "slug": "umm-al-kharasi"
+    },
+    {
+      "city_id": 2499,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الثامرية",
+      "name_en": "Ath Thamiriyah",
+      "slug": "ath-thamiriyah"
+    },
+    {
+      "city_id": 2500,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الداث",
+      "name_en": "Ad Dath",
+      "slug": "ad-dath"
+    },
+    {
+      "city_id": 2501,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مهدومة",
+      "name_en": "Mahdumah",
+      "slug": "mahdumah"
+    },
+    {
+      "city_id": 2502,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع أم أرطى",
+      "name_en": "Mazari Umm Arta",
+      "slug": "mazari-umm-arta"
+    },
+    {
+      "city_id": 2503,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجرارية",
+      "name_en": "Al Jarrariyah",
+      "slug": "al-jarrariyah"
+    },
+    {
+      "city_id": 2504,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "خربشاء",
+      "name_en": "Kharbasha",
+      "slug": "kharbasha"
+    },
+    {
+      "city_id": 2505,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الظاهرية الشمالية",
+      "name_en": "Adh Dhahiriyah Ash Shamaliyah",
+      "slug": "adh-dhahiriyah-ash-shamaliyah"
+    },
+    {
+      "city_id": 2506,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الظاهرية الجنوبية",
+      "name_en": "Adh Dhahiriyah Al Janubiyah",
+      "slug": "adh-dhahiriyah-al-janubiyah"
+    },
+    {
+      "city_id": 2507,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الناعمة",
+      "name_en": "An Naimah",
+      "slug": "an-naimah"
+    },
+    {
+      "city_id": 2508,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوطاة",
+      "name_en": "Al Wutah",
+      "slug": "al-wutah-2508"
+    },
+    {
+      "city_id": 2509,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الغضياء",
+      "name_en": "Al Ghadya",
+      "slug": "al-ghadya"
+    },
+    {
+      "city_id": 2510,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع ثويدج",
+      "name_en": "Mazari Thuwaydij",
+      "slug": "mazari-thuwaydij"
+    },
+    {
+      "city_id": 2511,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجرير",
+      "name_en": "Al Jarir",
+      "slug": "al-jarir"
+    },
+    {
+      "city_id": 2512,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القيصومة",
+      "name_en": "Al Qaysumah",
+      "slug": "al-qaysumah-2512"
+    },
+    {
+      "city_id": 2580,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-2580"
+    },
+    {
+      "city_id": 2581,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع الصغوي",
+      "name_en": "Badai As Sighwa",
+      "slug": "badai-as-sighwa"
+    },
+    {
+      "city_id": 2582,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصغوى",
+      "name_en": "As Sighawa",
+      "slug": "as-sighawa"
+    },
+    {
+      "city_id": 2583,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "فيضة يكلب",
+      "name_en": "Faydat Yaklib",
+      "slug": "faydat-yaklib"
+    },
+    {
+      "city_id": 2584,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع القرائن",
+      "name_en": "Mazari Al Qarain",
+      "slug": "mazari-al-qarain"
+    },
+    {
+      "city_id": 2585,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النويبات",
+      "name_en": "An Nuwaybat",
+      "slug": "an-nuwaybat"
+    },
+    {
+      "city_id": 2586,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزرعة مشرفة",
+      "name_en": "Mazraat Mishrifah",
+      "slug": "mazraat-mishrifah"
+    },
+    {
+      "city_id": 2587,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المخرم",
+      "name_en": "Al Makhram",
+      "slug": "al-makhram"
+    },
+    {
+      "city_id": 2588,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطراق",
+      "name_en": "At Tiraq",
+      "slug": "at-tiraq-2588"
+    },
+    {
+      "city_id": 2589,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصلبية",
+      "name_en": "As Sulubiyah",
+      "slug": "as-sulubiyah-2589"
+    },
+    {
+      "city_id": 2607,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نفجة",
+      "name_en": "Nafjah",
+      "slug": "nafjah-2607"
+    },
+    {
+      "city_id": 2608,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-2608"
+    },
+    {
+      "city_id": 2609,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المعدا",
+      "name_en": "Al Maada",
+      "slug": "al-maada-2609"
+    },
+    {
+      "city_id": 2610,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الشيحية",
+      "name_en": "Mazari Ash Shihiyah",
+      "slug": "mazari-ash-shihiyah"
+    },
+    {
+      "city_id": 2611,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشيحية",
+      "name_en": "Ash Shihiyah",
+      "slug": "ash-shihiyah-2611"
+    },
+    {
+      "city_id": 2612,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم قدة",
+      "name_en": "Umm Qiddah",
+      "slug": "umm-qiddah"
+    },
+    {
+      "city_id": 2613,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قليب خنيفسة",
+      "name_en": "Qalib Khunayfisah",
+      "slug": "qalib-khunayfisah"
+    },
+    {
+      "city_id": 2614,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزرعة الغبية",
+      "name_en": "Mazraat Al Ghibyah",
+      "slug": "mazraat-al-ghibyah"
+    },
+    {
+      "city_id": 2615,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم العراد",
+      "name_en": "Umm Al Arad",
+      "slug": "umm-al-arad-2615"
+    },
+    {
+      "city_id": 2616,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الثابتية",
+      "name_en": "Al Thabitiyah",
+      "slug": "al-thabitiyah"
+    },
+    {
+      "city_id": 2617,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بقيعاء الشمالية",
+      "name_en": "Buqaya Ash Shamaliyah",
+      "slug": "buqaya-ash-shamaliyah"
+    },
+    {
+      "city_id": 2618,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الرفائع",
+      "name_en": "Mazari Ar Rufai",
+      "slug": "mazari-ar-rufai"
+    },
+    {
+      "city_id": 2619,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عسيلة",
+      "name_en": "Usaylah",
+      "slug": "usaylah-2619"
+    },
+    {
+      "city_id": 2620,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النجبة",
+      "name_en": "An Nijibah",
+      "slug": "an-nijibah"
+    },
+    {
+      "city_id": 2621,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قليب الرجيمية",
+      "name_en": "Qalib Ar Rujaymiyah",
+      "slug": "qalib-ar-rujaymiyah"
+    },
+    {
+      "city_id": 2622,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عقدة",
+      "name_en": "Uqdah",
+      "slug": "uqdah"
+    },
+    {
+      "city_id": 2623,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم خطوط",
+      "name_en": "Umm Khutut",
+      "slug": "umm-khutut"
+    },
+    {
+      "city_id": 2624,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الوسيطاء",
+      "name_en": "Mazari Al Wusayta",
+      "slug": "mazari-al-wusayta-2624"
+    },
+    {
+      "city_id": 2625,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المكحول",
+      "name_en": "Al Makhul",
+      "slug": "al-makhul"
+    },
+    {
+      "city_id": 2626,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "كحلة",
+      "name_en": "Kahlah",
+      "slug": "kahlah"
+    },
+    {
+      "city_id": 2627,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الأرطاوي الشمالي",
+      "name_en": "Al Artawi Ash Shamali",
+      "slug": "al-artawi-ash-shamali"
+    },
+    {
+      "city_id": 2628,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-2628"
+    },
+    {
+      "city_id": 2629,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهلالية",
+      "name_en": "Al Hilaliyah",
+      "slug": "al-hilaliyah"
+    },
+    {
+      "city_id": 2630,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البكيرية",
+      "name_en": "Al Bukayriyah",
+      "slug": "al-bukayriyah"
+    },
+    {
+      "city_id": 2631,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفويلق",
+      "name_en": "Al Fuwayliq",
+      "slug": "al-fuwayliq-2631"
+    },
+    {
+      "city_id": 2632,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مشاش جرود",
+      "name_en": "Mishash Jurud",
+      "slug": "mishash-jurud"
+    },
+    {
+      "city_id": 2633,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الضلفعة",
+      "name_en": "Ad Dalfaah",
+      "slug": "ad-dalfaah"
+    },
+    {
+      "city_id": 2634,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطوال",
+      "name_en": "At Tuwal",
+      "slug": "at-tuwal-2634"
+    },
+    {
+      "city_id": 2635,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العليا",
+      "name_en": "Al Ulayya",
+      "slug": "al-ulayya-2635"
+    },
+    {
+      "city_id": 2636,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-2636"
+    },
+    {
+      "city_id": 2637,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشباكية",
+      "name_en": "Ash Shabbakiyah",
+      "slug": "ash-shabbakiyah"
+    },
+    {
+      "city_id": 2638,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجابرية",
+      "name_en": "Al Jabriyah",
+      "slug": "al-jabriyah-2638"
+    },
+    {
+      "city_id": 2671,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "طلحة",
+      "name_en": "Talhah",
+      "slug": "talhah"
+    },
+    {
+      "city_id": 2770,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البرجسية",
+      "name_en": "Al Barjasiyah",
+      "slug": "al-barjasiyah"
+    },
+    {
+      "city_id": 2771,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزرعة الزرقاء",
+      "name_en": "Mazraat Az Zarqa",
+      "slug": "mazraat-az-zarqa"
+    },
+    {
+      "city_id": 2772,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع أم ظهيرة",
+      "name_en": "Mazrai Umm Dhuhayrah",
+      "slug": "mazrai-umm-dhuhayrah"
+    },
+    {
+      "city_id": 2773,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النبتى رية",
+      "name_en": "An Nabta Rayyah",
+      "slug": "an-nabta-rayyah"
+    },
+    {
+      "city_id": 2774,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرويضة",
+      "name_en": "Ar Ruwaydah",
+      "slug": "ar-ruwaydah-2774"
+    },
+    {
+      "city_id": 2775,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الركية",
+      "name_en": "Ar Rukayyah",
+      "slug": "ar-rukayyah-2775"
+    },
+    {
+      "city_id": 2776,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم طليحة",
+      "name_en": "Umm Tulayhah",
+      "slug": "umm-tulayhah-2776"
+    },
+    {
+      "city_id": 2777,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشماسية",
+      "name_en": "Ash Shimasiyah",
+      "slug": "ash-shimasiyah"
+    },
+    {
+      "city_id": 2778,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الربيعية",
+      "name_en": "Ar Rubayiyah",
+      "slug": "ar-rubayiyah"
+    },
+    {
+      "city_id": 2779,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العويقلية",
+      "name_en": "Al Uwayqiliyah",
+      "slug": "al-uwayqiliyah"
+    },
+    {
+      "city_id": 2780,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النبقية",
+      "name_en": "An Nubqiyah",
+      "slug": "an-nubqiyah"
+    },
+    {
+      "city_id": 2781,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم حزم",
+      "name_en": "Umm Hazm",
+      "slug": "umm-hazm"
+    },
+    {
+      "city_id": 2783,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القرين",
+      "name_en": "Al Qurayn",
+      "slug": "al-qurayn-2783"
+    },
+    {
+      "city_id": 2784,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهبيرية",
+      "name_en": "Al Hubayriyah",
+      "slug": "al-hubayriyah"
+    },
+    {
+      "city_id": 2785,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البدع",
+      "name_en": "Al Bid",
+      "slug": "al-bid-2785"
+    },
+    {
+      "city_id": 2786,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ساق",
+      "name_en": "Saq",
+      "slug": "saq"
+    },
+    {
+      "city_id": 2787,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشقران",
+      "name_en": "Ash Shuqran",
+      "slug": "ash-shuqran-2787"
+    },
+    {
+      "city_id": 2788,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البكرة",
+      "name_en": "Al Bakrah",
+      "slug": "al-bakrah"
+    },
+    {
+      "city_id": 2789,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "دوبح",
+      "name_en": "Dawbah",
+      "slug": "dawbah"
+    },
+    {
+      "city_id": 2790,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفيضة",
+      "name_en": "Al Faydah",
+      "slug": "al-faydah-2790"
+    },
+    {
+      "city_id": 2791,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "طوال جبيرة",
+      "name_en": "Tuwal Jubayrah",
+      "slug": "tuwal-jubayrah"
+    },
+    {
+      "city_id": 2792,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "جبيرة",
+      "name_en": "Jubayrah",
+      "slug": "jubayrah"
+    },
+    {
+      "city_id": 2793,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرحيمية",
+      "name_en": "Ar Ruhaymiyah",
+      "slug": "ar-ruhaymiyah-2793"
+    },
+    {
+      "city_id": 2843,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مرقان",
+      "name_en": "Maraqan",
+      "slug": "maraqan"
+    },
+    {
+      "city_id": 2844,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الإفيهد",
+      "name_en": "Al Ifayhid",
+      "slug": "al-ifayhid"
+    },
+    {
+      "city_id": 2845,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحمادة",
+      "name_en": "Al Hamadah",
+      "slug": "al-hamadah-2845"
+    },
+    {
+      "city_id": 2846,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أشقر النومانيات",
+      "name_en": "Ashqar An Numaniyat",
+      "slug": "ashqar-an-numaniyat"
+    },
+    {
+      "city_id": 2847,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النومانية",
+      "name_en": "An Numaniyah",
+      "slug": "an-numaniyah"
+    },
+    {
+      "city_id": 2848,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العمودة الجنوبية",
+      "name_en": "Al Amudah Al Janubiyah",
+      "slug": "al-amudah-al-janubiyah"
+    },
+    {
+      "city_id": 2849,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العمودة الشمالية",
+      "name_en": "Al Amudah Ash Shamaliyah",
+      "slug": "al-amudah-ash-shamaliyah"
+    },
+    {
+      "city_id": 2850,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجرير",
+      "name_en": "Al Jurayyir",
+      "slug": "al-jurayyir"
+    },
+    {
+      "city_id": 2851,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الأشيعل",
+      "name_en": "Al Ishayil",
+      "slug": "al-ishayil"
+    },
+    {
+      "city_id": 2852,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القهيبية",
+      "name_en": "Al Qihabiyah",
+      "slug": "al-qihabiyah"
+    },
+    {
+      "city_id": 2853,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشعيفانية",
+      "name_en": "Ash Shifaniyah",
+      "slug": "ash-shifaniyah"
+    },
+    {
+      "city_id": 2854,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المشاش",
+      "name_en": "Al Mishash",
+      "slug": "al-mishash-2854"
+    },
+    {
+      "city_id": 2855,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "دريميحة",
+      "name_en": "Diraymihah",
+      "slug": "diraymihah"
+    },
+    {
+      "city_id": 2856,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المصك",
+      "name_en": "Al Masak",
+      "slug": "al-masak"
+    },
+    {
+      "city_id": 2857,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوسيطة",
+      "name_en": "Al Wasitah",
+      "slug": "al-wasitah"
+    },
+    {
+      "city_id": 2858,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزارع الوسيطاء",
+      "name_en": "Mazari Al Wusayta",
+      "slug": "mazari-al-wusayta-2858"
+    },
+    {
+      "city_id": 2859,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قصر البطاح",
+      "name_en": "Qasr Al Battah",
+      "slug": "qasr-al-battah"
+    },
+    {
+      "city_id": 2860,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السيح",
+      "name_en": "As Sayh",
+      "slug": "as-sayh"
+    },
+    {
+      "city_id": 2861,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحملية",
+      "name_en": "Al Himliyah",
+      "slug": "al-himliyah"
+    },
+    {
+      "city_id": 2862,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصويتية",
+      "name_en": "As Suwaytiyah",
+      "slug": "as-suwaytiyah"
+    },
+    {
+      "city_id": 2863,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الأسامر",
+      "name_en": "Al Asamir",
+      "slug": "al-asamir"
+    },
+    {
+      "city_id": 2864,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الأساس",
+      "name_en": "Al Asas",
+      "slug": "al-asas"
+    },
+    {
+      "city_id": 2865,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أبو نخلة",
+      "name_en": "Abu Nakhlah",
+      "slug": "abu-nakhlah-2865"
+    },
+    {
+      "city_id": 2866,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الشبيكية",
+      "name_en": "Ash Shubaykiyah",
+      "slug": "ash-shubaykiyah"
+    },
+    {
+      "city_id": 2867,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوسيطاء",
+      "name_en": "Al Wusayta",
+      "slug": "al-wusayta-2867"
+    },
+    {
+      "city_id": 2868,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "جديد",
+      "name_en": "Jadid",
+      "slug": "jadid"
+    },
+    {
+      "city_id": 2869,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الطرفاوي",
+      "name_en": "At Tarfawi",
+      "slug": "at-tarfawi-2869"
+    },
+    {
+      "city_id": 2870,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخشيبي",
+      "name_en": "Al Khishaybi",
+      "slug": "al-khishaybi"
+    },
+    {
+      "city_id": 2871,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحجازية",
+      "name_en": "Al Hajjaziyah",
+      "slug": "al-hajjaziyah"
+    },
+    {
+      "city_id": 2986,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الدليمية",
+      "name_en": "Ad Dilaymiyah",
+      "slug": "ad-dilaymiyah"
+    },
+    {
+      "city_id": 2987,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفوارة",
+      "name_en": "Al Fawwarah",
+      "slug": "al-fawwarah-2987"
+    },
+    {
+      "city_id": 2988,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عقلة الصقور",
+      "name_en": "Uqlat As Suqur",
+      "slug": "uqlat-as-suqur"
+    },
+    {
+      "city_id": 2989,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الذيبية",
+      "name_en": "Adh Dhibiyah",
+      "slug": "adh-dhibiyah-2989"
+    },
+    {
+      "city_id": 2990,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قصر ابن عقيل",
+      "name_en": "Qasr Ibn Uqayyil",
+      "slug": "qasr-ibn-uqayyil"
+    },
+    {
+      "city_id": 2991,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "قطن",
+      "name_en": "Qitan",
+      "slug": "qitan"
+    },
+    {
+      "city_id": 2992,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البصيري",
+      "name_en": "Al Basiri",
+      "slug": "al-basiri"
+    },
+    {
+      "city_id": 2993,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخريشاء",
+      "name_en": "Al Khuraysha",
+      "slug": "al-khuraysha"
+    },
+    {
+      "city_id": 2994,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الدحلة",
+      "name_en": "Ad Dihalah",
+      "slug": "ad-dihalah"
+    },
+    {
+      "city_id": 2995,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النقرة",
+      "name_en": "An Naqrah",
+      "slug": "an-naqrah"
+    },
+    {
+      "city_id": 2996,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مباري",
+      "name_en": "Mibari",
+      "slug": "mibari"
+    },
+    {
+      "city_id": 2997,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجفن",
+      "name_en": "Al Jifn",
+      "slug": "al-jifn"
+    },
+    {
+      "city_id": 2998,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ديم",
+      "name_en": "Daym",
+      "slug": "daym"
+    },
+    {
+      "city_id": 2999,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الهميلية",
+      "name_en": "Al Humayliyah",
+      "slug": "al-humayliyah"
+    },
+    {
+      "city_id": 3000,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عماير سعيدة",
+      "name_en": "Amayir Siidah",
+      "slug": "amayir-siidah"
+    },
+    {
+      "city_id": 3001,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ذوقان الركايا",
+      "name_en": "Dhawqan Ar Rakaya",
+      "slug": "dhawqan-ar-rakaya"
+    },
+    {
+      "city_id": 3002,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الضاحي",
+      "name_en": "Ad Dahi",
+      "slug": "ad-dahi-3002"
+    },
+    {
+      "city_id": 3003,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الوهلان",
+      "name_en": "Al Wahalan",
+      "slug": "al-wahalan"
+    },
+    {
+      "city_id": 3004,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العونية",
+      "name_en": "Al Awniyah",
+      "slug": "al-awniyah"
+    },
+    {
+      "city_id": 3005,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayyirah",
+      "slug": "al-hufayyirah-3005"
+    },
+    {
+      "city_id": 3006,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الأشرفية",
+      "name_en": "Al Ashrafiyah",
+      "slug": "al-ashrafiyah"
+    },
+    {
+      "city_id": 3007,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مزرعة البسامية",
+      "name_en": "Mazraat Al Bassamiyah",
+      "slug": "mazraat-al-bassamiyah"
+    },
+    {
+      "city_id": 3008,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الضلعة",
+      "name_en": "Ad Dalah",
+      "slug": "ad-dalah"
+    },
+    {
+      "city_id": 3009,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "غدفاء",
+      "name_en": "Ghadfa",
+      "slug": "ghadfa"
+    },
+    {
+      "city_id": 3010,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الغريبية",
+      "name_en": "Al Ghuraybiyah",
+      "slug": "al-ghuraybiyah"
+    },
+    {
+      "city_id": 3011,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الفيحاء",
+      "name_en": "Al Fayha",
+      "slug": "al-fayha-3011"
+    },
+    {
+      "city_id": 3012,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم غويفة",
+      "name_en": "Umm Ghuwayfah",
+      "slug": "umm-ghuwayfah"
+    },
+    {
+      "city_id": 3013,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الجناح",
+      "name_en": "Al Janah",
+      "slug": "al-janah"
+    },
+    {
+      "city_id": 3014,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحزم",
+      "name_en": "Al Hazm",
+      "slug": "al-hazm-3014"
+    },
+    {
+      "city_id": 3015,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رياض قناء",
+      "name_en": "Riyad Qana",
+      "slug": "riyad-qana"
+    },
+    {
+      "city_id": 3016,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المندسة",
+      "name_en": "Al Mindassah",
+      "slug": "al-mindassah-3016"
+    },
+    {
+      "city_id": 3017,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رفائع الحميمة",
+      "name_en": "Rafai Al Humaymah",
+      "slug": "rafai-al-humaymah"
+    },
+    {
+      "city_id": 3018,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مظيفر",
+      "name_en": "Mudhayfir",
+      "slug": "mudhayfir"
+    },
+    {
+      "city_id": 3019,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العمودة",
+      "name_en": "Al Amudah",
+      "slug": "al-amudah-3019"
+    },
+    {
+      "city_id": 3020,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-3020"
+    },
+    {
+      "city_id": 3021,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أبو طلح",
+      "name_en": "Abu Talh",
+      "slug": "abu-talh"
+    },
+    {
+      "city_id": 3022,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مهيضة",
+      "name_en": "Mihayyidah",
+      "slug": "mihayyidah"
+    },
+    {
+      "city_id": 3023,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "جرار",
+      "name_en": "Jarrar",
+      "slug": "jarrar-3023"
+    },
+    {
+      "city_id": 3024,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "فياضة",
+      "name_en": "Fayyadah",
+      "slug": "fayyadah"
+    },
+    {
+      "city_id": 3025,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "كحلة",
+      "name_en": "Kihlah",
+      "slug": "kihlah"
+    },
+    {
+      "city_id": 3026,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "رفائع الحجرة",
+      "name_en": "Rufai Al Hajrah",
+      "slug": "rufai-al-hajrah"
+    },
+    {
+      "city_id": 3027,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مشاش ركيان",
+      "name_en": "Mishash Rukayyan",
+      "slug": "mishash-rukayyan"
+    },
+    {
+      "city_id": 3028,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أبو عرداء",
+      "name_en": "Abu Arda",
+      "slug": "abu-arda"
+    },
+    {
+      "city_id": 3029,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الناصفة",
+      "name_en": "An Nasifa",
+      "slug": "an-nasifa"
+    },
+    {
+      "city_id": 3030,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "النبهانية",
+      "name_en": "An Nabhaniyah",
+      "slug": "an-nabhaniyah"
+    },
+    {
+      "city_id": 3031,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ثادج",
+      "name_en": "Thadij",
+      "slug": "thadij"
+    },
+    {
+      "city_id": 3032,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ربيق",
+      "name_en": "Rubayq",
+      "slug": "rubayq"
+    },
+    {
+      "city_id": 3033,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "سامودة",
+      "name_en": "Samudah",
+      "slug": "samudah-3033"
+    },
+    {
+      "city_id": 3034,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الملقاء",
+      "name_en": "Al Malqa",
+      "slug": "al-malqa-3034"
+    },
+    {
+      "city_id": 3035,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخرماء",
+      "name_en": "Al Kharma",
+      "slug": "al-kharma"
+    },
+    {
+      "city_id": 3036,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الخرماءالشمالية",
+      "name_en": "Al Kharma Ash Shamaliyah",
+      "slug": "al-kharma-ash-shamaliyah"
+    },
+    {
+      "city_id": 3037,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحيسونية",
+      "name_en": "Al Haysuniyah",
+      "slug": "al-haysuniyah"
+    },
+    {
+      "city_id": 3038,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القعير",
+      "name_en": "Al Quayyir",
+      "slug": "al-quayyir"
+    },
+    {
+      "city_id": 3039,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العمار",
+      "name_en": "Al Amar",
+      "slug": "al-amar-3039"
+    },
+    {
+      "city_id": 3119,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "مسكة",
+      "name_en": "Miskah",
+      "slug": "miskah"
+    },
+    {
+      "city_id": 3120,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "أم المحاش",
+      "name_en": "Umm Al Mahash",
+      "slug": "umm-al-mahash"
+    },
+    {
+      "city_id": 3121,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "عيدة",
+      "name_en": "Idah",
+      "slug": "idah"
+    },
+    {
+      "city_id": 3122,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرفائع",
+      "name_en": "Ar Rufai",
+      "slug": "ar-rufai-3122"
+    },
+    {
+      "city_id": 3123,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "صميعر",
+      "name_en": "Sumayir",
+      "slug": "sumayir"
+    },
+    {
+      "city_id": 3124,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "فيضة سلام",
+      "name_en": "Faydat Salam",
+      "slug": "faydat-salam"
+    },
+    {
+      "city_id": 3125,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "طفيلة",
+      "name_en": "Tufaylah",
+      "slug": "tufaylah"
+    },
+    {
+      "city_id": 3126,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "حليوة",
+      "name_en": "Hulaywah",
+      "slug": "hulaywah"
+    },
+    {
+      "city_id": 3127,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "هرمول",
+      "name_en": "Hurmul",
+      "slug": "hurmul"
+    },
+    {
+      "city_id": 3128,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "روضة عسعس",
+      "name_en": "Rawdat Asas",
+      "slug": "rawdat-asas"
+    },
+    {
+      "city_id": 3129,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المطيوي",
+      "name_en": "Al Mutaywi",
+      "slug": "al-mutaywi"
+    },
+    {
+      "city_id": 3130,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع هويشلة",
+      "name_en": "Badai Huwayshilah",
+      "slug": "badai-huwayshilah"
+    },
+    {
+      "city_id": 3131,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الكفية",
+      "name_en": "Al Kuffiyah",
+      "slug": "al-kuffiyah"
+    },
+    {
+      "city_id": 3132,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بقيعاء الجنوبية",
+      "name_en": "Buqaya Al Janubiyah",
+      "slug": "buqaya-al-janubiyah"
+    },
+    {
+      "city_id": 3133,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الرفايع",
+      "name_en": "Ar Rufayi",
+      "slug": "ar-rufayi-3133"
+    },
+    {
+      "city_id": 3134,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الظاهرية",
+      "name_en": "Adh Dhahiriyah",
+      "slug": "adh-dhahiriyah"
+    },
+    {
+      "city_id": 3135,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "المندسة",
+      "name_en": "Al Mindassah",
+      "slug": "al-mindassah-3135"
+    },
+    {
+      "city_id": 3136,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-3136"
+    },
+    {
+      "city_id": 3137,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-3137"
+    },
+    {
+      "city_id": 3138,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الضبعية",
+      "name_en": "Ad Dibiyah",
+      "slug": "ad-dibiyah"
+    },
+    {
+      "city_id": 3139,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع الضبعية",
+      "name_en": "Badai Ad Dibiyah",
+      "slug": "badai-ad-dibiyah"
+    },
+    {
+      "city_id": 3140,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "جفرة الجديدة",
+      "name_en": "Jafrat Al Jadidah",
+      "slug": "jafrat-al-jadidah"
+    },
+    {
+      "city_id": 3141,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "جفرة",
+      "name_en": "Jafrah",
+      "slug": "jafrah"
+    },
+    {
+      "city_id": 3142,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الحمادة",
+      "name_en": "Al Hamadah",
+      "slug": "al-hamadah-3142"
+    },
+    {
+      "city_id": 3143,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع مشرفة",
+      "name_en": "Badai Mushrifah",
+      "slug": "badai-mushrifah"
+    },
+    {
+      "city_id": 3144,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نجخ الجنوبي",
+      "name_en": "Najikh Al Janubi",
+      "slug": "najikh-al-janubi"
+    },
+    {
+      "city_id": 3145,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "نجخ الشمالي",
+      "name_en": "Najikh Al Shamali",
+      "slug": "najikh-al-shamali"
+    },
+    {
+      "city_id": 3146,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "القويعية",
+      "name_en": "Al Quwayiyah",
+      "slug": "al-quwayiyah-3146"
+    },
+    {
+      "city_id": 3147,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "صعينين",
+      "name_en": "Suaynin",
+      "slug": "suaynin"
+    },
+    {
+      "city_id": 3148,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ليم",
+      "name_en": "Laym",
+      "slug": "laym"
+    },
+    {
+      "city_id": 3149,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "السليسية",
+      "name_en": "As Sulaysiyah",
+      "slug": "as-sulaysiyah-3149"
+    },
+    {
+      "city_id": 3150,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بئر زهيميلة",
+      "name_en": "Bir Zuhaymilah",
+      "slug": "bir-zuhaymilah"
+    },
+    {
+      "city_id": 3151,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "ضرية",
+      "name_en": "Dariyah",
+      "slug": "dariyah"
+    },
+    {
+      "city_id": 3152,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "الصمعورية",
+      "name_en": "As Sumuriyah",
+      "slug": "as-sumuriyah"
+    },
+    {
+      "city_id": 3153,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "سلام",
+      "name_en": "Salam",
+      "slug": "salam"
+    },
+    {
+      "city_id": 3154,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "العاقر",
+      "name_en": "Al Aqir",
+      "slug": "al-aqir"
+    },
+    {
+      "city_id": 3155,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع ريمان",
+      "name_en": "Badai Riman",
+      "slug": "badai-riman"
+    },
+    {
+      "city_id": 3156,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "بدائع الضبطان",
+      "name_en": "Badai Ad Dubtan",
+      "slug": "badai-ad-dubtan"
+    },
+    {
+      "city_id": 3157,
+      "region_id": 5,
+      "region_ar": "القصيم",
+      "region_en": "Al Qassim",
+      "region_slug": "al-qassim",
+      "name_ar": "البعجاء",
+      "name_en": "Al Baja",
+      "slug": "al-baja"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة القصيم (Cities of Al Qassim) - تحميل مجاني",
+    "description": "قائمة مدن منطقة القصيم (Al Qassim) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Qassim administrative region of Saudi Arabia (region_id=5). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 389 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة القصيم (Cities of Al Qassim) | ListBase",
+    "seo_description": "تحميل مدن منطقة القصيم (Cities of Al Qassim) — 389 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 389 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

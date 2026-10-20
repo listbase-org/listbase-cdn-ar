@@ -1,0 +1,592 @@
+{
+  "id": "ar-mudun-mexico",
+  "name": "مدن المكسيك — Cities of Mexico (Arabic names)",
+  "title": "مدن المكسيك — Cities of Mexico (Arabic names)",
+  "description": "قائمة بأسماء مدن المكسيك بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 67 cities in Mexico with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مدينة مكسيكو",
+      "name_en": "Mexico City",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 21804000
+    },
+    {
+      "id": 2,
+      "name_ar": "غوادالاخارا",
+      "name_en": "Guadalajara",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 5525000
+    },
+    {
+      "id": 3,
+      "name_ar": "مونتيري",
+      "name_en": "Monterrey",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 5324281
+    },
+    {
+      "id": 4,
+      "name_ar": "تولوكا",
+      "name_en": "Toluca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 2476689
+    },
+    {
+      "id": 5,
+      "name_ar": "تيخوانا",
+      "name_en": "Tijuana",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 2002000
+    },
+    {
+      "id": 6,
+      "name_ar": "ليون",
+      "name_en": "Leon de los Aldama",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1579803
+    },
+    {
+      "id": 7,
+      "name_ar": "ولاية بويبلا",
+      "name_en": "Puebla",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1576259
+    },
+    {
+      "id": 8,
+      "name_ar": "سابوبان، خاليسكو",
+      "name_en": "Zapopan",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1476491
+    },
+    {
+      "id": 9,
+      "name_ar": "مكسيكالي",
+      "name_en": "Mexicali",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1102342
+    },
+    {
+      "id": 10,
+      "name_ar": "سيوداد نيزاهوال كويوتل",
+      "name_en": "Nezahualcoyotl",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1077208
+    },
+    {
+      "id": 11,
+      "name_ar": "سيوداد نيزاهوال كويوتل",
+      "name_en": "Ciudad Nezahualcoyotl",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1072676
+    },
+    {
+      "id": 12,
+      "name_ar": "موريليا",
+      "name_en": "Morelia",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 1002461
+    },
+    {
+      "id": 13,
+      "name_ar": "ولاية أغواسكالينتس",
+      "name_en": "Aguascalientes",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 934424
+    },
+    {
+      "id": 14,
+      "name_ar": "ولاية شيواوا",
+      "name_en": "Chihuahua",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 925762
+    },
+    {
+      "id": 15,
+      "name_ar": "ناوكالبان دي خواريز",
+      "name_en": "Naucalpan de Juarez",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 910407
+    },
+    {
+      "id": 16,
+      "name_ar": "ماردة",
+      "name_en": "Merida",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 892363
+    },
+    {
+      "id": 17,
+      "name_ar": "كانكون",
+      "name_en": "Cancun",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 888797
+    },
+    {
+      "id": 18,
+      "name_ar": "سالتيو",
+      "name_en": "Saltillo",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 864431
+    },
+    {
+      "id": 19,
+      "name_ar": "إرموسييو",
+      "name_en": "Hermosillo",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 855563
+    },
+    {
+      "id": 20,
+      "name_ar": "كولياكان",
+      "name_en": "Culiacan",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 808416
+    },
+    {
+      "id": 21,
+      "name_ar": "ولاية كيريتارو",
+      "name_en": "Queretaro",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 794789
+    },
+    {
+      "id": 22,
+      "name_ar": "ولاية سان لويس بوتوسي",
+      "name_en": "San Luis Potosi",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 772828
+    },
+    {
+      "id": 23,
+      "name_ar": "جوادالوبي",
+      "name_en": "Guadalupe",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 691931
+    },
+    {
+      "id": 24,
+      "name_ar": "أكابولكو",
+      "name_en": "Acapulco de Juarez",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 673478
+    },
+    {
+      "id": 25,
+      "name_ar": "ولاية دورانغو",
+      "name_en": "Durango",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 654876
+    },
+    {
+      "id": 26,
+      "name_ar": "تشيمالهواكان",
+      "name_en": "Chimalhuacan",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 614453
+    },
+    {
+      "id": 27,
+      "name_ar": "إيرابواتو",
+      "name_en": "Irapuato",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 592953
+    },
+    {
+      "id": 28,
+      "name_ar": "إنسينادا",
+      "name_en": "Ensenada",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 557430
+    },
+    {
+      "id": 29,
+      "name_ar": "ماتاموروس",
+      "name_en": "Heroica Matamoros",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 541979
+    },
+    {
+      "id": 30,
+      "name_ar": "أبوداكا",
+      "name_en": "Ciudad Apodaca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 523370
+    },
+    {
+      "id": 31,
+      "name_ar": "مازاتلان",
+      "name_en": "Mazatlan",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 501441
+    },
+    {
+      "id": 32,
+      "name_ar": "سيوداد لوبيز ماتيوس",
+      "name_en": "Ciudad Lopez Mateos",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 489937
+    },
+    {
+      "id": 33,
+      "name_ar": "جنرال إسكوبيدو",
+      "name_en": "Ciudad General Escobedo",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 454967
+    },
+    {
+      "id": 34,
+      "name_ar": "سان نيكولاس دي لوس غارزا",
+      "name_en": "San Nicolas de los Garza",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 443273
+    },
+    {
+      "id": 35,
+      "name_ar": "ولاية فيراكروز",
+      "name_en": "Veracruz",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 428323
+    },
+    {
+      "id": 36,
+      "name_ar": "تبيك",
+      "name_en": "Tepic",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 425942
+    },
+    {
+      "id": 37,
+      "name_ar": "جالابا",
+      "name_en": "Xalapa",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 424755
+    },
+    {
+      "id": 38,
+      "name_ar": "نويفو لاريدو",
+      "name_en": "Nuevo Laredo",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 384033
+    },
+    {
+      "id": 39,
+      "name_ar": "سيلايا",
+      "name_en": "Celaya",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 378143
+    },
+    {
+      "id": 40,
+      "name_ar": "فيلاهيرموسا",
+      "name_en": "Villahermosa",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 353577
+    },
+    {
+      "id": 41,
+      "name_ar": "كويرنافاكا",
+      "name_en": "Cuernavaca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 338650
+    },
+    {
+      "id": 42,
+      "name_ar": "سيوداد أوبريجون",
+      "name_en": "Ciudad Obregon",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 329404
+    },
+    {
+      "id": 43,
+      "name_ar": "شلمنقة",
+      "name_en": "Salamanca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 327169
+    },
+    {
+      "id": 44,
+      "name_ar": "كواتزاكوالكوس",
+      "name_en": "Coatzacoalcos",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 319187
+    },
+    {
+      "id": 45,
+      "name_ar": "سانتا كاترينا",
+      "name_en": "Ciudad Santa Catarina",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 306322
+    },
+    {
+      "id": 46,
+      "name_ar": "سيوداد فيكتوريا",
+      "name_en": "Ciudad Victoria",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 305155
+    },
+    {
+      "id": 47,
+      "name_ar": "بلايا ديل كارمن",
+      "name_en": "Playa del Carmen",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 304942
+    },
+    {
+      "id": 48,
+      "name_ar": "ولاية واهاكا",
+      "name_en": "Oaxaca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 300050
+    },
+    {
+      "id": 49,
+      "name_ar": "لوس موتشيس",
+      "name_en": "Los Mochis",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 298009
+    },
+    {
+      "id": 50,
+      "name_ar": "باتشوكا",
+      "name_en": "Pachuca",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 297848
+    },
+    {
+      "id": 51,
+      "name_ar": "تامبيكو",
+      "name_en": "Tampico",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 297284
+    },
+    {
+      "id": 52,
+      "name_ar": "هيرويكا نوغاليس",
+      "name_en": "Heroica Nogales",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 261137
+    },
+    {
+      "id": 53,
+      "name_ar": "لا باز",
+      "name_en": "La Paz",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 250141
+    },
+    {
+      "id": 54,
+      "name_ar": "ولاية كامبيتشي",
+      "name_en": "Campeche",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 249623
+    },
+    {
+      "id": 55,
+      "name_ar": "كارمين",
+      "name_en": "Carmen",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 248845
+    },
+    {
+      "id": 56,
+      "name_ar": "مونكلوفا",
+      "name_en": "Monclova",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 237169
+    },
+    {
+      "id": 57,
+      "name_ar": "غارسيا",
+      "name_en": "Garcia",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 234698
+    },
+    {
+      "id": 58,
+      "name_ar": "تشيلبانسينغو",
+      "name_en": "Chilpancingo",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 225728
+    },
+    {
+      "id": 59,
+      "name_ar": "بويرتو فالارتا",
+      "name_en": "Puerto Vallarta",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 224166
+    },
+    {
+      "id": 60,
+      "name_ar": "بلدية تاباتشولا",
+      "name_en": "Tapachula",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 217550
+    },
+    {
+      "id": 61,
+      "name_ar": "قرطبة",
+      "name_en": "Cordoba",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 204721
+    },
+    {
+      "id": 62,
+      "name_ar": "كابو سان لوكاس",
+      "name_en": "Cabo San Lucas",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 202694
+    },
+    {
+      "id": 63,
+      "name_ar": "سيوداد ماديرو",
+      "name_en": "Ciudad Madero",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 197216
+    },
+    {
+      "id": 64,
+      "name_ar": "كواوتلا",
+      "name_en": "Cuautla",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 194786
+    },
+    {
+      "id": 65,
+      "name_ar": "ولاية غواناخواتو",
+      "name_en": "Guanajuato",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 194500
+    },
+    {
+      "id": 66,
+      "name_ar": "سيوداد ديل كارمن",
+      "name_en": "Ciudad del Carmen",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 191238
+    },
+    {
+      "id": 67,
+      "name_ar": "سان كريستوبال",
+      "name_en": "San Cristobal",
+      "country_ar": "المكسيك",
+      "country_en": "Mexico",
+      "population": 183509
+    }
+  ],
+  "meta": {
+    "title": "مدن المكسيك — Cities of Mexico (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن المكسيك بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 67 cities in Mexico with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 67 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن المكسيك — Cities of Mexico (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن المكسيك — Cities of Mexico (Arabic names) — 67 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 67 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "id": "ar-mudun-mozambique",
+  "name": "مدن موزمبيق — Cities of Mozambique (Arabic names)",
+  "title": "مدن موزمبيق — Cities of Mozambique (Arabic names)",
+  "description": "قائمة بأسماء مدن موزمبيق بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Mozambique with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مابوتو",
+      "name_en": "Maputo",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 1133200
+    },
+    {
+      "id": 2,
+      "name_ar": "ماتولا",
+      "name_en": "Matola",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 1032197
+    },
+    {
+      "id": 3,
+      "name_ar": "محافظة نامبولا",
+      "name_en": "Nampula",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 743000
+    },
+    {
+      "id": 4,
+      "name_ar": "بيرا",
+      "name_en": "Beira",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 530604
+    },
+    {
+      "id": 5,
+      "name_ar": "أنغوتشي",
+      "name_en": "Antonio Enes",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 347175
+    },
+    {
+      "id": 6,
+      "name_ar": "شيمويو",
+      "name_en": "Chimoio",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 238976
+    },
+    {
+      "id": 7,
+      "name_ar": "نكالا",
+      "name_en": "Cidade de Nacala",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 206449
+    },
+    {
+      "id": 8,
+      "name_ar": "ليشنجا",
+      "name_en": "Lichinga",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 142253
+    },
+    {
+      "id": 9,
+      "name_ar": "بيمبا",
+      "name_en": "Pemba",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 141316
+    },
+    {
+      "id": 10,
+      "name_ar": "خاي خاي",
+      "name_en": "Xai-Xai",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 116343
+    },
+    {
+      "id": 11,
+      "name_ar": "ماكسيكسي",
+      "name_en": "Maxixe",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 108824
+    },
+    {
+      "id": 12,
+      "name_ar": "مونتيبويز",
+      "name_en": "Montepuez",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 76139
+    },
+    {
+      "id": 13,
+      "name_ar": "محافظة إنهامبان",
+      "name_en": "Inhambane",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 63837
+    },
+    {
+      "id": 14,
+      "name_ar": "مواتيز",
+      "name_en": "Moatize",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 39073
+    },
+    {
+      "id": 15,
+      "name_ar": "سونغو",
+      "name_en": "Songo",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 36523
+    },
+    {
+      "id": 16,
+      "name_ar": "موكيمبوا دا برايا",
+      "name_en": "Mocimboa da Praia",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 30950
+    },
+    {
+      "id": 17,
+      "name_ar": "موكيمبوا دا برايا",
+      "name_en": "Mocimboa",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 27909
+    },
+    {
+      "id": 18,
+      "name_ar": "بالما",
+      "name_en": "Palma",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 25627
+    },
+    {
+      "id": 19,
+      "name_ar": "ماباي",
+      "name_en": "Mapai",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 19932
+    },
+    {
+      "id": 20,
+      "name_ar": "جزيرة موزامبيق",
+      "name_en": "Ilha de Mocambique",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 14000
+    },
+    {
+      "id": 21,
+      "name_ar": "إسبونغابيرا",
+      "name_en": "Espungabera",
+      "country_ar": "موزمبيق",
+      "country_en": "Mozambique",
+      "population": 393
+    }
+  ],
+  "meta": {
+    "title": "مدن موزمبيق — Cities of Mozambique (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن موزمبيق بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Mozambique with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن موزمبيق — Cities of Mozambique (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن موزمبيق — Cities of Mozambique (Arabic names) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

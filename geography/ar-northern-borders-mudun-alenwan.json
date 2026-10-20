@@ -1,0 +1,448 @@
+{
+  "id": "ar-northern-borders-mudun-alenwan",
+  "name": "مدن منطقة منطقة الحدود الشمالية (العنوان الوطني) — Cities of Northern Borders (National Address)",
+  "title": "مدن منطقة منطقة الحدود الشمالية (العنوان الوطني) — Cities of Northern Borders (National Address)",
+  "description": "قائمة مدن منطقة منطقة الحدود الشمالية (Northern Borders) من بيانات العنوان الوطني (CC0). List of cities within the Northern Borders administrative region (region_id=9); filtered subset of the national ar-sa-mudun-alenwan, same schema. Open CC0 Saudi National Address source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 2208,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "طريف",
+      "name_en": "Turaif",
+      "slug": "turaif",
+      "lat": 31.68193994,
+      "lon": 38.65750003
+    },
+    {
+      "city_id": 2209,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الجراني",
+      "name_en": "Al Jirani",
+      "slug": "al-jirani",
+      "lat": 31.81066997,
+      "lon": 38.27483
+    },
+    {
+      "city_id": 2211,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "نعيج",
+      "name_en": "Nu'ayj",
+      "slug": "nu-ayj",
+      "lat": 31.64407999,
+      "lon": 37.98358996
+    },
+    {
+      "city_id": 2212,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "قاع الحنو",
+      "name_en": "Qa' Al Hinu",
+      "slug": "qa-al-hinu",
+      "lat": 30.99949996,
+      "lon": 38.43001004
+    },
+    {
+      "city_id": 2213,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "عرعر",
+      "name_en": "Arar",
+      "slug": "arar",
+      "lat": 30.97214998,
+      "lon": 41.01332997
+    },
+    {
+      "city_id": 2214,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز الصحن",
+      "name_en": "Markaz As Sahan",
+      "slug": "markaz-as-sahan",
+      "lat": 30.63446003,
+      "lon": 42.75294004
+    },
+    {
+      "city_id": 2215,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "العويقلية",
+      "name_en": "Al 'Uwayqiliyah",
+      "slug": "al-uwayqiliyah",
+      "lat": 30.38782999,
+      "lon": 42.23977006
+    },
+    {
+      "city_id": 2216,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "أبا الرواث",
+      "name_en": "Aba Ar Rawath",
+      "slug": "aba-ar-rawath",
+      "lat": 30.48311005,
+      "lon": 42.00819001
+    },
+    {
+      "city_id": 2217,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الكاسب",
+      "name_en": "Al Kasib",
+      "slug": "al-kasib",
+      "lat": 30.53767,
+      "lon": 41.95729005
+    },
+    {
+      "city_id": 2218,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "أم خنصر",
+      "name_en": "Umm Khunsur",
+      "slug": "umm-khunsur",
+      "lat": 30.69742001,
+      "lon": 41.62676001
+    },
+    {
+      "city_id": 2219,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "حزم الجلاميد",
+      "name_en": "Hazam Al Jalamid",
+      "slug": "hazam-al-jalamid",
+      "lat": 31.28288,
+      "lon": 40.10798001
+    },
+    {
+      "city_id": 2220,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الدويد",
+      "name_en": "Ad Duwayd",
+      "slug": "ad-duwayd",
+      "lat": 30.22807003,
+      "lon": 42.29200005
+    },
+    {
+      "city_id": 2221,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "جديدة عرعر",
+      "name_en": "Jadidat 'Ar'ar",
+      "slug": "jadidat-ar-ar",
+      "lat": 31.35207002,
+      "lon": 41.44392005
+    },
+    {
+      "city_id": 2252,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "مركز أم الحيران",
+      "name_en": "Markaz Umm Al Hiran",
+      "slug": "markaz-umm-al-hiran",
+      "lat": 29.16327,
+      "lon": 45.16090995
+    },
+    {
+      "city_id": 2255,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "إبن سوقي",
+      "name_en": "Ibn Suqi",
+      "slug": "ibn-suqi",
+      "lat": 29.77632003,
+      "lon": 43.37192004
+    },
+    {
+      "city_id": 2256,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "رفحاء",
+      "name_en": "Rafha'",
+      "slug": "rafha",
+      "lat": 29.63723002,
+      "lon": 43.49903001
+    },
+    {
+      "city_id": 2257,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "نصاب",
+      "name_en": "Nisab",
+      "slug": "nisab",
+      "lat": 29.19001,
+      "lon": 44.78566995
+    },
+    {
+      "city_id": 2259,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "لوقة",
+      "name_en": "Lawqah",
+      "slug": "lawqah",
+      "lat": 29.83564003,
+      "lon": 42.74389004
+    },
+    {
+      "city_id": 2260,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "ام رضمة",
+      "name_en": "Umm Rudmah",
+      "slug": "umm-rudmah",
+      "lat": 28.69226003,
+      "lon": 44.69069001
+    },
+    {
+      "city_id": 2262,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "روضة هباس",
+      "name_en": "Rawdat Habbas",
+      "slug": "rawdat-habbas",
+      "lat": 29.15764995,
+      "lon": 44.31328003
+    },
+    {
+      "city_id": 2263,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "التمياط",
+      "name_en": "Timiat",
+      "slug": "timiat",
+      "lat": 29.88348997,
+      "lon": 43.14656996
+    },
+    {
+      "city_id": 2264,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "إبن شريم",
+      "name_en": "Ibn Shuraym",
+      "slug": "ibn-shuraym",
+      "lat": 29.93399,
+      "lon": 43.42812
+    },
+    {
+      "city_id": 2265,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shu'abah",
+      "slug": "ash-shu-abah",
+      "lat": 28.89277003,
+      "lon": 44.73194004
+    },
+    {
+      "city_id": 2266,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "لينة",
+      "name_en": "Linah",
+      "slug": "linah",
+      "lat": 28.76579997,
+      "lon": 43.74796994
+    },
+    {
+      "city_id": 2267,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "المركوز",
+      "name_en": "Al Markuz",
+      "slug": "al-markuz",
+      "lat": 30.16829998,
+      "lon": 42.63975
+    },
+    {
+      "city_id": 3679,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "السليمانية",
+      "name_en": "As Sulaimaniyah",
+      "slug": "as-sulaimaniyah",
+      "lat": 30.55481317,
+      "lon": 41.14428938
+    },
+    {
+      "city_id": 17862,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الشاظي مناحي بن بكر",
+      "name_en": "Al Shadhi Manahi Ibn Bakr",
+      "slug": "al-shadhi-manahi-ibn-bakr",
+      "lat": 31.21193333,
+      "lon": 40.64445
+    },
+    {
+      "city_id": 17863,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "الديدب",
+      "name_en": "Al Didab",
+      "slug": "al-didab",
+      "lat": 30.83181667,
+      "lon": 41.27306667
+    },
+    {
+      "city_id": 17879,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "زبالا",
+      "name_en": "Zabala",
+      "slug": "zabala",
+      "lat": 29.39116667,
+      "lon": 43.5581
+    },
+    {
+      "city_id": 17880,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "العجرمية",
+      "name_en": "Al Ajramiyyah",
+      "slug": "al-ajramiyyah",
+      "lat": 29.95593333,
+      "lon": 43.08123333
+    },
+    {
+      "city_id": 17888,
+      "region_id": 9,
+      "region_ar": "منطقة الحدود الشمالية",
+      "region_en": "Northern Borders",
+      "region_slug": "northern-borders",
+      "name_ar": "ابن عائش",
+      "name_en": "Ibn Aesh",
+      "slug": "ibn-aesh",
+      "lat": 30.30436667,
+      "lon": 42.35193333
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة منطقة الحدود الشمالية (العنوان الوطني) — Cities of Northern Borders (National Address) - تحميل مجاني",
+    "description": "قائمة مدن منطقة منطقة الحدود الشمالية (Northern Borders) من بيانات العنوان الوطني (CC0). List of cities within the Northern Borders administrative region (region_id=9); filtered subset of the national ar-sa-mudun-alenwan, same schema. Open CC0 Saudi National Address source. يحتوي على 31 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة منطقة الحدود الشمالية (العنوان الوطني) — Cities of Northern Borders (National Address) | ListBase",
+    "seo_description": "تحميل مدن منطقة منطقة الحدود الشمالية (العنوان الوطني) — Cities of Northern Borders (National Address) — 31 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 31 سجل / 10 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

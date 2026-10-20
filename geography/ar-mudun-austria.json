@@ -1,0 +1,504 @@
+{
+  "id": "ar-mudun-austria",
+  "name": "مدن النمسا — Cities of Austria (Arabic names)",
+  "title": "مدن النمسا — Cities of Austria (Arabic names)",
+  "description": "قائمة بأسماء مدن النمسا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in Austria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "فيينا",
+      "name_en": "Vienna",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 2223236
+    },
+    {
+      "id": 2,
+      "name_ar": "غراتس",
+      "name_en": "Graz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 292630
+    },
+    {
+      "id": 3,
+      "name_ar": "لينتس",
+      "name_en": "Linz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 211944
+    },
+    {
+      "id": 4,
+      "name_ar": "زالتسبورغ",
+      "name_en": "Salzburg",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 155021
+    },
+    {
+      "id": 5,
+      "name_ar": "إنسبروك",
+      "name_en": "Innsbruck",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 130585
+    },
+    {
+      "id": 6,
+      "name_ar": "كلاغنفورت",
+      "name_en": "Klagenfurt",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 101403
+    },
+    {
+      "id": 7,
+      "name_ar": "فيلز",
+      "name_en": "Wels",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 65303
+    },
+    {
+      "id": 8,
+      "name_ar": "فيلاخ",
+      "name_en": "Villach",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 65127
+    },
+    {
+      "id": 9,
+      "name_ar": "سانت بولتن",
+      "name_en": "Sankt Polten",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 55514
+    },
+    {
+      "id": 10,
+      "name_ar": "كرمس آن در دوناو",
+      "name_en": "Krems an der Donau",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 50000
+    },
+    {
+      "id": 11,
+      "name_ar": "دورنبيرن",
+      "name_en": "Dornbirn",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 48067
+    },
+    {
+      "id": 12,
+      "name_ar": "فينر نويشتات",
+      "name_en": "Wiener Neustadt",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 44461
+    },
+    {
+      "id": 13,
+      "name_ar": "اشتاير",
+      "name_en": "Steyr",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 38034
+    },
+    {
+      "id": 14,
+      "name_ar": "بريغنز",
+      "name_en": "Bregenz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 29620
+    },
+    {
+      "id": 15,
+      "name_ar": "يوندنج",
+      "name_en": "Leonding",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 28698
+    },
+    {
+      "id": 16,
+      "name_ar": "كلوسترنوبرغ",
+      "name_en": "Klosterneuburg",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 27058
+    },
+    {
+      "id": 17,
+      "name_ar": "بادن بادن",
+      "name_en": "Baden",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 26286
+    },
+    {
+      "id": 18,
+      "name_ar": "فولفسبورج",
+      "name_en": "Wolfsberg",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 25035
+    },
+    {
+      "id": 19,
+      "name_ar": "ليوبن",
+      "name_en": "Leoben",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 24645
+    },
+    {
+      "id": 20,
+      "name_ar": "تراون",
+      "name_en": "Traun",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 24477
+    },
+    {
+      "id": 21,
+      "name_ar": "لوستيناو",
+      "name_en": "Lustenau",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 23579
+    },
+    {
+      "id": 22,
+      "name_ar": "امستيتن النمسا السفلى",
+      "name_en": "Amstetten",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 23569
+    },
+    {
+      "id": 23,
+      "name_ar": "كابفنبرج",
+      "name_en": "Kapfenberg",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 22798
+    },
+    {
+      "id": 24,
+      "name_ar": "هالين",
+      "name_en": "Hallein",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 21150
+    },
+    {
+      "id": 25,
+      "name_ar": "كوفشتاين",
+      "name_en": "Kufstein",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 19126
+    },
+    {
+      "id": 26,
+      "name_ar": "براوناو أم إن",
+      "name_en": "Braunau am Inn",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 17095
+    },
+    {
+      "id": 27,
+      "name_ar": "هوونامس",
+      "name_en": "Hohenems",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 16946
+    },
+    {
+      "id": 28,
+      "name_ar": "تشوكيراو",
+      "name_en": "Stockerau",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 16916
+    },
+    {
+      "id": 29,
+      "name_ar": "تلفس",
+      "name_en": "Telfs",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 16046
+    },
+    {
+      "id": 30,
+      "name_ar": "بروك ان دير مور",
+      "name_en": "Bruck an der Mur",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 15837
+    },
+    {
+      "id": 31,
+      "name_ar": "سبيتال دراو",
+      "name_en": "Spittal an der Drau",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 15413
+    },
+    {
+      "id": 32,
+      "name_ar": "بلودنز",
+      "name_en": "Bludenz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 14956
+    },
+    {
+      "id": 33,
+      "name_ar": "تيرنتس",
+      "name_en": "Ternitz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 14632
+    },
+    {
+      "id": 34,
+      "name_ar": "آيزنشتات",
+      "name_en": "Eisenstadt",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 14476
+    },
+    {
+      "id": 35,
+      "name_ar": "باد إيشل",
+      "name_en": "Bad Ischl",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 14133
+    },
+    {
+      "id": 36,
+      "name_ar": "شفاتس",
+      "name_en": "Schwaz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 13810
+    },
+    {
+      "id": 37,
+      "name_ar": "مارشترينك",
+      "name_en": "Marchtrenk",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 13603
+    },
+    {
+      "id": 38,
+      "name_ar": "هارد",
+      "name_en": "Hard",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 13495
+    },
+    {
+      "id": 39,
+      "name_ar": "غموندن",
+      "name_en": "Gmunden",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 13191
+    },
+    {
+      "id": 40,
+      "name_ar": "غوتفريد لايبنتس",
+      "name_en": "Leibnitz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 13014
+    },
+    {
+      "id": 41,
+      "name_ar": "نوينكيرشن",
+      "name_en": "Neunkirchen",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 12879
+    },
+    {
+      "id": 42,
+      "name_ar": "فوكلابروك",
+      "name_en": "Vocklabruck",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 12299
+    },
+    {
+      "id": 43,
+      "name_ar": "ميستلباخ",
+      "name_en": "Mistelbach",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 12036
+    },
+    {
+      "id": 44,
+      "name_ar": "ليينز",
+      "name_en": "Lienz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 11935
+    },
+    {
+      "id": 45,
+      "name_ar": "رانكفايل",
+      "name_en": "Rankweil",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 11855
+    },
+    {
+      "id": 46,
+      "name_ar": "هولابرون",
+      "name_en": "Hollabrunn",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 11681
+    },
+    {
+      "id": 47,
+      "name_ar": "فايتس",
+      "name_en": "Weiz",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 11627
+    },
+    {
+      "id": 48,
+      "name_ar": "غوتزيس",
+      "name_en": "Gotzis",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 11473
+    },
+    {
+      "id": 49,
+      "name_ar": "فولكيرماركت",
+      "name_en": "Volkermarkt",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 10946
+    },
+    {
+      "id": 50,
+      "name_ar": "بيشوفسهوفن",
+      "name_en": "Bischofshofen",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 10540
+    },
+    {
+      "id": 51,
+      "name_ar": "زانكت أندريه",
+      "name_en": "Sankt Andra",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9957
+    },
+    {
+      "id": 52,
+      "name_ar": "تسيل أم زيه",
+      "name_en": "Zell am See",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9762
+    },
+    {
+      "id": 53,
+      "name_ar": "مدينة القديس يوحنا",
+      "name_en": "Sankt Johann in Tirol",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9750
+    },
+    {
+      "id": 54,
+      "name_ar": "يودنبورغ",
+      "name_en": "Judenburg",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9614
+    },
+    {
+      "id": 55,
+      "name_ar": "الرومانية",
+      "name_en": "Rum",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9337
+    },
+    {
+      "id": 56,
+      "name_ar": "غونترامسدورف",
+      "name_en": "Guntramsdorf",
+      "country_ar": "النمسا",
+      "country_en": "Austria",
+      "population": 9179
+    }
+  ],
+  "meta": {
+    "title": "مدن النمسا — Cities of Austria (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن النمسا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 56 cities in Austria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 56 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن النمسا — Cities of Austria (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن النمسا — Cities of Austria (Arabic names) — 56 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 56 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "ar-sa-qusur",
+  "name": "القصور في المملكة العربية السعودية (Palaces of Saudi Arabia)",
+  "title": "القصور في المملكة العربية السعودية (Palaces of Saudi Arabia)",
+  "description": "قائمة القصور في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q16560) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة القصور سعودية في النطاق العربي. List of palaces in Saudi Arabia from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q64729439",
+      "name_ar": "بيت الكعكي",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.269753,
+      "longitude": 40.405499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64729439"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q40379566",
+      "name_ar": "قصر ابن ثعلي",
+      "name_en": "Ibn Thali Palace",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 22.501721,
+      "longitude": 40.438247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q40379566"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q20396425",
+      "name_ar": "قصر الحكم",
+      "name_en": "Palace of Government",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.63,
+      "longitude": 46.710833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20396425"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q110105538",
+      "name_ar": "قصر الدرعية",
+      "name_en": "Diriyah Palace",
+      "admin_area_ar": "الدرعية",
+      "admin_area_en": "Diriyah",
+      "latitude": 24.6632,
+      "longitude": 46.6278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110105538"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q64729438",
+      "name_ar": "قصر الدهلوي",
+      "name_en": "",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.272489,
+      "longitude": 40.399434,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64729438"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q64729469",
+      "name_ar": "قصر السبيعي",
+      "name_en": "Al-Subaie Palace",
+      "admin_area_ar": "محافظة شقراء",
+      "admin_area_en": "Shaqra governorate",
+      "latitude": 25.248333,
+      "longitude": 45.252778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64729469"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q22689200",
+      "name_ar": "قصر السقاف",
+      "name_en": "Al Sakkaf Palace",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.4397,
+      "longitude": 39.8378,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689200"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q121603519",
+      "name_ar": "قصر الصبان",
+      "name_en": "",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.27278,
+      "longitude": 40.397695,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121603519"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q31076335",
+      "name_ar": "قصر الصفا بمكة المكرمة",
+      "name_en": "",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.421972,
+      "longitude": 39.828194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31076335"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q16250443",
+      "name_ar": "قصر المربع",
+      "name_en": "Murabba Palace",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.6465,
+      "longitude": 46.7093,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16250443"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q17621052",
+      "name_ar": "قصر اليمامة",
+      "name_en": "Palace of Yamamah",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.6647,
+      "longitude": 46.64,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17621052"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q100156205",
+      "name_ar": "قصر بهجة",
+      "name_en": "",
+      "admin_area_ar": "محافظة وادي الدواسر",
+      "admin_area_en": "Wadi ad-Dawasir governorate",
+      "latitude": 20.466705,
+      "longitude": 44.790594,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100156205"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q22689218",
+      "name_ar": "قصر سلوى",
+      "name_en": "Salwa Palace",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.7342,
+      "longitude": 46.57575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689218"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12233052",
+      "name_ar": "قصر صاهود",
+      "name_en": "Sahood Fort",
+      "admin_area_ar": "محافظة الأحساء",
+      "admin_area_en": "Al-Ahsa governorate",
+      "latitude": 25.4125,
+      "longitude": 49.584167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233052"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12233039",
+      "name_ar": "قصر محمد بن عبد الوهاب الفيحاني",
+      "name_en": "Al Faihani Palace",
+      "admin_area_ar": "محافظة القطيف",
+      "admin_area_en": "Qatif governorate",
+      "latitude": 26.543611,
+      "longitude": 50.076944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233039"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12233066",
+      "name_ar": "قصر محيرس",
+      "name_en": "Muhaires Castle",
+      "admin_area_ar": "محافظة الأحساء",
+      "admin_area_en": "Al-Ahsa governorate",
+      "latitude": 25.383333,
+      "longitude": 49.6,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233066"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q119500559",
+      "name_ar": "قصر مشرفة الأثري",
+      "name_en": "Mosharafa Palace",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.573936,
+      "longitude": 40.682066,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119500559"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q126621368",
+      "name_ar": "قصرالشمسية",
+      "name_en": "Qaṣr ash-Shamsīyyah",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.645,
+      "longitude": 46.712222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126621368"
+    }
+  ],
+  "meta": {
+    "title": "القصور في المملكة العربية السعودية (Palaces of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة القصور في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q16560) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة القصور سعودية في النطاق العربي. List of palaces in Saudi Arabia from Wikidata. يحتوي على 18 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "القصور في المملكة العربية السعودية (Palaces of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل القصور في المملكة العربية السعودية (Palaces of Saudi Arabia) — 18 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 18 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

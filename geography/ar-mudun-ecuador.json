@@ -1,0 +1,496 @@
+{
+  "id": "ar-mudun-ecuador",
+  "name": "مدن الإكوادور — Cities of Ecuador (Arabic names)",
+  "title": "مدن الإكوادور — Cities of Ecuador (Arabic names)",
+  "description": "قائمة بأسماء مدن الإكوادور بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Ecuador with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "غواياكيل",
+      "name_en": "Guayaquil",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 3094420
+    },
+    {
+      "id": 2,
+      "name_ar": "كيتو",
+      "name_en": "Quito",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 1763275
+    },
+    {
+      "id": 3,
+      "name_ar": "كوينكا",
+      "name_en": "Cuenca",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 361524
+    },
+    {
+      "id": 4,
+      "name_ar": "سانتو دومينغو",
+      "name_en": "Santo Domingo de los Colorados",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 334826
+    },
+    {
+      "id": 5,
+      "name_ar": "ويزكيد",
+      "name_en": "Machala",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 288072
+    },
+    {
+      "id": 6,
+      "name_ar": "أسماك شيطان البحر",
+      "name_en": "Manta",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 258697
+    },
+    {
+      "id": 7,
+      "name_ar": "بورتوفيخو",
+      "name_en": "Portoviejo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 244129
+    },
+    {
+      "id": 8,
+      "name_ar": "أمباتو",
+      "name_en": "Ambato",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 177316
+    },
+    {
+      "id": 9,
+      "name_ar": "ريوبامبا",
+      "name_en": "Riobamba",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 177213
+    },
+    {
+      "id": 10,
+      "name_ar": "باباويو",
+      "name_en": "Babahoyo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 98251
+    },
+    {
+      "id": 11,
+      "name_ar": "سانغولكوي",
+      "name_en": "Sangolqui",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 96647
+    },
+    {
+      "id": 12,
+      "name_ar": "لاتاكونغا",
+      "name_en": "Latacunga",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 77267
+    },
+    {
+      "id": 13,
+      "name_ar": "سامبورونديون",
+      "name_en": "Samborondon",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 72425
+    },
+    {
+      "id": 14,
+      "name_ar": "كانتون مونتكريستي",
+      "name_en": "Montecristi",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 71066
+    },
+    {
+      "id": 15,
+      "name_ar": "Pasaje",
+      "name_en": "Pasaje",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 60147
+    },
+    {
+      "id": 16,
+      "name_ar": "سانتا روزا",
+      "name_en": "Santa Rosa",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 56842
+    },
+    {
+      "id": 17,
+      "name_ar": "تولكان",
+      "name_en": "Tulcan",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 56719
+    },
+    {
+      "id": 18,
+      "name_ar": "هواكويياس",
+      "name_en": "Huaquillas",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 56021
+    },
+    {
+      "id": 19,
+      "name_ar": "نويفا لوخا، بريم",
+      "name_en": "Nueva Loja",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 55627
+    },
+    {
+      "id": 20,
+      "name_ar": "إل كارمين",
+      "name_en": "El Carmen",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 52366
+    },
+    {
+      "id": 21,
+      "name_ar": "Puerto Francisco de Orellana",
+      "name_en": "Puerto Francisco de Orellana",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 51281
+    },
+    {
+      "id": 22,
+      "name_ar": "شاطئ",
+      "name_en": "Playas",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 48156
+    },
+    {
+      "id": 23,
+      "name_ar": "Buena Fe",
+      "name_en": "San Jacinto de Buena Fe",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 46779
+    },
+    {
+      "id": 24,
+      "name_ar": "قبعة بنما",
+      "name_en": "Jipijapa",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 45382
+    },
+    {
+      "id": 25,
+      "name_ar": "كايامب، الاكوادور",
+      "name_en": "Cayambe",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 44559
+    },
+    {
+      "id": 26,
+      "name_ar": "خوسيه ماريا فيلاسكو ايبارا",
+      "name_en": "Velasco Ibarra",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 41778
+    },
+    {
+      "id": 27,
+      "name_ar": "اوتابالو",
+      "name_en": "Otavalo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 41718
+    },
+    {
+      "id": 28,
+      "name_ar": "La Troncal",
+      "name_en": "La Troncal",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 39600
+    },
+    {
+      "id": 29,
+      "name_ar": "أزوغويس",
+      "name_en": "Azogues",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 35763
+    },
+    {
+      "id": 30,
+      "name_ar": "ساليناس",
+      "name_en": "Salinas",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 35066
+    },
+    {
+      "id": 31,
+      "name_ar": "بويو",
+      "name_en": "Puyo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 33325
+    },
+    {
+      "id": 32,
+      "name_ar": "Rosa Zárate",
+      "name_en": "Rosa Zarate",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 31120
+    },
+    {
+      "id": 33,
+      "name_ar": "غواراندا",
+      "name_en": "Guaranda",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 30755
+    },
+    {
+      "id": 34,
+      "name_ar": "بدرنالس",
+      "name_en": "Pedernales",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 27068
+    },
+    {
+      "id": 35,
+      "name_ar": "Catamayo",
+      "name_en": "Catamayo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 27026
+    },
+    {
+      "id": 36,
+      "name_ar": "Atuntaqui",
+      "name_en": "Atuntaqui",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 25115
+    },
+    {
+      "id": 37,
+      "name_ar": "بيدرو كاربو",
+      "name_en": "Pedro Carbo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 24882
+    },
+    {
+      "id": 38,
+      "name_ar": "Machachi",
+      "name_en": "Machachi",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 24188
+    },
+    {
+      "id": 39,
+      "name_ar": "بلنسية",
+      "name_en": "Valencia",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 22996
+    },
+    {
+      "id": 40,
+      "name_ar": "Yaguachi Nuevo",
+      "name_en": "Yaguachi Nuevo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 22972
+    },
+    {
+      "id": 41,
+      "name_ar": "كاميلو بونس إنريكيز",
+      "name_en": "Camilo Ponce Enriquez",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 22810
+    },
+    {
+      "id": 42,
+      "name_ar": "Bahía de Caráquez",
+      "name_en": "Bahia de Caraquez",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 22209
+    },
+    {
+      "id": 43,
+      "name_ar": "جوابونيتو",
+      "name_en": "Guabo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 22172
+    },
+    {
+      "id": 44,
+      "name_ar": "بويرتو كيتو",
+      "name_en": "Puerto Quito",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 20445
+    },
+    {
+      "id": 45,
+      "name_ar": "Calceta",
+      "name_en": "Calceta",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 20011
+    },
+    {
+      "id": 46,
+      "name_ar": "أتاكاميس",
+      "name_en": "Atacames",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 18948
+    },
+    {
+      "id": 47,
+      "name_ar": "San Miguel de Salcedo",
+      "name_en": "San Miguel de Salcedo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 16751
+    },
+    {
+      "id": 48,
+      "name_ar": "لوماس دي سارجنتيلو",
+      "name_en": "Lomas de Sargentillo",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 16603
+    },
+    {
+      "id": 49,
+      "name_ar": "بالاو",
+      "name_en": "Balao",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 12850
+    },
+    {
+      "id": 50,
+      "name_ar": "Puerto Ayora",
+      "name_en": "Puerto Ayora",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 12696
+    },
+    {
+      "id": 51,
+      "name_ar": "برتو لوبيز، ميتا",
+      "name_en": "Puerto Lopez",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 12598
+    },
+    {
+      "id": 52,
+      "name_ar": "Tosagua",
+      "name_en": "Tosagua",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 11317
+    },
+    {
+      "id": 53,
+      "name_ar": "سانتا كروز",
+      "name_en": "Santa Cruz",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 11262
+    },
+    {
+      "id": 54,
+      "name_ar": "فلسطين",
+      "name_en": "Palestina",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 10392
+    },
+    {
+      "id": 55,
+      "name_ar": "بيدراهيتا",
+      "name_en": "Piedrahita",
+      "country_ar": "الإكوادور",
+      "country_en": "Ecuador",
+      "population": 10010
+    }
+  ],
+  "meta": {
+    "title": "مدن الإكوادور — Cities of Ecuador (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الإكوادور بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 55 cities in Ecuador with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 55 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الإكوادور — Cities of Ecuador (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الإكوادور — Cities of Ecuador (Arabic names) — 55 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 55 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

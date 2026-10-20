@@ -1,0 +1,600 @@
+{
+  "id": "ar-mudun-india",
+  "name": "مدن الهند — Cities of India (Arabic names)",
+  "title": "مدن الهند — Cities of India (Arabic names)",
+  "description": "قائمة بأسماء مدن الهند بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 68 cities in India with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دلهي",
+      "name_en": "Delhi",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 32226000
+    },
+    {
+      "id": 2,
+      "name_ar": "مومباي",
+      "name_en": "Mumbai",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 24973000
+    },
+    {
+      "id": 3,
+      "name_ar": "كلكتا",
+      "name_en": "Kolkata",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 21747000
+    },
+    {
+      "id": 4,
+      "name_ar": "بنغالور",
+      "name_en": "Bangalore",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 15386000
+    },
+    {
+      "id": 5,
+      "name_ar": "تشيناي",
+      "name_en": "Chennai",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 12395000
+    },
+    {
+      "id": 6,
+      "name_ar": "حيدر آباد",
+      "name_en": "Hyderabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 10494000
+    },
+    {
+      "id": 7,
+      "name_ar": "بونه",
+      "name_en": "Pune",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 8231000
+    },
+    {
+      "id": 8,
+      "name_ar": "أحمد آباد",
+      "name_en": "Ahmedabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 8009000
+    },
+    {
+      "id": 9,
+      "name_ar": "الله أباد",
+      "name_en": "Prayagraj",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 5954391
+    },
+    {
+      "id": 10,
+      "name_ar": "لكهنؤ",
+      "name_en": "Lucknow",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 3382000
+    },
+    {
+      "id": 11,
+      "name_ar": "جيبور",
+      "name_en": "Jaipur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 3073350
+    },
+    {
+      "id": 12,
+      "name_ar": "منطقة ميرزابور",
+      "name_en": "Mirzapur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 2496970
+    },
+    {
+      "id": 13,
+      "name_ar": "ناغبور",
+      "name_en": "Nagpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 2405665
+    },
+    {
+      "id": 14,
+      "name_ar": "منطقة غازي",
+      "name_en": "Ghaziabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 2375820
+    },
+    {
+      "id": 15,
+      "name_ar": "فادودارا",
+      "name_en": "Vadodara",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 2065771
+    },
+    {
+      "id": 16,
+      "name_ar": "إندور",
+      "name_en": "Indore",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1994397
+    },
+    {
+      "id": 17,
+      "name_ar": "بوبال",
+      "name_en": "Bhopal",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1798218
+    },
+    {
+      "id": 18,
+      "name_ar": "بيمبري - تشينشواد",
+      "name_en": "Pimpri-Chinchwad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1729320
+    },
+    {
+      "id": 19,
+      "name_ar": "باتنا",
+      "name_en": "Patna",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1684222
+    },
+    {
+      "id": 20,
+      "name_ar": "بيلاسبور",
+      "name_en": "Bilaspur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1625502
+    },
+    {
+      "id": 21,
+      "name_ar": "لديانة",
+      "name_en": "Ludhiana",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1618879
+    },
+    {
+      "id": 22,
+      "name_ar": "مادوراي",
+      "name_en": "Madurai",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1561129
+    },
+    {
+      "id": 23,
+      "name_ar": "جمشيدبور",
+      "name_en": "Jamshedpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1558000
+    },
+    {
+      "id": 24,
+      "name_ar": "ناشيك",
+      "name_en": "Nasik",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1486053
+    },
+    {
+      "id": 25,
+      "name_ar": "فيجاياوادا",
+      "name_en": "Vijayawada",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1476931
+    },
+    {
+      "id": 26,
+      "name_ar": "فريد آباد",
+      "name_en": "Faridabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1404653
+    },
+    {
+      "id": 27,
+      "name_ar": "نجفجاره",
+      "name_en": "Najafgarh",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1365152
+    },
+    {
+      "id": 28,
+      "name_ar": "ميرت",
+      "name_en": "Meerut",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1305429
+    },
+    {
+      "id": 29,
+      "name_ar": "جبلبور",
+      "name_en": "Jabalpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1267564
+    },
+    {
+      "id": 30,
+      "name_ar": "فاساي فيرار",
+      "name_en": "Vasai-Virar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1221233
+    },
+    {
+      "id": 31,
+      "name_ar": "باني بت",
+      "name_en": "Panipat",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1202811
+    },
+    {
+      "id": 32,
+      "name_ar": "فاراناسي",
+      "name_en": "Varanasi",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1198491
+    },
+    {
+      "id": 33,
+      "name_ar": "سري نكر",
+      "name_en": "Srinagar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1180570
+    },
+    {
+      "id": 34,
+      "name_ar": "منطقة أورانجاباد",
+      "name_en": "Aurangabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1175116
+    },
+    {
+      "id": 35,
+      "name_ar": "أمرتسر",
+      "name_en": "Amritsar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1132383
+    },
+    {
+      "id": 36,
+      "name_ar": "منطقة عليكره",
+      "name_en": "Aligarh",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1131160
+    },
+    {
+      "id": 37,
+      "name_ar": "غواهاتي",
+      "name_en": "Guwahati",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1116267
+    },
+    {
+      "id": 38,
+      "name_ar": "هاورا",
+      "name_en": "Haora",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1077075
+    },
+    {
+      "id": 39,
+      "name_ar": "قاليور",
+      "name_en": "Gwalior",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1069276
+    },
+    {
+      "id": 40,
+      "name_ar": "شَنديغار",
+      "name_en": "Chandigarh",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1055450
+    },
+    {
+      "id": 41,
+      "name_ar": "جدبور",
+      "name_en": "Jodhpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1033918
+    },
+    {
+      "id": 42,
+      "name_ar": "رايبور",
+      "name_en": "Raipur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1010087
+    },
+    {
+      "id": 43,
+      "name_ar": "بريلي",
+      "name_en": "Bareilly",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 1000000
+    },
+    {
+      "id": 44,
+      "name_ar": "كويمباتور",
+      "name_en": "Coimbatore",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 959823
+    },
+    {
+      "id": 45,
+      "name_ar": "منطقة سولابور",
+      "name_en": "Solapur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 951558
+    },
+    {
+      "id": 46,
+      "name_ar": "تيريوشيراببالي",
+      "name_en": "Trichinopoly",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 916857
+    },
+    {
+      "id": 47,
+      "name_ar": "مراد آباد",
+      "name_en": "Moradabad",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 889810
+    },
+    {
+      "id": 48,
+      "name_ar": "ضاحية تيروبور",
+      "name_en": "Tiruppur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 877778
+    },
+    {
+      "id": 49,
+      "name_ar": "جورجاون",
+      "name_en": "Gurgaon",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 876824
+    },
+    {
+      "id": 50,
+      "name_ar": "جالاندهار",
+      "name_en": "Jalandhar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 873725
+    },
+    {
+      "id": 51,
+      "name_ar": "بوبانسوار",
+      "name_en": "Bhubaneshwar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 837737
+    },
+    {
+      "id": 52,
+      "name_ar": "بياندار",
+      "name_en": "Bhayandar",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 809378
+    },
+    {
+      "id": 53,
+      "name_ar": "بتيالة",
+      "name_en": "Patiala",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 763280
+    },
+    {
+      "id": 54,
+      "name_ar": "منطقة ثيروفانانثابورام",
+      "name_en": "Thiruvananthapuram",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 743691
+    },
+    {
+      "id": 55,
+      "name_ar": "درغابور",
+      "name_en": "Durgapur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 726000
+    },
+    {
+      "id": 56,
+      "name_ar": "بيواندي",
+      "name_en": "Bhiwandi",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 709665
+    },
+    {
+      "id": 57,
+      "name_ar": "منطقة بهيلوارا",
+      "name_en": "Bhilwara",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 709483
+    },
+    {
+      "id": 58,
+      "name_ar": "منطقة سَهَارَنبور",
+      "name_en": "Saharanpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 705478
+    },
+    {
+      "id": 59,
+      "name_ar": "سيليجري",
+      "name_en": "Shiliguri",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 701489
+    },
+    {
+      "id": 60,
+      "name_ar": "سايلم",
+      "name_en": "Salem",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 693236
+    },
+    {
+      "id": 61,
+      "name_ar": "كوتشي",
+      "name_en": "Kochi",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 677381
+    },
+    {
+      "id": 62,
+      "name_ar": "غوراخبور",
+      "name_en": "Gorakhpur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 673446
+    },
+    {
+      "id": 63,
+      "name_ar": "مقاطعة غنتور",
+      "name_en": "Guntur",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 670073
+    },
+    {
+      "id": 64,
+      "name_ar": "هالدوانى",
+      "name_en": "Haldwani",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 656000
+    },
+    {
+      "id": 65,
+      "name_ar": "نويدا",
+      "name_en": "Noida",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 637272
+    },
+    {
+      "id": 66,
+      "name_ar": "بهيلاي",
+      "name_en": "Bhilai",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 624700
+    },
+    {
+      "id": 67,
+      "name_ar": "مانغلور",
+      "name_en": "Mangalore",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 623841
+    },
+    {
+      "id": 68,
+      "name_ar": "كوتاك",
+      "name_en": "Cuttack",
+      "country_ar": "الهند",
+      "country_en": "India",
+      "population": 606007
+    }
+  ],
+  "meta": {
+    "title": "مدن الهند — Cities of India (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الهند بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 68 cities in India with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 68 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الهند — Cities of India (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الهند — Cities of India (Arabic names) — 68 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 68 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

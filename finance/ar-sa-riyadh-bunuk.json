@@ -1,0 +1,492 @@
+{
+  "id": "ar-sa-riyadh-bunuk",
+  "name": "بنوك Riyadh — المملكة العربية السعودية — رموز سويفت (Banks of Riyadh, Saudi Arabia — SWIFT/BIC codes)",
+  "title": "بنوك Riyadh — المملكة العربية السعودية — رموز سويفت (Banks of Riyadh, Saudi Arabia — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Riyadh (المملكة العربية السعودية) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 63 سجلًا. List of banks, financial institutions and their branches in Riyadh, Saudi Arabia with the SWIFT/BIC code, bank name and branch name for each. 63 records. Source: PeterNotenboom/SwiftCodes AllCountries/SA.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL INMA BANK",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "INMASARI"
+    },
+    {
+      "id": 2,
+      "bank": "AL RAJHI BANK",
+      "city": "RIYADH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "RJHISARI"
+    },
+    {
+      "id": 3,
+      "bank": "ALAWWAL BANK",
+      "city": "RIYADH",
+      "branch": "(CENTRAL AREA RIYADH)",
+      "swift_code": "AAALSARIRYD"
+    },
+    {
+      "id": 4,
+      "bank": "ALAWWAL BANK",
+      "city": "RIYADH",
+      "branch": "(CENTRAL TREASURY DEPT.)",
+      "swift_code": "AAALSARICTD"
+    },
+    {
+      "id": 5,
+      "bank": "ALAWWAL BANK",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "AAALSARI"
+    },
+    {
+      "id": 6,
+      "bank": "ALAWWAL INVEST",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SAHCSARI"
+    },
+    {
+      "id": 7,
+      "bank": "ALMARAI COMPANY",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "ALMRSARI"
+    },
+    {
+      "id": 8,
+      "bank": "ARAB NATIONAL BANK",
+      "city": "RIYADH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "ARNBSARI"
+    },
+    {
+      "id": 9,
+      "bank": "BANK AL BILAD",
+      "city": "RIYADH",
+      "branch": "(ALBILAD CUSTODY)",
+      "swift_code": "ALBISARICAP"
+    },
+    {
+      "id": 10,
+      "bank": "BANK AL BILAD",
+      "city": "RIYADH",
+      "branch": "(TRADE FINANCE CENTER)",
+      "swift_code": "ALBISARITFC"
+    },
+    {
+      "id": 11,
+      "bank": "BANK AL BILAD",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "ALBISARI"
+    },
+    {
+      "id": 12,
+      "bank": "BANK AL-JAZIRA",
+      "city": "RIYADH",
+      "branch": "(OLAYYAH BRANCH)",
+      "swift_code": "BJAZSAJE016"
+    },
+    {
+      "id": 13,
+      "bank": "BANK AL-JAZIRA",
+      "city": "RIYADH",
+      "branch": "(SITTEEN STREET BRANCH)",
+      "swift_code": "BJAZSAJE027"
+    },
+    {
+      "id": 14,
+      "bank": "BANKMUSCAT",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "BMUSSARI"
+    },
+    {
+      "id": 15,
+      "bank": "BANQUE SAUDI FRANSI",
+      "city": "RIYADH",
+      "branch": "(CENTRAL REGION)",
+      "swift_code": "BSFRSARIRYD"
+    },
+    {
+      "id": 16,
+      "bank": "BANQUE SAUDI FRANSI",
+      "city": "RIYADH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "BSFRSARIGEM"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE SAUDI FRANSI",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "BSFRSARI"
+    },
+    {
+      "id": 18,
+      "bank": "BNP PARIBAS INVESTMENT COMPANY KSA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "BNPASARB"
+    },
+    {
+      "id": 19,
+      "bank": "BNP PARIBAS INVESTMENT COMPANY KSA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "BNPASARBWMI"
+    },
+    {
+      "id": 20,
+      "bank": "BNP PARIBAS SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "BNPASARI"
+    },
+    {
+      "id": 21,
+      "bank": "CREDIT SUISSE SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "CRESSARA"
+    },
+    {
+      "id": 22,
+      "bank": "CREDIT SUISSE SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "CRESSARA20R"
+    },
+    {
+      "id": 23,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "(DOMESTIC CUSTODY SERVICES)",
+      "swift_code": "DEUTSARICUS"
+    },
+    {
+      "id": 24,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARA"
+    },
+    {
+      "id": 25,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARAAWM"
+    },
+    {
+      "id": 26,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARACUS"
+    },
+    {
+      "id": 27,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARI"
+    },
+    {
+      "id": 28,
+      "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARIGES"
+    },
+    {
+      "id": 29,
+      "bank": "DEUTSCHE SECURITIES SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "DEUTSARB"
+    },
+    {
+      "id": 30,
+      "bank": "EFG-HERMES KSA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "EFKSSAR1"
+    },
+    {
+      "id": 31,
+      "bank": "EMIRATES NBD PJSC",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "EBILSARI"
+    },
+    {
+      "id": 32,
+      "bank": "GULF INTERNATIONAL BANK B.S.C., RIYADH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "GULFSARI"
+    },
+    {
+      "id": 33,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA RIYADH BRANCH, SA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "ICBKSARI"
+    },
+    {
+      "id": 34,
+      "bank": "J.P. MORGAN SAUDI ARABIA LIMITED",
+      "city": "RIYADH",
+      "branch": "(DIRECT CUSTODY AND CLEARING- KINGDOM OF SAUDIA ARABIA)",
+      "swift_code": "JPMGSARYDCC"
+    },
+    {
+      "id": 35,
+      "bank": "J.P. MORGAN SAUDI ARABIA LIMITED",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "JPMGSARY"
+    },
+    {
+      "id": 36,
+      "bank": "JPMORGAN CHASE BANK, N.A. RIYADH",
+      "city": "RIYADH",
+      "branch": "(SAUDI ARABIA EXPENSES)",
+      "swift_code": "CHASSARISAU"
+    },
+    {
+      "id": 37,
+      "bank": "JPMORGAN CHASE BANK, N.A. RIYADH",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "CHASSARI"
+    },
+    {
+      "id": 38,
+      "bank": "MERRILL LYNCH KINGDOM OF SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "MLSASARI"
+    },
+    {
+      "id": 39,
+      "bank": "MORGAN STANLEY SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "MSRISAR1"
+    },
+    {
+      "id": 40,
+      "bank": "MORGAN STANLEY SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "MSSRSAR1"
+    },
+    {
+      "id": 41,
+      "bank": "NATIONAL BANK OF BAHRAIN",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "NBOBSARI"
+    },
+    {
+      "id": 42,
+      "bank": "NATIONAL BANK OF PAKISTAN",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "NBPASARI"
+    },
+    {
+      "id": 43,
+      "bank": "NATIONAL COMMERCIAL BANK, THE",
+      "city": "RIYADH",
+      "branch": "(TRADE SERVICES-CENTRAL)",
+      "swift_code": "NCBKSAJE614"
+    },
+    {
+      "id": 44,
+      "bank": "NATIONAL WATER COMPANY",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "NWCYSARI"
+    },
+    {
+      "id": 45,
+      "bank": "QATAR NATIONAL BANK",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "QNBASARI"
+    },
+    {
+      "id": 46,
+      "bank": "QINVEST SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "QINVSAR1"
+    },
+    {
+      "id": 47,
+      "bank": "RIYAD BANK",
+      "city": "RIYADH",
+      "branch": "(RIYAD CAPITAL)",
+      "swift_code": "RIBLSARISSD"
+    },
+    {
+      "id": 48,
+      "bank": "RIYAD BANK",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "RIBLSARI"
+    },
+    {
+      "id": 49,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "RIYADH",
+      "branch": "(CENTRAL REGION BRANCH)",
+      "swift_code": "SAMBSARIRCS"
+    },
+    {
+      "id": 50,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "RIYADH",
+      "branch": "(CONSUMERS BRANCH)",
+      "swift_code": "SAMBSARIRCP"
+    },
+    {
+      "id": 51,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "RIYADH",
+      "branch": "(RIYADH BRANCH)",
+      "swift_code": "SAMBSARIRFX"
+    },
+    {
+      "id": 52,
+      "bank": "SAMBA FINANCIAL GROUP",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SAMBSARI"
+    },
+    {
+      "id": 53,
+      "bank": "SAUDI ARABIAN MONETARY AUTHORITY",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SAMASARI"
+    },
+    {
+      "id": 54,
+      "bank": "SAUDI BASIC INDUSTRIES CORPORATION (SABIC)",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SBHQSARR"
+    },
+    {
+      "id": 55,
+      "bank": "SAUDI BRITISH BANK, THE",
+      "city": "RIYADH",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "SABBSARI"
+    },
+    {
+      "id": 56,
+      "bank": "SAUDI CERAMIC COMPANY",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SACYSAR1"
+    },
+    {
+      "id": 57,
+      "bank": "SAUDI INVESTMENT BANK, THE",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SIBCSARI"
+    },
+    {
+      "id": 58,
+      "bank": "SAUDI STOCK EXCHANGE",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "TSSMSAR1"
+    },
+    {
+      "id": 59,
+      "bank": "SAUDI TELECOM COMPANY",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "STCOSARI"
+    },
+    {
+      "id": 60,
+      "bank": "SHUAA CAPITAL SAUDI ARABIA",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SHUASAR1"
+    },
+    {
+      "id": 61,
+      "bank": "STANDARD CHARTERED CAPITAL (SAUDI ARABIA)",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SCBLSARI"
+    },
+    {
+      "id": 62,
+      "bank": "SUPREME FOODS COMPANY LIMITED",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SUFCSAR1"
+    },
+    {
+      "id": 63,
+      "bank": "THE SAUDI FUND FOR DEVELOPMENT",
+      "city": "RIYADH",
+      "branch": "",
+      "swift_code": "SFFDSARI"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Riyadh — المملكة العربية السعودية — رموز سويفت (Banks of Riyadh, Saudi Arabia — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Riyadh (المملكة العربية السعودية) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 63 سجلًا. List of banks, financial institutions and their branches in Riyadh, Saudi Arabia with the SWIFT/BIC code, bank name and branch name for each. 63 records. Source: PeterNotenboom/SwiftCodes AllCountries/SA.json (MIT). يحتوي على 63 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Riyadh — المملكة العربية السعودية — رموز سويفت (Banks of Riyadh, Saudi Arabia — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Riyadh — المملكة العربية السعودية — رموز سويفت (Banks of Riyadh, Saudi Arabia — SWIFT/BIC codes) — 63 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 63 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

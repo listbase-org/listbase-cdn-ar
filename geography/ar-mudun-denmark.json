@@ -1,0 +1,280 @@
+{
+  "id": "ar-mudun-denmark",
+  "name": "مدن الدانمارك — Cities of Denmark (Arabic names)",
+  "title": "مدن الدانمارك — Cities of Denmark (Arabic names)",
+  "description": "قائمة بأسماء مدن الدانمارك بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 28 cities in Denmark with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كوبنهاغن",
+      "name_en": "Copenhagen",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 1366301
+    },
+    {
+      "id": 2,
+      "name_ar": "آرهوس",
+      "name_en": "Aarhus",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 290598
+    },
+    {
+      "id": 3,
+      "name_ar": "أودنسه",
+      "name_en": "Odense",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 182387
+    },
+    {
+      "id": 4,
+      "name_ar": "آلبورغ",
+      "name_en": "Aalborg",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 143598
+    },
+    {
+      "id": 5,
+      "name_ar": "إيسبيرغ",
+      "name_en": "Esbjerg",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 71921
+    },
+    {
+      "id": 6,
+      "name_ar": "راندرس",
+      "name_en": "Randers",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 64057
+    },
+    {
+      "id": 7,
+      "name_ar": "هورسينس",
+      "name_en": "Horsens",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 63162
+    },
+    {
+      "id": 8,
+      "name_ar": "كولدنغ",
+      "name_en": "Kolding",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 62338
+    },
+    {
+      "id": 9,
+      "name_ar": "فايله",
+      "name_en": "Vejle",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 61310
+    },
+    {
+      "id": 10,
+      "name_ar": "روسكيلدا",
+      "name_en": "Roskilde",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 52580
+    },
+    {
+      "id": 11,
+      "name_ar": "هرنينغ",
+      "name_en": "Herning",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 51193
+    },
+    {
+      "id": 12,
+      "name_ar": "سيلكيبورج",
+      "name_en": "Silkeborg",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 50866
+    },
+    {
+      "id": 13,
+      "name_ar": "هيليسينكور",
+      "name_en": "Helsingor",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 47563
+    },
+    {
+      "id": 14,
+      "name_ar": "فيبورغ",
+      "name_en": "Viborg",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 42234
+    },
+    {
+      "id": 15,
+      "name_ar": "فريدريكيا",
+      "name_en": "Fredericia",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 41243
+    },
+    {
+      "id": 16,
+      "name_ar": "هولستيبرو",
+      "name_en": "Holstebro",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 37022
+    },
+    {
+      "id": 17,
+      "name_ar": "هيليرود",
+      "name_en": "Hillerod",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 36043
+    },
+    {
+      "id": 18,
+      "name_ar": "سلاغيلس",
+      "name_en": "Slagelse",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 34648
+    },
+    {
+      "id": 19,
+      "name_ar": "سفينبورغ",
+      "name_en": "Svendborg",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 27594
+    },
+    {
+      "id": 20,
+      "name_ar": "نوسونبي",
+      "name_en": "Norresundby",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 23718
+    },
+    {
+      "id": 21,
+      "name_ar": "فريكشهاون",
+      "name_en": "Frederikshavn",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 22961
+    },
+    {
+      "id": 22,
+      "name_ar": "هادرسلف",
+      "name_en": "Haderslev",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 22182
+    },
+    {
+      "id": 23,
+      "name_ar": "ميدلفارت",
+      "name_en": "Middelfart",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 16546
+    },
+    {
+      "id": 24,
+      "name_ar": "أبينرا",
+      "name_en": "Aabenraa",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 15685
+    },
+    {
+      "id": 25,
+      "name_ar": "كورسور",
+      "name_en": "Korsor",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 14418
+    },
+    {
+      "id": 26,
+      "name_ar": "هوبرو",
+      "name_en": "Hobro",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 12191
+    },
+    {
+      "id": 27,
+      "name_ar": "بلدة سترير",
+      "name_en": "Struer",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 10112
+    },
+    {
+      "id": 28,
+      "name_ar": "فانتا",
+      "name_en": "Helsinge",
+      "country_ar": "الدانمارك",
+      "country_en": "Denmark",
+      "population": 8906
+    }
+  ],
+  "meta": {
+    "title": "مدن الدانمارك — Cities of Denmark (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الدانمارك بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 28 cities in Denmark with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 28 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الدانمارك — Cities of Denmark (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الدانمارك — Cities of Denmark (Arabic names) — 28 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 28 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

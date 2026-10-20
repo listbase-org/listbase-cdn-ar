@@ -1,0 +1,552 @@
+{
+  "id": "ar-mudun-australia",
+  "name": "مدن أستراليا — Cities of Australia (Arabic names)",
+  "title": "مدن أستراليا — Cities of Australia (Arabic names)",
+  "description": "قائمة بأسماء مدن أستراليا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Australia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ملبورن",
+      "name_en": "Melbourne",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 5031195
+    },
+    {
+      "id": 2,
+      "name_ar": "سيدني",
+      "name_en": "Sydney",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 4840600
+    },
+    {
+      "id": 3,
+      "name_ar": "بريزبان",
+      "name_en": "Brisbane",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 2706966
+    },
+    {
+      "id": 4,
+      "name_ar": "برث",
+      "name_en": "Perth",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 2141834
+    },
+    {
+      "id": 5,
+      "name_ar": "آديلايد",
+      "name_en": "Adelaide",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 1387290
+    },
+    {
+      "id": 6,
+      "name_ar": "غولد كوست",
+      "name_en": "Gold Coast",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 607665
+    },
+    {
+      "id": 7,
+      "name_ar": "كانبرا",
+      "name_en": "Canberra",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 381488
+    },
+    {
+      "id": 8,
+      "name_ar": "ولونغونغ",
+      "name_en": "Wollongong",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 261896
+    },
+    {
+      "id": 9,
+      "name_ar": "إبسوتش",
+      "name_en": "Ipswich",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 232930
+    },
+    {
+      "id": 10,
+      "name_ar": "غيلونغ",
+      "name_en": "Geelong",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 180239
+    },
+    {
+      "id": 11,
+      "name_ar": "تاونسفيل",
+      "name_en": "Townsville",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 173724
+    },
+    {
+      "id": 12,
+      "name_ar": "نيوكاسل أبون تاين",
+      "name_en": "Newcastle",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 152984
+    },
+    {
+      "id": 13,
+      "name_ar": "داروين",
+      "name_en": "Darwin",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 139902
+    },
+    {
+      "id": 14,
+      "name_ar": "بالارات",
+      "name_en": "Ballarat",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 116201
+    },
+    {
+      "id": 15,
+      "name_ar": "توومبا",
+      "name_en": "Toowoomba",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 108398
+    },
+    {
+      "id": 16,
+      "name_ar": "بنديجو",
+      "name_en": "Bendigo",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 103034
+    },
+    {
+      "id": 17,
+      "name_ar": "ماندوراه",
+      "name_en": "Mandurah",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 90306
+    },
+    {
+      "id": 18,
+      "name_ar": "ماكاي",
+      "name_en": "Mackay",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 72900
+    },
+    {
+      "id": 19,
+      "name_ar": "بوندابيرج",
+      "name_en": "Bundaberg",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 70540
+    },
+    {
+      "id": 20,
+      "name_ar": "ماروشيدور",
+      "name_en": "Maroochydore",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 63673
+    },
+    {
+      "id": 21,
+      "name_ar": "روكهامبتون",
+      "name_en": "Rockhampton",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 63151
+    },
+    {
+      "id": 22,
+      "name_ar": "خليج هيرفي",
+      "name_en": "Hervey Bay",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 57722
+    },
+    {
+      "id": 23,
+      "name_ar": "واجا واجا",
+      "name_en": "Wagga Wagga",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 49686
+    },
+    {
+      "id": 24,
+      "name_ar": "بورت ماكواري",
+      "name_en": "Port Macquarie",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 44830
+    },
+    {
+      "id": 25,
+      "name_ar": "كالوندرا",
+      "name_en": "Caloundra",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 41293
+    },
+    {
+      "id": 26,
+      "name_ar": "دوبو",
+      "name_en": "Dubbo",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 38783
+    },
+    {
+      "id": 27,
+      "name_ar": "أورانج",
+      "name_en": "Orange",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 38097
+    },
+    {
+      "id": 28,
+      "name_ar": "صنبوري",
+      "name_en": "Sunbury",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 36084
+    },
+    {
+      "id": 29,
+      "name_ar": "ميلدورا",
+      "name_en": "Mildura",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 34565
+    },
+    {
+      "id": 30,
+      "name_ar": "جيرالدتون",
+      "name_en": "Geraldton",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 32717
+    },
+    {
+      "id": 31,
+      "name_ar": "شيبارتون",
+      "name_en": "Shepparton",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 32067
+    },
+    {
+      "id": 32,
+      "name_ar": "نادي ساوثبورت",
+      "name_en": "Southport",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 31908
+    },
+    {
+      "id": 33,
+      "name_ar": "كالغورلي",
+      "name_en": "Kalgoorlie",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 30841
+    },
+    {
+      "id": 34,
+      "name_ar": "وارنامبول",
+      "name_en": "Warrnambool",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 29661
+    },
+    {
+      "id": 35,
+      "name_ar": "كابولتشر",
+      "name_en": "Caboolture",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 26433
+    },
+    {
+      "id": 36,
+      "name_ar": "كوفس هاربور",
+      "name_en": "Coffs Harbour",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 25752
+    },
+    {
+      "id": 37,
+      "name_ar": "مونت غامبير",
+      "name_en": "Mount Gambier",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 25591
+    },
+    {
+      "id": 38,
+      "name_ar": "بوسلتون",
+      "name_en": "Busselton",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 25329
+    },
+    {
+      "id": 39,
+      "name_ar": "ألباني",
+      "name_en": "Albany",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 25196
+    },
+    {
+      "id": 40,
+      "name_ar": "ترارالغون",
+      "name_en": "Traralgon",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 24933
+    },
+    {
+      "id": 41,
+      "name_ar": "غولبرن",
+      "name_en": "Goulburn",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 24565
+    },
+    {
+      "id": 42,
+      "name_ar": "أليس سبرينغز",
+      "name_en": "Alice Springs",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 23726
+    },
+    {
+      "id": 43,
+      "name_ar": "وايللا",
+      "name_en": "Whyalla",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 21501
+    },
+    {
+      "id": 44,
+      "name_ar": "آرمدال",
+      "name_en": "Armidale",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 21312
+    },
+    {
+      "id": 45,
+      "name_ar": "وودونغا",
+      "name_en": "Wodonga",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 20259
+    },
+    {
+      "id": 46,
+      "name_ar": "بورني",
+      "name_en": "Burnie",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 19918
+    },
+    {
+      "id": 47,
+      "name_ar": "غريفيث",
+      "name_en": "Griffith",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 18196
+    },
+    {
+      "id": 48,
+      "name_ar": "بروكن هيل",
+      "name_en": "Broken Hill",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 17706
+    },
+    {
+      "id": 49,
+      "name_ar": "وانجارتا",
+      "name_en": "Wangaratta",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 17377
+    },
+    {
+      "id": 50,
+      "name_ar": "كاراثا",
+      "name_en": "Karratha",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 17013
+    },
+    {
+      "id": 51,
+      "name_ar": "تاري",
+      "name_en": "Taree",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 16197
+    },
+    {
+      "id": 52,
+      "name_ar": "لارا",
+      "name_en": "Lara",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 15772
+    },
+    {
+      "id": 53,
+      "name_ar": "ماريبورو",
+      "name_en": "Maryborough",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 15287
+    },
+    {
+      "id": 54,
+      "name_ar": "اولادولا",
+      "name_en": "Ulladulla",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 15278
+    },
+    {
+      "id": 55,
+      "name_ar": "إتشوكا",
+      "name_en": "Echuca",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 15056
+    },
+    {
+      "id": 56,
+      "name_ar": "جسر موراي",
+      "name_en": "Murray Bridge",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 15043
+    },
+    {
+      "id": 57,
+      "name_ar": "بورت لينكولن",
+      "name_en": "Port Lincoln",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 14120
+    },
+    {
+      "id": 58,
+      "name_ar": "فوريستر",
+      "name_en": "Forster",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 13740
+    },
+    {
+      "id": 59,
+      "name_ar": "نادي توركي يونايتد",
+      "name_en": "Torquay",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 13258
+    },
+    {
+      "id": 60,
+      "name_ar": "ليوبولد",
+      "name_en": "Leopold",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 12814
+    },
+    {
+      "id": 61,
+      "name_ar": "كاملبتاون",
+      "name_en": "Campbelltown",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 12566
+    },
+    {
+      "id": 62,
+      "name_ar": "دروين",
+      "name_en": "Drouin",
+      "country_ar": "أستراليا",
+      "country_en": "Australia",
+      "population": 12349
+    }
+  ],
+  "meta": {
+    "title": "مدن أستراليا — Cities of Australia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أستراليا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 62 cities in Australia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 62 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أستراليا — Cities of Australia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أستراليا — Cities of Australia (Arabic names) — 62 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 62 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

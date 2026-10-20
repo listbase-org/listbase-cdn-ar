@@ -1,0 +1,784 @@
+{
+  "id": "ar-mudun-iran",
+  "name": "مدن إيران — Cities of Iran (Arabic names)",
+  "title": "مدن إيران — Cities of Iran (Arabic names)",
+  "description": "قائمة بأسماء مدن إيران بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 91 cities in Iran with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "طهران",
+      "name_en": "Tehran",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 14148000
+    },
+    {
+      "id": 2,
+      "name_ar": "مشهد",
+      "name_en": "Mashhad",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 3700000
+    },
+    {
+      "id": 3,
+      "name_ar": "أصفهان",
+      "name_en": "Esfahan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 2219343
+    },
+    {
+      "id": 4,
+      "name_ar": "كرج",
+      "name_en": "Karaj",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 1973470
+    },
+    {
+      "id": 5,
+      "name_ar": "شيراز",
+      "name_en": "Shiraz",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 1565572
+    },
+    {
+      "id": 6,
+      "name_ar": "تبريز",
+      "name_en": "Tabriz",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 1558693
+    },
+    {
+      "id": 7,
+      "name_ar": "الأهواز",
+      "name_en": "Ahvaz",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 1325000
+    },
+    {
+      "id": 8,
+      "name_ar": "قم",
+      "name_en": "Qom",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 1201158
+    },
+    {
+      "id": 9,
+      "name_ar": "كرمانشاه",
+      "name_en": "Kermanshah",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 946651
+    },
+    {
+      "id": 10,
+      "name_ar": "كرمان",
+      "name_en": "Kerman",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 738374
+    },
+    {
+      "id": 11,
+      "name_ar": "مطار أورمية شهيد بكري الدولي",
+      "name_en": "Orumiyeh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 736224
+    },
+    {
+      "id": 12,
+      "name_ar": "رشت",
+      "name_en": "Rasht",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 679995
+    },
+    {
+      "id": 13,
+      "name_ar": "البحر",
+      "name_en": "Bahar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 673405
+    },
+    {
+      "id": 14,
+      "name_ar": "زاهدان",
+      "name_en": "Zahedan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 587730
+    },
+    {
+      "id": 15,
+      "name_ar": "همدان",
+      "name_en": "Hamadan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 554406
+    },
+    {
+      "id": 16,
+      "name_ar": "يزد",
+      "name_en": "Yazd",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 529673
+    },
+    {
+      "id": 17,
+      "name_ar": "أردبيل",
+      "name_en": "Ardabil",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 529374
+    },
+    {
+      "id": 18,
+      "name_ar": "بندر عباس",
+      "name_en": "Bandar `Abbas",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 526648
+    },
+    {
+      "id": 19,
+      "name_ar": "إسلام شهر",
+      "name_en": "Eslamshahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 448129
+    },
+    {
+      "id": 20,
+      "name_ar": "سنندج",
+      "name_en": "Sanandaj",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 412767
+    },
+    {
+      "id": 21,
+      "name_ar": "قزوين",
+      "name_en": "Qazvin",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 402748
+    },
+    {
+      "id": 22,
+      "name_ar": "زنجان",
+      "name_en": "Zanjan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 386851
+    },
+    {
+      "id": 23,
+      "name_ar": "جرجان",
+      "name_en": "Gorgan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 312223
+    },
+    {
+      "id": 24,
+      "name_ar": "كاشان",
+      "name_en": "Kashan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 304487
+    },
+    {
+      "id": 25,
+      "name_ar": "ملارد",
+      "name_en": "Malard",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 281027
+    },
+    {
+      "id": 26,
+      "name_ar": "مراغة",
+      "name_en": "Maragheh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 272400
+    },
+    {
+      "id": 27,
+      "name_ar": "سرطة",
+      "name_en": "Sarta",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 271467
+    },
+    {
+      "id": 28,
+      "name_ar": "دزفول",
+      "name_en": "Dezful",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 264709
+    },
+    {
+      "id": 29,
+      "name_ar": "بابل",
+      "name_en": "Babol",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 250217
+    },
+    {
+      "id": 30,
+      "name_ar": "قائم شهر",
+      "name_en": "Qa'em Shahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 247953
+    },
+    {
+      "id": 31,
+      "name_ar": "خميني شهر",
+      "name_en": "Khomeyni Shahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 247128
+    },
+    {
+      "id": 32,
+      "name_ar": "سبزوار",
+      "name_en": "Sabzevar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 243700
+    },
+    {
+      "id": 33,
+      "name_ar": "انديمشك",
+      "name_en": "Andimeshk",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 240113
+    },
+    {
+      "id": 34,
+      "name_ar": "باكدشت",
+      "name_en": "Pakdasht",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 236319
+    },
+    {
+      "id": 35,
+      "name_ar": "نجف آباد",
+      "name_en": "Najafabad",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 235281
+    },
+    {
+      "id": 36,
+      "name_ar": "بروجرد",
+      "name_en": "Borujerd",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 234997
+    },
+    {
+      "id": 37,
+      "name_ar": "قرتشك",
+      "name_en": "Qarchak",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 231075
+    },
+    {
+      "id": 38,
+      "name_ar": "بجنورد",
+      "name_en": "Bojnurd",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 228931
+    },
+    {
+      "id": 39,
+      "name_ar": "ورامين",
+      "name_en": "Varamin",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 225628
+    },
+    {
+      "id": 40,
+      "name_ar": "بوشهر",
+      "name_en": "Bandar-e Bushehr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 223504
+    },
+    {
+      "id": 41,
+      "name_ar": "نيسابور",
+      "name_en": "Neyshabur",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 221700
+    },
+    {
+      "id": 42,
+      "name_ar": "ساوة",
+      "name_en": "Saveh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 220762
+    },
+    {
+      "id": 43,
+      "name_ar": "بیرجند",
+      "name_en": "Birjand",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 203636
+    },
+    {
+      "id": 44,
+      "name_ar": "نسيم شهر",
+      "name_en": "Nasim Shahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 200393
+    },
+    {
+      "id": 45,
+      "name_ar": "خرم آباد",
+      "name_en": "Khorramabad",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 200000
+    },
+    {
+      "id": 46,
+      "name_ar": "بوكان",
+      "name_en": "Bukan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 193501
+    },
+    {
+      "id": 47,
+      "name_ar": "شهركرد",
+      "name_en": "Shahr-e Kord",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 190441
+    },
+    {
+      "id": 48,
+      "name_ar": "سمنان",
+      "name_en": "Semnan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 185129
+    },
+    {
+      "id": 49,
+      "name_ar": "فرديس",
+      "name_en": "Fardis",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 181174
+    },
+    {
+      "id": 50,
+      "name_ar": "سيرجان",
+      "name_en": "Sirjan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 175000
+    },
+    {
+      "id": 51,
+      "name_ar": "شاهين شهر",
+      "name_en": "Shahin Shahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 173329
+    },
+    {
+      "id": 52,
+      "name_ar": "ملاير",
+      "name_en": "Malayer",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 170237
+    },
+    {
+      "id": 53,
+      "name_ar": "مهاباد",
+      "name_en": "Mahabad",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 168393
+    },
+    {
+      "id": 54,
+      "name_ar": "سقز",
+      "name_en": "Saqqez",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 165258
+    },
+    {
+      "id": 55,
+      "name_ar": "شاهرود",
+      "name_en": "Shahrud",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 165000
+    },
+    {
+      "id": 56,
+      "name_ar": "مقاطعة خدابنده",
+      "name_en": "Khodabandeh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 164493
+    },
+    {
+      "id": 57,
+      "name_ar": "معشور",
+      "name_en": "Bandar-e Mahshahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 162797
+    },
+    {
+      "id": 58,
+      "name_ar": "رفسنجان",
+      "name_en": "Rafsanjan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 161909
+    },
+    {
+      "id": 59,
+      "name_ar": "برازجان",
+      "name_en": "Borazjan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 155567
+    },
+    {
+      "id": 60,
+      "name_ar": "كنبد كاووس",
+      "name_en": "Gonbad-e Kavus",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 151910
+    },
+    {
+      "id": 61,
+      "name_ar": "مرودشت",
+      "name_en": "Marvdasht",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 148858
+    },
+    {
+      "id": 62,
+      "name_ar": "قوتشان",
+      "name_en": "Quchan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 145531
+    },
+    {
+      "id": 63,
+      "name_ar": "جهرم",
+      "name_en": "Jahrom",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 141634
+    },
+    {
+      "id": 64,
+      "name_ar": "كمال شهر",
+      "name_en": "Kamalshahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 141166
+    },
+    {
+      "id": 65,
+      "name_ar": "تربت حيدريه",
+      "name_en": "Torbat-e Heydariyeh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 140019
+    },
+    {
+      "id": 66,
+      "name_ar": "مريوان",
+      "name_en": "Marivan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 136654
+    },
+    {
+      "id": 67,
+      "name_ar": "شهرضا",
+      "name_en": "Shahreza",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 134952
+    },
+    {
+      "id": 68,
+      "name_ar": "زابل",
+      "name_en": "Zabol",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 134950
+    },
+    {
+      "id": 69,
+      "name_ar": "المحمرة",
+      "name_en": "Khorramshahr",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 133097
+    },
+    {
+      "id": 70,
+      "name_ar": "مرند",
+      "name_en": "Marand",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 130825
+    },
+    {
+      "id": 71,
+      "name_ar": "جيروفت",
+      "name_en": "Jiroft",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 130429
+    },
+    {
+      "id": 72,
+      "name_ar": "سلماس",
+      "name_en": "Salmas",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 127864
+    },
+    {
+      "id": 73,
+      "name_ar": "بامبرغ",
+      "name_en": "Bam",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 127396
+    },
+    {
+      "id": 74,
+      "name_ar": "بهبهان",
+      "name_en": "Behbahan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 122604
+    },
+    {
+      "id": 75,
+      "name_ar": "دورود",
+      "name_en": "Dorud",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 121608
+    },
+    {
+      "id": 76,
+      "name_ar": "نظر أباد",
+      "name_en": "Nazarabad",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 119512
+    },
+    {
+      "id": 77,
+      "name_ar": "بندر أنزلي",
+      "name_en": "Bandar-e Anzali",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 118564
+    },
+    {
+      "id": 78,
+      "name_ar": "فسا",
+      "name_en": "Fasa",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 110825
+    },
+    {
+      "id": 79,
+      "name_ar": "بطم أطلسي",
+      "name_en": "Baneh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 110218
+    },
+    {
+      "id": 80,
+      "name_ar": "ياسوج",
+      "name_en": "Yasuj",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 108505
+    },
+    {
+      "id": 81,
+      "name_ar": "جابهار",
+      "name_en": "Chabahar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 106739
+    },
+    {
+      "id": 82,
+      "name_ar": "رباط كريم",
+      "name_en": "Robat Karim",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 105393
+    },
+    {
+      "id": 83,
+      "name_ar": "كاشمر",
+      "name_en": "Kashmar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 102282
+    },
+    {
+      "id": 84,
+      "name_ar": "تستر",
+      "name_en": "Shushtar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 101878
+    },
+    {
+      "id": 85,
+      "name_ar": "أهر",
+      "name_en": "Ahar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 100641
+    },
+    {
+      "id": 86,
+      "name_ar": "مسجد سليمان",
+      "name_en": "Masjed Soleyman",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 100497
+    },
+    {
+      "id": 87,
+      "name_ar": "تربت جام",
+      "name_en": "Torbat-e Jam",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 100449
+    },
+    {
+      "id": 88,
+      "name_ar": "أبهر",
+      "name_en": "Abhar",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 99285
+    },
+    {
+      "id": 89,
+      "name_ar": "ميانه",
+      "name_en": "Mianeh",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 98973
+    },
+    {
+      "id": 90,
+      "name_ar": "دوغنبدان",
+      "name_en": "Do Gonbadan",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 96728
+    },
+    {
+      "id": 91,
+      "name_ar": "كازرون",
+      "name_en": "Kazerun",
+      "country_ar": "إيران",
+      "country_en": "Iran",
+      "population": 96683
+    }
+  ],
+  "meta": {
+    "title": "مدن إيران — Cities of Iran (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إيران بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 91 cities in Iran with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 91 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إيران — Cities of Iran (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إيران — Cities of Iran (Arabic names) — 91 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 91 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

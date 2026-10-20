@@ -1,0 +1,169 @@
+{
+  "id": "ar-misr-aswan-mudun",
+  "name": "مدن ومراكز محافظة أسوان (Cities & Towns of Aswan)",
+  "title": "مدن ومراكز محافظة أسوان (Cities & Towns of Aswan)",
+  "description": "قائمة مدن ومراكز محافظة أسوان في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Aswan governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "347",
+      "name_ar": "ابو الريش",
+      "name_en": "abou-al-reish",
+      "name_long_ar": "ابو الريش، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "348",
+      "name_ar": "ابو سمبل",
+      "name_en": "abou-simbel",
+      "name_long_ar": "ابو سمبل، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "351",
+      "name_ar": "ادفو",
+      "name_en": "edfu",
+      "name_long_ar": "ادفو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "352",
+      "name_ar": "البصيلية",
+      "name_en": "basiliah",
+      "name_long_ar": "البصيلية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "353",
+      "name_ar": "الرديسية",
+      "name_en": "rdesiah",
+      "name_long_ar": "الرديسية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "354",
+      "name_ar": "السباعية",
+      "name_en": "sebaeiah",
+      "name_long_ar": "السباعية، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "349",
+      "name_ar": "دراو",
+      "name_en": "daraw",
+      "name_long_ar": "دراو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "358",
+      "name_ar": "صحارى",
+      "name_en": "sahara",
+      "name_long_ar": "صحارى، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "355",
+      "name_ar": "كلابشة",
+      "name_en": "kalabsha",
+      "name_long_ar": "كلابشة، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "356",
+      "name_ar": "كوم امبو",
+      "name_en": "kom-ombo",
+      "name_long_ar": "كوم امبو، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "350",
+      "name_ar": "مدينة أسوان",
+      "name_en": "aswan-city",
+      "name_long_ar": "مدينة أسوان، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    },
+    {
+      "id": "357",
+      "name_ar": "نصر النوبة",
+      "name_en": "nasr-al-noba",
+      "name_long_ar": "نصر النوبة، أسوان",
+      "muhafaza_ar": "أسوان",
+      "muhafaza_en": "aswan",
+      "muhafaza_id": 56
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة أسوان (Cities & Towns of Aswan) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة أسوان في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Aswan governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة أسوان (Cities & Towns of Aswan) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة أسوان (Cities & Towns of Aswan) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

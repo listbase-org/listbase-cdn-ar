@@ -1,0 +1,156 @@
+{
+  "id": "ar-misr-suez-bunuk",
+  "name": "بنوك Suez — مصر — رموز سويفت (Banks of Suez, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Suez — مصر — رموز سويفت (Banks of Suez, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Suez (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 15 سجلًا. List of banks, financial institutions and their branches in Suez, Egypt with the SWIFT/BIC code, bank name and branch name for each. 15 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "DEIBEGCX613"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "BCAIEGCX310"
+    },
+    {
+      "id": 3,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "MRBAEGCX034"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SUEZ",
+      "branch": "(PORT TAWFIK BRANCH)",
+      "swift_code": "CIBEEGCX075"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SUEZ",
+      "branch": "(SOKHNA PORT)",
+      "swift_code": "CIBEEGCX147"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "CIBEEGCX036"
+    },
+    {
+      "id": 7,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "SUEZ",
+      "branch": "(TEDA SUEZ BRANCH)",
+      "swift_code": "CIBEEGCX161"
+    },
+    {
+      "id": 8,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "FIEGEGCXSUE"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SUEZ",
+      "branch": "(EL SABBAH BRANCH))",
+      "swift_code": "NBEGEGCX321"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SUEZ",
+      "branch": "(EL SUEZ BRANCH)",
+      "swift_code": "NBEGEGCX320"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "SUEZ",
+      "branch": "(NORTH SUEZ GULF BRANCH)",
+      "swift_code": "NBEGEGCX354"
+    },
+    {
+      "id": 12,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "SUEZ",
+      "branch": "",
+      "swift_code": "SBNKEGCXSUZ"
+    },
+    {
+      "id": 13,
+      "bank": "SUEZ CANAL BANK",
+      "city": "SUEZ",
+      "branch": "(PORTAWFEK BRANCH)",
+      "swift_code": "SUCAEGCXTWF"
+    },
+    {
+      "id": 14,
+      "bank": "SUEZ CANAL BANK",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "SUCAEGCXSUZ"
+    },
+    {
+      "id": 15,
+      "bank": "UNION NATIONAL BANK-EGYPT S.A.E.",
+      "city": "SUEZ",
+      "branch": "(SUEZ BRANCH)",
+      "swift_code": "UNBEEGCXSUZ"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Suez — مصر — رموز سويفت (Banks of Suez, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Suez (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 15 سجلًا. List of banks, financial institutions and their branches in Suez, Egypt with the SWIFT/BIC code, bank name and branch name for each. 15 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 15 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Suez — مصر — رموز سويفت (Banks of Suez, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Suez — مصر — رموز سويفت (Banks of Suez, Egypt — SWIFT/BIC codes) — 15 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 15 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "ar-muritania-nouakchott-bunuk",
+  "name": "بنوك Nouakchott — موريتانيا — رموز سويفت (Banks of Nouakchott, Mauritania — SWIFT/BIC codes)",
+  "title": "بنوك Nouakchott — موريتانيا — رموز سويفت (Banks of Nouakchott, Mauritania — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Nouakchott (موريتانيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 19 سجلًا. List of banks, financial institutions and their branches in Nouakchott, Mauritania with the SWIFT/BIC code, bank name and branch name for each. 19 records. Source: PeterNotenboom/SwiftCodes AllCountries/MR.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ATTIJARI BANK MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BCMAMRMR"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE AL MUAMELAT AS SAHIHA",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BMSHMRMR"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE (BAMIS)",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BAAWMRMR"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE CENTRALE DE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BCEMMRMR"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE DES FINANCEMENTS ISLAMIQUES",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "FIAQMRMR"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE EL AMANA (BEA)",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "AMDHMRMR"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE ISLAMIQUE DE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BIMMMRMR"
+    },
+    {
+      "id": 8,
+      "bank": "BANQUE MAURITANIENNE DE L'INVESTISSEMENT",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BQMIMRMR"
+    },
+    {
+      "id": 9,
+      "bank": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "MBICMRMR"
+    },
+    {
+      "id": 10,
+      "bank": "BANQUE NATIONALE DE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BQNMMRMR"
+    },
+    {
+      "id": 11,
+      "bank": "BANQUE POPULAIRE DE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BPMAMRMR"
+    },
+    {
+      "id": 12,
+      "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "COLIMRMR"
+    },
+    {
+      "id": 13,
+      "bank": "CHINGUITTY BANK",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "CZRZMRMR"
+    },
+    {
+      "id": 14,
+      "bank": "GENERALE DE BANQUE DE MAURITANIE POUR L'INVESTISSEMENT ET LE COMMERCE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "GBMCMRMR"
+    },
+    {
+      "id": 15,
+      "bank": "NOUVELLE BANQUE DE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "NBMRMRMR"
+    },
+    {
+      "id": 16,
+      "bank": "ORABANK MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "ORBKMRMR"
+    },
+    {
+      "id": 17,
+      "bank": "QATAR NATIONAL BANK (QNB)",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "QNBAMRMU"
+    },
+    {
+      "id": 18,
+      "bank": "SOCIETE GENERALE MAURITANIE",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "BIIMMRMR"
+    },
+    {
+      "id": 19,
+      "bank": "UNION DES BANQUES DE DEVELOPPEMENT",
+      "city": "NOUAKCHOTT",
+      "branch": "",
+      "swift_code": "DEUBMRM1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Nouakchott — موريتانيا — رموز سويفت (Banks of Nouakchott, Mauritania — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Nouakchott (موريتانيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 19 سجلًا. List of banks, financial institutions and their branches in Nouakchott, Mauritania with the SWIFT/BIC code, bank name and branch name for each. 19 records. Source: PeterNotenboom/SwiftCodes AllCountries/MR.json (MIT). يحتوي على 19 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Nouakchott — موريتانيا — رموز سويفت (Banks of Nouakchott, Mauritania — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Nouakchott — موريتانيا — رموز سويفت (Banks of Nouakchott, Mauritania — SWIFT/BIC codes) — 19 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 19 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

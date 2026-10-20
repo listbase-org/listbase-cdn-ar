@@ -1,0 +1,488 @@
+{
+  "id": "ar-mudun-pakistan",
+  "name": "مدن باكستان — Cities of Pakistan (Arabic names)",
+  "title": "مدن باكستان — Cities of Pakistan (Arabic names)",
+  "description": "قائمة بأسماء مدن باكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Pakistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كراتشي",
+      "name_en": "Karachi",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 20249000
+    },
+    {
+      "id": 2,
+      "name_ar": "لاهور",
+      "name_en": "Lahore",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 12306000
+    },
+    {
+      "id": 3,
+      "name_ar": "فيصل آباد",
+      "name_en": "Faisalabad",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 3203846
+    },
+    {
+      "id": 4,
+      "name_ar": "راولبندي",
+      "name_en": "Rawalpindi",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 2098231
+    },
+    {
+      "id": 5,
+      "name_ar": "كوجرانواله",
+      "name_en": "Gujranwala",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 2027001
+    },
+    {
+      "id": 6,
+      "name_ar": "بيشاور",
+      "name_en": "Peshawar",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 1970042
+    },
+    {
+      "id": 7,
+      "name_ar": "ملتان",
+      "name_en": "Multan",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 1871843
+    },
+    {
+      "id": 8,
+      "name_ar": "إسلام آباد",
+      "name_en": "Islamabad",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 1014825
+    },
+    {
+      "id": 9,
+      "name_ar": "كويته",
+      "name_en": "Quetta",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 1001205
+    },
+    {
+      "id": 10,
+      "name_ar": "باهاوالبور",
+      "name_en": "Bahawalpur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 762111
+    },
+    {
+      "id": 11,
+      "name_ar": "باراتشينار",
+      "name_en": "Parachinar",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 700000
+    },
+    {
+      "id": 12,
+      "name_ar": "سرغودها",
+      "name_en": "Sargodha",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 659862
+    },
+    {
+      "id": 13,
+      "name_ar": "سكھر",
+      "name_en": "Sukkur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 499900
+    },
+    {
+      "id": 14,
+      "name_ar": "لاركانا",
+      "name_en": "Larkana",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 490508
+    },
+    {
+      "id": 15,
+      "name_ar": "جنيوت",
+      "name_en": "Chiniot",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 477781
+    },
+    {
+      "id": 16,
+      "name_ar": "شيخوبورا",
+      "name_en": "Shekhupura",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 473129
+    },
+    {
+      "id": 17,
+      "name_ar": "ديرا غازي خان",
+      "name_en": "Dera Ghazi Khan",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 399064
+    },
+    {
+      "id": 18,
+      "name_ar": "كجرات",
+      "name_en": "Gujrat",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 390533
+    },
+    {
+      "id": 19,
+      "name_ar": "بهاونا",
+      "name_en": "Bhawana",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 373841
+    },
+    {
+      "id": 20,
+      "name_ar": "مردان",
+      "name_en": "Mardan",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 368302
+    },
+    {
+      "id": 21,
+      "name_ar": "جَك جُهمْرَه",
+      "name_en": "Chak Jhumra",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 332461
+    },
+    {
+      "id": 22,
+      "name_ar": "قصور",
+      "name_en": "Kasur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 314617
+    },
+    {
+      "id": 23,
+      "name_ar": "جكوال",
+      "name_en": "Chakwal",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 299751
+    },
+    {
+      "id": 24,
+      "name_ar": "خانيوال",
+      "name_en": "Khanewal",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 281890
+    },
+    {
+      "id": 25,
+      "name_ar": "مينجورا",
+      "name_en": "Mingaora",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 279914
+    },
+    {
+      "id": 26,
+      "name_ar": "نواب شاه",
+      "name_en": "Nawabshah",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 263102
+    },
+    {
+      "id": 27,
+      "name_ar": "سكردو",
+      "name_en": "Skardu",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 260000
+    },
+    {
+      "id": 28,
+      "name_ar": "ساهيوال",
+      "name_en": "Sahiwal",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 247706
+    },
+    {
+      "id": 29,
+      "name_ar": "ميربور خاص",
+      "name_en": "Mirpur Khas",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 236961
+    },
+    {
+      "id": 30,
+      "name_ar": "تتا",
+      "name_en": "Thatta",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 220000
+    },
+    {
+      "id": 31,
+      "name_ar": "شلاس",
+      "name_en": "Chilas",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 214000
+    },
+    {
+      "id": 32,
+      "name_ar": "جاكوب آباد",
+      "name_en": "Jacobabad",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 200815
+    },
+    {
+      "id": 33,
+      "name_ar": "جيلم",
+      "name_en": "Jhelum",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 190425
+    },
+    {
+      "id": 34,
+      "name_ar": "خبلو",
+      "name_en": "Khapalu",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 175000
+    },
+    {
+      "id": 35,
+      "name_ar": "كوهات",
+      "name_en": "Kohat",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 170800
+    },
+    {
+      "id": 36,
+      "name_ar": "موريدكي",
+      "name_en": "Muridke",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 163268
+    },
+    {
+      "id": 37,
+      "name_ar": "مظفرغرة",
+      "name_en": "Muzaffargarh",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 163268
+    },
+    {
+      "id": 38,
+      "name_ar": "خانبور",
+      "name_en": "Khanpur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 160308
+    },
+    {
+      "id": 39,
+      "name_ar": "غوجرا",
+      "name_en": "Gojra",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 157863
+    },
+    {
+      "id": 40,
+      "name_ar": "بنجكور",
+      "name_en": "Panjgur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 157693
+    },
+    {
+      "id": 41,
+      "name_ar": "ماندي بهاودين",
+      "name_en": "Mandi Bahauddin",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 157352
+    },
+    {
+      "id": 42,
+      "name_ar": "جرانوالا",
+      "name_en": "Jaranwala",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 150380
+    },
+    {
+      "id": 43,
+      "name_ar": "أبوت آباد",
+      "name_en": "Abbottabad",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 148587
+    },
+    {
+      "id": 44,
+      "name_ar": "بهاولنجر",
+      "name_en": "Bahawalnagar",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 141935
+    },
+    {
+      "id": 45,
+      "name_ar": "خوزدار",
+      "name_en": "Khuzdar",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 141395
+    },
+    {
+      "id": 46,
+      "name_ar": "باكبتان",
+      "name_en": "Pakpattan",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 139525
+    },
+    {
+      "id": 47,
+      "name_ar": "شرق أحمدبور",
+      "name_en": "Ahmadpur East",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 128112
+    },
+    {
+      "id": 48,
+      "name_ar": "وزير أباد",
+      "name_en": "Wazirabad",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 128060
+    },
+    {
+      "id": 49,
+      "name_ar": "وهاري",
+      "name_en": "Vihari",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 128034
+    },
+    {
+      "id": 50,
+      "name_ar": "ميربور",
+      "name_en": "New Mirpur",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 124352
+    },
+    {
+      "id": 51,
+      "name_ar": "كهوتكي",
+      "name_en": "Ghotki",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 119879
+    },
+    {
+      "id": 52,
+      "name_ar": "ناوشيرا، خيبر باختونخوا",
+      "name_en": "Nowshera",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 118594
+    },
+    {
+      "id": 53,
+      "name_ar": "سوابي",
+      "name_en": "Swabi",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 115018
+    },
+    {
+      "id": 54,
+      "name_ar": "ديرا اسماعيل خان",
+      "name_en": "Dera Ismail Khan",
+      "country_ar": "باكستان",
+      "country_en": "Pakistan",
+      "population": 109686
+    }
+  ],
+  "meta": {
+    "title": "مدن باكستان — Cities of Pakistan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن باكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 54 cities in Pakistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 54 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن باكستان — Cities of Pakistan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن باكستان — Cities of Pakistan (Arabic names) — 54 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 54 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "id": "ar-mudun-croatia",
+  "name": "مدن كرواتيا — Cities of Croatia (Arabic names)",
+  "title": "مدن كرواتيا — Cities of Croatia (Arabic names)",
+  "description": "قائمة بأسماء مدن كرواتيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 43 cities in Croatia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "انقسام",
+      "name_en": "Split",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 160577
+    },
+    {
+      "id": 2,
+      "name_ar": "رييكا",
+      "name_en": "Rijeka",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 107964
+    },
+    {
+      "id": 3,
+      "name_ar": "أوسييك",
+      "name_en": "Osijek",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 96313
+    },
+    {
+      "id": 4,
+      "name_ar": "زادار",
+      "name_en": "Zadar",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 70779
+    },
+    {
+      "id": 5,
+      "name_ar": "فليكا غوريسا",
+      "name_en": "Velika Gorica",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 61075
+    },
+    {
+      "id": 6,
+      "name_ar": "بولا",
+      "name_en": "Pula",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 52220
+    },
+    {
+      "id": 7,
+      "name_ar": "مقاطعة كارلوفاتش",
+      "name_en": "Karlovac",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 49377
+    },
+    {
+      "id": 8,
+      "name_ar": "مقاطعة فرازدين",
+      "name_en": "Varazdin",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 43782
+    },
+    {
+      "id": 9,
+      "name_ar": "شيبينيك",
+      "name_en": "Sibenik",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 42599
+    },
+    {
+      "id": 10,
+      "name_ar": "دوبروفنيك",
+      "name_en": "Dubrovnik",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 41562
+    },
+    {
+      "id": 11,
+      "name_ar": "مقاطعة سيساك-موسلافينا",
+      "name_en": "Sisak",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 40121
+    },
+    {
+      "id": 12,
+      "name_ar": "ساموبور",
+      "name_en": "Samobor",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 37435
+    },
+    {
+      "id": 13,
+      "name_ar": "مقاطعة بيلوفار-بيلوغورا",
+      "name_en": "Bjelovar",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 36316
+    },
+    {
+      "id": 14,
+      "name_ar": "فينكوفسي",
+      "name_en": "Vinkovci",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 30842
+    },
+    {
+      "id": 15,
+      "name_ar": "مقاطعة كوبريفنيكا-كريزفتسي",
+      "name_en": "Koprivnica",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 28580
+    },
+    {
+      "id": 16,
+      "name_ar": "تشاكوفيتش",
+      "name_en": "Cakovec",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 27122
+    },
+    {
+      "id": 17,
+      "name_ar": "زابرشيتش",
+      "name_en": "Zapresic",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 24133
+    },
+    {
+      "id": 18,
+      "name_ar": "زولينغن",
+      "name_en": "Solin",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 23926
+    },
+    {
+      "id": 19,
+      "name_ar": "سيني، كرواتيا",
+      "name_en": "Sinj",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 23452
+    },
+    {
+      "id": 20,
+      "name_ar": "فوكوفار",
+      "name_en": "Vukovar",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 23175
+    },
+    {
+      "id": 21,
+      "name_ar": "مقاطعة بوزيغا-سلافونيا",
+      "name_en": "Pozega",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 22294
+    },
+    {
+      "id": 22,
+      "name_ar": "بترينجا",
+      "name_en": "Petrinja",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 19950
+    },
+    {
+      "id": 23,
+      "name_ar": "مقاطعة فيروفيتيكا-بودرافينا",
+      "name_en": "Virovitica",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 19302
+    },
+    {
+      "id": 24,
+      "name_ar": "سلافونسكي برود",
+      "name_en": "Slavonski Brod",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 16681
+    },
+    {
+      "id": 25,
+      "name_ar": "بوريك",
+      "name_en": "Porec",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 16607
+    },
+    {
+      "id": 26,
+      "name_ar": "ميتكوفيتش",
+      "name_en": "Metkovic",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 15235
+    },
+    {
+      "id": 27,
+      "name_ar": "أوميش",
+      "name_en": "Omis",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 14139
+    },
+    {
+      "id": 28,
+      "name_ar": "روفينج",
+      "name_en": "Rovinj",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 12968
+    },
+    {
+      "id": 29,
+      "name_ar": "أوماغ",
+      "name_en": "Umag",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 12699
+    },
+    {
+      "id": 30,
+      "name_ar": "تروغير",
+      "name_en": "Trogir",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 12393
+    },
+    {
+      "id": 31,
+      "name_ar": "أوغولين",
+      "name_en": "Ogulin",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 12246
+    },
+    {
+      "id": 32,
+      "name_ar": "نوفي ماروف",
+      "name_en": "Novi Marof",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 11795
+    },
+    {
+      "id": 33,
+      "name_ar": "نوفا غراديسكا",
+      "name_en": "Nova Gradiska",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 11690
+    },
+    {
+      "id": 34,
+      "name_ar": "كنين",
+      "name_en": "Knin",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 11633
+    },
+    {
+      "id": 35,
+      "name_ar": "مقاطعة كرابينا زاغوريه",
+      "name_en": "Krapina",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 11530
+    },
+    {
+      "id": 36,
+      "name_ar": "غوسبيتش",
+      "name_en": "Gospic",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 11502
+    },
+    {
+      "id": 37,
+      "name_ar": "أوباتيا",
+      "name_en": "Opatija",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 10619
+    },
+    {
+      "id": 38,
+      "name_ar": "كاستاف",
+      "name_en": "Kastav",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 10202
+    },
+    {
+      "id": 39,
+      "name_ar": "داروفار",
+      "name_en": "Daruvar",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 10105
+    },
+    {
+      "id": 40,
+      "name_ar": "كريكفينيسا",
+      "name_en": "Crikvenica",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 9980
+    },
+    {
+      "id": 41,
+      "name_ar": "فالبوفو",
+      "name_en": "Valpovo",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 9784
+    },
+    {
+      "id": 42,
+      "name_ar": "إيموتسكي",
+      "name_en": "Imotski",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 9153
+    },
+    {
+      "id": 43,
+      "name_ar": "بازين",
+      "name_en": "Pazin",
+      "country_ar": "كرواتيا",
+      "country_en": "Croatia",
+      "population": 8279
+    }
+  ],
+  "meta": {
+    "title": "مدن كرواتيا — Cities of Croatia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كرواتيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 43 cities in Croatia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 43 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كرواتيا — Cities of Croatia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كرواتيا — Cities of Croatia (Arabic names) — 43 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 43 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

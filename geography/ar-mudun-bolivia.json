@@ -1,0 +1,344 @@
+{
+  "id": "ar-mudun-bolivia",
+  "name": "مدن بوليفيا — Cities of Bolivia (Arabic names)",
+  "title": "مدن بوليفيا — Cities of Bolivia (Arabic names)",
+  "description": "قائمة بأسماء مدن بوليفيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 36 cities in Bolivia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "سانتا كروز دي لا سييرا",
+      "name_en": "Santa Cruz de la Sierra",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 3151676
+    },
+    {
+      "id": 2,
+      "name_ar": "إل ألتو",
+      "name_en": "El Alto",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 943000
+    },
+    {
+      "id": 3,
+      "name_ar": "إدارة كوتشابامبا",
+      "name_en": "Cochabamba",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 856198
+    },
+    {
+      "id": 4,
+      "name_ar": "إدارة أورورو",
+      "name_en": "Oruro",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 351802
+    },
+    {
+      "id": 5,
+      "name_ar": "لا باز",
+      "name_en": "La Paz",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 321073
+    },
+    {
+      "id": 6,
+      "name_ar": "سوكري",
+      "name_en": "Sucre",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 300000
+    },
+    {
+      "id": 7,
+      "name_ar": "تاريخا، بوليفيا",
+      "name_en": "Tarija",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 268000
+    },
+    {
+      "id": 8,
+      "name_ar": "إدارة بوتوسي",
+      "name_en": "Potosi",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 267907
+    },
+    {
+      "id": 9,
+      "name_ar": "ساكابا",
+      "name_en": "Sacaba",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 172466
+    },
+    {
+      "id": 10,
+      "name_ar": "كياكويو",
+      "name_en": "Quillacollo",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 137182
+    },
+    {
+      "id": 11,
+      "name_ar": "ترينيداد",
+      "name_en": "Trinidad",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 130657
+    },
+    {
+      "id": 12,
+      "name_ar": "كولكابيرهوا",
+      "name_en": "Colcapirhua",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 48631
+    },
+    {
+      "id": 13,
+      "name_ar": "كوبيخا",
+      "name_en": "Cobija",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 46267
+    },
+    {
+      "id": 14,
+      "name_ar": "غواياراميرين",
+      "name_en": "Guayaramerin",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 36008
+    },
+    {
+      "id": 15,
+      "name_ar": "كاميري",
+      "name_en": "Camiri",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 33838
+    },
+    {
+      "id": 16,
+      "name_ar": "أويوني",
+      "name_en": "Uyuni",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 26958
+    },
+    {
+      "id": 17,
+      "name_ar": "سان اغناسيو دي فيلاسكو",
+      "name_en": "San Ignacio de Velasco",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 23569
+    },
+    {
+      "id": 18,
+      "name_ar": "توبيزا",
+      "name_en": "Tupiza",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 23100
+    },
+    {
+      "id": 19,
+      "name_ar": "روريناباكوي",
+      "name_en": "Rurrenabaque",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 19195
+    },
+    {
+      "id": 20,
+      "name_ar": "سان خوسيه دي تشيكيتوس",
+      "name_en": "San Jose de Chiquitos",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 16942
+    },
+    {
+      "id": 21,
+      "name_ar": "بوناتا، بوليفيا",
+      "name_en": "Punata",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 14742
+    },
+    {
+      "id": 22,
+      "name_ar": "فنتون هيوارث",
+      "name_en": "Vinto",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 14180
+    },
+    {
+      "id": 23,
+      "name_ar": "أتشاكاتشي",
+      "name_en": "Achacachi",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 8857
+    },
+    {
+      "id": 24,
+      "name_ar": "رييس",
+      "name_en": "Reyes",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 8824
+    },
+    {
+      "id": 25,
+      "name_ar": "آيكويلي",
+      "name_en": "Aiquile",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 7381
+    },
+    {
+      "id": 26,
+      "name_ar": "سان كارلوس، الفلبين",
+      "name_en": "San Carlos",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 6353
+    },
+    {
+      "id": 27,
+      "name_ar": "سان خافيير",
+      "name_en": "San Javier",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 6048
+    },
+    {
+      "id": 28,
+      "name_ar": "سان رامون",
+      "name_en": "San Ramon",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 5385
+    },
+    {
+      "id": 29,
+      "name_ar": "بيتانزوس",
+      "name_en": "Betanzos",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 4632
+    },
+    {
+      "id": 30,
+      "name_ar": "قلعة ساماي باتا",
+      "name_en": "Samaipata",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 4398
+    },
+    {
+      "id": 31,
+      "name_ar": "ماغدالينا",
+      "name_en": "Magdalena",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 4379
+    },
+    {
+      "id": 32,
+      "name_ar": "إنتري ريوس",
+      "name_en": "Entre Rios",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 2800
+    },
+    {
+      "id": 33,
+      "name_ar": "تارابوكو",
+      "name_en": "Tarabuco",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 2442
+    },
+    {
+      "id": 34,
+      "name_ar": "كيومي",
+      "name_en": "Quime",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 2439
+    },
+    {
+      "id": 35,
+      "name_ar": "سوراتا",
+      "name_en": "Sorata",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 2217
+    },
+    {
+      "id": 36,
+      "name_ar": "كويفو",
+      "name_en": "Cuevo",
+      "country_ar": "بوليفيا",
+      "country_en": "Bolivia",
+      "population": 1637
+    }
+  ],
+  "meta": {
+    "title": "مدن بوليفيا — Cities of Bolivia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بوليفيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 36 cities in Bolivia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 36 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بوليفيا — Cities of Bolivia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بوليفيا — Cities of Bolivia (Arabic names) — 36 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 36 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

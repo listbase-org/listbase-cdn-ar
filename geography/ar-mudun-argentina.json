@@ -1,0 +1,560 @@
+{
+  "id": "ar-mudun-argentina",
+  "name": "مدن الأرجنتين — Cities of Argentina (Arabic names)",
+  "title": "مدن الأرجنتين — Cities of Argentina (Arabic names)",
+  "description": "قائمة بأسماء مدن الأرجنتين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 63 cities in Argentina with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "قرطبة",
+      "name_en": "Cordoba",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 2106734
+    },
+    {
+      "id": 2,
+      "name_ar": "روزاريو",
+      "name_en": "Rosario",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 1276000
+    },
+    {
+      "id": 3,
+      "name_ar": "سانتياغو ديل استيرو",
+      "name_en": "Santiago del Estero",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 911506
+    },
+    {
+      "id": 4,
+      "name_ar": "لابلاتا",
+      "name_en": "La Plata",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 904789
+    },
+    {
+      "id": 5,
+      "name_ar": "مار دل بلاتا",
+      "name_en": "Mar del Plata",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 682605
+    },
+    {
+      "id": 6,
+      "name_ar": "سان ميغيل دي توكومان",
+      "name_en": "San Miguel de Tucuman",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 605767
+    },
+    {
+      "id": 7,
+      "name_ar": "سالتا",
+      "name_en": "Salta",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 535303
+    },
+    {
+      "id": 8,
+      "name_ar": "سان خوان ديل مونتي",
+      "name_en": "San Juan",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 471389
+    },
+    {
+      "id": 9,
+      "name_ar": "سان سلفادور دي خوخوي",
+      "name_en": "San Salvador de Jujuy",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 321789
+    },
+    {
+      "id": 10,
+      "name_ar": "باهيا بلانكا",
+      "name_en": "Bahia Blanca",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 301572
+    },
+    {
+      "id": 11,
+      "name_ar": "ريسيستينسيا",
+      "name_en": "Resistencia",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 298611
+    },
+    {
+      "id": 12,
+      "name_ar": "نيوكوين",
+      "name_en": "Neuquen",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 288896
+    },
+    {
+      "id": 13,
+      "name_ar": "بارانا",
+      "name_en": "Parana",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 268889
+    },
+    {
+      "id": 14,
+      "name_ar": "كويلمس",
+      "name_en": "Quilmes",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 262379
+    },
+    {
+      "id": 15,
+      "name_ar": "ميرلو",
+      "name_en": "Merlo",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 244168
+    },
+    {
+      "id": 16,
+      "name_ar": "تايوان",
+      "name_en": "Formosa",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 234000
+    },
+    {
+      "id": 17,
+      "name_ar": "جيليان بانفيلد",
+      "name_en": "Banfield",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 223898
+    },
+    {
+      "id": 18,
+      "name_ar": "خوسيه سي. باز",
+      "name_en": "Jose C. Paz",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 216637
+    },
+    {
+      "id": 19,
+      "name_ar": "سان رافاييل",
+      "name_en": "San Rafael",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 215020
+    },
+    {
+      "id": 20,
+      "name_ar": "كومودورو ريفادافيا",
+      "name_en": "Comodoro Rivadavia",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 201228
+    },
+    {
+      "id": 21,
+      "name_ar": "ريو كوارتو",
+      "name_en": "Rio Cuarto",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 200000
+    },
+    {
+      "id": 22,
+      "name_ar": "منطقة رِيُوخة",
+      "name_en": "La Rioja",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 180995
+    },
+    {
+      "id": 23,
+      "name_ar": "سان فرناندو، الفلبين",
+      "name_en": "San Fernando",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 163240
+    },
+    {
+      "id": 24,
+      "name_ar": "سان نيكولاس دي لوس آرويوس",
+      "name_en": "San Nicolas de los Arroyos",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 160000
+    },
+    {
+      "id": 25,
+      "name_ar": "كاتاماركا",
+      "name_en": "Catamarca",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 159139
+    },
+    {
+      "id": 26,
+      "name_ar": "سان خوستو، بوينس آيرس",
+      "name_en": "San Justo",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 136604
+    },
+    {
+      "id": 27,
+      "name_ar": "فيلا مرسيدس",
+      "name_en": "Villa Mercedes",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 131046
+    },
+    {
+      "id": 28,
+      "name_ar": "ايتوزاينجو",
+      "name_en": "Ituzaingo",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 129510
+    },
+    {
+      "id": 29,
+      "name_ar": "راموس ميخيا",
+      "name_en": "Ramos Mejia",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 120346
+    },
+    {
+      "id": 30,
+      "name_ar": "بويرتو مادرين",
+      "name_en": "Puerto Madryn",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 115353
+    },
+    {
+      "id": 31,
+      "name_ar": "مندوزا",
+      "name_en": "Mendoza",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 115041
+    },
+    {
+      "id": 32,
+      "name_ar": "باريلوتشي",
+      "name_en": "San Carlos de Bariloche",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 112887
+    },
+    {
+      "id": 33,
+      "name_ar": "لوماس دي ثامورا",
+      "name_en": "Lomas de Zamora",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 112580
+    },
+    {
+      "id": 34,
+      "name_ar": "استيبان إيشيفيريا",
+      "name_en": "Esteban Echeverria",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 109644
+    },
+    {
+      "id": 35,
+      "name_ar": "جيوليجياشو",
+      "name_en": "Gualeguaychu",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 109461
+    },
+    {
+      "id": 36,
+      "name_ar": "فيلا كراوس",
+      "name_en": "Villa Krause",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 107778
+    },
+    {
+      "id": 37,
+      "name_ar": "لوجان",
+      "name_en": "Lujan",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 106899
+    },
+    {
+      "id": 38,
+      "name_ar": "مايبو",
+      "name_en": "Maipu",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 106662
+    },
+    {
+      "id": 39,
+      "name_ar": "لا باندا",
+      "name_en": "La Banda",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 106441
+    },
+    {
+      "id": 40,
+      "name_ar": "بيريغامنيو",
+      "name_en": "Pergamino",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 104985
+    },
+    {
+      "id": 41,
+      "name_ar": "سانتا روزا",
+      "name_en": "Santa Rosa",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 102880
+    },
+    {
+      "id": 42,
+      "name_ar": "بريسدنس روكي ساينز بينيا",
+      "name_en": "Presidencia Roque Saenz Pena",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 101086
+    },
+    {
+      "id": 43,
+      "name_ar": "كونسبسيون ديل أوروغواي",
+      "name_en": "Concepcion del Uruguay",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 100728
+    },
+    {
+      "id": 44,
+      "name_ar": "ليبرتاد",
+      "name_en": "Libertad",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 100324
+    },
+    {
+      "id": 45,
+      "name_ar": "تريليو",
+      "name_en": "Trelew",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 97915
+    },
+    {
+      "id": 46,
+      "name_ar": "ريو غاليغوس، سانتا كروز",
+      "name_en": "Rio Gallegos",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 95796
+    },
+    {
+      "id": 47,
+      "name_ar": "سان فرانسيسكو سولانو",
+      "name_en": "San Francisco Solano",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 91322
+    },
+    {
+      "id": 48,
+      "name_ar": "نيكوتشيا",
+      "name_en": "Necochea",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 90000
+    },
+    {
+      "id": 49,
+      "name_ar": "أولافاريا",
+      "name_en": "Olavarria",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 89721
+    },
+    {
+      "id": 50,
+      "name_ar": "فيلا ماريا",
+      "name_en": "Villa Maria",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 88600
+    },
+    {
+      "id": 51,
+      "name_ar": "بيريسو",
+      "name_en": "Berisso",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 88470
+    },
+    {
+      "id": 52,
+      "name_ar": "إقليم جونين",
+      "name_en": "Junin",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 85420
+    },
+    {
+      "id": 53,
+      "name_ar": "جنرال رودريغيز",
+      "name_en": "General Rodriguez",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 85315
+    },
+    {
+      "id": 54,
+      "name_ar": "غران-بور",
+      "name_en": "Grand Bourg",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 85189
+    },
+    {
+      "id": 55,
+      "name_ar": "مونتي شينغولو",
+      "name_en": "Monte Chingolo",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 85060
+    },
+    {
+      "id": 56,
+      "name_ar": "فينادو تيورتو",
+      "name_en": "Venado Tuerto",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 83263
+    },
+    {
+      "id": 57,
+      "name_ar": "بويرتو جواسيو",
+      "name_en": "Puerto Iguazu",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 82227
+    },
+    {
+      "id": 58,
+      "name_ar": "بيلار",
+      "name_en": "Pilar",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 81120
+    },
+    {
+      "id": 59,
+      "name_ar": "وهران",
+      "name_en": "San Ramon de la Nueva Oran",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 76070
+    },
+    {
+      "id": 60,
+      "name_ar": "سان بيدرو",
+      "name_en": "San Pedro",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 75616
+    },
+    {
+      "id": 61,
+      "name_ar": "فيلا كارلوس باز",
+      "name_en": "Villa Carlos Paz",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 75315
+    },
+    {
+      "id": 62,
+      "name_ar": "لا باز",
+      "name_en": "La Paz",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 74762
+    },
+    {
+      "id": 63,
+      "name_ar": "سقوط الأندلس",
+      "name_en": "Reconquista",
+      "country_ar": "الأرجنتين",
+      "country_en": "Argentina",
+      "population": 73293
+    }
+  ],
+  "meta": {
+    "title": "مدن الأرجنتين — Cities of Argentina (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الأرجنتين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 63 cities in Argentina with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 63 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الأرجنتين — Cities of Argentina (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الأرجنتين — Cities of Argentina (Arabic names) — 63 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 63 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

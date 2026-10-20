@@ -1,0 +1,163 @@
+{
+  "id": "ar-misr-domiat-bunuk",
+  "name": "بنوك Domiat — مصر — رموز سويفت (Banks of Domiat, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Domiat — مصر — رموز سويفت (Banks of Domiat, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Domiat (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Domiat, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "DOMIAT",
+      "branch": "(DOMIAT BRANCH)",
+      "swift_code": "DEIBEGCX527"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "DOMIAT",
+      "branch": "(DAMIETA BRANCH)",
+      "swift_code": "BCAIEGCX440"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "DOMIAT",
+      "branch": "(NEW DAMIETA)",
+      "swift_code": "BCAIEGCX445"
+    },
+    {
+      "id": 4,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "DOMIAT",
+      "branch": "(DOMYAT)",
+      "swift_code": "MRBAEGCX017"
+    },
+    {
+      "id": 5,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "DOMIAT",
+      "branch": "(DAMIETA BRANCH)",
+      "swift_code": "CIBEEGCX039"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "DOMIAT",
+      "branch": "(DAMIETA PORT BRANCH)",
+      "swift_code": "CIBEEGCX035"
+    },
+    {
+      "id": 7,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "DOMIAT",
+      "branch": "",
+      "swift_code": "ARLBEGCADIM"
+    },
+    {
+      "id": 8,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "DOMIAT",
+      "branch": "(DAMIETTA BRANCH)",
+      "swift_code": "FIEGEGCXDOM"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "DOMIAT",
+      "branch": "(DAMIETTA BRANCH)",
+      "swift_code": "NBADEGCADMT"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "DOMIAT",
+      "branch": "(AZBET ELBOURG BRANCH)",
+      "swift_code": "NBEGEGCX409"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "DOMIAT",
+      "branch": "(DOMIAT BRANCH)",
+      "swift_code": "NBEGEGCX410"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "DOMIAT",
+      "branch": "(EL NAHDA BRANCH)",
+      "swift_code": "NBEGEGCX408"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "DOMIAT",
+      "branch": "(EL ZARKA BRANCH)",
+      "swift_code": "NBEGEGCX411"
+    },
+    {
+      "id": 14,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "DOMIAT",
+      "branch": "(DOMIAT BRANCH)",
+      "swift_code": "BDACEGCA057"
+    },
+    {
+      "id": 15,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "DOMIAT",
+      "branch": "",
+      "swift_code": "SBNKEGCXDMT"
+    },
+    {
+      "id": 16,
+      "bank": "SUEZ CANAL BANK",
+      "city": "DOMIAT",
+      "branch": "(DOMIAT BRANCH)",
+      "swift_code": "SUCAEGCXDOM"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Domiat — مصر — رموز سويفت (Banks of Domiat, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Domiat (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Domiat, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Domiat — مصر — رموز سويفت (Banks of Domiat, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Domiat — مصر — رموز سويفت (Banks of Domiat, Egypt — SWIFT/BIC codes) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

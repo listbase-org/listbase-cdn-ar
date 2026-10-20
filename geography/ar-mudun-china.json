@@ -1,0 +1,704 @@
+{
+  "id": "ar-mudun-china",
+  "name": "مدن الصين — Cities of China (Arabic names)",
+  "title": "مدن الصين — Cities of China (Arabic names)",
+  "description": "قائمة بأسماء مدن الصين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in China with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "غوانزو",
+      "name_en": "Guangzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 26940000
+    },
+    {
+      "id": 2,
+      "name_ar": "شانغهاي",
+      "name_en": "Shanghai",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 24073000
+    },
+    {
+      "id": 3,
+      "name_ar": "بكين",
+      "name_en": "Beijing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 18522000
+    },
+    {
+      "id": 4,
+      "name_ar": "شينزين",
+      "name_en": "Shenzhen",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 17619000
+    },
+    {
+      "id": 5,
+      "name_ar": "تشنغدو",
+      "name_en": "Chengdu",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 14645000
+    },
+    {
+      "id": 6,
+      "name_ar": "شيان",
+      "name_en": "Xi'an",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 12328000
+    },
+    {
+      "id": 7,
+      "name_ar": "تشونغتشينغ",
+      "name_en": "Chongqing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 12135000
+    },
+    {
+      "id": 8,
+      "name_ar": "ليني",
+      "name_en": "Linyi",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 10820000
+    },
+    {
+      "id": 9,
+      "name_ar": "دونغ غوان",
+      "name_en": "Dongguan",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 10646000
+    },
+    {
+      "id": 10,
+      "name_ar": "باودينغ",
+      "name_en": "Baoding",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 10546831
+    },
+    {
+      "id": 11,
+      "name_ar": "تيانجين",
+      "name_en": "Tianjin",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 10368000
+    },
+    {
+      "id": 12,
+      "name_ar": "ووهان",
+      "name_en": "Wuhan",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 10251000
+    },
+    {
+      "id": 13,
+      "name_ar": "هانغتشو",
+      "name_en": "Hangzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 9523000
+    },
+    {
+      "id": 14,
+      "name_ar": "فوشان",
+      "name_en": "Foshan",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 9042500
+    },
+    {
+      "id": 15,
+      "name_ar": "زهوكو",
+      "name_en": "Zhoukou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 8677800
+    },
+    {
+      "id": 16,
+      "name_ar": "نانجينغ",
+      "name_en": "Nanjing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 8422000
+    },
+    {
+      "id": 17,
+      "name_ar": "هيزي",
+      "name_en": "Heze",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 8287693
+    },
+    {
+      "id": 18,
+      "name_ar": "جينينغ",
+      "name_en": "Jining",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 8081905
+    },
+    {
+      "id": 19,
+      "name_ar": "شنيانغ",
+      "name_en": "Shenyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7964000
+    },
+    {
+      "id": 20,
+      "name_ar": "فويانغ",
+      "name_en": "Fuyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7599913
+    },
+    {
+      "id": 21,
+      "name_ar": "غانتشو",
+      "name_en": "Ganzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7396873
+    },
+    {
+      "id": 22,
+      "name_ar": "شانغكيو",
+      "name_en": "Shangqiu",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7325300
+    },
+    {
+      "id": 23,
+      "name_ar": "سانغتشو",
+      "name_en": "Cangzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7300783
+    },
+    {
+      "id": 24,
+      "name_ar": "تشوماديان",
+      "name_en": "Zhumadian",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 7008427
+    },
+    {
+      "id": 25,
+      "name_ar": "زانجيانغ",
+      "name_en": "Zhanjiang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6981236
+    },
+    {
+      "id": 26,
+      "name_ar": "الإمبراطور يونغلي",
+      "name_en": "Yancheng",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6709629
+    },
+    {
+      "id": 27,
+      "name_ar": "بيجاي",
+      "name_en": "Bijie",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6686100
+    },
+    {
+      "id": 28,
+      "name_ar": "شينغتاي",
+      "name_en": "Xingtai",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6645766
+    },
+    {
+      "id": 29,
+      "name_ar": "هنغيانغ",
+      "name_en": "Hengyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6645243
+    },
+    {
+      "id": 30,
+      "name_ar": "شاويانغ",
+      "name_en": "Shaoyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6563520
+    },
+    {
+      "id": 31,
+      "name_ar": "تشوانتشو",
+      "name_en": "Quanzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6480000
+    },
+    {
+      "id": 32,
+      "name_ar": "زونيي",
+      "name_en": "Zunyi",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6270700
+    },
+    {
+      "id": 33,
+      "name_ar": "ماومينغ",
+      "name_en": "Maoming",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6174050
+    },
+    {
+      "id": 34,
+      "name_ar": "شينيانج",
+      "name_en": "Xinyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 6109106
+    },
+    {
+      "id": 35,
+      "name_ar": "داليان",
+      "name_en": "Dalian",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5871474
+    },
+    {
+      "id": 36,
+      "name_ar": "تشينغداو",
+      "name_en": "Qingdao",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5818255
+    },
+    {
+      "id": 37,
+      "name_ar": "يولين، قوانغشى",
+      "name_en": "Yulin",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5796766
+    },
+    {
+      "id": 38,
+      "name_ar": "لياوتشنغ",
+      "name_en": "Liaocheng",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5789863
+    },
+    {
+      "id": 39,
+      "name_ar": "تشوجينغ",
+      "name_en": "Qujing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5765775
+    },
+    {
+      "id": 40,
+      "name_ar": "تشنغتشو",
+      "name_en": "Zhengzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5621593
+    },
+    {
+      "id": 41,
+      "name_ar": "جي يانغ",
+      "name_en": "Jieyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5577814
+    },
+    {
+      "id": 42,
+      "name_ar": "تايآن",
+      "name_en": "Tai'an",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5472217
+    },
+    {
+      "id": 43,
+      "name_ar": "داتشو",
+      "name_en": "Dazhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5385422
+    },
+    {
+      "id": 44,
+      "name_ar": "سوجو",
+      "name_en": "Suzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5324476
+    },
+    {
+      "id": 45,
+      "name_ar": "يونغتشو",
+      "name_en": "Yongzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5289824
+    },
+    {
+      "id": 46,
+      "name_ar": "تشانغده",
+      "name_en": "Changde",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5279102
+    },
+    {
+      "id": 47,
+      "name_ar": "بودونغ",
+      "name_en": "Pudong",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5187200
+    },
+    {
+      "id": 48,
+      "name_ar": "تشاوتونغ",
+      "name_en": "Zhaotong",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5092611
+    },
+    {
+      "id": 49,
+      "name_ar": "زهانغزهو",
+      "name_en": "Zhangzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5054328
+    },
+    {
+      "id": 50,
+      "name_ar": "يوييانغ",
+      "name_en": "Yueyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 5051922
+    },
+    {
+      "id": 51,
+      "name_ar": "بينغدينغشان",
+      "name_en": "Pingdingshan",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4904701
+    },
+    {
+      "id": 52,
+      "name_ar": "بوتشو",
+      "name_en": "Bozhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4850657
+    },
+    {
+      "id": 53,
+      "name_ar": "يونتشنغ",
+      "name_en": "Yuncheng",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4774508
+    },
+    {
+      "id": 54,
+      "name_ar": "تشانغشا",
+      "name_en": "Changsha",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4766296
+    },
+    {
+      "id": 55,
+      "name_ar": "سوتشيان",
+      "name_en": "Suqian",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4719178
+    },
+    {
+      "id": 56,
+      "name_ar": "تشينزو",
+      "name_en": "Chenzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4667134
+    },
+    {
+      "id": 57,
+      "name_ar": "جيانغمن",
+      "name_en": "Jiangmen",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4630300
+    },
+    {
+      "id": 58,
+      "name_ar": "ميانيانغ",
+      "name_en": "Mianyang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4613862
+    },
+    {
+      "id": 59,
+      "name_ar": "جيوجيانغ",
+      "name_en": "Jiujiang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4600276
+    },
+    {
+      "id": 60,
+      "name_ar": "هوايهوا",
+      "name_en": "Huaihua",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4587594
+    },
+    {
+      "id": 61,
+      "name_ar": "تايتشو",
+      "name_en": "Taizhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4512762
+    },
+    {
+      "id": 62,
+      "name_ar": "جيآن",
+      "name_en": "Ji'an",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4469176
+    },
+    {
+      "id": 63,
+      "name_ar": "يانغتشو",
+      "name_en": "Yangzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4459760
+    },
+    {
+      "id": 64,
+      "name_ar": "كونمينغ",
+      "name_en": "Kunming",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4422686
+    },
+    {
+      "id": 65,
+      "name_ar": "تشانغتشون",
+      "name_en": "Changchun",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4408154
+    },
+    {
+      "id": 66,
+      "name_ar": "لوان",
+      "name_en": "Lu'an",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4393699
+    },
+    {
+      "id": 67,
+      "name_ar": "لانغ فانغ",
+      "name_en": "Langfang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4358839
+    },
+    {
+      "id": 68,
+      "name_ar": "أورومتشي",
+      "name_en": "Urumqi",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4335017
+    },
+    {
+      "id": 69,
+      "name_ar": "جويغانغ",
+      "name_en": "Guigang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4316262
+    },
+    {
+      "id": 70,
+      "name_ar": "شانتو",
+      "name_en": "Shantou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4312192
+    },
+    {
+      "id": 71,
+      "name_ar": "خفي",
+      "name_en": "Luzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4218427
+    },
+    {
+      "id": 72,
+      "name_ar": "خفي",
+      "name_en": "Hefei",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4216940
+    },
+    {
+      "id": 73,
+      "name_ar": "هنغشوي",
+      "name_en": "Hengshui",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4212933
+    },
+    {
+      "id": 74,
+      "name_ar": "أنكينغ",
+      "name_en": "Anqing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4165284
+    },
+    {
+      "id": 75,
+      "name_ar": "تشانغجياكو",
+      "name_en": "Zhangjiakou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4118908
+    },
+    {
+      "id": 76,
+      "name_ar": "زاوشينغ",
+      "name_en": "Zhaoqing",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4113594
+    },
+    {
+      "id": 77,
+      "name_ar": "شيجياتشوانغ",
+      "name_en": "Shijiazhuang",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4098243
+    },
+    {
+      "id": 78,
+      "name_ar": "نينغبو",
+      "name_en": "Ningbo",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4087523
+    },
+    {
+      "id": 79,
+      "name_ar": "كيكيهار",
+      "name_en": "Qiqihar",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4067489
+    },
+    {
+      "id": 80,
+      "name_ar": "ليوشو",
+      "name_en": "Liuzhou",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4041700
+    },
+    {
+      "id": 81,
+      "name_ar": "تشيفنغ",
+      "name_en": "Chifeng",
+      "country_ar": "الصين",
+      "country_en": "China",
+      "population": 4035967
+    }
+  ],
+  "meta": {
+    "title": "مدن الصين — Cities of China (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الصين بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in China with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 81 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الصين — Cities of China (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الصين — Cities of China (Arabic names) — 81 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 81 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

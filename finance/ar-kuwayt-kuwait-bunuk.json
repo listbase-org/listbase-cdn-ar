@@ -1,0 +1,646 @@
+{
+  "id": "ar-kuwayt-kuwait-bunuk",
+  "name": "بنوك Kuwait — الكويت — رموز سويفت (Banks of Kuwait, Kuwait — SWIFT/BIC codes)",
+  "title": "بنوك Kuwait — الكويت — رموز سويفت (Banks of Kuwait, Kuwait — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Kuwait (الكويت) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 85 سجلًا. List of banks, financial institutions and their branches in Kuwait, Kuwait with the SWIFT/BIC code, bank name and branch name for each. 85 records. Source: PeterNotenboom/SwiftCodes AllCountries/KW.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK K.S.C.P.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BKMEKWKW"
+    },
+    {
+      "id": 2,
+      "bank": "AL AHLI BANK OF KUWAIT K.S.C.P",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "ABKKKWKW"
+    },
+    {
+      "id": 3,
+      "bank": "AL MULLA INTERNATIONAL EXCHANGE CO",
+      "city": "KUWAIT",
+      "branch": "(ALMULLA2)",
+      "swift_code": "AMIEKWKW1ME"
+    },
+    {
+      "id": 4,
+      "bank": "AL MULLA INTERNATIONAL EXCHANGE CO",
+      "city": "KUWAIT",
+      "branch": "(ALMULLA3)",
+      "swift_code": "AMIEKWKW2ME"
+    },
+    {
+      "id": 5,
+      "bank": "AL MULLA INTERNATIONAL EXCHANGE CO",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "AMIEKWKW"
+    },
+    {
+      "id": 6,
+      "bank": "AL RAJHI BANK, KUWAIT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "RJHIKWKW"
+    },
+    {
+      "id": 7,
+      "bank": "ALMUZAINI EXCHANGE COMPANY KSC (CLOSED)",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "AAACKWKW"
+    },
+    {
+      "id": 8,
+      "bank": "AMAN EXCHANGE CO. WLL",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "AXCWKWKW"
+    },
+    {
+      "id": 9,
+      "bank": "ARAB FUND FOR ECONOMIC AND SOCIAL DEVELOPMENT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "AFEDKWKW"
+    },
+    {
+      "id": 10,
+      "bank": "ARZAN FINANCIAL GROUP FOR FINANCING AND INVESTMENTS K.P.S.C",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "AFGPKWKW"
+    },
+    {
+      "id": 11,
+      "bank": "BANKMUSCAT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BMUSKWKW"
+    },
+    {
+      "id": 12,
+      "bank": "BBK",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BBKUKWKW"
+    },
+    {
+      "id": 13,
+      "bank": "BNP PARIBAS KUWAIT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BNPAKWKW"
+    },
+    {
+      "id": 14,
+      "bank": "BOUBYAN BANK (K.S.C)",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BBYNKWKW"
+    },
+    {
+      "id": 15,
+      "bank": "BURGAN BANK K.P.S.C",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "BRGNKWKW"
+    },
+    {
+      "id": 16,
+      "bank": "CENTRAL BANK OF KUWAIT",
+      "city": "KUWAIT",
+      "branch": "(BANKING OPERATIONS DEPARTMENT - KWD ONLY)",
+      "swift_code": "CBKUKWKWBOD"
+    },
+    {
+      "id": 17,
+      "bank": "CENTRAL BANK OF KUWAIT",
+      "city": "KUWAIT",
+      "branch": "(TREASURY PAYMENTS)",
+      "swift_code": "CBKUKWKWTRE"
+    },
+    {
+      "id": 18,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(ABDULLAH AL-SALEM STREET BRANCH)",
+      "swift_code": "COMBKWKWA02"
+    },
+    {
+      "id": 19,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL ANDALUS BRANCH)",
+      "swift_code": "COMBKWKWA36"
+    },
+    {
+      "id": 20,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL MUHALAB CENTER BRANCH)",
+      "swift_code": "COMBKWKWA25"
+    },
+    {
+      "id": 21,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL NAEEM)",
+      "swift_code": "COMBKWKWA56"
+    },
+    {
+      "id": 22,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL SOUR STREET BRANCH)",
+      "swift_code": "COMBKWKWA60"
+    },
+    {
+      "id": 23,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL-DHOW)",
+      "swift_code": "COMBKWKWA58"
+    },
+    {
+      "id": 24,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL-RABIA BRANCH)",
+      "swift_code": "COMBKWKWA57"
+    },
+    {
+      "id": 25,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL-RAI)",
+      "swift_code": "COMBKWKWA45"
+    },
+    {
+      "id": 26,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(AL-YARMOUK BRANCH)",
+      "swift_code": "COMBKWKWA32"
+    },
+    {
+      "id": 27,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(BEIRUT ST. BRANCH)",
+      "swift_code": "COMBKWKWA20"
+    },
+    {
+      "id": 28,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(BNEID AL GAR BRANCH)",
+      "swift_code": "COMBKWKWA52"
+    },
+    {
+      "id": 29,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(COMMERCIAL SERVICES DEPARTMENT)",
+      "swift_code": "COMBKWKWCOM"
+    },
+    {
+      "id": 30,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(CUSTODY DEPARTMENT)",
+      "swift_code": "COMBKWKWSEC"
+    },
+    {
+      "id": 31,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(DASMA)",
+      "swift_code": "COMBKWKWA62"
+    },
+    {
+      "id": 32,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(DHAHER BRANCH)",
+      "swift_code": "COMBKWKWA41"
+    },
+    {
+      "id": 33,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(FAHD AL SALEM BR.)",
+      "swift_code": "COMBKWKWA09"
+    },
+    {
+      "id": 34,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(FOREIGN EXCHANGE DEPARTMENT)",
+      "swift_code": "COMBKWKWFXS"
+    },
+    {
+      "id": 35,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(FREE TRADE ZONE BRANCH)",
+      "swift_code": "COMBKWKWA38"
+    },
+    {
+      "id": 36,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(GUARANTEES DEPARTMENT)",
+      "swift_code": "COMBKWKWGTT"
+    },
+    {
+      "id": 37,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(HADIYA)",
+      "swift_code": "COMBKWKWA64"
+    },
+    {
+      "id": 38,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "COMBKWKWINT"
+    },
+    {
+      "id": 39,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(JELEEB SHOYOKH)",
+      "swift_code": "COMBKWKWA63"
+    },
+    {
+      "id": 40,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(KUWAIT MAGIC)",
+      "swift_code": "COMBKWKWA43"
+    },
+    {
+      "id": 41,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(LETTERS OF CREDIT DEPARTMENT)",
+      "swift_code": "COMBKWKWLCS"
+    },
+    {
+      "id": 42,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(MANSOURIYA)",
+      "swift_code": "COMBKWKWA44"
+    },
+    {
+      "id": 43,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(MINISTRIES COMPLEX BRANCH)",
+      "swift_code": "COMBKWKWA31"
+    },
+    {
+      "id": 44,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(PHONE BANKING SERVICES)",
+      "swift_code": "COMBKWKWA47"
+    },
+    {
+      "id": 45,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(PRIVATE BANKING UNIT)",
+      "swift_code": "COMBKWKWA40"
+    },
+    {
+      "id": 46,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(S.W.I.F.T. SUPPORT DEPARTMENT)",
+      "swift_code": "COMBKWKWSWI"
+    },
+    {
+      "id": 47,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(SABAH AL SALEM)",
+      "swift_code": "COMBKWKWA54"
+    },
+    {
+      "id": 48,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(SALWA BRANCH)",
+      "swift_code": "COMBKWKWA51"
+    },
+    {
+      "id": 49,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(SOUTH SURRA)",
+      "swift_code": "COMBKWKWA55"
+    },
+    {
+      "id": 50,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(TELEX DEPARTMENT)",
+      "swift_code": "COMBKWKWTLX"
+    },
+    {
+      "id": 51,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(TRADERS MALL)",
+      "swift_code": "COMBKWKWA53"
+    },
+    {
+      "id": 52,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "(UM AL HAIMAN BRANCH)",
+      "swift_code": "COMBKWKWA42"
+    },
+    {
+      "id": 53,
+      "bank": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "COMBKWKW"
+    },
+    {
+      "id": 54,
+      "bank": "DOHA BANK",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "DOHBKWKW"
+    },
+    {
+      "id": 55,
+      "bank": "EFG HERMES IFA",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "EFHIKWK1"
+    },
+    {
+      "id": 56,
+      "bank": "ETEMADCO EXCHANGE COMPANY W.L.L.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "ETEMKWKW"
+    },
+    {
+      "id": 57,
+      "bank": "FIRST SECURITIES BROKERAGE COMPANY K.S.C.C",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "FSBOKWK1"
+    },
+    {
+      "id": 58,
+      "bank": "GLOBAL INVESTMENT HOUSE",
+      "city": "KUWAIT",
+      "branch": "(GLOBAL INVESTMENT HOUSE - CLIENT ACCOUNT)",
+      "swift_code": "GIHKKWKWCLT"
+    },
+    {
+      "id": 59,
+      "bank": "GULF BANK, K.S.C.",
+      "city": "KUWAIT",
+      "branch": "(TRADE FINANCE)",
+      "swift_code": "GULBKWKWTFS"
+    },
+    {
+      "id": 60,
+      "bank": "GULF BANK, K.S.C.",
+      "city": "KUWAIT",
+      "branch": "(TREASURY OPERATIONS)",
+      "swift_code": "GULBKWKWTRO"
+    },
+    {
+      "id": 61,
+      "bank": "GULF BANK, K.S.C.",
+      "city": "KUWAIT",
+      "branch": "(VOSTRO/KD DEPARTMENT)",
+      "swift_code": "GULBKWKWVOS"
+    },
+    {
+      "id": 62,
+      "bank": "GULF BANK, K.S.C.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "GULBKWKW"
+    },
+    {
+      "id": 63,
+      "bank": "GULF INVESTMENT CORPORATION",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "GCORKWKW"
+    },
+    {
+      "id": 64,
+      "bank": "HSBC BANK MIDDLE EAST LIMITED",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "HBMEKWKW"
+    },
+    {
+      "id": 65,
+      "bank": "ICBC KUWAIT BRANCH",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "ICBKKWKW"
+    },
+    {
+      "id": 66,
+      "bank": "INDUSTRIAL BANK OF KUWAIT K.S.C., THE",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "IBKUKWKW"
+    },
+    {
+      "id": 67,
+      "bank": "INVESTMENT DAR COMPANY K.S.C.C, THE",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "TIDCKWKW"
+    },
+    {
+      "id": 68,
+      "bank": "KFIC FINANCIAL BROKERAGE",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KFFBKWK1"
+    },
+    {
+      "id": 69,
+      "bank": "KUWAIT BAHRAIN INTERNATIONAL EXCHANGE COMPANY KSC, KUWAIT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KBEXKWKF"
+    },
+    {
+      "id": 70,
+      "bank": "KUWAIT CLEARING COMPANY S.A.K.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KCCKKWKW"
+    },
+    {
+      "id": 71,
+      "bank": "KUWAIT FINANCIAL CENTRE S.A.K.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KFCEKWKW"
+    },
+    {
+      "id": 72,
+      "bank": "KUWAIT FUND FOR ARAB ECONOMIC DEVELOPMENT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KFAEKWKW"
+    },
+    {
+      "id": 73,
+      "bank": "KUWAIT INTERNATIONAL BANK",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KWIBKWKW"
+    },
+    {
+      "id": 74,
+      "bank": "KUWAIT INTERNATIONAL FINANCE CO. S.A.K.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KUIFKWK1"
+    },
+    {
+      "id": 75,
+      "bank": "KUWAIT INVESTMENT AUTHORITY",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KIAKKWKW"
+    },
+    {
+      "id": 76,
+      "bank": "KUWAIT INVESTMENT COMPANY (S.A.K.)",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "KICOKWKW"
+    },
+    {
+      "id": 77,
+      "bank": "MASHREQBANK PSC.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "MSHQKWKW"
+    },
+    {
+      "id": 78,
+      "bank": "NATIONAL BANK OF KUWAIT S.A.K.P.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "NBOKKWKW"
+    },
+    {
+      "id": 79,
+      "bank": "NOOR FINANCIAL INVESTMENT COMPANY",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "NFICKWKW"
+    },
+    {
+      "id": 80,
+      "bank": "PUBLIC INSTITUTION FOR SOCIAL SECURITY,THE",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "PISUKWKW"
+    },
+    {
+      "id": 81,
+      "bank": "QATAR NATIONAL BANK",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "QNBAKWKW"
+    },
+    {
+      "id": 82,
+      "bank": "SHARQ FINANCIAL BROKERAGE CO.",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "SHFBKWK1"
+    },
+    {
+      "id": 83,
+      "bank": "UNION NATIONAL BANK-KUWAIT",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "UNBEKWKW"
+    },
+    {
+      "id": 84,
+      "bank": "UNION SECURITIES BROKERAGE. CO",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "UNSOKWK1"
+    },
+    {
+      "id": 85,
+      "bank": "WARBA BANK",
+      "city": "KUWAIT",
+      "branch": "",
+      "swift_code": "WRBAKWKW"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Kuwait — الكويت — رموز سويفت (Banks of Kuwait, Kuwait — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Kuwait (الكويت) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 85 سجلًا. List of banks, financial institutions and their branches in Kuwait, Kuwait with the SWIFT/BIC code, bank name and branch name for each. 85 records. Source: PeterNotenboom/SwiftCodes AllCountries/KW.json (MIT). يحتوي على 85 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Kuwait — الكويت — رموز سويفت (Banks of Kuwait, Kuwait — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Kuwait — الكويت — رموز سويفت (Banks of Kuwait, Kuwait — SWIFT/BIC codes) — 85 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 85 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "id": "ar-mudun-tajikistan",
+  "name": "مدن طاجيكستان — Cities of Tajikistan (Arabic names)",
+  "title": "مدن طاجيكستان — Cities of Tajikistan (Arabic names)",
+  "description": "قائمة بأسماء مدن طاجيكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 36 cities in Tajikistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دوشنبه",
+      "name_en": "Dushanbe",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 1564700
+    },
+    {
+      "id": 2,
+      "name_ar": "خجندة",
+      "name_en": "Khujand",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 770000
+    },
+    {
+      "id": 3,
+      "name_ar": "وحدت",
+      "name_en": "Vahdat",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 342700
+    },
+    {
+      "id": 4,
+      "name_ar": "تاريخ الأمريكيتين",
+      "name_en": "Hisor",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 308100
+    },
+    {
+      "id": 5,
+      "name_ar": "بنجكنت",
+      "name_en": "Panjakent",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 303000
+    },
+    {
+      "id": 6,
+      "name_ar": "تورسونزاده",
+      "name_en": "Tursunzoda",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 298800
+    },
+    {
+      "id": 7,
+      "name_ar": "اسفرة",
+      "name_en": "Isfara",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 274000
+    },
+    {
+      "id": 8,
+      "name_ar": "إستروشن",
+      "name_en": "Istaravshan",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 273500
+    },
+    {
+      "id": 9,
+      "name_ar": "كولاب",
+      "name_en": "Kulob",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 214700
+    },
+    {
+      "id": 10,
+      "name_ar": "كورغان تبه",
+      "name_en": "Bokhtar",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 126700
+    },
+    {
+      "id": 11,
+      "name_ar": "نارك",
+      "name_en": "Norak",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 61500
+    },
+    {
+      "id": 12,
+      "name_ar": "ليفاكانت (سربند)",
+      "name_en": "Levakant",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 48300
+    },
+    {
+      "id": 13,
+      "name_ar": "روغون",
+      "name_en": "Roghun",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 44100
+    },
+    {
+      "id": 14,
+      "name_ar": "دنغره",
+      "name_en": "Danghara",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 31100
+    },
+    {
+      "id": 15,
+      "name_ar": "جاروغ",
+      "name_en": "Khorugh",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 30500
+    },
+    {
+      "id": 16,
+      "name_ar": "ناحية فرخار",
+      "name_en": "Farkhor",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 25300
+    },
+    {
+      "id": 17,
+      "name_ar": "سامانيان",
+      "name_en": "Somoniyon",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 25200
+    },
+    {
+      "id": 18,
+      "name_ar": "خالبوك",
+      "name_en": "Hulbuk",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 24500
+    },
+    {
+      "id": 19,
+      "name_ar": "موسكو",
+      "name_en": "Moskva",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 23300
+    },
+    {
+      "id": 20,
+      "name_ar": "محنة آباد",
+      "name_en": "Mehnatobod",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 21816
+    },
+    {
+      "id": 21,
+      "name_ar": "نارين",
+      "name_en": "Naryn",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 21314
+    },
+    {
+      "id": 22,
+      "name_ar": "غافوروف",
+      "name_en": "Ghafurov",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 20600
+    },
+    {
+      "id": 23,
+      "name_ar": "لاهور",
+      "name_en": "Lohur",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 20047
+    },
+    {
+      "id": 24,
+      "name_ar": "عبد الرحمن جومي",
+      "name_en": "Abdurahmoni Jomi",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 18800
+    },
+    {
+      "id": 25,
+      "name_ar": "داستين",
+      "name_en": "Dusti",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 18800
+    },
+    {
+      "id": 26,
+      "name_ar": "شهرتوز",
+      "name_en": "Shahritus",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 17200
+    },
+    {
+      "id": 27,
+      "name_ar": "غانجي",
+      "name_en": "Ghonchi",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 17000
+    },
+    {
+      "id": 28,
+      "name_ar": "أدراسمون",
+      "name_en": "Adrasmon",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 15800
+    },
+    {
+      "id": 29,
+      "name_ar": "بوستان",
+      "name_en": "Buston",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 15500
+    },
+    {
+      "id": 30,
+      "name_ar": "روميتي",
+      "name_en": "Romit",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 15440
+    },
+    {
+      "id": 31,
+      "name_ar": "نهر فخش",
+      "name_en": "Vakhsh",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 14900
+    },
+    {
+      "id": 32,
+      "name_ar": "البنجابية",
+      "name_en": "Panj",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 12500
+    },
+    {
+      "id": 33,
+      "name_ar": "أوبيكيك",
+      "name_en": "Obikiik",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 12300
+    },
+    {
+      "id": 34,
+      "name_ar": "فانيا ميلنكوفيتش سافيتش",
+      "name_en": "Vanj",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 11217
+    },
+    {
+      "id": 35,
+      "name_ar": "شنغ",
+      "name_en": "Shing",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 10873
+    },
+    {
+      "id": 36,
+      "name_ar": "خاولينك",
+      "name_en": "Khovaling",
+      "country_ar": "طاجيكستان",
+      "country_en": "Tajikistan",
+      "population": 10601
+    }
+  ],
+  "meta": {
+    "title": "مدن طاجيكستان — Cities of Tajikistan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن طاجيكستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 36 cities in Tajikistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 36 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن طاجيكستان — Cities of Tajikistan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن طاجيكستان — Cities of Tajikistan (Arabic names) — 36 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 36 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

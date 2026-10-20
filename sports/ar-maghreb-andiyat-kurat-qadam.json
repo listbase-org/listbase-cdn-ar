@@ -1,0 +1,247 @@
+{
+  "id": "ar-maghreb-andiyat-kurat-qadam",
+  "name": "أندية كرة القدم المغربية (Moroccan football clubs)",
+  "title": "أندية كرة القدم المغربية (Moroccan football clubs)",
+  "description": "Football clubs of Morocco grouped upstream by region (Casablanca-Settat, Rabat-Salé-Kénitra, Oriental, Tanger-Tetouan-Al Hoceima, Fès-Meknès, Marrakesh-Safi, Souss-Massa). Each record carries the canonical club name, host city where openfootball publishes one, and alternative spellings (aliases). The upstream registry is Latin-transliterated only — no Arabic-script name field is published for the Moroccan file, so name_native is null for every record. Sourced from the openfootball/clubs registry.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "AS FAR",
+      "name_native": "",
+      "slug": "as-far",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "FAR Rabat, AS FAR Rabat"
+    },
+    {
+      "id": 2,
+      "name": "CAY Berrechid",
+      "name_native": "",
+      "slug": "cay-berrechid",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Youssoufia Berrechid"
+    },
+    {
+      "id": 3,
+      "name": "FUS Rabat",
+      "name_native": "",
+      "slug": "fus-rabat",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "FUS de Rabat"
+    },
+    {
+      "id": 4,
+      "name": "HUS Agadir",
+      "name_native": "",
+      "slug": "hus-agadir",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Hassania d'Agadir"
+    },
+    {
+      "id": 5,
+      "name": "IR Tanger",
+      "name_native": "",
+      "slug": "ir-tanger",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": ""
+    },
+    {
+      "id": 6,
+      "name": "JS Soualem",
+      "name_native": "",
+      "slug": "js-soualem",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Jeunesse Sportive Soualem"
+    },
+    {
+      "id": 7,
+      "name": "MA Tétouan",
+      "name_native": "",
+      "slug": "ma-tetouan",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Maghreb Tétouan"
+    },
+    {
+      "id": 8,
+      "name": "MAS Fès",
+      "name_native": "",
+      "slug": "mas-fes",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Maghreb Fez"
+    },
+    {
+      "id": 9,
+      "name": "MC Oujda",
+      "name_native": "",
+      "slug": "mc-oujda",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Mouloudia d'Oujda"
+    },
+    {
+      "id": 10,
+      "name": "OC Safi",
+      "name_native": "",
+      "slug": "oc-safi",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Olympique Safi"
+    },
+    {
+      "id": 11,
+      "name": "Raja Casablanca",
+      "name_native": "",
+      "slug": "raja-casablanca",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Casablanca",
+      "aliases": "Raja Club Athletic, Raja CA"
+    },
+    {
+      "id": 12,
+      "name": "RCA Zemamra",
+      "name_native": "",
+      "slug": "rca-zemamra",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Khemis Zemamra"
+    },
+    {
+      "id": 13,
+      "name": "RS Berkane",
+      "name_native": "",
+      "slug": "rs-berkane",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "RSB Berkane"
+    },
+    {
+      "id": 14,
+      "name": "SCC Mohammédia",
+      "name_native": "",
+      "slug": "scc-mohammedia",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Chabab Mohammédia"
+    },
+    {
+      "id": 15,
+      "name": "US Touarga",
+      "name_native": "",
+      "slug": "us-touarga",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "",
+      "aliases": "Union Touarga"
+    },
+    {
+      "id": 16,
+      "name": "Wydad Casablanca",
+      "name_native": "",
+      "slug": "wydad-casablanca",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Casablanca",
+      "aliases": "Wydad Casabl., Wydad AC"
+    }
+  ],
+  "meta": {
+    "title": "أندية كرة القدم المغربية (Moroccan football clubs) - تحميل مجاني",
+    "description": "Football clubs of Morocco grouped upstream by region (Casablanca-Settat, Rabat-Salé-Kénitra, Oriental, Tanger-Tetouan-Al Hoceima, Fès-Meknès, Marrakesh-Safi, Souss-Massa). Each record carries the canonical club name, host city where openfootball publishes one, and alternative spellings (aliases). The upstream registry is Latin-transliterated only — no Arabic-script name field is published for the Moroccan file, so name_native is null for every record. Sourced from the openfootball/clubs registry. يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أندية كرة القدم المغربية (Moroccan football clubs) | ListBase",
+    "seo_description": "تحميل أندية كرة القدم المغربية (Moroccan football clubs) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

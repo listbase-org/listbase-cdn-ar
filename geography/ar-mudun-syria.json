@@ -1,0 +1,704 @@
+{
+  "id": "ar-mudun-syria",
+  "name": "مدن سوريا — Cities of Syria (Arabic names)",
+  "title": "مدن سوريا — Cities of Syria (Arabic names)",
+  "description": "قائمة بأسماء مدن سوريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Syria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "دمشق",
+      "name_en": "Damascus",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 2584771
+    },
+    {
+      "id": 2,
+      "name_ar": "حلب",
+      "name_en": "Aleppo",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 2003671
+    },
+    {
+      "id": 3,
+      "name_ar": "اللاذقية",
+      "name_en": "Latakia",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 700000
+    },
+    {
+      "id": 4,
+      "name_ar": "حماة",
+      "name_en": "Hamah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 696863
+    },
+    {
+      "id": 5,
+      "name_ar": "الرقة",
+      "name_en": "Ar Raqqah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 299824
+    },
+    {
+      "id": 6,
+      "name_ar": "محافظة دير الزور",
+      "name_en": "Dayr az Zawr",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 271800
+    },
+    {
+      "id": 7,
+      "name_ar": "محافظة الحسكة",
+      "name_en": "Al Hasakah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 188160
+    },
+    {
+      "id": 8,
+      "name_ar": "القامشلي",
+      "name_en": "Al Qamishli",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 184231
+    },
+    {
+      "id": 9,
+      "name_ar": "محافظة إدلب",
+      "name_en": "Idlib",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 165000
+    },
+    {
+      "id": 10,
+      "name_ar": "جرمانا",
+      "name_en": "Jaramana",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 114363
+    },
+    {
+      "id": 11,
+      "name_ar": "المجلس الوطني لقوى الثورة السلمية",
+      "name_en": "As Salamiyah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 110683
+    },
+    {
+      "id": 12,
+      "name_ar": "الحجر الأسود",
+      "name_en": "Al Hajar al Aswad",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 101827
+    },
+    {
+      "id": 13,
+      "name_ar": "معرة النعمان",
+      "name_en": "Ma`arrat an Nu`man",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 90000
+    },
+    {
+      "id": 14,
+      "name_ar": "تارتو",
+      "name_en": "Tartus",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 89457
+    },
+    {
+      "id": 15,
+      "name_ar": "داريا",
+      "name_en": "Darayya",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 84044
+    },
+    {
+      "id": 16,
+      "name_ar": "مديرية الثورة",
+      "name_en": "Ath Thawrah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 84000
+    },
+    {
+      "id": 17,
+      "name_ar": "منبج",
+      "name_en": "Manbij",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 78255
+    },
+    {
+      "id": 18,
+      "name_ar": "مديرية جبلة",
+      "name_en": "Jablah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 75505
+    },
+    {
+      "id": 19,
+      "name_ar": "القريا",
+      "name_en": "Al Qurayya",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 70680
+    },
+    {
+      "id": 20,
+      "name_ar": "محافظة السويداء",
+      "name_en": "As Suwayda'",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 64730
+    },
+    {
+      "id": 21,
+      "name_ar": "الشرق الأوسط وشمال إفريقيا",
+      "name_en": "Nawa",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 63676
+    },
+    {
+      "id": 22,
+      "name_ar": "ناحية مركز الرستن",
+      "name_en": "Ar Rastan",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 61176
+    },
+    {
+      "id": 23,
+      "name_ar": "خان شيخون",
+      "name_en": "Khan Shaykhun",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 55843
+    },
+    {
+      "id": 24,
+      "name_ar": "النبك",
+      "name_en": "An Nabk",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 52502
+    },
+    {
+      "id": 25,
+      "name_ar": "البوكمال",
+      "name_en": "Albu Kamal",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 52020
+    },
+    {
+      "id": 26,
+      "name_ar": "تدمر",
+      "name_en": "Tadmur",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 51323
+    },
+    {
+      "id": 27,
+      "name_ar": "ناحية مركز الميادين",
+      "name_en": "Al Mayadin",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 48922
+    },
+    {
+      "id": 28,
+      "name_ar": "الشيخ بدر",
+      "name_en": "Ash Shaykh Badr",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 47982
+    },
+    {
+      "id": 29,
+      "name_ar": "غريسيوفولفين",
+      "name_en": "`Amuda",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 47580
+    },
+    {
+      "id": 30,
+      "name_ar": "يبرود",
+      "name_en": "Yabrud",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 47136
+    },
+    {
+      "id": 31,
+      "name_ar": "القصير",
+      "name_en": "Al Qusayr",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 46772
+    },
+    {
+      "id": 32,
+      "name_ar": "حرستا",
+      "name_en": "Harasta",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 45974
+    },
+    {
+      "id": 33,
+      "name_ar": "تلبيسة",
+      "name_en": "Tallbisah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 45853
+    },
+    {
+      "id": 34,
+      "name_ar": "منطقة عين العرب",
+      "name_en": "`Ayn al `Arab",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 44821
+    },
+    {
+      "id": 35,
+      "name_ar": "زملكا",
+      "name_en": "Zamalka",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 44661
+    },
+    {
+      "id": 36,
+      "name_ar": "جسر الشغور",
+      "name_en": "Jisr ash Shughur",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 44322
+    },
+    {
+      "id": 37,
+      "name_ar": "الكسوة",
+      "name_en": "Al Kiswah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 43456
+    },
+    {
+      "id": 38,
+      "name_ar": "بانياس",
+      "name_en": "Baniyas",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 43151
+    },
+    {
+      "id": 39,
+      "name_ar": "تادف",
+      "name_en": "Tadif",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 41786
+    },
+    {
+      "id": 40,
+      "name_ar": "جيرود",
+      "name_en": "Jayrud",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 39903
+    },
+    {
+      "id": 41,
+      "name_ar": "سراقب",
+      "name_en": "Saraqib",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 39901
+    },
+    {
+      "id": 42,
+      "name_ar": "المالكية",
+      "name_en": "Al Malikiyah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 39000
+    },
+    {
+      "id": 43,
+      "name_ar": "الغزلانية",
+      "name_en": "Al Ghizlaniyah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 38473
+    },
+    {
+      "id": 44,
+      "name_ar": "ها جين",
+      "name_en": "Hajin",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 37935
+    },
+    {
+      "id": 45,
+      "name_ar": "القريتين",
+      "name_en": "Al Qaryatayn",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 37820
+    },
+    {
+      "id": 46,
+      "name_ar": "مصياف",
+      "name_en": "Masyaf",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 37109
+    },
+    {
+      "id": 47,
+      "name_ar": "تلكلخ",
+      "name_en": "Tallkalakh",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 35445
+    },
+    {
+      "id": 48,
+      "name_ar": "دير حافر",
+      "name_en": "Dayr Hafir",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 35409
+    },
+    {
+      "id": 49,
+      "name_ar": "صلخد",
+      "name_en": "Salkhad",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 35000
+    },
+    {
+      "id": 50,
+      "name_ar": "سلحب",
+      "name_en": "Tall Salhab",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 35000
+    },
+    {
+      "id": 51,
+      "name_ar": "طفس",
+      "name_en": "Tafas",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 32236
+    },
+    {
+      "id": 52,
+      "name_ar": "صافيتا",
+      "name_en": "Safita",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 32213
+    },
+    {
+      "id": 53,
+      "name_ar": "جاسم",
+      "name_en": "Jasim",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 31683
+    },
+    {
+      "id": 54,
+      "name_ar": "أعزاز",
+      "name_en": "I`zaz",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 31534
+    },
+    {
+      "id": 55,
+      "name_ar": "أنخل",
+      "name_en": "Inkhil",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 31258
+    },
+    {
+      "id": 56,
+      "name_ar": "الرحيبة",
+      "name_en": "Ar Ruhaybah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 30450
+    },
+    {
+      "id": 57,
+      "name_ar": "كفرنبل",
+      "name_en": "Kafr Nubl",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 30000
+    },
+    {
+      "id": 58,
+      "name_ar": "تل رفعت",
+      "name_en": "Tall Rif`at",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 27086
+    },
+    {
+      "id": 59,
+      "name_ar": "القطيفة",
+      "name_en": "Al Qutayfah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 26671
+    },
+    {
+      "id": 60,
+      "name_ar": "منطقة الزبداني",
+      "name_en": "Az Zabadani",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 26285
+    },
+    {
+      "id": 61,
+      "name_ar": "ناحية مركز الصنمين",
+      "name_en": "As Sanamayn",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 26268
+    },
+    {
+      "id": 62,
+      "name_ar": "سقبا",
+      "name_en": "Siqba",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 25654
+    },
+    {
+      "id": 63,
+      "name_ar": "صيدنايا",
+      "name_en": "Saydnaya",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 25194
+    },
+    {
+      "id": 64,
+      "name_ar": "تل شهاب",
+      "name_en": "Tall Shihab",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 25000
+    },
+    {
+      "id": 65,
+      "name_ar": "طيبة الإمام",
+      "name_en": "Tayyibat al Imam",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 24105
+    },
+    {
+      "id": 66,
+      "name_ar": "صبيخان",
+      "name_en": "Subaykhan",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 23867
+    },
+    {
+      "id": 67,
+      "name_ar": "سلقين",
+      "name_en": "Salqin",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 23700
+    },
+    {
+      "id": 68,
+      "name_ar": "قطنا",
+      "name_en": "Qatana",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 22831
+    },
+    {
+      "id": 69,
+      "name_ar": "كفر بطنا",
+      "name_en": "Kafr Batna",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 22535
+    },
+    {
+      "id": 70,
+      "name_ar": "حرملك",
+      "name_en": "Harim",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 21934
+    },
+    {
+      "id": 71,
+      "name_ar": "بنش",
+      "name_en": "Binnish",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 21848
+    },
+    {
+      "id": 72,
+      "name_ar": "كفرلاها",
+      "name_en": "Kafr Laha",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 20041
+    },
+    {
+      "id": 73,
+      "name_ar": "بصرى",
+      "name_en": "Busra ash Sham",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 19683
+    },
+    {
+      "id": 74,
+      "name_ar": "تل عرن",
+      "name_en": "Tall `Aran",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 17767
+    },
+    {
+      "id": 75,
+      "name_ar": "العشارة",
+      "name_en": "Al `Asharah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 17537
+    },
+    {
+      "id": 76,
+      "name_ar": "مانين",
+      "name_en": "Manin",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 17521
+    },
+    {
+      "id": 77,
+      "name_ar": "الحارة",
+      "name_en": "Al Harah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 17172
+    },
+    {
+      "id": 78,
+      "name_ar": "كفرزيتا",
+      "name_en": "Kafr Zayta",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 17052
+    },
+    {
+      "id": 79,
+      "name_ar": "مارية",
+      "name_en": "Mari`",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 16904
+    },
+    {
+      "id": 80,
+      "name_ar": "شهبا",
+      "name_en": "Shahba",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 16745
+    },
+    {
+      "id": 81,
+      "name_ar": "اللطامنة",
+      "name_en": "Al Lataminah",
+      "country_ar": "سوريا",
+      "country_en": "Syria",
+      "population": 16267
+    }
+  ],
+  "meta": {
+    "title": "مدن سوريا — Cities of Syria (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن سوريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 81 cities in Syria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 81 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن سوريا — Cities of Syria (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن سوريا — Cities of Syria (Arabic names) — 81 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 81 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

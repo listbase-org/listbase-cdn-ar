@@ -1,0 +1,126 @@
+{
+  "id": "ar-tunis-andiyat-kurat-qadam",
+  "name": "أندية كرة القدم التونسية (Tunisian football clubs)",
+  "title": "أندية كرة القدم التونسية (Tunisian football clubs)",
+  "description": "Football clubs of Tunisia with canonical Latin-transliterated club name, host city and alternative spellings (aliases). The upstream registry is Latin-transliterated only — no Arabic-script name field is published for the Tunisian file, so name_native is null for every record. Sourced from the openfootball/clubs registry.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "string"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Espérance Sportive de Tunis",
+      "name_native": "",
+      "slug": "esperance-sportive-de-tunis",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tunis",
+      "aliases": "Esp. Sp. Tunis"
+    },
+    {
+      "id": 2,
+      "name": "JS Kairouanaise",
+      "name_native": "",
+      "slug": "js-kairouanaise",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kairouan",
+      "aliases": "JSK, Jeunesse Sportive Kairouanaise"
+    },
+    {
+      "id": 3,
+      "name": "Olympique de Béja",
+      "name_native": "",
+      "slug": "olympique-de-beja",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Béja",
+      "aliases": "Olympique Béja, O Béja, OB"
+    },
+    {
+      "id": 4,
+      "name": "US Ben Guerdane",
+      "name_native": "",
+      "slug": "us-ben-guerdane",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Ben Guerdane",
+      "aliases": "Union Sportive de Ben Guerdane, USBG"
+    },
+    {
+      "id": 5,
+      "name": "US Monastir",
+      "name_native": "",
+      "slug": "us-monastir",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Monastir",
+      "aliases": "Union Sportive Monastirienne, USM"
+    }
+  ],
+  "meta": {
+    "title": "أندية كرة القدم التونسية (Tunisian football clubs) - تحميل مجاني",
+    "description": "Football clubs of Tunisia with canonical Latin-transliterated club name, host city and alternative spellings (aliases). The upstream registry is Latin-transliterated only — no Arabic-script name field is published for the Tunisian file, so name_native is null for every record. Sourced from the openfootball/clubs registry. يحتوي على 5 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "أندية كرة القدم التونسية (Tunisian football clubs) | ListBase",
+    "seo_description": "تحميل أندية كرة القدم التونسية (Tunisian football clubs) — 5 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 5 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "id": "ar-mudun-malawi",
+  "name": "مدن ملاوي — Cities of Malawi (Arabic names)",
+  "title": "مدن ملاوي — Cities of Malawi (Arabic names)",
+  "description": "قائمة بأسماء مدن ملاوي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 23 cities in Malawi with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ليلونغوي",
+      "name_en": "Lilongwe",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 989318
+    },
+    {
+      "id": 2,
+      "name_ar": "بلانتاير",
+      "name_en": "Blantyre",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 800264
+    },
+    {
+      "id": 3,
+      "name_ar": "مزوزو",
+      "name_en": "Mzuzu",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 150100
+    },
+    {
+      "id": 4,
+      "name_ar": "زومبا",
+      "name_en": "Zomba",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 101140
+    },
+    {
+      "id": 5,
+      "name_ar": "ريف كارونجا",
+      "name_en": "Karonga",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 61609
+    },
+    {
+      "id": 6,
+      "name_ar": "مقاطعة كاسونغو",
+      "name_en": "Kasungu",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 58653
+    },
+    {
+      "id": 7,
+      "name_ar": "مانغوتشي",
+      "name_en": "Mangochi",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 51429
+    },
+    {
+      "id": 8,
+      "name_ar": "سليمة",
+      "name_en": "Salima",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 36789
+    },
+    {
+      "id": 9,
+      "name_ar": "حي ديدزا",
+      "name_en": "Dedza",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 30928
+    },
+    {
+      "id": 10,
+      "name_ar": "مقاطعة نكوتاكوتا",
+      "name_en": "Nkhotakota",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 28350
+    },
+    {
+      "id": 11,
+      "name_ar": "مقاطعة مشينجي",
+      "name_en": "Mchinji",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 28011
+    },
+    {
+      "id": 12,
+      "name_ar": "مقاطعة نسانج",
+      "name_en": "Nsanje",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 26844
+    },
+    {
+      "id": 13,
+      "name_ar": "مقاطعة مزيمبا",
+      "name_en": "Mzimba",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 26096
+    },
+    {
+      "id": 14,
+      "name_ar": "إقليم رومفي",
+      "name_en": "Rumphi",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 22358
+    },
+    {
+      "id": 15,
+      "name_ar": "مقاطعة نتشيو",
+      "name_en": "Ntcheu",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 21241
+    },
+    {
+      "id": 16,
+      "name_ar": "إقليم موانزا",
+      "name_en": "Mwanza",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 18039
+    },
+    {
+      "id": 17,
+      "name_ar": "مقاطعة تشيتيبا",
+      "name_en": "Chitipa",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 17743
+    },
+    {
+      "id": 18,
+      "name_ar": "مقاطعة خليج نخاتا",
+      "name_en": "Nkhata Bay",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 14274
+    },
+    {
+      "id": 19,
+      "name_ar": "مقاطعة نتشيسى",
+      "name_en": "Ntchisi",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 9357
+    },
+    {
+      "id": 20,
+      "name_ar": "مقاطعة دوا",
+      "name_en": "Dowa",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 7135
+    },
+    {
+      "id": 21,
+      "name_ar": "مقاطعة فالومبي",
+      "name_en": "Phalombe",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 6242
+    },
+    {
+      "id": 22,
+      "name_ar": "إقليم تشيرازولو",
+      "name_en": "Chiradzulu",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 1580
+    },
+    {
+      "id": 23,
+      "name_ar": "مقاطعة ماشينكا",
+      "name_en": "Machinga",
+      "country_ar": "ملاوي",
+      "country_en": "Malawi",
+      "population": 1418
+    }
+  ],
+  "meta": {
+    "title": "مدن ملاوي — Cities of Malawi (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ملاوي بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 23 cities in Malawi with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 23 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ملاوي — Cities of Malawi (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ملاوي — Cities of Malawi (Arabic names) — 23 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 23 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

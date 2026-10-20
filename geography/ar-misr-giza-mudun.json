@@ -1,0 +1,475 @@
+{
+  "id": "ar-misr-giza-mudun",
+  "name": "مدن ومراكز محافظة الجيزة (Cities & Towns of Giza)",
+  "title": "مدن ومراكز محافظة الجيزة (Cities & Towns of Giza)",
+  "description": "قائمة مدن ومراكز محافظة الجيزة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Giza governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "217",
+      "name_ar": "6 أكتوبر",
+      "name_en": "6th-of-october",
+      "name_long_ar": "6 أكتوبر، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "201",
+      "name_ar": "أبو رواش",
+      "name_en": "abu-rawash",
+      "name_long_ar": "أبو رواش، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "414",
+      "name_ar": "أرض اللواء",
+      "name_en": "ard-el-lewa",
+      "name_long_ar": "أرض اللواء، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "203",
+      "name_ar": "أوسيم",
+      "name_en": "oseem",
+      "name_long_ar": "أوسيم، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "197",
+      "name_ar": "إمبابة",
+      "name_en": "imbaba",
+      "name_long_ar": "إمبابة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "227",
+      "name_ar": "البدرشين",
+      "name_en": "badrasheen",
+      "name_long_ar": "البدرشين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "200",
+      "name_ar": "البراجيل",
+      "name_en": "baragil",
+      "name_long_ar": "البراجيل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "223",
+      "name_ar": "الحرانية",
+      "name_en": "haraneya",
+      "name_long_ar": "الحرانية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "224",
+      "name_ar": "الحوامدية",
+      "name_en": "hawamdeya",
+      "name_long_ar": "الحوامدية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "210",
+      "name_ar": "الدقى",
+      "name_en": "dokki",
+      "name_long_ar": "الدقى، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "231",
+      "name_ar": "الرماية",
+      "name_en": "remaia",
+      "name_long_ar": "الرماية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "205",
+      "name_ar": "الشيخ زايد",
+      "name_en": "sheikh-zayed",
+      "name_long_ar": "الشيخ زايد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "232",
+      "name_ar": "الصحفيين",
+      "name_en": "sahafieen",
+      "name_long_ar": "الصحفيين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "229",
+      "name_ar": "الصف",
+      "name_en": "saf",
+      "name_long_ar": "الصف، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "195",
+      "name_ar": "العجوزة",
+      "name_en": "agouza",
+      "name_long_ar": "العجوزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "225",
+      "name_ar": "العزيزية",
+      "name_en": "azizia",
+      "name_long_ar": "العزيزية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "214",
+      "name_ar": "العمرانية",
+      "name_en": "omrania",
+      "name_long_ar": "العمرانية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "411",
+      "name_ar": "العياط",
+      "name_en": "el-ayyat",
+      "name_long_ar": "العياط، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "220",
+      "name_ar": "القرية الفرعونية",
+      "name_en": "pharaonic-village",
+      "name_long_ar": "القرية الفرعونية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "196",
+      "name_ar": "الكيت كات",
+      "name_en": "kit-kat",
+      "name_long_ar": "الكيت كات، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "204",
+      "name_ar": "المنصورية",
+      "name_en": "mansuriyya",
+      "name_long_ar": "المنصورية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "221",
+      "name_ar": "المنيب",
+      "name_en": "moneeb",
+      "name_long_ar": "المنيب، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "194",
+      "name_ar": "المهندسين",
+      "name_en": "mohandessin",
+      "name_long_ar": "المهندسين، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "212",
+      "name_ar": "الهرم",
+      "name_en": "haram",
+      "name_long_ar": "الهرم، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "198",
+      "name_ar": "الوراق",
+      "name_en": "warraq",
+      "name_long_ar": "الوراق، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "199",
+      "name_ar": "بشتيل",
+      "name_en": "bashtil",
+      "name_long_ar": "بشتيل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "394",
+      "name_ar": "بني سلامة",
+      "name_en": "bani-salamah",
+      "name_long_ar": "بني سلامة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "208",
+      "name_ar": "بولاق الدكرور",
+      "name_en": "boulaq-dakrour",
+      "name_long_ar": "بولاق الدكرور، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "222",
+      "name_ar": "ترسا",
+      "name_en": "tersa",
+      "name_long_ar": "ترسا، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "219",
+      "name_ar": "جزيرة الدهب وكولدير",
+      "name_en": "dahab-island-and-coldair",
+      "name_long_ar": "جزيرة الدهب وكولدير، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "230",
+      "name_ar": "حدائق الاهرام",
+      "name_en": "hadayek-al-ahram",
+      "name_long_ar": "حدائق الاهرام، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "211",
+      "name_ar": "حى الجيزة",
+      "name_en": "giza-district",
+      "name_long_ar": "حى الجيزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "228",
+      "name_ar": "دهشور",
+      "name_en": "dahshur",
+      "name_long_ar": "دهشور، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "218",
+      "name_ar": "ساقية مكى",
+      "name_en": "sakyet-mekky",
+      "name_long_ar": "ساقية مكى، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "226",
+      "name_ar": "سقارة",
+      "name_en": "saqqara",
+      "name_long_ar": "سقارة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "216",
+      "name_ar": "سوق الأحد",
+      "name_en": "souk-al-ahad",
+      "name_long_ar": "سوق الأحد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "207",
+      "name_ar": "صفط",
+      "name_en": "saft",
+      "name_long_ar": "صفط، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "413",
+      "name_ar": "غرب سوميد",
+      "name_en": "west-somid",
+      "name_long_ar": "غرب سوميد، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "213",
+      "name_ar": "فيصل",
+      "name_en": "faisal",
+      "name_long_ar": "فيصل، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "202",
+      "name_ar": "كرداسة",
+      "name_en": "kerdasa",
+      "name_long_ar": "كرداسة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "215",
+      "name_ar": "كفر طهرمس",
+      "name_en": "kafr-tohormos",
+      "name_long_ar": "كفر طهرمس، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "233",
+      "name_ar": "مركز الجيزة",
+      "name_en": "markaz-al-giza",
+      "name_long_ar": "مركز الجيزة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "384",
+      "name_ar": "مريوطية",
+      "name_en": "maryotaya",
+      "name_long_ar": "مريوطية، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "209",
+      "name_ar": "ميت عقبة",
+      "name_en": "mit-oqba",
+      "name_long_ar": "ميت عقبة، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "206",
+      "name_ar": "ناهيا",
+      "name_en": "nahia",
+      "name_long_ar": "ناهيا، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    },
+    {
+      "id": "395",
+      "name_ar": "وردان",
+      "name_en": "wardan",
+      "name_long_ar": "وردان، الجيزة",
+      "muhafaza_ar": "الجيزة",
+      "muhafaza_en": "giza",
+      "muhafaza_id": 68
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الجيزة (Cities & Towns of Giza) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الجيزة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Giza governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 46 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الجيزة (Cities & Towns of Giza) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الجيزة (Cities & Towns of Giza) — 46 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 46 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

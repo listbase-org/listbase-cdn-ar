@@ -1,0 +1,401 @@
+{
+  "id": "ar-sa-malaib",
+  "name": "الملاعب والمدن الرياضية في المملكة العربية السعودية (Stadiums & Sports Cities of Saudi Arabia)",
+  "title": "الملاعب والمدن الرياضية في المملكة العربية السعودية (Stadiums & Sports Cities of Saudi Arabia)",
+  "description": "قائمة الملاعب والمدن الرياضية في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q483110) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة الملاعب والمدن الرياضية سعودية في النطاق العربي. List of stadiums & sports cities in Saudi Arabia from Wikidata.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q80168938",
+      "name_ar": "استاد نادي الشباب",
+      "name_en": "Al Shabab Stadium",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.803106,
+      "longitude": 46.628787,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80168938"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4116127",
+      "name_ar": "مدينة الأمير سعود بن جلوي الرياضية",
+      "name_en": "Prince Saud bin Jalawi Stadium",
+      "admin_area_ar": "الخبر",
+      "admin_area_en": "Khobar",
+      "latitude": 26.3699,
+      "longitude": 50.2052,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4116127"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4116876",
+      "name_ar": "مدينة الأمير سلطان بن عبد العزيز الرياضية",
+      "name_en": "Prince Sultan bin Abdulaziz Sports City",
+      "admin_area_ar": "أبها",
+      "admin_area_en": "Abha",
+      "latitude": 18.310556,
+      "longitude": 42.598333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4116876"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4120100",
+      "name_ar": "مدينة الأمير عبد العزيز بن مساعد الرياضية",
+      "name_en": "Prince Abdulaziz bin Musa'ed Sports City",
+      "admin_area_ar": "حائل",
+      "admin_area_en": "Ha'il",
+      "latitude": 27.50398,
+      "longitude": 41.697589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4120100"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3245092",
+      "name_ar": "مدينة الأمير عبد الله الفيصل الرياضية",
+      "name_en": "Prince Abdullah Al Faisal Sports City",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.446608,
+      "longitude": 39.251693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3245092"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4116944",
+      "name_ar": "مدينة الأمير عبد الله بن جلوي الرياضية",
+      "name_en": "Prince Abdullah bin Jalawi Sports City",
+      "admin_area_ar": "واحة الأحساء",
+      "admin_area_en": "Al-Ahsa Oasis",
+      "latitude": 25.305833,
+      "longitude": 49.612778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4116944"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3273652",
+      "name_ar": "مدينة الأمير فيصل بن فهد الرياضية",
+      "name_en": "Prince Faisal bin Fahd Sports City",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.662599,
+      "longitude": 46.739745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3273652"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4120210",
+      "name_ar": "مدينة الأمير محمد بن عبد العزيز الرياضية",
+      "name_en": "Prince Mohammed bin Abdul Aziz Stadium",
+      "admin_area_ar": "المدينة المنورة",
+      "admin_area_en": "Medina",
+      "latitude": 18.223043,
+      "longitude": 42.490069,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4120210"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q123631778",
+      "name_ar": "مدينة الأمير نايف بن عبد العزيز الرياضية",
+      "name_en": "Prince Nayef bin Abdulaziz Sports City",
+      "admin_area_ar": "محافظة القطيف",
+      "admin_area_en": "Qatif governorate",
+      "latitude": 26.506389,
+      "longitude": 49.979722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123631778"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q122226943",
+      "name_ar": "مدينة الأمير هذلول بن عبد العزيز الرياضية",
+      "name_en": "Prince Hathloul bin Abdul Aziz Sports City",
+      "admin_area_ar": "منطقة نجران",
+      "admin_area_en": "Najran Province",
+      "latitude": 17.657444,
+      "longitude": 44.476614,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122226943"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7244241",
+      "name_ar": "مدينة المجمعة الرياضية",
+      "name_en": "Prince Salman Bin Abdulaziz Sport City Stadium",
+      "admin_area_ar": "المجمعة",
+      "admin_area_en": "Al Majma'ah",
+      "latitude": 25.886929,
+      "longitude": 45.368021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7244241"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q99228374",
+      "name_ar": "مدينة الملك سعود الرياضية",
+      "name_en": "King Saud Sport City",
+      "admin_area_ar": "محافظة الباحة",
+      "admin_area_en": "Al Bahah governorate",
+      "latitude": 20.080949,
+      "longitude": 41.524398,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99228374"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q6411564",
+      "name_ar": "مدينة الملك فهد الرياضية",
+      "name_en": "King Fahd Sports City",
+      "admin_area_ar": "الطائف",
+      "admin_area_en": "Ta'if",
+      "latitude": 21.435972,
+      "longitude": 40.480371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6411564"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q5260270",
+      "name_ar": "ملعب إدارة التعليم",
+      "name_en": "Department of Education Stadium",
+      "admin_area_ar": "منطقة القصيم",
+      "admin_area_en": "Al-Qassim",
+      "latitude": 26.088333,
+      "longitude": 44.051667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5260270"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q83949052",
+      "name_ar": "ملعب إدارة التعليم (حفر الباطن)",
+      "name_en": "Department of Education Stadium (Hafar Al-Batin)",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 28.440247,
+      "longitude": 46.057206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83949052"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q109298370",
+      "name_ar": "ملعب الأمير محمد بن سلمان",
+      "name_en": "Prince Mohammed bin Salman Stadium",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.59,
+      "longitude": 46.528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109298370"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q3292058",
+      "name_ar": "ملعب الأمير محمد بن عبد الله الفيصل",
+      "name_en": "Prince Sultan bin Fahd Stadium",
+      "admin_area_ar": "جدة",
+      "admin_area_en": "Jeddah",
+      "latitude": 21.5672,
+      "longitude": 39.1737,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3292058"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q2650633",
+      "name_ar": "ملعب الأمير محمد بن فهد",
+      "name_en": "Prince Mohamed bin Fahd Stadium",
+      "admin_area_ar": "الدمام",
+      "admin_area_en": "Dammam",
+      "latitude": 26.4272,
+      "longitude": 50.1141,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2650633"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q5514361",
+      "name_ar": "ملعب الرئاسة العامة لرعاية الشباب الداخلي",
+      "name_en": "GPYW Indoor Stadium",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.660278,
+      "longitude": 46.726111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5514361"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q127690284",
+      "name_ar": "ملعب المربَّع",
+      "name_en": "Al-Murabba Stadium",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.811,
+      "longitude": 46.547,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127690284"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4119060",
+      "name_ar": "ملعب مدينة الملك عبد الله الرياضية",
+      "name_en": "King Abdullah Sport City Stadium",
+      "admin_area_ar": "بريدة",
+      "admin_area_en": "Burayda",
+      "latitude": 26.3789,
+      "longitude": 43.9478,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4119060"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4703465",
+      "name_ar": "ملعب نادي الأخدود",
+      "name_en": "Prince Hathloul Stadium",
+      "admin_area_ar": "نجران",
+      "admin_area_en": "Najran",
+      "latitude": 17.590278,
+      "longitude": 44.244722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4703465"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q126391645",
+      "name_ar": "ملعب نادي الاتفاق",
+      "name_en": "Al-Ettifaq Club Stadium",
+      "admin_area_ar": "المنطقة الشرقية",
+      "admin_area_en": "Eastern Province",
+      "latitude": 26.350571,
+      "longitude": 50.181143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126391645"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q26884122",
+      "name_ar": "ملعب نادي الباطن",
+      "name_en": "Al-Batin Club Stadium",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 28.449403,
+      "longitude": 46.075233,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26884122"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q109095081",
+      "name_ar": "ملعب نادي التعاون",
+      "name_en": "Al Taawon Club Stadium",
+      "admin_area_ar": "مدينة بريدة",
+      "admin_area_en": "Buraidah Governorate",
+      "latitude": 26.420023,
+      "longitude": 44.096882,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109095081"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4704017",
+      "name_ar": "ملعب نادي الحزم",
+      "name_en": "Al-Hazem Club Stadium",
+      "admin_area_ar": "الرس",
+      "admin_area_en": "Ar Rass",
+      "latitude": 25.860278,
+      "longitude": 43.502222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4704017"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q110647460",
+      "name_ar": "ملعب نادي الزلفي",
+      "name_en": "Zulfi Club Stadium",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 26.306633,
+      "longitude": 44.835943,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110647460"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q87106592",
+      "name_ar": "ملعب نادي القيصومة",
+      "name_en": "Al-Qaisumah Club Stadium",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 28.309642,
+      "longitude": 46.142842,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q87106592"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4703016",
+      "name_ar": "ملعب نادي النجمة",
+      "name_en": "Al-Najma Club Stadium",
+      "admin_area_ar": "عنيزة",
+      "admin_area_en": "Unaizah",
+      "latitude": 26.095278,
+      "longitude": 44.048056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4703016"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q138299146",
+      "name_ar": "نادي عكاظ الرياضي",
+      "name_en": "Okadh Sport Club Stadium",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.34543,
+      "longitude": 40.461677,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138299146"
+    }
+  ],
+  "meta": {
+    "title": "الملاعب والمدن الرياضية في المملكة العربية السعودية (Stadiums & Sports Cities of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة الملاعب والمدن الرياضية في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q483110) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة الملاعب والمدن الرياضية سعودية في النطاق العربي. List of stadiums & sports cities in Saudi Arabia from Wikidata. يحتوي على 30 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الملاعب والمدن الرياضية في المملكة العربية السعودية (Stadiums & Sports Cities of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل الملاعب والمدن الرياضية في المملكة العربية السعودية (Stadiums & Sports Cities of Saudi Arabia) — 30 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 30 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

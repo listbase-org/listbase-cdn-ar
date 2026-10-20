@@ -1,0 +1,288 @@
+{
+  "id": "ar-mudun-lebanon",
+  "name": "مدن لبنان — Cities of Lebanon (Arabic names)",
+  "title": "مدن لبنان — Cities of Lebanon (Arabic names)",
+  "description": "قائمة بأسماء مدن لبنان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Lebanon with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بيروت",
+      "name_en": "Beirut",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 2421354
+    },
+    {
+      "id": 2,
+      "name_ar": "طرابلس",
+      "name_en": "Tripoli",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 227857
+    },
+    {
+      "id": 3,
+      "name_ar": "جونيه",
+      "name_en": "Jounie",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 102221
+    },
+    {
+      "id": 4,
+      "name_ar": "بعبدا",
+      "name_en": "Baabda",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 84900
+    },
+    {
+      "id": 5,
+      "name_ar": "بعلبك",
+      "name_en": "Baalbek",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 81052
+    },
+    {
+      "id": 6,
+      "name_ar": "النبطية",
+      "name_en": "Nabatiye",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 80000
+    },
+    {
+      "id": 7,
+      "name_ar": "إطار هواء",
+      "name_en": "Tyre",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 60000
+    },
+    {
+      "id": 8,
+      "name_ar": "البترون",
+      "name_en": "Batroun",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 45000
+    },
+    {
+      "id": 9,
+      "name_ar": "جبيل",
+      "name_en": "Jbail",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 40000
+    },
+    {
+      "id": 10,
+      "name_ar": "شمسطار",
+      "name_en": "Chmistar",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 30000
+    },
+    {
+      "id": 11,
+      "name_ar": "بنت جبيل",
+      "name_en": "Bent Jbail",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 30000
+    },
+    {
+      "id": 12,
+      "name_ar": "زغرتا",
+      "name_en": "Zgharta",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 30000
+    },
+    {
+      "id": 13,
+      "name_ar": "إهدن",
+      "name_en": "Ehden",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 25000
+    },
+    {
+      "id": 14,
+      "name_ar": "بشري",
+      "name_en": "Bcharre",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 24000
+    },
+    {
+      "id": 15,
+      "name_ar": "الهرمل",
+      "name_en": "El Hermel",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 22250
+    },
+    {
+      "id": 16,
+      "name_ar": "كفركدة",
+      "name_en": "Kfar Kidde",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 20000
+    },
+    {
+      "id": 17,
+      "name_ar": "ضبية",
+      "name_en": "Dbaiye",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 18000
+    },
+    {
+      "id": 18,
+      "name_ar": "بعقلين",
+      "name_en": "Baaqline",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 17000
+    },
+    {
+      "id": 19,
+      "name_ar": "حصرون",
+      "name_en": "Hasroun",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 12000
+    },
+    {
+      "id": 20,
+      "name_ar": "القعدي",
+      "name_en": "El Qaa",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 12000
+    },
+    {
+      "id": 21,
+      "name_ar": "حقل زراعي",
+      "name_en": "Chaqra",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 12000
+    },
+    {
+      "id": 22,
+      "name_ar": "بتغرين",
+      "name_en": "Bteghrine",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 12000
+    },
+    {
+      "id": 23,
+      "name_ar": "الصرفند",
+      "name_en": "Sarafand",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10965
+    },
+    {
+      "id": 24,
+      "name_ar": "صريفا",
+      "name_en": "Srifa",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    },
+    {
+      "id": 25,
+      "name_ar": "شرتون",
+      "name_en": "Chartoun",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    },
+    {
+      "id": 26,
+      "name_ar": "قناة ري",
+      "name_en": "Qana",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    },
+    {
+      "id": 27,
+      "name_ar": "أميون",
+      "name_en": "Amioun",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    },
+    {
+      "id": 28,
+      "name_ar": "رأس المتن",
+      "name_en": "Ras el Metn",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    },
+    {
+      "id": 29,
+      "name_ar": "الدامور",
+      "name_en": "Ed Damour",
+      "country_ar": "لبنان",
+      "country_en": "Lebanon",
+      "population": 10000
+    }
+  ],
+  "meta": {
+    "title": "مدن لبنان — Cities of Lebanon (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن لبنان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Lebanon with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 29 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن لبنان — Cities of Lebanon (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن لبنان — Cities of Lebanon (Arabic names) — 29 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 29 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

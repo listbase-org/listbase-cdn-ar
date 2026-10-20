@@ -1,0 +1,436 @@
+{
+  "id": "ar-al-jawf-mudun",
+  "name": "مدن منطقة الجوف (Cities of Al Jawf)",
+  "title": "مدن منطقة الجوف (Cities of Al Jawf)",
+  "description": "قائمة مدن منطقة الجوف (Al Jawf) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Jawf administrative region of Saudi Arabia (region_id=2). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 2222,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "كاف",
+      "name_en": "Kaf",
+      "slug": "kaf"
+    },
+    {
+      "city_id": 2223,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "القرقر",
+      "name_en": "Al Qarqar",
+      "slug": "al-qarqar"
+    },
+    {
+      "city_id": 2224,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "إثرة",
+      "name_en": "Ithrah",
+      "slug": "ithrah"
+    },
+    {
+      "city_id": 2225,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "غطي",
+      "name_en": "Ghutayy",
+      "slug": "ghutayy"
+    },
+    {
+      "city_id": 2226,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "القريات",
+      "name_en": "Al Qurayyat",
+      "slug": "al-qurayyat"
+    },
+    {
+      "city_id": 2227,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "عين الحواسي",
+      "name_en": "Ayn Al Hawasi",
+      "slug": "ayn-al-hawasi"
+    },
+    {
+      "city_id": 2228,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "قليب خضر",
+      "name_en": "Qulayyib Khudr",
+      "slug": "qulayyib-khudr"
+    },
+    {
+      "city_id": 2229,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "العيساوية",
+      "name_en": "Al Isawiyah",
+      "slug": "al-isawiyah"
+    },
+    {
+      "city_id": 2230,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الحديثة",
+      "name_en": "Al Hadithah",
+      "slug": "al-hadithah"
+    },
+    {
+      "city_id": 2231,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الناصفة",
+      "name_en": "An Nasifah",
+      "slug": "an-nasifah-2231"
+    },
+    {
+      "city_id": 2232,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الشقيق",
+      "name_en": "Ash Saqayq",
+      "slug": "ash-saqayq"
+    },
+    {
+      "city_id": 2233,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الحوي",
+      "name_en": "Al Hawi",
+      "slug": "al-hawi"
+    },
+    {
+      "city_id": 2234,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "صوير",
+      "name_en": "Suwayr",
+      "slug": "suwayr"
+    },
+    {
+      "city_id": 2235,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "حدرج",
+      "name_en": "Hidrij",
+      "slug": "hidrij"
+    },
+    {
+      "city_id": 2236,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "ام طليحة",
+      "name_en": "Umm Tulayhah",
+      "slug": "umm-tulayhah-2236"
+    },
+    {
+      "city_id": 2237,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "سكاكا",
+      "name_en": "Sakaka",
+      "slug": "sakaka"
+    },
+    {
+      "city_id": 2238,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "اللقايط",
+      "name_en": "Al Laqayit",
+      "slug": "al-laqayit"
+    },
+    {
+      "city_id": 2239,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "صبيحة",
+      "name_en": "Subayhah",
+      "slug": "subayhah"
+    },
+    {
+      "city_id": 2240,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "طبرجل",
+      "name_en": "Tubarjal",
+      "slug": "tubarjal"
+    },
+    {
+      "city_id": 2241,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الفياض",
+      "name_en": "Al Fiyad",
+      "slug": "al-fiyad"
+    },
+    {
+      "city_id": 2242,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "قارا",
+      "name_en": "Qara",
+      "slug": "qara"
+    },
+    {
+      "city_id": 2243,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الثنية",
+      "name_en": "Ath Thaniyah",
+      "slug": "ath-thaniyah"
+    },
+    {
+      "city_id": 2244,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "ام نخيلة",
+      "name_en": "Umm Nukhaylah",
+      "slug": "umm-nukhaylah"
+    },
+    {
+      "city_id": 2245,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "المرير",
+      "name_en": "A Murayr",
+      "slug": "a-murayr"
+    },
+    {
+      "city_id": 2246,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "زلوم",
+      "name_en": "Zallum",
+      "slug": "zallum"
+    },
+    {
+      "city_id": 2247,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "النبك ابو قصر",
+      "name_en": "An Nabk Abu Qasr",
+      "slug": "an-nabk-abu-qasr"
+    },
+    {
+      "city_id": 2248,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "طلعة عمار",
+      "name_en": "Talat Ammar",
+      "slug": "talat-ammar"
+    },
+    {
+      "city_id": 2249,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "عذفاء",
+      "name_en": "Adhfa",
+      "slug": "adhfa"
+    },
+    {
+      "city_id": 2250,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "خوعاء",
+      "name_en": "Khawa",
+      "slug": "khawa"
+    },
+    {
+      "city_id": 2251,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الشويحطية",
+      "name_en": "Ash Shuwayhitiyah",
+      "slug": "ash-shuwayhitiyah"
+    },
+    {
+      "city_id": 2268,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "دومة الجندل",
+      "name_en": "Dawmat Al Jandal",
+      "slug": "dawmat-al-jandal"
+    },
+    {
+      "city_id": 2269,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "ميقوع",
+      "name_en": "Mayqu",
+      "slug": "mayqu"
+    },
+    {
+      "city_id": 2270,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الأضارع",
+      "name_en": "Al Adari",
+      "slug": "al-adari"
+    },
+    {
+      "city_id": 2271,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "صفان",
+      "name_en": "Safan",
+      "slug": "safan"
+    },
+    {
+      "city_id": 2272,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الرديفة",
+      "name_en": "Ar Radifah",
+      "slug": "ar-radifah"
+    },
+    {
+      "city_id": 2273,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "ابو عجرم",
+      "name_en": "Abu Ajram",
+      "slug": "abu-ajram"
+    },
+    {
+      "city_id": 2274,
+      "region_id": 2,
+      "region_ar": "الجوف",
+      "region_en": "Al Jawf",
+      "region_slug": "al-jawf",
+      "name_ar": "الطوير",
+      "name_en": "At Tuwayr",
+      "slug": "at-tuwayr"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة الجوف (Cities of Al Jawf) - تحميل مجاني",
+    "description": "قائمة مدن منطقة الجوف (Al Jawf) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Al Jawf administrative region of Saudi Arabia (region_id=2). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 37 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة الجوف (Cities of Al Jawf) | ListBase",
+    "seo_description": "تحميل مدن منطقة الجوف (Cities of Al Jawf) — 37 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 37 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+﻿"Name","Country","Country Code","Latitude","Longitude","Status","Reactor Type","Reactor Model","Construction Start","Operational From","Operational To","Capacity Mw","Iaea Id","Data Source"
+"Barakah-1 (Braka)","United Arab Emirates","AE","23.952748","52.193298","Operational","PWR","APR-1400","2012-07-19","2021-04-01","","1310","1050","WNA/IAEA"
+"Barakah-2 (Braka)","United Arab Emirates","AE","23.952748","52.193298","Operational","PWR","APR-1400","2013-04-15","2022-03-24","","1310","1051","WNA/IAEA"
+"Barakah-3 (Braka)","United Arab Emirates","AE","23.952748","52.203298","Operational","PWR","APR-1400","2014-09-24","2023-02-24","","1310","1052","WNA/IAEA"
+"Barakah-4 (Braka)","United Arab Emirates","AE","23.952748","52.203298","Under Construction","PWR","APR-1400","2015-07-30","","","1310","1053","IAEA"
+"El Dabaa-1","Egypt","EG","31.044167","28.497778","Under Construction","PWR","VVER-1200","2022-07-20","","","1100","137","WNA/IAEA/Wikipedia"
+"El Dabaa-2","Egypt","EG","31.044167","28.497778","Under Construction","PWR","VVER-1200","2022-11-19","","","1100","138","IAEA/Wikipedia"
+"El Dabaa-3","Egypt","EG","31.044167","28.497778","Under Construction","PWR","VVER-1200","2023-05-03","","","1100","1120","IAEA/Wikipedia"

@@ -1,0 +1,256 @@
+{
+  "id": "ar-mudun-ghana",
+  "name": "مدن غانا — Cities of Ghana (Arabic names)",
+  "title": "مدن غانا — Cities of Ghana (Arabic names)",
+  "description": "قائمة بأسماء مدن غانا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 25 cities in Ghana with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كوماسي",
+      "name_en": "Kumasi",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 3903480
+    },
+    {
+      "id": 2,
+      "name_ar": "تامالي",
+      "name_en": "Tamale",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 1095808
+    },
+    {
+      "id": 3,
+      "name_ar": "أكرا",
+      "name_en": "Accra",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 491817
+    },
+    {
+      "id": 4,
+      "name_ar": "سونياتي",
+      "name_en": "Sunyani",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 208496
+    },
+    {
+      "id": 5,
+      "name_ar": "آشيامان",
+      "name_en": "Ashaiman",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 208060
+    },
+    {
+      "id": 6,
+      "name_ar": "أوبواسي",
+      "name_en": "Obuase",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 180460
+    },
+    {
+      "id": 7,
+      "name_ar": "كيب كوست",
+      "name_en": "Cape Coast",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 169894
+    },
+    {
+      "id": 8,
+      "name_ar": "تيما",
+      "name_en": "Tema",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 161612
+    },
+    {
+      "id": 9,
+      "name_ar": "كوفوريدوا",
+      "name_en": "Koforidua",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 127334
+    },
+    {
+      "id": 10,
+      "name_ar": "سوخومي",
+      "name_en": "Suhum",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 126403
+    },
+    {
+      "id": 11,
+      "name_ar": "أستراليا الغربية",
+      "name_en": "Wa",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 107214
+    },
+    {
+      "id": 12,
+      "name_ar": "تيكيمان",
+      "name_en": "Techiman",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 104212
+    },
+    {
+      "id": 13,
+      "name_ar": "هولميوم",
+      "name_en": "Ho",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 83715
+    },
+    {
+      "id": 14,
+      "name_ar": "دومينيكو",
+      "name_en": "Dome",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 78785
+    },
+    {
+      "id": 15,
+      "name_ar": "بيريكوم",
+      "name_en": "Berekum",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 62364
+    },
+    {
+      "id": 16,
+      "name_ar": "نكاوكاو",
+      "name_en": "Nkawkaw",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 61785
+    },
+    {
+      "id": 17,
+      "name_ar": "أودا",
+      "name_en": "Oda",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 60604
+    },
+    {
+      "id": 18,
+      "name_ar": "واينيبا",
+      "name_en": "Winneba",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 55331
+    },
+    {
+      "id": 19,
+      "name_ar": "يندى",
+      "name_en": "Yendi",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 52008
+    },
+    {
+      "id": 20,
+      "name_ar": "بريستية",
+      "name_en": "Prestea",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 35760
+    },
+    {
+      "id": 21,
+      "name_ar": "كباندو",
+      "name_en": "Kpandu",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 28334
+    },
+    {
+      "id": 22,
+      "name_ar": "اكسيم",
+      "name_en": "Axim",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 27719
+    },
+    {
+      "id": 23,
+      "name_ar": "نيكولاس بيترس بيرشم",
+      "name_en": "Bechem",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 17677
+    },
+    {
+      "id": 24,
+      "name_ar": "أنومابو",
+      "name_en": "Anomabu",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 14389
+    },
+    {
+      "id": 25,
+      "name_ar": "يوميات",
+      "name_en": "Diari",
+      "country_ar": "غانا",
+      "country_en": "Ghana",
+      "population": 12666
+    }
+  ],
+  "meta": {
+    "title": "مدن غانا — Cities of Ghana (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن غانا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 25 cities in Ghana with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 25 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن غانا — Cities of Ghana (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن غانا — Cities of Ghana (Arabic names) — 25 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 25 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

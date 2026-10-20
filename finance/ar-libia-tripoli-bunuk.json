@@ -1,0 +1,632 @@
+{
+  "id": "ar-libia-tripoli-bunuk",
+  "name": "بنوك Tripoli — ليبيا — رموز سويفت (Banks of Tripoli, Libya — SWIFT/BIC codes)",
+  "title": "بنوك Tripoli — ليبيا — رموز سويفت (Banks of Tripoli, Libya — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tripoli (ليبيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 83 سجلًا. List of banks, financial institutions and their branches in Tripoli, Libya with the SWIFT/BIC code, bank name and branch name for each. 83 records. Source: PeterNotenboom/SwiftCodes AllCountries/LY.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL WAFA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "ALWFLYLT"
+    },
+    {
+      "id": 2,
+      "bank": "ALWAHA BANK - TRIPOLI LY",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "WAHALYLX"
+    },
+    {
+      "id": 3,
+      "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "ABCNLYLT"
+    },
+    {
+      "id": 4,
+      "bank": "AMAN BANK FOR COMMERCE AND INVESTMENT",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "ABCNLYLT017"
+    },
+    {
+      "id": 5,
+      "bank": "ARAB COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "ACOMLYLT"
+    },
+    {
+      "id": 6,
+      "bank": "ASSARAY TRADE AND INVESTMENT BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "ATIBLYLT"
+    },
+    {
+      "id": 7,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(BEN ASHOWR)",
+      "swift_code": "CDBLLYLT223"
+    },
+    {
+      "id": 8,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(DAT EL IMAD AGENCY)",
+      "swift_code": "CDBLLYLT026"
+    },
+    {
+      "id": 9,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(EL FATEH TOWER AGENCY)",
+      "swift_code": "CDBLLYLT023"
+    },
+    {
+      "id": 10,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(EL MADAR AGENCY)",
+      "swift_code": "CDBLLYLT029"
+    },
+    {
+      "id": 11,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(GERGARISH AGENCY)",
+      "swift_code": "CDBLLYLT025"
+    },
+    {
+      "id": 12,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(GOUT AL SHAAL AGENCY)",
+      "swift_code": "CDBLLYLT022"
+    },
+    {
+      "id": 13,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(GRAND HOTEL AGENCY)",
+      "swift_code": "CDBLLYLT027"
+    },
+    {
+      "id": 14,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(SOUK EL GOUMA AGENCY)",
+      "swift_code": "CDBLLYLT221"
+    },
+    {
+      "id": 15,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(TAGORA BRANCH)",
+      "swift_code": "CDBLLYLT222"
+    },
+    {
+      "id": 16,
+      "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+      "city": "TRIPOLI",
+      "branch": "(TRIPOLI MAIN BRANCH)",
+      "swift_code": "CDBLLYLT021"
+    },
+    {
+      "id": 17,
+      "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (TRIPOLI)",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "BSAHLYLX"
+    },
+    {
+      "id": 18,
+      "bank": "CENTRAL BANK OF LIBYA",
+      "city": "TRIPOLI",
+      "branch": "(OPERATION DEPARTMENT)",
+      "swift_code": "CBLJLYLX004"
+    },
+    {
+      "id": 19,
+      "bank": "CENTRAL BANK OF LIBYA",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "CBLJLYLX"
+    },
+    {
+      "id": 20,
+      "bank": "CENTRAL BANK OF LIBYA",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "CBLJLYLY"
+    },
+    {
+      "id": 21,
+      "bank": "DEVELOPMENT BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "DEVOLYLT"
+    },
+    {
+      "id": 22,
+      "bank": "FIRST GULF LIBYAN BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "FGBLLYLT"
+    },
+    {
+      "id": 23,
+      "bank": "GENERAL NATIONAL MARITIME TRANSPORT COMPANY",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "GNMTLYL1"
+    },
+    {
+      "id": 24,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(AINZARA)",
+      "swift_code": "JAMBLYLT067"
+    },
+    {
+      "id": 25,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(AL MAYDAN BRANCH)",
+      "swift_code": "JAMBLYLT001"
+    },
+    {
+      "id": 26,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(AL MGARIEF BRANCH)",
+      "swift_code": "JAMBLYLT002"
+    },
+    {
+      "id": 27,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ALANDALUS BRANCH)",
+      "swift_code": "JAMBLYLT090"
+    },
+    {
+      "id": 28,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ALKADYSSIA)",
+      "swift_code": "JAMBLYLT110"
+    },
+    {
+      "id": 29,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ASSREEM BRANCH)",
+      "swift_code": "JAMBLYLT010"
+    },
+    {
+      "id": 30,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ATHARA BRANCH)",
+      "swift_code": "JAMBLYLT015"
+    },
+    {
+      "id": 31,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BAB AL JADEED BRANCH)",
+      "swift_code": "JAMBLYLT005"
+    },
+    {
+      "id": 32,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BALKHIR BRANCH)",
+      "swift_code": "JAMBLYLT079"
+    },
+    {
+      "id": 33,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BARID AGENCY)",
+      "swift_code": "JAMBLYLT145"
+    },
+    {
+      "id": 34,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(FASHLOUM  BRANCH FOR ISLAMIC BANKING)",
+      "swift_code": "JAMBLYLT501"
+    },
+    {
+      "id": 35,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(FLLAH BRANCH)",
+      "swift_code": "JAMBLYLT121"
+    },
+    {
+      "id": 36,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(GURJI AGENCY)",
+      "swift_code": "JAMBLYLT093"
+    },
+    {
+      "id": 37,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(HAY ELANDULS BRANCH)",
+      "swift_code": "JAMBLYLT120"
+    },
+    {
+      "id": 38,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(LIBYANA AGENCY)",
+      "swift_code": "JAMBLYLT136"
+    },
+    {
+      "id": 39,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(MELLITAH OIL AND GAS AGENCY)",
+      "swift_code": "JAMBLYLT094"
+    },
+    {
+      "id": 40,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(MGHARBA BRANCH)",
+      "swift_code": "JAMBLYLT019"
+    },
+    {
+      "id": 41,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(MIZRAN BRANCH )",
+      "swift_code": "JAMBLYLT151"
+    },
+    {
+      "id": 42,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(RAS HASAN)",
+      "swift_code": "JAMBLYLT137"
+    },
+    {
+      "id": 43,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(SOUK AL JUMMAA BRANCH)",
+      "swift_code": "JAMBLYLT012"
+    },
+    {
+      "id": 44,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(SOUK ALTOLATA)",
+      "swift_code": "JAMBLYLT022"
+    },
+    {
+      "id": 45,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(SOUT OF TRIPOLI BRANCH)",
+      "swift_code": "JAMBLYLT018"
+    },
+    {
+      "id": 46,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(TRIPOLI COMMITTEE)",
+      "swift_code": "JAMBLYLT991"
+    },
+    {
+      "id": 47,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(TRIPOLI TOWER AGENCY)",
+      "swift_code": "JAMBLYLT104"
+    },
+    {
+      "id": 48,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "(TRIPOLI UNIVERSITY BRANCH)",
+      "swift_code": "JAMBLYLT043"
+    },
+    {
+      "id": 49,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "JAMBLYLT"
+    },
+    {
+      "id": 50,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "JAMBLYLT026"
+    },
+    {
+      "id": 51,
+      "bank": "JUMHOURIA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "JAMBLYLT096"
+    },
+    {
+      "id": 52,
+      "bank": "LIBYAN FOREIGN BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "LAFBLYLT"
+    },
+    {
+      "id": 53,
+      "bank": "LIBYAN INVESTMENT AUTHORITY",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "LIATLYLT"
+    },
+    {
+      "id": 54,
+      "bank": "LIBYAN ISLAMIC BANK COMPANY JSC",
+      "city": "TRIPOLI",
+      "branch": "(ABU MALIANEH BRANCH)",
+      "swift_code": "LYIBLYLT002"
+    },
+    {
+      "id": 55,
+      "bank": "LIBYAN ISLAMIC BANK COMPANY JSC",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "LYIBLYLT"
+    },
+    {
+      "id": 56,
+      "bank": "MABRUK OIL OPERATION",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "MOOCLYLT"
+    },
+    {
+      "id": 57,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(ALMENA BRANCH)",
+      "swift_code": "LNCBLYLT070"
+    },
+    {
+      "id": 58,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(CITY)",
+      "swift_code": "LNCBLYLT061"
+    },
+    {
+      "id": 59,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(ELTHAHRRA BRANCH)",
+      "swift_code": "LNCBLYLT099"
+    },
+    {
+      "id": 60,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(ESBIA BR.)",
+      "swift_code": "LNCBLYLT089"
+    },
+    {
+      "id": 61,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "LNCBLYLTHOB"
+    },
+    {
+      "id": 62,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(ISTIKLAL BRANCH)",
+      "swift_code": "LNCBLYLT062"
+    },
+    {
+      "id": 63,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "LNCBLYLT051"
+    },
+    {
+      "id": 64,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(MUNICIPALITY SQUARE)",
+      "swift_code": "LNCBLYLT064"
+    },
+    {
+      "id": 65,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "(SEUQELTHOLATHA BRANCH)",
+      "swift_code": "LNCBLYLT065"
+    },
+    {
+      "id": 66,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "LNCBLYLT"
+    },
+    {
+      "id": 67,
+      "bank": "NATIONAL COMMERCIAL BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "LNCBLYLT050"
+    },
+    {
+      "id": 68,
+      "bank": "NORTH AFRICA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BRANCH)",
+      "swift_code": "NABLLYLXTIP"
+    },
+    {
+      "id": 69,
+      "bank": "NORTH AFRICA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ISLAMIC BANKING OPERATIONS)",
+      "swift_code": "NABLLYLXIBC"
+    },
+    {
+      "id": 70,
+      "bank": "NORTH AFRICA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "NABLLYLX"
+    },
+    {
+      "id": 71,
+      "bank": "NURAN BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "NUBKLYLT"
+    },
+    {
+      "id": 72,
+      "bank": "SAHARA BANK",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "SABKLYLX"
+    },
+    {
+      "id": 73,
+      "bank": "UNITED BANK FOR COMMERCE AND INVESTMENT",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "UNCNLYLT"
+    },
+    {
+      "id": 74,
+      "bank": "WAHA OIL COMPANY",
+      "city": "TRIPOLI",
+      "branch": "",
+      "swift_code": "WOCMLYL1"
+    },
+    {
+      "id": 75,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(1ST SEPTEMBER BRANCH)",
+      "swift_code": "WAHBLYLX012"
+    },
+    {
+      "id": 76,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ALJERIA)",
+      "swift_code": "WAHBLYLX056"
+    },
+    {
+      "id": 77,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BALADIYA BRANCH)",
+      "swift_code": "WAHBLYLX014"
+    },
+    {
+      "id": 78,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(BORJTRIPOLI)",
+      "swift_code": "WAHBLYLX110"
+    },
+    {
+      "id": 79,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ELSAQA)",
+      "swift_code": "WAHBLYLX106"
+    },
+    {
+      "id": 80,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(ELTHOLATHAA)",
+      "swift_code": "WAHBLYLX016"
+    },
+    {
+      "id": 81,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(JADAH BRANCH)",
+      "swift_code": "WAHBLYLX019"
+    },
+    {
+      "id": 82,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "WAHBLYLX011"
+    },
+    {
+      "id": 83,
+      "bank": "WAHDA BANK",
+      "city": "TRIPOLI",
+      "branch": "(NATIONAL OIL CORPORATION)",
+      "swift_code": "WAHBLYLX090"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Tripoli — ليبيا — رموز سويفت (Banks of Tripoli, Libya — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Tripoli (ليبيا) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 83 سجلًا. List of banks, financial institutions and their branches in Tripoli, Libya with the SWIFT/BIC code, bank name and branch name for each. 83 records. Source: PeterNotenboom/SwiftCodes AllCountries/LY.json (MIT). يحتوي على 83 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Tripoli — ليبيا — رموز سويفت (Banks of Tripoli, Libya — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Tripoli — ليبيا — رموز سويفت (Banks of Tripoli, Libya — SWIFT/BIC codes) — 83 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 83 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

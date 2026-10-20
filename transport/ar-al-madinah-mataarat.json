@@ -1,0 +1,121 @@
+{
+  "id": "ar-al-madinah-mataarat",
+  "name": "مطارات — منطقة المدينة المنورة",
+  "title": "مطارات — منطقة المدينة المنورة",
+  "description": "المطارات والمدارج في منطقة المدينة المنورة (المملكة العربية السعودية / SA) — رموز ICAO و IATA، المدينة، الإحداثيات (WGS84)، الارتفاع والمنطقة الزمنية. مقطع من قائمة المطارات الوطنية الرئيسية `ar-mataarat` مفلتر على Al-Madinah al-Munawwarah Region. (Airports in Al-Madinah al-Munawwarah Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "OEMA",
+      "iata": "MED",
+      "name": "Prince Mohammad Bin Abdulaziz Airport",
+      "city": "Medina",
+      "subdivision": "Al-Madinah al-Munawwarah Region",
+      "subdivision_native": "منطقة المدينة المنورة",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 2151,
+      "latitude": 24.5534,
+      "longitude": 39.7051,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    },
+    {
+      "icao": "OEYN",
+      "iata": "YNB",
+      "name": "Yenbo Airport",
+      "city": "",
+      "subdivision": "Al-Madinah al-Munawwarah Region",
+      "subdivision_native": "منطقة المدينة المنورة",
+      "country": "SA",
+      "country_native": "المملكة العربية السعودية",
+      "elevation_ft": 26,
+      "latitude": 24.1442,
+      "longitude": 38.0634,
+      "timezone": "Asia/Riyadh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "مطارات — منطقة المدينة المنورة - تحميل مجاني",
+    "description": "المطارات والمدارج في منطقة المدينة المنورة (المملكة العربية السعودية / SA) — رموز ICAO و IATA، المدينة، الإحداثيات (WGS84)، الارتفاع والمنطقة الزمنية. مقطع من قائمة المطارات الوطنية الرئيسية `ar-mataarat` مفلتر على Al-Madinah al-Munawwarah Region. (Airports in Al-Madinah al-Munawwarah Region — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone.) يحتوي على 2 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مطارات — منطقة المدينة المنورة | ListBase",
+    "seo_description": "تحميل مطارات — منطقة المدينة المنورة — 2 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 2 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "id": "ar-mudun-libya",
+  "name": "مدن ليبيا — Cities of Libya (Arabic names)",
+  "title": "مدن ليبيا — Cities of Libya (Arabic names)",
+  "description": "قائمة بأسماء مدن ليبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 44 cities in Libya with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "طرابلس",
+      "name_en": "Tripoli",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 1183000
+    },
+    {
+      "id": 2,
+      "name_ar": "بنغازي",
+      "name_en": "Benghazi",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 631555
+    },
+    {
+      "id": 3,
+      "name_ar": "أجدابيا",
+      "name_en": "Ajdabiya",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 416000
+    },
+    {
+      "id": 4,
+      "name_ar": "مصراتة",
+      "name_en": "Misratah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 259056
+    },
+    {
+      "id": 5,
+      "name_ar": "محافظة البيضاء",
+      "name_en": "Al Bayda'",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 250000
+    },
+    {
+      "id": 6,
+      "name_ar": "الخمس",
+      "name_en": "Al Khums",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 201943
+    },
+    {
+      "id": 7,
+      "name_ar": "الزاوية",
+      "name_en": "Az Zawiyah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 200000
+    },
+    {
+      "id": 8,
+      "name_ar": "غريان",
+      "name_en": "Gharyan",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 187854
+    },
+    {
+      "id": 9,
+      "name_ar": "المرج",
+      "name_en": "Al Marj",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 169540
+    },
+    {
+      "id": 10,
+      "name_ar": "طبرق",
+      "name_en": "Tobruk",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 135832
+    },
+    {
+      "id": 11,
+      "name_ar": "صبراتة",
+      "name_en": "Sabratah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 102038
+    },
+    {
+      "id": 12,
+      "name_ar": "الجميلية",
+      "name_en": "Al Jumayl",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 102000
+    },
+    {
+      "id": 13,
+      "name_ar": "ميناء درنة",
+      "name_en": "Darnah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 90000
+    },
+    {
+      "id": 14,
+      "name_ar": "جنزور",
+      "name_en": "Janzur",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 88073
+    },
+    {
+      "id": 15,
+      "name_ar": "زوارة",
+      "name_en": "Zuwarah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 80310
+    },
+    {
+      "id": 16,
+      "name_ar": "شعبية سرت",
+      "name_en": "Surt",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 76788
+    },
+    {
+      "id": 17,
+      "name_ar": "يفرن",
+      "name_en": "Yafran",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 72662
+    },
+    {
+      "id": 18,
+      "name_ar": "نالوت",
+      "name_en": "Nalut",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 66609
+    },
+    {
+      "id": 19,
+      "name_ar": "بني وليد",
+      "name_en": "Bani Walid",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 50824
+    },
+    {
+      "id": 20,
+      "name_ar": "شعبية تاجوراء والنواحي الأربع",
+      "name_en": "Tajura'",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 48836
+    },
+    {
+      "id": 21,
+      "name_ar": "براك",
+      "name_en": "Birak",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 45421
+    },
+    {
+      "id": 22,
+      "name_ar": "شحات",
+      "name_en": "Shahhat",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 45000
+    },
+    {
+      "id": 23,
+      "name_ar": "مرزق",
+      "name_en": "Murzuq",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 43732
+    },
+    {
+      "id": 24,
+      "name_ar": "أوباري",
+      "name_en": "Awbari",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 35000
+    },
+    {
+      "id": 25,
+      "name_ar": "ودان",
+      "name_en": "Waddan",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 27590
+    },
+    {
+      "id": 26,
+      "name_ar": "القبة",
+      "name_en": "Al Qubbah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 24631
+    },
+    {
+      "id": 27,
+      "name_ar": "العزيزية",
+      "name_en": "Al `Aziziyah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 23399
+    },
+    {
+      "id": 28,
+      "name_ar": "مزدة",
+      "name_en": "Mizdah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 23216
+    },
+    {
+      "id": 29,
+      "name_ar": "توكرة",
+      "name_en": "Tukrah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 23164
+    },
+    {
+      "id": 30,
+      "name_ar": "غات",
+      "name_en": "Ghat",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 22000
+    },
+    {
+      "id": 31,
+      "name_ar": "الزويتينة",
+      "name_en": "Az Zuwaytinah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 21015
+    },
+    {
+      "id": 32,
+      "name_ar": "المجر",
+      "name_en": "Hun",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 18878
+    },
+    {
+      "id": 33,
+      "name_ar": "منطقة الجوف",
+      "name_en": "Al Jawf",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 18587
+    },
+    {
+      "id": 34,
+      "name_ar": "زلطن",
+      "name_en": "Zaltan",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 17700
+    },
+    {
+      "id": 35,
+      "name_ar": "الزنتان",
+      "name_en": "Az Zintan",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 16024
+    },
+    {
+      "id": 36,
+      "name_ar": "ترهونة",
+      "name_en": "Tarhunah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 13264
+    },
+    {
+      "id": 37,
+      "name_ar": "أم الرزم",
+      "name_en": "Umm ar Rizam",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 12098
+    },
+    {
+      "id": 38,
+      "name_ar": "قمينس",
+      "name_en": "Qaminis",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 10713
+    },
+    {
+      "id": 39,
+      "name_ar": "غدامس",
+      "name_en": "Ghadamis",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 10000
+    },
+    {
+      "id": 40,
+      "name_ar": "الأبرق",
+      "name_en": "Al Abraq",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 8861
+    },
+    {
+      "id": 41,
+      "name_ar": "الأوجلية",
+      "name_en": "Awjilah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 6610
+    },
+    {
+      "id": 42,
+      "name_ar": "تجرهي",
+      "name_en": "Tajarhi",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 1496
+    },
+    {
+      "id": 43,
+      "name_ar": "تمسة",
+      "name_en": "Tmassah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 500
+    },
+    {
+      "id": 44,
+      "name_ar": "العقيلة",
+      "name_en": "Al `Uqaylah",
+      "country_ar": "ليبيا",
+      "country_en": "Libya",
+      "population": 100
+    }
+  ],
+  "meta": {
+    "title": "مدن ليبيا — Cities of Libya (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ليبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 44 cities in Libya with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 44 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ليبيا — Cities of Libya (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ليبيا — Cities of Libya (Arabic names) — 44 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 44 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

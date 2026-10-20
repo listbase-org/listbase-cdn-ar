@@ -1,0 +1,248 @@
+{
+  "id": "ar-mudun-jordan",
+  "name": "مدن الأردن — Cities of Jordan (Arabic names)",
+  "title": "مدن الأردن — Cities of Jordan (Arabic names)",
+  "description": "قائمة بأسماء مدن الأردن بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 24 cities in Jordan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "عَمَّان",
+      "name_en": "Amman",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 4007526
+    },
+    {
+      "id": 2,
+      "name_ar": "المفرق",
+      "name_en": "Al Mafraq",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 580000
+    },
+    {
+      "id": 3,
+      "name_ar": "إربد",
+      "name_en": "Irbid",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 569068
+    },
+    {
+      "id": 4,
+      "name_ar": "مركز الزرقا",
+      "name_en": "Az Zarqa'",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 481300
+    },
+    {
+      "id": 5,
+      "name_ar": "الرصيفة",
+      "name_en": "Ar Rusayfah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 472604
+    },
+    {
+      "id": 6,
+      "name_ar": "الجويدة",
+      "name_en": "Al Juwayyidah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 176400
+    },
+    {
+      "id": 7,
+      "name_ar": "صحابة",
+      "name_en": "Sahab",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 169434
+    },
+    {
+      "id": 8,
+      "name_ar": "الرمثا",
+      "name_en": "Ar Ramtha",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 155693
+    },
+    {
+      "id": 9,
+      "name_ar": "لواء قصبة عجلون",
+      "name_en": "`Ajlun",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 148870
+    },
+    {
+      "id": 10,
+      "name_ar": "العقبة",
+      "name_en": "Al `Aqabah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 140000
+    },
+    {
+      "id": 11,
+      "name_ar": "لواء الجيزة",
+      "name_en": "Al Jizah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 110097
+    },
+    {
+      "id": 12,
+      "name_ar": "السلط",
+      "name_en": "As Salt",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 88900
+    },
+    {
+      "id": 13,
+      "name_ar": "مادبا",
+      "name_en": "Madaba",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 84600
+    },
+    {
+      "id": 14,
+      "name_ar": "محافظة جرش",
+      "name_en": "Jarash",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 50745
+    },
+    {
+      "id": 15,
+      "name_ar": "مديرية الحصن",
+      "name_en": "Al Hisn",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 35085
+    },
+    {
+      "id": 16,
+      "name_ar": "الطرة",
+      "name_en": "At Turrah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 34948
+    },
+    {
+      "id": 17,
+      "name_ar": "الشجرة",
+      "name_en": "Ash Shajarah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 27902
+    },
+    {
+      "id": 18,
+      "name_ar": "مؤتة",
+      "name_en": "Mu'tah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 27426
+    },
+    {
+      "id": 19,
+      "name_ar": "الطفيلة",
+      "name_en": "At Tafilah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 23512
+    },
+    {
+      "id": 20,
+      "name_ar": "الكرك",
+      "name_en": "Al Karak",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 21678
+    },
+    {
+      "id": 21,
+      "name_ar": "المزار الشمالي (الأردن)",
+      "name_en": "Al Mazar ash Shamali",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 16000
+    },
+    {
+      "id": 22,
+      "name_ar": "كفرعوان",
+      "name_en": "Kafr `Awan",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 13056
+    },
+    {
+      "id": 23,
+      "name_ar": "لواء بصيرا",
+      "name_en": "Busayra",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 10587
+    },
+    {
+      "id": 24,
+      "name_ar": "حلاوة",
+      "name_en": "Halawah",
+      "country_ar": "الأردن",
+      "country_en": "Jordan",
+      "population": 8647
+    }
+  ],
+  "meta": {
+    "title": "مدن الأردن — Cities of Jordan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الأردن بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 24 cities in Jordan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 24 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الأردن — Cities of Jordan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الأردن — Cities of Jordan (Arabic names) — 24 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 24 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

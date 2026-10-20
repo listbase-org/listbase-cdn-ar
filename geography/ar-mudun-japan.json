@@ -1,0 +1,768 @@
+{
+  "id": "ar-mudun-japan",
+  "name": "مدن اليابان — Cities of Japan (Arabic names)",
+  "title": "مدن اليابان — Cities of Japan (Arabic names)",
+  "description": "قائمة بأسماء مدن اليابان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 89 cities in Japan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "طوكيو",
+      "name_en": "Tokyo",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 37785000
+    },
+    {
+      "id": 2,
+      "name_ar": "محافظة أوساكا",
+      "name_en": "Osaka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 15126000
+    },
+    {
+      "id": 3,
+      "name_ar": "ناغويا",
+      "name_en": "Nagoya",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 9197000
+    },
+    {
+      "id": 4,
+      "name_ar": "يوكوهاما",
+      "name_en": "Yokohama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 3757630
+    },
+    {
+      "id": 5,
+      "name_ar": "سابورو",
+      "name_en": "Sapporo",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1959313
+    },
+    {
+      "id": 6,
+      "name_ar": "كاواساكي، كاناغاوا",
+      "name_en": "Kawasaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1531646
+    },
+    {
+      "id": 7,
+      "name_ar": "كوبنهاغن",
+      "name_en": "Kobe",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1521707
+    },
+    {
+      "id": 8,
+      "name_ar": "كيوتو",
+      "name_en": "Kyoto",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1463723
+    },
+    {
+      "id": 9,
+      "name_ar": "محافظة سايتاما",
+      "name_en": "Saitama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1325843
+    },
+    {
+      "id": 10,
+      "name_ar": "هيروشيما",
+      "name_en": "Hiroshima",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 1198021
+    },
+    {
+      "id": 11,
+      "name_ar": "محافظة تشيبا",
+      "name_en": "Chiba",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 975014
+    },
+    {
+      "id": 12,
+      "name_ar": "سيتاغايا",
+      "name_en": "Setagaya",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 940071
+    },
+    {
+      "id": 13,
+      "name_ar": "كيتاكيوشو",
+      "name_en": "Kitakyushu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 935084
+    },
+    {
+      "id": 14,
+      "name_ar": "ساكاي",
+      "name_en": "Sakai",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 824408
+    },
+    {
+      "id": 15,
+      "name_ar": "نيغاتا",
+      "name_en": "Niigata",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 790646
+    },
+    {
+      "id": 16,
+      "name_ar": "هاماماتسو",
+      "name_en": "Hamamatsu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 788211
+    },
+    {
+      "id": 17,
+      "name_ar": "نيريما",
+      "name_en": "Nerima",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 752608
+    },
+    {
+      "id": 18,
+      "name_ar": "أوتا",
+      "name_en": "Ota-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 744849
+    },
+    {
+      "id": 19,
+      "name_ar": "كوماموتو",
+      "name_en": "Kumamoto",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 738385
+    },
+    {
+      "id": 20,
+      "name_ar": "ساغاميهارا، كاناغاوا",
+      "name_en": "Sagamihara",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 722973
+    },
+    {
+      "id": 21,
+      "name_ar": "أوكاياما، أوكاياما",
+      "name_en": "Okayama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 720043
+    },
+    {
+      "id": 22,
+      "name_ar": "إيدوغاوا",
+      "name_en": "Edogawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 697932
+    },
+    {
+      "id": 23,
+      "name_ar": "شيزوكا",
+      "name_en": "Shizuoka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 685589
+    },
+    {
+      "id": 24,
+      "name_ar": "أداتشي",
+      "name_en": "Adachi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 682326
+    },
+    {
+      "id": 25,
+      "name_ar": "كاواجوتشي",
+      "name_en": "Kawaguchi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 607373
+    },
+    {
+      "id": 26,
+      "name_ar": "كاغوشيما، كاغوشيما",
+      "name_en": "Kagoshima",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 593754
+    },
+    {
+      "id": 27,
+      "name_ar": "إيتاباشي",
+      "name_en": "Itabashi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 584483
+    },
+    {
+      "id": 28,
+      "name_ar": "سوغينامي",
+      "name_en": "Suginami-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 583609
+    },
+    {
+      "id": 29,
+      "name_ar": "هاتشيؤوجي",
+      "name_en": "Hachioji",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 575721
+    },
+    {
+      "id": 30,
+      "name_ar": "هيميجي، هيوغو",
+      "name_en": "Himeji",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 527596
+    },
+    {
+      "id": 31,
+      "name_ar": "كوتو",
+      "name_en": "Koto-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 523419
+    },
+    {
+      "id": 32,
+      "name_ar": "أوتسونوميا، توتشيغي",
+      "name_en": "Utsunomiya",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 518197
+    },
+    {
+      "id": 33,
+      "name_ar": "ماتسوياما",
+      "name_en": "Matsuyama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 506743
+    },
+    {
+      "id": 34,
+      "name_ar": "ماتسودو",
+      "name_en": "Matsudo",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 497514
+    },
+    {
+      "id": 35,
+      "name_ar": "ايشيكاوا تشيبا",
+      "name_en": "Ichikawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 492749
+    },
+    {
+      "id": 36,
+      "name_ar": "هيغاشي-أوساكا",
+      "name_en": "Higashi-osaka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 490819
+    },
+    {
+      "id": 37,
+      "name_ar": "كوراشيكي",
+      "name_en": "Kurashiki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 474862
+    },
+    {
+      "id": 38,
+      "name_ar": "أويتا، أويتا",
+      "name_en": "Oita",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 474804
+    },
+    {
+      "id": 39,
+      "name_ar": "كانازاوا، إيشيكاوا",
+      "name_en": "Kanazawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 462479
+    },
+    {
+      "id": 40,
+      "name_ar": "فوکویاما",
+      "name_en": "Fukuyama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 459576
+    },
+    {
+      "id": 41,
+      "name_ar": "أماغاساكي، هيوغو",
+      "name_en": "Amagasaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 455555
+    },
+    {
+      "id": 42,
+      "name_ar": "كاتسوشيكا",
+      "name_en": "Katsushika-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 451772
+    },
+    {
+      "id": 43,
+      "name_ar": "فوجيساوا، كاناغاوا",
+      "name_en": "Fujisawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 439728
+    },
+    {
+      "id": 44,
+      "name_ar": "ماتشيدا",
+      "name_en": "Machida",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 434414
+    },
+    {
+      "id": 45,
+      "name_ar": "كاشيوا",
+      "name_en": "Kashiwa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 427603
+    },
+    {
+      "id": 46,
+      "name_ar": "آوموري، آوموري",
+      "name_en": "Aomori",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 425962
+    },
+    {
+      "id": 47,
+      "name_ar": "تويوتا",
+      "name_en": "Toyota",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 422106
+    },
+    {
+      "id": 48,
+      "name_ar": "تاكاماتسو، كاغاوا",
+      "name_en": "Takamatsu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 417814
+    },
+    {
+      "id": 49,
+      "name_ar": "شيناغاوا",
+      "name_en": "Shinagawa-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 415729
+    },
+    {
+      "id": 50,
+      "name_ar": "توياما، توياما",
+      "name_en": "Toyama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 413028
+    },
+    {
+      "id": 51,
+      "name_ar": "ناغاساكي، ناغاساكي",
+      "name_en": "Nagasaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 404656
+    },
+    {
+      "id": 52,
+      "name_ar": "غيفو",
+      "name_en": "Gifu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 400118
+    },
+    {
+      "id": 53,
+      "name_ar": "تويوناكا",
+      "name_en": "Toyonaka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 399263
+    },
+    {
+      "id": 54,
+      "name_ar": "ميازاكي",
+      "name_en": "Miyazaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 397476
+    },
+    {
+      "id": 55,
+      "name_ar": "هيراكاتا",
+      "name_en": "Hirakata",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 396694
+    },
+    {
+      "id": 56,
+      "name_ar": "يوكوسوكا، كاناغاوا",
+      "name_en": "Yokosuka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 390275
+    },
+    {
+      "id": 57,
+      "name_ar": "أوكازاكي، آيتشي",
+      "name_en": "Okazaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 385376
+    },
+    {
+      "id": 58,
+      "name_ar": "إيتشينوميا، آيتشي",
+      "name_en": "Ichinomiya",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 378108
+    },
+    {
+      "id": 59,
+      "name_ar": "تاكاساكي",
+      "name_en": "Takasaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 372639
+    },
+    {
+      "id": 60,
+      "name_ar": "تويوهاشي، آيتشي",
+      "name_en": "Toyohashi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 371507
+    },
+    {
+      "id": 61,
+      "name_ar": "ناغانو",
+      "name_en": "Nagano",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 367184
+    },
+    {
+      "id": 62,
+      "name_ar": "محافظة واكاياما",
+      "name_en": "Wakayama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 353299
+    },
+    {
+      "id": 63,
+      "name_ar": "كيتا",
+      "name_en": "Kita-ku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 353058
+    },
+    {
+      "id": 64,
+      "name_ar": "إدارة الأرشيف والوثائق الوطنية",
+      "name_en": "Nara",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 352377
+    },
+    {
+      "id": 65,
+      "name_ar": "شينجوكو",
+      "name_en": "Shinjuku",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 349385
+    },
+    {
+      "id": 66,
+      "name_ar": "تاكاتسوكي",
+      "name_en": "Takatsuki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 347496
+    },
+    {
+      "id": 67,
+      "name_ar": "أوتسو",
+      "name_en": "Otsu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 343991
+    },
+    {
+      "id": 68,
+      "name_ar": "كوشيغايا",
+      "name_en": "Koshigaya",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 341784
+    },
+    {
+      "id": 69,
+      "name_ar": "توكوروزاوا",
+      "name_en": "Tokorozawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 341289
+    },
+    {
+      "id": 70,
+      "name_ar": "لواكي",
+      "name_en": "Iwaki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 336111
+    },
+    {
+      "id": 71,
+      "name_ar": "مايه-باشي",
+      "name_en": "Maebashi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 331849
+    },
+    {
+      "id": 72,
+      "name_ar": "أساهيكاوا",
+      "name_en": "Asahikawa",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 331392
+    },
+    {
+      "id": 73,
+      "name_ar": "كورياما",
+      "name_en": "Koriyama",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 327040
+    },
+    {
+      "id": 74,
+      "name_ar": "كوتشي",
+      "name_en": "Kochi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 325535
+    },
+    {
+      "id": 75,
+      "name_ar": "ناها، أوكيناوا",
+      "name_en": "Naha",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 316048
+    },
+    {
+      "id": 76,
+      "name_ar": "يوكايتشي",
+      "name_en": "Yokkaichi",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 310263
+    },
+    {
+      "id": 77,
+      "name_ar": "كاسوغاي، آيتشي",
+      "name_en": "Kasugai",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 306449
+    },
+    {
+      "id": 78,
+      "name_ar": "أكيتا، أكيتا",
+      "name_en": "Akita",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 302984
+    },
+    {
+      "id": 79,
+      "name_ar": "كورومي، فوكوكا",
+      "name_en": "Kurume",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 302858
+    },
+    {
+      "id": 80,
+      "name_ar": "توشيما",
+      "name_en": "Toshima",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 297954
+    },
+    {
+      "id": 81,
+      "name_ar": "موريوكا، إيواته",
+      "name_en": "Morioka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 290553
+    },
+    {
+      "id": 82,
+      "name_ar": "ميغورو",
+      "name_en": "Meguro",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 288088
+    },
+    {
+      "id": 83,
+      "name_ar": "فوكوشيما",
+      "name_en": "Fukushima",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 284282
+    },
+    {
+      "id": 84,
+      "name_ar": "إيباراكي",
+      "name_en": "Ibaraki",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 283835
+    },
+    {
+      "id": 85,
+      "name_ar": "جامعة تبليسي الحكومية",
+      "name_en": "Tsu",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 273267
+    },
+    {
+      "id": 86,
+      "name_ar": "سوميدا",
+      "name_en": "Sumida",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 272085
+    },
+    {
+      "id": 87,
+      "name_ar": "إيتشيهارا",
+      "name_en": "Ichihara",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 268038
+    },
+    {
+      "id": 88,
+      "name_ar": "ناغاوكا",
+      "name_en": "Nagaoka",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 265868
+    },
+    {
+      "id": 89,
+      "name_ar": "فوكوي، فوكوي",
+      "name_en": "Fukui",
+      "country_ar": "اليابان",
+      "country_en": "Japan",
+      "population": 261474
+    }
+  ],
+  "meta": {
+    "title": "مدن اليابان — Cities of Japan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن اليابان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 89 cities in Japan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 89 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن اليابان — Cities of Japan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن اليابان — Cities of Japan (Arabic names) — 89 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 89 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

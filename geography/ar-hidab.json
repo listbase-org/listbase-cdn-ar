@@ -1,0 +1,522 @@
+{
+  "id": "ar-hidab",
+  "name": "الهضاب في الوطن العربي (Plateaus of the Arab world)",
+  "title": "الهضاب في الوطن العربي (Plateaus of the Arab world)",
+  "description": "قائمة الهضاب في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q75520) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة هضاب في النطاق العربي. استُبعد بالمعرّف QID كيانٌ واحد سبق إدراجه ضمن مجموعة الجبال والقمم (ar-jibal) لضمان عدم التكرار (42 خام → 41). وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_qid",
+      "label": "Country Qid",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ar",
+      "label": "Wikipedia Ar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q27125221",
+      "name_ar": "البقيعة",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.596944,
+      "longitude": 35.617222,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q27125230",
+      "name_ar": "الحرش",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.537222,
+      "longitude": 35.6125,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q27125269",
+      "name_ar": "المستديرة",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.585556,
+      "longitude": 35.611944,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q27125257",
+      "name_ar": "المسمر",
+      "name_en": "Al Masmar",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31,
+      "longitude": 35.83333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q27125288",
+      "name_ar": "النّقْب",
+      "name_en": "An Naqb",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.533333,
+      "longitude": 35.616667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q27124566",
+      "name_ar": "بقيع الهروط",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.594167,
+      "longitude": 35.736667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q27123173",
+      "name_ar": "جبرونة",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 30.91667,
+      "longitude": 35.66667,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q27123863",
+      "name_ar": "حمرة ماعين",
+      "name_en": "",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 31.661667,
+      "longitude": 35.6,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q27121820",
+      "name_ar": "شري",
+      "name_en": "Shary",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 30.831111,
+      "longitude": 35.654444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q27122493",
+      "name_ar": "موزة",
+      "name_en": "Mawzah",
+      "country_ar": "الأردن",
+      "country_qid": "Q810",
+      "latitude": 32.11667,
+      "longitude": 36.03333,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1621943",
+      "name_ar": "الهضاب العليا",
+      "name_en": "Hautes Plaines",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 34.018611,
+      "longitude": 0.085278,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D8%B6%D8%A7%D8%A8_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q26399",
+      "name_ar": "جبال هقار",
+      "name_en": "Hoggar Mountains",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 23.288611,
+      "longitude": 5.534167,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D8%A7%D9%84_%D9%87%D9%82%D8%A7%D8%B1"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q3513709",
+      "name_ar": "هضبة تادمايت",
+      "name_en": "Tademaït",
+      "country_ar": "الجزائر",
+      "country_qid": "Q262",
+      "latitude": 28.5,
+      "longitude": 2.25,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%AA%D8%A7%D8%AF%D9%85%D8%A7%D9%8A%D8%AA"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q31873526",
+      "name_ar": "الجريباء",
+      "name_en": "Al Juraybā'",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 29.08333,
+      "longitude": 44.25,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q31894866",
+      "name_ar": "الظفيري",
+      "name_en": "Az̧ Z̧afīrī",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 30.028333,
+      "longitude": 43.3825,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q31876856",
+      "name_ar": "العرمة",
+      "name_en": "Al ‘Urumah",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 25.947222,
+      "longitude": 45.9575,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q32190115",
+      "name_ar": "ثفن الصلب",
+      "name_en": "Thifan aş Şulb",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 25.92306,
+      "longitude": 48.15,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q32117086",
+      "name_ar": "ذرعان الخيمة",
+      "name_en": "Dhir‘ān al Khaymah",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 25.796389,
+      "longitude": 42.4675,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q32219920",
+      "name_ar": "طبق خويمات",
+      "name_en": "Ţibq Khuwaymāt",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 31.088056,
+      "longitude": 41.636111,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q32143183",
+      "name_ar": "نعلة شعدقم",
+      "name_en": "Na‘alat Shadqam",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 25.59716,
+      "longitude": 49.42013,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q107999698",
+      "name_ar": "هضبة أبرق الدريعاء",
+      "name_en": "",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 26.683333,
+      "longitude": 43.123611,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A3%D8%A8%D8%B1%D9%82_%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D8%B9%D8%A7%D8%A1"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q108029988",
+      "name_ar": "هضبة أبو رخم",
+      "name_en": "",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 24.888094,
+      "longitude": 43.119047,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A3%D8%A8%D9%88_%D8%B1%D8%AE%D9%85"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q32223623",
+      "name_ar": "هضبة أم لحم",
+      "name_en": "Ḩaḑabat Umm Laḩam",
+      "country_ar": "السعودية",
+      "country_qid": "Q851",
+      "latitude": 27.2225,
+      "longitude": 41.833611,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1589199",
+      "name_ar": "هود",
+      "name_en": "Haud",
+      "country_ar": "الصومال",
+      "country_qid": "Q1045",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D9%88%D8%AF_(%D9%85%D9%86%D8%B7%D9%82%D8%A9)"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q12195638",
+      "name_ar": "بادية الحماد",
+      "name_en": "Al-Hammad",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D9%8A%D8%A9_%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D8%AF"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q136304808",
+      "name_ar": "هضبة النجف",
+      "name_en": "",
+      "country_ar": "العراق",
+      "country_qid": "Q796",
+      "latitude": 32.124763,
+      "longitude": 44.16449,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A7%D9%84%D9%86%D8%AC%D9%81"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q18398351",
+      "name_ar": "ميسيتا المغربية",
+      "name_en": "Meseta Marocaine",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 32.5,
+      "longitude": -7.5,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%B3%D9%8A%D8%AA%D8%A7_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q21013459",
+      "name_ar": "هضبة_أزرو_البازلتية",
+      "name_en": "",
+      "country_ar": "المغرب",
+      "country_qid": "Q1028",
+      "latitude": 33.361111,
+      "longitude": -5.141667,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A3%D8%B2%D8%B1%D9%88_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%84%D8%AA%D9%8A%D8%A9"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q117160786",
+      "name_ar": "دكسم",
+      "name_en": "Diksam Plateau",
+      "country_ar": "اليمن",
+      "country_qid": "Q805",
+      "latitude": 12.466944,
+      "longitude": 54.001111,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%AF%D9%83%D8%B3%D9%85"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q131433268",
+      "name_ar": "جبل الأعلى",
+      "name_en": "Al-A'la plateau",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 35.128333,
+      "longitude": 36.933333,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89_(%D8%AD%D9%85%D8%A7%D8%A9)"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q83210",
+      "name_ar": "هضبة الجولان",
+      "name_en": "Golan Heights",
+      "country_ar": "سوريا",
+      "country_qid": "Q858",
+      "latitude": 33,
+      "longitude": 35.75,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q34816315",
+      "name_ar": "جدة أركد",
+      "name_en": "Jiddat Arkad",
+      "country_ar": "عُمان",
+      "country_qid": "Q842",
+      "latitude": 18.20674,
+      "longitude": 56.1921,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q34816683",
+      "name_ar": "لهد أم القهاب الشرقي",
+      "name_en": "Lahd Umm al Quhāb ash Sharqī",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.506944,
+      "longitude": 50.998889,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q34816659",
+      "name_ar": "لهد البحوث الشرقي",
+      "name_en": "Lahd al Buḩūth ash Sharqī",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.464444,
+      "longitude": 51.099444,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q34816671",
+      "name_ar": "لهد ذرب الشرقية",
+      "name_en": "Lahd Dharb ash Sharqīyah",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.452778,
+      "longitude": 50.943611,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q34816810",
+      "name_ar": "لهود العجلة الشمالية",
+      "name_en": "Luhūd al ‘Ajalah ash Shamālīyah",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.563889,
+      "longitude": 51.013889,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q34816798",
+      "name_ar": "لهود العجلة الغربية",
+      "name_en": "Luhūd al ‘Ajalah al Gharbīyah",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.559444,
+      "longitude": 51.01,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q34816820",
+      "name_ar": "لهود النصلة الجنوبية",
+      "name_en": "Luhūd an Naşlah al Janūbīyah",
+      "country_ar": "قطر",
+      "country_qid": "Q846",
+      "latitude": 25.5675,
+      "longitude": 50.975278,
+      "wikipedia_ar": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q5529548",
+      "name_ar": "جبل إدمونستون",
+      "name_en": "Gebel Edmonstone",
+      "country_ar": "مصر",
+      "country_qid": "Q79",
+      "latitude": 25.6669,
+      "longitude": 28.7025,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D8%A5%D8%AF%D9%85%D9%88%D9%86%D8%B3%D8%AA%D9%88%D9%86"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27733507",
+      "name_ar": "كتلة العصابة",
+      "name_en": "Assaba Massif",
+      "country_ar": "موريتانيا",
+      "country_qid": "Q1025",
+      "latitude": 16.417222,
+      "longitude": -11.8775,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q366569",
+      "name_ar": "هضبة آدرار",
+      "name_en": "Adrar Plateau",
+      "country_ar": "موريتانيا",
+      "country_qid": "Q1025",
+      "latitude": 20.405278,
+      "longitude": -13.111111,
+      "wikipedia_ar": "https://ar.wikipedia.org/wiki/%D9%87%D8%B6%D8%A8%D8%A9_%D8%A2%D8%AF%D8%B1%D8%A7%D8%B1"
+    }
+  ],
+  "meta": {
+    "title": "الهضاب في الوطن العربي (Plateaus of the Arab world) - تحميل مجاني",
+    "description": "قائمة الهضاب في الدول العربية مع الإحداثيات (WGS84) ورابط ويكيبيديا العربية عند توفّره. مأخوذة من ويكي بيانات (P31/P279* = Q75520) مقيّدة بالدول العربية عبر P17. تغطّي دولَ جامعة الدول العربية (22 دولة عبر Wikidata P17): السعودية ومصر والجزائر والعراق والمغرب والسودان وسوريا وتونس والأردن وليبيا ولبنان وفلسطين واليمن وعُمان والإمارات والكويت وقطر والبحرين وموريتانيا والصومال وجيبوتي وجزر القمر. هذه أول مجموعة هضاب في النطاق العربي. استُبعد بالمعرّف QID كيانٌ واحد سبق إدراجه ضمن مجموعة الجبال والقمم (ar-jibal) لضمان عدم التكرار (42 خام → 41). وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا بالحرف العربي على ويكي بيانات (rdfs:label@ar). يحتوي على 41 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الهضاب في الوطن العربي (Plateaus of the Arab world) | ListBase",
+    "seo_description": "تحميل الهضاب في الوطن العربي (Plateaus of the Arab world) — 41 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 41 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "ar-mudun-somalia",
+  "name": "مدن الصومال — Cities of Somalia (Arabic names)",
+  "title": "مدن الصومال — Cities of Somalia (Arabic names)",
+  "description": "قائمة بأسماء مدن الصومال بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 34 cities in Somalia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مقديشو",
+      "name_en": "Mogadishu",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 2120000
+    },
+    {
+      "id": 2,
+      "name_ar": "هرجيسا",
+      "name_en": "Hargeysa",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 1200000
+    },
+    {
+      "id": 3,
+      "name_ar": "بيدوا",
+      "name_en": "Baidoa",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 1200000
+    },
+    {
+      "id": 4,
+      "name_ar": "بارديرا",
+      "name_en": "Baardheere",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 755500
+    },
+    {
+      "id": 5,
+      "name_ar": "جالكعيو",
+      "name_en": "Gaalkacyo",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 745000
+    },
+    {
+      "id": 6,
+      "name_ar": "بوصاصو",
+      "name_en": "Boosaaso",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 700906
+    },
+    {
+      "id": 7,
+      "name_ar": "غاروي",
+      "name_en": "Garoowe",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 485000
+    },
+    {
+      "id": 8,
+      "name_ar": "قرضو",
+      "name_en": "Qardho",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 365000
+    },
+    {
+      "id": 9,
+      "name_ar": "بورهكبا",
+      "name_en": "Buurhakaba",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 360795
+    },
+    {
+      "id": 10,
+      "name_ar": "لوق",
+      "name_en": "Luuq",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 134000
+    },
+    {
+      "id": 11,
+      "name_ar": "جمامة",
+      "name_en": "Jamaame",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 129149
+    },
+    {
+      "id": 12,
+      "name_ar": "بوالي",
+      "name_en": "Bu'aale",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 115000
+    },
+    {
+      "id": 13,
+      "name_ar": "جوهر (اسم)",
+      "name_en": "Jawhar",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 111308
+    },
+    {
+      "id": 14,
+      "name_ar": "أفمدو",
+      "name_en": "Afmadow",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 90000
+    },
+    {
+      "id": 15,
+      "name_ar": "حودر",
+      "name_en": "Xuddur",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 85500
+    },
+    {
+      "id": 16,
+      "name_ar": "أفين",
+      "name_en": "Ufeyn",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 82850
+    },
+    {
+      "id": 17,
+      "name_ar": "أفجوي",
+      "name_en": "Afgooye",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 79400
+    },
+    {
+      "id": 18,
+      "name_ar": "حررطيري",
+      "name_en": "Xarardheere",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 65523
+    },
+    {
+      "id": 19,
+      "name_ar": "بلد وين",
+      "name_en": "Beledweyne",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 62945
+    },
+    {
+      "id": 20,
+      "name_ar": "قوريولي",
+      "name_en": "Qoryooley",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 62700
+    },
+    {
+      "id": 21,
+      "name_ar": "جربهاري",
+      "name_en": "Garbahaarrey",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 43000
+    },
+    {
+      "id": 22,
+      "name_ar": "ونلوين",
+      "name_en": "Wanlaweyn",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 26700
+    },
+    {
+      "id": 23,
+      "name_ar": "دنجوريو",
+      "name_en": "Dan Gorayo",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 20331
+    },
+    {
+      "id": 24,
+      "name_ar": "ديناصور",
+      "name_en": "Diinsoor",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 19600
+    },
+    {
+      "id": 25,
+      "name_ar": "قندلة",
+      "name_en": "Qandala",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 19300
+    },
+    {
+      "id": 26,
+      "name_ar": "زيلع",
+      "name_en": "Saylac",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 18600
+    },
+    {
+      "id": 27,
+      "name_ar": "بندر بيلا‎",
+      "name_en": "Bandarbeyla",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 13753
+    },
+    {
+      "id": 28,
+      "name_ar": "جلالقسي",
+      "name_en": "Jalalaqsi",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 11800
+    },
+    {
+      "id": 29,
+      "name_ar": "هبيا",
+      "name_en": "Hobyo",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 11800
+    },
+    {
+      "id": 30,
+      "name_ar": "بوهودلي",
+      "name_en": "Buuhoodle",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 11373
+    },
+    {
+      "id": 31,
+      "name_ar": "عيل بور",
+      "name_en": "Ceelbuur",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 9023
+    },
+    {
+      "id": 32,
+      "name_ar": "علولة",
+      "name_en": "Caluula",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 513
+    },
+    {
+      "id": 33,
+      "name_ar": "طوس مريب",
+      "name_en": "Dhuusamarreeb",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 447
+    },
+    {
+      "id": 34,
+      "name_ar": "هرديو",
+      "name_en": "Hurdiyo",
+      "country_ar": "الصومال",
+      "country_en": "Somalia",
+      "population": 176
+    }
+  ],
+  "meta": {
+    "title": "مدن الصومال — Cities of Somalia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الصومال بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 34 cities in Somalia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 34 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الصومال — Cities of Somalia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الصومال — Cities of Somalia (Arabic names) — 34 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 34 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

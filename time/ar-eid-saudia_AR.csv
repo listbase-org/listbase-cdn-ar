@@ -1,0 +1,5 @@
+﻿"Id","Rule","Name Native","Name En","Type","Reference","Note","Active","Substitute","Disable","Enable"
+"1","02-22 since 2022","يوم التأسيس","Founding Day","public","","","","false","",""
+"2","09-23 since 2005","اليوم الوطني","National Day","public","","","","false","",""
+"3","30 Ramadan P4D","عيد الفطر","End of Ramadan (Eid al-Fitr)","public","1 Shawwal","","","false","",""
+"4","9 Dhu al-Hijjah P4D","عيد الأضحى","Feast of the Sacrifice (Eid al-Adha)","public","10 Dhu al-Hijjah","","","false","",""

@@ -1,0 +1,416 @@
+{
+  "id": "ar-mudun-sweden",
+  "name": "مدن السويد — Cities of Sweden (Arabic names)",
+  "title": "مدن السويد — Cities of Sweden (Arabic names)",
+  "description": "قائمة بأسماء مدن السويد بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 45 cities in Sweden with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ستوكهولم",
+      "name_en": "Stockholm",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 995574
+    },
+    {
+      "id": 2,
+      "name_ar": "غوتنبرغ",
+      "name_en": "Gothenburg",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 674529
+    },
+    {
+      "id": 3,
+      "name_ar": "مالمو",
+      "name_en": "Malmo",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 360249
+    },
+    {
+      "id": 4,
+      "name_ar": "أوبسالا",
+      "name_en": "Uppsala",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 174982
+    },
+    {
+      "id": 5,
+      "name_ar": "بلدية نورشوبينغ",
+      "name_en": "Norrkoping",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 137326
+    },
+    {
+      "id": 6,
+      "name_ar": "فيستيروس",
+      "name_en": "Vasteras",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 131643
+    },
+    {
+      "id": 7,
+      "name_ar": "أوربرو",
+      "name_en": "Orebro",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 128658
+    },
+    {
+      "id": 8,
+      "name_ar": "لينشوبينغ",
+      "name_en": "Linkoping",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 116851
+    },
+    {
+      "id": 9,
+      "name_ar": "هلسينغبورغ",
+      "name_en": "Helsingborg",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 116029
+    },
+    {
+      "id": 10,
+      "name_ar": "بوروس",
+      "name_en": "Boras",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 114445
+    },
+    {
+      "id": 11,
+      "name_ar": "يونشوبينغ",
+      "name_en": "Jonkoping",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 112766
+    },
+    {
+      "id": 12,
+      "name_ar": "سوندسفال",
+      "name_en": "Sundsvall",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 99825
+    },
+    {
+      "id": 13,
+      "name_ar": "أوميو",
+      "name_en": "Umea",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 94243
+    },
+    {
+      "id": 14,
+      "name_ar": "سكيلفتيا",
+      "name_en": "Skelleftea",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 74402
+    },
+    {
+      "id": 15,
+      "name_ar": "هالمستاد",
+      "name_en": "Halmstad",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 71422
+    },
+    {
+      "id": 16,
+      "name_ar": "إسكيلستونا",
+      "name_en": "Eskilstuna",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 69948
+    },
+    {
+      "id": 17,
+      "name_ar": "كارلسكرونا",
+      "name_en": "Karlskrona",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 66675
+    },
+    {
+      "id": 18,
+      "name_ar": "فاكسيو",
+      "name_en": "Vaxjo",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 66275
+    },
+    {
+      "id": 19,
+      "name_ar": "إوسترسوند",
+      "name_en": "Ostersund",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 49806
+    },
+    {
+      "id": 20,
+      "name_ar": "لوليو",
+      "name_en": "Lulea",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 49646
+    },
+    {
+      "id": 21,
+      "name_ar": "تريليبورج",
+      "name_en": "Trelleborg",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 43359
+    },
+    {
+      "id": 22,
+      "name_ar": "انجلهولم",
+      "name_en": "Angelholm",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 42131
+    },
+    {
+      "id": 23,
+      "name_ar": "فالون",
+      "name_en": "Falun",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 37291
+    },
+    {
+      "id": 24,
+      "name_ar": "اوديفالا",
+      "name_en": "Uddevalla",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 34781
+    },
+    {
+      "id": 25,
+      "name_ar": "لاندسكرونا",
+      "name_en": "Landskrona",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 33372
+    },
+    {
+      "id": 26,
+      "name_ar": "كريستيانستاد",
+      "name_en": "Kristianstad",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 32188
+    },
+    {
+      "id": 27,
+      "name_ar": "موتالا",
+      "name_en": "Motala",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 29823
+    },
+    {
+      "id": 28,
+      "name_ar": "يستاد",
+      "name_en": "Ystad",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 28985
+    },
+    {
+      "id": 29,
+      "name_ar": "كارلسكوغا",
+      "name_en": "Karlskoga",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 27562
+    },
+    {
+      "id": 30,
+      "name_ar": "فيسبي",
+      "name_en": "Visby",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 26305
+    },
+    {
+      "id": 31,
+      "name_ar": "العواء",
+      "name_en": "Boo",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 24052
+    },
+    {
+      "id": 32,
+      "name_ar": "ساندفيكن",
+      "name_en": "Sandviken",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 22965
+    },
+    {
+      "id": 33,
+      "name_ar": "هوسكفارنا",
+      "name_en": "Huskvarna",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 22000
+    },
+    {
+      "id": 34,
+      "name_ar": "سكارا",
+      "name_en": "Skara",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 18580
+    },
+    {
+      "id": 35,
+      "name_ar": "بلدية هسلهولم",
+      "name_en": "Hassleholm",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 18500
+    },
+    {
+      "id": 36,
+      "name_ar": "هارنوساند",
+      "name_en": "Harnosand",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 18236
+    },
+    {
+      "id": 37,
+      "name_ar": "بلدية فالشوبنغ",
+      "name_en": "Falkoping",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 17939
+    },
+    {
+      "id": 38,
+      "name_ar": "كريستينه هامن",
+      "name_en": "Kristinehamn",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 17839
+    },
+    {
+      "id": 39,
+      "name_ar": "بلدية إسلوف",
+      "name_en": "Eslov",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 17748
+    },
+    {
+      "id": 40,
+      "name_ar": "نورتليه",
+      "name_en": "Norrtalje",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 17275
+    },
+    {
+      "id": 41,
+      "name_ar": "مارياستاد",
+      "name_en": "Mariestad",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 16611
+    },
+    {
+      "id": 42,
+      "name_ar": "مولنليكي",
+      "name_en": "Molnlycke",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 15608
+    },
+    {
+      "id": 43,
+      "name_ar": "بلدية ميولبي",
+      "name_en": "Mjolby",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 14282
+    },
+    {
+      "id": 44,
+      "name_ar": "أرفيكا",
+      "name_en": "Arvika",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 14244
+    },
+    {
+      "id": 45,
+      "name_ar": "أربوغا",
+      "name_en": "Arboga",
+      "country_ar": "السويد",
+      "country_en": "Sweden",
+      "population": 14057
+    }
+  ],
+  "meta": {
+    "title": "مدن السويد — Cities of Sweden (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن السويد بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 45 cities in Sweden with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 45 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن السويد — Cities of Sweden (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن السويد — Cities of Sweden (Arabic names) — 45 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 45 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

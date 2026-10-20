@@ -1,0 +1,181 @@
+{
+  "id": "ar-uman-qanawat-tilfiziyya",
+  "name": "قنوات تلفزيونية عُمانية",
+  "title": "قنوات تلفزيونية عُمانية",
+  "description": "قائمة بالقنوات التلفزيونية العُمانية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "AlistiqamaTV.om",
+      "name": "Alistiqama TV",
+      "alt_names": "قناة الاستقامة الفضائية",
+      "network": "",
+      "owners": "",
+      "country": "OM",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.istiqama.tv/"
+    },
+    {
+      "id": 2,
+      "channel_id": "MajanTV.om",
+      "name": "Majan TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "OM",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2009-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.majan-tv.com/"
+    },
+    {
+      "id": 3,
+      "channel_id": "OmanSportsTV.om",
+      "name": "Oman Sports TV",
+      "alt_names": "قناة عمان الرياضية",
+      "network": "",
+      "owners": "PART",
+      "country": "OM",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2008-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://part.gov.om/omantvsport/"
+    },
+    {
+      "id": 4,
+      "channel_id": "OmanTV.om",
+      "name": "Oman TV",
+      "alt_names": "عُمان تي في, تلفزيون سلطنة عمان",
+      "network": "",
+      "owners": "PART",
+      "country": "OM",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1974-11-17",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://part.gov.om/part/"
+    },
+    {
+      "id": 5,
+      "channel_id": "OmanTVCultural.om",
+      "name": "Oman TV Cultural",
+      "alt_names": "القناة الثقافية",
+      "network": "",
+      "owners": "PART",
+      "country": "OM",
+      "categories": "culture",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://part.gov.om/part/"
+    },
+    {
+      "id": 6,
+      "channel_id": "OmanTVMubashir.om",
+      "name": "Oman TV Mubashir",
+      "alt_names": "قناة عُمان مباشر",
+      "network": "",
+      "owners": "PART",
+      "country": "OM",
+      "categories": "news",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://part.gov.om/part/"
+    }
+  ],
+  "meta": {
+    "title": "قنوات تلفزيونية عُمانية - تحميل مجاني",
+    "description": "قائمة بالقنوات التلفزيونية العُمانية المستخرجة من قاعدة البيانات المفتوحة iptv-org/database. تتضمن أسماء القنوات والمالكين والشبكة والفئات والمواقع الرسمية. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "قنوات تلفزيونية عُمانية | ListBase",
+    "seo_description": "تحميل قنوات تلفزيونية عُمانية — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 13 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

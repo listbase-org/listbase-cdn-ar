@@ -1,0 +1,621 @@
+{
+  "id": "ar-sa-manajim",
+  "name": "المناجم في المملكة العربية السعودية (Mines of Saudi Arabia)",
+  "title": "المناجم في المملكة العربية السعودية (Mines of Saudi Arabia)",
+  "description": "Mines of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q31867809",
+      "name_ar": "",
+      "name_en": "Abū Nafīlah",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.249167,
+      "longitude": 36.567222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31867809"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q31867840",
+      "name_ar": "",
+      "name_en": "Abū Nuthayrah",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.166944,
+      "longitude": 36.625278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31867840"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31867890",
+      "name_ar": "",
+      "name_en": "Abū Salām",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 23.447222,
+      "longitude": 44.276111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31867890"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q31867923",
+      "name_ar": "",
+      "name_en": "Abū Sayrāt",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.150278,
+      "longitude": 36.625278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31867923"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q31868073",
+      "name_ar": "",
+      "name_en": "Abū Snūn",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 23.289444,
+      "longitude": 44.472778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31868073"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q31870345",
+      "name_ar": "",
+      "name_en": "Agarat Mine",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.151944,
+      "longitude": 43.750278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31870345"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q31872251",
+      "name_ar": "",
+      "name_en": "Al Buhayr",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 25.433611,
+      "longitude": 37.386944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31872251"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q31872843",
+      "name_ar": "",
+      "name_en": "Al Hagira Mine",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.17766,
+      "longitude": 43.72814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31872843"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q31872857",
+      "name_ar": "",
+      "name_en": "Al Halāhilah",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.700556,
+      "longitude": 43.971944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31872857"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q31874500",
+      "name_ar": "",
+      "name_en": "Al Majma‘",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.76918,
+      "longitude": 43.9609,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31874500"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q31875456",
+      "name_ar": "",
+      "name_en": "Al Mussayab",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.651667,
+      "longitude": 43.966944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31875456"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q31875664",
+      "name_ar": "",
+      "name_en": "Al Qarn",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.725,
+      "longitude": 43.671667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31875664"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q31876772",
+      "name_ar": "",
+      "name_en": "Al ‘Ubayd",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 24.523889,
+      "longitude": 41.789444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31876772"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q31876867",
+      "name_ar": "",
+      "name_en": "Al ‘Uthl",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.58,
+      "longitude": 43.686944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31876867"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q31876887",
+      "name_ar": "",
+      "name_en": "Al ‘Uwaynid",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 25.114444,
+      "longitude": 37.4475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31876887"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q31882742",
+      "name_ar": "",
+      "name_en": "An Nabdān",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.175278,
+      "longitude": 36.675278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31882742"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q31882883",
+      "name_ar": "",
+      "name_en": "An Nuqrah al Janūbīyah",
+      "admin_area_ar": "منطقة حائل",
+      "admin_area_en": "Ḥaʼil Province",
+      "latitude": 25.59,
+      "longitude": 41.427778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31882883"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q31882887",
+      "name_ar": "",
+      "name_en": "An Nuqrah ash Shamālīyah",
+      "admin_area_ar": "منطقة حائل",
+      "admin_area_en": "Ḥaʼil Province",
+      "latitude": 25.599722,
+      "longitude": 41.432222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31882887"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q31882895",
+      "name_ar": "",
+      "name_en": "An Nuwaybāt",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.657778,
+      "longitude": 44.357778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31882895"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q114890446",
+      "name_ar": "",
+      "name_en": "Ar Rīḩī",
+      "admin_area_ar": "منطقة المدينة المنورة",
+      "admin_area_en": "Medina Province",
+      "latitude": 26.36667,
+      "longitude": 38.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114890446"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q31890865",
+      "name_ar": "",
+      "name_en": "Ash Shara‘",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.524722,
+      "longitude": 43.955833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31890865"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q31891013",
+      "name_ar": "",
+      "name_en": "Ash Shuhaybah",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.183611,
+      "longitude": 36.641944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31891013"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q31891115",
+      "name_ar": "",
+      "name_en": "Ash Shuwāţah",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.233611,
+      "longitude": 36.550278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31891115"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q32116192",
+      "name_ar": "",
+      "name_en": "Bulghah",
+      "admin_area_ar": "منطقة المدينة المنورة",
+      "admin_area_en": "Medina Province",
+      "latitude": 24.986944,
+      "longitude": 41.590556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32116192"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q32117840",
+      "name_ar": "",
+      "name_en": "Farah Garan",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.676667,
+      "longitude": 43.647222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32117840"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q32117849",
+      "name_ar": "",
+      "name_en": "Farah Garan East",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.682222,
+      "longitude": 43.653056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32117849"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q32123870",
+      "name_ar": "",
+      "name_en": "Hajr Garb Mines",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.910278,
+      "longitude": 43.633333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32123870"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q32123883",
+      "name_ar": "",
+      "name_en": "Hajr Mines",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.92448,
+      "longitude": 43.67077,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32123883"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q32123897",
+      "name_ar": "",
+      "name_en": "Hamīm",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 25.442222,
+      "longitude": 37.373889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32123897"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q32123979",
+      "name_ar": "",
+      "name_en": "Hashīm Zurayb",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.249167,
+      "longitude": 36.533611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32123979"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q32124054",
+      "name_ar": "",
+      "name_en": "Hazim Mine",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 19.881944,
+      "longitude": 42.510833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32124054"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q32125264",
+      "name_ar": "",
+      "name_en": "Jabal Guyan Mine",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.21168,
+      "longitude": 43.90766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32125264"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q32129332",
+      "name_ar": "",
+      "name_en": "Jazabat al ‘Ufar",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 26.262222,
+      "longitude": 40.853333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32129332"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q32138005",
+      "name_ar": "",
+      "name_en": "Kitnah",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.773889,
+      "longitude": 44.001111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138005"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q32138140",
+      "name_ar": "",
+      "name_en": "Kutām",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.604722,
+      "longitude": 43.588333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138140"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q32138868",
+      "name_ar": "",
+      "name_en": "Manjam Abū Haylah",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.39136,
+      "longitude": 44.09484,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138868"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q32138931",
+      "name_ar": "",
+      "name_en": "Manjam Murabba‘",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.004722,
+      "longitude": 44.084444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138931"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q32138884",
+      "name_ar": "",
+      "name_en": "Manjam adh Dhahab",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.23,
+      "longitude": 43.750833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138884"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q32138900",
+      "name_ar": "",
+      "name_en": "Manjam al Hajīrah",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.234722,
+      "longitude": 43.871389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138900"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q32138914",
+      "name_ar": "",
+      "name_en": "Manjam al Masnāh",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 18.129722,
+      "longitude": 43.856111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32138914"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q32140073",
+      "name_ar": "",
+      "name_en": "Ma‘milah",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.049444,
+      "longitude": 41.283333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32140073"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q32140142",
+      "name_ar": "",
+      "name_en": "Milḩā'",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 17.609167,
+      "longitude": 43.670833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32140142"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q32188706",
+      "name_ar": "",
+      "name_en": "Suwayqah",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 25.807222,
+      "longitude": 37.256111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32188706"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q32190989",
+      "name_ar": "",
+      "name_en": "Umm Quşūr",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 23.419167,
+      "longitude": 44.208611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32190989"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q32191128",
+      "name_ar": "",
+      "name_en": "Umm Ţuwayrāt",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.250833,
+      "longitude": 36.8,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32191128"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q32191163",
+      "name_ar": "",
+      "name_en": "Umm Ḩuwayrat ash Shaykh",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.283611,
+      "longitude": 36.575278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32191163"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q32191207",
+      "name_ar": "",
+      "name_en": "Umm ‘Āshūrā'",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.917222,
+      "longitude": 40.414444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32191207"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q12245270",
+      "name_ar": "منجم مهد الذهب",
+      "name_en": "",
+      "admin_area_ar": "منطقة المدينة المنورة",
+      "admin_area_en": "Medina Province",
+      "latitude": 23.499086,
+      "longitude": 40.865214,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12245270"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q32223375",
+      "name_ar": "",
+      "name_en": "Ḩawāwīt",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 26.928611,
+      "longitude": 36.121944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32223375"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q32224327",
+      "name_ar": "",
+      "name_en": "‘Arjah",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 24.678056,
+      "longitude": 44.369722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32224327"
+    }
+  ],
+  "meta": {
+    "title": "المناجم في المملكة العربية السعودية (Mines of Saudi Arabia) - تحميل مجاني",
+    "description": "Mines of Saudi Arabia sourced from Wikidata (instances with country = Saudi Arabia). Each record carries a Wikidata QID, native Arabic name, English name where available, administrative area, and WGS84 coordinates. يحتوي على 50 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المناجم في المملكة العربية السعودية (Mines of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المناجم في المملكة العربية السعودية (Mines of Saudi Arabia) — 50 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 50 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

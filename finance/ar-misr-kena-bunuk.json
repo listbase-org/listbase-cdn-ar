@@ -1,0 +1,128 @@
+{
+  "id": "ar-misr-kena-bunuk",
+  "name": "بنوك Kena — مصر — رموز سويفت (Banks of Kena, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Kena — مصر — رموز سويفت (Banks of Kena, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Kena (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Kena, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "KENA",
+      "branch": "(KENA BRANCH)",
+      "swift_code": "BCAIEGCX670"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "KENA",
+      "branch": "(KOUS)",
+      "swift_code": "BCAIEGCX700"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "KENA",
+      "branch": "(NAGH HAMMADI)",
+      "swift_code": "BCAIEGCX680"
+    },
+    {
+      "id": 4,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(QENA)",
+      "swift_code": "FIEGEGCXQNA"
+    },
+    {
+      "id": 5,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(FARSHOUT BRANCH)",
+      "swift_code": "NBEGEGCX532"
+    },
+    {
+      "id": 6,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(KENA BRANCH)",
+      "swift_code": "NBEGEGCX523"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(NAKADA BRANCH)",
+      "swift_code": "NBEGEGCX527"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(QEFT BRANCH)",
+      "swift_code": "NBEGEGCX525"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(QOUS BRANCH)",
+      "swift_code": "NBEGEGCX540"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "KENA",
+      "branch": "(SOUTH VALLEY UNIVERSITY)",
+      "swift_code": "NBEGEGCX537"
+    },
+    {
+      "id": 11,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "KENA",
+      "branch": "(KENA BRANCH)",
+      "swift_code": "BDACEGCA096"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Kena — مصر — رموز سويفت (Banks of Kena, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Kena (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Kena, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Kena — مصر — رموز سويفت (Banks of Kena, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Kena — مصر — رموز سويفت (Banks of Kena, Egypt — SWIFT/BIC codes) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

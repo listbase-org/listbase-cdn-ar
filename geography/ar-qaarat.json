@@ -1,0 +1,88 @@
+{
+  "id": "ar-qaarat",
+  "name": "القارات (continents) — الأسماء بالعربية",
+  "title": "القارات (continents) — الأسماء بالعربية",
+  "description": "7 قارات وفق التقسيم الإحصائي الشائع للأمم المتحدة (أفريقيا، أنتاركتيكا، آسيا، أوروبا، أمريكا الشمالية، أوقيانوسيا، أمريكا الجنوبية).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AF",
+      "name_ar": "أفريقيا",
+      "name_en": "Africa",
+      "slug": "afriqya"
+    },
+    {
+      "code": "AN",
+      "name_ar": "أنتاركتيكا",
+      "name_en": "Antarctica",
+      "slug": "antarktika"
+    },
+    {
+      "code": "AS",
+      "name_ar": "آسيا",
+      "name_en": "Asia",
+      "slug": "asia"
+    },
+    {
+      "code": "EU",
+      "name_ar": "أوروبا",
+      "name_en": "Europe",
+      "slug": "uruba"
+    },
+    {
+      "code": "NA",
+      "name_ar": "أمريكا الشمالية",
+      "name_en": "North America",
+      "slug": "amrika-shamaliya"
+    },
+    {
+      "code": "OC",
+      "name_ar": "أوقيانوسيا",
+      "name_en": "Oceania",
+      "slug": "uquyaniya"
+    },
+    {
+      "code": "SA",
+      "name_ar": "أمريكا الجنوبية",
+      "name_en": "South America",
+      "slug": "amrika-januubiya"
+    }
+  ],
+  "meta": {
+    "title": "القارات (continents) — الأسماء بالعربية - تحميل مجاني",
+    "description": "7 قارات وفق التقسيم الإحصائي الشائع للأمم المتحدة (أفريقيا، أنتاركتيكا، آسيا، أوروبا، أمريكا الشمالية، أوقيانوسيا، أمريكا الجنوبية). يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "القارات (continents) — الأسماء بالعربية | ListBase",
+    "seo_description": "تحميل القارات (continents) — الأسماء بالعربية — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 4 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ar-mudun-honduras",
+  "name": "مدن هندوراس — Cities of Honduras (Arabic names)",
+  "title": "مدن هندوراس — Cities of Honduras (Arabic names)",
+  "description": "قائمة بأسماء مدن هندوراس بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Honduras with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تيغوسيغالبا",
+      "name_en": "Tegucigalpa",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 1157509
+    },
+    {
+      "id": 2,
+      "name_ar": "سان بيدرو سولا",
+      "name_en": "San Pedro Sula",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 719064
+    },
+    {
+      "id": 3,
+      "name_ar": "تشولوما",
+      "name_en": "Choloma",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 227535
+    },
+    {
+      "id": 4,
+      "name_ar": "لا سيبا",
+      "name_en": "La Ceiba",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 197267
+    },
+    {
+      "id": 5,
+      "name_ar": "إدارة البروغريسو",
+      "name_en": "El Progreso",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 188366
+    },
+    {
+      "id": 6,
+      "name_ar": "فيلانويفا",
+      "name_en": "Villanueva",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 149977
+    },
+    {
+      "id": 7,
+      "name_ar": "كوماياغوا",
+      "name_en": "Comayagua",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 144785
+    },
+    {
+      "id": 8,
+      "name_ar": "خوتيكالبا",
+      "name_en": "Juticalpa",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 124828
+    },
+    {
+      "id": 9,
+      "name_ar": "بورتو كورتيس",
+      "name_en": "Puerto Cortes",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 122426
+    },
+    {
+      "id": 10,
+      "name_ar": "كاتاكاماس",
+      "name_en": "Catacamas",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 117493
+    },
+    {
+      "id": 11,
+      "name_ar": "اولانتشيتو",
+      "name_en": "Olanchito",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 104609
+    },
+    {
+      "id": 12,
+      "name_ar": "سيغواتبيكي",
+      "name_en": "Siguatepeque",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 95121
+    },
+    {
+      "id": 13,
+      "name_ar": "دانلي ش بارايسو",
+      "name_en": "Danli",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 88722
+    },
+    {
+      "id": 14,
+      "name_ar": "توكوا، كولون",
+      "name_en": "Tocoa",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 72847
+    },
+    {
+      "id": 15,
+      "name_ar": "سانتا روزا دي كوبان",
+      "name_en": "Santa Rosa de Copan",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 61083
+    },
+    {
+      "id": 16,
+      "name_ar": "تروخيلو",
+      "name_en": "Trujillo",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 60558
+    },
+    {
+      "id": 17,
+      "name_ar": "ناكاومي",
+      "name_en": "Nacaome",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 57345
+    },
+    {
+      "id": 18,
+      "name_ar": "إدارة إنتبوكا",
+      "name_en": "Intibuca",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 56017
+    },
+    {
+      "id": 19,
+      "name_ar": "بويرتو لمبيرا",
+      "name_en": "Puerto Lempira",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 47528
+    },
+    {
+      "id": 20,
+      "name_ar": "لا باز",
+      "name_en": "La Paz",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 43980
+    },
+    {
+      "id": 21,
+      "name_ar": "سانتا باربارا",
+      "name_en": "Santa Barbara",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 41736
+    },
+    {
+      "id": 22,
+      "name_ar": "إدارة كوبان",
+      "name_en": "Copan",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 41542
+    },
+    {
+      "id": 23,
+      "name_ar": "غوايماكا",
+      "name_en": "Guaimaca",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 28076
+    },
+    {
+      "id": 24,
+      "name_ar": "تكساس يو اس اس",
+      "name_en": "San Marcos",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 19978
+    },
+    {
+      "id": 25,
+      "name_ar": "إدارة بارايسو",
+      "name_en": "El Paraiso",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 19882
+    },
+    {
+      "id": 26,
+      "name_ar": "كامبامينتو",
+      "name_en": "Campamento",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 19832
+    },
+    {
+      "id": 27,
+      "name_ar": "سانتا آنا",
+      "name_en": "Santa Ana",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 16009
+    },
+    {
+      "id": 28,
+      "name_ar": "سان فرانسيسكو",
+      "name_en": "San Francisco",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 14559
+    },
+    {
+      "id": 29,
+      "name_ar": "جوسكاران",
+      "name_en": "Yuscaran",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 14144
+    },
+    {
+      "id": 30,
+      "name_ar": "سان رافاييل",
+      "name_en": "San Rafael",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 13410
+    },
+    {
+      "id": 31,
+      "name_ar": "سان خوان ديل مونتي",
+      "name_en": "San Juan",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 13405
+    },
+    {
+      "id": 32,
+      "name_ar": "نويفا أوكوتبيك",
+      "name_en": "Nueva Ocotepeque",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 8780
+    },
+    {
+      "id": 33,
+      "name_ar": "رواتان",
+      "name_en": "Roatan",
+      "country_ar": "هندوراس",
+      "country_en": "Honduras",
+      "population": 5070
+    }
+  ],
+  "meta": {
+    "title": "مدن هندوراس — Cities of Honduras (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن هندوراس بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Honduras with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 33 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن هندوراس — Cities of Honduras (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن هندوراس — Cities of Honduras (Arabic names) — 33 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 33 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

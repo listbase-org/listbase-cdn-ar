@@ -1,0 +1,224 @@
+{
+  "id": "ar-mudun-burkina-faso",
+  "name": "مدن بوركينا فاسو — Cities of Burkina Faso (Arabic names)",
+  "title": "مدن بوركينا فاسو — Cities of Burkina Faso (Arabic names)",
+  "description": "قائمة بأسماء مدن بوركينا فاسو بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Burkina Faso with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "واغادوغو",
+      "name_en": "Ouagadougou",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 3063271
+    },
+    {
+      "id": 2,
+      "name_ar": "بوبوديولاسو",
+      "name_en": "Bobo-Dioulasso",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 903887
+    },
+    {
+      "id": 3,
+      "name_ar": "كودوغو",
+      "name_en": "Koudougou",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 160207
+    },
+    {
+      "id": 4,
+      "name_ar": "واهيغويا",
+      "name_en": "Ouahigouya",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 124580
+    },
+    {
+      "id": 5,
+      "name_ar": "بانفورا",
+      "name_en": "Banfora",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 117200
+    },
+    {
+      "id": 6,
+      "name_ar": "فادا نغورما",
+      "name_en": "Fada Ngourma",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 73200
+    },
+    {
+      "id": 7,
+      "name_ar": "ديدواغو",
+      "name_en": "Dedougou",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 63617
+    },
+    {
+      "id": 8,
+      "name_ar": "كونغوسي",
+      "name_en": "Kongoussi",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 53641
+    },
+    {
+      "id": 9,
+      "name_ar": "كاوبيلا",
+      "name_en": "Koupela",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 45900
+    },
+    {
+      "id": 10,
+      "name_ar": "بيندر",
+      "name_en": "Binde",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 36518
+    },
+    {
+      "id": 11,
+      "name_ar": "ليو",
+      "name_en": "Leo",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 33717
+    },
+    {
+      "id": 12,
+      "name_ar": "أورودارا",
+      "name_en": "Orodara",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 33422
+    },
+    {
+      "id": 13,
+      "name_ar": "كومبيسيري",
+      "name_en": "Kombissiri",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 28617
+    },
+    {
+      "id": 14,
+      "name_ar": "مانغا",
+      "name_en": "Manga",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 28612
+    },
+    {
+      "id": 15,
+      "name_ar": "حزب المنصة المدنية",
+      "name_en": "Po",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 28079
+    },
+    {
+      "id": 16,
+      "name_ar": "توغان",
+      "name_en": "Tougan",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 26347
+    },
+    {
+      "id": 17,
+      "name_ar": "بلدية سابوي",
+      "name_en": "Sapouy",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 26345
+    },
+    {
+      "id": 18,
+      "name_ar": "ديبوغو",
+      "name_en": "Diebougou",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 25688
+    },
+    {
+      "id": 19,
+      "name_ar": "باتي (الكاميرون)",
+      "name_en": "Batie",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 17997
+    },
+    {
+      "id": 20,
+      "name_ar": "بنما",
+      "name_en": "Pa",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 15170
+    },
+    {
+      "id": 21,
+      "name_ar": "تيوغزة",
+      "name_en": "Tiou",
+      "country_ar": "بوركينا فاسو",
+      "country_en": "Burkina Faso",
+      "population": 8983
+    }
+  ],
+  "meta": {
+    "title": "مدن بوركينا فاسو — Cities of Burkina Faso (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بوركينا فاسو بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Burkina Faso with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بوركينا فاسو — Cities of Burkina Faso (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بوركينا فاسو — Cities of Burkina Faso (Arabic names) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

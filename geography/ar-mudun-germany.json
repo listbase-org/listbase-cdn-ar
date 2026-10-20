@@ -1,0 +1,824 @@
+{
+  "id": "ar-mudun-germany",
+  "name": "مدن ألمانيا — Cities of Germany (Arabic names)",
+  "title": "مدن ألمانيا — Cities of Germany (Arabic names)",
+  "description": "قائمة بأسماء مدن ألمانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in Germany with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "برلين",
+      "name_en": "Berlin",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 4679500
+    },
+    {
+      "id": 2,
+      "name_ar": "شتوتغارت",
+      "name_en": "Stuttgart",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 2787724
+    },
+    {
+      "id": 3,
+      "name_ar": "ميونخ",
+      "name_en": "Munich",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 2606021
+    },
+    {
+      "id": 4,
+      "name_ar": "هامبورغ",
+      "name_en": "Hamburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 2496600
+    },
+    {
+      "id": 5,
+      "name_ar": "كولونيا",
+      "name_en": "Cologne",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 1087353
+    },
+    {
+      "id": 6,
+      "name_ar": "فرانكفورت",
+      "name_en": "Frankfurt",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 775790
+    },
+    {
+      "id": 7,
+      "name_ar": "دوسلدورف",
+      "name_en": "Dusseldorf",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 631217
+    },
+    {
+      "id": 8,
+      "name_ar": "لايبزيغ",
+      "name_en": "Leipzig",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 619879
+    },
+    {
+      "id": 9,
+      "name_ar": "دورتموند",
+      "name_en": "Dortmund",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 595471
+    },
+    {
+      "id": 10,
+      "name_ar": "إسن",
+      "name_en": "Essen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 586608
+    },
+    {
+      "id": 11,
+      "name_ar": "بريمن",
+      "name_en": "Bremen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 577026
+    },
+    {
+      "id": 12,
+      "name_ar": "درسدن",
+      "name_en": "Dresden",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 566222
+    },
+    {
+      "id": 13,
+      "name_ar": "براونشفايغ",
+      "name_en": "Braunschweig",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 551000
+    },
+    {
+      "id": 14,
+      "name_ar": "هانوفر",
+      "name_en": "Hannover",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 548186
+    },
+    {
+      "id": 15,
+      "name_ar": "نورنبرغ",
+      "name_en": "Nuremberg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 526091
+    },
+    {
+      "id": 16,
+      "name_ar": "دويسبورغ",
+      "name_en": "Duisburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 503707
+    },
+    {
+      "id": 17,
+      "name_ar": "بوخوم",
+      "name_en": "Bochum",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 366385
+    },
+    {
+      "id": 18,
+      "name_ar": "فوبرتال",
+      "name_en": "Wuppertal",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 358938
+    },
+    {
+      "id": 19,
+      "name_ar": "بيلفلد",
+      "name_en": "Bielefeld",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 338410
+    },
+    {
+      "id": 20,
+      "name_ar": "بون",
+      "name_en": "Bonn",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 335789
+    },
+    {
+      "id": 21,
+      "name_ar": "مونستر",
+      "name_en": "Munster",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 322904
+    },
+    {
+      "id": 22,
+      "name_ar": "مانهايم",
+      "name_en": "Mannheim",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 316877
+    },
+    {
+      "id": 23,
+      "name_ar": "كارلسروه",
+      "name_en": "Karlsruhe",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 309964
+    },
+    {
+      "id": 24,
+      "name_ar": "آوغسبورغ",
+      "name_en": "Augsburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 303150
+    },
+    {
+      "id": 25,
+      "name_ar": "فيسبادن",
+      "name_en": "Wiesbaden",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 285522
+    },
+    {
+      "id": 26,
+      "name_ar": "مونشنغلادباخ",
+      "name_en": "Monchengladbach",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 268943
+    },
+    {
+      "id": 27,
+      "name_ar": "غلزنكيرشن",
+      "name_en": "Gelsenkirchen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 265885
+    },
+    {
+      "id": 28,
+      "name_ar": "آخن",
+      "name_en": "Aachen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 252769
+    },
+    {
+      "id": 29,
+      "name_ar": "كيمنتس",
+      "name_en": "Chemnitz",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 250681
+    },
+    {
+      "id": 30,
+      "name_ar": "كيل",
+      "name_en": "Kiel",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 248873
+    },
+    {
+      "id": 31,
+      "name_ar": "هاله",
+      "name_en": "Halle",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 242172
+    },
+    {
+      "id": 32,
+      "name_ar": "مغدبورغ",
+      "name_en": "Magdeburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 240114
+    },
+    {
+      "id": 33,
+      "name_ar": "فرايبورغ",
+      "name_en": "Freiburg im Breisgau",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 237244
+    },
+    {
+      "id": 34,
+      "name_ar": "كريفلد",
+      "name_en": "Krefeld",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 228550
+    },
+    {
+      "id": 35,
+      "name_ar": "ماينتس",
+      "name_en": "Mainz",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 222889
+    },
+    {
+      "id": 36,
+      "name_ar": "لوبيك",
+      "name_en": "Lubeck",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 219044
+    },
+    {
+      "id": 37,
+      "name_ar": "أوبرهاوزن",
+      "name_en": "Oberhausen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 211099
+    },
+    {
+      "id": 38,
+      "name_ar": "روستوك",
+      "name_en": "Rostock",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 210795
+    },
+    {
+      "id": 39,
+      "name_ar": "كاسل",
+      "name_en": "Kassel",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 204687
+    },
+    {
+      "id": 40,
+      "name_ar": "هاغن",
+      "name_en": "Hagen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 190490
+    },
+    {
+      "id": 41,
+      "name_ar": "بوتسدام",
+      "name_en": "Potsdam",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 187119
+    },
+    {
+      "id": 42,
+      "name_ar": "ساربروكن",
+      "name_en": "Saarbrucken",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 183509
+    },
+    {
+      "id": 43,
+      "name_ar": "لودفيغسهافن",
+      "name_en": "Ludwigshafen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 176110
+    },
+    {
+      "id": 44,
+      "name_ar": "أولدنبورغ",
+      "name_en": "Oldenburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 174629
+    },
+    {
+      "id": 45,
+      "name_ar": "مولهايم أن در رور",
+      "name_en": "Mulheim",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 173255
+    },
+    {
+      "id": 46,
+      "name_ar": "أوسنابروك",
+      "name_en": "Osnabruck",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 166960
+    },
+    {
+      "id": 47,
+      "name_ar": "باير 04 ليفركوزن",
+      "name_en": "Leverkusen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 166414
+    },
+    {
+      "id": 48,
+      "name_ar": "دارمشتات",
+      "name_en": "Darmstadt",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 164792
+    },
+    {
+      "id": 49,
+      "name_ar": "هيدلبرغ",
+      "name_en": "Heidelberg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 162960
+    },
+    {
+      "id": 50,
+      "name_ar": "زولينغن",
+      "name_en": "Solingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 161545
+    },
+    {
+      "id": 51,
+      "name_ar": "ريغنسبورغ",
+      "name_en": "Regensburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 159465
+    },
+    {
+      "id": 52,
+      "name_ar": "بادربورن",
+      "name_en": "Paderborn",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 155749
+    },
+    {
+      "id": 53,
+      "name_ar": "نويس",
+      "name_en": "Neuss",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 155163
+    },
+    {
+      "id": 54,
+      "name_ar": "إنغولشتات",
+      "name_en": "Ingolstadt",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 142308
+    },
+    {
+      "id": 55,
+      "name_ar": "فورت",
+      "name_en": "Furth",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 132032
+    },
+    {
+      "id": 56,
+      "name_ar": "هايلبرون",
+      "name_en": "Heilbronn",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 130093
+    },
+    {
+      "id": 57,
+      "name_ar": "أولم",
+      "name_en": "Ulm",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 129942
+    },
+    {
+      "id": 58,
+      "name_ar": "بفورتسهايم",
+      "name_en": "Pforzheim",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 128992
+    },
+    {
+      "id": 59,
+      "name_ar": "فورتسبورغ",
+      "name_en": "Wurzburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 128246
+    },
+    {
+      "id": 60,
+      "name_ar": "فولفسبورغ",
+      "name_en": "Wolfsburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 127256
+    },
+    {
+      "id": 61,
+      "name_ar": "غوتينغن",
+      "name_en": "Gottingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 120261
+    },
+    {
+      "id": 62,
+      "name_ar": "بوتروب",
+      "name_en": "Bottrop",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 118705
+    },
+    {
+      "id": 63,
+      "name_ar": "رويتلينغن",
+      "name_en": "Reutlingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 118528
+    },
+    {
+      "id": 64,
+      "name_ar": "إرلنغن",
+      "name_en": "Erlangen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 117806
+    },
+    {
+      "id": 65,
+      "name_ar": "كوبلنز",
+      "name_en": "Koblenz",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 115298
+    },
+    {
+      "id": 66,
+      "name_ar": "بريمرهافن",
+      "name_en": "Bremerhaven",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 114677
+    },
+    {
+      "id": 67,
+      "name_ar": "رمشايد",
+      "name_en": "Remscheid",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 112970
+    },
+    {
+      "id": 68,
+      "name_ar": "ترير",
+      "name_en": "Trier",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 112737
+    },
+    {
+      "id": 69,
+      "name_ar": "بيرغيش غلادباخ",
+      "name_en": "Bergisch Gladbach",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 112660
+    },
+    {
+      "id": 70,
+      "name_ar": "ركلنهاوزن",
+      "name_en": "Recklinghausen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 111693
+    },
+    {
+      "id": 71,
+      "name_ar": "ينا",
+      "name_en": "Jena",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 110791
+    },
+    {
+      "id": 72,
+      "name_ar": "مويرس",
+      "name_en": "Moers",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 105606
+    },
+    {
+      "id": 73,
+      "name_ar": "زالتسغيتر",
+      "name_en": "Salzgitter",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 105039
+    },
+    {
+      "id": 74,
+      "name_ar": "هاناو",
+      "name_en": "Hanau",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 103184
+    },
+    {
+      "id": 75,
+      "name_ar": "غوترسلوه",
+      "name_en": "Gutersloh",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 102464
+    },
+    {
+      "id": 76,
+      "name_ar": "هيلدسهايم",
+      "name_en": "Hildesheim",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 102325
+    },
+    {
+      "id": 77,
+      "name_ar": "زيغن",
+      "name_en": "Siegen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 102114
+    },
+    {
+      "id": 78,
+      "name_ar": "نادي كايزرسلاوترن",
+      "name_en": "Kaiserslautern",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 101486
+    },
+    {
+      "id": 79,
+      "name_ar": "كوتبوس",
+      "name_en": "Cottbus",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 100010
+    },
+    {
+      "id": 80,
+      "name_ar": "إسلينغن آم نيكار",
+      "name_en": "Esslingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 95881
+    },
+    {
+      "id": 81,
+      "name_ar": "فيتن",
+      "name_en": "Witten",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 95724
+    },
+    {
+      "id": 82,
+      "name_ar": "غيسن",
+      "name_en": "Giessen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 94996
+    },
+    {
+      "id": 83,
+      "name_ar": "لودفيغسبورغ",
+      "name_en": "Ludwigsburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 94859
+    },
+    {
+      "id": 84,
+      "name_ar": "غيرا",
+      "name_en": "Gera",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 94847
+    },
+    {
+      "id": 85,
+      "name_ar": "توبينغن",
+      "name_en": "Tubingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 93615
+    },
+    {
+      "id": 86,
+      "name_ar": "دورن",
+      "name_en": "Duren",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 93323
+    },
+    {
+      "id": 87,
+      "name_ar": "فلنسبورغ",
+      "name_en": "Flensburg",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 92667
+    },
+    {
+      "id": 88,
+      "name_ar": "إزرلون",
+      "name_en": "Iserlohn",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 92404
+    },
+    {
+      "id": 89,
+      "name_ar": "فيلينغن-شفنينغن",
+      "name_en": "Villingen-Schwenningen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 88213
+    },
+    {
+      "id": 90,
+      "name_ar": "تسفيكاو",
+      "name_en": "Zwickau",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 87593
+    },
+    {
+      "id": 91,
+      "name_ar": "راتينغن",
+      "name_en": "Ratingen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 87513
+    },
+    {
+      "id": 92,
+      "name_ar": "لونن",
+      "name_en": "Lunen",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 87266
+    },
+    {
+      "id": 93,
+      "name_ar": "كونستانس",
+      "name_en": "Konstanz",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 85770
+    },
+    {
+      "id": 94,
+      "name_ar": "السجل الدولي للأنواع البحرية",
+      "name_en": "Worms",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 85609
+    },
+    {
+      "id": 95,
+      "name_ar": "طين جيري",
+      "name_en": "Marl",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 85001
+    },
+    {
+      "id": 96,
+      "name_ar": "نوردرشتيت",
+      "name_en": "Norderstedt",
+      "country_ar": "ألمانيا",
+      "country_en": "Germany",
+      "population": 82719
+    }
+  ],
+  "meta": {
+    "title": "مدن ألمانيا — Cities of Germany (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن ألمانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in Germany with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 96 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ألمانيا — Cities of Germany (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن ألمانيا — Cities of Germany (Arabic names) — 96 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 96 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

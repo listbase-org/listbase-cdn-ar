@@ -1,0 +1,2896 @@
+{
+  "id": "ar-hail-mudun",
+  "name": "مدن منطقة حائل (Cities of Hail)",
+  "title": "مدن منطقة حائل (Cities of Hail)",
+  "description": "قائمة مدن منطقة حائل (Hail) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Hail administrative region of Saudi Arabia (region_id=4). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 283,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 10,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "حائل",
+      "name_en": "Hail",
+      "slug": "hail"
+    },
+    {
+      "city_id": 1205,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الخريمي",
+      "name_en": "Al Khuraymi",
+      "slug": "al-khuraymi"
+    },
+    {
+      "city_id": 1206,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع الدوية",
+      "name_en": "Mazari Ad Dawayyah",
+      "slug": "mazari-ad-dawayyah"
+    },
+    {
+      "city_id": 1207,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القرفاء",
+      "name_en": "Al Qarfa",
+      "slug": "al-qarfa"
+    },
+    {
+      "city_id": 1208,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجرعاء",
+      "name_en": "Al Jara",
+      "slug": "al-jara"
+    },
+    {
+      "city_id": 1209,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الروق",
+      "name_en": "Ar Ruwaq",
+      "slug": "ar-ruwaq"
+    },
+    {
+      "city_id": 1210,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السليل",
+      "name_en": "As Silayyil",
+      "slug": "as-silayyil"
+    },
+    {
+      "city_id": 1211,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سبيعة",
+      "name_en": "Sibiah",
+      "slug": "sibiah"
+    },
+    {
+      "city_id": 1212,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الرشاوية",
+      "name_en": "Ar Rishawiyah",
+      "slug": "ar-rishawiyah-1212"
+    },
+    {
+      "city_id": 1213,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الميركة",
+      "name_en": "Al Mirakah",
+      "slug": "al-mirakah"
+    },
+    {
+      "city_id": 1214,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشلالة",
+      "name_en": "Ash Shallalah",
+      "slug": "ash-shallalah"
+    },
+    {
+      "city_id": 1215,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أم العماير",
+      "name_en": "Umm Al Amayir",
+      "slug": "umm-al-amayir"
+    },
+    {
+      "city_id": 1216,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع تخاييل",
+      "name_en": "Mazari Takhayil",
+      "slug": "mazari-takhayil"
+    },
+    {
+      "city_id": 1217,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع إبضة",
+      "name_en": "Badai Ibdah",
+      "slug": "badai-ibdah"
+    },
+    {
+      "city_id": 1218,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحورا",
+      "name_en": "Al Hawra",
+      "slug": "al-hawra"
+    },
+    {
+      "city_id": 1219,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع علقة",
+      "name_en": "Badai Ilqih",
+      "slug": "badai-ilqih"
+    },
+    {
+      "city_id": 1220,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "إبضة",
+      "name_en": "Ibdah",
+      "slug": "ibdah"
+    },
+    {
+      "city_id": 1221,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ثرال",
+      "name_en": "Thiral",
+      "slug": "thiral"
+    },
+    {
+      "city_id": 1222,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "زيخين",
+      "name_en": "Zikhin",
+      "slug": "zikhin"
+    },
+    {
+      "city_id": 1223,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الخيط",
+      "name_en": "Al Khayt",
+      "slug": "al-khayt"
+    },
+    {
+      "city_id": 1224,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصلبية",
+      "name_en": "As Sulubiyah",
+      "slug": "as-sulubiyah-1224"
+    },
+    {
+      "city_id": 1225,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المعازل",
+      "name_en": "Al Maazil",
+      "slug": "al-maazil"
+    },
+    {
+      "city_id": 1226,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المضابيع",
+      "name_en": "Al Madabi",
+      "slug": "al-madabi"
+    },
+    {
+      "city_id": 1227,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الساقية",
+      "name_en": "As Saqiyah",
+      "slug": "as-saqiyah"
+    },
+    {
+      "city_id": 1228,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشنان",
+      "name_en": "Ash Shinan",
+      "slug": "ash-shinan"
+    },
+    {
+      "city_id": 1229,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العدوة",
+      "name_en": "Al Idwah",
+      "slug": "al-idwah-1229"
+    },
+    {
+      "city_id": 1230,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السعيرة",
+      "name_en": "As Siayyirah",
+      "slug": "as-siayyirah"
+    },
+    {
+      "city_id": 1231,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "رك",
+      "name_en": "Rakk",
+      "slug": "rakk"
+    },
+    {
+      "city_id": 1232,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الفويلق / الرشاوية",
+      "name_en": "Al Fuwaileq / Ar Rishawiyah",
+      "slug": "al-fuwaileq-ar-rishawiyah"
+    },
+    {
+      "city_id": 1233,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الابيتر",
+      "name_en": "Al Ubaitir",
+      "slug": "al-ubaitir"
+    },
+    {
+      "city_id": 1234,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الكهيفية",
+      "name_en": "Al Kihayfiyah",
+      "slug": "al-kihayfiyah"
+    },
+    {
+      "city_id": 1235,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العظيم",
+      "name_en": "Al Udhaim",
+      "slug": "al-udhaim"
+    },
+    {
+      "city_id": 1963,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "فيد",
+      "name_en": "Fayd",
+      "slug": "fayd"
+    },
+    {
+      "city_id": 1964,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "طابة",
+      "name_en": "Tabah",
+      "slug": "tabah"
+    },
+    {
+      "city_id": 1965,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الكهفة",
+      "name_en": "Al Kahafah",
+      "slug": "al-kahafah-1965"
+    },
+    {
+      "city_id": 1966,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقلة بن داني",
+      "name_en": "Uqlat Ibn Dani",
+      "slug": "uqlat-ibn-dani"
+    },
+    {
+      "city_id": 1967,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقلة اللبن",
+      "name_en": "Uqlat Al Laban",
+      "slug": "uqlat-al-laban"
+    },
+    {
+      "city_id": 1968,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصفراء",
+      "name_en": "As Safra",
+      "slug": "as-safra-1968"
+    },
+    {
+      "city_id": 1969,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البير",
+      "name_en": "Al Bir",
+      "slug": "al-bir-1969"
+    },
+    {
+      "city_id": 1970,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقلة ابن كليب",
+      "name_en": "Uqlat Ibn Kulayb",
+      "slug": "uqlat-ibn-kulayb"
+    },
+    {
+      "city_id": 1971,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عريجاء",
+      "name_en": "Uraija",
+      "slug": "uraija"
+    },
+    {
+      "city_id": 1972,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المطرفية",
+      "name_en": "Al Matrafiyah",
+      "slug": "al-matrafiyah"
+    },
+    {
+      "city_id": 1973,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المضيح",
+      "name_en": "Al Mudayyih",
+      "slug": "al-mudayyih"
+    },
+    {
+      "city_id": 1974,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "غمرة",
+      "name_en": "Ghamrah",
+      "slug": "ghamrah-1974"
+    },
+    {
+      "city_id": 1975,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النعي",
+      "name_en": "An Niayy",
+      "slug": "an-niayy"
+    },
+    {
+      "city_id": 1976,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجحفة",
+      "name_en": "Al Juhfah",
+      "slug": "al-juhfah-1976"
+    },
+    {
+      "city_id": 1977,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العش",
+      "name_en": "Al Ishsh",
+      "slug": "al-ishsh"
+    },
+    {
+      "city_id": 1978,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السبعان",
+      "name_en": "As Saban",
+      "slug": "as-saban"
+    },
+    {
+      "city_id": 2275,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "صديان",
+      "name_en": "Sadyan",
+      "slug": "sadyan"
+    },
+    {
+      "city_id": 2276,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوسيطاء",
+      "name_en": "Al Wasayta",
+      "slug": "al-wasayta"
+    },
+    {
+      "city_id": 2277,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البير",
+      "name_en": "Al Bir",
+      "slug": "al-bir-2277"
+    },
+    {
+      "city_id": 2278,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البويطن",
+      "name_en": "Al Buwaytin",
+      "slug": "al-buwaytin-2278"
+    },
+    {
+      "city_id": 2279,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع العش",
+      "name_en": "Badai Al Ishsh",
+      "slug": "badai-al-ishsh"
+    },
+    {
+      "city_id": 2280,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "صحي",
+      "name_en": "Sahayy",
+      "slug": "sahayy"
+    },
+    {
+      "city_id": 2281,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوبيرية",
+      "name_en": "Al Wubayriyah",
+      "slug": "al-wubayriyah"
+    },
+    {
+      "city_id": 2282,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قصيريات",
+      "name_en": "Qusayriyat",
+      "slug": "qusayriyat"
+    },
+    {
+      "city_id": 2283,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سعيدان",
+      "name_en": "Suaydan",
+      "slug": "suaydan"
+    },
+    {
+      "city_id": 2284,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "جفيفاء",
+      "name_en": "Jufayfa",
+      "slug": "jufayfa"
+    },
+    {
+      "city_id": 2285,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الغمياء",
+      "name_en": "Al Ghamya",
+      "slug": "al-ghamya"
+    },
+    {
+      "city_id": 2286,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الفرحانية",
+      "name_en": "Al Farhaniyah",
+      "slug": "al-farhaniyah"
+    },
+    {
+      "city_id": 2287,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المليح",
+      "name_en": "Al Mulayh",
+      "slug": "al-mulayh"
+    },
+    {
+      "city_id": 2288,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "حفيرة الشقيق",
+      "name_en": "Hafirat Ash Shaqayq",
+      "slug": "hafirat-ash-shaqayq"
+    },
+    {
+      "city_id": 2289,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "جرمة",
+      "name_en": "Jurumah",
+      "slug": "jurumah"
+    },
+    {
+      "city_id": 2290,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السفن",
+      "name_en": "As Sufun",
+      "slug": "as-sufun"
+    },
+    {
+      "city_id": 2291,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "منيفة القاعد",
+      "name_en": "Munifat Al Qaid",
+      "slug": "munifat-al-qaid"
+    },
+    {
+      "city_id": 2292,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القاعد",
+      "name_en": "Al Qaid",
+      "slug": "al-qaid"
+    },
+    {
+      "city_id": 2293,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الطوال",
+      "name_en": "At Tuwal",
+      "slug": "at-tuwal-2293"
+    },
+    {
+      "city_id": 2294,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشعفة",
+      "name_en": "Ash Shaafah",
+      "slug": "ash-shaafah"
+    },
+    {
+      "city_id": 2295,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجلف",
+      "name_en": "Al Jilf",
+      "slug": "al-jilf"
+    },
+    {
+      "city_id": 2296,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الهرير",
+      "name_en": "Al Hurayr",
+      "slug": "al-hurayr"
+    },
+    {
+      "city_id": 2297,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "طوية",
+      "name_en": "Tuwayyah",
+      "slug": "tuwayyah"
+    },
+    {
+      "city_id": 2298,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البدع",
+      "name_en": "Al Bid",
+      "slug": "al-bid-2298"
+    },
+    {
+      "city_id": 2299,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجديدة",
+      "name_en": "Al Judayyidah",
+      "slug": "al-judayyidah"
+    },
+    {
+      "city_id": 2300,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الرويع",
+      "name_en": "Ar Ruway",
+      "slug": "ar-ruway"
+    },
+    {
+      "city_id": 2301,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العضدي",
+      "name_en": "Al Iddi",
+      "slug": "al-iddi"
+    },
+    {
+      "city_id": 2302,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المرمى",
+      "name_en": "Al Marma",
+      "slug": "al-marma"
+    },
+    {
+      "city_id": 2303,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المندسة الشرقية",
+      "name_en": "Al Mindassah Ash Sharqiyah",
+      "slug": "al-mindassah-ash-sharqiyah"
+    },
+    {
+      "city_id": 2304,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "التيم",
+      "name_en": "At Tim",
+      "slug": "at-tim"
+    },
+    {
+      "city_id": 2305,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القليبين",
+      "name_en": "Al Qulaybayn",
+      "slug": "al-qulaybayn"
+    },
+    {
+      "city_id": 2306,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "رينبة",
+      "name_en": "Raynibah",
+      "slug": "raynibah"
+    },
+    {
+      "city_id": 2307,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المكظم",
+      "name_en": "Al Mukadhum",
+      "slug": "al-mukadhum"
+    },
+    {
+      "city_id": 2308,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحميراء",
+      "name_en": "Al Humayra",
+      "slug": "al-humayra"
+    },
+    {
+      "city_id": 2309,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الغار",
+      "name_en": "Al Ghar",
+      "slug": "al-ghar"
+    },
+    {
+      "city_id": 2310,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المعيقلات",
+      "name_en": "Al Muayqilat",
+      "slug": "al-muayqilat"
+    },
+    {
+      "city_id": 2311,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المويكر",
+      "name_en": "Al Muwaykir",
+      "slug": "al-muwaykir"
+    },
+    {
+      "city_id": 2312,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المكظم",
+      "name_en": "Al Makdham",
+      "slug": "al-makdham"
+    },
+    {
+      "city_id": 2313,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الدارة",
+      "name_en": "Al Darah",
+      "slug": "al-darah"
+    },
+    {
+      "city_id": 2314,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشبيكة",
+      "name_en": "Ash Shubaykah",
+      "slug": "ash-shubaykah"
+    },
+    {
+      "city_id": 2315,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المبعوثة",
+      "name_en": "Al Mabuthah",
+      "slug": "al-mabuthah"
+    },
+    {
+      "city_id": 2316,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجفر",
+      "name_en": "Al Jafur",
+      "slug": "al-jafur-2316"
+    },
+    {
+      "city_id": 2317,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المعترضة",
+      "name_en": "Al Mutaridah",
+      "slug": "al-mutaridah"
+    },
+    {
+      "city_id": 2318,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "اللقيطه",
+      "name_en": "Al Liqitah",
+      "slug": "al-liqitah"
+    },
+    {
+      "city_id": 2319,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "منشار",
+      "name_en": "Minshar",
+      "slug": "minshar"
+    },
+    {
+      "city_id": 2320,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سهلة بدنة",
+      "name_en": "Sahlat Badanah",
+      "slug": "sahlat-badanah"
+    },
+    {
+      "city_id": 2321,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع مريفق",
+      "name_en": "Badai Murayfiq",
+      "slug": "badai-murayfiq"
+    },
+    {
+      "city_id": 2322,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السليل",
+      "name_en": "As Sulayyil",
+      "slug": "as-sulayyil-2322"
+    },
+    {
+      "city_id": 2323,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصليعاء",
+      "name_en": "As Sulaya",
+      "slug": "as-sulaya"
+    },
+    {
+      "city_id": 2324,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصبيحية",
+      "name_en": "As Subayhiyah",
+      "slug": "as-subayhiyah"
+    },
+    {
+      "city_id": 2325,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الأثلة",
+      "name_en": "Al Athlah",
+      "slug": "al-athlah-2325"
+    },
+    {
+      "city_id": 2326,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "حويان",
+      "name_en": "Huwayyan",
+      "slug": "huwayyan"
+    },
+    {
+      "city_id": 2327,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المبيدع",
+      "name_en": "Al Mubaydi",
+      "slug": "al-mubaydi"
+    },
+    {
+      "city_id": 2328,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المبدع",
+      "name_en": "Al Mabda",
+      "slug": "al-mabda"
+    },
+    {
+      "city_id": 2330,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشملي",
+      "name_en": "Ash Shamli",
+      "slug": "ash-shamli-2330"
+    },
+    {
+      "city_id": 2331,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العمائر",
+      "name_en": "Al Amair",
+      "slug": "al-amair-2331"
+    },
+    {
+      "city_id": 2332,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشملي",
+      "name_en": "Ash Shamli",
+      "slug": "ash-shamli-2332"
+    },
+    {
+      "city_id": 2333,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المسلسل",
+      "name_en": "Al Musalsal",
+      "slug": "al-musalsal"
+    },
+    {
+      "city_id": 2334,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سبطر",
+      "name_en": "Sibutar",
+      "slug": "sibutar"
+    },
+    {
+      "city_id": 2335,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hufayrah",
+      "slug": "al-hufayrah-2335"
+    },
+    {
+      "city_id": 2336,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "غرمول العويد",
+      "name_en": "Ghurmul Al Uwayd",
+      "slug": "ghurmul-al-uwayd"
+    },
+    {
+      "city_id": 2337,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحامرية",
+      "name_en": "Al Hamiriyah",
+      "slug": "al-hamiriyah"
+    },
+    {
+      "city_id": 2338,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الخبة",
+      "name_en": "Al Khabbah",
+      "slug": "al-khabbah"
+    },
+    {
+      "city_id": 2339,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحطي",
+      "name_en": "Al Hati",
+      "slug": "al-hati"
+    },
+    {
+      "city_id": 2340,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصنينا",
+      "name_en": "As Sunayna",
+      "slug": "as-sunayna"
+    },
+    {
+      "city_id": 2341,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "دليهان",
+      "name_en": "Dulayhan",
+      "slug": "dulayhan"
+    },
+    {
+      "city_id": 2342,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشقيق",
+      "name_en": "Ash Shuqayq",
+      "slug": "ash-shuqayq"
+    },
+    {
+      "city_id": 2343,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ابا الحيران",
+      "name_en": "Aba Al Hiran",
+      "slug": "aba-al-hiran"
+    },
+    {
+      "city_id": 2344,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قليب الاطرم",
+      "name_en": "Qalib Al Atram",
+      "slug": "qalib-al-atram"
+    },
+    {
+      "city_id": 2345,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بيضاء نثيل",
+      "name_en": "Bayda Nathil",
+      "slug": "bayda-nathil"
+    },
+    {
+      "city_id": 2346,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قناء",
+      "name_en": "Qina",
+      "slug": "qina"
+    },
+    {
+      "city_id": 2347,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المشيطية",
+      "name_en": "Al Mushaytiyah",
+      "slug": "al-mushaytiyah"
+    },
+    {
+      "city_id": 2348,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "التربية",
+      "name_en": "At Turbiyah",
+      "slug": "at-turbiyah"
+    },
+    {
+      "city_id": 2349,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الخطة",
+      "name_en": "Al Khuttah",
+      "slug": "al-khuttah"
+    },
+    {
+      "city_id": 2350,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "جبه",
+      "name_en": "Jubbah",
+      "slug": "jubbah-2350"
+    },
+    {
+      "city_id": 2351,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "موقق",
+      "name_en": "Mawqaq",
+      "slug": "mawqaq"
+    },
+    {
+      "city_id": 2352,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقلة بن جبرين",
+      "name_en": "Uqlat Bin Jabrin",
+      "slug": "uqlat-bin-jabrin"
+    },
+    {
+      "city_id": 2353,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ام القلبان",
+      "name_en": "Umm Al Qulban",
+      "slug": "umm-al-qulban"
+    },
+    {
+      "city_id": 2354,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع السحل",
+      "name_en": "Mazari As Sihhal",
+      "slug": "mazari-as-sihhal"
+    },
+    {
+      "city_id": 2355,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع الرغلية",
+      "name_en": "Mazari Ar Righliyah",
+      "slug": "mazari-ar-righliyah"
+    },
+    {
+      "city_id": 2356,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الطليحة",
+      "name_en": "At Tulayhah",
+      "slug": "at-tulayhah"
+    },
+    {
+      "city_id": 2357,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع الصفيا",
+      "name_en": "Mazari As Safya",
+      "slug": "mazari-as-safya"
+    },
+    {
+      "city_id": 2358,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البدائع",
+      "name_en": "Al Badai",
+      "slug": "al-badai-2358"
+    },
+    {
+      "city_id": 2359,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الهمجة",
+      "name_en": "Al Hamjah",
+      "slug": "al-hamjah-2359"
+    },
+    {
+      "city_id": 2360,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المهينية",
+      "name_en": "Al Mihayniyah",
+      "slug": "al-mihayniyah"
+    },
+    {
+      "city_id": 2361,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجابرية",
+      "name_en": "Al Jabriyah",
+      "slug": "al-jabriyah-2361"
+    },
+    {
+      "city_id": 2362,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوعيلي",
+      "name_en": "Al Wuayli",
+      "slug": "al-wuayli"
+    },
+    {
+      "city_id": 2363,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع الرخيصية",
+      "name_en": "Mazari Ar Rikhaysiyah",
+      "slug": "mazari-ar-rikhaysiyah"
+    },
+    {
+      "city_id": 2364,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مزارع بيط",
+      "name_en": "Mazari Bayt",
+      "slug": "mazari-bayt"
+    },
+    {
+      "city_id": 2365,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجثياثة",
+      "name_en": "Al Jithyathah",
+      "slug": "al-jithyathah"
+    },
+    {
+      "city_id": 2366,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القصعاء",
+      "name_en": "Al Qasa",
+      "slug": "al-qasa"
+    },
+    {
+      "city_id": 2367,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "اللويبدة",
+      "name_en": "Al Luwaybidah",
+      "slug": "al-luwaybidah"
+    },
+    {
+      "city_id": 2368,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجثامية",
+      "name_en": "Al Jithamiyyah",
+      "slug": "al-jithamiyyah"
+    },
+    {
+      "city_id": 2369,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السويفلة",
+      "name_en": "As Suwayfilah",
+      "slug": "as-suwayfilah"
+    },
+    {
+      "city_id": 2370,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بقعاء",
+      "name_en": "Baqa",
+      "slug": "baqa"
+    },
+    {
+      "city_id": 2371,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الاجفر",
+      "name_en": "Al Ajfar",
+      "slug": "al-ajfar"
+    },
+    {
+      "city_id": 2372,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "تربه",
+      "name_en": "Turubah",
+      "slug": "turubah"
+    },
+    {
+      "city_id": 2373,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ضبيعة",
+      "name_en": "Dubayah",
+      "slug": "dubayah-2373"
+    },
+    {
+      "city_id": 2374,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشيحية",
+      "name_en": "Ash Shihiyah",
+      "slug": "ash-shihiyah-2374"
+    },
+    {
+      "city_id": 2375,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشعيبة",
+      "name_en": "Ash Shuaybah",
+      "slug": "ash-shuaybah"
+    },
+    {
+      "city_id": 2376,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بقعاء الشرقية",
+      "name_en": "Baqa Ash Sharqiyah",
+      "slug": "baqa-ash-sharqiyah"
+    },
+    {
+      "city_id": 2377,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الثنيان",
+      "name_en": "Ath Thinayyan",
+      "slug": "ath-thinayyan"
+    },
+    {
+      "city_id": 2378,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الجديدة",
+      "name_en": "Al Jadidah",
+      "slug": "al-jadidah-2378"
+    },
+    {
+      "city_id": 2379,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشعلانية",
+      "name_en": "Ash Shalaniyah",
+      "slug": "ash-shalaniyah"
+    },
+    {
+      "city_id": 2380,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "طلحاء",
+      "name_en": "Talha",
+      "slug": "talha"
+    },
+    {
+      "city_id": 2530,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النقرة",
+      "name_en": "An Nuqrah",
+      "slug": "an-nuqrah-2530"
+    },
+    {
+      "city_id": 2531,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "كمب الضلوع",
+      "name_en": "Kamp Ad Dulu",
+      "slug": "kamp-ad-dulu"
+    },
+    {
+      "city_id": 2532,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحفير",
+      "name_en": "Al Hufayr",
+      "slug": "al-hufayr"
+    },
+    {
+      "city_id": 2533,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الودي",
+      "name_en": "Al Wudayy",
+      "slug": "al-wudayy-2533"
+    },
+    {
+      "city_id": 2534,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قصر العشروات",
+      "name_en": "Qasr Al Ishruwat",
+      "slug": "qasr-al-ishruwat"
+    },
+    {
+      "city_id": 2535,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سراء",
+      "name_en": "Sara",
+      "slug": "sara"
+    },
+    {
+      "city_id": 2536,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "فيضة بن سويلم",
+      "name_en": "Faydat Ibn Suwaylim",
+      "slug": "faydat-ibn-suwaylim"
+    },
+    {
+      "city_id": 2537,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النيصية",
+      "name_en": "An Nisiyah",
+      "slug": "an-nisiyah"
+    },
+    {
+      "city_id": 2538,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مريفق",
+      "name_en": "Murayfiq",
+      "slug": "murayfiq"
+    },
+    {
+      "city_id": 2539,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قفار",
+      "name_en": "Qufar",
+      "slug": "qufar"
+    },
+    {
+      "city_id": 2540,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "توارين",
+      "name_en": "Tuwarin",
+      "slug": "tuwarin"
+    },
+    {
+      "city_id": 2541,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقدة",
+      "name_en": "Iqdah",
+      "slug": "iqdah"
+    },
+    {
+      "city_id": 2542,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المحفر",
+      "name_en": "Al Muhaffar",
+      "slug": "al-muhaffar"
+    },
+    {
+      "city_id": 2543,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المختلف",
+      "name_en": "Al Mukhtalif",
+      "slug": "al-mukhtalif"
+    },
+    {
+      "city_id": 2544,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصهوة",
+      "name_en": "As Sahwah",
+      "slug": "as-sahwah-2544"
+    },
+    {
+      "city_id": 2545,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "اللويمي",
+      "name_en": "Al Luwaymi",
+      "slug": "al-luwaymi"
+    },
+    {
+      "city_id": 2546,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المستجدة",
+      "name_en": "Al Mustajiddah",
+      "slug": "al-mustajiddah-2546"
+    },
+    {
+      "city_id": 2547,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العجاجة",
+      "name_en": "Al Ajajah",
+      "slug": "al-ajajah"
+    },
+    {
+      "city_id": 2548,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الرقب",
+      "name_en": "Ar Raqab",
+      "slug": "ar-raqab"
+    },
+    {
+      "city_id": 2549,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النمارة",
+      "name_en": "An Nimarah",
+      "slug": "an-nimarah"
+    },
+    {
+      "city_id": 2550,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العيثمة",
+      "name_en": "Al Aythamah",
+      "slug": "al-aythamah"
+    },
+    {
+      "city_id": 2551,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "لبدة",
+      "name_en": "Libdah",
+      "slug": "libdah"
+    },
+    {
+      "city_id": 2552,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ضرغط",
+      "name_en": "Darghat",
+      "slug": "darghat"
+    },
+    {
+      "city_id": 2553,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ضريغط",
+      "name_en": "Duraighat",
+      "slug": "duraighat"
+    },
+    {
+      "city_id": 2554,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحميمة",
+      "name_en": "Al Humaimah",
+      "slug": "al-humaimah"
+    },
+    {
+      "city_id": 2555,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع اول",
+      "name_en": "Badai Awl",
+      "slug": "badai-awl"
+    },
+    {
+      "city_id": 2556,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الثمامية",
+      "name_en": "Ath Thimamiyah",
+      "slug": "ath-thimamiyah"
+    },
+    {
+      "city_id": 2557,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحليفة العليا",
+      "name_en": "Al Hulayfah Al Ulya",
+      "slug": "al-hulayfah-al-ulya"
+    },
+    {
+      "city_id": 2558,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مرحب الشمالي",
+      "name_en": "Marhab Ash Shamali",
+      "slug": "marhab-ash-shamali"
+    },
+    {
+      "city_id": 2559,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العرادية",
+      "name_en": "Al Aradiyah",
+      "slug": "al-aradiyah"
+    },
+    {
+      "city_id": 2560,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "فيضة اثقب",
+      "name_en": "Faydat Athqab",
+      "slug": "faydat-athqab"
+    },
+    {
+      "city_id": 2561,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "روض ابن هادي",
+      "name_en": "Rawd Ibn Hadi",
+      "slug": "rawd-ibn-hadi"
+    },
+    {
+      "city_id": 2562,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوسعة",
+      "name_en": "Al Wasah",
+      "slug": "al-wasah"
+    },
+    {
+      "city_id": 2563,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشويمس",
+      "name_en": "Ash Shiwaymis",
+      "slug": "ash-shiwaymis"
+    },
+    {
+      "city_id": 2564,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البرقة",
+      "name_en": "Al Barqah",
+      "slug": "al-barqah"
+    },
+    {
+      "city_id": 2565,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الدابية",
+      "name_en": "Ad Dabiyah",
+      "slug": "ad-dabiyah"
+    },
+    {
+      "city_id": 2566,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحويط",
+      "name_en": "Al Huwayyit",
+      "slug": "al-huwayyit"
+    },
+    {
+      "city_id": 2567,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-2567"
+    },
+    {
+      "city_id": 2568,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عمائر المرير",
+      "name_en": "Amair Al Murayr",
+      "slug": "amair-al-murayr"
+    },
+    {
+      "city_id": 2569,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدع ابن خلف",
+      "name_en": "Bid Ibn Khalaf",
+      "slug": "bid-ibn-khalaf"
+    },
+    {
+      "city_id": 2570,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المرير",
+      "name_en": "Al Murayr",
+      "slug": "al-murayr-2570"
+    },
+    {
+      "city_id": 2571,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ام روشن",
+      "name_en": "Umm Rawshan",
+      "slug": "umm-rawshan"
+    },
+    {
+      "city_id": 2572,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "صفيط",
+      "name_en": "Sufayt",
+      "slug": "sufayt"
+    },
+    {
+      "city_id": 2573,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النحيتية",
+      "name_en": "An Nuhaytiyah",
+      "slug": "an-nuhaytiyah"
+    },
+    {
+      "city_id": 2574,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مبرز",
+      "name_en": "Mibarriz",
+      "slug": "mibarriz"
+    },
+    {
+      "city_id": 2575,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المعرش",
+      "name_en": "Al Maarrash",
+      "slug": "al-maarrash"
+    },
+    {
+      "city_id": 2576,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العوشزية",
+      "name_en": "Al Awshaziyah",
+      "slug": "al-awshaziyah-2576"
+    },
+    {
+      "city_id": 2577,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "وسيطاء الحفن",
+      "name_en": "Wusayta Al Hafan",
+      "slug": "wusayta-al-hafan"
+    },
+    {
+      "city_id": 2578,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البعايث",
+      "name_en": "Al Baayith",
+      "slug": "al-baayith"
+    },
+    {
+      "city_id": 2579,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الزغيبية",
+      "name_en": "Az Zughaibiyah",
+      "slug": "az-zughaibiyah"
+    },
+    {
+      "city_id": 2592,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع الصفران",
+      "name_en": "Badai As Sufran",
+      "slug": "badai-as-sufran"
+    },
+    {
+      "city_id": 2593,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "حمر القعساء",
+      "name_en": "Humr Al Qaasa",
+      "slug": "humr-al-qaasa"
+    },
+    {
+      "city_id": 2594,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "حريد",
+      "name_en": "Hurayd",
+      "slug": "hurayd"
+    },
+    {
+      "city_id": 2595,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الديماسة",
+      "name_en": "Ad Dimasah",
+      "slug": "ad-dimasah"
+    },
+    {
+      "city_id": 2596,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القعساء",
+      "name_en": "Al Qaasa",
+      "slug": "al-qaasa"
+    },
+    {
+      "city_id": 2597,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "وتدة",
+      "name_en": "Wutidah",
+      "slug": "wutidah"
+    },
+    {
+      "city_id": 2598,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقيلة اللبن",
+      "name_en": "Uqaylat Al Laban",
+      "slug": "uqaylat-al-laban"
+    },
+    {
+      "city_id": 2599,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البلازية",
+      "name_en": "Al Ballaziyah",
+      "slug": "al-ballaziyah"
+    },
+    {
+      "city_id": 2600,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "خنقة الرماحي",
+      "name_en": "Khanqat Ar Rimahi",
+      "slug": "khanqat-ar-rimahi"
+    },
+    {
+      "city_id": 2601,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "غسل",
+      "name_en": "Ghisil",
+      "slug": "ghisil"
+    },
+    {
+      "city_id": 2602,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سميراء",
+      "name_en": "Simira",
+      "slug": "simira"
+    },
+    {
+      "city_id": 2603,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الرفايع",
+      "name_en": "Ar Rufayi",
+      "slug": "ar-rufayi-2603"
+    },
+    {
+      "city_id": 2604,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قصير متروك",
+      "name_en": "Qusayr Matruk",
+      "slug": "qusayr-matruk"
+    },
+    {
+      "city_id": 2605,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "كتيفة",
+      "name_en": "Kutaifah",
+      "slug": "kutaifah"
+    },
+    {
+      "city_id": 2606,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "وسيط",
+      "name_en": "Wusayt",
+      "slug": "wusayt"
+    },
+    {
+      "city_id": 2672,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القصير",
+      "name_en": "Al Qusayr",
+      "slug": "al-qusayr"
+    },
+    {
+      "city_id": 2673,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المهاش",
+      "name_en": "Al Mahash",
+      "slug": "al-mahash"
+    },
+    {
+      "city_id": 2674,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القاعية",
+      "name_en": "Al Qaiyah",
+      "slug": "al-qaiyah-2674"
+    },
+    {
+      "city_id": 2675,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع قني",
+      "name_en": "Badai Qunay",
+      "slug": "badai-qunay"
+    },
+    {
+      "city_id": 2676,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مغيضة",
+      "name_en": "Mughaydah",
+      "slug": "mughaydah"
+    },
+    {
+      "city_id": 2677,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بطيحان",
+      "name_en": "Butayhan",
+      "slug": "butayhan"
+    },
+    {
+      "city_id": 2678,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القحصية",
+      "name_en": "Al Qahsiyah",
+      "slug": "al-qahsiyah"
+    },
+    {
+      "city_id": 2679,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الدوادمي",
+      "name_en": "Ad Duwadimi",
+      "slug": "ad-duwadimi-2679"
+    },
+    {
+      "city_id": 2680,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البنانة",
+      "name_en": "Al Bananah",
+      "slug": "al-bananah"
+    },
+    {
+      "city_id": 2681,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الركية",
+      "name_en": "Ar Rukayyah",
+      "slug": "ar-rukayyah-2681"
+    },
+    {
+      "city_id": 2682,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مرموثة العلم",
+      "name_en": "Marmuthat Al Alam",
+      "slug": "marmuthat-al-alam"
+    },
+    {
+      "city_id": 2683,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "نخلة",
+      "name_en": "Nakhlah",
+      "slug": "nakhlah"
+    },
+    {
+      "city_id": 2684,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النميرة",
+      "name_en": "An Numayyirah",
+      "slug": "an-numayyirah"
+    },
+    {
+      "city_id": 2685,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قصيباء",
+      "name_en": "Qusayba",
+      "slug": "qusayba-2685"
+    },
+    {
+      "city_id": 2686,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ملحاء",
+      "name_en": "Malha",
+      "slug": "malha"
+    },
+    {
+      "city_id": 2687,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الطرفاوي",
+      "name_en": "At Tarfawi",
+      "slug": "at-tarfawi-2687"
+    },
+    {
+      "city_id": 2688,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشقة",
+      "name_en": "Ash Shiqqah",
+      "slug": "ash-shiqqah"
+    },
+    {
+      "city_id": 2689,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشعيلاء",
+      "name_en": "Ash Shuayla",
+      "slug": "ash-shuayla"
+    },
+    {
+      "city_id": 2690,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع الفقي",
+      "name_en": "Bdai Al Fuqayy",
+      "slug": "bdai-al-fuqayy"
+    },
+    {
+      "city_id": 2691,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أم هشيم",
+      "name_en": "Umm Hashim",
+      "slug": "umm-hashim"
+    },
+    {
+      "city_id": 2692,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "خفيج أم هشيم",
+      "name_en": "Khufayj Umm Hashim",
+      "slug": "khufayj-umm-hashim"
+    },
+    {
+      "city_id": 2693,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الباحة",
+      "name_en": "Al Bahah",
+      "slug": "al-bahah"
+    },
+    {
+      "city_id": 2694,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العمائر",
+      "name_en": "Al Amair",
+      "slug": "al-amair-2694"
+    },
+    {
+      "city_id": 2695,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصور",
+      "name_en": "As Sur",
+      "slug": "as-sur-2695"
+    },
+    {
+      "city_id": 2696,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قرية عشيرة",
+      "name_en": "Qaryat Ishayrah",
+      "slug": "qaryat-ishayrah"
+    },
+    {
+      "city_id": 2697,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "عقلة المخروق",
+      "name_en": "Uqlat Al Makhruq",
+      "slug": "uqlat-al-makhruq"
+    },
+    {
+      "city_id": 2698,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أم هشيم",
+      "name_en": "Umm Hshim",
+      "slug": "umm-hshim"
+    },
+    {
+      "city_id": 2699,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مصدة",
+      "name_en": "Masadah",
+      "slug": "masadah-2699"
+    },
+    {
+      "city_id": 2700,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أبلة",
+      "name_en": "Ablah",
+      "slug": "ablah-2700"
+    },
+    {
+      "city_id": 2701,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القصيلة",
+      "name_en": "Al Qusailah",
+      "slug": "al-qusailah"
+    },
+    {
+      "city_id": 2702,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "السليمي",
+      "name_en": "As Sulaymi",
+      "slug": "as-sulaymi-2702"
+    },
+    {
+      "city_id": 2703,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحماد",
+      "name_en": "Al Hamad",
+      "slug": "al-hamad-2703"
+    },
+    {
+      "city_id": 2704,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوهيبيات",
+      "name_en": "Al Wuhaybiyat",
+      "slug": "al-wuhaybiyat"
+    },
+    {
+      "city_id": 2705,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أرينبة",
+      "name_en": "Uraynibah",
+      "slug": "uraynibah"
+    },
+    {
+      "city_id": 2706,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "فرتاج",
+      "name_en": "Firtaj",
+      "slug": "firtaj"
+    },
+    {
+      "city_id": 2707,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشبرية الصفراء",
+      "name_en": "Ash Shibriyah As Safra",
+      "slug": "ash-shibriyah-as-safra"
+    },
+    {
+      "city_id": 2708,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الشبرية الحمراء",
+      "name_en": "Ash Shibriyah Al Hamra",
+      "slug": "ash-shibriyah-al-hamra"
+    },
+    {
+      "city_id": 2709,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الوسيطي",
+      "name_en": "Al Wusayti",
+      "slug": "al-wusayti"
+    },
+    {
+      "city_id": 2710,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الصخنة",
+      "name_en": "As Sikhinah",
+      "slug": "as-sikhinah"
+    },
+    {
+      "city_id": 2711,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "أفيعية",
+      "name_en": "Afayiyah",
+      "slug": "afayiyah"
+    },
+    {
+      "city_id": 2712,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الهمجة",
+      "name_en": "Al Hamjah",
+      "slug": "al-hamjah-2712"
+    },
+    {
+      "city_id": 2713,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المعاذب",
+      "name_en": "Al Maadhib",
+      "slug": "al-maadhib"
+    },
+    {
+      "city_id": 2714,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الهدية",
+      "name_en": "Al Hudayyah",
+      "slug": "al-hudayyah-2714"
+    },
+    {
+      "city_id": 2715,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الغزالة",
+      "name_en": "Al Ghazalah",
+      "slug": "al-ghazalah"
+    },
+    {
+      "city_id": 2716,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الغريسة",
+      "name_en": "Al Gharisah",
+      "slug": "al-gharisah"
+    },
+    {
+      "city_id": 2717,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المجيصة",
+      "name_en": "Al Mijayssah",
+      "slug": "al-mijayssah"
+    },
+    {
+      "city_id": 2718,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "البركة",
+      "name_en": "Al Birkah",
+      "slug": "al-birkah-2718"
+    },
+    {
+      "city_id": 2719,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "طلوح",
+      "name_en": "Tuluh",
+      "slug": "tuluh"
+    },
+    {
+      "city_id": 2720,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحليفة السفلى",
+      "name_en": "Al Hulayfah As Suflah",
+      "slug": "al-hulayfah-as-suflah"
+    },
+    {
+      "city_id": 2721,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الحائط",
+      "name_en": "Al Hait",
+      "slug": "al-hait-2721"
+    },
+    {
+      "city_id": 2722,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-2722"
+    },
+    {
+      "city_id": 2723,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "قاع حجلا",
+      "name_en": "Qa Hajla",
+      "slug": "qa-hajla"
+    },
+    {
+      "city_id": 2724,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الخفج",
+      "name_en": "Al Khufj",
+      "slug": "al-khufj"
+    },
+    {
+      "city_id": 2725,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الفقي",
+      "name_en": "Al Fuqay",
+      "slug": "al-fuqay"
+    },
+    {
+      "city_id": 2726,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "النبوان",
+      "name_en": "An Nabuwan",
+      "slug": "an-nabuwan-2726"
+    },
+    {
+      "city_id": 2727,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العقلة",
+      "name_en": "Al Uqlah",
+      "slug": "al-uqlah-2727"
+    },
+    {
+      "city_id": 2728,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "العوشري",
+      "name_en": "Al Awshari",
+      "slug": "al-awshari"
+    },
+    {
+      "city_id": 2729,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "مرغان",
+      "name_en": "Maraghan",
+      "slug": "maraghan-2729"
+    },
+    {
+      "city_id": 2730,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "الهويدي",
+      "name_en": "Al Huwaidi",
+      "slug": "al-huwaidi"
+    },
+    {
+      "city_id": 2731,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "القصيصة",
+      "name_en": "Al Qusaysah",
+      "slug": "al-qusaysah"
+    },
+    {
+      "city_id": 2732,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "المسجد",
+      "name_en": "Al Masjid",
+      "slug": "al-masjid-2732"
+    },
+    {
+      "city_id": 2733,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "سقف",
+      "name_en": "Saqf",
+      "slug": "saqf"
+    },
+    {
+      "city_id": 2734,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدع ابن حويط",
+      "name_en": "Bid Bin Huwayyit",
+      "slug": "bid-bin-huwayyit"
+    },
+    {
+      "city_id": 2735,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "بدائع الصداعية",
+      "name_en": "Badai As Sudaiyah",
+      "slug": "badai-as-sudaiyah"
+    },
+    {
+      "city_id": 2736,
+      "region_id": 4,
+      "region_ar": "حائل",
+      "region_en": "Hail",
+      "region_slug": "hail",
+      "name_ar": "ريع البكر",
+      "name_en": "Ri Al Bakr",
+      "slug": "ri-al-bakr"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة حائل (Cities of Hail) - تحميل مجاني",
+    "description": "قائمة مدن منطقة حائل (Hail) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Hail administrative region of Saudi Arabia (region_id=4). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 283 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة حائل (Cities of Hail) | ListBase",
+    "seo_description": "تحميل مدن منطقة حائل (Cities of Hail) — 283 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 283 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

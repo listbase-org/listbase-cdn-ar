@@ -1,0 +1,137 @@
+{
+  "id": "ar-sa-maktabat",
+  "name": "المكتبات في المملكة العربية السعودية (Libraries of Saudi Arabia)",
+  "title": "المكتبات في المملكة العربية السعودية (Libraries of Saudi Arabia)",
+  "description": "قائمة مكتبة في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q7075) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of librarys in Saudi Arabia from Wikidata.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12244788",
+      "name_ar": "مكتبة المسجد النبوي",
+      "name_en": "Maktabat al-Masjid al-Nabawī al-Sharīf",
+      "admin_area_ar": "المدينة المنورة",
+      "admin_area_en": "Medina",
+      "latitude": 24.468835,
+      "longitude": 39.609242,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12244788"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12244806",
+      "name_ar": "مكتبة عارف حكمت",
+      "name_en": "Maktabat ʻĀrif Ḥikmat",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.467253777,
+      "longitude": 39.611469041,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12244806"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q127034853",
+      "name_ar": "متحف دار الفنون الإسلامية",
+      "name_en": "House of Islamic Arts Museum",
+      "admin_area_ar": "محافظة مكاو",
+      "admin_area_en": "Jeddah Governorate",
+      "latitude": 21.5564136,
+      "longitude": 39.1845518,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127034853"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q16128460",
+      "name_ar": "مكتبة الإمام ابن القيم العامة",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.602074702,
+      "longitude": 46.673706456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16128460"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q28936504",
+      "name_ar": "مكتبة مكة المكرمة",
+      "name_en": "Maktabat Makkah al-Mukarramah",
+      "admin_area_ar": "مكة المكرمة",
+      "admin_area_en": "Mecca",
+      "latitude": 21.424916666,
+      "longitude": 39.829888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28936504"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q54641785",
+      "name_ar": "مكتبة الملك سعود",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.361418,
+      "longitude": 43.944534,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54641785"
+    }
+  ],
+  "meta": {
+    "title": "المكتبات في المملكة العربية السعودية (Libraries of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة مكتبة في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q7075) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة حسب معرّف الكيان. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا (rdfs:label@ar) ولها إحداثيات (P625). List of librarys in Saudi Arabia from Wikidata. يحتوي على 6 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "المكتبات في المملكة العربية السعودية (Libraries of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل المكتبات في المملكة العربية السعودية (Libraries of Saudi Arabia) — 6 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 6 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

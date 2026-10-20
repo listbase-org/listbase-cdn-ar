@@ -1,0 +1,336 @@
+{
+  "id": "ar-mudun-nicaragua",
+  "name": "مدن نيكاراجوا — Cities of Nicaragua (Arabic names)",
+  "title": "مدن نيكاراجوا — Cities of Nicaragua (Arabic names)",
+  "description": "قائمة بأسماء مدن نيكاراجوا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Nicaragua with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "ماناغوا",
+      "name_en": "Managua",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 1051236
+    },
+    {
+      "id": 2,
+      "name_ar": "ليون",
+      "name_en": "Leon",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 176171
+    },
+    {
+      "id": 3,
+      "name_ar": "ماسايا",
+      "name_en": "Masaya",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 139582
+    },
+    {
+      "id": 4,
+      "name_ar": "إدارة ماتاغالبا",
+      "name_en": "Matagalpa",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 133416
+    },
+    {
+      "id": 5,
+      "name_ar": "تشينانديغا",
+      "name_en": "Chinandega",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 121793
+    },
+    {
+      "id": 6,
+      "name_ar": "إدارة إستيلي",
+      "name_en": "Esteli",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 112084
+    },
+    {
+      "id": 7,
+      "name_ar": "غرناطة",
+      "name_en": "Granada",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 105862
+    },
+    {
+      "id": 8,
+      "name_ar": "جينوتيغا",
+      "name_en": "Jinotega",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 99382
+    },
+    {
+      "id": 9,
+      "name_ar": "بويرتو كابيزاس",
+      "name_en": "Bilwi",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 86279
+    },
+    {
+      "id": 10,
+      "name_ar": "ميغل لوبيز دي ليغازبي",
+      "name_en": "El Viejo",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 76775
+    },
+    {
+      "id": 11,
+      "name_ar": "غينيا الجديدة",
+      "name_en": "Nueva Guinea",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 66936
+    },
+    {
+      "id": 12,
+      "name_ar": "ولولي دي خينوتيغا",
+      "name_en": "Wiwili de Jinotega",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 57485
+    },
+    {
+      "id": 13,
+      "name_ar": "ولولي دي خينوتيغا",
+      "name_en": "Wiwili",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 57485
+    },
+    {
+      "id": 14,
+      "name_ar": "بلوفيلدز، نيكاراغوا",
+      "name_en": "Bluefields",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 56421
+    },
+    {
+      "id": 15,
+      "name_ar": "جالابا",
+      "name_en": "Jalapa",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 54491
+    },
+    {
+      "id": 16,
+      "name_ar": "غويغالبا",
+      "name_en": "Juigalpa",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 53798
+    },
+    {
+      "id": 17,
+      "name_ar": "إدارة بواكو",
+      "name_en": "Boaco",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 49839
+    },
+    {
+      "id": 18,
+      "name_ar": "أكوتال",
+      "name_en": "Ocotal",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 48765
+    },
+    {
+      "id": 19,
+      "name_ar": "إل كوا",
+      "name_en": "El Cua",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 43305
+    },
+    {
+      "id": 20,
+      "name_ar": "خينوتبي",
+      "name_en": "Jinotepe",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 42109
+    },
+    {
+      "id": 21,
+      "name_ar": "سان خوسيه دي بوكاي",
+      "name_en": "San Jose de Bocay",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 42029
+    },
+    {
+      "id": 22,
+      "name_ar": "ريفاس",
+      "name_en": "Rivas",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 41080
+    },
+    {
+      "id": 23,
+      "name_ar": "سان كارلوس، الفلبين",
+      "name_en": "San Carlos",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 37461
+    },
+    {
+      "id": 24,
+      "name_ar": "سوموتو، نيكاراغوا",
+      "name_en": "Somoto",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 33788
+    },
+    {
+      "id": 25,
+      "name_ar": "سان رامون",
+      "name_en": "San Ramon",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 30682
+    },
+    {
+      "id": 26,
+      "name_ar": "تكساس يو اس اس",
+      "name_en": "San Marcos",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 29019
+    },
+    {
+      "id": 27,
+      "name_ar": "سان سيباستيان دي يالي",
+      "name_en": "San Sebastian de Yali",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 26979
+    },
+    {
+      "id": 28,
+      "name_ar": "فيلانويفا",
+      "name_en": "Villanueva",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 25660
+    },
+    {
+      "id": 29,
+      "name_ar": "روزيتا",
+      "name_en": "Rosita",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 22723
+    },
+    {
+      "id": 30,
+      "name_ar": "بويبلو نويبو",
+      "name_en": "Pueblo Nuevo",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 20620
+    },
+    {
+      "id": 31,
+      "name_ar": "بونانزا",
+      "name_en": "Bonanza",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 18633
+    },
+    {
+      "id": 32,
+      "name_ar": "سان رافاييل ديل نورتي",
+      "name_en": "San Rafael del Norte",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 17789
+    },
+    {
+      "id": 33,
+      "name_ar": "بلان",
+      "name_en": "Belen",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 16428
+    },
+    {
+      "id": 34,
+      "name_ar": "موراي",
+      "name_en": "Murra",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 14487
+    },
+    {
+      "id": 35,
+      "name_ar": "إل ألميندرو",
+      "name_en": "El Almendro",
+      "country_ar": "نيكاراجوا",
+      "country_en": "Nicaragua",
+      "population": 13363
+    }
+  ],
+  "meta": {
+    "title": "مدن نيكاراجوا — Cities of Nicaragua (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن نيكاراجوا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 35 cities in Nicaragua with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 35 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن نيكاراجوا — Cities of Nicaragua (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن نيكاراجوا — Cities of Nicaragua (Arabic names) — 35 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 35 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

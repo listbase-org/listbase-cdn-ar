@@ -1,0 +1,440 @@
+{
+  "id": "ar-mudun-nigeria",
+  "name": "مدن نيجيريا — Cities of Nigeria (Arabic names)",
+  "title": "مدن نيجيريا — Cities of Nigeria (Arabic names)",
+  "description": "قائمة بأسماء مدن نيجيريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 48 cities in Nigeria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "لاغوس",
+      "name_en": "Lagos",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 16637000
+    },
+    {
+      "id": 2,
+      "name_ar": "كانو",
+      "name_en": "Kano",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 4224966
+    },
+    {
+      "id": 3,
+      "name_ar": "أبوجا",
+      "name_en": "Abuja",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 3770000
+    },
+    {
+      "id": 4,
+      "name_ar": "إبادان",
+      "name_en": "Ibadan",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 3552000
+    },
+    {
+      "id": 5,
+      "name_ar": "اوكا",
+      "name_en": "Awka",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 2171900
+    },
+    {
+      "id": 6,
+      "name_ar": "بورت هاركورت",
+      "name_en": "Port Harcourt",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1865000
+    },
+    {
+      "id": 7,
+      "name_ar": "بنين",
+      "name_en": "Benin City",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1780000
+    },
+    {
+      "id": 8,
+      "name_ar": "اونيتشا",
+      "name_en": "Onitsha",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1483000
+    },
+    {
+      "id": 9,
+      "name_ar": "ميدغري",
+      "name_en": "Maiduguri",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1197497
+    },
+    {
+      "id": 10,
+      "name_ar": "ساغامو",
+      "name_en": "Shagamu",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1132270
+    },
+    {
+      "id": 11,
+      "name_ar": "Ogbomoso North/ ogbomoso South/Orire",
+      "name_en": "Ogbomoso",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1032000
+    },
+    {
+      "id": 12,
+      "name_ar": "إنوغو",
+      "name_en": "Enugu",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 1029400
+    },
+    {
+      "id": 13,
+      "name_ar": "أويري",
+      "name_en": "Owerri",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 908109
+    },
+    {
+      "id": 14,
+      "name_ar": "أبيوكوتا",
+      "name_en": "Abeokuta",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 888924
+    },
+    {
+      "id": 15,
+      "name_ar": "اكوري",
+      "name_en": "Akure",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 847903
+    },
+    {
+      "id": 16,
+      "name_ar": "إلورين",
+      "name_en": "Ilorin",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 847582
+    },
+    {
+      "id": 17,
+      "name_ar": "كادونا",
+      "name_en": "Kaduna",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 760084
+    },
+    {
+      "id": 18,
+      "name_ar": "أوسوغبو",
+      "name_en": "Osogbo",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 731000
+    },
+    {
+      "id": 19,
+      "name_ar": "ولاية باوتشي",
+      "name_en": "Bauchi",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 693700
+    },
+    {
+      "id": 20,
+      "name_ar": "ولاية ترابة",
+      "name_en": "Jalingo",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 660213
+    },
+    {
+      "id": 21,
+      "name_ar": "يوس",
+      "name_en": "Jos",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 622802
+    },
+    {
+      "id": 22,
+      "name_ar": "أويو",
+      "name_en": "Uyo",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 554906
+    },
+    {
+      "id": 23,
+      "name_ar": "ايفي",
+      "name_en": "Ile-Ife",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 501952
+    },
+    {
+      "id": 24,
+      "name_ar": "أسابا",
+      "name_en": "Asaba",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 500000
+    },
+    {
+      "id": 25,
+      "name_ar": "آدو إكيتي",
+      "name_en": "Ado-Ekiti",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 446749
+    },
+    {
+      "id": 26,
+      "name_ar": "خلافة صكتو",
+      "name_en": "Sokoto",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 427760
+    },
+    {
+      "id": 27,
+      "name_ar": "الاتحاد العام لطلبة فلسطين",
+      "name_en": "Ugep",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 420000
+    },
+    {
+      "id": 28,
+      "name_ar": "إيجيبو أودي",
+      "name_en": "Ijebu-Ode",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 394246
+    },
+    {
+      "id": 29,
+      "name_ar": "شكي",
+      "name_en": "Saki",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 388225
+    },
+    {
+      "id": 30,
+      "name_ar": "أويو رومز",
+      "name_en": "Oyo",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 386723
+    },
+    {
+      "id": 31,
+      "name_ar": "واري",
+      "name_en": "Warri",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 363382
+    },
+    {
+      "id": 32,
+      "name_ar": "أومواهيا",
+      "name_en": "Umuahia",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 359230
+    },
+    {
+      "id": 33,
+      "name_ar": "ولاية أوندو",
+      "name_en": "Ondo",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 358430
+    },
+    {
+      "id": 34,
+      "name_ar": "لافيا",
+      "name_en": "Lafia",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 330712
+    },
+    {
+      "id": 35,
+      "name_ar": "مينا",
+      "name_en": "Minna",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 322163
+    },
+    {
+      "id": 36,
+      "name_ar": "نغورو",
+      "name_en": "Nguru",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 270632
+    },
+    {
+      "id": 37,
+      "name_ar": "إسيين",
+      "name_en": "Iseyin",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 236000
+    },
+    {
+      "id": 38,
+      "name_ar": "جزيرة فيكتوريا",
+      "name_en": "Apapa",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 217362
+    },
+    {
+      "id": 39,
+      "name_ar": "كالابار",
+      "name_en": "Calabar",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 179392
+    },
+    {
+      "id": 40,
+      "name_ar": "جامعة بار إيلان",
+      "name_en": "Biu",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 176072
+    },
+    {
+      "id": 41,
+      "name_ar": "آدا",
+      "name_en": "Ada",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 174152
+    },
+    {
+      "id": 42,
+      "name_ar": "ماكوردي",
+      "name_en": "Makurdi",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 170925
+    },
+    {
+      "id": 43,
+      "name_ar": "إنسان",
+      "name_en": "Kisi",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 155510
+    },
+    {
+      "id": 44,
+      "name_ar": "جبل",
+      "name_en": "Dutse",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 153000
+    },
+    {
+      "id": 45,
+      "name_ar": "ايكوت إكبين",
+      "name_en": "Ikot Ekpene",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 143077
+    },
+    {
+      "id": 46,
+      "name_ar": "موبي",
+      "name_en": "Mubi",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 128900
+    },
+    {
+      "id": 47,
+      "name_ar": "غاشوا",
+      "name_en": "Gashua",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 125100
+    },
+    {
+      "id": 48,
+      "name_ar": "ألاباما",
+      "name_en": "Bama",
+      "country_ar": "نيجيريا",
+      "country_en": "Nigeria",
+      "population": 118121
+    }
+  ],
+  "meta": {
+    "title": "مدن نيجيريا — Cities of Nigeria (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن نيجيريا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 48 cities in Nigeria with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 48 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن نيجيريا — Cities of Nigeria (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن نيجيريا — Cities of Nigeria (Arabic names) — 48 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 48 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

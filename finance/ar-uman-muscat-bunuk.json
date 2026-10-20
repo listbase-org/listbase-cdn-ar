@@ -1,0 +1,205 @@
+{
+  "id": "ar-uman-muscat-bunuk",
+  "name": "بنوك Muscat — عُمان — رموز سويفت (Banks of Muscat, Oman — SWIFT/BIC codes)",
+  "title": "بنوك Muscat — عُمان — رموز سويفت (Banks of Muscat, Oman — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Muscat (عُمان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 22 سجلًا. List of banks, financial institutions and their branches in Muscat, Oman with the SWIFT/BIC code, bank name and branch name for each. 22 records. Source: PeterNotenboom/SwiftCodes AllCountries/OM.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI BANK S.A.O.G",
+      "city": "MUSCAT",
+      "branch": "(AL HILAL)",
+      "swift_code": "AUBOOMRUALH"
+    },
+    {
+      "id": 2,
+      "bank": "ALIZZ ISLAMIC BANK",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "IZZBOMRU"
+    },
+    {
+      "id": 3,
+      "bank": "BANK MELLI IRAN",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "MELIOMRX"
+    },
+    {
+      "id": 4,
+      "bank": "BANK NIZWA",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "BNZWOMRX"
+    },
+    {
+      "id": 5,
+      "bank": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "BABEOMRX"
+    },
+    {
+      "id": 6,
+      "bank": "BANKMUSCAT SAOG",
+      "city": "MUSCAT",
+      "branch": "(ISLAMIC BANKING)",
+      "swift_code": "BMUSOMRXISL"
+    },
+    {
+      "id": 7,
+      "bank": "BANKMUSCAT SAOG",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "BMUSOMRX"
+    },
+    {
+      "id": 8,
+      "bank": "EFG HERMES OMAN LLC",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "EFGHOMM1"
+    },
+    {
+      "id": 9,
+      "bank": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "NBADOMRX"
+    },
+    {
+      "id": 10,
+      "bank": "GLOBAL FINANCIAL INVESTMENTS S.A.O.G",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "GFISOMR1"
+    },
+    {
+      "id": 11,
+      "bank": "MINISTRY OF FINANCE",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "MINIOMRU"
+    },
+    {
+      "id": 12,
+      "bank": "MUSCAT SECURITIES MARKET",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "XMUSOMM1"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF OMAN",
+      "city": "MUSCAT",
+      "branch": "(TRADE SERVICES)",
+      "swift_code": "NBOMOMRXTSS"
+    },
+    {
+      "id": 14,
+      "bank": "NATIONAL BANK OF OMAN",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "NBOMOMRX"
+    },
+    {
+      "id": 15,
+      "bank": "OCTAL PETROCHEMICALS FZC",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "OPCFOMRX"
+    },
+    {
+      "id": 16,
+      "bank": "OMAN UNITED EXCHANGE CO. LLC",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "OMUEOMR1"
+    },
+    {
+      "id": 17,
+      "bank": "QATAR NATIONAL BANK",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "QNBAOMRX"
+    },
+    {
+      "id": 18,
+      "bank": "STATE BANK OF INDIA, MUSCAT, OMAN",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "SBINOMRX"
+    },
+    {
+      "id": 19,
+      "bank": "STATE GENERAL RESERVE FUND",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "SGRFOMRB"
+    },
+    {
+      "id": 20,
+      "bank": "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "SGRFOMR1"
+    },
+    {
+      "id": 21,
+      "bank": "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "SGRFOMRA"
+    },
+    {
+      "id": 22,
+      "bank": "VISION SECURITIES COMPANY LLC",
+      "city": "MUSCAT",
+      "branch": "",
+      "swift_code": "VSCLOMR1"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Muscat — عُمان — رموز سويفت (Banks of Muscat, Oman — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Muscat (عُمان) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 22 سجلًا. List of banks, financial institutions and their branches in Muscat, Oman with the SWIFT/BIC code, bank name and branch name for each. 22 records. Source: PeterNotenboom/SwiftCodes AllCountries/OM.json (MIT). يحتوي على 22 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Muscat — عُمان — رموز سويفت (Banks of Muscat, Oman — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Muscat — عُمان — رموز سويفت (Banks of Muscat, Oman — SWIFT/BIC codes) — 22 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 22 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

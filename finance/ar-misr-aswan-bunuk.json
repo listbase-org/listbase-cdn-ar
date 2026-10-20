@@ -1,0 +1,135 @@
+{
+  "id": "ar-misr-aswan-bunuk",
+  "name": "بنوك Aswan — مصر — رموز سويفت (Banks of Aswan, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Aswan — مصر — رموز سويفت (Banks of Aswan, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Aswan (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 12 سجلًا. List of banks, financial institutions and their branches in Aswan, Egypt with the SWIFT/BIC code, bank name and branch name for each. 12 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ASWAN",
+      "branch": "(ABU SIMBAL)",
+      "swift_code": "BCAIEGCX750"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ASWAN",
+      "branch": "(ASWAN BRANCH)",
+      "swift_code": "BCAIEGCX660"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ASWAN",
+      "branch": "(EDFO)",
+      "swift_code": "BCAIEGCX710"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "ASWAN",
+      "branch": "(ASWAN BRANCH)",
+      "swift_code": "CIBEEGCX030"
+    },
+    {
+      "id": 5,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "ASWAN",
+      "branch": "",
+      "swift_code": "ARLBEGCAASW"
+    },
+    {
+      "id": 6,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(ASWAN BRANCH)",
+      "swift_code": "FIEGEGCXASW"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(ASWAN BRANCH)",
+      "swift_code": "NBEGEGCX528"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(DERAW BRANCH)",
+      "swift_code": "NBEGEGCX534"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(EDFOU BRANCH)",
+      "swift_code": "NBEGEGCX529"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(EL-AQAD BRANCH)",
+      "swift_code": "NBEGEGCX531"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASWAN",
+      "branch": "(KOM OMBO BRANCH)",
+      "swift_code": "NBEGEGCX530"
+    },
+    {
+      "id": 12,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "ASWAN",
+      "branch": "(ASWAN BRANCH)",
+      "swift_code": "BDACEGCA097"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Aswan — مصر — رموز سويفت (Banks of Aswan, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Aswan (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 12 سجلًا. List of banks, financial institutions and their branches in Aswan, Egypt with the SWIFT/BIC code, bank name and branch name for each. 12 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 12 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Aswan — مصر — رموز سويفت (Banks of Aswan, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Aswan — مصر — رموز سويفت (Banks of Aswan, Egypt — SWIFT/BIC codes) — 12 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 12 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

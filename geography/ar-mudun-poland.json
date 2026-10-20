@@ -1,0 +1,720 @@
+{
+  "id": "ar-mudun-poland",
+  "name": "مدن بولندا — Cities of Poland (Arabic names)",
+  "title": "مدن بولندا — Cities of Poland (Arabic names)",
+  "description": "قائمة بأسماء مدن بولندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 83 cities in Poland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "وارسو",
+      "name_en": "Warsaw",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 2028000
+    },
+    {
+      "id": 2,
+      "name_ar": "كراكوف",
+      "name_en": "Krakow",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 804237
+    },
+    {
+      "id": 3,
+      "name_ar": "غدانسك",
+      "name_en": "Gdansk",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 749786
+    },
+    {
+      "id": 4,
+      "name_ar": "فروتسواف",
+      "name_en": "Wroclaw",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 672929
+    },
+    {
+      "id": 5,
+      "name_ar": "وودج",
+      "name_en": "Lodz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 670642
+    },
+    {
+      "id": 6,
+      "name_ar": "بوزنان",
+      "name_en": "Poznan",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 546859
+    },
+    {
+      "id": 7,
+      "name_ar": "شتتين",
+      "name_en": "Szczecin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 396168
+    },
+    {
+      "id": 8,
+      "name_ar": "بيدغوشتش",
+      "name_en": "Bydgoszcz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 337666
+    },
+    {
+      "id": 9,
+      "name_ar": "لوبلين",
+      "name_en": "Lublin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 334681
+    },
+    {
+      "id": 10,
+      "name_ar": "بياويستوك",
+      "name_en": "Bialystok",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 294242
+    },
+    {
+      "id": 11,
+      "name_ar": "كاتوفيتسه",
+      "name_en": "Katowice",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 285711
+    },
+    {
+      "id": 12,
+      "name_ar": "غدينيا",
+      "name_en": "Gdynia",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 245222
+    },
+    {
+      "id": 13,
+      "name_ar": "جلونا غورا",
+      "name_en": "Zielona Gora",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 216781
+    },
+    {
+      "id": 14,
+      "name_ar": "تشيستوخوفا",
+      "name_en": "Czestochowa",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 213107
+    },
+    {
+      "id": 15,
+      "name_ar": "رادوم",
+      "name_en": "Radom",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 201601
+    },
+    {
+      "id": 16,
+      "name_ar": "تورون",
+      "name_en": "Torun",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 198273
+    },
+    {
+      "id": 17,
+      "name_ar": "جيشوف",
+      "name_en": "Rzeszow",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 195871
+    },
+    {
+      "id": 18,
+      "name_ar": "سوسنوفييتس",
+      "name_en": "Sosnowiec",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 193660
+    },
+    {
+      "id": 19,
+      "name_ar": "كيلسي",
+      "name_en": "Kielce",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 186894
+    },
+    {
+      "id": 20,
+      "name_ar": "غليفيتسه",
+      "name_en": "Gliwice",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 174016
+    },
+    {
+      "id": 21,
+      "name_ar": "أولشتين",
+      "name_en": "Olsztyn",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 170225
+    },
+    {
+      "id": 22,
+      "name_ar": "بييلسكو-بياوا",
+      "name_en": "Bielsko-Biala",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 169089
+    },
+    {
+      "id": 23,
+      "name_ar": "زابجه",
+      "name_en": "Zabrze",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 158307
+    },
+    {
+      "id": 24,
+      "name_ar": "بيطوم",
+      "name_en": "Bytom",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 153274
+    },
+    {
+      "id": 25,
+      "name_ar": "رودا شلاسكا",
+      "name_en": "Ruda Slaska",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 133793
+    },
+    {
+      "id": 26,
+      "name_ar": "ريبنيك",
+      "name_en": "Rybnik",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 133772
+    },
+    {
+      "id": 27,
+      "name_ar": "أوبولي",
+      "name_en": "Opole",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 127387
+    },
+    {
+      "id": 28,
+      "name_ar": "تيتشي",
+      "name_en": "Tychy",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 124882
+    },
+    {
+      "id": 29,
+      "name_ar": "غورجوف ويلكوبولسكي",
+      "name_en": "Gorzow Wielkopolski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 119964
+    },
+    {
+      "id": 30,
+      "name_ar": "دابروفا غورنيزا",
+      "name_en": "Dabrowa Gornicza",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 116930
+    },
+    {
+      "id": 31,
+      "name_ar": "البلنغ",
+      "name_en": "Elblag",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 115220
+    },
+    {
+      "id": 32,
+      "name_ar": "بوتسك",
+      "name_en": "Plock",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 112483
+    },
+    {
+      "id": 33,
+      "name_ar": "تارنوف",
+      "name_en": "Tarnow",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 106259
+    },
+    {
+      "id": 34,
+      "name_ar": "كشالين",
+      "name_en": "Koszalin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 105883
+    },
+    {
+      "id": 35,
+      "name_ar": "فوتسوافك",
+      "name_en": "Wloclawek",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 104705
+    },
+    {
+      "id": 36,
+      "name_ar": "واوب جيخ",
+      "name_en": "Walbrzych",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 104401
+    },
+    {
+      "id": 37,
+      "name_ar": "خوجوف",
+      "name_en": "Chorzow",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 104193
+    },
+    {
+      "id": 38,
+      "name_ar": "كاليش",
+      "name_en": "Kalisz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 95905
+    },
+    {
+      "id": 39,
+      "name_ar": "لغنيتسا",
+      "name_en": "Legnica",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 94878
+    },
+    {
+      "id": 40,
+      "name_ar": "غروجونتس",
+      "name_en": "Grudziadz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 90890
+    },
+    {
+      "id": 41,
+      "name_ar": "يافورجنو",
+      "name_en": "Jaworzno",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 88998
+    },
+    {
+      "id": 42,
+      "name_ar": "سووبسك",
+      "name_en": "Slupsk",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 87660
+    },
+    {
+      "id": 43,
+      "name_ar": "يزتشمبية ازدرويي",
+      "name_en": "Jastrzebie-Zdroj",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 82788
+    },
+    {
+      "id": 44,
+      "name_ar": "نوفي ساكز",
+      "name_en": "Nowy Sacz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 81281
+    },
+    {
+      "id": 45,
+      "name_ar": "جيلينيا جورا",
+      "name_en": "Jelenia Gora",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 77305
+    },
+    {
+      "id": 46,
+      "name_ar": "سيدلس",
+      "name_en": "Siedlce",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 76357
+    },
+    {
+      "id": 47,
+      "name_ar": "ميسوفيتسه",
+      "name_en": "Myslowice",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 72553
+    },
+    {
+      "id": 48,
+      "name_ar": "المراجع المتداخلة",
+      "name_en": "Pila",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 71735
+    },
+    {
+      "id": 49,
+      "name_ar": "اوسترو ولكوبوليسكي",
+      "name_en": "Ostrow Wielkopolski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 70725
+    },
+    {
+      "id": 50,
+      "name_ar": "بلدة لوبن",
+      "name_en": "Lubin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 70016
+    },
+    {
+      "id": 51,
+      "name_ar": "كونين",
+      "name_en": "Konin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 69858
+    },
+    {
+      "id": 52,
+      "name_ar": "بيوتركوف تريبونالسكي",
+      "name_en": "Piotrkow Trybunalski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 68978
+    },
+    {
+      "id": 53,
+      "name_ar": "سووالكي",
+      "name_en": "Suwalki",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 68752
+    },
+    {
+      "id": 54,
+      "name_ar": "ستارغارد",
+      "name_en": "Stargard Szczecinski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 67348
+    },
+    {
+      "id": 55,
+      "name_ar": "جنازنة",
+      "name_en": "Gniezno",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 65452
+    },
+    {
+      "id": 56,
+      "name_ar": "غلوغو",
+      "name_en": "Glogow",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 64261
+    },
+    {
+      "id": 57,
+      "name_ar": "ليشنو",
+      "name_en": "Leszno",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 61791
+    },
+    {
+      "id": 58,
+      "name_ar": "تارنوفسكي غوري",
+      "name_en": "Tarnowskie Gory",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 61288
+    },
+    {
+      "id": 59,
+      "name_ar": "لومزا",
+      "name_en": "Lomza",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 60848
+    },
+    {
+      "id": 60,
+      "name_ar": "إيلك",
+      "name_en": "Elk",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 60390
+    },
+    {
+      "id": 61,
+      "name_ar": "زاموشتش",
+      "name_en": "Zamosc",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 60148
+    },
+    {
+      "id": 62,
+      "name_ar": "تشيلم",
+      "name_en": "Chelm",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 59546
+    },
+    {
+      "id": 63,
+      "name_ar": "برزيميسل",
+      "name_en": "Przemysl",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 58408
+    },
+    {
+      "id": 64,
+      "name_ar": "تكيف (مدينة)",
+      "name_en": "Tczew",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 57990
+    },
+    {
+      "id": 65,
+      "name_ar": "ستالووا وولا",
+      "name_en": "Stalowa Wola",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 57620
+    },
+    {
+      "id": 66,
+      "name_ar": "توماشوف مازوفستسكي",
+      "name_en": "Tomaszow Mazowiecki",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 57600
+    },
+    {
+      "id": 67,
+      "name_ar": "كيدزيرزن كوزله",
+      "name_en": "Kedzierzyn-Kozle",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 56931
+    },
+    {
+      "id": 68,
+      "name_ar": "بنجن",
+      "name_en": "Bedzin",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 55695
+    },
+    {
+      "id": 69,
+      "name_ar": "بيالا بودلاسكا",
+      "name_en": "Biala Podlaska",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 55429
+    },
+    {
+      "id": 70,
+      "name_ar": "زجيرز",
+      "name_en": "Zgierz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 55079
+    },
+    {
+      "id": 71,
+      "name_ar": "شويدنكتسا",
+      "name_en": "Swidnica",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 54792
+    },
+    {
+      "id": 72,
+      "name_ar": "بياسيتشنو",
+      "name_en": "Piaseczno",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 51945
+    },
+    {
+      "id": 73,
+      "name_ar": "راسيبورز",
+      "name_en": "Raciborz",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 51257
+    },
+    {
+      "id": 74,
+      "name_ar": "استروينكا",
+      "name_en": "Ostroleka",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 48712
+    },
+    {
+      "id": 75,
+      "name_ar": "شفينتوخوفيتسه",
+      "name_en": "Swietochlowice",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 46494
+    },
+    {
+      "id": 76,
+      "name_ar": "سكرينفيتسه",
+      "name_en": "Skierniewice",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 46437
+    },
+    {
+      "id": 77,
+      "name_ar": "ستاروغراد غرانسكي",
+      "name_en": "Starogard Gdanski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 46373
+    },
+    {
+      "id": 78,
+      "name_ar": "فوجسواف شلانسكي",
+      "name_en": "Wodzislaw Slaski",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 45949
+    },
+    {
+      "id": 79,
+      "name_ar": "بولافي",
+      "name_en": "Pulawy",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 45267
+    },
+    {
+      "id": 80,
+      "name_ar": "تارنوبزج",
+      "name_en": "Tarnobrzeg",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 44901
+    },
+    {
+      "id": 81,
+      "name_ar": "رآدومسكو",
+      "name_en": "Radomsko",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 44441
+    },
+    {
+      "id": 82,
+      "name_ar": "كووبجك",
+      "name_en": "Kolobrzeg",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 44340
+    },
+    {
+      "id": 83,
+      "name_ar": "دبيتسا",
+      "name_en": "Debica",
+      "country_ar": "بولندا",
+      "country_en": "Poland",
+      "population": 44047
+    }
+  ],
+  "meta": {
+    "title": "مدن بولندا — Cities of Poland (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن بولندا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 83 cities in Poland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 83 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن بولندا — Cities of Poland (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن بولندا — Cities of Poland (Arabic names) — 83 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 83 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

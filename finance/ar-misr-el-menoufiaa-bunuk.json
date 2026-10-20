@@ -1,0 +1,121 @@
+{
+  "id": "ar-misr-el-menoufiaa-bunuk",
+  "name": "بنوك El Menoufiaa — مصر — رموز سويفت (Banks of El Menoufiaa, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك El Menoufiaa — مصر — رموز سويفت (Banks of El Menoufiaa, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Menoufiaa (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in El Menoufiaa, Egypt with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MENOUFIAA",
+      "branch": "(BAGOUR)",
+      "swift_code": "BCAIEGCX591"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MENOUFIAA",
+      "branch": "(EL SADAT)",
+      "swift_code": "BCAIEGCX594"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MENOUFIAA",
+      "branch": "(MENOUF)",
+      "swift_code": "BCAIEGCX510"
+    },
+    {
+      "id": 4,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(ASHMOON BRANCH)",
+      "swift_code": "NBEGEGCX429"
+    },
+    {
+      "id": 5,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(BERKIT ELSABAE BRANCH)",
+      "swift_code": "NBEGEGCX431"
+    },
+    {
+      "id": 6,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(EL SHOHADA BRANCH)",
+      "swift_code": "NBEGEGCX418"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(EL-BAGOUR BRANCH)",
+      "swift_code": "NBEGEGCX414"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(EL-GALAA BRANCH)",
+      "swift_code": "NBEGEGCX416"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(MENOFYA UNIVERSITY)",
+      "swift_code": "NBEGEGCX406"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENOUFIAA",
+      "branch": "(SERS EL-LAYAAN BRANCH)",
+      "swift_code": "NBEGEGCX419"
+    }
+  ],
+  "meta": {
+    "title": "بنوك El Menoufiaa — مصر — رموز سويفت (Banks of El Menoufiaa, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Menoufiaa (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 10 سجلًا. List of banks, financial institutions and their branches in El Menoufiaa, Egypt with the SWIFT/BIC code, bank name and branch name for each. 10 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك El Menoufiaa — مصر — رموز سويفت (Banks of El Menoufiaa, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك El Menoufiaa — مصر — رموز سويفت (Banks of El Menoufiaa, Egypt — SWIFT/BIC codes) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

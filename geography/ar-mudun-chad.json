@@ -1,0 +1,288 @@
+{
+  "id": "ar-mudun-chad",
+  "name": "مدن تشاد — Cities of Chad (Arabic names)",
+  "title": "مدن تشاد — Cities of Chad (Arabic names)",
+  "description": "قائمة بأسماء مدن تشاد بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Chad with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "انجمينا",
+      "name_en": "N'Djamena",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 807000
+    },
+    {
+      "id": 2,
+      "name_ar": "موندو",
+      "name_en": "Moundou",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 137929
+    },
+    {
+      "id": 3,
+      "name_ar": "خيبر بختونخوا",
+      "name_en": "Sarh",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 103269
+    },
+    {
+      "id": 4,
+      "name_ar": "أبشي",
+      "name_en": "Abeche",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 76492
+    },
+    {
+      "id": 5,
+      "name_ar": "موسورو",
+      "name_en": "Moussoro",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 75210
+    },
+    {
+      "id": 6,
+      "name_ar": "قوز بيضة",
+      "name_en": "Goz-Beida",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 66107
+    },
+    {
+      "id": 7,
+      "name_ar": "ماو تسي تونغ",
+      "name_en": "Mao",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 50000
+    },
+    {
+      "id": 8,
+      "name_ar": "قمرة",
+      "name_en": "Koumra",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 47950
+    },
+    {
+      "id": 9,
+      "name_ar": "أم تيمان",
+      "name_en": "Am-Timan",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 38261
+    },
+    {
+      "id": 10,
+      "name_ar": "إريبا",
+      "name_en": "Iriba",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 33572
+    },
+    {
+      "id": 11,
+      "name_ar": "بونقور",
+      "name_en": "Bongor",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 30518
+    },
+    {
+      "id": 12,
+      "name_ar": "منغوليا",
+      "name_en": "Mongo",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 27763
+    },
+    {
+      "id": 13,
+      "name_ar": "أم هاجر",
+      "name_en": "Oum Hadjer",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 26136
+    },
+    {
+      "id": 14,
+      "name_ar": "إنسان",
+      "name_en": "Doba",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 25650
+    },
+    {
+      "id": 15,
+      "name_ar": "قسيس",
+      "name_en": "Fada",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 23786
+    },
+    {
+      "id": 16,
+      "name_ar": "أم جرس‎‎",
+      "name_en": "Amdjarass",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 20850
+    },
+    {
+      "id": 17,
+      "name_ar": "مساقط",
+      "name_en": "Massaguet",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 18872
+    },
+    {
+      "id": 18,
+      "name_ar": "بتكين",
+      "name_en": "Bitkine",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 18495
+    },
+    {
+      "id": 19,
+      "name_ar": "دوربالي",
+      "name_en": "Dourbali",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 17682
+    },
+    {
+      "id": 20,
+      "name_ar": "ماساكوري",
+      "name_en": "Massakory",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 16237
+    },
+    {
+      "id": 21,
+      "name_ar": "كيابي",
+      "name_en": "Kyabe",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 15960
+    },
+    {
+      "id": 22,
+      "name_ar": "بوكورو",
+      "name_en": "Bokoro",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 15517
+    },
+    {
+      "id": 23,
+      "name_ar": "فيانكا",
+      "name_en": "Fianga",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 14166
+    },
+    {
+      "id": 24,
+      "name_ar": "ماتا",
+      "name_en": "Mata",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 13739
+    },
+    {
+      "id": 25,
+      "name_ar": "نورإبينفرين",
+      "name_en": "Adre",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 12571
+    },
+    {
+      "id": 26,
+      "name_ar": "بلتن",
+      "name_en": "Biltine",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 11840
+    },
+    {
+      "id": 27,
+      "name_ar": "بوليفيا",
+      "name_en": "Bol",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 11120
+    },
+    {
+      "id": 28,
+      "name_ar": "زوار",
+      "name_en": "Zouar",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 6432
+    },
+    {
+      "id": 29,
+      "name_ar": "ماسينيا",
+      "name_en": "Massenya",
+      "country_ar": "تشاد",
+      "country_en": "Chad",
+      "population": 3680
+    }
+  ],
+  "meta": {
+    "title": "مدن تشاد — Cities of Chad (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن تشاد بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Chad with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 29 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن تشاد — Cities of Chad (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن تشاد — Cities of Chad (Arabic names) — 29 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 29 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

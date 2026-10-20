@@ -1,0 +1,664 @@
+{
+  "id": "ar-mudun-morocco",
+  "name": "مدن المغرب — Cities of Morocco (Arabic names)",
+  "title": "مدن المغرب — Cities of Morocco (Arabic names)",
+  "description": "قائمة بأسماء مدن المغرب بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 76 cities in Morocco with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "الدار البيضاء",
+      "name_en": "Casablanca",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 3215935
+    },
+    {
+      "id": 2,
+      "name_ar": "طنجة",
+      "name_en": "Tangier",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 1275428
+    },
+    {
+      "id": 3,
+      "name_ar": "فاس",
+      "name_en": "Fes",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 1112072
+    },
+    {
+      "id": 4,
+      "name_ar": "مراكش",
+      "name_en": "Marrakech",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 966987
+    },
+    {
+      "id": 5,
+      "name_ar": "وجدة-أنجاد",
+      "name_en": "Oujda-Angad",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 614000
+    },
+    {
+      "id": 6,
+      "name_ar": "الرباط",
+      "name_en": "Rabat",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 572717
+    },
+    {
+      "id": 7,
+      "name_ar": "أكادير",
+      "name_en": "Agadir",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 538000
+    },
+    {
+      "id": 8,
+      "name_ar": "مكناس",
+      "name_en": "Meknes",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 520428
+    },
+    {
+      "id": 9,
+      "name_ar": "القنيطرة",
+      "name_en": "Kenitra",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 507736
+    },
+    {
+      "id": 10,
+      "name_ar": "تطوان",
+      "name_en": "Tetouan",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 422757
+    },
+    {
+      "id": 11,
+      "name_ar": "صافي",
+      "name_en": "Safi",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 323888
+    },
+    {
+      "id": 12,
+      "name_ar": "تاوريرت",
+      "name_en": "Taourirt",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 321876
+    },
+    {
+      "id": 13,
+      "name_ar": "تمارة",
+      "name_en": "Temara",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 297098
+    },
+    {
+      "id": 14,
+      "name_ar": "إقليم خنيفرة",
+      "name_en": "Khenifra",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 228567
+    },
+    {
+      "id": 15,
+      "name_ar": "الجديدة",
+      "name_en": "El Jadid",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 220181
+    },
+    {
+      "id": 16,
+      "name_ar": "العيون",
+      "name_en": "Laayoune",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 217732
+    },
+    {
+      "id": 17,
+      "name_ar": "أيت ملول",
+      "name_en": "Ait Melloul",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 210870
+    },
+    {
+      "id": 18,
+      "name_ar": "بني ملال",
+      "name_en": "Beni Mellal",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 209594
+    },
+    {
+      "id": 19,
+      "name_ar": "بوسكورة",
+      "name_en": "Bouskoura",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 200359
+    },
+    {
+      "id": 20,
+      "name_ar": "المحمدية",
+      "name_en": "Mohammedia",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 194358
+    },
+    {
+      "id": 21,
+      "name_ar": "سطات",
+      "name_en": "Settat",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 171556
+    },
+    {
+      "id": 22,
+      "name_ar": "تازة",
+      "name_en": "Taza",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 148406
+    },
+    {
+      "id": 23,
+      "name_ar": "إنزكان",
+      "name_en": "Inezgane",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 137512
+    },
+    {
+      "id": 24,
+      "name_ar": "العرائش",
+      "name_en": "Larache",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 133731
+    },
+    {
+      "id": 25,
+      "name_ar": "كلميم",
+      "name_en": "Guelmim",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 126729
+    },
+    {
+      "id": 26,
+      "name_ar": "القصر الكبير",
+      "name_en": "Ksar El Kebir",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 124701
+    },
+    {
+      "id": 27,
+      "name_ar": "الصخيرات",
+      "name_en": "Skhirate",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 122705
+    },
+    {
+      "id": 28,
+      "name_ar": "بني يخلف",
+      "name_en": "Beni Yakhlef",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 117653
+    },
+    {
+      "id": 29,
+      "name_ar": "سيدي يحيى زعير",
+      "name_en": "Sidi Yahya Zaer",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 116649
+    },
+    {
+      "id": 30,
+      "name_ar": "بن جرير",
+      "name_en": "Ben Guerir",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 114872
+    },
+    {
+      "id": 31,
+      "name_ar": "مولاي عبد الله",
+      "name_en": "Moulay Abdallah",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 103993
+    },
+    {
+      "id": 32,
+      "name_ar": "أولاد تايمة",
+      "name_en": "Oulad Teima",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 100284
+    },
+    {
+      "id": 33,
+      "name_ar": "بركان",
+      "name_en": "Berkane",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 99069
+    },
+    {
+      "id": 34,
+      "name_ar": "عين العودة",
+      "name_en": "Ain El Aouda",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 98502
+    },
+    {
+      "id": 35,
+      "name_ar": "الرشيدية",
+      "name_en": "Errachidia",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 97687
+    },
+    {
+      "id": 36,
+      "name_ar": "سيدي سليمان",
+      "name_en": "Sidi Slimane",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 95114
+    },
+    {
+      "id": 37,
+      "name_ar": "وادي زم",
+      "name_en": "Oued Zem",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 93776
+    },
+    {
+      "id": 38,
+      "name_ar": "كزناية",
+      "name_en": "Gueznaia",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 88676
+    },
+    {
+      "id": 39,
+      "name_ar": "ويسلان",
+      "name_en": "Wislane",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 87910
+    },
+    {
+      "id": 40,
+      "name_ar": "جرسيف",
+      "name_en": "Guercif",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 80703
+    },
+    {
+      "id": 41,
+      "name_ar": "سيدي قاسم",
+      "name_en": "Sidi Qacem",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 75037
+    },
+    {
+      "id": 42,
+      "name_ar": "سيدي بيبي",
+      "name_en": "Sidi Bibi",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 72929
+    },
+    {
+      "id": 43,
+      "name_ar": "المضيق",
+      "name_en": "M'diq",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 67599
+    },
+    {
+      "id": 44,
+      "name_ar": "اليوسفية",
+      "name_en": "Youssoufia",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 65669
+    },
+    {
+      "id": 45,
+      "name_ar": "ميدلت",
+      "name_en": "Midalt",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 62648
+    },
+    {
+      "id": 46,
+      "name_ar": "عين حرودة",
+      "name_en": "Ain Harrouda",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 60804
+    },
+    {
+      "id": 47,
+      "name_ar": "المهدية",
+      "name_en": "Mehdya",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 58558
+    },
+    {
+      "id": 48,
+      "name_ar": "إقليم وزان",
+      "name_en": "Ouezzane",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 57737
+    },
+    {
+      "id": 49,
+      "name_ar": "إقليم تارودانت",
+      "name_en": "Taroudannt",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 57136
+    },
+    {
+      "id": 50,
+      "name_ar": "السمارة",
+      "name_en": "Semara",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 57035
+    },
+    {
+      "id": 51,
+      "name_ar": "الصويرة",
+      "name_en": "Essaouira",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 56074
+    },
+    {
+      "id": 52,
+      "name_ar": "تيط مليل",
+      "name_en": "Tit Mellil",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 56019
+    },
+    {
+      "id": 53,
+      "name_ar": "إقليم سيدي بنور",
+      "name_en": "Sidi Bennour",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 55847
+    },
+    {
+      "id": 54,
+      "name_ar": "صفرو",
+      "name_en": "Sefrou",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 54163
+    },
+    {
+      "id": 55,
+      "name_ar": "سيدي محمد الأحمر",
+      "name_en": "Sidi Mohamed Lahmar",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 52679
+    },
+    {
+      "id": 56,
+      "name_ar": "التمسية",
+      "name_en": "Temsia",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 52663
+    },
+    {
+      "id": 57,
+      "name_ar": "بني انصار",
+      "name_en": "Beni Enzar",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 50508
+    },
+    {
+      "id": 58,
+      "name_ar": "الحسيمة",
+      "name_en": "Al Hoceima",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 50225
+    },
+    {
+      "id": 59,
+      "name_ar": "تيفلت",
+      "name_en": "Tiflet",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 49918
+    },
+    {
+      "id": 60,
+      "name_ar": "العروي",
+      "name_en": "Al Aaroui",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 46540
+    },
+    {
+      "id": 61,
+      "name_ar": "مريرت",
+      "name_en": "Mrirt",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 46285
+    },
+    {
+      "id": 62,
+      "name_ar": "شفشاون",
+      "name_en": "Chefchaouene",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 46168
+    },
+    {
+      "id": 63,
+      "name_ar": "أورير",
+      "name_en": "Aourir",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 46032
+    },
+    {
+      "id": 64,
+      "name_ar": "طانطان",
+      "name_en": "Tan-Tan",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 45821
+    },
+    {
+      "id": 65,
+      "name_ar": "تنغير",
+      "name_en": "Tineghir",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 44239
+    },
+    {
+      "id": 66,
+      "name_ar": "سيدي بوقنادل",
+      "name_en": "Bouknadel",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 43598
+    },
+    {
+      "id": 67,
+      "name_ar": "تزنيت",
+      "name_en": "Tiznit",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 43001
+    },
+    {
+      "id": 68,
+      "name_ar": "أزمور",
+      "name_en": "Azemmour",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 42098
+    },
+    {
+      "id": 69,
+      "name_ar": "جرادة",
+      "name_en": "Jerada",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 41014
+    },
+    {
+      "id": 70,
+      "name_ar": "أزرو",
+      "name_en": "Azrou",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 40808
+    },
+    {
+      "id": 71,
+      "name_ar": "العيون",
+      "name_en": "El Aioun",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 40652
+    },
+    {
+      "id": 72,
+      "name_ar": "تمصلوحت",
+      "name_en": "Tameslouht",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 40283
+    },
+    {
+      "id": 73,
+      "name_ar": "سيدي يحيى الغرب",
+      "name_en": "Sidi Yahia El Gharb",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 39946
+    },
+    {
+      "id": 74,
+      "name_ar": "تاونات",
+      "name_en": "Taounate",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 39114
+    },
+    {
+      "id": 75,
+      "name_ar": "إقليم شيشاوة",
+      "name_en": "Chichaoua",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 38452
+    },
+    {
+      "id": 76,
+      "name_ar": "قصر تابونت",
+      "name_en": "Tabount",
+      "country_ar": "المغرب",
+      "country_en": "Morocco",
+      "population": 37465
+    }
+  ],
+  "meta": {
+    "title": "مدن المغرب — Cities of Morocco (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن المغرب بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 76 cities in Morocco with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 76 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن المغرب — Cities of Morocco (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن المغرب — Cities of Morocco (Arabic names) — 76 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 76 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

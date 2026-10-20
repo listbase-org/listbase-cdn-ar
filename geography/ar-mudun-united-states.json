@@ -1,0 +1,824 @@
+{
+  "id": "ar-mudun-united-states",
+  "name": "مدن الولايات المتحدة الأمريكية — Cities of United States (Arabic names)",
+  "title": "مدن الولايات المتحدة الأمريكية — Cities of United States (Arabic names)",
+  "description": "قائمة بأسماء مدن الولايات المتحدة الأمريكية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in United States with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "نيويورك",
+      "name_en": "New York",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 18832416
+    },
+    {
+      "id": 2,
+      "name_ar": "لوس أنجلوس",
+      "name_en": "Los Angeles",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 11885717
+    },
+    {
+      "id": 3,
+      "name_ar": "شيكاغو",
+      "name_en": "Chicago",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 8489066
+    },
+    {
+      "id": 4,
+      "name_ar": "ميامي",
+      "name_en": "Miami",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 6113982
+    },
+    {
+      "id": 5,
+      "name_ar": "هيوستن",
+      "name_en": "Houston",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 6046392
+    },
+    {
+      "id": 6,
+      "name_ar": "دالاس",
+      "name_en": "Dallas",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 5843632
+    },
+    {
+      "id": 7,
+      "name_ar": "فيلادلفيا",
+      "name_en": "Philadelphia",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 5696588
+    },
+    {
+      "id": 8,
+      "name_ar": "أتلانتا",
+      "name_en": "Atlanta",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 5211164
+    },
+    {
+      "id": 9,
+      "name_ar": "واشنطن",
+      "name_en": "Washington",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 5146120
+    },
+    {
+      "id": 10,
+      "name_ar": "بوسطن",
+      "name_en": "Boston",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 4355184
+    },
+    {
+      "id": 11,
+      "name_ar": "العنقاء",
+      "name_en": "Phoenix",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 4065338
+    },
+    {
+      "id": 12,
+      "name_ar": "ديترويت",
+      "name_en": "Detroit",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 3716929
+    },
+    {
+      "id": 13,
+      "name_ar": "سياتل",
+      "name_en": "Seattle",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 3555253
+    },
+    {
+      "id": 14,
+      "name_ar": "سان فرانسيسكو",
+      "name_en": "San Francisco",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 3364862
+    },
+    {
+      "id": 15,
+      "name_ar": "سان دييغو",
+      "name_en": "San Diego",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 3057778
+    },
+    {
+      "id": 16,
+      "name_ar": "مينيابوليس",
+      "name_en": "Minneapolis",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2906807
+    },
+    {
+      "id": 17,
+      "name_ar": "تامبا",
+      "name_en": "Tampa",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2906035
+    },
+    {
+      "id": 18,
+      "name_ar": "بروكلين",
+      "name_en": "Brooklyn",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2736074
+    },
+    {
+      "id": 19,
+      "name_ar": "دنفر",
+      "name_en": "Denver",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2691349
+    },
+    {
+      "id": 20,
+      "name_ar": "كوينز",
+      "name_en": "Queens",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2405464
+    },
+    {
+      "id": 21,
+      "name_ar": "لاس فيغاس",
+      "name_en": "Las Vegas",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2256509
+    },
+    {
+      "id": 22,
+      "name_ar": "بالتيمور",
+      "name_en": "Baltimore",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2189589
+    },
+    {
+      "id": 23,
+      "name_ar": "سانت لويس",
+      "name_en": "St. Louis",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2127843
+    },
+    {
+      "id": 24,
+      "name_ar": "بورتلاند",
+      "name_en": "Portland",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2084045
+    },
+    {
+      "id": 25,
+      "name_ar": "سان أنطونيو",
+      "name_en": "San Antonio",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 2069843
+    },
+    {
+      "id": 26,
+      "name_ar": "ساكرامنتو",
+      "name_en": "Sacramento",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1962998
+    },
+    {
+      "id": 27,
+      "name_ar": "أوستن",
+      "name_en": "Austin",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1915031
+    },
+    {
+      "id": 28,
+      "name_ar": "أورلاندو",
+      "name_en": "Orlando",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1913597
+    },
+    {
+      "id": 29,
+      "name_ar": "سان خوسيه، الفلبين",
+      "name_en": "San Jose",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1771563
+    },
+    {
+      "id": 30,
+      "name_ar": "إنديانابوليس",
+      "name_en": "Indianapolis",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1740984
+    },
+    {
+      "id": 31,
+      "name_ar": "بيتسبرغ",
+      "name_en": "Pittsburgh",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1712828
+    },
+    {
+      "id": 32,
+      "name_ar": "سينسيناتي",
+      "name_en": "Cincinnati",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1704916
+    },
+    {
+      "id": 33,
+      "name_ar": "مانهاتن",
+      "name_en": "Manhattan",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1694263
+    },
+    {
+      "id": 34,
+      "name_ar": "كانساس سيتي",
+      "name_en": "Kansas City",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1686807
+    },
+    {
+      "id": 35,
+      "name_ar": "كليفلاند",
+      "name_en": "Cleveland",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1679247
+    },
+    {
+      "id": 36,
+      "name_ar": "كولومبوس",
+      "name_en": "Columbus",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1578153
+    },
+    {
+      "id": 37,
+      "name_ar": "البرونكس",
+      "name_en": "Bronx",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1472654
+    },
+    {
+      "id": 38,
+      "name_ar": "شارلوت",
+      "name_en": "Charlotte",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1436613
+    },
+    {
+      "id": 39,
+      "name_ar": "فرجينيا بيتش",
+      "name_en": "Virginia Beach",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1431821
+    },
+    {
+      "id": 40,
+      "name_ar": "جاكسونفيل",
+      "name_en": "Jacksonville",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1303156
+    },
+    {
+      "id": 41,
+      "name_ar": "ميلواكي",
+      "name_en": "Milwaukee",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1290221
+    },
+    {
+      "id": 42,
+      "name_ar": "بروفيدنس",
+      "name_en": "Providence",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1270529
+    },
+    {
+      "id": 43,
+      "name_ar": "ناشفيل",
+      "name_en": "Nashville",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1178679
+    },
+    {
+      "id": 44,
+      "name_ar": "سولت ليك سيتي",
+      "name_en": "Salt Lake City",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1169033
+    },
+    {
+      "id": 45,
+      "name_ar": "رالي",
+      "name_en": "Raleigh",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1150010
+    },
+    {
+      "id": 46,
+      "name_ar": "ريتشموند",
+      "name_en": "Richmond",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1081248
+    },
+    {
+      "id": 47,
+      "name_ar": "ممفيس",
+      "name_en": "Memphis",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1033394
+    },
+    {
+      "id": 48,
+      "name_ar": "أوكلاهوما سيتي",
+      "name_en": "Oklahoma City",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 1000207
+    },
+    {
+      "id": 49,
+      "name_ar": "هارتفورد",
+      "name_en": "Hartford",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 969171
+    },
+    {
+      "id": 50,
+      "name_ar": "لويفيل",
+      "name_en": "Louisville",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 965005
+    },
+    {
+      "id": 51,
+      "name_ar": "بوفالو",
+      "name_en": "Buffalo",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 949547
+    },
+    {
+      "id": 52,
+      "name_ar": "فورت وورث",
+      "name_en": "Fort Worth",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 941311
+    },
+    {
+      "id": 53,
+      "name_ar": "بريدجبورت",
+      "name_en": "Bridgeport",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 921660
+    },
+    {
+      "id": 54,
+      "name_ar": "نيو أورلينز",
+      "name_en": "New Orleans",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 918752
+    },
+    {
+      "id": 55,
+      "name_ar": "توسان",
+      "name_en": "Tucson",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 879871
+    },
+    {
+      "id": 56,
+      "name_ar": "إل باسو",
+      "name_en": "El Paso",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 862494
+    },
+    {
+      "id": 57,
+      "name_ar": "أوماها",
+      "name_en": "Omaha",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 826161
+    },
+    {
+      "id": 58,
+      "name_ar": "هيمبستيد",
+      "name_en": "Hempstead",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 789177
+    },
+    {
+      "id": 59,
+      "name_ar": "برمنغهام",
+      "name_en": "Birmingham",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 778756
+    },
+    {
+      "id": 60,
+      "name_ar": "ألباكركي",
+      "name_en": "Albuquerque",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 767499
+    },
+    {
+      "id": 61,
+      "name_ar": "تلسا",
+      "name_en": "Tulsa",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 740620
+    },
+    {
+      "id": 62,
+      "name_ar": "تشارلستون",
+      "name_en": "Charleston",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 726389
+    },
+    {
+      "id": 63,
+      "name_ar": "فريسنو",
+      "name_en": "Fresno",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 724547
+    },
+    {
+      "id": 64,
+      "name_ar": "روتشستر",
+      "name_en": "Rochester",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 694707
+    },
+    {
+      "id": 65,
+      "name_ar": "دايتون",
+      "name_en": "Dayton",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 667936
+    },
+    {
+      "id": 66,
+      "name_ar": "كيب كورال",
+      "name_en": "Cape Coral",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 656464
+    },
+    {
+      "id": 67,
+      "name_ar": "كولورادو سبرينغز",
+      "name_en": "Colorado Springs",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 638421
+    },
+    {
+      "id": 68,
+      "name_ar": "ميسيون فيجو",
+      "name_en": "Mission Viejo",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 634674
+    },
+    {
+      "id": 69,
+      "name_ar": "ألينتاون",
+      "name_en": "Allentown",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 632175
+    },
+    {
+      "id": 70,
+      "name_ar": "باتون روج",
+      "name_en": "Baton Rouge",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 630063
+    },
+    {
+      "id": 71,
+      "name_ar": "أوغدن",
+      "name_en": "Ogden",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 623688
+    },
+    {
+      "id": 72,
+      "name_ar": "نوكسفيل",
+      "name_en": "Knoxville",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 618226
+    },
+    {
+      "id": 73,
+      "name_ar": "غراند رابيدز",
+      "name_en": "Grand Rapids",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 611480
+    },
+    {
+      "id": 74,
+      "name_ar": "كولومبيا للتسجيلات",
+      "name_en": "Columbia",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 605083
+    },
+    {
+      "id": 75,
+      "name_ar": "ألباني",
+      "name_en": "Albany",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 602242
+    },
+    {
+      "id": 76,
+      "name_ar": "بيكرسفيلد",
+      "name_en": "Bakersfield",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 578542
+    },
+    {
+      "id": 77,
+      "name_ar": "نيو هيفن",
+      "name_en": "New Haven",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 565056
+    },
+    {
+      "id": 78,
+      "name_ar": "دي موين",
+      "name_en": "Des Moines",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 560170
+    },
+    {
+      "id": 79,
+      "name_ar": "بالم باي",
+      "name_en": "Palm Bay",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 547659
+    },
+    {
+      "id": 80,
+      "name_ar": "آكرون",
+      "name_en": "Akron",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 538659
+    },
+    {
+      "id": 81,
+      "name_ar": "كونكورد",
+      "name_en": "Concord",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 525233
+    },
+    {
+      "id": 82,
+      "name_ar": "ميسا",
+      "name_en": "Mesa",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 507478
+    },
+    {
+      "id": 83,
+      "name_ar": "ويتشيتا",
+      "name_en": "Wichita",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 501760
+    },
+    {
+      "id": 84,
+      "name_ar": "هاريسبورغ",
+      "name_en": "Harrisburg",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 499494
+    },
+    {
+      "id": 85,
+      "name_ar": "جزيرة ستاتن",
+      "name_en": "Staten Island",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 495747
+    },
+    {
+      "id": 86,
+      "name_ar": "توليدو",
+      "name_en": "Toledo",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 492076
+    },
+    {
+      "id": 87,
+      "name_ar": "بروكهافن",
+      "name_en": "Brookhaven",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 487817
+    },
+    {
+      "id": 88,
+      "name_ar": "بورت سانت لوسي",
+      "name_en": "Port St. Lucie",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 473733
+    },
+    {
+      "id": 89,
+      "name_ar": "ليتل روك",
+      "name_en": "Little Rock",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 467846
+    },
+    {
+      "id": 90,
+      "name_ar": "ماديسون",
+      "name_en": "Madison",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 460255
+    },
+    {
+      "id": 91,
+      "name_ar": "سبوكين",
+      "name_en": "Spokane",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 458988
+    },
+    {
+      "id": 92,
+      "name_ar": "لونغ بيتش",
+      "name_en": "Long Beach",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 458491
+    },
+    {
+      "id": 93,
+      "name_ar": "دينتون",
+      "name_en": "Denton",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 455152
+    },
+    {
+      "id": 94,
+      "name_ar": "رينو",
+      "name_en": "Reno",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 454814
+    },
+    {
+      "id": 95,
+      "name_ar": "بويسي",
+      "name_en": "Boise",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 449428
+    },
+    {
+      "id": 96,
+      "name_ar": "بونيتا سبرنغز",
+      "name_en": "Bonita Springs",
+      "country_ar": "الولايات المتحدة الأمريكية",
+      "country_en": "United States",
+      "population": 445500
+    }
+  ],
+  "meta": {
+    "title": "مدن الولايات المتحدة الأمريكية — Cities of United States (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن الولايات المتحدة الأمريكية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 96 cities in United States with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 96 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن الولايات المتحدة الأمريكية — Cities of United States (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن الولايات المتحدة الأمريكية — Cities of United States (Arabic names) — 96 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 96 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

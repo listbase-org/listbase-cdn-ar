@@ -1,0 +1,272 @@
+{
+  "id": "ar-mudun-armenia",
+  "name": "مدن أرمينيا — Cities of Armenia (Arabic names)",
+  "title": "مدن أرمينيا — Cities of Armenia (Arabic names)",
+  "description": "قائمة بأسماء مدن أرمينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 27 cities in Armenia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "يريفان",
+      "name_en": "Yerevan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 1106300
+    },
+    {
+      "id": 2,
+      "name_ar": "غيومري",
+      "name_en": "Gyumri",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 121976
+    },
+    {
+      "id": 3,
+      "name_ar": "وانادزور",
+      "name_en": "Vanadzor",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 90525
+    },
+    {
+      "id": 4,
+      "name_ar": "فاغارشابات",
+      "name_en": "Ejmiatsin",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 57500
+    },
+    {
+      "id": 5,
+      "name_ar": "هرازدان",
+      "name_en": "Hrazdan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 52283
+    },
+    {
+      "id": 6,
+      "name_ar": "أبوفيان، أرارات",
+      "name_en": "Abovyan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 44400
+    },
+    {
+      "id": 7,
+      "name_ar": "كابان",
+      "name_en": "Kapan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 43190
+    },
+    {
+      "id": 8,
+      "name_ar": "أرمافير",
+      "name_en": "Armavir",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 38635
+    },
+    {
+      "id": 9,
+      "name_ar": "تشارنتساوان",
+      "name_en": "Charentsavan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 25039
+    },
+    {
+      "id": 10,
+      "name_ar": "ستيبانافان (أرمينيا)",
+      "name_en": "Stepanavan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 23782
+    },
+    {
+      "id": 11,
+      "name_ar": "آشتاراك",
+      "name_en": "Ashtarak",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 21600
+    },
+    {
+      "id": 12,
+      "name_ar": "ماسيس، أرارات",
+      "name_en": "Masis",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 21376
+    },
+    {
+      "id": 13,
+      "name_ar": "أرتاشات، أرارات",
+      "name_en": "Artashat",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 21300
+    },
+    {
+      "id": 14,
+      "name_ar": "آرتيك",
+      "name_en": "Artik",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 19543
+    },
+    {
+      "id": 15,
+      "name_ar": "إيجوان",
+      "name_en": "Ijevan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 19200
+    },
+    {
+      "id": 16,
+      "name_ar": "ديليجان",
+      "name_en": "Dilijan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 16600
+    },
+    {
+      "id": 17,
+      "name_ar": "سيسيان",
+      "name_en": "Sisian",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 14894
+    },
+    {
+      "id": 18,
+      "name_ar": "فيدي، أرارات",
+      "name_en": "Vedi",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 13600
+    },
+    {
+      "id": 19,
+      "name_ar": "آلاوردي",
+      "name_en": "Alaverdi",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 13000
+    },
+    {
+      "id": 20,
+      "name_ar": "واردنيس",
+      "name_en": "Vardenis",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 12363
+    },
+    {
+      "id": 21,
+      "name_ar": "مارتوني (أرمينيا)",
+      "name_en": "Martuni",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 11987
+    },
+    {
+      "id": 22,
+      "name_ar": "يغوارد",
+      "name_en": "Yeghvard",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 10656
+    },
+    {
+      "id": 23,
+      "name_ar": "متسامور",
+      "name_en": "Metsamor",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 9870
+    },
+    {
+      "id": 24,
+      "name_ar": "بيورغاوان",
+      "name_en": "Byureghavan",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 9513
+    },
+    {
+      "id": 25,
+      "name_ar": "نور هاتشن",
+      "name_en": "Nor Hachn",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 9307
+    },
+    {
+      "id": 26,
+      "name_ar": "تاشير",
+      "name_en": "Tashir",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 8700
+    },
+    {
+      "id": 27,
+      "name_ar": "يغغنادزور",
+      "name_en": "Yeghegnadzor",
+      "country_ar": "أرمينيا",
+      "country_en": "Armenia",
+      "population": 7633
+    }
+  ],
+  "meta": {
+    "title": "مدن أرمينيا — Cities of Armenia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أرمينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 27 cities in Armenia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 27 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أرمينيا — Cities of Armenia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أرمينيا — Cities of Armenia (Arabic names) — 27 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 27 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

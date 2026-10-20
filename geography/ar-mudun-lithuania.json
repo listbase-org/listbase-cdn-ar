@@ -1,0 +1,320 @@
+{
+  "id": "ar-mudun-lithuania",
+  "name": "مدن لتوانيا — Cities of Lithuania (Arabic names)",
+  "title": "مدن لتوانيا — Cities of Lithuania (Arabic names)",
+  "description": "قائمة بأسماء مدن لتوانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Lithuania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "فيلنيوس",
+      "name_en": "Vilnius",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 581475
+    },
+    {
+      "id": 2,
+      "name_ar": "كاوناس",
+      "name_en": "Kaunas",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 305120
+    },
+    {
+      "id": 3,
+      "name_ar": "كلايبيدا",
+      "name_en": "Klaipeda",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 158420
+    },
+    {
+      "id": 4,
+      "name_ar": "شياولياي",
+      "name_en": "Siauliai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 104300
+    },
+    {
+      "id": 5,
+      "name_ar": "بانيفيزيس",
+      "name_en": "Panevezys",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 87913
+    },
+    {
+      "id": 6,
+      "name_ar": "أليتس",
+      "name_en": "Alytus",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 51856
+    },
+    {
+      "id": 7,
+      "name_ar": "ماريامبوله",
+      "name_en": "Marijampole",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 36807
+    },
+    {
+      "id": 8,
+      "name_ar": "مازيكياي",
+      "name_en": "Mazeikiai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 33249
+    },
+    {
+      "id": 9,
+      "name_ar": "يونافا",
+      "name_en": "Jonava",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 27134
+    },
+    {
+      "id": 10,
+      "name_ar": "أوتينا",
+      "name_en": "Utena",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 25608
+    },
+    {
+      "id": 11,
+      "name_ar": "كيدايني",
+      "name_en": "Kedainiai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 23447
+    },
+    {
+      "id": 12,
+      "name_ar": "تلسياي",
+      "name_en": "Telsiai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 22261
+    },
+    {
+      "id": 13,
+      "name_ar": "تاوراغه",
+      "name_en": "Taurage",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 21416
+    },
+    {
+      "id": 14,
+      "name_ar": "أوكميرج",
+      "name_en": "Ukmerge",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 21048
+    },
+    {
+      "id": 15,
+      "name_ar": "فيساجيناس",
+      "name_en": "Visaginas",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 19586
+    },
+    {
+      "id": 16,
+      "name_ar": "بالانغا (لتوانيا)",
+      "name_en": "Palanga",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 18132
+    },
+    {
+      "id": 17,
+      "name_ar": "دروسكينينكي",
+      "name_en": "Druskininkai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 13170
+    },
+    {
+      "id": 18,
+      "name_ar": "روكيسكيس",
+      "name_en": "Rokiskis",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 11606
+    },
+    {
+      "id": 19,
+      "name_ar": "كورشناي",
+      "name_en": "Kursenai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 10651
+    },
+    {
+      "id": 20,
+      "name_ar": "برجي",
+      "name_en": "Birzai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 10444
+    },
+    {
+      "id": 21,
+      "name_ar": "راسينياي",
+      "name_en": "Raseiniai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 9686
+    },
+    {
+      "id": 22,
+      "name_ar": "بريناي",
+      "name_en": "Prienai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 8894
+    },
+    {
+      "id": 23,
+      "name_ar": "ورامين",
+      "name_en": "Varena",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 8042
+    },
+    {
+      "id": 24,
+      "name_ar": "فريق كلمه للدراجات الهوائية",
+      "name_en": "Kelme",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 7512
+    },
+    {
+      "id": 25,
+      "name_ar": "تراكي",
+      "name_en": "Trakai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 5912
+    },
+    {
+      "id": 26,
+      "name_ar": "شيلاله",
+      "name_en": "Silale",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 4699
+    },
+    {
+      "id": 27,
+      "name_ar": "باكروجيس",
+      "name_en": "Pakruojis",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 4490
+    },
+    {
+      "id": 28,
+      "name_ar": "سفينيتشونيس",
+      "name_en": "Svencionys",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 4480
+    },
+    {
+      "id": 29,
+      "name_ar": "كالفاريا",
+      "name_en": "Kalvarija",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 4025
+    },
+    {
+      "id": 30,
+      "name_ar": "لازديجاي",
+      "name_en": "Lazdijai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 3895
+    },
+    {
+      "id": 31,
+      "name_ar": "ريتافاس",
+      "name_en": "Rietavas",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 3253
+    },
+    {
+      "id": 32,
+      "name_ar": "بيرشتوناس",
+      "name_en": "Birstonas",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 3094
+    },
+    {
+      "id": 33,
+      "name_ar": "باغيغياي",
+      "name_en": "Pagegiai",
+      "country_ar": "لتوانيا",
+      "country_en": "Lithuania",
+      "population": 57
+    }
+  ],
+  "meta": {
+    "title": "مدن لتوانيا — Cities of Lithuania (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن لتوانيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Lithuania with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 33 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن لتوانيا — Cities of Lithuania (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن لتوانيا — Cities of Lithuania (Arabic names) — 33 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 33 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

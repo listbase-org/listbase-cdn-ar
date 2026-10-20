@@ -1,0 +1,456 @@
+{
+  "id": "ar-sa-qila",
+  "name": "القلاع والحصون في المملكة العربية السعودية (Castles & Forts of Saudi Arabia)",
+  "title": "القلاع والحصون في المملكة العربية السعودية (Castles & Forts of Saudi Arabia)",
+  "description": "قائمة القلاع والحصون في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q23413) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة القلاع والحصون سعودية في النطاق العربي. List of castles & forts in Saudi Arabia from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q20406978",
+      "name_ar": "القلعة العثمانية",
+      "name_en": "Ottoman Fort (Great Farasan Island)",
+      "admin_area_ar": "منطقة جازان",
+      "admin_area_en": "Jazan Province",
+      "latitude": 16.714014,
+      "longitude": 42.122389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20406978"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q120299150",
+      "name_ar": "حصن بديوي الوقداني",
+      "name_en": "",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.247003,
+      "longitude": 40.469311,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120299150"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q64729472",
+      "name_ar": "عقدة الجريسي",
+      "name_en": "Uqdat al-Jeraisy",
+      "admin_area_ar": "منطقة الرياض",
+      "admin_area_en": "Riyadh Province",
+      "latitude": 25.162023,
+      "longitude": 45.807601,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64729472"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4120203",
+      "name_ar": "قشلة جدة",
+      "name_en": "The Qishla of Jeddah",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.490833,
+      "longitude": 39.188611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4120203"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12233052",
+      "name_ar": "قصر صاهود",
+      "name_en": "Sahood Fort",
+      "admin_area_ar": "محافظة الأحساء",
+      "admin_area_en": "Al-Ahsa governorate",
+      "latitude": 25.4125,
+      "longitude": 49.584167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233052"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q22689225",
+      "name_ar": "قصر مارد",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 29.812376,
+      "longitude": 39.867235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689225"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q20399790",
+      "name_ar": "قلعة أبو عريش",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 16.966502,
+      "longitude": 42.829621,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20399790"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q20399810",
+      "name_ar": "قلعة الأزلم",
+      "name_en": "Al-Azlam Fort",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.03975,
+      "longitude": 36.019446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20399810"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q28936409",
+      "name_ar": "قلعة الحجر",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.80432,
+      "longitude": 37.9503,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28936409"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12233386",
+      "name_ar": "قلعة الدوسرية",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 16.888496,
+      "longitude": 42.545586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233386"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q119787591",
+      "name_ar": "قلعة الشهوان",
+      "name_en": "",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 27.634728,
+      "longitude": 38.552714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119787591"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q119742093",
+      "name_ar": "قلعة الشيخ سعد بن غنيم",
+      "name_en": "",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 25.355571,
+      "longitude": 37.497761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119742093"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q119519941",
+      "name_ar": "قلعة العرفاء",
+      "name_en": "Arafâ Castle",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.512554,
+      "longitude": 40.594328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119519941"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q119796956",
+      "name_ar": "قلعة القائد بخروش",
+      "name_en": "",
+      "admin_area_ar": "منطقة الباحة",
+      "admin_area_en": "Al-Baha Province",
+      "latitude": 20.295523,
+      "longitude": 41.359215,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119796956"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12233402",
+      "name_ar": "قلعة القطيف",
+      "name_en": "Qatif Castle",
+      "admin_area_ar": "محافظة القطيف",
+      "admin_area_en": "Qatif governorate",
+      "latitude": 26.55937,
+      "longitude": 50.005128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233402"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12233409",
+      "name_ar": "قلعة المرقب",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 25.9,
+      "longitude": 45.335556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233409"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q12233413",
+      "name_ar": "قلعة المعظم",
+      "name_en": "Al-Mua'azam Fort",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.7404,
+      "longitude": 37.5092,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233413"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q20400572",
+      "name_ar": "قلعة الملك عبد العزيز",
+      "name_en": "King Abdul Aziz Fort",
+      "admin_area_ar": "محافظة ضباء",
+      "admin_area_en": "Duba governorate",
+      "latitude": 27.348421,
+      "longitude": 35.69487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20400572"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q20400630",
+      "name_ar": "قلعة المويلح",
+      "name_en": "Muwaylih Castle",
+      "admin_area_ar": "المويلح",
+      "admin_area_en": "al-Muwayliḥ",
+      "latitude": 27.681678,
+      "longitude": 35.473748,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20400630"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q109256790",
+      "name_ar": "قلعة الوجه",
+      "name_en": "",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.227278,
+      "longitude": 36.458626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109256790"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q118145216",
+      "name_ar": "قلعة الوجه",
+      "name_en": "",
+      "admin_area_ar": "منطقة تبوك",
+      "admin_area_en": "Tabuk Province",
+      "latitude": 26.22728,
+      "longitude": 36.458626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118145216"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q16119944",
+      "name_ar": "قلعة تاروت",
+      "name_en": "Tarout Castle",
+      "admin_area_ar": "تاروت",
+      "admin_area_en": "Tarout Island",
+      "latitude": 26.569163,
+      "longitude": 50.068227,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16119944"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q25454119",
+      "name_ar": "قلعة تبوك",
+      "name_en": "Tabuk Castle",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 28.397222,
+      "longitude": 36.578889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25454119"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q119586651",
+      "name_ar": "قلعة خليص",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 22.156918,
+      "longitude": 39.353741,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119586651"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q22689262",
+      "name_ar": "قلعة ذات حاج",
+      "name_en": "Zat ul Hajj Fort",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 29.047234,
+      "longitude": 36.169319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689262"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q22689265",
+      "name_ar": "قلعة رعوم",
+      "name_en": "",
+      "admin_area_ar": "منطقة نجران",
+      "admin_area_en": "Najran Province",
+      "latitude": 17.469023,
+      "longitude": 44.087384,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689265"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q6832899",
+      "name_ar": "قلعة زعبل",
+      "name_en": "Zabal Castle",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 29.902935,
+      "longitude": 40.184898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6832899"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q22689268",
+      "name_ar": "قلعة شعار",
+      "name_en": "",
+      "admin_area_ar": "أبها",
+      "admin_area_en": "Abha",
+      "latitude": 18.436992,
+      "longitude": 42.469825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689268"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12233437",
+      "name_ar": "قلعة شنقل",
+      "name_en": "Shanqal Fort",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.2,
+      "longitude": 41.656944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12233437"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q48727199",
+      "name_ar": "قلعة عسفان",
+      "name_en": "The Qishla of Asfan",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 21.9163,
+      "longitude": 39.3399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48727199"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q119794979",
+      "name_ar": "قلعة قيار",
+      "name_en": "",
+      "admin_area_ar": "منطقة جازان",
+      "admin_area_en": "Jazan Province",
+      "latitude": 17.306621,
+      "longitude": 43.169692,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119794979"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q16120024",
+      "name_ar": "قلعة لقمان",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 16.70583,
+      "longitude": 41.98333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16120024"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4117141",
+      "name_ar": "قلعة مارد",
+      "name_en": "Marid Castle",
+      "admin_area_ar": "منطقة الجوف",
+      "admin_area_en": "Al-Jowf Province",
+      "latitude": 29.811333,
+      "longitude": 39.867339,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4117141"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q20401544",
+      "name_ar": "قلعة موسى بن نصير",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.62571,
+      "longitude": 37.91521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20401544"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q117824433",
+      "name_ar": "مقصورة القنون",
+      "name_en": "",
+      "admin_area_ar": "منطقة حائل",
+      "admin_area_en": "Ḥaʼil Province",
+      "latitude": 27.518084,
+      "longitude": 41.602983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117824433"
+    }
+  ],
+  "meta": {
+    "title": "القلاع والحصون في المملكة العربية السعودية (Castles & Forts of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة القلاع والحصون في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q23413) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة القلاع والحصون سعودية في النطاق العربي. List of castles & forts in Saudi Arabia from Wikidata. يحتوي على 35 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "القلاع والحصون في المملكة العربية السعودية (Castles & Forts of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل القلاع والحصون في المملكة العربية السعودية (Castles & Forts of Saudi Arabia) — 35 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 35 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

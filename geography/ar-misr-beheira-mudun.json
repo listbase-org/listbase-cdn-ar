@@ -1,0 +1,205 @@
+{
+  "id": "ar-misr-beheira-mudun",
+  "name": "مدن ومراكز محافظة البحيرة (Cities & Towns of Beheira)",
+  "title": "مدن ومراكز محافظة البحيرة (Cities & Towns of Beheira)",
+  "description": "قائمة مدن ومراكز محافظة البحيرة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Beheira governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "378",
+      "name_ar": "أبو المطامير",
+      "name_en": "abuu-al-matamer",
+      "name_long_ar": "أبو المطامير، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "1",
+      "name_ar": "أبو حمص",
+      "name_en": "abou-homs",
+      "name_long_ar": "أبو حمص، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "8",
+      "name_ar": "إدكو",
+      "name_en": "edko",
+      "name_long_ar": "إدكو، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "2",
+      "name_ar": "الدلنجات",
+      "name_en": "delengat",
+      "name_long_ar": "الدلنجات، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "4",
+      "name_ar": "الرحمانية",
+      "name_en": "rahmaniya",
+      "name_long_ar": "الرحمانية، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "3",
+      "name_ar": "المحمودية",
+      "name_en": "mahmoudiyah",
+      "name_long_ar": "المحمودية، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "127",
+      "name_ar": "النوبارية الجديدة",
+      "name_en": "nubariyah",
+      "name_long_ar": "النوبارية الجديدة، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "9",
+      "name_ar": "ايتاي البارود",
+      "name_en": "etay-al-barud",
+      "name_long_ar": "ايتاي البارود، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "5",
+      "name_ar": "بدر",
+      "name_en": "badr",
+      "name_long_ar": "بدر، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "7",
+      "name_ar": "حوش عيسى",
+      "name_en": "hosh-essa",
+      "name_long_ar": "حوش عيسى، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "6",
+      "name_ar": "دمنهور",
+      "name_en": "damanhour",
+      "name_long_ar": "دمنهور، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "12",
+      "name_ar": "رشيد",
+      "name_en": "rashid",
+      "name_long_ar": "رشيد، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "13",
+      "name_ar": "شبراخيت",
+      "name_en": "shubrakhit",
+      "name_long_ar": "شبراخيت، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "10",
+      "name_ar": "كفر الدوار",
+      "name_en": "kafr-al-dawwar",
+      "name_long_ar": "كفر الدوار، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "11",
+      "name_ar": "كوم حمادة",
+      "name_en": "kom-hamadah",
+      "name_long_ar": "كوم حمادة، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    },
+    {
+      "id": "14",
+      "name_ar": "وادي النطرون",
+      "name_en": "wadi-al-natrun",
+      "name_long_ar": "وادي النطرون، البحيرة",
+      "muhafaza_ar": "البحيرة",
+      "muhafaza_en": "beheira",
+      "muhafaza_id": 58
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة البحيرة (Cities & Towns of Beheira) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة البحيرة في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Beheira governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة البحيرة (Cities & Towns of Beheira) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة البحيرة (Cities & Towns of Beheira) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

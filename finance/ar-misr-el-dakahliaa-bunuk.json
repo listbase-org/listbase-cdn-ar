@@ -1,0 +1,149 @@
+{
+  "id": "ar-misr-el-dakahliaa-bunuk",
+  "name": "بنوك El Dakahliaa — مصر — رموز سويفت (Banks of El Dakahliaa, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك El Dakahliaa — مصر — رموز سويفت (Banks of El Dakahliaa, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Dakahliaa (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in El Dakahliaa, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(BELKAS)",
+      "swift_code": "BCAIEGCX423"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(GOMHOURIA)",
+      "swift_code": "BCAIEGCX593"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(MANZALA)",
+      "swift_code": "BCAIEGCX520"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(MEIT GHAMR)",
+      "swift_code": "BCAIEGCX430"
+    },
+    {
+      "id": 5,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(SENBELLAWEIN)",
+      "swift_code": "BCAIEGCX424"
+    },
+    {
+      "id": 6,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(SHERBIN)",
+      "swift_code": "BCAIEGCX421"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL DAKAHLIAA",
+      "branch": "(TALKHA)",
+      "swift_code": "BCAIEGCX422"
+    },
+    {
+      "id": 8,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "EL DAKAHLIAA",
+      "branch": "(MEET GHAMR BRANCH)",
+      "swift_code": "CIBEEGCX164"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(BELQAS BRANCH)",
+      "swift_code": "NBEGEGCX440"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(DEKERNES BRANCH)",
+      "swift_code": "NBEGEGCX437"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(EL-MANZALA BRANCH)",
+      "swift_code": "NBEGEGCX436"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(GAMASA BRANCH)",
+      "swift_code": "NBEGEGCX451"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(KORNISH MEET GHAMR BRANCH)",
+      "swift_code": "NBEGEGCX449"
+    },
+    {
+      "id": 14,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL DAKAHLIAA",
+      "branch": "(SHERBIN  BRANCH)",
+      "swift_code": "NBEGEGCX450"
+    }
+  ],
+  "meta": {
+    "title": "بنوك El Dakahliaa — مصر — رموز سويفت (Banks of El Dakahliaa, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Dakahliaa (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in El Dakahliaa, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك El Dakahliaa — مصر — رموز سويفت (Banks of El Dakahliaa, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك El Dakahliaa — مصر — رموز سويفت (Banks of El Dakahliaa, Egypt — SWIFT/BIC codes) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

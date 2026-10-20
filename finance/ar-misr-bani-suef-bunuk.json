@@ -1,0 +1,128 @@
+{
+  "id": "ar-misr-bani-suef-bunuk",
+  "name": "بنوك Bani Suef — مصر — رموز سويفت (Banks of Bani Suef, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Bani Suef — مصر — رموز سويفت (Banks of Bani Suef, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Bani Suef (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Bani Suef, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "BANI SUEF",
+      "branch": "(BENI SOWIF BRANCH)",
+      "swift_code": "BCAIEGCX620"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "BANI SUEF",
+      "branch": "(EHNASYA BRANCH)",
+      "swift_code": "BCAIEGCX621"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "BANI SUEF",
+      "branch": "(SAMASTTA)",
+      "swift_code": "BCAIEGCX740"
+    },
+    {
+      "id": 4,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "BANI SUEF",
+      "branch": "(BANI SWIF BRANCH)",
+      "swift_code": "CIBEEGCX186"
+    },
+    {
+      "id": 5,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "BANI SUEF",
+      "branch": "(BANI SWAIF BRANCH)",
+      "swift_code": "MIDBEGCXBNS"
+    },
+    {
+      "id": 6,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "BANI SUEF",
+      "branch": "(BANI SUEF BRANCH)",
+      "swift_code": "NBEGEGCX504"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "BANI SUEF",
+      "branch": "(BOSH BRANCH)",
+      "swift_code": "NBEGEGCX507"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "BANI SUEF",
+      "branch": "(EL-FASHN BRANCH)",
+      "swift_code": "NBEGEGCX505"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "BANI SUEF",
+      "branch": "(EL-WASTA BRANCH)",
+      "swift_code": "NBEGEGCX506"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "BANI SUEF",
+      "branch": "(SHARK BENI SUEF BRANCH)",
+      "swift_code": "NBEGEGCX546"
+    },
+    {
+      "id": 11,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "BANI SUEF",
+      "branch": "(BANI SUEF BRANCH)",
+      "swift_code": "BDACEGCA082"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Bani Suef — مصر — رموز سويفت (Banks of Bani Suef, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Bani Suef (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Bani Suef, Egypt with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Bani Suef — مصر — رموز سويفت (Banks of Bani Suef, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Bani Suef — مصر — رموز سويفت (Banks of Bani Suef, Egypt — SWIFT/BIC codes) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

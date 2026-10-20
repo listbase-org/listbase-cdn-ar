@@ -1,0 +1,151 @@
+{
+  "id": "ar-misr-south-sinai-mudun",
+  "name": "مدن ومراكز محافظة جنوب سيناء (Cities & Towns of South Sinai)",
+  "title": "مدن ومراكز محافظة جنوب سيناء (Cities & Towns of South Sinai)",
+  "description": "قائمة مدن ومراكز محافظة جنوب سيناء في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the South Sinai governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "193",
+      "name_ar": "أبو رديس",
+      "name_en": "abu-rudeis",
+      "name_long_ar": "أبو رديس، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "192",
+      "name_ar": "أبو زنيمة",
+      "name_en": "abu-zenimah",
+      "name_long_ar": "أبو زنيمة، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "187",
+      "name_ar": "دهب",
+      "name_en": "dahab",
+      "name_long_ar": "دهب، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "188",
+      "name_ar": "رأس سدر",
+      "name_en": "ras-sidr",
+      "name_long_ar": "رأس سدر، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "396",
+      "name_ar": "راس سدر",
+      "name_en": "ras-sedr",
+      "name_long_ar": "راس سدر، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "190",
+      "name_ar": "سانت كاترين",
+      "name_en": "st-catherine",
+      "name_long_ar": "سانت كاترين، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "189",
+      "name_ar": "شرم الشيخ",
+      "name_en": "sharm-al-sheikh",
+      "name_long_ar": "شرم الشيخ، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "185",
+      "name_ar": "طابا",
+      "name_en": "taba",
+      "name_long_ar": "طابا، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "191",
+      "name_ar": "طور سيناء",
+      "name_en": "tor-sinai",
+      "name_long_ar": "طور سيناء، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    },
+    {
+      "id": "186",
+      "name_ar": "نويبع",
+      "name_en": "nuweiba",
+      "name_long_ar": "نويبع، جنوب سيناء",
+      "muhafaza_ar": "جنوب سيناء",
+      "muhafaza_en": "south-sinai",
+      "muhafaza_id": 69
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة جنوب سيناء (Cities & Towns of South Sinai) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة جنوب سيناء في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the South Sinai governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة جنوب سيناء (Cities & Towns of South Sinai) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة جنوب سيناء (Cities & Towns of South Sinai) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

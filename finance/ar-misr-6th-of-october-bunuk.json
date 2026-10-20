@@ -1,0 +1,198 @@
+{
+  "id": "ar-misr-6th-of-october-bunuk",
+  "name": "بنوك 6Th Of October — مصر — رموز سويفت (Banks of 6Th Of October, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك 6Th Of October — مصر — رموز سويفت (Banks of 6Th Of October, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة 6Th Of October (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 21 سجلًا. List of banks, financial institutions and their branches in 6Th Of October, Egypt with the SWIFT/BIC code, bank name and branch name for each. 21 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL AHLI BANK OF KUWAIT - EGYPT S.A.E.",
+      "city": "6TH OF OCTOBER",
+      "branch": "",
+      "swift_code": "ECBAEGCA"
+    },
+    {
+      "id": 2,
+      "bank": "ALBARAKA BANK EGYPT",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OCTOBER BRANCH)",
+      "swift_code": "ABRKEGCAOCT"
+    },
+    {
+      "id": 3,
+      "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OCTOBER BRANCH)",
+      "swift_code": "ARAIEGCXOCT"
+    },
+    {
+      "id": 4,
+      "bank": "ARAB BANK PLC",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "ARABEGCXOCT"
+    },
+    {
+      "id": 5,
+      "bank": "ARAB INTERNATIONAL BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER)",
+      "swift_code": "ARIBEGCX009"
+    },
+    {
+      "id": 6,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "AINBEGCAMAR"
+    },
+    {
+      "id": 7,
+      "bank": "BANQUE DU CAIRE",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6 OCTOBER)",
+      "swift_code": "BCAIEGCX606"
+    },
+    {
+      "id": 8,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6 TH OCTOBER)",
+      "swift_code": "MRBAEGCX014"
+    },
+    {
+      "id": 9,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "",
+      "swift_code": "ARLBEGCAOCT"
+    },
+    {
+      "id": 10,
+      "bank": "EGYPTIAN GULF BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "",
+      "swift_code": "EGGBEGCAOCT"
+    },
+    {
+      "id": 11,
+      "bank": "EXPORT DEVELOPMENT BANK OF EGYPT",
+      "city": "6TH OF OCTOBER",
+      "branch": "(OCTOBER BRANCH)",
+      "swift_code": "EXDEEGCXOCT"
+    },
+    {
+      "id": 12,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "FIEGEGCXOCT"
+    },
+    {
+      "id": 13,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "MIDBEGCXOCT"
+    },
+    {
+      "id": 14,
+      "bank": "MISR IRAN DEVELOPMENT BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(UNIVERSITY OF 6 OCTOBER BRANCH)",
+      "swift_code": "MIDBEGCXUNV"
+    },
+    {
+      "id": 15,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "WABAEGCXOCT"
+    },
+    {
+      "id": 16,
+      "bank": "NATIONAL BANK OF KUWAIT - EGYPT",
+      "city": "6TH OF OCTOBER",
+      "branch": "(EL SHEIKH ZAYED BRANCH)",
+      "swift_code": "WABAEGCXZAY"
+    },
+    {
+      "id": 17,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER BRANCH)",
+      "swift_code": "SBNKEGCXOCT"
+    },
+    {
+      "id": 18,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "6TH OF OCTOBER",
+      "branch": "",
+      "swift_code": "SBNKEGCXARM"
+    },
+    {
+      "id": 19,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "6TH OF OCTOBER",
+      "branch": "",
+      "swift_code": "SBNKEGCXBVR"
+    },
+    {
+      "id": 20,
+      "bank": "SUEZ CANAL BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(6TH OF OCTOBER CITY BRANCH)",
+      "swift_code": "SUCAEGCXOCT"
+    },
+    {
+      "id": 21,
+      "bank": "SUEZ CANAL BANK",
+      "city": "6TH OF OCTOBER",
+      "branch": "(UNIVERSITY BRANCH)",
+      "swift_code": "SUCAEGCXOCU"
+    }
+  ],
+  "meta": {
+    "title": "بنوك 6Th Of October — مصر — رموز سويفت (Banks of 6Th Of October, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة 6Th Of October (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 21 سجلًا. List of banks, financial institutions and their branches in 6Th Of October, Egypt with the SWIFT/BIC code, bank name and branch name for each. 21 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك 6Th Of October — مصر — رموز سويفت (Banks of 6Th Of October, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك 6Th Of October — مصر — رموز سويفت (Banks of 6Th Of October, Egypt — SWIFT/BIC codes) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

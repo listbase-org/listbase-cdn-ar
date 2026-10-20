@@ -1,0 +1,616 @@
+{
+  "id": "ar-najran-mudun",
+  "name": "مدن منطقة نجران (Cities of Najran)",
+  "title": "مدن منطقة نجران (Cities of Najran)",
+  "description": "قائمة مدن منطقة نجران (Najran) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Najran administrative region of Saudi Arabia (region_id=12). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 2520,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "حمراء نثيل / ابو شداد",
+      "name_en": "Hamrah Nithil / Abu Shadad",
+      "slug": "hamrah-nithil-abu-shadad"
+    },
+    {
+      "city_id": 2521,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "خجيم",
+      "name_en": "Khajim",
+      "slug": "khajim"
+    },
+    {
+      "city_id": 2522,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "يدمة",
+      "name_en": "Yadamah",
+      "slug": "yadamah"
+    },
+    {
+      "city_id": 2523,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "ابا الرخم",
+      "name_en": "Aba Ar Rakham",
+      "slug": "aba-ar-rakham"
+    },
+    {
+      "city_id": 2524,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "مركز الوجيد",
+      "name_en": "Markaz Al Wujid",
+      "slug": "markaz-al-wujid"
+    },
+    {
+      "city_id": 2525,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "ظلماء",
+      "name_en": "Dhalma",
+      "slug": "dhalma-2525"
+    },
+    {
+      "city_id": 2872,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "زور العقارب",
+      "name_en": "Zur Al Aqarib",
+      "slug": "zur-al-aqarib"
+    },
+    {
+      "city_id": 2873,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الغافية",
+      "name_en": "Al Ghafiyah",
+      "slug": "al-ghafiyah"
+    },
+    {
+      "city_id": 2874,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "صفاه",
+      "name_en": "Sufah",
+      "slug": "sufah"
+    },
+    {
+      "city_id": 2875,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "العضبات",
+      "name_en": "Al Adabat",
+      "slug": "al-adabat"
+    },
+    {
+      "city_id": 2876,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "قطان",
+      "name_en": "Qatan",
+      "slug": "qatan"
+    },
+    {
+      "city_id": 2877,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "ثار",
+      "name_en": "Thar",
+      "slug": "thar"
+    },
+    {
+      "city_id": 2878,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "حمى",
+      "name_en": "Hima",
+      "slug": "hima"
+    },
+    {
+      "city_id": 3334,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "ام الوهط",
+      "name_en": "Umm Al Whaht",
+      "slug": "umm-al-whaht"
+    },
+    {
+      "city_id": 3335,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "المنخلي",
+      "name_en": "Al Minkhali",
+      "slug": "al-minkhali"
+    },
+    {
+      "city_id": 3336,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "خد قيس",
+      "name_en": "Khad Qays",
+      "slug": "khad-qays"
+    },
+    {
+      "city_id": 3337,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الحمضة",
+      "name_en": "Al Hamdah",
+      "slug": "al-hamdah-3337"
+    },
+    {
+      "city_id": 3338,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "تريمة",
+      "name_en": "Tirimah",
+      "slug": "tirimah"
+    },
+    {
+      "city_id": 3339,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الظاهرة",
+      "name_en": "Adh Dhahirah",
+      "slug": "adh-dhahirah"
+    },
+    {
+      "city_id": 3340,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "رضية",
+      "name_en": "Rudayyah",
+      "slug": "rudayyah"
+    },
+    {
+      "city_id": 3341,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "حزامة",
+      "name_en": "Hazamah",
+      "slug": "hazamah"
+    },
+    {
+      "city_id": 3342,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "بدر الجنوب",
+      "name_en": "Badr Al Janub",
+      "slug": "badr-al-janub"
+    },
+    {
+      "city_id": 3343,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الحرشف",
+      "name_en": "Al Harshaf",
+      "slug": "al-harshaf"
+    },
+    {
+      "city_id": 3344,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "هدادة",
+      "name_en": "Hadadah",
+      "slug": "hadadah"
+    },
+    {
+      "city_id": 3345,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الخانق",
+      "name_en": "Al Khaniq",
+      "slug": "al-khaniq"
+    },
+    {
+      "city_id": 3346,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الجفة",
+      "name_en": "Al Jifah",
+      "slug": "al-jifah"
+    },
+    {
+      "city_id": 3347,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "شرورة",
+      "name_en": "Sharurah",
+      "slug": "sharurah"
+    },
+    {
+      "city_id": 3348,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "شقة الكناور",
+      "name_en": "Shiqqat Al Kanawir",
+      "slug": "shiqqat-al-kanawir"
+    },
+    {
+      "city_id": 3349,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "التماني",
+      "name_en": "At Tamani",
+      "slug": "at-tamani"
+    },
+    {
+      "city_id": 3350,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الوديعة",
+      "name_en": "Al Wadiah",
+      "slug": "al-wadiah"
+    },
+    {
+      "city_id": 3388,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الهويمل",
+      "name_en": "Al Huwaymil",
+      "slug": "al-huwaymil"
+    },
+    {
+      "city_id": 3389,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "بئر خباش",
+      "name_en": "Bir Khubash",
+      "slug": "bir-khubash"
+    },
+    {
+      "city_id": 3390,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-3390"
+    },
+    {
+      "city_id": 3391,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "قابل منيف",
+      "name_en": "Qabil Minif",
+      "slug": "qabil-minif"
+    },
+    {
+      "city_id": 3392,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الهويد",
+      "name_en": "Al Hawid",
+      "slug": "al-hawid"
+    },
+    {
+      "city_id": 3393,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الحجف",
+      "name_en": "Al Hijf",
+      "slug": "al-hijf"
+    },
+    {
+      "city_id": 3394,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الدواس",
+      "name_en": "Ad Dawas",
+      "slug": "ad-dawas"
+    },
+    {
+      "city_id": 3395,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "لاهومة",
+      "name_en": "Lahumah",
+      "slug": "lahumah"
+    },
+    {
+      "city_id": 3396,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "حبونا",
+      "name_en": "Hubuna",
+      "slug": "hubuna"
+    },
+    {
+      "city_id": 3397,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الحصينية",
+      "name_en": "Al Husayniyah",
+      "slug": "al-husayniyah-3397"
+    },
+    {
+      "city_id": 3412,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الفيصلية",
+      "name_en": "Al Faysaliyah",
+      "slug": "al-faysaliyah-3412"
+    },
+    {
+      "city_id": 3413,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "معمر ريمان",
+      "name_en": "Mamar Riman",
+      "slug": "mamar-riman"
+    },
+    {
+      "city_id": 3414,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "دوح",
+      "name_en": "Dawwah",
+      "slug": "dawwah"
+    },
+    {
+      "city_id": 3415,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "النقعاء",
+      "name_en": "An Naqa",
+      "slug": "an-naqa-3415"
+    },
+    {
+      "city_id": 3416,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "النقعاء",
+      "name_en": "An Naqa",
+      "slug": "an-naqa-3416"
+    },
+    {
+      "city_id": 3417,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "نجران",
+      "name_en": "Najran",
+      "slug": "najran"
+    },
+    {
+      "city_id": 3418,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "بئر عسكر",
+      "name_en": "Bir Askar",
+      "slug": "bir-askar"
+    },
+    {
+      "city_id": 3419,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "نهوقة",
+      "name_en": "Nahuqah",
+      "slug": "nahuqah"
+    },
+    {
+      "city_id": 3420,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "ال شهي",
+      "name_en": "Al Shahi",
+      "slug": "al-shahi"
+    },
+    {
+      "city_id": 3421,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "رجلاء",
+      "name_en": "Rijla",
+      "slug": "rijla"
+    },
+    {
+      "city_id": 3422,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "آل سوار",
+      "name_en": "Alsuwar",
+      "slug": "alsuwar"
+    },
+    {
+      "city_id": 3423,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "المجمع",
+      "name_en": "Al Majma",
+      "slug": "al-majma-3423"
+    },
+    {
+      "city_id": 3424,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "البرك",
+      "name_en": "Al Barak",
+      "slug": "al-barak"
+    },
+    {
+      "city_id": 3425,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "العريسة",
+      "name_en": "Al Arayyisah",
+      "slug": "al-arayyisah"
+    },
+    {
+      "city_id": 3562,
+      "region_id": 12,
+      "region_ar": "نجران",
+      "region_en": "Najran",
+      "region_slug": "najran",
+      "name_ar": "الخرخير",
+      "name_en": "Al Kharkhir",
+      "slug": "al-kharkhir"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة نجران (Cities of Najran) - تحميل مجاني",
+    "description": "قائمة مدن منطقة نجران (Najran) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Najran administrative region of Saudi Arabia (region_id=12). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 55 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة نجران (Cities of Najran) | ListBase",
+    "seo_description": "تحميل مدن منطقة نجران (Cities of Najran) — 55 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 55 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

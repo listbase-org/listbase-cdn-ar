@@ -1,0 +1,6386 @@
+{
+  "id": "ar-asir-mudun",
+  "name": "مدن منطقة عسير (Cities of Asir)",
+  "title": "مدن منطقة عسير (Cities of Asir)",
+  "description": "قائمة مدن منطقة عسير (Asir) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Asir administrative region of Saudi Arabia (region_id=8). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 632,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 15,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ابها",
+      "name_en": "Abha",
+      "slug": "abha"
+    },
+    {
+      "city_id": 62,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خميس مشيط",
+      "name_en": "Khamis Mushayt",
+      "slug": "khamis-mushayt"
+    },
+    {
+      "city_id": 65,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "احد رفيده",
+      "name_en": "Ahad Rifaydah",
+      "slug": "ahad-rifaydah"
+    },
+    {
+      "city_id": 1265,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shubah",
+      "slug": "ash-shubah-1265"
+    },
+    {
+      "city_id": 1266,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القذال",
+      "name_en": "Al Qadhal",
+      "slug": "al-qadhal"
+    },
+    {
+      "city_id": 1267,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شواحط",
+      "name_en": "Shawahit",
+      "slug": "shawahit"
+    },
+    {
+      "city_id": 1268,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عدمن",
+      "name_en": "Adaman",
+      "slug": "adaman"
+    },
+    {
+      "city_id": 1269,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المنيظر",
+      "name_en": "Al Munaydhir",
+      "slug": "al-munaydhir"
+    },
+    {
+      "city_id": 1270,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "محبة",
+      "name_en": "Mahabbah",
+      "slug": "mahabbah"
+    },
+    {
+      "city_id": 1271,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفصعيلة",
+      "name_en": "Al Fasilah",
+      "slug": "al-fasilah"
+    },
+    {
+      "city_id": 1272,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المسلمة",
+      "name_en": "Al Maslamah",
+      "slug": "al-maslamah-1272"
+    },
+    {
+      "city_id": 1273,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخوش",
+      "name_en": "Al Khawsh",
+      "slug": "al-khawsh"
+    },
+    {
+      "city_id": 1274,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الكنبي",
+      "name_en": "Al Kanabi",
+      "slug": "al-kanabi"
+    },
+    {
+      "city_id": 1275,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القيوار",
+      "name_en": "Al Qiwar",
+      "slug": "al-qiwar"
+    },
+    {
+      "city_id": 1276,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القنعات",
+      "name_en": "Al Qanaat",
+      "slug": "al-qanaat"
+    },
+    {
+      "city_id": 1277,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الميفاء",
+      "name_en": "Al Mifa",
+      "slug": "al-mifa-1277"
+    },
+    {
+      "city_id": 1278,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "صعابان",
+      "name_en": "Saaban",
+      "slug": "saaban"
+    },
+    {
+      "city_id": 1279,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مكهاف",
+      "name_en": "Makhaf",
+      "slug": "makhaf"
+    },
+    {
+      "city_id": 1280,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المنظر",
+      "name_en": "Al Mandhar",
+      "slug": "al-mandhar"
+    },
+    {
+      "city_id": 1281,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم فرع",
+      "name_en": "Umm Fura",
+      "slug": "umm-fura"
+    },
+    {
+      "city_id": 1282,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القريحة",
+      "name_en": "Al Qurayhah",
+      "slug": "al-qurayhah"
+    },
+    {
+      "city_id": 1283,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفرعة",
+      "name_en": "Al Farah",
+      "slug": "al-farah-1283"
+    },
+    {
+      "city_id": 1284,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم شعبين",
+      "name_en": "Umm Shbayn",
+      "slug": "umm-shbayn"
+    },
+    {
+      "city_id": 1285,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مشرف",
+      "name_en": "Mishrif",
+      "slug": "mishrif"
+    },
+    {
+      "city_id": 1286,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قزة",
+      "name_en": "Quzzah",
+      "slug": "quzzah"
+    },
+    {
+      "city_id": 1287,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سيالة",
+      "name_en": "Sayalah",
+      "slug": "sayalah"
+    },
+    {
+      "city_id": 1288,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الأحسر",
+      "name_en": "Al Ahsar",
+      "slug": "al-ahsar"
+    },
+    {
+      "city_id": 1289,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفاضية",
+      "name_en": "Al Fadiyah",
+      "slug": "al-fadiyah"
+    },
+    {
+      "city_id": 1290,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "نعص",
+      "name_en": "Nas",
+      "slug": "nas"
+    },
+    {
+      "city_id": 1291,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الضحي",
+      "name_en": "Ad Dahi",
+      "slug": "ad-dahi-1291"
+    },
+    {
+      "city_id": 1292,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحيد عبس",
+      "name_en": "Al Hayd Abs",
+      "slug": "al-hayd-abs"
+    },
+    {
+      "city_id": 1293,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطرقة",
+      "name_en": "At Taraqah",
+      "slug": "at-taraqah"
+    },
+    {
+      "city_id": 1294,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجاردة",
+      "name_en": "Al Majardah",
+      "slug": "al-majardah"
+    },
+    {
+      "city_id": 1295,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحمة",
+      "name_en": "Al Himah",
+      "slug": "al-himah"
+    },
+    {
+      "city_id": 1296,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العقيقة",
+      "name_en": "Al Aqiqah",
+      "slug": "al-aqiqah"
+    },
+    {
+      "city_id": 1297,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بارق",
+      "name_en": "Bariq",
+      "slug": "bariq"
+    },
+    {
+      "city_id": 1298,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهرير الشرقي - الجازي",
+      "name_en": "Al Hurayr Ash Sharqi / Al Jazi",
+      "slug": "al-hurayr-ash-sharqi-al-jazi"
+    },
+    {
+      "city_id": 1299,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "طيب الإسم",
+      "name_en": "Tayyib Al Ism",
+      "slug": "tayyib-al-ism"
+    },
+    {
+      "city_id": 1300,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العمارة",
+      "name_en": "Al Ammarah",
+      "slug": "al-ammarah-1300"
+    },
+    {
+      "city_id": 1301,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بيشة",
+      "name_en": "Bishah",
+      "slug": "bishah-1301"
+    },
+    {
+      "city_id": 1302,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المزارقة",
+      "name_en": "Al Mazarqah",
+      "slug": "al-mazarqah"
+    },
+    {
+      "city_id": 1303,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل غيثان",
+      "name_en": "Al Ghaythan",
+      "slug": "al-ghaythan"
+    },
+    {
+      "city_id": 1304,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الشريفي",
+      "name_en": "Al Ash Shirayfi",
+      "slug": "al-ash-shirayfi"
+    },
+    {
+      "city_id": 1305,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل التوم",
+      "name_en": "Al At Tum",
+      "slug": "al-at-tum"
+    },
+    {
+      "city_id": 1306,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سويد",
+      "name_en": "Al Suwayd",
+      "slug": "al-suwayd"
+    },
+    {
+      "city_id": 1307,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصمدة",
+      "name_en": "As Simidah",
+      "slug": "as-simidah"
+    },
+    {
+      "city_id": 1308,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفيض",
+      "name_en": "Al Fayd",
+      "slug": "al-fayd-1308"
+    },
+    {
+      "city_id": 1309,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مريح",
+      "name_en": "Al Mirayyih",
+      "slug": "al-mirayyih"
+    },
+    {
+      "city_id": 1310,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "صفوان",
+      "name_en": "Safwan",
+      "slug": "safwan"
+    },
+    {
+      "city_id": 1311,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرونة",
+      "name_en": "Ar Runah",
+      "slug": "ar-runah"
+    },
+    {
+      "city_id": 1312,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الذيب",
+      "name_en": "Al Adh Dhib",
+      "slug": "al-adh-dhib-1312"
+    },
+    {
+      "city_id": 1313,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "روضان",
+      "name_en": "Rawdan",
+      "slug": "rawdan"
+    },
+    {
+      "city_id": 1429,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السفح",
+      "name_en": "As Safah",
+      "slug": "as-safah"
+    },
+    {
+      "city_id": 1430,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حزم مفتاح",
+      "name_en": "Hazm Miftah",
+      "slug": "hazm-miftah"
+    },
+    {
+      "city_id": 1431,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "جاش",
+      "name_en": "Jash",
+      "slug": "jash"
+    },
+    {
+      "city_id": 1432,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "روضة جاش",
+      "name_en": "Rudat Jash",
+      "slug": "rudat-jash"
+    },
+    {
+      "city_id": 1433,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرفين",
+      "name_en": "Al Harfayn",
+      "slug": "al-harfayn-1433"
+    },
+    {
+      "city_id": 1434,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لاعس",
+      "name_en": "Lais",
+      "slug": "lais"
+    },
+    {
+      "city_id": 1435,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مريغان",
+      "name_en": "Murayghan",
+      "slug": "murayghan-1435"
+    },
+    {
+      "city_id": 1436,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدريب",
+      "name_en": "Ad Dirayb",
+      "slug": "ad-dirayb"
+    },
+    {
+      "city_id": 1437,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجازع",
+      "name_en": "Al Jazi",
+      "slug": "al-jazi"
+    },
+    {
+      "city_id": 1438,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفاخرية",
+      "name_en": "Al Fakhriyah",
+      "slug": "al-fakhriyah"
+    },
+    {
+      "city_id": 1439,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كتنة",
+      "name_en": "Kutnah",
+      "slug": "kutnah-1439"
+    },
+    {
+      "city_id": 1440,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجزيرة",
+      "name_en": "Al Jazirah",
+      "slug": "al-jazirah"
+    },
+    {
+      "city_id": 1441,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahawah",
+      "slug": "ar-rahawah-1441"
+    },
+    {
+      "city_id": 1442,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مريخة",
+      "name_en": "Muraykhah",
+      "slug": "muraykhah-1442"
+    },
+    {
+      "city_id": 1443,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تثليث",
+      "name_en": "Tathilith",
+      "slug": "tathilith"
+    },
+    {
+      "city_id": 1444,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ال سويدان",
+      "name_en": "Al Suwaydan",
+      "slug": "al-suwaydan"
+    },
+    {
+      "city_id": 1445,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ال عيفان",
+      "name_en": "Al Ayfan",
+      "slug": "al-ayfan"
+    },
+    {
+      "city_id": 1446,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ال خميسة",
+      "name_en": "Al Khumaysah",
+      "slug": "al-khumaysah"
+    },
+    {
+      "city_id": 1447,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القيرة",
+      "name_en": "Al Qirah",
+      "slug": "al-qirah"
+    },
+    {
+      "city_id": 1448,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحمضة",
+      "name_en": "Al Hamdah",
+      "slug": "al-hamdah-1448"
+    },
+    {
+      "city_id": 1449,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الزرق",
+      "name_en": "Az Zurq",
+      "slug": "az-zurq"
+    },
+    {
+      "city_id": 1450,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حبية",
+      "name_en": "Habiyah",
+      "slug": "habiyah"
+    },
+    {
+      "city_id": 1451,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "رغوان",
+      "name_en": "Rughwan",
+      "slug": "rughwan"
+    },
+    {
+      "city_id": 1452,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-1452"
+    },
+    {
+      "city_id": 1453,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الامواه",
+      "name_en": "Al Amwah",
+      "slug": "al-amwah"
+    },
+    {
+      "city_id": 1454,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصبيخة",
+      "name_en": "As Subaykhah",
+      "slug": "as-subaykhah"
+    },
+    {
+      "city_id": 1470,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخليج",
+      "name_en": "Al Khalij",
+      "slug": "al-khalij"
+    },
+    {
+      "city_id": 1471,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصبيحي",
+      "name_en": "As Sabihi",
+      "slug": "as-sabihi"
+    },
+    {
+      "city_id": 1472,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المدراء",
+      "name_en": "Al Madra",
+      "slug": "al-madra"
+    },
+    {
+      "city_id": 1473,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الباقرة",
+      "name_en": "Al Baqirah",
+      "slug": "al-baqirah"
+    },
+    {
+      "city_id": 1474,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "نمران",
+      "name_en": "Namran",
+      "slug": "namran"
+    },
+    {
+      "city_id": 1475,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شديق",
+      "name_en": "Shudayq",
+      "slug": "shudayq"
+    },
+    {
+      "city_id": 1476,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرف",
+      "name_en": "Al Harf",
+      "slug": "al-harf"
+    },
+    {
+      "city_id": 1477,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العطف",
+      "name_en": "Al Atf",
+      "slug": "al-atf"
+    },
+    {
+      "city_id": 1478,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدحو",
+      "name_en": "Ad Dihu",
+      "slug": "ad-dihu"
+    },
+    {
+      "city_id": 1479,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحريرة",
+      "name_en": "Al Hurayrah",
+      "slug": "al-hurayrah"
+    },
+    {
+      "city_id": 1480,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشقيقة",
+      "name_en": "Ash Shaqiqah",
+      "slug": "ash-shaqiqah"
+    },
+    {
+      "city_id": 1481,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "النقيع",
+      "name_en": "An Naqi",
+      "slug": "an-naqi"
+    },
+    {
+      "city_id": 1482,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرفائع",
+      "name_en": "Ar Rafai",
+      "slug": "ar-rafai-1482"
+    },
+    {
+      "city_id": 1483,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجنينة",
+      "name_en": "Al Junaynah",
+      "slug": "al-junaynah"
+    },
+    {
+      "city_id": 1484,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عيدان",
+      "name_en": "Idan",
+      "slug": "idan-1484"
+    },
+    {
+      "city_id": 1485,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم الفروغ",
+      "name_en": "Umm Al Furugh",
+      "slug": "umm-al-furugh-1485"
+    },
+    {
+      "city_id": 1486,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عقيلية",
+      "name_en": "Aqiliyah",
+      "slug": "aqiliyah"
+    },
+    {
+      "city_id": 1487,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بينة",
+      "name_en": "Baynah",
+      "slug": "baynah"
+    },
+    {
+      "city_id": 1488,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عرمان",
+      "name_en": "Arman",
+      "slug": "arman"
+    },
+    {
+      "city_id": 1489,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القديح",
+      "name_en": "Al Qidayh",
+      "slug": "al-qidayh"
+    },
+    {
+      "city_id": 1490,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "واعر",
+      "name_en": "Wair",
+      "slug": "wair"
+    },
+    {
+      "city_id": 1491,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشط",
+      "name_en": "Ash Shatt",
+      "slug": "ash-shatt"
+    },
+    {
+      "city_id": 1492,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المروة",
+      "name_en": "Al Marwah",
+      "slug": "al-marwah-1492"
+    },
+    {
+      "city_id": 1493,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المهامل",
+      "name_en": "Al Mahamil",
+      "slug": "al-mahamil-1493"
+    },
+    {
+      "city_id": 1494,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجمعة",
+      "name_en": "Al Majmaah",
+      "slug": "al-majmaah-1494"
+    },
+    {
+      "city_id": 1495,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحيفة",
+      "name_en": "Al Hifah",
+      "slug": "al-hifah-1495"
+    },
+    {
+      "city_id": 1496,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مهر",
+      "name_en": "Muhr",
+      "slug": "muhr"
+    },
+    {
+      "city_id": 1497,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البهيم",
+      "name_en": "Al Bahim",
+      "slug": "al-bahim"
+    },
+    {
+      "city_id": 1498,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغفرات",
+      "name_en": "Al Ghafrat",
+      "slug": "al-ghafrat"
+    },
+    {
+      "city_id": 1499,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المعدن",
+      "name_en": "Al Madin",
+      "slug": "al-madin"
+    },
+    {
+      "city_id": 1500,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القوز",
+      "name_en": "Al Quz",
+      "slug": "al-quz"
+    },
+    {
+      "city_id": 1501,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بادية",
+      "name_en": "Badiyah",
+      "slug": "badiyah-1501"
+    },
+    {
+      "city_id": 1502,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القاع",
+      "name_en": "Al Qa",
+      "slug": "al-qa-1502"
+    },
+    {
+      "city_id": 1503,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كتنة",
+      "name_en": "Kutnah",
+      "slug": "kutnah-1503"
+    },
+    {
+      "city_id": 1504,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مجحم",
+      "name_en": "Mujahhim",
+      "slug": "mujahhim"
+    },
+    {
+      "city_id": 1505,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحجون",
+      "name_en": "Al Hajun",
+      "slug": "al-hajun"
+    },
+    {
+      "city_id": 1506,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "صمخ",
+      "name_en": "Samakh",
+      "slug": "samakh"
+    },
+    {
+      "city_id": 1507,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهجرة",
+      "name_en": "Al Hijrah",
+      "slug": "al-hijrah"
+    },
+    {
+      "city_id": 1508,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الثنية",
+      "name_en": "Ath Thiniyah",
+      "slug": "ath-thiniyah"
+    },
+    {
+      "city_id": 1509,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القوزية",
+      "name_en": "Al Qawziyah",
+      "slug": "al-qawziyah"
+    },
+    {
+      "city_id": 1510,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القوباء",
+      "name_en": "Al Qawba",
+      "slug": "al-qawba"
+    },
+    {
+      "city_id": 1511,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قطبة",
+      "name_en": "Qutbah",
+      "slug": "qutbah"
+    },
+    {
+      "city_id": 1512,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "دفرخرشان",
+      "name_en": "Dafir Kharshan",
+      "slug": "dafir-kharshan"
+    },
+    {
+      "city_id": 1513,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "جلال",
+      "name_en": "Jallal",
+      "slug": "jallal"
+    },
+    {
+      "city_id": 1514,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بيشة",
+      "name_en": "Bishah",
+      "slug": "bishah-1514"
+    },
+    {
+      "city_id": 1515,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الديلمي",
+      "name_en": "Ad Dailami",
+      "slug": "ad-dailami"
+    },
+    {
+      "city_id": 1516,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرقيطاء",
+      "name_en": "Ar Ruqaita",
+      "slug": "ar-ruqaita"
+    },
+    {
+      "city_id": 1517,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تبالة",
+      "name_en": "Tabalah",
+      "slug": "tabalah"
+    },
+    {
+      "city_id": 1518,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحازمي",
+      "name_en": "Al Hazmi",
+      "slug": "al-hazmi"
+    },
+    {
+      "city_id": 1519,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-1519"
+    },
+    {
+      "city_id": 1549,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشقيق",
+      "name_en": "Ash Shaqiq",
+      "slug": "ash-shaqiq-1549"
+    },
+    {
+      "city_id": 1550,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البظاظة",
+      "name_en": "Al Badhdhadhah",
+      "slug": "al-badhdhadhah"
+    },
+    {
+      "city_id": 1551,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرجة",
+      "name_en": "Al Harajah",
+      "slug": "al-harajah-1551"
+    },
+    {
+      "city_id": 1552,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل يزيد",
+      "name_en": "Al Yazid",
+      "slug": "al-yazid-1552"
+    },
+    {
+      "city_id": 1553,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القعرة",
+      "name_en": "Al Qarah",
+      "slug": "al-qarah-1553"
+    },
+    {
+      "city_id": 1554,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفرع",
+      "name_en": "Al Far",
+      "slug": "al-far-1554"
+    },
+    {
+      "city_id": 1555,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البلس",
+      "name_en": "Al Balas",
+      "slug": "al-balas"
+    },
+    {
+      "city_id": 1556,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العظة",
+      "name_en": "Al Idhah",
+      "slug": "al-idhah"
+    },
+    {
+      "city_id": 1557,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصرف",
+      "name_en": "As Suruf",
+      "slug": "as-suruf"
+    },
+    {
+      "city_id": 1558,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ثما",
+      "name_en": "Thamma",
+      "slug": "thamma"
+    },
+    {
+      "city_id": 1559,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العاسرة",
+      "name_en": "Al Asirah",
+      "slug": "al-asirah"
+    },
+    {
+      "city_id": 1560,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حجاب",
+      "name_en": "Hijab",
+      "slug": "hijab"
+    },
+    {
+      "city_id": 1561,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحصنة",
+      "name_en": "Al Husanah",
+      "slug": "al-husanah"
+    },
+    {
+      "city_id": 1562,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الزارية",
+      "name_en": "Al Az Zariyah",
+      "slug": "al-az-zariyah"
+    },
+    {
+      "city_id": 1563,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحصباء",
+      "name_en": "Al Hasba",
+      "slug": "al-hasba"
+    },
+    {
+      "city_id": 1564,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سلمة",
+      "name_en": "Al Salamah",
+      "slug": "al-salamah"
+    },
+    {
+      "city_id": 1565,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ال الشيخ",
+      "name_en": "Al Ash Shaykh",
+      "slug": "al-ash-shaykh-1565"
+    },
+    {
+      "city_id": 1566,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البشائر",
+      "name_en": "Al Bashair",
+      "slug": "al-bashair"
+    },
+    {
+      "city_id": 1626,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بلقرن",
+      "name_en": "Balqarn",
+      "slug": "balqarn"
+    },
+    {
+      "city_id": 1640,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قدرين",
+      "name_en": "Qudrayn",
+      "slug": "qudrayn"
+    },
+    {
+      "city_id": 1641,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سفيان",
+      "name_en": "Al Sufyan",
+      "slug": "al-sufyan"
+    },
+    {
+      "city_id": 1642,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البدلة",
+      "name_en": "Al Badlah",
+      "slug": "al-badlah-1642"
+    },
+    {
+      "city_id": 1643,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مملح",
+      "name_en": "Mamlah",
+      "slug": "mamlah"
+    },
+    {
+      "city_id": 1644,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل جودة",
+      "name_en": "Al Jawdah",
+      "slug": "al-jawdah"
+    },
+    {
+      "city_id": 1645,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بني زهير",
+      "name_en": "Bani Zuhayr",
+      "slug": "bani-zuhayr"
+    },
+    {
+      "city_id": 1646,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحدباء",
+      "name_en": "Al Hadba",
+      "slug": "al-hadba-1646"
+    },
+    {
+      "city_id": 1647,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل إثيبة",
+      "name_en": "Al Ithibah",
+      "slug": "al-ithibah"
+    },
+    {
+      "city_id": 1648,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تلاء",
+      "name_en": "Tala",
+      "slug": "tala"
+    },
+    {
+      "city_id": 1649,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القيسة",
+      "name_en": "Al Qaysah",
+      "slug": "al-qaysah"
+    },
+    {
+      "city_id": 1650,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل فارس",
+      "name_en": "Al Faris",
+      "slug": "al-faris"
+    },
+    {
+      "city_id": 1651,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الذفراء",
+      "name_en": "Adh Dhafra",
+      "slug": "adh-dhafra"
+    },
+    {
+      "city_id": 1652,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بطحة",
+      "name_en": "Bathah",
+      "slug": "bathah"
+    },
+    {
+      "city_id": 1653,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بني قيس",
+      "name_en": "Bani Qays",
+      "slug": "bani-qays"
+    },
+    {
+      "city_id": 1654,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القضوى",
+      "name_en": "Al Qadwa",
+      "slug": "al-qadwa"
+    },
+    {
+      "city_id": 1655,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحميطة",
+      "name_en": "Al Humayyitah",
+      "slug": "al-humayyitah"
+    },
+    {
+      "city_id": 1656,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرشداء",
+      "name_en": "Ar Rashda",
+      "slug": "ar-rashda"
+    },
+    {
+      "city_id": 1657,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لبوة",
+      "name_en": "Labwah",
+      "slug": "labwah"
+    },
+    {
+      "city_id": 1658,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل حضينان",
+      "name_en": "Al Hidaynan",
+      "slug": "al-hidaynan"
+    },
+    {
+      "city_id": 1659,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجرا",
+      "name_en": "Al Mujra",
+      "slug": "al-mujra"
+    },
+    {
+      "city_id": 1660,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخرب",
+      "name_en": "Al Kharb",
+      "slug": "al-kharb"
+    },
+    {
+      "city_id": 1661,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل صقر",
+      "name_en": "Al Saqr",
+      "slug": "al-saqr"
+    },
+    {
+      "city_id": 1662,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "جليلة",
+      "name_en": "Jilayyiah",
+      "slug": "jilayyiah"
+    },
+    {
+      "city_id": 1663,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "طعمة",
+      "name_en": "Timah",
+      "slug": "timah"
+    },
+    {
+      "city_id": 1664,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المعاملة",
+      "name_en": "Al Muamalah",
+      "slug": "al-muamalah"
+    },
+    {
+      "city_id": 1665,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحيمة",
+      "name_en": "Al Haymah",
+      "slug": "al-haymah"
+    },
+    {
+      "city_id": 1666,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البطنة",
+      "name_en": "Al Batnah",
+      "slug": "al-batnah"
+    },
+    {
+      "city_id": 1667,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بيش",
+      "name_en": "Bish",
+      "slug": "bish"
+    },
+    {
+      "city_id": 1668,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحيفة",
+      "name_en": "Al Hifah",
+      "slug": "al-hifah-1668"
+    },
+    {
+      "city_id": 1669,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطريف الأعلى",
+      "name_en": "At Turayf Al Ala",
+      "slug": "at-turayf-al-ala"
+    },
+    {
+      "city_id": 1670,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المضة",
+      "name_en": "Al Maddah",
+      "slug": "al-maddah-1670"
+    },
+    {
+      "city_id": 1671,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عرقة",
+      "name_en": "Irqah",
+      "slug": "irqah-1671"
+    },
+    {
+      "city_id": 1672,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ثفرة",
+      "name_en": "Thafrah",
+      "slug": "thafrah"
+    },
+    {
+      "city_id": 1673,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فرعة قواء",
+      "name_en": "Farat Quwa",
+      "slug": "farat-quwa"
+    },
+    {
+      "city_id": 1674,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البرقاء",
+      "name_en": "Al Barqa",
+      "slug": "al-barqa"
+    },
+    {
+      "city_id": 1675,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فرسان",
+      "name_en": "Farasan",
+      "slug": "farasan-1675"
+    },
+    {
+      "city_id": 1676,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لسس",
+      "name_en": "Lasas",
+      "slug": "lasas"
+    },
+    {
+      "city_id": 1677,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القوز",
+      "name_en": "Al Qawz",
+      "slug": "al-qawz-1677"
+    },
+    {
+      "city_id": 1678,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصفا الملبد",
+      "name_en": "As Safa Al Mulabad",
+      "slug": "as-safa-al-mulabad"
+    },
+    {
+      "city_id": 1679,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الثعيلبة",
+      "name_en": "Ath Thuaylibah",
+      "slug": "ath-thuaylibah"
+    },
+    {
+      "city_id": 1680,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطلحة",
+      "name_en": "At Talhah",
+      "slug": "at-talhah-1680"
+    },
+    {
+      "city_id": 1681,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بادية",
+      "name_en": "Badiyah",
+      "slug": "badiyah-1681"
+    },
+    {
+      "city_id": 1682,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-1682"
+    },
+    {
+      "city_id": 1683,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البغث",
+      "name_en": "Al Baghath",
+      "slug": "al-baghath"
+    },
+    {
+      "city_id": 1684,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المريفق",
+      "name_en": "Al Murayfiq",
+      "slug": "al-murayfiq-1684"
+    },
+    {
+      "city_id": 1685,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرفين",
+      "name_en": "Al Harfayn",
+      "slug": "al-harfayn-1685"
+    },
+    {
+      "city_id": 1686,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القضة",
+      "name_en": "Al Qaddah",
+      "slug": "al-qaddah"
+    },
+    {
+      "city_id": 1687,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحامض",
+      "name_en": "Al Hamid",
+      "slug": "al-hamid-1687"
+    },
+    {
+      "city_id": 1688,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطلاح",
+      "name_en": "At Tilah",
+      "slug": "at-tilah"
+    },
+    {
+      "city_id": 1689,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "واسط",
+      "name_en": "Wasit",
+      "slug": "wasit-1689"
+    },
+    {
+      "city_id": 1690,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خشم شاع",
+      "name_en": "Khashm Sha",
+      "slug": "khashm-sha"
+    },
+    {
+      "city_id": 1691,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخضاير",
+      "name_en": "Al Khadayir",
+      "slug": "al-khadayir"
+    },
+    {
+      "city_id": 1692,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مشحذ",
+      "name_en": "Mashhidh",
+      "slug": "mashhidh"
+    },
+    {
+      "city_id": 1693,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بريم السليل",
+      "name_en": "Buraym As Silil",
+      "slug": "buraym-as-silil"
+    },
+    {
+      "city_id": 1694,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البردان",
+      "name_en": "Al Burdan",
+      "slug": "al-burdan"
+    },
+    {
+      "city_id": 1695,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "رغوة",
+      "name_en": "Righwah",
+      "slug": "righwah"
+    },
+    {
+      "city_id": 1696,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سعيد",
+      "name_en": "Al Said",
+      "slug": "al-said-1696"
+    },
+    {
+      "city_id": 1697,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغول",
+      "name_en": "Al Ghawl",
+      "slug": "al-ghawl-1697"
+    },
+    {
+      "city_id": 1698,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الهايلة",
+      "name_en": "Al Al Hayilah",
+      "slug": "al-al-hayilah"
+    },
+    {
+      "city_id": 1699,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل جرمان",
+      "name_en": "Al Jarman",
+      "slug": "al-jarman"
+    },
+    {
+      "city_id": 1700,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عرقة",
+      "name_en": "Irqah",
+      "slug": "irqah-1700"
+    },
+    {
+      "city_id": 1701,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحواويش",
+      "name_en": "Al Hawawish",
+      "slug": "al-hawawish"
+    },
+    {
+      "city_id": 1702,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المري",
+      "name_en": "Al Marri",
+      "slug": "al-marri"
+    },
+    {
+      "city_id": 1703,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل شويل",
+      "name_en": "Al Shuwayl",
+      "slug": "al-shuwayl"
+    },
+    {
+      "city_id": 1704,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كدمان",
+      "name_en": "Kidman",
+      "slug": "kidman"
+    },
+    {
+      "city_id": 1705,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصفية",
+      "name_en": "As Sufayyah",
+      "slug": "as-sufayyah"
+    },
+    {
+      "city_id": 1706,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "إبن نجم",
+      "name_en": "Ibn Nijam",
+      "slug": "ibn-nijam"
+    },
+    {
+      "city_id": 1707,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المثناة",
+      "name_en": "Al Mathnah",
+      "slug": "al-mathnah-1707"
+    },
+    {
+      "city_id": 1709,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "وادي ابن هشبل",
+      "name_en": "Wadi Ibn Hashbal",
+      "slug": "wadi-ibn-hashbal"
+    },
+    {
+      "city_id": 1710,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ال بي ثور",
+      "name_en": "Al Bi Thawr",
+      "slug": "al-bi-thawr"
+    },
+    {
+      "city_id": 1711,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السلع",
+      "name_en": "As Sila",
+      "slug": "as-sila"
+    },
+    {
+      "city_id": 1712,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المضة",
+      "name_en": "Al Maddah",
+      "slug": "al-maddah-1712"
+    },
+    {
+      "city_id": 1713,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الروضة",
+      "name_en": "Ar Rawdah",
+      "slug": "ar-rawdah-1713"
+    },
+    {
+      "city_id": 1714,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خيبر الجنوب",
+      "name_en": "Khaybar Al Janub",
+      "slug": "khaybar-al-janub"
+    },
+    {
+      "city_id": 1715,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحثدة",
+      "name_en": "Al Hithadah",
+      "slug": "al-hithadah"
+    },
+    {
+      "city_id": 1716,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الباعق",
+      "name_en": "Al Baiq",
+      "slug": "al-baiq"
+    },
+    {
+      "city_id": 1717,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرض",
+      "name_en": "Al Ard",
+      "slug": "al-ard"
+    },
+    {
+      "city_id": 1718,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم ضحي",
+      "name_en": "Umm Dahi",
+      "slug": "umm-dahi"
+    },
+    {
+      "city_id": 1719,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل ثوبان",
+      "name_en": "Al Thawban",
+      "slug": "al-thawban"
+    },
+    {
+      "city_id": 1720,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحيلة",
+      "name_en": "Al Haylah",
+      "slug": "al-haylah"
+    },
+    {
+      "city_id": 1721,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مراتخ",
+      "name_en": "Muratikh",
+      "slug": "muratikh"
+    },
+    {
+      "city_id": 1722,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم ظهور الرفود",
+      "name_en": "Umm Dhuhur Ar Rafud",
+      "slug": "umm-dhuhur-ar-rafud"
+    },
+    {
+      "city_id": 1723,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مجزوعة",
+      "name_en": "Majzuah",
+      "slug": "majzuah"
+    },
+    {
+      "city_id": 1724,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرونة",
+      "name_en": "Al Qurunah",
+      "slug": "al-qurunah"
+    },
+    {
+      "city_id": 1725,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الريع",
+      "name_en": "Ar Ri",
+      "slug": "ar-ri"
+    },
+    {
+      "city_id": 1726,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قنيفد",
+      "name_en": "Qinayfid",
+      "slug": "qinayfid"
+    },
+    {
+      "city_id": 1727,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المربع",
+      "name_en": "Al Murabba",
+      "slug": "al-murabba-1727"
+    },
+    {
+      "city_id": 1728,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفاهمة",
+      "name_en": "Al Fahmah",
+      "slug": "al-fahmah"
+    },
+    {
+      "city_id": 1729,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل محصن",
+      "name_en": "Al Muhsun",
+      "slug": "al-muhsun"
+    },
+    {
+      "city_id": 1730,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "النصب",
+      "name_en": "An Nusub",
+      "slug": "an-nusub"
+    },
+    {
+      "city_id": 1731,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المسلم",
+      "name_en": "Al Muslim",
+      "slug": "al-muslim"
+    },
+    {
+      "city_id": 1732,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الريش",
+      "name_en": "Ar Raysh",
+      "slug": "ar-raysh"
+    },
+    {
+      "city_id": 1733,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحاجب",
+      "name_en": "Al Hajib",
+      "slug": "al-hajib"
+    },
+    {
+      "city_id": 1734,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل علين",
+      "name_en": "Al Illin",
+      "slug": "al-illin"
+    },
+    {
+      "city_id": 1735,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحضن",
+      "name_en": "Al Hudn",
+      "slug": "al-hudn"
+    },
+    {
+      "city_id": 1736,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-1736"
+    },
+    {
+      "city_id": 1737,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المكثر",
+      "name_en": "Al Mukaththir",
+      "slug": "al-mukaththir"
+    },
+    {
+      "city_id": 1738,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البارك",
+      "name_en": "Al Barik",
+      "slug": "al-barik-1738"
+    },
+    {
+      "city_id": 1739,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المغمر",
+      "name_en": "Al Maghmar",
+      "slug": "al-maghmar"
+    },
+    {
+      "city_id": 1740,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العيدة",
+      "name_en": "Al Idah",
+      "slug": "al-idah"
+    },
+    {
+      "city_id": 1741,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحجف",
+      "name_en": "Al Hajf",
+      "slug": "al-hajf"
+    },
+    {
+      "city_id": 1742,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المقاعد",
+      "name_en": "Al Maqaid",
+      "slug": "al-maqaid"
+    },
+    {
+      "city_id": 1743,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شعب دريب",
+      "name_en": "Shib Durayb",
+      "slug": "shib-durayb"
+    },
+    {
+      "city_id": 1744,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الكديد",
+      "name_en": "Al Kadid",
+      "slug": "al-kadid"
+    },
+    {
+      "city_id": 1745,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السحر",
+      "name_en": "As Sahar",
+      "slug": "as-sahar"
+    },
+    {
+      "city_id": 1746,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "إبن عبيدي",
+      "name_en": "Ibn Abidi",
+      "slug": "ibn-abidi"
+    },
+    {
+      "city_id": 1747,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجبهة",
+      "name_en": "Al Jabhah",
+      "slug": "al-jabhah"
+    },
+    {
+      "city_id": 1748,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرة",
+      "name_en": "Al Harrah",
+      "slug": "al-harrah-1748"
+    },
+    {
+      "city_id": 1749,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "معصم",
+      "name_en": "Masam",
+      "slug": "masam"
+    },
+    {
+      "city_id": 1750,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحدبات",
+      "name_en": "Al Hadabat",
+      "slug": "al-hadabat"
+    },
+    {
+      "city_id": 1751,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المعشور",
+      "name_en": "Al Mashur",
+      "slug": "al-mashur"
+    },
+    {
+      "city_id": 1752,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المسلمة",
+      "name_en": "Al Maslamah",
+      "slug": "al-maslamah-1752"
+    },
+    {
+      "city_id": 1753,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بين الجبلين",
+      "name_en": "Bayn Al Jablayn",
+      "slug": "bayn-al-jablayn"
+    },
+    {
+      "city_id": 1754,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحشف",
+      "name_en": "Al Hashaf",
+      "slug": "al-hashaf"
+    },
+    {
+      "city_id": 1755,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ريمان",
+      "name_en": "Rayman",
+      "slug": "rayman"
+    },
+    {
+      "city_id": 1756,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخليف",
+      "name_en": "Al Khalif",
+      "slug": "al-khalif-1756"
+    },
+    {
+      "city_id": 1757,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الراحة",
+      "name_en": "Ar Rahah",
+      "slug": "ar-rahah-1757"
+    },
+    {
+      "city_id": 1758,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العفارة",
+      "name_en": "Al Afarah",
+      "slug": "al-afarah"
+    },
+    {
+      "city_id": 1759,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البجيلي",
+      "name_en": "Al Bajili",
+      "slug": "al-bajili"
+    },
+    {
+      "city_id": 1760,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العقل",
+      "name_en": "Al Aql",
+      "slug": "al-aql"
+    },
+    {
+      "city_id": 1761,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجمعة",
+      "name_en": "Al Majmaah",
+      "slug": "al-majmaah-1761"
+    },
+    {
+      "city_id": 1762,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سيال",
+      "name_en": "Sayyal",
+      "slug": "sayyal"
+    },
+    {
+      "city_id": 1763,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل معلوي",
+      "name_en": "Al Malawi",
+      "slug": "al-malawi"
+    },
+    {
+      "city_id": 1764,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخطيم",
+      "name_en": "Al Khutaym",
+      "slug": "al-khutaym-1764"
+    },
+    {
+      "city_id": 1765,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفي",
+      "name_en": "Al Fayy",
+      "slug": "al-fayy"
+    },
+    {
+      "city_id": 1766,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجردان",
+      "name_en": "Al Jardan",
+      "slug": "al-jardan"
+    },
+    {
+      "city_id": 1767,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خارف",
+      "name_en": "Kharif",
+      "slug": "kharif"
+    },
+    {
+      "city_id": 1768,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشرف",
+      "name_en": "Ash Sharaf",
+      "slug": "ash-sharaf-1768"
+    },
+    {
+      "city_id": 1769,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سارة",
+      "name_en": "Sarah",
+      "slug": "sarah"
+    },
+    {
+      "city_id": 1770,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سقامة",
+      "name_en": "Siqamah",
+      "slug": "siqamah"
+    },
+    {
+      "city_id": 1771,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخبارة",
+      "name_en": "Al Khabarah",
+      "slug": "al-khabarah"
+    },
+    {
+      "city_id": 1787,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حبث",
+      "name_en": "Habath",
+      "slug": "habath"
+    },
+    {
+      "city_id": 1788,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل ناهية",
+      "name_en": "Al Nahiyah",
+      "slug": "al-nahiyah"
+    },
+    {
+      "city_id": 1789,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الذيب",
+      "name_en": "Al Adh Dhib",
+      "slug": "al-adh-dhib-1789"
+    },
+    {
+      "city_id": 1790,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فتاح",
+      "name_en": "Futah",
+      "slug": "futah"
+    },
+    {
+      "city_id": 1791,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مسلت",
+      "name_en": "Maslat",
+      "slug": "maslat"
+    },
+    {
+      "city_id": 1792,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل شدادي",
+      "name_en": "Al Shaddadi",
+      "slug": "al-shaddadi"
+    },
+    {
+      "city_id": 1793,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عاصمي",
+      "name_en": "Al Asimi",
+      "slug": "al-asimi"
+    },
+    {
+      "city_id": 1794,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ذي حصيمو",
+      "name_en": "Dhi Husaymu",
+      "slug": "dhi-husaymu"
+    },
+    {
+      "city_id": 1795,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "وسانب",
+      "name_en": "Wusanib",
+      "slug": "wusanib"
+    },
+    {
+      "city_id": 1796,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الزهراء",
+      "name_en": "Az Zaha",
+      "slug": "az-zaha"
+    },
+    {
+      "city_id": 1797,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المسقوي",
+      "name_en": "Al Masqawi",
+      "slug": "al-masqawi"
+    },
+    {
+      "city_id": 1798,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "هدة",
+      "name_en": "Hidah",
+      "slug": "hidah"
+    },
+    {
+      "city_id": 1799,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغال",
+      "name_en": "Al Ghal",
+      "slug": "al-ghal-1799"
+    },
+    {
+      "city_id": 1800,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خميس مطير",
+      "name_en": "Khamis Mutair",
+      "slug": "khamis-mutair"
+    },
+    {
+      "city_id": 1801,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "محايل",
+      "name_en": "Muhayil",
+      "slug": "muhayil"
+    },
+    {
+      "city_id": 1802,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قنا البحر",
+      "name_en": "Qana & Al Bahr",
+      "slug": "qana-al-bahr"
+    },
+    {
+      "city_id": 1803,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "خميس البحر",
+      "name_en": "Khamis Al Bahr",
+      "slug": "khamis-al-bahr"
+    },
+    {
+      "city_id": 1804,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قشيعة",
+      "name_en": "Qushayah",
+      "slug": "qushayah"
+    },
+    {
+      "city_id": 1805,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "دالج",
+      "name_en": "Dalaj",
+      "slug": "dalaj"
+    },
+    {
+      "city_id": 1806,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شط إبن جازعة",
+      "name_en": "Shatt Ibn Jaziah",
+      "slug": "shatt-ibn-jaziah"
+    },
+    {
+      "city_id": 1807,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "منقش",
+      "name_en": "Manqash",
+      "slug": "manqash"
+    },
+    {
+      "city_id": 1808,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدماغ",
+      "name_en": "Ad Dimagh",
+      "slug": "ad-dimagh"
+    },
+    {
+      "city_id": 1809,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ثلوث ريم",
+      "name_en": "Thuluth Rim",
+      "slug": "thuluth-rim"
+    },
+    {
+      "city_id": 1810,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحضن",
+      "name_en": "Al Hadan",
+      "slug": "al-hadan-1810"
+    },
+    {
+      "city_id": 1811,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الضاجع",
+      "name_en": "Ad Daji",
+      "slug": "ad-daji"
+    },
+    {
+      "city_id": 1812,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرصعة",
+      "name_en": "Ar Rasah",
+      "slug": "ar-rasah"
+    },
+    {
+      "city_id": 1813,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سنومة",
+      "name_en": "Sanumah",
+      "slug": "sanumah"
+    },
+    {
+      "city_id": 1814,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجرف",
+      "name_en": "Al Jarf",
+      "slug": "al-jarf-1814"
+    },
+    {
+      "city_id": 1815,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السرو",
+      "name_en": "As Sarw",
+      "slug": "as-sarw"
+    },
+    {
+      "city_id": 1816,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العشة",
+      "name_en": "Al Ashshah",
+      "slug": "al-ashshah"
+    },
+    {
+      "city_id": 1817,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مجم",
+      "name_en": "Al Majam",
+      "slug": "al-majam"
+    },
+    {
+      "city_id": 1818,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحصون",
+      "name_en": "Al Husun",
+      "slug": "al-husun-1818"
+    },
+    {
+      "city_id": 1819,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القارية",
+      "name_en": "Al Qariyah",
+      "slug": "al-qariyah"
+    },
+    {
+      "city_id": 1820,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الذروة",
+      "name_en": "Adh Dhurwah",
+      "slug": "adh-dhurwah"
+    },
+    {
+      "city_id": 1821,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشعبين",
+      "name_en": "Ash Shibayn",
+      "slug": "ash-shibayn"
+    },
+    {
+      "city_id": 1822,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عيسى",
+      "name_en": "Al Isa",
+      "slug": "al-isa"
+    },
+    {
+      "city_id": 1823,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مرجومة",
+      "name_en": "Marjumah",
+      "slug": "marjumah"
+    },
+    {
+      "city_id": 1824,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بيغ",
+      "name_en": "Bayyagh",
+      "slug": "bayyagh"
+    },
+    {
+      "city_id": 1825,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجزوة",
+      "name_en": "Al Jazwah",
+      "slug": "al-jazwah"
+    },
+    {
+      "city_id": 1826,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فقوة",
+      "name_en": "Faqwah",
+      "slug": "faqwah"
+    },
+    {
+      "city_id": 1827,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل متعالي",
+      "name_en": "Al Mutali",
+      "slug": "al-mutali"
+    },
+    {
+      "city_id": 1828,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "دبلاء",
+      "name_en": "Dabla",
+      "slug": "dabla"
+    },
+    {
+      "city_id": 1829,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرن",
+      "name_en": "Al Qurun",
+      "slug": "al-qurun"
+    },
+    {
+      "city_id": 1830,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كلمة",
+      "name_en": "Kalmah",
+      "slug": "kalmah"
+    },
+    {
+      "city_id": 1831,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مصم",
+      "name_en": "Al Masam",
+      "slug": "al-masam"
+    },
+    {
+      "city_id": 1832,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "يسراة",
+      "name_en": "Yasrah",
+      "slug": "yasrah"
+    },
+    {
+      "city_id": 1833,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الأثل",
+      "name_en": "Al Athl",
+      "slug": "al-athl"
+    },
+    {
+      "city_id": 1834,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لصناي",
+      "name_en": "Lasnay",
+      "slug": "lasnay"
+    },
+    {
+      "city_id": 1835,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عكية",
+      "name_en": "Ukyah",
+      "slug": "ukyah"
+    },
+    {
+      "city_id": 1836,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرار",
+      "name_en": "Al Qarar",
+      "slug": "al-qarar"
+    },
+    {
+      "city_id": 1837,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجرف",
+      "name_en": "Al Jarf",
+      "slug": "al-jarf-1837"
+    },
+    {
+      "city_id": 1838,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فيشان",
+      "name_en": "Fayshan",
+      "slug": "fayshan"
+    },
+    {
+      "city_id": 1839,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-1839"
+    },
+    {
+      "city_id": 1840,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الراحة",
+      "name_en": "Ar Rahah",
+      "slug": "ar-rahah-1840"
+    },
+    {
+      "city_id": 1841,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "اللصبة",
+      "name_en": "Al Lasbah",
+      "slug": "al-lasbah"
+    },
+    {
+      "city_id": 1842,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "جو جيبة",
+      "name_en": "Jaww Jibah",
+      "slug": "jaww-jibah"
+    },
+    {
+      "city_id": 1843,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لهد",
+      "name_en": "Luhud",
+      "slug": "luhud"
+    },
+    {
+      "city_id": 1844,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهدانة",
+      "name_en": "Al Hadanah",
+      "slug": "al-hadanah"
+    },
+    {
+      "city_id": 1845,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أبو ذراع",
+      "name_en": "Abu Dhira",
+      "slug": "abu-dhira"
+    },
+    {
+      "city_id": 1846,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "رجال المع",
+      "name_en": "Rijal Alma",
+      "slug": "rijal-alma"
+    },
+    {
+      "city_id": 1847,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السودة",
+      "name_en": "As Sudah",
+      "slug": "as-sudah"
+    },
+    {
+      "city_id": 1848,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحريضة",
+      "name_en": "Al Huraydah",
+      "slug": "al-huraydah"
+    },
+    {
+      "city_id": 1849,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخطوة",
+      "name_en": "Al Khutwah",
+      "slug": "al-khutwah-1849"
+    },
+    {
+      "city_id": 1850,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحبيل",
+      "name_en": "Al Habil",
+      "slug": "al-habil-1850"
+    },
+    {
+      "city_id": 1851,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل قفيع",
+      "name_en": "Al Qifay",
+      "slug": "al-qifay"
+    },
+    {
+      "city_id": 1852,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المضيق",
+      "name_en": "Al Madiq",
+      "slug": "al-madiq-1852"
+    },
+    {
+      "city_id": 1853,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل لغر",
+      "name_en": "Al Laghir",
+      "slug": "al-laghir"
+    },
+    {
+      "city_id": 1854,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهضبة",
+      "name_en": "Al Hadabah",
+      "slug": "al-hadabah-1854"
+    },
+    {
+      "city_id": 1855,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل دلهم",
+      "name_en": "Al Dalham",
+      "slug": "al-dalham"
+    },
+    {
+      "city_id": 1856,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عنقرة",
+      "name_en": "Unqarah",
+      "slug": "unqarah"
+    },
+    {
+      "city_id": 1857,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل لوط",
+      "name_en": "Al Lut",
+      "slug": "al-lut"
+    },
+    {
+      "city_id": 1858,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مكر",
+      "name_en": "Al Makir",
+      "slug": "al-makir"
+    },
+    {
+      "city_id": 1859,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عرق",
+      "name_en": "Al Irq",
+      "slug": "al-irq-1859"
+    },
+    {
+      "city_id": 1860,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سرايم",
+      "name_en": "Sarayim",
+      "slug": "sarayim"
+    },
+    {
+      "city_id": 1861,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لزمة",
+      "name_en": "Lazmah",
+      "slug": "lazmah"
+    },
+    {
+      "city_id": 1862,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدرب",
+      "name_en": "Ad Darb",
+      "slug": "ad-darb-1862"
+    },
+    {
+      "city_id": 1863,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بني تميم",
+      "name_en": "Bani Tamim",
+      "slug": "bani-tamim"
+    },
+    {
+      "city_id": 1864,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرحاء",
+      "name_en": "Al Qarha",
+      "slug": "al-qarha"
+    },
+    {
+      "city_id": 1865,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عمرة",
+      "name_en": "Al Amrah",
+      "slug": "al-amrah"
+    },
+    {
+      "city_id": 1866,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الداحس",
+      "name_en": "Al Ad Dahis",
+      "slug": "al-ad-dahis"
+    },
+    {
+      "city_id": 1867,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل زهير",
+      "name_en": "Al Zuhayr",
+      "slug": "al-zuhayr"
+    },
+    {
+      "city_id": 1868,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عراب",
+      "name_en": "Irab",
+      "slug": "irab"
+    },
+    {
+      "city_id": 1869,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مشهور",
+      "name_en": "Al Mashhur",
+      "slug": "al-mashhur"
+    },
+    {
+      "city_id": 1870,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عامر",
+      "name_en": "Al Amir",
+      "slug": "al-amir-1870"
+    },
+    {
+      "city_id": 1871,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل حديلة",
+      "name_en": "Al Hidaylah",
+      "slug": "al-hidaylah"
+    },
+    {
+      "city_id": 1872,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل حلامي",
+      "name_en": "Al Hilami",
+      "slug": "al-hilami"
+    },
+    {
+      "city_id": 1873,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "صفحان",
+      "name_en": "Safhan",
+      "slug": "safhan"
+    },
+    {
+      "city_id": 2513,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الكنهبلة",
+      "name_en": "Al Kanahbilah",
+      "slug": "al-kanahbilah"
+    },
+    {
+      "city_id": 2514,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السهوة",
+      "name_en": "As Sahwah",
+      "slug": "as-sahwah-2514"
+    },
+    {
+      "city_id": 2515,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "يانف",
+      "name_en": "Yanif",
+      "slug": "yanif"
+    },
+    {
+      "city_id": 2516,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حلباء",
+      "name_en": "Halaba",
+      "slug": "halaba-2516"
+    },
+    {
+      "city_id": 2517,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العدوة",
+      "name_en": "Al Idwah",
+      "slug": "al-idwah-2517"
+    },
+    {
+      "city_id": 2518,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطلحة",
+      "name_en": "At Talhah",
+      "slug": "at-talhah-2518"
+    },
+    {
+      "city_id": 2519,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "النماص",
+      "name_en": "An Namas / Tanumah",
+      "slug": "an-namas-tanumah"
+    },
+    {
+      "city_id": 2526,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تباشعة",
+      "name_en": "Tubashah",
+      "slug": "tubashah"
+    },
+    {
+      "city_id": 2527,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أم خيسة",
+      "name_en": "Umm Khisah",
+      "slug": "umm-khisah"
+    },
+    {
+      "city_id": 2528,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "صلحلح",
+      "name_en": "Salahlah",
+      "slug": "salahlah"
+    },
+    {
+      "city_id": 2529,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل خضاري",
+      "name_en": "Al Khidari",
+      "slug": "al-khidari"
+    },
+    {
+      "city_id": 2654,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مجادب",
+      "name_en": "Al Mijadib",
+      "slug": "al-mijadib"
+    },
+    {
+      "city_id": 2655,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السبت",
+      "name_en": "As Sabt",
+      "slug": "as-sabt-2655"
+    },
+    {
+      "city_id": 2656,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الصعدي",
+      "name_en": "Al As Sadi",
+      "slug": "al-as-sadi"
+    },
+    {
+      "city_id": 2657,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سدوان",
+      "name_en": "Sadwan",
+      "slug": "sadwan"
+    },
+    {
+      "city_id": 2658,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشعف",
+      "name_en": "Ash Shaf",
+      "slug": "ash-shaf"
+    },
+    {
+      "city_id": 2659,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لربوعة",
+      "name_en": "Larbuah",
+      "slug": "larbuah"
+    },
+    {
+      "city_id": 2660,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قريش",
+      "name_en": "Qiraysh",
+      "slug": "qiraysh"
+    },
+    {
+      "city_id": 2661,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل دحمان",
+      "name_en": "Al Dahman",
+      "slug": "al-dahman"
+    },
+    {
+      "city_id": 2662,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجفر",
+      "name_en": "Al Jafr",
+      "slug": "al-jafr-2662"
+    },
+    {
+      "city_id": 2663,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "النماص",
+      "name_en": "An Namas",
+      "slug": "an-namas"
+    },
+    {
+      "city_id": 2664,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شوحطة",
+      "name_en": "Shuhitah",
+      "slug": "shuhitah"
+    },
+    {
+      "city_id": 2665,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-2665"
+    },
+    {
+      "city_id": 2666,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قاها",
+      "name_en": "Qaha",
+      "slug": "qaha-2666"
+    },
+    {
+      "city_id": 2667,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عزة",
+      "name_en": "Al Azzah",
+      "slug": "al-azzah"
+    },
+    {
+      "city_id": 2668,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بيحان",
+      "name_en": "Bihan",
+      "slug": "bihan"
+    },
+    {
+      "city_id": 2669,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قرآنية",
+      "name_en": "Quraniyah",
+      "slug": "quraniyah"
+    },
+    {
+      "city_id": 2670,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العطوف",
+      "name_en": "Al Utuf",
+      "slug": "al-utuf"
+    },
+    {
+      "city_id": 2879,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشرفات",
+      "name_en": "Ash Shurafat",
+      "slug": "ash-shurafat"
+    },
+    {
+      "city_id": 2880,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرعي",
+      "name_en": "Ar Ray",
+      "slug": "ar-ray"
+    },
+    {
+      "city_id": 2881,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطرق",
+      "name_en": "At Tirq",
+      "slug": "at-tirq"
+    },
+    {
+      "city_id": 2882,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجرمة",
+      "name_en": "Al Jirmah",
+      "slug": "al-jirmah"
+    },
+    {
+      "city_id": 2883,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحشافة",
+      "name_en": "Al Hashafah",
+      "slug": "al-hashafah-2883"
+    },
+    {
+      "city_id": 2884,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حمضة",
+      "name_en": "Hamadah",
+      "slug": "hamadah"
+    },
+    {
+      "city_id": 2885,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المطعن",
+      "name_en": "Al Matan",
+      "slug": "al-matan-2885"
+    },
+    {
+      "city_id": 2886,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المنجحة",
+      "name_en": "Al Manjahah",
+      "slug": "al-manjahah"
+    },
+    {
+      "city_id": 2887,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفيض",
+      "name_en": "Al Fayd",
+      "slug": "al-fayd-2887"
+    },
+    {
+      "city_id": 2888,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "غالب",
+      "name_en": "Ghalib",
+      "slug": "ghalib"
+    },
+    {
+      "city_id": 2889,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سعيدة",
+      "name_en": "Saidah",
+      "slug": "saidah"
+    },
+    {
+      "city_id": 2890,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الأجرع الشمالي",
+      "name_en": "Al Ajra Ash Shamali",
+      "slug": "al-ajra-ash-shamali"
+    },
+    {
+      "city_id": 2891,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ذهبان",
+      "name_en": "Dhahban",
+      "slug": "dhahban-2891"
+    },
+    {
+      "city_id": 2892,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "دبساء",
+      "name_en": "Dabsa",
+      "slug": "dabsa"
+    },
+    {
+      "city_id": 2893,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البرك",
+      "name_en": "Al Birk",
+      "slug": "al-birk"
+    },
+    {
+      "city_id": 2894,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القحمة",
+      "name_en": "Al Qahmah",
+      "slug": "al-qahmah-2894"
+    },
+    {
+      "city_id": 2895,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عمق",
+      "name_en": "Amaq",
+      "slug": "amaq"
+    },
+    {
+      "city_id": 2896,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحظيرة",
+      "name_en": "Al Hadhirah",
+      "slug": "al-hadhirah-2896"
+    },
+    {
+      "city_id": 2897,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل حامد",
+      "name_en": "Al Hamid",
+      "slug": "al-hamid-2897"
+    },
+    {
+      "city_id": 2898,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل يوسف",
+      "name_en": "Al Yusuf",
+      "slug": "al-yusuf"
+    },
+    {
+      "city_id": 2899,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البدلة",
+      "name_en": "Al Badlah",
+      "slug": "al-badlah-2899"
+    },
+    {
+      "city_id": 2900,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لولاة",
+      "name_en": "Lawlah",
+      "slug": "lawlah"
+    },
+    {
+      "city_id": 2901,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "نجد قرض",
+      "name_en": "Najd Qarad",
+      "slug": "najd-qarad"
+    },
+    {
+      "city_id": 2902,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "جمان",
+      "name_en": "Jumman",
+      "slug": "jumman"
+    },
+    {
+      "city_id": 2903,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كثم",
+      "name_en": "Kathm",
+      "slug": "kathm"
+    },
+    {
+      "city_id": 2904,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السلامة",
+      "name_en": "As Salamah",
+      "slug": "as-salamah-2904"
+    },
+    {
+      "city_id": 2905,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المثناة",
+      "name_en": "Al Mathnah",
+      "slug": "al-mathnah-2905"
+    },
+    {
+      "city_id": 2906,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهضبة",
+      "name_en": "Al Hadbah",
+      "slug": "al-hadbah"
+    },
+    {
+      "city_id": 2907,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لعصان",
+      "name_en": "Lisan",
+      "slug": "lisan"
+    },
+    {
+      "city_id": 2908,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المحالة",
+      "name_en": "Al Mahalah",
+      "slug": "al-mahalah"
+    },
+    {
+      "city_id": 2909,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشرف",
+      "name_en": "Ash Sharaf",
+      "slug": "ash-sharaf-2909"
+    },
+    {
+      "city_id": 2910,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سر آل السريع",
+      "name_en": "Sirr Al As Siri",
+      "slug": "sirr-al-as-siri"
+    },
+    {
+      "city_id": 2911,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العبب",
+      "name_en": "Al Abab",
+      "slug": "al-abab"
+    },
+    {
+      "city_id": 2912,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدارة",
+      "name_en": "Ad Darah",
+      "slug": "ad-darah-2912"
+    },
+    {
+      "city_id": 2913,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجرجر",
+      "name_en": "Al Jarjar",
+      "slug": "al-jarjar"
+    },
+    {
+      "city_id": 2914,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عدوان",
+      "name_en": "Adwan",
+      "slug": "adwan"
+    },
+    {
+      "city_id": 2915,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العين",
+      "name_en": "Al Ayn",
+      "slug": "al-ayn-2915"
+    },
+    {
+      "city_id": 2916,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجعجاع",
+      "name_en": "Al Jaja",
+      "slug": "al-jaja"
+    },
+    {
+      "city_id": 2917,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الموسطة",
+      "name_en": "Al Mawsatah",
+      "slug": "al-mawsatah"
+    },
+    {
+      "city_id": 2918,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل جمعة",
+      "name_en": "Al Jumah",
+      "slug": "al-jumah"
+    },
+    {
+      "city_id": 2919,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العزيزة",
+      "name_en": "Al Azizah",
+      "slug": "al-azizah"
+    },
+    {
+      "city_id": 2920,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الهرير الغربي",
+      "name_en": "Al Hirayr Al Gharbi",
+      "slug": "al-hirayr-al-gharbi"
+    },
+    {
+      "city_id": 2921,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "إيتارة",
+      "name_en": "Itarah",
+      "slug": "itarah"
+    },
+    {
+      "city_id": 2922,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أبو نخلة",
+      "name_en": "Abu Nakhlah",
+      "slug": "abu-nakhlah-2922"
+    },
+    {
+      "city_id": 2923,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرح",
+      "name_en": "Al Qurh",
+      "slug": "al-qurh"
+    },
+    {
+      "city_id": 2924,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرف",
+      "name_en": "Al Urf",
+      "slug": "al-urf"
+    },
+    {
+      "city_id": 2925,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "أبو جرشة",
+      "name_en": "Abu Jarshah",
+      "slug": "abu-jarshah"
+    },
+    {
+      "city_id": 2926,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخشم",
+      "name_en": "Al Khashm",
+      "slug": "al-khashm"
+    },
+    {
+      "city_id": 2927,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "روغ العاند",
+      "name_en": "Rugh Al Anid",
+      "slug": "rugh-al-anid"
+    },
+    {
+      "city_id": 2928,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل بالفلاح",
+      "name_en": "Al Balfalah",
+      "slug": "al-balfalah"
+    },
+    {
+      "city_id": 2929,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حجلا",
+      "name_en": "Hajla",
+      "slug": "hajla"
+    },
+    {
+      "city_id": 2930,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العطفة",
+      "name_en": "Al Utfah",
+      "slug": "al-utfah-2930"
+    },
+    {
+      "city_id": 2931,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تانة",
+      "name_en": "Tanah",
+      "slug": "tanah"
+    },
+    {
+      "city_id": 2932,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الشيخ",
+      "name_en": "Al Ash Shaykh",
+      "slug": "al-ash-shaykh-2932"
+    },
+    {
+      "city_id": 2933,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حبيب",
+      "name_en": "Hubayyib",
+      "slug": "hubayyib"
+    },
+    {
+      "city_id": 2934,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "رغفة",
+      "name_en": "Rughfah",
+      "slug": "rughfah"
+    },
+    {
+      "city_id": 2935,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عضاضة",
+      "name_en": "Adadah",
+      "slug": "adadah"
+    },
+    {
+      "city_id": 2936,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سرحان",
+      "name_en": "Al Sirhan",
+      "slug": "al-sirhan"
+    },
+    {
+      "city_id": 2937,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القعرة",
+      "name_en": "Al Qurah",
+      "slug": "al-qurah"
+    },
+    {
+      "city_id": 2938,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل يزيد",
+      "name_en": "Al Yazid",
+      "slug": "al-yazid-2938"
+    },
+    {
+      "city_id": 2939,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجمع",
+      "name_en": "Al Majma",
+      "slug": "al-majma-2939"
+    },
+    {
+      "city_id": 2940,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصيحاني",
+      "name_en": "As Sayhani",
+      "slug": "as-sayhani"
+    },
+    {
+      "city_id": 2941,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البهيمة",
+      "name_en": "Al Bihaymah",
+      "slug": "al-bihaymah"
+    },
+    {
+      "city_id": 2942,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرعاء",
+      "name_en": "Al Qara",
+      "slug": "al-qara-2942"
+    },
+    {
+      "city_id": 2943,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجر الصغير",
+      "name_en": "Al Jarr As Saghir",
+      "slug": "al-jarr-as-saghir"
+    },
+    {
+      "city_id": 2944,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشعف",
+      "name_en": "Ash Shaaf",
+      "slug": "ash-shaaf"
+    },
+    {
+      "city_id": 2945,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تمنية",
+      "name_en": "Tamniyah",
+      "slug": "tamniyah"
+    },
+    {
+      "city_id": 2946,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-2946"
+    },
+    {
+      "city_id": 2947,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل علي",
+      "name_en": "Al Ali",
+      "slug": "al-ali"
+    },
+    {
+      "city_id": 2948,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عين الذيبة",
+      "name_en": "Ayn Adh Dhibah",
+      "slug": "ayn-adh-dhibah"
+    },
+    {
+      "city_id": 2949,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "البارك",
+      "name_en": "Al Barik",
+      "slug": "al-barik-2949"
+    },
+    {
+      "city_id": 2950,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قرضة",
+      "name_en": "Qaradah",
+      "slug": "qaradah-2950"
+    },
+    {
+      "city_id": 2951,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل زيدي",
+      "name_en": "Al Zaydi",
+      "slug": "al-zaydi"
+    },
+    {
+      "city_id": 2952,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حصن الجرين",
+      "name_en": "Husn Al Jarin",
+      "slug": "husn-al-jarin"
+    },
+    {
+      "city_id": 2953,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عاصم",
+      "name_en": "Al Asim",
+      "slug": "al-asim"
+    },
+    {
+      "city_id": 2954,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجنفور",
+      "name_en": "Al Janfur",
+      "slug": "al-janfur"
+    },
+    {
+      "city_id": 2955,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عرايس",
+      "name_en": "Arayis",
+      "slug": "arayis"
+    },
+    {
+      "city_id": 2956,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عمام",
+      "name_en": "Umam",
+      "slug": "umam"
+    },
+    {
+      "city_id": 2957,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-2957"
+    },
+    {
+      "city_id": 2958,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شوحط",
+      "name_en": "Shuhat",
+      "slug": "shuhat"
+    },
+    {
+      "city_id": 2959,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "منادرالعين",
+      "name_en": "Manadir Al Ayn",
+      "slug": "manadir-al-ayn"
+    },
+    {
+      "city_id": 2960,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بني رزام",
+      "name_en": "Bani Rizam",
+      "slug": "bani-rizam"
+    },
+    {
+      "city_id": 2961,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الملاحة",
+      "name_en": "Al Malahah",
+      "slug": "al-malahah"
+    },
+    {
+      "city_id": 2962,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطلحة",
+      "name_en": "At Talhah",
+      "slug": "at-talhah-2962"
+    },
+    {
+      "city_id": 2963,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شرمة",
+      "name_en": "Sharmah",
+      "slug": "sharmah"
+    },
+    {
+      "city_id": 2964,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحنق",
+      "name_en": "Al Hanaq",
+      "slug": "al-hanaq"
+    },
+    {
+      "city_id": 2965,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرين",
+      "name_en": "Al Qurayn",
+      "slug": "al-qurayn-2965"
+    },
+    {
+      "city_id": 2966,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مجمل",
+      "name_en": "Al Mujammal",
+      "slug": "al-mujammal"
+    },
+    {
+      "city_id": 2968,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "طبب",
+      "name_en": "Tabab",
+      "slug": "tabab"
+    },
+    {
+      "city_id": 2969,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشطاط",
+      "name_en": "Al Shutat",
+      "slug": "al-shutat"
+    },
+    {
+      "city_id": 2970,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العبيدية",
+      "name_en": "Al Abidiyah",
+      "slug": "al-abidiyah"
+    },
+    {
+      "city_id": 2971,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السبت",
+      "name_en": "As Sabt",
+      "slug": "as-sabt-2971"
+    },
+    {
+      "city_id": 2972,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حمالة",
+      "name_en": "Himalah",
+      "slug": "himalah"
+    },
+    {
+      "city_id": 2973,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العقيق",
+      "name_en": "Al Aqiq",
+      "slug": "al-aqiq-2973"
+    },
+    {
+      "city_id": 2974,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العطفة",
+      "name_en": "Al Utfah",
+      "slug": "al-utfah-2974"
+    },
+    {
+      "city_id": 2975,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل بسام",
+      "name_en": "Al Bassam",
+      "slug": "al-bassam"
+    },
+    {
+      "city_id": 2976,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل دكين",
+      "name_en": "Al Dukayn",
+      "slug": "al-dukayn"
+    },
+    {
+      "city_id": 2977,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مهدي",
+      "name_en": "Al Mahadi",
+      "slug": "al-mahadi"
+    },
+    {
+      "city_id": 2978,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المصياد",
+      "name_en": "Al Misyad",
+      "slug": "al-misyad"
+    },
+    {
+      "city_id": 2979,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجزعة",
+      "name_en": "Al Juzah",
+      "slug": "al-juzah"
+    },
+    {
+      "city_id": 2980,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مشدود",
+      "name_en": "Al Mashdud",
+      "slug": "al-mashdud"
+    },
+    {
+      "city_id": 2981,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجهمة",
+      "name_en": "Al Jihmah",
+      "slug": "al-jihmah"
+    },
+    {
+      "city_id": 2982,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العسران",
+      "name_en": "Al Usran",
+      "slug": "al-usran"
+    },
+    {
+      "city_id": 2983,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل بحبيب",
+      "name_en": "Al Bihabib",
+      "slug": "al-bihabib"
+    },
+    {
+      "city_id": 2984,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل قوشع",
+      "name_en": "Al Qawsha",
+      "slug": "al-qawsha"
+    },
+    {
+      "city_id": 2985,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-2985"
+    },
+    {
+      "city_id": 3239,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرق",
+      "name_en": "Al Irq",
+      "slug": "al-irq-3239"
+    },
+    {
+      "city_id": 3240,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كعب",
+      "name_en": "Kab",
+      "slug": "kab"
+    },
+    {
+      "city_id": 3241,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخاضرة",
+      "name_en": "Al Khadirah",
+      "slug": "al-khadirah"
+    },
+    {
+      "city_id": 3242,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرن الأبيض",
+      "name_en": "Al Qarn Al Abyad",
+      "slug": "al-qarn-al-abyad"
+    },
+    {
+      "city_id": 3243,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدحض",
+      "name_en": "Ad Dahid",
+      "slug": "ad-dahid"
+    },
+    {
+      "city_id": 3244,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الظهارة",
+      "name_en": "Adh Dhaharah",
+      "slug": "adh-dhaharah"
+    },
+    {
+      "city_id": 3245,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مخدرة",
+      "name_en": "Makhdarah",
+      "slug": "makhdarah"
+    },
+    {
+      "city_id": 3246,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-3246"
+    },
+    {
+      "city_id": 3247,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرية",
+      "name_en": "Al Qaryah",
+      "slug": "al-qaryah"
+    },
+    {
+      "city_id": 3248,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بني مليح",
+      "name_en": "Bany Mulayh",
+      "slug": "bany-mulayh"
+    },
+    {
+      "city_id": 3249,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "وادي الغيل",
+      "name_en": "Wadi Al Ghayl",
+      "slug": "wadi-al-ghayl"
+    },
+    {
+      "city_id": 3250,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مليح",
+      "name_en": "Milayyah",
+      "slug": "milayyah"
+    },
+    {
+      "city_id": 3251,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ربوع السرو",
+      "name_en": "Rubu As Sarw",
+      "slug": "rubu-as-sarw"
+    },
+    {
+      "city_id": 3252,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل بو خشيف",
+      "name_en": "Al Bukhishayf",
+      "slug": "al-bukhishayf"
+    },
+    {
+      "city_id": 3253,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بهوان",
+      "name_en": "Bahwan",
+      "slug": "bahwan"
+    },
+    {
+      "city_id": 3254,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الضاربين",
+      "name_en": "Ad Daribayn",
+      "slug": "ad-daribayn"
+    },
+    {
+      "city_id": 3255,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مخلد",
+      "name_en": "Al Makhlad",
+      "slug": "al-makhlad"
+    },
+    {
+      "city_id": 3256,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عباس",
+      "name_en": "Al Abbas",
+      "slug": "al-abbas-3256"
+    },
+    {
+      "city_id": 3257,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مضرة",
+      "name_en": "Al Midrah",
+      "slug": "al-midrah"
+    },
+    {
+      "city_id": 3258,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "غاشرة",
+      "name_en": "Ghashirah",
+      "slug": "ghashirah"
+    },
+    {
+      "city_id": 3259,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ذبوب",
+      "name_en": "Dhabub",
+      "slug": "dhabub"
+    },
+    {
+      "city_id": 3260,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مجالد",
+      "name_en": "Mijalid",
+      "slug": "mijalid"
+    },
+    {
+      "city_id": 3261,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سخيطة",
+      "name_en": "Al Sakhaytah",
+      "slug": "al-sakhaytah"
+    },
+    {
+      "city_id": 3262,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عبالة",
+      "name_en": "Aballah",
+      "slug": "aballah"
+    },
+    {
+      "city_id": 3263,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عبيد",
+      "name_en": "Al Ubayd",
+      "slug": "al-ubayd-3263"
+    },
+    {
+      "city_id": 3264,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مشاعر",
+      "name_en": "Al Mishair",
+      "slug": "al-mishair"
+    },
+    {
+      "city_id": 3265,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مسفرة",
+      "name_en": "Misfirah",
+      "slug": "misfirah"
+    },
+    {
+      "city_id": 3266,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل فرش",
+      "name_en": "Al Farsh",
+      "slug": "al-farsh-3266"
+    },
+    {
+      "city_id": 3267,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحفاة",
+      "name_en": "Al Hufah",
+      "slug": "al-hufah"
+    },
+    {
+      "city_id": 3268,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الصرة",
+      "name_en": "As Surrah",
+      "slug": "as-surrah"
+    },
+    {
+      "city_id": 3269,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حوراء",
+      "name_en": "Hawra",
+      "slug": "hawra"
+    },
+    {
+      "city_id": 3270,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-3270"
+    },
+    {
+      "city_id": 3271,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "كبدة",
+      "name_en": "Kubadah",
+      "slug": "kubadah"
+    },
+    {
+      "city_id": 3272,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العينين",
+      "name_en": "Al Aynayn",
+      "slug": "al-aynayn"
+    },
+    {
+      "city_id": 3273,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "تنومة",
+      "name_en": "Tanumah",
+      "slug": "tanumah"
+    },
+    {
+      "city_id": 3274,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الواديين",
+      "name_en": "Al Wadiyayn",
+      "slug": "al-wadiyayn"
+    },
+    {
+      "city_id": 3275,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بللسمر",
+      "name_en": "Billasmar",
+      "slug": "billasmar"
+    },
+    {
+      "city_id": 3276,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل لجم",
+      "name_en": "Al Lajam",
+      "slug": "al-lajam"
+    },
+    {
+      "city_id": 3277,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الاثنين",
+      "name_en": "Al Ithnayn",
+      "slug": "al-ithnayn"
+    },
+    {
+      "city_id": 3278,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل غلفق",
+      "name_en": "Al Ghalfaq",
+      "slug": "al-ghalfaq"
+    },
+    {
+      "city_id": 3279,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سحيبان",
+      "name_en": "Suhayban",
+      "slug": "suhayban"
+    },
+    {
+      "city_id": 3280,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العمارة",
+      "name_en": "Al Ammarah",
+      "slug": "al-ammarah-3280"
+    },
+    {
+      "city_id": 3281,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "قيان",
+      "name_en": "Qiyan",
+      "slug": "qiyan"
+    },
+    {
+      "city_id": 3282,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغرس",
+      "name_en": "Al Ghars",
+      "slug": "al-ghars"
+    },
+    {
+      "city_id": 3283,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحكيمة",
+      "name_en": "Al Hakimah",
+      "slug": "al-hakimah"
+    },
+    {
+      "city_id": 3284,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرقوة",
+      "name_en": "Ar Raqwah",
+      "slug": "ar-raqwah"
+    },
+    {
+      "city_id": 3285,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الجلدة",
+      "name_en": "Al Al Jildah",
+      "slug": "al-al-jildah"
+    },
+    {
+      "city_id": 3286,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "مشروفة",
+      "name_en": "Mashrufah",
+      "slug": "mashrufah"
+    },
+    {
+      "city_id": 3287,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "لاهمة",
+      "name_en": "Lahmah",
+      "slug": "lahmah"
+    },
+    {
+      "city_id": 3288,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل فهيد",
+      "name_en": "Al Fuhayd",
+      "slug": "al-fuhayd"
+    },
+    {
+      "city_id": 3289,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحدباء",
+      "name_en": "Al Hadba",
+      "slug": "al-hadba-3289"
+    },
+    {
+      "city_id": 3290,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل صنيج",
+      "name_en": "Al Sunayj",
+      "slug": "al-sunayj"
+    },
+    {
+      "city_id": 3291,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عرفان",
+      "name_en": "Al Urfan",
+      "slug": "al-urfan-3291"
+    },
+    {
+      "city_id": 3292,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل كشيم",
+      "name_en": "Al Kushaym",
+      "slug": "al-kushaym"
+    },
+    {
+      "city_id": 3293,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحذيان",
+      "name_en": "Al Hadhyan",
+      "slug": "al-hadhyan"
+    },
+    {
+      "city_id": 3294,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرفان",
+      "name_en": "Al Urfan",
+      "slug": "al-urfan-3294"
+    },
+    {
+      "city_id": 3295,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حافظ",
+      "name_en": "Hafidh",
+      "slug": "hafidh"
+    },
+    {
+      "city_id": 3296,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العلوبي",
+      "name_en": "Al Ulubi",
+      "slug": "al-ulubi"
+    },
+    {
+      "city_id": 3297,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرمضة",
+      "name_en": "Ar Rumadah",
+      "slug": "ar-rumadah"
+    },
+    {
+      "city_id": 3298,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرين",
+      "name_en": "Al Arin",
+      "slug": "al-arin"
+    },
+    {
+      "city_id": 3299,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "فرعة طريب",
+      "name_en": "Turaib",
+      "slug": "turaib"
+    },
+    {
+      "city_id": 3300,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الزهرة",
+      "name_en": "Az Zahrah",
+      "slug": "az-zahrah"
+    },
+    {
+      "city_id": 3301,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل معدي",
+      "name_en": "Al Maaddi",
+      "slug": "al-maaddi"
+    },
+    {
+      "city_id": 3302,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغلقة",
+      "name_en": "Al Ghiliqah",
+      "slug": "al-ghiliqah"
+    },
+    {
+      "city_id": 3303,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجلدة",
+      "name_en": "Al Jildah",
+      "slug": "al-jildah"
+    },
+    {
+      "city_id": 3304,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل قنبة",
+      "name_en": "Al Qunbah",
+      "slug": "al-qunbah"
+    },
+    {
+      "city_id": 3305,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الربعة",
+      "name_en": "Ar Ribaah",
+      "slug": "ar-ribaah"
+    },
+    {
+      "city_id": 3306,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الوهابة",
+      "name_en": "Al Wahabah",
+      "slug": "al-wahabah"
+    },
+    {
+      "city_id": 3307,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل سعيدة",
+      "name_en": "Al Saidah",
+      "slug": "al-saidah"
+    },
+    {
+      "city_id": 3308,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل كولت",
+      "name_en": "Al Kulat",
+      "slug": "al-kulat"
+    },
+    {
+      "city_id": 3309,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل جلال",
+      "name_en": "Al Jallal",
+      "slug": "al-jallal"
+    },
+    {
+      "city_id": 3310,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل محي",
+      "name_en": "Al Mihi",
+      "slug": "al-mihi"
+    },
+    {
+      "city_id": 3311,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحدباء",
+      "name_en": "Al Hadba",
+      "slug": "al-hadba-3311"
+    },
+    {
+      "city_id": 3312,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحنجور",
+      "name_en": "Al Hunjur",
+      "slug": "al-hunjur"
+    },
+    {
+      "city_id": 3313,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحنو",
+      "name_en": "Al Hinu",
+      "slug": "al-hinu-3313"
+    },
+    {
+      "city_id": 3314,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المنابية",
+      "name_en": "Al Manabiyah",
+      "slug": "al-manabiyah"
+    },
+    {
+      "city_id": 3315,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الزهيد",
+      "name_en": "Az Zuhayd",
+      "slug": "az-zuhayd"
+    },
+    {
+      "city_id": 3316,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المحزمة",
+      "name_en": "Al Muhazmah",
+      "slug": "al-muhazmah"
+    },
+    {
+      "city_id": 3317,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الدربين",
+      "name_en": "Ad Darbayn",
+      "slug": "ad-darbayn"
+    },
+    {
+      "city_id": 3318,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الشعاقة",
+      "name_en": "Ash Shaaqah",
+      "slug": "ash-shaaqah"
+    },
+    {
+      "city_id": 3319,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عدن",
+      "name_en": "Idin",
+      "slug": "idin"
+    },
+    {
+      "city_id": 3320,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغول",
+      "name_en": "Al Ghawl",
+      "slug": "al-ghawl-3320"
+    },
+    {
+      "city_id": 3321,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "درامة",
+      "name_en": "Diramah",
+      "slug": "diramah"
+    },
+    {
+      "city_id": 3322,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الخلف",
+      "name_en": "Al Al Khalaf",
+      "slug": "al-al-khalaf"
+    },
+    {
+      "city_id": 3323,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل مانع",
+      "name_en": "Al Mani",
+      "slug": "al-mani"
+    },
+    {
+      "city_id": 3324,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "نقعة",
+      "name_en": "Naqah",
+      "slug": "naqah"
+    },
+    {
+      "city_id": 3325,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل غبران",
+      "name_en": "Al Ghubran",
+      "slug": "al-ghubran"
+    },
+    {
+      "city_id": 3326,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفقاعيس",
+      "name_en": "Al Fuqais",
+      "slug": "al-fuqais"
+    },
+    {
+      "city_id": 3327,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحريقة",
+      "name_en": "Al Hariqah",
+      "slug": "al-hariqah-3327"
+    },
+    {
+      "city_id": 3328,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "سراة عبيدة",
+      "name_en": "Sarat Abidah",
+      "slug": "sarat-abidah"
+    },
+    {
+      "city_id": 3329,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العطفة",
+      "name_en": "Al Utfah",
+      "slug": "al-utfah-3329"
+    },
+    {
+      "city_id": 3330,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الفرشة",
+      "name_en": "Al Farshah",
+      "slug": "al-farshah-3330"
+    },
+    {
+      "city_id": 3331,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الربوعة",
+      "name_en": "Ar Rabuah",
+      "slug": "ar-rabuah"
+    },
+    {
+      "city_id": 3332,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجوة",
+      "name_en": "Al Jawwah",
+      "slug": "al-jawwah"
+    },
+    {
+      "city_id": 3333,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "عرضين",
+      "name_en": "Ardayn",
+      "slug": "ardayn"
+    },
+    {
+      "city_id": 3351,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجمع",
+      "name_en": "Al Majma",
+      "slug": "al-majma-3351"
+    },
+    {
+      "city_id": 3352,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "شيبة مسورة",
+      "name_en": "Shaybat Miswarah",
+      "slug": "shaybat-miswarah"
+    },
+    {
+      "city_id": 3353,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل ثابت",
+      "name_en": "Al Thabit",
+      "slug": "al-thabit"
+    },
+    {
+      "city_id": 3354,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الجربة",
+      "name_en": "Al Jirbah",
+      "slug": "al-jirbah-3354"
+    },
+    {
+      "city_id": 3355,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الغيل",
+      "name_en": "Al Ghayl",
+      "slug": "al-ghayl-3355"
+    },
+    {
+      "city_id": 3356,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجزعة",
+      "name_en": "Al Majzaah",
+      "slug": "al-majzaah"
+    },
+    {
+      "city_id": 3357,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عليا",
+      "name_en": "Al Alya",
+      "slug": "al-alya"
+    },
+    {
+      "city_id": 3358,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل بيضاء",
+      "name_en": "Al Bayda",
+      "slug": "al-bayda"
+    },
+    {
+      "city_id": 3359,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل معمر",
+      "name_en": "Al Muammar",
+      "slug": "al-muammar"
+    },
+    {
+      "city_id": 3360,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الملحة",
+      "name_en": "Al Malhah",
+      "slug": "al-malhah"
+    },
+    {
+      "city_id": 3361,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحاجر",
+      "name_en": "Al Hajir",
+      "slug": "al-hajir"
+    },
+    {
+      "city_id": 3362,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "علب",
+      "name_en": "Alb",
+      "slug": "alb"
+    },
+    {
+      "city_id": 3363,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الملطاء",
+      "name_en": "Al Malta",
+      "slug": "al-malta"
+    },
+    {
+      "city_id": 3364,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الرهوة",
+      "name_en": "Ar Rahwah",
+      "slug": "ar-rahwah-3364"
+    },
+    {
+      "city_id": 3365,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المجازة",
+      "name_en": "Al Mijazah",
+      "slug": "al-mijazah"
+    },
+    {
+      "city_id": 3366,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "بن لكرم",
+      "name_en": "Bin Lakram",
+      "slug": "bin-lakram"
+    },
+    {
+      "city_id": 3367,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "السلاطين",
+      "name_en": "As Salatin",
+      "slug": "as-salatin"
+    },
+    {
+      "city_id": 3368,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "المحجر",
+      "name_en": "Al Mahjar",
+      "slug": "al-mahjar"
+    },
+    {
+      "city_id": 3369,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الوسط",
+      "name_en": "Al Wasat",
+      "slug": "al-wasat"
+    },
+    {
+      "city_id": 3370,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العقدة",
+      "name_en": "Al Uqdah",
+      "slug": "al-uqdah-3370"
+    },
+    {
+      "city_id": 3371,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل الأشعث",
+      "name_en": "Al Al Ashath",
+      "slug": "al-al-ashath"
+    },
+    {
+      "city_id": 3372,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العنثري",
+      "name_en": "Al Anthari",
+      "slug": "al-anthari"
+    },
+    {
+      "city_id": 3373,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل عمران",
+      "name_en": "Al Imran",
+      "slug": "al-imran"
+    },
+    {
+      "city_id": 3374,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل جحالي",
+      "name_en": "Al Jihali",
+      "slug": "al-jihali"
+    },
+    {
+      "city_id": 3375,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "العرف",
+      "name_en": "Al Araf",
+      "slug": "al-araf"
+    },
+    {
+      "city_id": 3376,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "دهر",
+      "name_en": "Dihir",
+      "slug": "dihir"
+    },
+    {
+      "city_id": 3377,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحظيرة",
+      "name_en": "Al Hadhirah",
+      "slug": "al-hadhirah-3377"
+    },
+    {
+      "city_id": 3378,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الخضراء",
+      "name_en": "Al Khadra",
+      "slug": "al-khadra-3378"
+    },
+    {
+      "city_id": 3379,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "علاف",
+      "name_en": "Allaf",
+      "slug": "allaf"
+    },
+    {
+      "city_id": 3380,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل يعلى",
+      "name_en": "Al Yala",
+      "slug": "al-yala"
+    },
+    {
+      "city_id": 3381,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "ظهران الجنوب",
+      "name_en": "Dhahran Al Janub",
+      "slug": "dhahran-al-janub"
+    },
+    {
+      "city_id": 3382,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الطلحة",
+      "name_en": "At Talaha",
+      "slug": "at-talaha"
+    },
+    {
+      "city_id": 3383,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الحرجه",
+      "name_en": "Al Harajah",
+      "slug": "al-harajah-3383"
+    },
+    {
+      "city_id": 3384,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "الكولة",
+      "name_en": "Al Kulah",
+      "slug": "al-kulah"
+    },
+    {
+      "city_id": 3385,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "القصب",
+      "name_en": "Al Qasab",
+      "slug": "al-qasab-3385"
+    },
+    {
+      "city_id": 3386,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "حمران",
+      "name_en": "Humran",
+      "slug": "humran"
+    },
+    {
+      "city_id": 3387,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "آل لهوة",
+      "name_en": "Al Lahwah",
+      "slug": "al-lahwah"
+    },
+    {
+      "city_id": 3676,
+      "region_id": 8,
+      "region_ar": "عسير",
+      "region_en": "Asir",
+      "region_slug": "asir",
+      "name_ar": "وادي الحياة",
+      "name_en": "Wadi Al Hayat",
+      "slug": "wadi-al-hayat"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة عسير (Cities of Asir) - تحميل مجاني",
+    "description": "قائمة مدن منطقة عسير (Asir) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Asir administrative region of Saudi Arabia (region_id=8). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 632 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة عسير (Cities of Asir) | ListBase",
+    "seo_description": "تحميل مدن منطقة عسير (Cities of Asir) — 632 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 632 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

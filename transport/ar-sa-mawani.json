@@ -1,0 +1,236 @@
+{
+  "id": "ar-sa-mawani",
+  "name": "الموانئ في المملكة العربية السعودية (Seaports of Saudi Arabia)",
+  "title": "الموانئ في المملكة العربية السعودية (Seaports of Saudi Arabia)",
+  "description": "قائمة الموانئ في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q44782) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة الموانئ سعودية في النطاق العربي. List of seaports in Saudi Arabia from Wikidata.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3237114",
+      "name_ar": "لوكي كومي",
+      "name_en": "Leuke Kome",
+      "admin_area_ar": "عينونة",
+      "admin_area_en": "Ainunah",
+      "latitude": 28.094444,
+      "longitude": 35.200278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3237114"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q16120926",
+      "name_ar": "ميناء الجبيل التجاري",
+      "name_en": "Jubail Commercial Port",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 27.028889,
+      "longitude": 49.6875,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16120926"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q32141788",
+      "name_ar": "ميناء الخبر",
+      "name_en": "Mīnā' al Khubar",
+      "admin_area_ar": "المنطقة الشرقية",
+      "admin_area_en": "Eastern Province",
+      "latitude": 26.27917,
+      "longitude": 50.22222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32141788"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q32141837",
+      "name_ar": "ميناء الشقيق",
+      "name_en": "Mīnā' ash Shuqayq",
+      "admin_area_ar": "منطقة جازان",
+      "admin_area_en": "Jazan Province",
+      "latitude": 17.69555,
+      "longitude": 42.0204,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32141837"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q24950861",
+      "name_ar": "ميناء الملك عبد العزيز",
+      "name_en": "King Abdulaziz Port Dammam",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.488611,
+      "longitude": 50.201111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24950861"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q42341603",
+      "name_ar": "ميناء الملك عبد الله",
+      "name_en": "King Abdullah Port",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 22.523883,
+      "longitude": 39.100044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q42341603"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12246915",
+      "name_ar": "ميناء الملك فهد الصناعي بالجبيل",
+      "name_en": "King Fahad Industrial Port Jubail",
+      "admin_area_ar": "السعودية",
+      "admin_area_en": "Saudi Arabia",
+      "latitude": 27.091389,
+      "longitude": 49.700278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246915"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12246916",
+      "name_ar": "ميناء الملك فهد الصناعي بينبع",
+      "name_en": "King Fahad Industrial Port Yanbu",
+      "admin_area_ar": "منطقة المدينة المنورة",
+      "admin_area_en": "Medina Province",
+      "latitude": 23.950833,
+      "longitude": 38.2225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246916"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12246919",
+      "name_ar": "ميناء جازان",
+      "name_en": "Jizan Port",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 16.889528,
+      "longitude": 42.532722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246919"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2267106",
+      "name_ar": "ميناء جدة الإسلامي",
+      "name_en": "Jeddah Islamic Port",
+      "admin_area_ar": "منطقة مكة المكرمة",
+      "admin_area_en": "Mecca Province",
+      "latitude": 21.468972,
+      "longitude": 39.161111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2267106"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q6877684",
+      "name_ar": "ميناء دارين",
+      "name_en": "Port of Darin",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.540066,
+      "longitude": 50.083585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6877684"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q16120944",
+      "name_ar": "ميناء رأس الخير",
+      "name_en": "Ras Al-khair Port",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.43486,
+      "longitude": 49.312477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16120944"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q12246926",
+      "name_ar": "ميناء رأس تنورة",
+      "name_en": "Port of Ras Tanura",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.637253,
+      "longitude": 50.163573,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246926"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q6877704",
+      "name_ar": "ميناء ضباء",
+      "name_en": "Dhiba Port",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 27.56345,
+      "longitude": 35.538585,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6877704"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12246917",
+      "name_ar": "ميناء ينبع التجاري",
+      "name_en": "Yanbu Commercial Port",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.066667,
+      "longitude": 38.05,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12246917"
+    }
+  ],
+  "meta": {
+    "title": "الموانئ في المملكة العربية السعودية (Seaports of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة الموانئ في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q44782) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة الموانئ سعودية في النطاق العربي. List of seaports in Saudi Arabia from Wikidata. يحتوي على 15 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "الموانئ في المملكة العربية السعودية (Seaports of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل الموانئ في المملكة العربية السعودية (Seaports of Saudi Arabia) — 15 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 15 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

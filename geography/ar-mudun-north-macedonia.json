@@ -1,0 +1,432 @@
+{
+  "id": "ar-mudun-north-macedonia",
+  "name": "مدن مقدونيا الشمالية — Cities of North Macedonia (Arabic names)",
+  "title": "مدن مقدونيا الشمالية — Cities of North Macedonia (Arabic names)",
+  "description": "قائمة بأسماء مدن مقدونيا الشمالية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 47 cities in North Macedonia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "إسكوبية",
+      "name_en": "Skopje",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 422540
+    },
+    {
+      "id": 2,
+      "name_ar": "كومانوفو",
+      "name_en": "Kumanovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 70842
+    },
+    {
+      "id": 3,
+      "name_ar": "بوتلي",
+      "name_en": "Bitola",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 69287
+    },
+    {
+      "id": 4,
+      "name_ar": "بريليب",
+      "name_en": "Prilep",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 63308
+    },
+    {
+      "id": 5,
+      "name_ar": "تيتوفو",
+      "name_en": "Tetovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 63176
+    },
+    {
+      "id": 6,
+      "name_ar": "فيليس",
+      "name_en": "Veles",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 40664
+    },
+    {
+      "id": 7,
+      "name_ar": "أوخريد",
+      "name_en": "Ohrid",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 38818
+    },
+    {
+      "id": 8,
+      "name_ar": "ستروميكا",
+      "name_en": "Strumica",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 33825
+    },
+    {
+      "id": 9,
+      "name_ar": "غوستيفار",
+      "name_en": "Gostivar",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 32814
+    },
+    {
+      "id": 10,
+      "name_ar": "كوتشاني",
+      "name_en": "Kocani",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 28330
+    },
+    {
+      "id": 11,
+      "name_ar": "ستروغا",
+      "name_en": "Struga",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 15009
+    },
+    {
+      "id": 12,
+      "name_ar": "بلدية رادوفيتش",
+      "name_en": "Radovis",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 14460
+    },
+    {
+      "id": 13,
+      "name_ar": "كريفا بالانكا",
+      "name_en": "Kriva Palanka",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 13481
+    },
+    {
+      "id": 14,
+      "name_ar": "نيغوتينو",
+      "name_en": "Negotino",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 12488
+    },
+    {
+      "id": 15,
+      "name_ar": "سفيتي نيكولا",
+      "name_en": "Sveti Nikole",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 11728
+    },
+    {
+      "id": 16,
+      "name_ar": "بلدية بروتشتيب",
+      "name_en": "Probistip",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 10826
+    },
+    {
+      "id": 17,
+      "name_ar": "بلدية ديلتشيفو",
+      "name_en": "Delcevo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 9644
+    },
+    {
+      "id": 18,
+      "name_ar": "فينيتسا",
+      "name_en": "Vinica",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 8584
+    },
+    {
+      "id": 19,
+      "name_ar": "أراتشينوفو",
+      "name_en": "Aracinovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 7315
+    },
+    {
+      "id": 20,
+      "name_ar": "بلدية كيتشيفو",
+      "name_en": "Kicevo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 7280
+    },
+    {
+      "id": 21,
+      "name_ar": "كافادارشي",
+      "name_en": "Kavadarci",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 6228
+    },
+    {
+      "id": 22,
+      "name_ar": "بيروفو",
+      "name_en": "Berovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 5850
+    },
+    {
+      "id": 23,
+      "name_ar": "كراتوفو (مقدونيا)",
+      "name_en": "Kratovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 5401
+    },
+    {
+      "id": 24,
+      "name_ar": "غيفغليا",
+      "name_en": "Gevgelija",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 4967
+    },
+    {
+      "id": 25,
+      "name_ar": "بلدية ماكيدونسكي برود",
+      "name_en": "Makedonski Brod",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 3643
+    },
+    {
+      "id": 26,
+      "name_ar": "ديمير كابيا",
+      "name_en": "Demir Kapija",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 3275
+    },
+    {
+      "id": 27,
+      "name_ar": "بوغدانتسي",
+      "name_en": "Bogdanci",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 2951
+    },
+    {
+      "id": 28,
+      "name_ar": "فيفتشاني",
+      "name_en": "Vevcani",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 2359
+    },
+    {
+      "id": 29,
+      "name_ar": "غرادسكو، فيليس",
+      "name_en": "Gradsko",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 2219
+    },
+    {
+      "id": 30,
+      "name_ar": "فالاندوفو",
+      "name_en": "Valandovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 1992
+    },
+    {
+      "id": 31,
+      "name_ar": "بلدية كريفوغاشتاني",
+      "name_en": "Krivogastani",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 1870
+    },
+    {
+      "id": 32,
+      "name_ar": "بهتشيفو",
+      "name_en": "Pehcevo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 1687
+    },
+    {
+      "id": 33,
+      "name_ar": "بوسيلوفو",
+      "name_en": "Bosilovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 1273
+    },
+    {
+      "id": 34,
+      "name_ar": "بلدية كونتشه",
+      "name_en": "Konce",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 915
+    },
+    {
+      "id": 35,
+      "name_ar": "بلدية رانكوفيتسه",
+      "name_en": "Rankovce",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 744
+    },
+    {
+      "id": 36,
+      "name_ar": "بلدية سوبيتشه",
+      "name_en": "Sopiste",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 690
+    },
+    {
+      "id": 37,
+      "name_ar": "كاربينتسي",
+      "name_en": "Karbinci",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 574
+    },
+    {
+      "id": 38,
+      "name_ar": "برفينيتسا",
+      "name_en": "Brvenica",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 449
+    },
+    {
+      "id": 39,
+      "name_ar": "بلدية سنتار جوبا",
+      "name_en": "Centar Zupa",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 354
+    },
+    {
+      "id": 40,
+      "name_ar": "بلدية دولنيني",
+      "name_en": "Dolneni",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 300
+    },
+    {
+      "id": 41,
+      "name_ar": "بيلسيستا",
+      "name_en": "Belcista",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 297
+    },
+    {
+      "id": 42,
+      "name_ar": "بلدية تشوتشر سانديفو",
+      "name_en": "Cucer-Sandevo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 274
+    },
+    {
+      "id": 43,
+      "name_ar": "زيلينيكوفو",
+      "name_en": "Zelenikovo",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 272
+    },
+    {
+      "id": 44,
+      "name_ar": "بيتروفيتس، جمهورية مقدونيا",
+      "name_en": "Petrovec",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 121
+    },
+    {
+      "id": 45,
+      "name_ar": "بلدية تزيلينو",
+      "name_en": "Zelino",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 105
+    },
+    {
+      "id": 46,
+      "name_ar": "بلدية ستودنيتشاني",
+      "name_en": "Studenicani",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 59
+    },
+    {
+      "id": 47,
+      "name_ar": "بوغوفينيي",
+      "name_en": "Bogovinje",
+      "country_ar": "مقدونيا الشمالية",
+      "country_en": "North Macedonia",
+      "population": 25
+    }
+  ],
+  "meta": {
+    "title": "مدن مقدونيا الشمالية — Cities of North Macedonia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن مقدونيا الشمالية بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 47 cities in North Macedonia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 47 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن مقدونيا الشمالية — Cities of North Macedonia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن مقدونيا الشمالية — Cities of North Macedonia (Arabic names) — 47 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 47 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

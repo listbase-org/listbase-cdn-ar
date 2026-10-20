@@ -1,0 +1,288 @@
+{
+  "id": "ar-mudun-ethiopia",
+  "name": "مدن إثيوبيا — Cities of Ethiopia (Arabic names)",
+  "title": "مدن إثيوبيا — Cities of Ethiopia (Arabic names)",
+  "description": "قائمة بأسماء مدن إثيوبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Ethiopia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "أديس أبابا",
+      "name_en": "Addis Ababa",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 5704000
+    },
+    {
+      "id": 2,
+      "name_ar": "شاشامانه",
+      "name_en": "Shashemene",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 407000
+    },
+    {
+      "id": 3,
+      "name_ar": "أداما",
+      "name_en": "Nazret",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 324000
+    },
+    {
+      "id": 4,
+      "name_ar": "ديرة داوا",
+      "name_en": "Dire Dawa",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 277000
+    },
+    {
+      "id": 5,
+      "name_ar": "بحر دار",
+      "name_en": "Bahir Dar",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 243300
+    },
+    {
+      "id": 6,
+      "name_ar": "صحراء",
+      "name_en": "Dese",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 187900
+    },
+    {
+      "id": 7,
+      "name_ar": "معرفة",
+      "name_en": "Aware",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 132149
+    },
+    {
+      "id": 8,
+      "name_ar": "هرر",
+      "name_en": "Harar",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 129000
+    },
+    {
+      "id": 9,
+      "name_ar": "جيجيجا",
+      "name_en": "Jijiga",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 125876
+    },
+    {
+      "id": 10,
+      "name_ar": "غامبيلا، إثيوبيا",
+      "name_en": "Gambela",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 97643
+    },
+    {
+      "id": 11,
+      "name_ar": "سيمفاستاتين",
+      "name_en": "Denan",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 87380
+    },
+    {
+      "id": 12,
+      "name_ar": "كومبولشا",
+      "name_en": "Kombolcha",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 85367
+    },
+    {
+      "id": 13,
+      "name_ar": "نقمتي",
+      "name_en": "Nek'emte",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 75219
+    },
+    {
+      "id": 14,
+      "name_ar": "مملكة أكسوم",
+      "name_en": "Aksum",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 66800
+    },
+    {
+      "id": 15,
+      "name_ar": "ديبري ماركوس",
+      "name_en": "Debre Mark'os",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 62497
+    },
+    {
+      "id": 16,
+      "name_ar": "آديغرات",
+      "name_en": "Adigrat",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 57588
+    },
+    {
+      "id": 17,
+      "name_ar": "ديبري تابور",
+      "name_en": "Debre Tabor",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 55596
+    },
+    {
+      "id": 18,
+      "name_ar": "آمبو",
+      "name_en": "Hagere Hiywet",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 48171
+    },
+    {
+      "id": 19,
+      "name_ar": "ولديا",
+      "name_en": "Weldiya",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 46139
+    },
+    {
+      "id": 20,
+      "name_ar": "روبرت",
+      "name_en": "Robe",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 44382
+    },
+    {
+      "id": 21,
+      "name_ar": "إرغالم",
+      "name_en": "Yirga `Alem",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 43815
+    },
+    {
+      "id": 22,
+      "name_ar": "كي يونج",
+      "name_en": "Giyon",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 37878
+    },
+    {
+      "id": 23,
+      "name_ar": "بوتاجيرا",
+      "name_en": "Butajira",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 33406
+    },
+    {
+      "id": 24,
+      "name_ar": "جامعة الشرق الأوسط التقنية",
+      "name_en": "Metu",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 28782
+    },
+    {
+      "id": 25,
+      "name_ar": "منطقة حلبا",
+      "name_en": "K'olito",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 27359
+    },
+    {
+      "id": 26,
+      "name_ar": "مويالي",
+      "name_en": "Moyale",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 25000
+    },
+    {
+      "id": 27,
+      "name_ar": "كوكاي",
+      "name_en": "Kobo",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 24867
+    },
+    {
+      "id": 28,
+      "name_ar": "هيموروغي",
+      "name_en": "Himora",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 21653
+    },
+    {
+      "id": 29,
+      "name_ar": "آسوسا",
+      "name_en": "Asosa",
+      "country_ar": "إثيوبيا",
+      "country_en": "Ethiopia",
+      "population": 20226
+    }
+  ],
+  "meta": {
+    "title": "مدن إثيوبيا — Cities of Ethiopia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن إثيوبيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 29 cities in Ethiopia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 29 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن إثيوبيا — Cities of Ethiopia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن إثيوبيا — Cities of Ethiopia (Arabic names) — 29 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 29 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

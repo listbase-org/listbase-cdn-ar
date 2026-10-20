@@ -1,0 +1,597 @@
+{
+  "id": "ar-iraq-baghdad-bunuk",
+  "name": "بنوك Baghdad — العراق — رموز سويفت (Banks of Baghdad, Iraq — SWIFT/BIC codes)",
+  "title": "بنوك Baghdad — العراق — رموز سويفت (Banks of Baghdad, Iraq — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Baghdad (العراق) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 78 سجلًا. List of banks, financial institutions and their branches in Baghdad, Iraq with the SWIFT/BIC code, bank name and branch name for each. 78 records. Source: PeterNotenboom/SwiftCodes AllCountries/IQ.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "ABU DHABI ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ABDIIQBA"
+    },
+    {
+      "id": 2,
+      "bank": "AL ARABIYA ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ARLMIQBA"
+    },
+    {
+      "id": 3,
+      "bank": "AL IRAQ NOOR ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "SBIBIQBA"
+    },
+    {
+      "id": 4,
+      "bank": "AL NIBAL AL ARABYA FOR MONEY TRANSFER",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ANATIQBA"
+    },
+    {
+      "id": 5,
+      "bank": "AL RAFIDAIN BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "RAFBIQBA"
+    },
+    {
+      "id": 6,
+      "bank": "AL-ASSWAR CO. FOR MONEY TRANSFER",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ASWRIQB1"
+    },
+    {
+      "id": 7,
+      "bank": "AL-BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AIIFIQBA"
+    },
+    {
+      "id": 8,
+      "bank": "AL-HUDA BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BHDAIQBA"
+    },
+    {
+      "id": 9,
+      "bank": "AL-JANOOB ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AJILIQBA"
+    },
+    {
+      "id": 10,
+      "bank": "AL-QABIDH ISLAMIC BANK CO. FOR FINANCE AND INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BMMCIQBA"
+    },
+    {
+      "id": 11,
+      "bank": "AL-QURTAS ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AQSBIQBA"
+    },
+    {
+      "id": 12,
+      "bank": "ALRAWAHEL ISLAMIC INVESTMENT AND FINANCE BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IRMTIQBA"
+    },
+    {
+      "id": 13,
+      "bank": "ARAB BANKING CORPORATION",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ABCOIQB1"
+    },
+    {
+      "id": 14,
+      "bank": "ASHUR INTERNATIONAL BANK FOR INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AIBIIQBA"
+    },
+    {
+      "id": 15,
+      "bank": "BABYLON BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BABKIQBA"
+    },
+    {
+      "id": 16,
+      "bank": "BANK AUDI S.A.L. (IRAQ BRANCHES)",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AUDBIQBA"
+    },
+    {
+      "id": 17,
+      "bank": "BANK MELLI IRAN-IRAQ BRANCH",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "MELIIQBA"
+    },
+    {
+      "id": 18,
+      "bank": "BANK OF BAGHDAD",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BABIIQBA"
+    },
+    {
+      "id": 19,
+      "bank": "BANKMED SAL, IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "MEDLIQBA"
+    },
+    {
+      "id": 20,
+      "bank": "BANQUE LIBANO-FRANAISE SAL - IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BLFSIQBA"
+    },
+    {
+      "id": 21,
+      "bank": "BASRAH INTERNATIONAL BANK FOR INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BIBIIQB1"
+    },
+    {
+      "id": 22,
+      "bank": "BLOM BANK S.A.L.",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BLOMIQBA"
+    },
+    {
+      "id": 23,
+      "bank": "BYBLOS BANK SAL IRAQ",
+      "city": "BAGHDAD",
+      "branch": "(BYBLOS BANK SAL)",
+      "swift_code": "BYBAIQBABAG"
+    },
+    {
+      "id": 24,
+      "bank": "CENTRAL BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "CBIRIQBA"
+    },
+    {
+      "id": 25,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(ADHAMYA BRANCH)",
+      "swift_code": "AUBBIQBA808"
+    },
+    {
+      "id": 26,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(BASRA BRANCH)",
+      "swift_code": "AUBBIQBA809"
+    },
+    {
+      "id": 27,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(KADHUMAIN BRANCH)",
+      "swift_code": "AUBBIQBA807"
+    },
+    {
+      "id": 28,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(KHULANI BRANCH)",
+      "swift_code": "AUBBIQBA802"
+    },
+    {
+      "id": 29,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "AUBBIQBA810"
+    },
+    {
+      "id": 30,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(MANSOUR BRANCH)",
+      "swift_code": "AUBBIQBA805"
+    },
+    {
+      "id": 31,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(PALESTINE BRANCH)",
+      "swift_code": "AUBBIQBA804"
+    },
+    {
+      "id": 32,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(RASHEED CAMP BRANCH)",
+      "swift_code": "AUBBIQBA806"
+    },
+    {
+      "id": 33,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(SHORJA BRANCH)",
+      "swift_code": "AUBBIQBA803"
+    },
+    {
+      "id": 34,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "(WATHIQ BRANCH)",
+      "swift_code": "AUBBIQBA801"
+    },
+    {
+      "id": 35,
+      "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "AUBBIQBA"
+    },
+    {
+      "id": 36,
+      "bank": "CREDIT BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "CBIQIQBA"
+    },
+    {
+      "id": 37,
+      "bank": "CREDIT LIBANAIS SAL",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "CLIBIQBA"
+    },
+    {
+      "id": 38,
+      "bank": "DAR ES SALAAM INVESTMENT BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "DSIVIQBA"
+    },
+    {
+      "id": 39,
+      "bank": "DIJLAH AND FURAT BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "DFDIIQBA"
+    },
+    {
+      "id": 40,
+      "bank": "ECONOMY BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ECOOIQB1"
+    },
+    {
+      "id": 41,
+      "bank": "ECONOMY BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "(ALSHORJAH)",
+      "swift_code": "ECOVIQBA616"
+    },
+    {
+      "id": 42,
+      "bank": "ECONOMY BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ECOVIQBA"
+    },
+    {
+      "id": 43,
+      "bank": "ELAF ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "ELAFIQBA"
+    },
+    {
+      "id": 44,
+      "bank": "FRANSABANK SAL, IRAQ BRANCH",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "FSABIQBA"
+    },
+    {
+      "id": 45,
+      "bank": "GULF COMMERCIAL BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "GUCEIQBA"
+    },
+    {
+      "id": 46,
+      "bank": "IBL BANK, SAL",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "INLEIQBA"
+    },
+    {
+      "id": 47,
+      "bank": "INDUSTRIAL BANK,THE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IBIQIQB1"
+    },
+    {
+      "id": 48,
+      "bank": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IDBQIQBA"
+    },
+    {
+      "id": 49,
+      "bank": "INTERNATIONAL ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IRAQIQBA"
+    },
+    {
+      "id": 50,
+      "bank": "INVESTMENT BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IVBIIQBA"
+    },
+    {
+      "id": 51,
+      "bank": "IRAQI ISLAMIC BANK FOR INVESTMENT AND DEVELOPMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IRIBIQBA"
+    },
+    {
+      "id": 52,
+      "bank": "IRAQI MIDDLE EAST INVESTMENT BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "IMEBIQBA"
+    },
+    {
+      "id": 53,
+      "bank": "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "(RCDFIQBAMLD)",
+      "swift_code": "RCDFIQBAMLD"
+    },
+    {
+      "id": 54,
+      "bank": "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "RCDFIQBA"
+    },
+    {
+      "id": 55,
+      "bank": "KARMAL STOCK EXCHANGE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "KARMIQB1"
+    },
+    {
+      "id": 56,
+      "bank": "KURDISTAN INTERNATIONAL BANK",
+      "city": "BAGHDAD",
+      "branch": "(BAGHDAD BRANCH)",
+      "swift_code": "KIBIIQBABGH"
+    },
+    {
+      "id": 57,
+      "bank": "MANSOUR BANK FOR INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "MBIVIQBA"
+    },
+    {
+      "id": 58,
+      "bank": "MIDDLE EAST AND AFRICA BANK (L.J.S.C)",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BAMOIQBA"
+    },
+    {
+      "id": 59,
+      "bank": "MOSUL BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "MOUUIQBA"
+    },
+    {
+      "id": 60,
+      "bank": "NATIONAL BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "NBIQIQBA"
+    },
+    {
+      "id": 61,
+      "bank": "NATIONAL ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "NISBIQBA"
+    },
+    {
+      "id": 62,
+      "bank": "NORTH BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "NRTTIQBA"
+    },
+    {
+      "id": 63,
+      "bank": "PARSIAN BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BKPAIQBA"
+    },
+    {
+      "id": 64,
+      "bank": "RABEE SECURITIES",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "RASEIQB1"
+    },
+    {
+      "id": 65,
+      "bank": "RASHEED BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "RDBAIQBB"
+    },
+    {
+      "id": 66,
+      "bank": "REAL ESTATE BANK,THE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "REEBIQB1"
+    },
+    {
+      "id": 67,
+      "bank": "STANDARD CHARTERED BANK IRAQ BRANCH",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "SCBLIQBD"
+    },
+    {
+      "id": 68,
+      "bank": "SUMER COMMERCIAL BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "SUCIIQBA"
+    },
+    {
+      "id": 69,
+      "bank": "THE BANK OF ISLAMIC WORLD FOR INVESTMENT AND FINANCING, PJSC",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "WDBKIQBA"
+    },
+    {
+      "id": 70,
+      "bank": "TRADE BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "TRIQIQBA"
+    },
+    {
+      "id": 71,
+      "bank": "TRANS IRAQ BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "TIRAIQBA"
+    },
+    {
+      "id": 72,
+      "bank": "TRUST INTERNATIONAL ISLAMIC BANK",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "MCFTIQBA"
+    },
+    {
+      "id": 73,
+      "bank": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "TCZBIQBA"
+    },
+    {
+      "id": 74,
+      "bank": "UNION BANK OF IRAQ",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "UNRAIQBA"
+    },
+    {
+      "id": 75,
+      "bank": "UNITED BANK FOR INVESTMENT",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "UNTVIQBA"
+    },
+    {
+      "id": 76,
+      "bank": "UNITED COMPANY FOR FINANCIAL TRANSFER",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "UCFTIQB1"
+    },
+    {
+      "id": 77,
+      "bank": "WARKA BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "WAIVIQBA"
+    },
+    {
+      "id": 78,
+      "bank": "ZAIN IRAQ ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+      "city": "BAGHDAD",
+      "branch": "",
+      "swift_code": "BZIIIQBA"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Baghdad — العراق — رموز سويفت (Banks of Baghdad, Iraq — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Baghdad (العراق) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 78 سجلًا. List of banks, financial institutions and their branches in Baghdad, Iraq with the SWIFT/BIC code, bank name and branch name for each. 78 records. Source: PeterNotenboom/SwiftCodes AllCountries/IQ.json (MIT). يحتوي على 78 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Baghdad — العراق — رموز سويفت (Banks of Baghdad, Iraq — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Baghdad — العراق — رموز سويفت (Banks of Baghdad, Iraq — SWIFT/BIC codes) — 78 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 78 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

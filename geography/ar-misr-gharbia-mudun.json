@@ -1,0 +1,133 @@
+{
+  "id": "ar-misr-gharbia-mudun",
+  "name": "مدن ومراكز محافظة الغربية (Cities & Towns of Gharbia)",
+  "title": "مدن ومراكز محافظة الغربية (Cities & Towns of Gharbia)",
+  "description": "قائمة مدن ومراكز محافظة الغربية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Gharbia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "83",
+      "name_ar": "السنطة",
+      "name_en": "santa",
+      "name_long_ar": "السنطة، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "87",
+      "name_ar": "المحلة الكبرى",
+      "name_en": "mahalla-al-kobra",
+      "name_long_ar": "المحلة الكبرى، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "85",
+      "name_ar": "بسيون",
+      "name_en": "basyoun",
+      "name_long_ar": "بسيون، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "84",
+      "name_ar": "زفتى",
+      "name_en": "zefta",
+      "name_long_ar": "زفتى، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "81",
+      "name_ar": "سمنود",
+      "name_en": "samanoud",
+      "name_long_ar": "سمنود، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "80",
+      "name_ar": "طنطا",
+      "name_en": "tanta",
+      "name_long_ar": "طنطا، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "82",
+      "name_ar": "قطور",
+      "name_en": "qutour",
+      "name_long_ar": "قطور، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    },
+    {
+      "id": "86",
+      "name_ar": "كفر الزيات",
+      "name_en": "kafr-al-zayat",
+      "name_long_ar": "كفر الزيات، الغربية",
+      "muhafaza_ar": "الغربية",
+      "muhafaza_en": "gharbia",
+      "muhafaza_id": 66
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الغربية (Cities & Towns of Gharbia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الغربية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Gharbia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 8 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الغربية (Cities & Towns of Gharbia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الغربية (Cities & Towns of Gharbia) — 8 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 8 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

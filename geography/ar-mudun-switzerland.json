@@ -1,0 +1,616 @@
+{
+  "id": "ar-mudun-switzerland",
+  "name": "مدن سويسرا — Cities of Switzerland (Arabic names)",
+  "title": "مدن سويسرا — Cities of Switzerland (Arabic names)",
+  "description": "قائمة بأسماء مدن سويسرا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 70 cities in Switzerland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "زيورخ",
+      "name_en": "Zurich",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 448664
+    },
+    {
+      "id": 2,
+      "name_ar": "جنيف",
+      "name_en": "Geneva",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 203840
+    },
+    {
+      "id": 3,
+      "name_ar": "بازل",
+      "name_en": "Basel",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 173552
+    },
+    {
+      "id": 4,
+      "name_ar": "لوزان",
+      "name_en": "Lausanne",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 141418
+    },
+    {
+      "id": 5,
+      "name_ar": "برن",
+      "name_en": "Bern",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 134506
+    },
+    {
+      "id": 6,
+      "name_ar": "فينترتور",
+      "name_en": "Winterthur",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 109775
+    },
+    {
+      "id": 7,
+      "name_ar": "لوتسيرن",
+      "name_en": "Lucerne",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 81691
+    },
+    {
+      "id": 8,
+      "name_ar": "كانتون سانت غالن",
+      "name_en": "Sankt Gallen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 78213
+    },
+    {
+      "id": 9,
+      "name_ar": "لوغانو",
+      "name_en": "Lugano",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 63185
+    },
+    {
+      "id": 10,
+      "name_ar": "بيال/بيان",
+      "name_en": "Biel/Bienne",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 55159
+    },
+    {
+      "id": 11,
+      "name_ar": "بيلينزونا",
+      "name_en": "Bellinzona",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 43785
+    },
+    {
+      "id": 12,
+      "name_ar": "ثون",
+      "name_en": "Thun",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 43734
+    },
+    {
+      "id": 13,
+      "name_ar": "كوينز",
+      "name_en": "Koniz",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 41784
+    },
+    {
+      "id": 14,
+      "name_ar": "لا شو دو فون",
+      "name_en": "La Chaux-de-Fonds",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 38965
+    },
+    {
+      "id": 15,
+      "name_ar": "فريبورغ",
+      "name_en": "Fribourg",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 38365
+    },
+    {
+      "id": 16,
+      "name_ar": "أوستر",
+      "name_en": "Uster",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 36791
+    },
+    {
+      "id": 17,
+      "name_ar": "شافهاوزن",
+      "name_en": "Schaffhausen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 36587
+    },
+    {
+      "id": 18,
+      "name_ar": "كنيسة",
+      "name_en": "Chur",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 35373
+    },
+    {
+      "id": 19,
+      "name_ar": "فيرناير",
+      "name_en": "Vernier",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 34774
+    },
+    {
+      "id": 20,
+      "name_ar": "سيون",
+      "name_en": "Sion",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 34708
+    },
+    {
+      "id": 21,
+      "name_ar": "نوشاتيل",
+      "name_en": "Neuchatel",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 33475
+    },
+    {
+      "id": 22,
+      "name_ar": "زوغ",
+      "name_en": "Zug",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 31469
+    },
+    {
+      "id": 23,
+      "name_ar": "يافردون ليه باين",
+      "name_en": "Yverdon-les-Bains",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 30157
+    },
+    {
+      "id": 24,
+      "name_ar": "إيمين",
+      "name_en": "Emmen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 29292
+    },
+    {
+      "id": 25,
+      "name_ar": "دوبيندورف",
+      "name_en": "Dubendorf",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 28002
+    },
+    {
+      "id": 26,
+      "name_ar": "ديتيكون",
+      "name_en": "Dietikon",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 26936
+    },
+    {
+      "id": 27,
+      "name_ar": "مونترو",
+      "name_en": "Montreux",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 25984
+    },
+    {
+      "id": 28,
+      "name_ar": "ويتزيكون",
+      "name_en": "Wetzikon",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 24452
+    },
+    {
+      "id": 29,
+      "name_ar": "ميرين",
+      "name_en": "Meyrin",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 24144
+    },
+    {
+      "id": 30,
+      "name_ar": "وليم",
+      "name_en": "Wil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 23955
+    },
+    {
+      "id": 31,
+      "name_ar": "هورغن",
+      "name_en": "Horgen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 23319
+    },
+    {
+      "id": 32,
+      "name_ar": "كاروج",
+      "name_en": "Carouge",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 22336
+    },
+    {
+      "id": 33,
+      "name_ar": "كروزلينغن",
+      "name_en": "Kreuzlingen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 21801
+    },
+    {
+      "id": 34,
+      "name_ar": "فيدنسفيل",
+      "name_en": "Wadenswil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 21716
+    },
+    {
+      "id": 35,
+      "name_ar": "أراو",
+      "name_en": "Aarau",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 21503
+    },
+    {
+      "id": 36,
+      "name_ar": "ريهين",
+      "name_en": "Riehen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 21448
+    },
+    {
+      "id": 37,
+      "name_ar": "ويتينغين",
+      "name_en": "Wettingen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 20843
+    },
+    {
+      "id": 38,
+      "name_ar": "نيون",
+      "name_en": "Nyon",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 20272
+    },
+    {
+      "id": 39,
+      "name_ar": "بولاخ",
+      "name_en": "Bulach",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 20046
+    },
+    {
+      "id": 40,
+      "name_ar": "فيفي",
+      "name_en": "Vevey",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 19891
+    },
+    {
+      "id": 41,
+      "name_ar": "أوبفيكون",
+      "name_en": "Opfikon",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 19864
+    },
+    {
+      "id": 42,
+      "name_ar": "كلوتين",
+      "name_en": "Kloten",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 19362
+    },
+    {
+      "id": 43,
+      "name_ar": "بادن بادن",
+      "name_en": "Baden",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 19122
+    },
+    {
+      "id": 44,
+      "name_ar": "أونيكس",
+      "name_en": "Onex",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18977
+    },
+    {
+      "id": 45,
+      "name_ar": "أدليسفيل",
+      "name_en": "Adliswil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18731
+    },
+    {
+      "id": 46,
+      "name_ar": "شليغن",
+      "name_en": "Schlieren",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18731
+    },
+    {
+      "id": 47,
+      "name_ar": "فولكيتسفيل",
+      "name_en": "Volketswil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18615
+    },
+    {
+      "id": 48,
+      "name_ar": "تالفيل",
+      "name_en": "Thalwil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18525
+    },
+    {
+      "id": 49,
+      "name_ar": "أولتن",
+      "name_en": "Olten",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18362
+    },
+    {
+      "id": 50,
+      "name_ar": "ريغنسدورف",
+      "name_en": "Regensdorf",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 18253
+    },
+    {
+      "id": 51,
+      "name_ar": "مونثي",
+      "name_en": "Monthey",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 17777
+    },
+    {
+      "id": 52,
+      "name_ar": "غرينشين",
+      "name_en": "Grenchen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 17140
+    },
+    {
+      "id": 53,
+      "name_ar": "ساير",
+      "name_en": "Sierre",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 16790
+    },
+    {
+      "id": 54,
+      "name_ar": "سولوتورن",
+      "name_en": "Solothurn",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 16777
+    },
+    {
+      "id": 55,
+      "name_ar": "فاليزيلن",
+      "name_en": "Wallisellen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 16315
+    },
+    {
+      "id": 56,
+      "name_ar": "لوكارنو",
+      "name_en": "Locarno",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 16012
+    },
+    {
+      "id": 57,
+      "name_ar": "هيراسايو",
+      "name_en": "Herisau",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 15744
+    },
+    {
+      "id": 58,
+      "name_ar": "مورس",
+      "name_en": "Morges",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 15705
+    },
+    {
+      "id": 59,
+      "name_ar": "اينسيديلن",
+      "name_en": "Einsiedeln",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 15550
+    },
+    {
+      "id": 60,
+      "name_ar": "داء الكلب",
+      "name_en": "Lyss",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 15282
+    },
+    {
+      "id": 61,
+      "name_ar": "ليستل",
+      "name_en": "Liestal",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 14390
+    },
+    {
+      "id": 62,
+      "name_ar": "شتيفا",
+      "name_en": "Stafa",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 14389
+    },
+    {
+      "id": 63,
+      "name_ar": "كوسناخت",
+      "name_en": "Kusnacht",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 14387
+    },
+    {
+      "id": 64,
+      "name_ar": "ثونيكس",
+      "name_en": "Thonex",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 14122
+    },
+    {
+      "id": 65,
+      "name_ar": "أوفترينجين",
+      "name_en": "Oftringen",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13791
+    },
+    {
+      "id": 66,
+      "name_ar": "أمريسفيل",
+      "name_en": "Amriswil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13534
+    },
+    {
+      "id": 67,
+      "name_ar": "راينفيلدن",
+      "name_en": "Rheinfelden",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13528
+    },
+    {
+      "id": 68,
+      "name_ar": "فيرسوكس",
+      "name_en": "Versoix",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13422
+    },
+    {
+      "id": 69,
+      "name_ar": "ريكترسفيل",
+      "name_en": "Richterswil",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13407
+    },
+    {
+      "id": 70,
+      "name_ar": "تسوليكون",
+      "name_en": "Zollikon",
+      "country_ar": "سويسرا",
+      "country_en": "Switzerland",
+      "population": 13367
+    }
+  ],
+  "meta": {
+    "title": "مدن سويسرا — Cities of Switzerland (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن سويسرا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 70 cities in Switzerland with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 70 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن سويسرا — Cities of Switzerland (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن سويسرا — Cities of Switzerland (Arabic names) — 70 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 70 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

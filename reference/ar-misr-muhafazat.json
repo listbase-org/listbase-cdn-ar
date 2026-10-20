@@ -1,0 +1,208 @@
+{
+  "id": "ar-misr-muhafazat",
+  "name": "محافظات مصر (Governorates of Egypt)",
+  "title": "محافظات مصر (Governorates of Egypt)",
+  "description": "قائمة محافظات جمهورية مصر العربية الـ27 بأسمائها بالعربية والإنجليزية وعدد المدن/المراكز في كل محافظة. The 27 governorates (muhafazat) of Egypt with Arabic and English names and the number of listed cities/towns per governorate.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "mudun_count",
+      "label": "Mudun Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 56,
+      "name_ar": "أسوان",
+      "name_en": "aswan",
+      "mudun_count": 12
+    },
+    {
+      "id": 55,
+      "name_ar": "أسيوط",
+      "name_en": "asyut",
+      "mudun_count": 12
+    },
+    {
+      "id": 54,
+      "name_ar": "الأقصر",
+      "name_en": "luxor",
+      "mudun_count": 7
+    },
+    {
+      "id": 6,
+      "name_ar": "الإسكندرية",
+      "name_en": "alexandria",
+      "mudun_count": 56
+    },
+    {
+      "id": 67,
+      "name_ar": "الإسماعيلية",
+      "name_en": "ismailia",
+      "mudun_count": 7
+    },
+    {
+      "id": 70,
+      "name_ar": "البحر الأحمر",
+      "name_en": "red-sea",
+      "mudun_count": 8
+    },
+    {
+      "id": 58,
+      "name_ar": "البحيرة",
+      "name_en": "beheira",
+      "mudun_count": 16
+    },
+    {
+      "id": 68,
+      "name_ar": "الجيزة",
+      "name_en": "giza",
+      "mudun_count": 46
+    },
+    {
+      "id": 57,
+      "name_ar": "الدقهلية",
+      "name_en": "dakahlia",
+      "mudun_count": 18
+    },
+    {
+      "id": 65,
+      "name_ar": "السويس",
+      "name_en": "suez",
+      "mudun_count": 6
+    },
+    {
+      "id": 60,
+      "name_ar": "الشرقية",
+      "name_en": "sharqia",
+      "mudun_count": 17
+    },
+    {
+      "id": 66,
+      "name_ar": "الغربية",
+      "name_en": "gharbia",
+      "mudun_count": 8
+    },
+    {
+      "id": 64,
+      "name_ar": "الفيوم",
+      "name_en": "fayoum",
+      "mudun_count": 7
+    },
+    {
+      "id": 5,
+      "name_ar": "القاهرة",
+      "name_en": "cairo",
+      "mudun_count": 70
+    },
+    {
+      "id": 59,
+      "name_ar": "القليوبية",
+      "name_en": "qalyubia",
+      "mudun_count": 13
+    },
+    {
+      "id": 62,
+      "name_ar": "المنوفية",
+      "name_en": "menoufia",
+      "mudun_count": 11
+    },
+    {
+      "id": 61,
+      "name_ar": "المنيا",
+      "name_en": "minya",
+      "mudun_count": 10
+    },
+    {
+      "id": 74,
+      "name_ar": "الوادي الجديد",
+      "name_en": "new-valley",
+      "mudun_count": 6
+    },
+    {
+      "id": 72,
+      "name_ar": "بني سويف",
+      "name_en": "beni-suef",
+      "mudun_count": 8
+    },
+    {
+      "id": 50,
+      "name_ar": "بورسعيد",
+      "name_en": "port-said",
+      "mudun_count": 7
+    },
+    {
+      "id": 69,
+      "name_ar": "جنوب سيناء",
+      "name_en": "south-sinai",
+      "mudun_count": 10
+    },
+    {
+      "id": 73,
+      "name_ar": "دمياط",
+      "name_en": "dameitta",
+      "mudun_count": 11
+    },
+    {
+      "id": 77,
+      "name_ar": "سوهاج",
+      "name_en": "sohag",
+      "mudun_count": 12
+    },
+    {
+      "id": 75,
+      "name_ar": "شمال سيناء",
+      "name_en": "north-sinai",
+      "mudun_count": 6
+    },
+    {
+      "id": 76,
+      "name_ar": "قنا",
+      "name_en": "qena",
+      "mudun_count": 9
+    },
+    {
+      "id": 63,
+      "name_ar": "كفر الشيخ",
+      "name_en": "kafr-el-sheikh",
+      "mudun_count": 11
+    },
+    {
+      "id": 71,
+      "name_ar": "مطروح",
+      "name_en": "matruh",
+      "mudun_count": 10
+    }
+  ],
+  "meta": {
+    "title": "محافظات مصر (Governorates of Egypt) - تحميل مجاني",
+    "description": "قائمة محافظات جمهورية مصر العربية الـ27 بأسمائها بالعربية والإنجليزية وعدد المدن/المراكز في كل محافظة. The 27 governorates (muhafazat) of Egypt with Arabic and English names and the number of listed cities/towns per governorate. يحتوي على 27 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "محافظات مصر (Governorates of Egypt) | ListBase",
+    "seo_description": "تحميل محافظات مصر (Governorates of Egypt) — 27 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 27 سجل / 4 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

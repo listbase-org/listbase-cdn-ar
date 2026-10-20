@@ -1,0 +1,520 @@
+{
+  "id": "ar-mudun-vietnam",
+  "name": "مدن فيتنام — Cities of Vietnam (Arabic names)",
+  "title": "مدن فيتنام — Cities of Vietnam (Arabic names)",
+  "description": "قائمة بأسماء مدن فيتنام بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 58 cities in Vietnam with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "مدينة هو تشي منه",
+      "name_en": "Ho Chi Minh City",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 15136000
+    },
+    {
+      "id": 2,
+      "name_ar": "هانوي",
+      "name_en": "Hanoi",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 8587100
+    },
+    {
+      "id": 3,
+      "name_ar": "هايفونغ",
+      "name_en": "Haiphong",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 2310280
+    },
+    {
+      "id": 4,
+      "name_ar": "بين هوا",
+      "name_en": "Bien Hoa",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 1575000
+    },
+    {
+      "id": 5,
+      "name_ar": "كن تاه",
+      "name_en": "Can Tho",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 1237300
+    },
+    {
+      "id": 6,
+      "name_ar": "محافظة ننه بنه",
+      "name_en": "Ninh Binh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 1106913
+    },
+    {
+      "id": 7,
+      "name_ar": "محافظة تان هوا",
+      "name_en": "Thanh Hoa",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 850000
+    },
+    {
+      "id": 8,
+      "name_ar": "تان آن",
+      "name_en": "Tan An",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 618984
+    },
+    {
+      "id": 9,
+      "name_ar": "نها ترانج",
+      "name_en": "Nha Trang",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 579000
+    },
+    {
+      "id": 10,
+      "name_ar": "محافظة باك زانغ",
+      "name_en": "Bac Giang",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 450000
+    },
+    {
+      "id": 11,
+      "name_ar": "محافظة نام دنه",
+      "name_en": "Nam Dinh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 448225
+    },
+    {
+      "id": 12,
+      "name_ar": "محافظة تهاي غوين",
+      "name_en": "Thai Nguyen",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 420000
+    },
+    {
+      "id": 13,
+      "name_ar": "فيت تري",
+      "name_en": "Viet Tri",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 415280
+    },
+    {
+      "id": 14,
+      "name_ar": "محافظة ها تنه",
+      "name_en": "Ha Tinh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 380000
+    },
+    {
+      "id": 15,
+      "name_ar": "فنغ تاو",
+      "name_en": "Vung Tau",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 341552
+    },
+    {
+      "id": 16,
+      "name_ar": "بون ما توت",
+      "name_en": "Buon Ma Thuot",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 340000
+    },
+    {
+      "id": 17,
+      "name_ar": "تو داو موت",
+      "name_en": "Thu Dau Mot",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 321607
+    },
+    {
+      "id": 18,
+      "name_ar": "كوي نهون",
+      "name_en": "Quy Nhon",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 311000
+    },
+    {
+      "id": 19,
+      "name_ar": "محافظة باك ننه",
+      "name_en": "Bac Ninh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 287658
+    },
+    {
+      "id": 20,
+      "name_ar": "لونج زوين",
+      "name_en": "Long Xuyen",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 278658
+    },
+    {
+      "id": 21,
+      "name_ar": "مي ثو",
+      "name_en": "My Tho",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 270700
+    },
+    {
+      "id": 22,
+      "name_ar": "محافظة تهاي بنه",
+      "name_en": "Thai Binh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 268167
+    },
+    {
+      "id": 23,
+      "name_ar": "محافظة كوانغ ناي",
+      "name_en": "Quang Ngai",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 260252
+    },
+    {
+      "id": 24,
+      "name_ar": "توي هوا",
+      "name_en": "Tuy Hoa",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 242840
+    },
+    {
+      "id": 25,
+      "name_ar": "محافظة هاي ديونغ",
+      "name_en": "Hai Duong",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 241373
+    },
+    {
+      "id": 26,
+      "name_ar": "با ريا",
+      "name_en": "Ba Ria",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 235192
+    },
+    {
+      "id": 27,
+      "name_ar": "محافظة هوا بنه",
+      "name_en": "Hoa Binh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 234567
+    },
+    {
+      "id": 28,
+      "name_ar": "محافظة فو أين",
+      "name_en": "Phu Yen",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 231363
+    },
+    {
+      "id": 29,
+      "name_ar": "كا ماو",
+      "name_en": "Ca Mau",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 226372
+    },
+    {
+      "id": 30,
+      "name_ar": "محافظة سوك تشانغ",
+      "name_en": "Soc Trang",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 221430
+    },
+    {
+      "id": 31,
+      "name_ar": "كاو لان",
+      "name_en": "Cao Lanh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 211912
+    },
+    {
+      "id": 32,
+      "name_ar": "فان رانغ – ثاب تشام",
+      "name_en": "Phan Rang-Thap Cham",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 207998
+    },
+    {
+      "id": 33,
+      "name_ar": "فان ثيت",
+      "name_en": "Phan Thiet",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 205333
+    },
+    {
+      "id": 34,
+      "name_ar": "دا لات",
+      "name_en": "Da Lat",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 203710
+    },
+    {
+      "id": 35,
+      "name_ar": "محافظة فين لونغ",
+      "name_en": "Vinh Long",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 200120
+    },
+    {
+      "id": 36,
+      "name_ar": "محافظة لانغ سون",
+      "name_en": "Lang Son",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 200108
+    },
+    {
+      "id": 37,
+      "name_ar": "كام فا",
+      "name_en": "Cam Pha",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 190232
+    },
+    {
+      "id": 38,
+      "name_ar": "ترانغ بانغ",
+      "name_en": "Trang Bang",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 183385
+    },
+    {
+      "id": 39,
+      "name_ar": "هالونج",
+      "name_en": "Ha Long",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 172915
+    },
+    {
+      "id": 40,
+      "name_ar": "باو لاك",
+      "name_en": "Bao Loc",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 170920
+    },
+    {
+      "id": 41,
+      "name_ar": "بحر الصين الشرقي",
+      "name_en": "Dong Ha",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 164228
+    },
+    {
+      "id": 42,
+      "name_ar": "محافظة تشا فينه",
+      "name_en": "Tra Vinh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 160310
+    },
+    {
+      "id": 43,
+      "name_ar": "محافظة باك ليو",
+      "name_en": "Bac Lieu",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 156110
+    },
+    {
+      "id": 44,
+      "name_ar": "فينه ين",
+      "name_en": "Vinh Yen",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 152801
+    },
+    {
+      "id": 45,
+      "name_ar": "هوي أن",
+      "name_en": "Hoi An",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 152160
+    },
+    {
+      "id": 46,
+      "name_ar": "دونغ زواي",
+      "name_en": "Dong Xoai",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 150052
+    },
+    {
+      "id": 47,
+      "name_ar": "كام رنه",
+      "name_en": "Cam Ranh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 146771
+    },
+    {
+      "id": 48,
+      "name_ar": "بليكو",
+      "name_en": "Pleiku",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 146073
+    },
+    {
+      "id": 49,
+      "name_ar": "فو لي",
+      "name_en": "Phu Ly",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 136654
+    },
+    {
+      "id": 50,
+      "name_ar": "محافظة تاي ننه",
+      "name_en": "Tay Ninh",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 135254
+    },
+    {
+      "id": 51,
+      "name_ar": "دونج هوي",
+      "name_en": "Dong Hoi",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 133672
+    },
+    {
+      "id": 52,
+      "name_ar": "محافظة لاو كاي",
+      "name_en": "Lao Cai",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 130671
+    },
+    {
+      "id": 53,
+      "name_ar": "بن تري",
+      "name_en": "Ben Tre",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 124449
+    },
+    {
+      "id": 54,
+      "name_ar": "تام كي",
+      "name_en": "Tam Ky",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 122374
+    },
+    {
+      "id": 55,
+      "name_ar": "محافظة هونغ اين",
+      "name_en": "Hung Yen",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 118646
+    },
+    {
+      "id": 56,
+      "name_ar": "محافظة سون لا",
+      "name_en": "Son La",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 106052
+    },
+    {
+      "id": 57,
+      "name_ar": "محافظة توين كوانغ",
+      "name_en": "Tuyen Quang",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 104645
+    },
+    {
+      "id": 58,
+      "name_ar": "تشاو دوك",
+      "name_en": "Chau Doc",
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "population": 101765
+    }
+  ],
+  "meta": {
+    "title": "مدن فيتنام — Cities of Vietnam (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن فيتنام بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 58 cities in Vietnam with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 58 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن فيتنام — Cities of Vietnam (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن فيتنام — Cities of Vietnam (Arabic names) — 58 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 58 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

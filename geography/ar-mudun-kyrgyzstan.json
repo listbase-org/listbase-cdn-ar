@@ -1,0 +1,224 @@
+{
+  "id": "ar-mudun-kyrgyzstan",
+  "name": "مدن قيرغيزستان — Cities of Kyrgyzstan (Arabic names)",
+  "title": "مدن قيرغيزستان — Cities of Kyrgyzstan (Arabic names)",
+  "description": "قائمة بأسماء مدن قيرغيزستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Kyrgyzstan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "بيشكك",
+      "name_en": "Bishkek",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 1145044
+    },
+    {
+      "id": 2,
+      "name_ar": "السلامة والصحة المهنية",
+      "name_en": "Osh",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 353080
+    },
+    {
+      "id": 3,
+      "name_ar": "جلال آباد",
+      "name_en": "Jalal-Abad",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 89004
+    },
+    {
+      "id": 4,
+      "name_ar": "باليكتشي",
+      "name_en": "Balykchy",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 54132
+    },
+    {
+      "id": 5,
+      "name_ar": "توكموك",
+      "name_en": "Tokmok",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 53231
+    },
+    {
+      "id": 6,
+      "name_ar": "أوزكند",
+      "name_en": "Ozgon",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 49410
+    },
+    {
+      "id": 7,
+      "name_ar": "قره بالتا",
+      "name_en": "Kara-Balta",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 48278
+    },
+    {
+      "id": 8,
+      "name_ar": "ثلاسيميا",
+      "name_en": "Talas",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 40308
+    },
+    {
+      "id": 9,
+      "name_ar": "نارين",
+      "name_en": "Naryn",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 34822
+    },
+    {
+      "id": 10,
+      "name_ar": "مقاطعة سوقولوق",
+      "name_en": "Sokuluk",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 30540
+    },
+    {
+      "id": 11,
+      "name_ar": "قرش",
+      "name_en": "Shark",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 21120
+    },
+    {
+      "id": 12,
+      "name_ar": "ليبيدينوفكا",
+      "name_en": "Lebedinovka",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 20709
+    },
+    {
+      "id": 13,
+      "name_ar": "ماسي",
+      "name_en": "Massy",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 19774
+    },
+    {
+      "id": 14,
+      "name_ar": "نهر فخش",
+      "name_en": "Kyzyl-Suu",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 15464
+    },
+    {
+      "id": 15,
+      "name_ar": "دونيتسك",
+      "name_en": "Aleksandrovka",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 14577
+    },
+    {
+      "id": 16,
+      "name_ar": "بوكونبايفو",
+      "name_en": "Bokonbaev",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 14267
+    },
+    {
+      "id": 17,
+      "name_ar": "بيشكك",
+      "name_en": "Frunze",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 14049
+    },
+    {
+      "id": 18,
+      "name_ar": "توباك شاكور",
+      "name_en": "Tup",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 12355
+    },
+    {
+      "id": 19,
+      "name_ar": "شولبون آتا",
+      "name_en": "Cholpon-Ata",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 11520
+    },
+    {
+      "id": 20,
+      "name_ar": "بارسكوون",
+      "name_en": "Barskoon",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 9533
+    },
+    {
+      "id": 21,
+      "name_ar": "فوستوتشنيي، كيروف",
+      "name_en": "Vostochnyy",
+      "country_ar": "قيرغيزستان",
+      "country_en": "Kyrgyzstan",
+      "population": 8611
+    }
+  ],
+  "meta": {
+    "title": "مدن قيرغيزستان — Cities of Kyrgyzstan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن قيرغيزستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 21 cities in Kyrgyzstan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 21 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن قيرغيزستان — Cities of Kyrgyzstan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن قيرغيزستان — Cities of Kyrgyzstan (Arabic names) — 21 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 21 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

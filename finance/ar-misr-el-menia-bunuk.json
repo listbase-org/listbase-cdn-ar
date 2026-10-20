@@ -1,0 +1,149 @@
+{
+  "id": "ar-misr-el-menia-bunuk",
+  "name": "بنوك El Menia — مصر — رموز سويفت (Banks of El Menia, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك El Menia — مصر — رموز سويفت (Banks of El Menia, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Menia (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in El Menia, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AHLI UNITED BANK (EGYPT) S.A.E.",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA BRANCH)",
+      "swift_code": "DEIBEGCX718"
+    },
+    {
+      "id": 2,
+      "bank": "ARAB INVESTMENT BANK",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA BRANCH)",
+      "swift_code": "AINBEGCAMIN"
+    },
+    {
+      "id": 3,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MENIA",
+      "branch": "(MALAWI)",
+      "swift_code": "BCAIEGCX635"
+    },
+    {
+      "id": 4,
+      "bank": "BANQUE DU CAIRE",
+      "city": "EL MENIA",
+      "branch": "(MENIA BRANCH)",
+      "swift_code": "BCAIEGCX630"
+    },
+    {
+      "id": 5,
+      "bank": "BLOM BANK EGYPT S.A.E.",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA)",
+      "swift_code": "MRBAEGCX035"
+    },
+    {
+      "id": 6,
+      "bank": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+      "city": "EL MENIA",
+      "branch": "(MENIA BRANCH)",
+      "swift_code": "CIBEEGCX082"
+    },
+    {
+      "id": 7,
+      "bank": "EGYPTIAN ARAB LAND BANK",
+      "city": "EL MENIA",
+      "branch": "",
+      "swift_code": "ARLBEGCAMIN"
+    },
+    {
+      "id": 8,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "EL MENIA",
+      "branch": "(EL-MENIA BRANCH)",
+      "swift_code": "FIEGEGCXMIN"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENIA",
+      "branch": "(ABO QURQAS BRANCH)",
+      "swift_code": "NBEGEGCX549"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA BRANCH)",
+      "swift_code": "NBEGEGCX508"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX509"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "EL MENIA",
+      "branch": "(MATAY BRANCH)",
+      "swift_code": "NBEGEGCX492"
+    },
+    {
+      "id": 13,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA BRANCH)",
+      "swift_code": "BDACEGCA086"
+    },
+    {
+      "id": 14,
+      "bank": "SUEZ CANAL BANK",
+      "city": "EL MENIA",
+      "branch": "(EL MENIA BRANCH)",
+      "swift_code": "SUCAEGCXMEN"
+    }
+  ],
+  "meta": {
+    "title": "بنوك El Menia — مصر — رموز سويفت (Banks of El Menia, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة El Menia (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 14 سجلًا. List of banks, financial institutions and their branches in El Menia, Egypt with the SWIFT/BIC code, bank name and branch name for each. 14 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 14 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك El Menia — مصر — رموز سويفت (Banks of El Menia, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك El Menia — مصر — رموز سويفت (Banks of El Menia, Egypt — SWIFT/BIC codes) — 14 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 14 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

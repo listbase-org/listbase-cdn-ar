@@ -1,0 +1,124 @@
+{
+  "id": "ar-misr-port-said-mudun",
+  "name": "مدن ومراكز محافظة بورسعيد (Cities & Towns of Port Said)",
+  "title": "مدن ومراكز محافظة بورسعيد (Cities & Towns of Port Said)",
+  "description": "قائمة مدن ومراكز محافظة بورسعيد في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Port Said governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "325",
+      "name_ar": "حي الجنوب",
+      "name_en": "ganoub-district",
+      "name_long_ar": "حي الجنوب، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "326",
+      "name_ar": "حي الزهور",
+      "name_en": "zohour-district",
+      "name_long_ar": "حي الزهور، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "328",
+      "name_ar": "حي الشرق",
+      "name_en": "sharq-district",
+      "name_long_ar": "حي الشرق، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "327",
+      "name_ar": "حي الضواحي",
+      "name_en": "dawahy-district",
+      "name_long_ar": "حي الضواحي، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "330",
+      "name_ar": "حي العرب",
+      "name_en": "arab-district",
+      "name_long_ar": "حي العرب، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "329",
+      "name_ar": "حي المناخ",
+      "name_en": "manakh-district",
+      "name_long_ar": "حي المناخ، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    },
+    {
+      "id": "331",
+      "name_ar": "مدينة بورفؤاد",
+      "name_en": "port-fouad",
+      "name_long_ar": "مدينة بورفؤاد، بورسعيد",
+      "muhafaza_ar": "بورسعيد",
+      "muhafaza_en": "port-said",
+      "muhafaza_id": 50
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة بورسعيد (Cities & Towns of Port Said) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة بورسعيد في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Port Said governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة بورسعيد (Cities & Towns of Port Said) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة بورسعيد (Cities & Towns of Port Said) — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

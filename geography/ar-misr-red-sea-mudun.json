@@ -1,0 +1,133 @@
+{
+  "id": "ar-misr-red-sea-mudun",
+  "name": "مدن ومراكز محافظة البحر الأحمر (Cities & Towns of Red Sea)",
+  "title": "مدن ومراكز محافظة البحر الأحمر (Cities & Towns of Red Sea)",
+  "description": "قائمة مدن ومراكز محافظة البحر الأحمر في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Red Sea governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "179",
+      "name_ar": "الغردقة - أخرى",
+      "name_en": "hurghada",
+      "name_long_ar": "الغردقة - أخرى، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "409",
+      "name_ar": "الغردقة - الجونة",
+      "name_en": "hurghada-gouna",
+      "name_long_ar": "الغردقة - الجونة، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "181",
+      "name_ar": "القصير",
+      "name_en": "qusair",
+      "name_long_ar": "القصير، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "180",
+      "name_ar": "رأس غارب",
+      "name_en": "ras-gharib",
+      "name_long_ar": "رأس غارب، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "182",
+      "name_ar": "سفاجا",
+      "name_en": "safaga",
+      "name_long_ar": "سفاجا، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "399",
+      "name_ar": "سهل حشيش",
+      "name_en": "sahl-hasheesh",
+      "name_long_ar": "سهل حشيش، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "184",
+      "name_ar": "شلاتين",
+      "name_en": "shalateen",
+      "name_long_ar": "شلاتين، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    },
+    {
+      "id": "183",
+      "name_ar": "مرسى علم",
+      "name_en": "marsa-alam",
+      "name_long_ar": "مرسى علم، البحر الأحمر",
+      "muhafaza_ar": "البحر الأحمر",
+      "muhafaza_en": "red-sea",
+      "muhafaza_id": 70
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة البحر الأحمر (Cities & Towns of Red Sea) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة البحر الأحمر في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Red Sea governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 8 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة البحر الأحمر (Cities & Towns of Red Sea) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة البحر الأحمر (Cities & Towns of Red Sea) — 8 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 8 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

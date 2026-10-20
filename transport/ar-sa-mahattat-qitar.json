@@ -1,0 +1,192 @@
+{
+  "id": "ar-sa-mahattat-qitar",
+  "name": "محطات القطار في المملكة العربية السعودية (Railway Stations of Saudi Arabia)",
+  "title": "محطات القطار في المملكة العربية السعودية (Railway Stations of Saudi Arabia)",
+  "description": "قائمة محطات القطار في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q55488) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة محطات القطار سعودية في النطاق العربي. List of railway stations in Saudi Arabia from Wikidata.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ar",
+      "label": "Admin Area Ar",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q85874773",
+      "name_ar": "محطة الجوف",
+      "name_en": "Al-Jawf railway station",
+      "admin_area_ar": "منطقة الجوف",
+      "admin_area_en": "Al-Jowf Province",
+      "latitude": 29.64864,
+      "longitude": 39.837827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85874773"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q100158808",
+      "name_ar": "محطة القريات",
+      "name_en": "Qurayyat Railway Station",
+      "admin_area_ar": "محافظة القريات",
+      "admin_area_en": "Qurayyat governorate",
+      "latitude": 31.420259,
+      "longitude": 37.288923,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100158808"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q85874780",
+      "name_ar": "محطة القصيم",
+      "name_en": "Qassim railway station",
+      "admin_area_ar": "منطقة القصيم",
+      "admin_area_en": "Al-Qassim",
+      "latitude": 26.492028,
+      "longitude": 44.09143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85874780"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q85874788",
+      "name_ar": "محطة المجمعة",
+      "name_en": "Majmmah railway station",
+      "admin_area_ar": "محافظة المجمعة",
+      "admin_area_en": "Al Majma'ah governorate",
+      "latitude": 25.920772,
+      "longitude": 45.419734,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85874788"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12183415",
+      "name_ar": "محطة المدينة المنورة",
+      "name_en": "",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.461669,
+      "longitude": 39.600192,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12183415"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q22689566",
+      "name_ar": "محطة تبوك",
+      "name_en": "Tabuk Station",
+      "admin_area_ar": "تبوك",
+      "admin_area_en": "Tabuk",
+      "latitude": 28.38744,
+      "longitude": 36.5616,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22689566"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q85874793",
+      "name_ar": "محطة حائل",
+      "name_en": "Hail railway station",
+      "admin_area_ar": "منطقة القصيم",
+      "admin_area_en": "Al-Qassim",
+      "latitude": 27.683774,
+      "longitude": 41.755608,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85874793"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q30594172",
+      "name_ar": "محطة قطار الدمام",
+      "name_en": "Dammam railway station",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.4101,
+      "longitude": 50.1265,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30594172"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q30594324",
+      "name_ar": "محطة قطار الرياض",
+      "name_en": "Riyadh railway station",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 24.6504,
+      "longitude": 46.7406,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30594324"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q100151587",
+      "name_ar": "محطة قطار الشمال بالرياض",
+      "name_en": "Riyadh North railway station",
+      "admin_area_ar": "الرياض",
+      "admin_area_en": "Riyadh",
+      "latitude": 24.855889,
+      "longitude": 46.766061,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100151587"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12239409",
+      "name_ar": "محطة مدائن صالح",
+      "name_en": "Hejaz railway station, el-Ula",
+      "admin_area_ar": "",
+      "admin_area_en": "",
+      "latitude": 26.805105,
+      "longitude": 37.948452,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12239409"
+    }
+  ],
+  "meta": {
+    "title": "محطات القطار في المملكة العربية السعودية (Railway Stations of Saudi Arabia) - تحميل مجاني",
+    "description": "قائمة محطات القطار في المملكة العربية السعودية مع الأسماء بالعربية والإنجليزية والمنطقة الإدارية والإحداثيات (WGS84) ورابط ويكي بيانات. مأخوذة من ويكي بيانات (P31 = Q55488) مقيّدة بالمملكة العربية السعودية عبر P17 = Q851، ومرتّبة أبجديًا حسب الاسم العربي. وفق قاعدة الحفاظ على النص الأصلي، احتُفظ فقط بالكيانات التي تحمل وسمًا عربيًا حقيقيًا على ويكي بيانات (rdfs:label@ar) ولها إحداثيات (P625). أول مجموعة محطات القطار سعودية في النطاق العربي. List of railway stations in Saudi Arabia from Wikidata. يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "محطات القطار في المملكة العربية السعودية (Railway Stations of Saudi Arabia) | ListBase",
+    "seo_description": "تحميل محطات القطار في المملكة العربية السعودية (Railway Stations of Saudi Arabia) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 9 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

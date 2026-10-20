@@ -1,0 +1,2226 @@
+{
+  "id": "ar-eastern-mudun",
+  "name": "مدن منطقة الشرقية (Cities of Eastern)",
+  "title": "مدن منطقة الشرقية (Cities of Eastern)",
+  "description": "قائمة مدن منطقة الشرقية (Eastern) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Eastern administrative region of Saudi Arabia (region_id=13). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 216,
+  "columns": [
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "region_id",
+      "label": "Region Id",
+      "type": "number"
+    },
+    {
+      "key": "region_ar",
+      "label": "Region Ar",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "region_slug",
+      "label": "Region Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "city_id": 12,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الهفوف",
+      "name_en": "Al Hufuf",
+      "slug": "al-hufuf"
+    },
+    {
+      "city_id": 13,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الدمام",
+      "name_en": "Ad Dammam",
+      "slug": "ad-dammam"
+    },
+    {
+      "city_id": 31,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخبر",
+      "name_en": "Al Khubar",
+      "slug": "al-khubar"
+    },
+    {
+      "city_id": 44,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابو قعر",
+      "name_en": "Abu Qaar",
+      "slug": "abu-qaar"
+    },
+    {
+      "city_id": 45,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مركز العوجاء",
+      "name_en": "Markaz Al Awja",
+      "slug": "markaz-al-awja"
+    },
+    {
+      "city_id": 46,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مركز العليمة",
+      "name_en": "Markaz Al Ulayyimah",
+      "slug": "markaz-al-ulayyimah"
+    },
+    {
+      "city_id": 47,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حفر الباطن",
+      "name_en": "Hafar Al Batin",
+      "slug": "hafar-al-batin"
+    },
+    {
+      "city_id": 48,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القلت",
+      "name_en": "Al Qalt",
+      "slug": "al-qalt"
+    },
+    {
+      "city_id": 49,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "النظيم",
+      "name_en": "An Nadhim",
+      "slug": "an-nadhim-49"
+    },
+    {
+      "city_id": 50,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابن طوالة",
+      "name_en": "Ibn Tuwalah",
+      "slug": "ibn-tuwalah"
+    },
+    {
+      "city_id": 51,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الصداوي",
+      "name_en": "As Sidawi",
+      "slug": "as-sidawi"
+    },
+    {
+      "city_id": 52,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام قليب",
+      "name_en": "Umm Qulaib",
+      "slug": "umm-qulaib"
+    },
+    {
+      "city_id": 53,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عريفج",
+      "name_en": "Urayfij",
+      "slug": "urayfij"
+    },
+    {
+      "city_id": 54,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابن شرار",
+      "name_en": "Ibn Sharar",
+      "slug": "ibn-sharar"
+    },
+    {
+      "city_id": 55,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القيصومة",
+      "name_en": "Al Qaysumah",
+      "slug": "al-qaysumah-55"
+    },
+    {
+      "city_id": 56,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الرقعي الجديدة",
+      "name_en": "Ar Ruqi Al Jadidah",
+      "slug": "ar-ruqi-al-jadidah"
+    },
+    {
+      "city_id": 57,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ذبحة",
+      "name_en": "Dhabhah",
+      "slug": "dhabhah"
+    },
+    {
+      "city_id": 58,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الصفيري",
+      "name_en": "As Sufairy",
+      "slug": "as-sufairy"
+    },
+    {
+      "city_id": 59,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الوايلية",
+      "name_en": "Al Wayliyah",
+      "slug": "al-wayliyah"
+    },
+    {
+      "city_id": 60,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفيوان",
+      "name_en": "Al Fiwan",
+      "slug": "al-fiwan"
+    },
+    {
+      "city_id": 61,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحماطيات",
+      "name_en": "Al Hamatiyat",
+      "slug": "al-hamatiyat"
+    },
+    {
+      "city_id": 63,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجبو",
+      "name_en": "Al Jabu",
+      "slug": "al-jabu"
+    },
+    {
+      "city_id": 64,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المسناة",
+      "name_en": "Al Masnah",
+      "slug": "al-masnah"
+    },
+    {
+      "city_id": 66,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام عشر الشرقية",
+      "name_en": "Umm Ishar Ash Sharqiyyah",
+      "slug": "umm-ishar-ash-sharqiyyah"
+    },
+    {
+      "city_id": 67,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القطيف",
+      "name_en": "Al Qatif",
+      "slug": "al-qatif"
+    },
+    {
+      "city_id": 81,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الرافعية",
+      "name_en": "Ar Rafiyah",
+      "slug": "ar-rafiyah"
+    },
+    {
+      "city_id": 82,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الكبريت",
+      "name_en": "Al Kabarit",
+      "slug": "al-kabarit"
+    },
+    {
+      "city_id": 83,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "رغوة",
+      "name_en": "Raghwah",
+      "slug": "raghwah"
+    },
+    {
+      "city_id": 84,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حمى",
+      "name_en": "Hamma",
+      "slug": "hamma"
+    },
+    {
+      "city_id": 85,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الزبر",
+      "name_en": "Az Zabr",
+      "slug": "az-zabr"
+    },
+    {
+      "city_id": 86,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "السفانية",
+      "name_en": "As Saffaniyah",
+      "slug": "as-saffaniyah"
+    },
+    {
+      "city_id": 87,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المحوى",
+      "name_en": "Al Mahawa",
+      "slug": "al-mahawa-87"
+    },
+    {
+      "city_id": 88,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "أم غور",
+      "name_en": "Umm Ghawr",
+      "slug": "umm-ghawr"
+    },
+    {
+      "city_id": 89,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "قرية العليا",
+      "name_en": "Qaryat Al Ulya",
+      "slug": "qaryat-al-ulya"
+    },
+    {
+      "city_id": 90,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الرفيعة",
+      "name_en": "Ar Rafiah",
+      "slug": "ar-rafiah-90"
+    },
+    {
+      "city_id": 91,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "جرارة",
+      "name_en": "Jarrarah",
+      "slug": "jarrarah"
+    },
+    {
+      "city_id": 92,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "قرية",
+      "name_en": "Qurayyah",
+      "slug": "qurayyah-92"
+    },
+    {
+      "city_id": 93,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "البويبيات",
+      "name_en": "Al Buwaybiyat",
+      "slug": "al-buwaybiyat"
+    },
+    {
+      "city_id": 94,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "السعيرة",
+      "name_en": "As Suayyirah",
+      "slug": "as-suayyirah"
+    },
+    {
+      "city_id": 95,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مناخ",
+      "name_en": "Manakh",
+      "slug": "manakh"
+    },
+    {
+      "city_id": 96,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحيرا",
+      "name_en": "Al Hayra",
+      "slug": "al-hayra"
+    },
+    {
+      "city_id": 97,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام الشفلح",
+      "name_en": "Umm Ash Shifallah",
+      "slug": "umm-ash-shifallah"
+    },
+    {
+      "city_id": 98,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "اللهابة",
+      "name_en": "Al Lahabah",
+      "slug": "al-lahabah"
+    },
+    {
+      "city_id": 99,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفريدة",
+      "name_en": "Al Farridah",
+      "slug": "al-farridah"
+    },
+    {
+      "city_id": 100,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشامية",
+      "name_en": "Ash Shamiyah",
+      "slug": "ash-shamiyah-100"
+    },
+    {
+      "city_id": 101,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العيطلية",
+      "name_en": "Al Aytaliyah",
+      "slug": "al-aytaliyah"
+    },
+    {
+      "city_id": 102,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سحمة",
+      "name_en": "Sihmah",
+      "slug": "sihmah"
+    },
+    {
+      "city_id": 103,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشملول / ام عقلا",
+      "name_en": "Ash Shamlul / Umm Aqla",
+      "slug": "ash-shamlul-umm-aqla"
+    },
+    {
+      "city_id": 104,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام الهوشات",
+      "name_en": "Umm Al Hawshat",
+      "slug": "umm-al-hawshat"
+    },
+    {
+      "city_id": 105,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشيط",
+      "name_en": "Ash Shayyit",
+      "slug": "ash-shayyit"
+    },
+    {
+      "city_id": 106,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العاذرية",
+      "name_en": "Al Adhiriyah",
+      "slug": "al-adhiriyah-106"
+    },
+    {
+      "city_id": 107,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشيحية",
+      "name_en": "Ash Shihiyah",
+      "slug": "ash-shihiyah-107"
+    },
+    {
+      "city_id": 108,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حزوة / العمانية",
+      "name_en": "Hizwah / Al Umaniyah",
+      "slug": "hizwah-al-umaniyah"
+    },
+    {
+      "city_id": 109,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القرعاء",
+      "name_en": "Al Qara",
+      "slug": "al-qara-109"
+    },
+    {
+      "city_id": 110,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "اللصافة",
+      "name_en": "Al Lisafah",
+      "slug": "al-lisafah"
+    },
+    {
+      "city_id": 111,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "النقيرة",
+      "name_en": "An Nuqayrah",
+      "slug": "an-nuqayrah"
+    },
+    {
+      "city_id": 112,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "هجرة أولاد حثلين",
+      "name_en": "Hijrat Awlad Hithlin",
+      "slug": "hijrat-awlad-hithlin"
+    },
+    {
+      "city_id": 113,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجبيل",
+      "name_en": "Al Jubail",
+      "slug": "al-jubail"
+    },
+    {
+      "city_id": 114,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "فرزان",
+      "name_en": "Farzan",
+      "slug": "farzan-114"
+    },
+    {
+      "city_id": 115,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "النعيرية",
+      "name_en": "An Nuayriyah",
+      "slug": "an-nuayriyah"
+    },
+    {
+      "city_id": 116,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام ضليع",
+      "name_en": "Umm Dulay",
+      "slug": "umm-dulay"
+    },
+    {
+      "city_id": 117,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مليجة",
+      "name_en": "Mulayjah",
+      "slug": "mulayjah"
+    },
+    {
+      "city_id": 118,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الصرار",
+      "name_en": "As Sarrar",
+      "slug": "as-sarrar"
+    },
+    {
+      "city_id": 119,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حنيذ",
+      "name_en": "Hanidh",
+      "slug": "hanidh"
+    },
+    {
+      "city_id": 120,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مغطي",
+      "name_en": "Mughati",
+      "slug": "mughati"
+    },
+    {
+      "city_id": 121,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "شفية",
+      "name_en": "Shifiyah",
+      "slug": "shifiyah"
+    },
+    {
+      "city_id": 122,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عتيق",
+      "name_en": "Utayyiq",
+      "slug": "utayyiq"
+    },
+    {
+      "city_id": 123,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحسي",
+      "name_en": "Al Husayy",
+      "slug": "al-husayy"
+    },
+    {
+      "city_id": 124,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ثاج",
+      "name_en": "Thaj",
+      "slug": "thaj"
+    },
+    {
+      "city_id": 125,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحناة",
+      "name_en": "Al Hinnah",
+      "slug": "al-hinnah"
+    },
+    {
+      "city_id": 126,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الكهفة",
+      "name_en": "Al Kahafah",
+      "slug": "al-kahafah-126"
+    },
+    {
+      "city_id": 127,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الصحاف",
+      "name_en": "As Sahaf",
+      "slug": "as-sahaf"
+    },
+    {
+      "city_id": 128,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العيينة",
+      "name_en": "Al Uyaynah",
+      "slug": "al-uyaynah-128"
+    },
+    {
+      "city_id": 129,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القليب",
+      "name_en": "Al Qulayyib",
+      "slug": "al-qulayyib"
+    },
+    {
+      "city_id": 130,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الونان",
+      "name_en": "Al Wannan",
+      "slug": "al-wannan"
+    },
+    {
+      "city_id": 131,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "غنوى",
+      "name_en": "Ghanwa",
+      "slug": "ghanwa"
+    },
+    {
+      "city_id": 132,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الزغين",
+      "name_en": "Az Zughayn",
+      "slug": "az-zughayn"
+    },
+    {
+      "city_id": 133,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "نطاع",
+      "name_en": "Nita",
+      "slug": "nita"
+    },
+    {
+      "city_id": 134,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام الحمام",
+      "name_en": "Umm Al Hamam",
+      "slug": "umm-al-hamam"
+    },
+    {
+      "city_id": 135,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام ربيعة",
+      "name_en": "Umm Rubayah",
+      "slug": "umm-rubayah"
+    },
+    {
+      "city_id": 136,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابو حدرية",
+      "name_en": "Abu Hadriyah",
+      "slug": "abu-hadriyah"
+    },
+    {
+      "city_id": 137,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "منيفة",
+      "name_en": "Munifah",
+      "slug": "munifah-137"
+    },
+    {
+      "city_id": 227,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الظهران",
+      "name_en": "Adh Dhahran",
+      "slug": "adh-dhahran"
+    },
+    {
+      "city_id": 241,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "برق الأسيدية",
+      "name_en": "Burq Al Usaydiyah",
+      "slug": "burq-al-usaydiyah"
+    },
+    {
+      "city_id": 242,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفاضلي",
+      "name_en": "Al Fadili",
+      "slug": "al-fadili"
+    },
+    {
+      "city_id": 243,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "بقيق",
+      "name_en": "Buqayq",
+      "slug": "buqayq"
+    },
+    {
+      "city_id": 244,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "قرية",
+      "name_en": "Qurayyah",
+      "slug": "qurayyah-244"
+    },
+    {
+      "city_id": 245,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ظلوم",
+      "name_en": "Dhulum",
+      "slug": "dhulum"
+    },
+    {
+      "city_id": 246,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عين دار",
+      "name_en": "Ayn Dar",
+      "slug": "ayn-dar"
+    },
+    {
+      "city_id": 247,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عين دار القديمة",
+      "name_en": "Old Ain Dar",
+      "slug": "old-ain-dar"
+    },
+    {
+      "city_id": 248,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "علاة",
+      "name_en": "Allat",
+      "slug": "allat"
+    },
+    {
+      "city_id": 249,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "فودة",
+      "name_en": "Fudah",
+      "slug": "fudah"
+    },
+    {
+      "city_id": 250,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الكدادية",
+      "name_en": "Al Kidadiyah",
+      "slug": "al-kidadiyah"
+    },
+    {
+      "city_id": 251,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "يكرب",
+      "name_en": "Yakrub",
+      "slug": "yakrub"
+    },
+    {
+      "city_id": 252,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجابرية",
+      "name_en": "Al Jabiriyah",
+      "slug": "al-jabiriyah-252"
+    },
+    {
+      "city_id": 253,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "صلاصل",
+      "name_en": "Salasil",
+      "slug": "salasil"
+    },
+    {
+      "city_id": 254,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "شهيلاء",
+      "name_en": "Shuhayla",
+      "slug": "shuhayla"
+    },
+    {
+      "city_id": 255,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عصيفرات",
+      "name_en": "Usayfirat",
+      "slug": "usayfirat"
+    },
+    {
+      "city_id": 257,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الدغيمية",
+      "name_en": "Ad Dughaymiyah",
+      "slug": "ad-dughaymiyah"
+    },
+    {
+      "city_id": 301,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الراكة",
+      "name_en": "Ar Rakah",
+      "slug": "ar-rakah"
+    },
+    {
+      "city_id": 303,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الثقبة",
+      "name_en": "Ath Thuqbah",
+      "slug": "ath-thuqbah"
+    },
+    {
+      "city_id": 304,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العزيزية",
+      "name_en": "Al Aziziyah",
+      "slug": "al-aziziyah"
+    },
+    {
+      "city_id": 454,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سيهات",
+      "name_en": "Sayhat",
+      "slug": "sayhat"
+    },
+    {
+      "city_id": 456,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "تاروت",
+      "name_en": "Tarut",
+      "slug": "tarut"
+    },
+    {
+      "city_id": 1708,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "هدباء",
+      "name_en": "Hadba",
+      "slug": "hadba"
+    },
+    {
+      "city_id": 1874,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سامودة",
+      "name_en": "Samudah",
+      "slug": "samudah-1874"
+    },
+    {
+      "city_id": 2003,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشهارين",
+      "name_en": "Ash Shaharin",
+      "slug": "ash-shaharin"
+    },
+    {
+      "city_id": 2004,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العاذرية",
+      "name_en": "Al Adhiriyah",
+      "slug": "al-adhiriyah-2004"
+    },
+    {
+      "city_id": 2005,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "هجرة أم العراد",
+      "name_en": "Hijrat Umm Al Irad",
+      "slug": "hijrat-umm-al-irad"
+    },
+    {
+      "city_id": 2006,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العبيلة",
+      "name_en": "Al Ubaylah",
+      "slug": "al-ubaylah-2006"
+    },
+    {
+      "city_id": 2007,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "شبيطة",
+      "name_en": "Shubaytah",
+      "slug": "shubaytah"
+    },
+    {
+      "city_id": 2008,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "شوالة",
+      "name_en": "Shawwalah",
+      "slug": "shawwalah"
+    },
+    {
+      "city_id": 2009,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مركز الشيبة",
+      "name_en": "Markaz Ash Shaybah",
+      "slug": "markaz-ash-shaybah"
+    },
+    {
+      "city_id": 2010,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مركز الخيران",
+      "name_en": "Markaz Al Khiran",
+      "slug": "markaz-al-khiran"
+    },
+    {
+      "city_id": 2011,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "هجرة الطويلة",
+      "name_en": "Hijrat At Tawilah",
+      "slug": "hijrat-at-tawilah"
+    },
+    {
+      "city_id": 2012,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عجائب",
+      "name_en": "Ajaib",
+      "slug": "ajaib"
+    },
+    {
+      "city_id": 2013,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الطربيل",
+      "name_en": "At Tarbil",
+      "slug": "at-tarbil"
+    },
+    {
+      "city_id": 2014,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "التهيمية",
+      "name_en": "At Tuhaymiyah",
+      "slug": "at-tuhaymiyah"
+    },
+    {
+      "city_id": 2015,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المقدام",
+      "name_en": "Al Miqdam",
+      "slug": "al-miqdam"
+    },
+    {
+      "city_id": 2016,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "السبايرة",
+      "name_en": "As Sabayirah",
+      "slug": "as-sabayirah"
+    },
+    {
+      "city_id": 2017,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "السباط",
+      "name_en": "As Sabat",
+      "slug": "as-sabat"
+    },
+    {
+      "city_id": 2018,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجرن",
+      "name_en": "Al Jarn",
+      "slug": "al-jarn"
+    },
+    {
+      "city_id": 2019,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "برقاء  الركبان",
+      "name_en": "Barqa Al Rukban",
+      "slug": "barqa-al-rukban"
+    },
+    {
+      "city_id": 2020,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "البطالية",
+      "name_en": "Al Bataliyah",
+      "slug": "al-bataliyah-2020"
+    },
+    {
+      "city_id": 2022,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "بطحاء",
+      "name_en": "Batha",
+      "slug": "batha"
+    },
+    {
+      "city_id": 2023,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العديد",
+      "name_en": "Al Adid",
+      "slug": "al-adid"
+    },
+    {
+      "city_id": 2024,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عردة",
+      "name_en": "Ardah",
+      "slug": "ardah-2024"
+    },
+    {
+      "city_id": 2025,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ذعبلوتن",
+      "name_en": "Dhablutin",
+      "slug": "dhablutin"
+    },
+    {
+      "city_id": 2026,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجديدة",
+      "name_en": "Al Jadidah",
+      "slug": "al-jadidah-2026"
+    },
+    {
+      "city_id": 2027,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "نعلة شدقم",
+      "name_en": "Nalat Shadqam",
+      "slug": "nalat-shadqam"
+    },
+    {
+      "city_id": 2028,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخويس",
+      "name_en": "Al Khuways",
+      "slug": "al-khuways"
+    },
+    {
+      "city_id": 2029,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "شدقم",
+      "name_en": "Shadqam",
+      "slug": "shadqam"
+    },
+    {
+      "city_id": 2030,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابرقية",
+      "name_en": "Abraqiyah",
+      "slug": "abraqiyah-2030"
+    },
+    {
+      "city_id": 2031,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفوارة",
+      "name_en": "Al Fawwarah",
+      "slug": "al-fawwarah-2031"
+    },
+    {
+      "city_id": 2032,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابن سرحان",
+      "name_en": "Ibn Sirhan",
+      "slug": "ibn-sirhan"
+    },
+    {
+      "city_id": 2033,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المرضف",
+      "name_en": "Al Muraddaf",
+      "slug": "al-muraddaf"
+    },
+    {
+      "city_id": 2034,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحوية",
+      "name_en": "Al Hawiyah",
+      "slug": "al-hawiyah-2034"
+    },
+    {
+      "city_id": 2035,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العضيلية",
+      "name_en": "Al Udayliyah",
+      "slug": "al-udayliyah"
+    },
+    {
+      "city_id": 2036,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العثمانية",
+      "name_en": "Al Uthmaniyah",
+      "slug": "al-uthmaniyah"
+    },
+    {
+      "city_id": 2037,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حرض",
+      "name_en": "Harad",
+      "slug": "harad"
+    },
+    {
+      "city_id": 2038,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العيون",
+      "name_en": "Al Uyun",
+      "slug": "al-uyun"
+    },
+    {
+      "city_id": 2159,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الربيعية",
+      "name_en": "Ar Rabiiyah",
+      "slug": "ar-rabiiyah"
+    },
+    {
+      "city_id": 2161,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القديح",
+      "name_en": "Al Qudayh",
+      "slug": "al-qudayh"
+    },
+    {
+      "city_id": 2162,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخويلدية",
+      "name_en": "Al Khuwildiyah",
+      "slug": "al-khuwildiyah"
+    },
+    {
+      "city_id": 2163,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الدريدي",
+      "name_en": "Ad Duraidy",
+      "slug": "ad-duraidy"
+    },
+    {
+      "city_id": 2164,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخترشية",
+      "name_en": "Al Khatrashiyah",
+      "slug": "al-khatrashiyah"
+    },
+    {
+      "city_id": 2165,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ابو معن",
+      "name_en": "Abu Maan",
+      "slug": "abu-maan"
+    },
+    {
+      "city_id": 2166,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام الساهك",
+      "name_en": "Umm As Sahik",
+      "slug": "umm-as-sahik"
+    },
+    {
+      "city_id": 2167,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "صفوى",
+      "name_en": "Safwa",
+      "slug": "safwa"
+    },
+    {
+      "city_id": 2168,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حزم ام الساهك",
+      "name_en": "Hazam Umm As Sahik",
+      "slug": "hazam-umm-as-sahik"
+    },
+    {
+      "city_id": 2170,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجش",
+      "name_en": "Al Jish",
+      "slug": "al-jish"
+    },
+    {
+      "city_id": 2171,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عنك",
+      "name_en": "Inak",
+      "slug": "inak"
+    },
+    {
+      "city_id": 2172,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "حلة محيش",
+      "name_en": "Hilat Muhish",
+      "slug": "hilat-muhish"
+    },
+    {
+      "city_id": 2173,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "التوبي",
+      "name_en": "At Tubi",
+      "slug": "at-tubi"
+    },
+    {
+      "city_id": 2174,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الملاحة",
+      "name_en": "Al Milahah",
+      "slug": "al-milahah"
+    },
+    {
+      "city_id": 2176,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "دارين",
+      "name_en": "Darin",
+      "slug": "darin"
+    },
+    {
+      "city_id": 2177,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العوامية",
+      "name_en": "Al Awwamiyah",
+      "slug": "al-awwamiyah"
+    },
+    {
+      "city_id": 2178,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "النابية",
+      "name_en": "An Nabiyah",
+      "slug": "an-nabiyah"
+    },
+    {
+      "city_id": 2179,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الزور",
+      "name_en": "Az Zawr",
+      "slug": "az-zawr"
+    },
+    {
+      "city_id": 2180,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفريع",
+      "name_en": "Al Furay",
+      "slug": "al-furay-2180"
+    },
+    {
+      "city_id": 2464,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخفجي",
+      "name_en": "Al Khafji",
+      "slug": "al-khafji"
+    },
+    {
+      "city_id": 2590,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "راس تنورة",
+      "name_en": "Ras Tannurah",
+      "slug": "ras-tannurah"
+    },
+    {
+      "city_id": 2591,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "رحيمة",
+      "name_en": "Rahimah",
+      "slug": "rahimah"
+    },
+    {
+      "city_id": 2639,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المراح",
+      "name_en": "Al Marah",
+      "slug": "al-marah"
+    },
+    {
+      "city_id": 2640,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "جودة",
+      "name_en": "Judah",
+      "slug": "judah"
+    },
+    {
+      "city_id": 2641,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سلوى",
+      "name_en": "Salwa",
+      "slug": "salwa-2641"
+    },
+    {
+      "city_id": 2642,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العقير",
+      "name_en": "Al Uqayr",
+      "slug": "al-uqayr"
+    },
+    {
+      "city_id": 2643,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "يبرين",
+      "name_en": "Yabrin / Jabrin",
+      "slug": "yabrin-jabrin"
+    },
+    {
+      "city_id": 2644,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "البطالية",
+      "name_en": "Al Bataliyah",
+      "slug": "al-bataliyah-2644"
+    },
+    {
+      "city_id": 2645,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشقيق",
+      "name_en": "Ash Shaqiq",
+      "slug": "ash-shaqiq-2645"
+    },
+    {
+      "city_id": 2646,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القرين",
+      "name_en": "Al Qarin",
+      "slug": "al-qarin"
+    },
+    {
+      "city_id": 2647,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الوزية",
+      "name_en": "Al Wizyah",
+      "slug": "al-wizyah"
+    },
+    {
+      "city_id": 2648,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القرن",
+      "name_en": "Al Qarn",
+      "slug": "al-qarn-2648"
+    },
+    {
+      "city_id": 2649,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخرس",
+      "name_en": "Al Khars",
+      "slug": "al-khars"
+    },
+    {
+      "city_id": 2650,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الغويبة",
+      "name_en": "Al Ghuwaybah",
+      "slug": "al-ghuwaybah"
+    },
+    {
+      "city_id": 2651,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "مريطبة",
+      "name_en": "Muraytibah",
+      "slug": "muraytibah"
+    },
+    {
+      "city_id": 2652,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سوده",
+      "name_en": "Sudah",
+      "slug": "sudah"
+    },
+    {
+      "city_id": 2653,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العمران",
+      "name_en": "Al Umran",
+      "slug": "al-umran"
+    },
+    {
+      "city_id": 2737,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الكلابية",
+      "name_en": "Al Kilabiyah",
+      "slug": "al-kilabiyah"
+    },
+    {
+      "city_id": 2738,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المنيزلة",
+      "name_en": "Al Munaizlah",
+      "slug": "al-munaizlah"
+    },
+    {
+      "city_id": 2739,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القارة",
+      "name_en": "Al Qarah",
+      "slug": "al-qarah-2739"
+    },
+    {
+      "city_id": 2740,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المنصورة",
+      "name_en": "Al Mansurah",
+      "slug": "al-mansurah"
+    },
+    {
+      "city_id": 2741,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المزاوي",
+      "name_en": "Al Mazawi",
+      "slug": "al-mazawi"
+    },
+    {
+      "city_id": 2742,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحوطة",
+      "name_en": "Al Hawtah",
+      "slug": "al-hawtah-2742"
+    },
+    {
+      "city_id": 2743,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المركز",
+      "name_en": "Al Markaz",
+      "slug": "al-markaz"
+    },
+    {
+      "city_id": 2744,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الفضول",
+      "name_en": "Al Fudul",
+      "slug": "al-fudul"
+    },
+    {
+      "city_id": 2745,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الرميلة",
+      "name_en": "Ar Rumaylah",
+      "slug": "ar-rumaylah"
+    },
+    {
+      "city_id": 2746,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجشة",
+      "name_en": "Al Jishshah",
+      "slug": "al-jishshah"
+    },
+    {
+      "city_id": 2747,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشعبة",
+      "name_en": "Ash Shibah",
+      "slug": "ash-shibah"
+    },
+    {
+      "city_id": 2748,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المبرز",
+      "name_en": "Al Mubarraz",
+      "slug": "al-mubarraz"
+    },
+    {
+      "city_id": 2749,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجليجلة",
+      "name_en": "Al Julijlah",
+      "slug": "al-julijlah"
+    },
+    {
+      "city_id": 2750,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "المطيرفي",
+      "name_en": "Al Mutairifi",
+      "slug": "al-mutairifi"
+    },
+    {
+      "city_id": 2751,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "العضيلية",
+      "name_en": "Al Udhailiyyah",
+      "slug": "al-udhailiyyah"
+    },
+    {
+      "city_id": 2752,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "بني معن",
+      "name_en": "Bani Mun",
+      "slug": "bani-mun"
+    },
+    {
+      "city_id": 2753,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحفيرة",
+      "name_en": "Al Hafirah",
+      "slug": "al-hafirah"
+    },
+    {
+      "city_id": 2754,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الخن",
+      "name_en": "Al Khinn",
+      "slug": "al-khinn"
+    },
+    {
+      "city_id": 2755,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "ام اثلة",
+      "name_en": "Umm Athlah",
+      "slug": "umm-athlah-2755"
+    },
+    {
+      "city_id": 2756,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "خريص",
+      "name_en": "Khurays",
+      "slug": "khurays"
+    },
+    {
+      "city_id": 2757,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "عريعرة",
+      "name_en": "Urayirah",
+      "slug": "urayirah"
+    },
+    {
+      "city_id": 2758,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "متالع / ام تالع",
+      "name_en": "Matali / Umm Tali",
+      "slug": "matali-umm-tali"
+    },
+    {
+      "city_id": 2759,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "التويثير",
+      "name_en": "At Tuwaythir",
+      "slug": "at-tuwaythir"
+    },
+    {
+      "city_id": 2760,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الدالوة",
+      "name_en": "Ad Dalwah",
+      "slug": "ad-dalwah"
+    },
+    {
+      "city_id": 2761,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الشهادين",
+      "name_en": "Ash Shahadin",
+      "slug": "ash-shahadin"
+    },
+    {
+      "city_id": 2762,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحليلة",
+      "name_en": "Al Halilah",
+      "slug": "al-halilah"
+    },
+    {
+      "city_id": 2763,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الطرف",
+      "name_en": "At Taraf",
+      "slug": "at-taraf-2763"
+    },
+    {
+      "city_id": 2764,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الجفر",
+      "name_en": "Al Jafr",
+      "slug": "al-jafr-2764"
+    },
+    {
+      "city_id": 2765,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحني",
+      "name_en": "Al Hunayy",
+      "slug": "al-hunayy"
+    },
+    {
+      "city_id": 2766,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "القصيبي",
+      "name_en": "Al Qusaybi",
+      "slug": "al-qusaybi"
+    },
+    {
+      "city_id": 2767,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحبل",
+      "name_en": "Al Habl",
+      "slug": "al-habl"
+    },
+    {
+      "city_id": 2768,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحرملية",
+      "name_en": "Al Harmaliyah",
+      "slug": "al-harmaliyah-2768"
+    },
+    {
+      "city_id": 2769,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "نباك",
+      "name_en": "Nibak",
+      "slug": "nibak"
+    },
+    {
+      "city_id": 3582,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الحليسية",
+      "name_en": "Al Hulaysiyah",
+      "slug": "al-hulaysiyah"
+    },
+    {
+      "city_id": 3583,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "راس ام قصبة",
+      "name_en": "Ras Umm Qusbah",
+      "slug": "ras-umm-qusbah"
+    },
+    {
+      "city_id": 3598,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "سنابس",
+      "name_en": "Sanabis",
+      "slug": "sanabis"
+    },
+    {
+      "city_id": 3671,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "هجرة شهيل",
+      "name_en": "Hijrat Shuhayl",
+      "slug": "hijrat-shuhayl"
+    },
+    {
+      "city_id": 3677,
+      "region_id": 13,
+      "region_ar": "الشرقية",
+      "region_en": "Eastern",
+      "region_slug": "eastern",
+      "name_ar": "الاحساء",
+      "name_en": "",
+      "slug": "city-3677"
+    }
+  ],
+  "meta": {
+    "title": "مدن منطقة الشرقية (Cities of Eastern) - تحميل مجاني",
+    "description": "قائمة مدن منطقة الشرقية (Eastern) — إحدى المناطق الإدارية الـ13 في المملكة العربية السعودية. List of cities (مدن / mudun) within the Eastern administrative region of Saudi Arabia (region_id=13). Filtered subset of the national ar-mudun flagship; same record schema joined to the parent region. يحتوي على 216 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن منطقة الشرقية (Cities of Eastern) | ListBase",
+    "seo_description": "تحميل مدن منطقة الشرقية (Cities of Eastern) — 216 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 216 سجل / 8 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

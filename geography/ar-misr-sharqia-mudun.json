@@ -1,0 +1,214 @@
+{
+  "id": "ar-misr-sharqia-mudun",
+  "name": "مدن ومراكز محافظة الشرقية (Cities & Towns of Sharqia)",
+  "title": "مدن ومراكز محافظة الشرقية (Cities & Towns of Sharqia)",
+  "description": "قائمة مدن ومراكز محافظة الشرقية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Sharqia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "26",
+      "name_ar": "أبو حماد",
+      "name_en": "abu-hammad",
+      "name_long_ar": "أبو حماد، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "27",
+      "name_ar": "أبو كبير",
+      "name_en": "abu-kabir",
+      "name_long_ar": "أبو كبير، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "33",
+      "name_ar": "أولاد صقر",
+      "name_en": "awlad-saqr",
+      "name_long_ar": "أولاد صقر، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "29",
+      "name_ar": "الإبراهيمية",
+      "name_en": "ibrahemyah",
+      "name_long_ar": "الإبراهيمية، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "28",
+      "name_ar": "الحسينية",
+      "name_en": "husseiniya",
+      "name_long_ar": "الحسينية، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "34",
+      "name_ar": "الزقازيق",
+      "name_en": "zagazig",
+      "name_long_ar": "الزقازيق، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "32",
+      "name_ar": "الصالحية الجديدة",
+      "name_en": "new-salhia",
+      "name_long_ar": "الصالحية الجديدة، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "40",
+      "name_ar": "العاشر من رمضان",
+      "name_en": "10th-of-ramadan",
+      "name_long_ar": "العاشر من رمضان، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "31",
+      "name_ar": "القرين",
+      "name_en": "qareen",
+      "name_long_ar": "القرين، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "30",
+      "name_ar": "القنايات",
+      "name_en": "alqnayat",
+      "name_long_ar": "القنايات، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "35",
+      "name_ar": "بلبيس",
+      "name_en": "bilbeis",
+      "name_long_ar": "بلبيس، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "36",
+      "name_ar": "ديرب نجم",
+      "name_en": "deyerb-negm",
+      "name_long_ar": "ديرب نجم، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "37",
+      "name_ar": "فاقوس",
+      "name_en": "faqous",
+      "name_long_ar": "فاقوس، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "39",
+      "name_ar": "كفر صقر",
+      "name_en": "kafr-saqr",
+      "name_long_ar": "كفر صقر، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "41",
+      "name_ar": "مشتول السوق",
+      "name_en": "mashtool-al-souk",
+      "name_long_ar": "مشتول السوق، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "42",
+      "name_ar": "منيا القمح",
+      "name_en": "minya-al-qamh",
+      "name_long_ar": "منيا القمح، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    },
+    {
+      "id": "38",
+      "name_ar": "ههيا",
+      "name_en": "hihya",
+      "name_long_ar": "ههيا، الشرقية",
+      "muhafaza_ar": "الشرقية",
+      "muhafaza_en": "sharqia",
+      "muhafaza_id": 60
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الشرقية (Cities & Towns of Sharqia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الشرقية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Sharqia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 17 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الشرقية (Cities & Towns of Sharqia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الشرقية (Cities & Towns of Sharqia) — 17 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 17 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

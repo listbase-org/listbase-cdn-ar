@@ -1,0 +1,392 @@
+{
+  "id": "ar-mudun-afghanistan",
+  "name": "مدن أفغانستان — Cities of Afghanistan (Arabic names)",
+  "title": "مدن أفغانستان — Cities of Afghanistan (Arabic names)",
+  "description": "قائمة بأسماء مدن أفغانستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 42 cities in Afghanistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "كابل",
+      "name_en": "Kabul",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 4273156
+    },
+    {
+      "id": 2,
+      "name_ar": "ولاية قندهار",
+      "name_en": "Kandahar",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 614254
+    },
+    {
+      "id": 3,
+      "name_ar": "ولاية هرات",
+      "name_en": "Herat",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 556205
+    },
+    {
+      "id": 4,
+      "name_ar": "فرح",
+      "name_en": "Farah",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 500000
+    },
+    {
+      "id": 5,
+      "name_ar": "مزار شريف",
+      "name_en": "Mazar-e Sharif",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 469247
+    },
+    {
+      "id": 6,
+      "name_ar": "لشكر غاه",
+      "name_en": "Lashkar Gah",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 276831
+    },
+    {
+      "id": 7,
+      "name_ar": "ولاية قندوز",
+      "name_en": "Kunduz",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 268893
+    },
+    {
+      "id": 8,
+      "name_ar": "جلال آباد",
+      "name_en": "Jalalabad",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 263312
+    },
+    {
+      "id": 9,
+      "name_ar": "تالقان",
+      "name_en": "Taluqan",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 258758
+    },
+    {
+      "id": 10,
+      "name_ar": "شبرغان",
+      "name_en": "Shibirghan",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 175599
+    },
+    {
+      "id": 11,
+      "name_ar": "زرنج",
+      "name_en": "Zaranj",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 160902
+    },
+    {
+      "id": 12,
+      "name_ar": "ولاية خوست",
+      "name_en": "Khost",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 160214
+    },
+    {
+      "id": 13,
+      "name_ar": "مهترلام",
+      "name_en": "Mehtar Lam",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 144162
+    },
+    {
+      "id": 14,
+      "name_ar": "ولاية غزني",
+      "name_en": "Ghazni",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 143379
+    },
+    {
+      "id": 15,
+      "name_ar": "بغمان",
+      "name_en": "Paghman",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 143000
+    },
+    {
+      "id": 16,
+      "name_ar": "بل خمري",
+      "name_en": "Pul-e Khumri",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 113500
+    },
+    {
+      "id": 17,
+      "name_ar": "ولاية باميان",
+      "name_en": "Bamyan",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 100000
+    },
+    {
+      "id": 18,
+      "name_ar": "شاريكار",
+      "name_en": "Charikar",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 96093
+    },
+    {
+      "id": 19,
+      "name_ar": "ولاية بغلان",
+      "name_en": "Baghlan",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 83490
+    },
+    {
+      "id": 20,
+      "name_ar": "ولاية بلخ",
+      "name_en": "Balkh",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 77000
+    },
+    {
+      "id": 21,
+      "name_ar": "ترين كوت",
+      "name_en": "Tarin Kot",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 71604
+    },
+    {
+      "id": 22,
+      "name_ar": "غرديز",
+      "name_en": "Gardez",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 70641
+    },
+    {
+      "id": 23,
+      "name_ar": "فيض آباد",
+      "name_en": "Faizabad",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 64704
+    },
+    {
+      "id": 24,
+      "name_ar": "منطقة سربل",
+      "name_en": "Sar-e Pul",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 51075
+    },
+    {
+      "id": 25,
+      "name_ar": "مقاطعة محمود راقي",
+      "name_en": "Mahmud-e Raqi",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 50490
+    },
+    {
+      "id": 26,
+      "name_ar": "قلات",
+      "name_en": "Qalat",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 49158
+    },
+    {
+      "id": 27,
+      "name_ar": "أندخوي",
+      "name_en": "Andkhoy",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 39730
+    },
+    {
+      "id": 28,
+      "name_ar": "سمنكان",
+      "name_en": "Aibak",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 35560
+    },
+    {
+      "id": 29,
+      "name_ar": "ميدان شهر",
+      "name_en": "Maidan Shahr",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 35008
+    },
+    {
+      "id": 30,
+      "name_ar": "منطقة بكرامي",
+      "name_en": "Bagrami",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 31680
+    },
+    {
+      "id": 31,
+      "name_ar": "بازارك",
+      "name_en": "Bazarak",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 24723
+    },
+    {
+      "id": 32,
+      "name_ar": "مقاطعة بول علم",
+      "name_en": "Pul-e `Alam",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 22914
+    },
+    {
+      "id": 33,
+      "name_ar": "مقاطعة براكي باراك",
+      "name_en": "Baraki Barak",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 22622
+    },
+    {
+      "id": 34,
+      "name_ar": "كرخ",
+      "name_en": "Karukh",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 17484
+    },
+    {
+      "id": 35,
+      "name_ar": "كوشك",
+      "name_en": "Kushk",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 17479
+    },
+    {
+      "id": 36,
+      "name_ar": "أسد أباد",
+      "name_en": "Asadabad",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 16700
+    },
+    {
+      "id": 37,
+      "name_ar": "شرنه",
+      "name_en": "Zarah Sharan",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 15651
+    },
+    {
+      "id": 38,
+      "name_ar": "فيروزكوه",
+      "name_en": "Fayroz Koh",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 15000
+    },
+    {
+      "id": 39,
+      "name_ar": "أرمري",
+      "name_en": "Baraki",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 15000
+    },
+    {
+      "id": 40,
+      "name_ar": "إشكاشم",
+      "name_en": "Ishkashim",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 12120
+    },
+    {
+      "id": 41,
+      "name_ar": "البنجاب",
+      "name_en": "Panjab",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 9900
+    },
+    {
+      "id": 42,
+      "name_ar": "بارون",
+      "name_en": "Parun",
+      "country_ar": "أفغانستان",
+      "country_en": "Afghanistan",
+      "population": 1647
+    }
+  ],
+  "meta": {
+    "title": "مدن أفغانستان — Cities of Afghanistan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن أفغانستان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 42 cities in Afghanistan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 42 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن أفغانستان — Cities of Afghanistan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن أفغانستان — Cities of Afghanistan (Arabic names) — 42 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 42 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

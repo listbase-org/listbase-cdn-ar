@@ -1,0 +1,124 @@
+{
+  "id": "ar-misr-ismailia-mudun",
+  "name": "مدن ومراكز محافظة الإسماعيلية (Cities & Towns of Ismailia)",
+  "title": "مدن ومراكز محافظة الإسماعيلية (Cities & Towns of Ismailia)",
+  "description": "قائمة مدن ومراكز محافظة الإسماعيلية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Ismailia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "92",
+      "name_ar": "أبوصوير",
+      "name_en": "abu-swear",
+      "name_long_ar": "أبوصوير، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "88",
+      "name_ar": "التل الكبير",
+      "name_en": "tal-al-kebeer",
+      "name_long_ar": "التل الكبير، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "93",
+      "name_ar": "القصاصين",
+      "name_en": "qassaseen",
+      "name_long_ar": "القصاصين، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "90",
+      "name_ar": "القنطرة شرق",
+      "name_en": "kantara-east",
+      "name_long_ar": "القنطرة شرق، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "91",
+      "name_ar": "القنطرة غرب",
+      "name_en": "kantara-west",
+      "name_long_ar": "القنطرة غرب، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "89",
+      "name_ar": "فايد",
+      "name_en": "fayed",
+      "name_long_ar": "فايد، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    },
+    {
+      "id": "162",
+      "name_ar": "مدينة الإسماعيلية",
+      "name_en": "ismailia-city",
+      "name_long_ar": "مدينة الإسماعيلية، الإسماعيلية",
+      "muhafaza_ar": "الإسماعيلية",
+      "muhafaza_en": "ismailia",
+      "muhafaza_id": 67
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة الإسماعيلية (Cities & Towns of Ismailia) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة الإسماعيلية في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Ismailia governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 7 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة الإسماعيلية (Cities & Towns of Ismailia) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة الإسماعيلية (Cities & Towns of Ismailia) — 7 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 7 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

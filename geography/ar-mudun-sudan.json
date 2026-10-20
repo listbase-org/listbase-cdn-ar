@@ -1,0 +1,296 @@
+{
+  "id": "ar-mudun-sudan",
+  "name": "مدن السودان — Cities of Sudan (Arabic names)",
+  "title": "مدن السودان — Cities of Sudan (Arabic names)",
+  "description": "قائمة بأسماء مدن السودان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 30 cities in Sudan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "الخرطوم",
+      "name_en": "Khartoum",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 7869000
+    },
+    {
+      "id": 2,
+      "name_ar": "أم درمان",
+      "name_en": "Omdurman",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 2805396
+    },
+    {
+      "id": 3,
+      "name_ar": "الخرطوم بحري",
+      "name_en": "Khartoum North",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 936349
+    },
+    {
+      "id": 4,
+      "name_ar": "بورتسودان",
+      "name_en": "Port Sudan",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 579942
+    },
+    {
+      "id": 5,
+      "name_ar": "الجنينة",
+      "name_en": "El Geneina",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 538390
+    },
+    {
+      "id": 6,
+      "name_ar": "مطار الفاشر",
+      "name_en": "El Fasher",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 500000
+    },
+    {
+      "id": 7,
+      "name_ar": "نيالا",
+      "name_en": "Nyala",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 492984
+    },
+    {
+      "id": 8,
+      "name_ar": "الأبيض",
+      "name_en": "El Obeid",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 418280
+    },
+    {
+      "id": 9,
+      "name_ar": "القضارف",
+      "name_en": "Gedaref",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 354927
+    },
+    {
+      "id": 10,
+      "name_ar": "الضعين",
+      "name_en": "Ed Daein",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 264734
+    },
+    {
+      "id": 11,
+      "name_ar": "سنغافورة",
+      "name_en": "Singa",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 259000
+    },
+    {
+      "id": 12,
+      "name_ar": "الكرمك",
+      "name_en": "Kurmuk",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 250000
+    },
+    {
+      "id": 13,
+      "name_ar": "الروصيرص",
+      "name_en": "Ar Ruseris",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 215857
+    },
+    {
+      "id": 14,
+      "name_ar": "الدمازين",
+      "name_en": "Ed Damazin",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 186051
+    },
+    {
+      "id": 15,
+      "name_ar": "نهر عطبرة",
+      "name_en": "Atbara",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 139768
+    },
+    {
+      "id": 16,
+      "name_ar": "الدامر",
+      "name_en": "Ed Damer",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 122944
+    },
+    {
+      "id": 17,
+      "name_ar": "النهود",
+      "name_en": "An Nuhud",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 108008
+    },
+    {
+      "id": 18,
+      "name_ar": "كرمة البلد",
+      "name_en": "Dongola",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 56167
+    },
+    {
+      "id": 19,
+      "name_ar": "أم روابة",
+      "name_en": "Umm Ruwaba",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 55742
+    },
+    {
+      "id": 20,
+      "name_ar": "شندي",
+      "name_en": "Shendi",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 55516
+    },
+    {
+      "id": 21,
+      "name_ar": "أبو حمد",
+      "name_en": "Abu Hamad",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 50000
+    },
+    {
+      "id": 22,
+      "name_ar": "كتم",
+      "name_en": "Kutum",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 45000
+    },
+    {
+      "id": 23,
+      "name_ar": "سواكن",
+      "name_en": "Sawakin",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 43337
+    },
+    {
+      "id": 24,
+      "name_ar": "زالنجي",
+      "name_en": "Zalingei",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 27258
+    },
+    {
+      "id": 25,
+      "name_ar": "القطينة",
+      "name_en": "Al Qitena",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 26893
+    },
+    {
+      "id": 26,
+      "name_ar": "‏وادي حلفا",
+      "name_en": "Wadi Halfa'",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 17121
+    },
+    {
+      "id": 27,
+      "name_ar": "الأمازيغية",
+      "name_en": "Berber",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 16650
+    },
+    {
+      "id": 28,
+      "name_ar": "كريمة",
+      "name_en": "Kuraymah",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 13981
+    },
+    {
+      "id": 29,
+      "name_ar": "أم بادر",
+      "name_en": "Umm Badr",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 12000
+    },
+    {
+      "id": 30,
+      "name_ar": "مدينة مراوي",
+      "name_en": "Marawi",
+      "country_ar": "السودان",
+      "country_en": "Sudan",
+      "population": 10234
+    }
+  ],
+  "meta": {
+    "title": "مدن السودان — Cities of Sudan (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن السودان بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 30 cities in Sudan with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 30 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن السودان — Cities of Sudan (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن السودان — Cities of Sudan (Arabic names) — 30 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 30 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

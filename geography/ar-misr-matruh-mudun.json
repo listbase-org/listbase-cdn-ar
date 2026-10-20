@@ -1,0 +1,151 @@
+{
+  "id": "ar-misr-matruh-mudun",
+  "name": "مدن ومراكز محافظة مطروح (Cities & Towns of Matruh)",
+  "title": "مدن ومراكز محافظة مطروح (Cities & Towns of Matruh)",
+  "description": "قائمة مدن ومراكز محافظة مطروح في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Matruh governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_long_ar",
+      "label": "Name Long Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_ar",
+      "label": "Muhafaza Ar",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_en",
+      "label": "Muhafaza En",
+      "type": "string"
+    },
+    {
+      "key": "muhafaza_id",
+      "label": "Muhafaza Id",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "171",
+      "name_ar": "الحمام",
+      "name_en": "hammam",
+      "name_long_ar": "الحمام، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "387",
+      "name_ar": "الساحل الشمالي",
+      "name_en": "north-coast",
+      "name_long_ar": "الساحل الشمالي، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "177",
+      "name_ar": "السلوم",
+      "name_en": "salloum",
+      "name_long_ar": "السلوم، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "173",
+      "name_ar": "الضبعة",
+      "name_en": "dabaa",
+      "name_long_ar": "الضبعة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "172",
+      "name_ar": "العلمين",
+      "name_en": "alamein",
+      "name_long_ar": "العلمين، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "175",
+      "name_ar": "النجيلة",
+      "name_en": "nagela",
+      "name_long_ar": "النجيلة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "176",
+      "name_ar": "براني",
+      "name_en": "barany",
+      "name_long_ar": "براني، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "178",
+      "name_ar": "سيوة",
+      "name_en": "siwa",
+      "name_long_ar": "سيوة، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "403",
+      "name_ar": "مارينا العلمين",
+      "name_en": "marina-el-alamein",
+      "name_long_ar": "مارينا العلمين، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    },
+    {
+      "id": "174",
+      "name_ar": "مرسى مطروح",
+      "name_en": "marsa-matrouh",
+      "name_long_ar": "مرسى مطروح، مطروح",
+      "muhafaza_ar": "مطروح",
+      "muhafaza_en": "matruh",
+      "muhafaza_id": 71
+    }
+  ],
+  "meta": {
+    "title": "مدن ومراكز محافظة مطروح (Cities & Towns of Matruh) - تحميل مجاني",
+    "description": "قائمة مدن ومراكز محافظة مطروح في جمهورية مصر العربية، بأسمائها بالعربية والإنجليزية. List of cities/towns (markazes) within the Matruh governorate of Egypt. Filtered subset of the national ar-misr-mudun list; same record schema. يحتوي على 10 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن ومراكز محافظة مطروح (Cities & Towns of Matruh) | ListBase",
+    "seo_description": "تحميل مدن ومراكز محافظة مطروح (Cities & Towns of Matruh) — 10 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 10 سجل / 7 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "ar-iraq-arbil-bunuk",
+  "name": "بنوك Arbil — العراق — رموز سويفت (Banks of Arbil, Iraq — SWIFT/BIC codes)",
+  "title": "بنوك Arbil — العراق — رموز سويفت (Banks of Arbil, Iraq — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Arbil (العراق) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Arbil, Iraq with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/IQ.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AL BARAKA TURK KATILIM BANKASI A.S. ERBIL BRANCH",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "BTFHIQBA"
+    },
+    {
+      "id": 2,
+      "bank": "BANKMED SAL, IRAQ",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "MEDLIQBAARB"
+    },
+    {
+      "id": 3,
+      "bank": "BBAC SAL ERBIL BRANCH",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "BBACIQBA"
+    },
+    {
+      "id": 4,
+      "bank": "BYBLOS BANK SAL IRAQ",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "BYBAIQBA"
+    },
+    {
+      "id": 5,
+      "bank": "CIHAN BANK FOR ISLAMIC INVESTMENT AND FINANCE",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "CIHBIQBA"
+    },
+    {
+      "id": 6,
+      "bank": "ERBIL BANK FOR INVESTMENT AND FINANCE",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "EBIFIQBA"
+    },
+    {
+      "id": 7,
+      "bank": "KURDISTAN INTERNATIONAL BANK",
+      "city": "ARBIL",
+      "branch": "(PESHWA (ERBIL)  BRANCH)",
+      "swift_code": "KIBIIQBAERB"
+    },
+    {
+      "id": 8,
+      "bank": "KURDISTAN INTERNATIONAL BANK",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "KIBIIQBA"
+    },
+    {
+      "id": 9,
+      "bank": "REGION TRADE BANK FOR INVESTMENT AND FINANCE (FORMERLY EMERALD BANK)",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "RTBAIQBA"
+    },
+    {
+      "id": 10,
+      "bank": "TURKIYE IS BANKASI A.S. ALL IRAQ BRANCHES",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "ISBKIQBA"
+    },
+    {
+      "id": 11,
+      "bank": "TURKIYE VAKIFLAR BANKASI ERBIL BRANCH",
+      "city": "ARBIL",
+      "branch": "",
+      "swift_code": "TVBAIQBR"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Arbil — العراق — رموز سويفت (Banks of Arbil, Iraq — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Arbil (العراق) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 11 سجلًا. List of banks, financial institutions and their branches in Arbil, Iraq with the SWIFT/BIC code, bank name and branch name for each. 11 records. Source: PeterNotenboom/SwiftCodes AllCountries/IQ.json (MIT). يحتوي على 11 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Arbil — العراق — رموز سويفت (Banks of Arbil, Iraq — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Arbil — العراق — رموز سويفت (Banks of Arbil, Iraq — SWIFT/BIC codes) — 11 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 11 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "ar-mudun-kenya",
+  "name": "مدن كينيا — Cities of Kenya (Arabic names)",
+  "title": "مدن كينيا — Cities of Kenya (Arabic names)",
+  "description": "قائمة بأسماء مدن كينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Kenya with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "نيروبي",
+      "name_en": "Nairobi",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 5545000
+    },
+    {
+      "id": 2,
+      "name_ar": "كيزيمو",
+      "name_en": "Kisumu",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 409928
+    },
+    {
+      "id": 3,
+      "name_ar": "لغة كيكويو",
+      "name_en": "Kikuyu",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 323881
+    },
+    {
+      "id": 4,
+      "name_ar": "ناكورو",
+      "name_en": "Nakuru",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 307990
+    },
+    {
+      "id": 5,
+      "name_ar": "إلدوريت",
+      "name_en": "Eldoret",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 289380
+    },
+    {
+      "id": 6,
+      "name_ar": "كيليفي",
+      "name_en": "Kilifi",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 122899
+    },
+    {
+      "id": 7,
+      "name_ar": "مشاكوس",
+      "name_en": "Machakos",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 114109
+    },
+    {
+      "id": 8,
+      "name_ar": "ثيكا",
+      "name_en": "Thika",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 99322
+    },
+    {
+      "id": 9,
+      "name_ar": "كاكاميغا",
+      "name_en": "Kakamega",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 91778
+    },
+    {
+      "id": 10,
+      "name_ar": "خليج كندو",
+      "name_en": "Kendu Bay",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 91248
+    },
+    {
+      "id": 11,
+      "name_ar": "محافظة وجير",
+      "name_en": "Wajir",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 90116
+    },
+    {
+      "id": 12,
+      "name_ar": "غاريسا",
+      "name_en": "Garissa",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 65881
+    },
+    {
+      "id": 13,
+      "name_ar": "كيتالي",
+      "name_en": "Kitale",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 63245
+    },
+    {
+      "id": 14,
+      "name_ar": "عيل واق",
+      "name_en": "El Wak",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 60732
+    },
+    {
+      "id": 15,
+      "name_ar": "صوت بشري",
+      "name_en": "Voi",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 45483
+    },
+    {
+      "id": 16,
+      "name_ar": "ميرو",
+      "name_en": "Meru",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 42677
+    },
+    {
+      "id": 17,
+      "name_ar": "إمبو داس آرتس",
+      "name_en": "Embu",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 41092
+    },
+    {
+      "id": 18,
+      "name_ar": "كيزيمو",
+      "name_en": "Kisii",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 37531
+    },
+    {
+      "id": 19,
+      "name_ar": "خليج حوما",
+      "name_en": "Homa Bay",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 32174
+    },
+    {
+      "id": 20,
+      "name_ar": "نانيوكي",
+      "name_en": "Nanyuki",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 31577
+    },
+    {
+      "id": 21,
+      "name_ar": "مارالال",
+      "name_en": "Maralal",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 31350
+    },
+    {
+      "id": 22,
+      "name_ar": "بوسيا",
+      "name_en": "Busia",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 30777
+    },
+    {
+      "id": 23,
+      "name_ar": "محافظة مانطيرا",
+      "name_en": "Mandera",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 30433
+    },
+    {
+      "id": 24,
+      "name_ar": "كيريشو",
+      "name_en": "Kericho",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 30023
+    },
+    {
+      "id": 25,
+      "name_ar": "مويالي",
+      "name_en": "Moyale",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 25000
+    },
+    {
+      "id": 26,
+      "name_ar": "مقاطعة كاجيادو",
+      "name_en": "Kajiado",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 24678
+    },
+    {
+      "id": 27,
+      "name_ar": "إلداما رافين",
+      "name_en": "Eldama Ravine",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 17581
+    },
+    {
+      "id": 28,
+      "name_ar": "لودوار",
+      "name_en": "Lodwar",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 16981
+    },
+    {
+      "id": 29,
+      "name_ar": "مونغي",
+      "name_en": "Mwingi",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 15970
+    },
+    {
+      "id": 30,
+      "name_ar": "نايفاشا",
+      "name_en": "Naivasha",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 14563
+    },
+    {
+      "id": 31,
+      "name_ar": "فيكتوريا",
+      "name_en": "Port Victoria",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 12194
+    },
+    {
+      "id": 32,
+      "name_ar": "كوالي",
+      "name_en": "Kwale",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 10063
+    },
+    {
+      "id": 33,
+      "name_ar": "مواتاتي",
+      "name_en": "Mwatate",
+      "country_ar": "كينيا",
+      "country_en": "Kenya",
+      "population": 5551
+    }
+  ],
+  "meta": {
+    "title": "مدن كينيا — Cities of Kenya (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن كينيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 33 cities in Kenya with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 33 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن كينيا — Cities of Kenya (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن كينيا — Cities of Kenya (Arabic names) — 33 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 33 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

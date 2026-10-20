@@ -1,0 +1,163 @@
+{
+  "id": "ar-misr-assuit-bunuk",
+  "name": "بنوك Assuit — مصر — رموز سويفت (Banks of Assuit, Egypt — SWIFT/BIC codes)",
+  "title": "بنوك Assuit — مصر — رموز سويفت (Banks of Assuit, Egypt — SWIFT/BIC codes)",
+  "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Assuit (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Assuit, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ASSUIT",
+      "branch": "(ABU TEEG)",
+      "swift_code": "BCAIEGCX760"
+    },
+    {
+      "id": 2,
+      "bank": "BANQUE DU CAIRE",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT BRANCH)",
+      "swift_code": "BCAIEGCX640"
+    },
+    {
+      "id": 3,
+      "bank": "FAISAL ISLAMIC BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT BRANCH)",
+      "swift_code": "FIEGEGCXASU"
+    },
+    {
+      "id": 4,
+      "bank": "NATIONAL BANK OF ABU DHABI",
+      "city": "ASSUIT",
+      "branch": "(ASSIUT BRANCH)",
+      "swift_code": "NBADEGCAASU"
+    },
+    {
+      "id": 5,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(ABU TIG BRANCH)",
+      "swift_code": "NBEGEGCX515"
+    },
+    {
+      "id": 6,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT BRANCH)",
+      "swift_code": "NBEGEGCX514"
+    },
+    {
+      "id": 7,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT UNIVERSITY BRANCH)",
+      "swift_code": "NBEGEGCX516"
+    },
+    {
+      "id": 8,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(DAYROOT BRANCH)",
+      "swift_code": "NBEGEGCX536"
+    },
+    {
+      "id": 9,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(EL-KHARGA BRANCH)",
+      "swift_code": "NBEGEGCX544"
+    },
+    {
+      "id": 10,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(EL-KOSSEYA BRANCH)",
+      "swift_code": "NBEGEGCX535"
+    },
+    {
+      "id": 11,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(SAHEL SELIM  BRANCH)",
+      "swift_code": "NBEGEGCX496"
+    },
+    {
+      "id": 12,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(SEDFA BRANCH)",
+      "swift_code": "NBEGEGCX545"
+    },
+    {
+      "id": 13,
+      "bank": "NATIONAL BANK OF EGYPT",
+      "city": "ASSUIT",
+      "branch": "(TIBA LUXOR  BRANCH)",
+      "swift_code": "NBEGEGCX497"
+    },
+    {
+      "id": 14,
+      "bank": "PRINCIPAL BANK FOR DEVELOPMENT AND AGRICULTURAL CREDIT",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT AND EL WADI EL GIDED BRANCH)",
+      "swift_code": "BDACEGCA088"
+    },
+    {
+      "id": 15,
+      "bank": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT BRANCH)",
+      "swift_code": "SBNKEGCXASI"
+    },
+    {
+      "id": 16,
+      "bank": "SUEZ CANAL BANK",
+      "city": "ASSUIT",
+      "branch": "(ASSUIT BRANCH)",
+      "swift_code": "SUCAEGCXASU"
+    }
+  ],
+  "meta": {
+    "title": "بنوك Assuit — مصر — رموز سويفت (Banks of Assuit, Egypt — SWIFT/BIC codes) - تحميل مجاني",
+    "description": "قائمة البنوك والمؤسسات المالية وفروعها في مدينة Assuit (مصر) مع رمز سويفت (SWIFT/BIC) لكل فرع، واسم البنك والفرع. 16 سجلًا. List of banks, financial institutions and their branches in Assuit, Egypt with the SWIFT/BIC code, bank name and branch name for each. 16 records. Source: PeterNotenboom/SwiftCodes AllCountries/EG.json (MIT). يحتوي على 16 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "بنوك Assuit — مصر — رموز سويفت (Banks of Assuit, Egypt — SWIFT/BIC codes) | ListBase",
+    "seo_description": "تحميل بنوك Assuit — مصر — رموز سويفت (Banks of Assuit, Egypt — SWIFT/BIC codes) — 16 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 16 سجل / 5 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}

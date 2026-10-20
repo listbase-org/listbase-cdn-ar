@@ -1,0 +1,216 @@
+{
+  "id": "ar-mudun-georgia",
+  "name": "مدن جورجيا — Cities of Georgia (Arabic names)",
+  "title": "مدن جورجيا — Cities of Georgia (Arabic names)",
+  "description": "قائمة بأسماء مدن جورجيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Georgia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_ar",
+      "label": "Name Ar",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "country_ar",
+      "label": "Country Ar",
+      "type": "string"
+    },
+    {
+      "key": "country_en",
+      "label": "Country En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "تبليسي",
+      "name_en": "Tbilisi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 1118035
+    },
+    {
+      "id": 2,
+      "name_ar": "باطومى",
+      "name_en": "Batumi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 169095
+    },
+    {
+      "id": 3,
+      "name_ar": "كوتايسي",
+      "name_en": "Kutaisi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 147900
+    },
+    {
+      "id": 4,
+      "name_ar": "روستاوي",
+      "name_en": "Rustavi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 132333
+    },
+    {
+      "id": 5,
+      "name_ar": "سوخومي",
+      "name_en": "Sokhumi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 64441
+    },
+    {
+      "id": 6,
+      "name_ar": "جوري",
+      "name_en": "Gori",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 44524
+    },
+    {
+      "id": 7,
+      "name_ar": "زوغديدي",
+      "name_en": "Zugdidi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 41494
+    },
+    {
+      "id": 8,
+      "name_ar": "تسخينفالي",
+      "name_en": "Tskhinvali",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 32699
+    },
+    {
+      "id": 9,
+      "name_ar": "كوبوليتي",
+      "name_en": "Kobuleti",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 27546
+    },
+    {
+      "id": 10,
+      "name_ar": "مارنولي",
+      "name_en": "Marneuli",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 24928
+    },
+    {
+      "id": 11,
+      "name_ar": "خاشوري",
+      "name_en": "Khashuri",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 24601
+    },
+    {
+      "id": 12,
+      "name_ar": "سامتريديا",
+      "name_en": "Samtredia",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 22201
+    },
+    {
+      "id": 13,
+      "name_ar": "سيناكي",
+      "name_en": "Senaki",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 21596
+    },
+    {
+      "id": 14,
+      "name_ar": "تلاوي",
+      "name_en": "Telavi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 19509
+    },
+    {
+      "id": 15,
+      "name_ar": "شياتورا",
+      "name_en": "Chiatura",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 12803
+    },
+    {
+      "id": 16,
+      "name_ar": "بورجومي",
+      "name_en": "Borjomi",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 11194
+    },
+    {
+      "id": 17,
+      "name_ar": "ساجاريجو",
+      "name_en": "Sagarejo",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 10871
+    },
+    {
+      "id": 18,
+      "name_ar": "آخالتسيخه",
+      "name_en": "Akhaltsikhe",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 10153
+    },
+    {
+      "id": 19,
+      "name_ar": "محمية المدينة ومتحف متسخيتا",
+      "name_en": "Mtskheta",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 7606
+    },
+    {
+      "id": 20,
+      "name_ar": "أوزورجيتي",
+      "name_en": "Ozurgeti",
+      "country_ar": "جورجيا",
+      "country_en": "Georgia",
+      "population": 844
+    }
+  ],
+  "meta": {
+    "title": "مدن جورجيا — Cities of Georgia (Arabic names) - تحميل مجاني",
+    "description": "قائمة بأسماء مدن جورجيا بالعربية والإنجليزية مع عدد السكان، مستخرجة من مجموعة بيانات مدن العالم متعددة اللغات. List of 20 cities in Georgia with Arabic and English names and population, partitioned from the source's own per-country grouping. Note: the source corpus overlaps substantially with the already-carried flat dataset 'ar-mudun-alaalam' (sibling repo jamsshhayd/world-cities-enriched); this family adds the per-country partition and population figures. No coordinates are present in this source. يحتوي على 20 سجل. تحميل بصيغ Excel, CSV, PDF.",
+    "seo_title": "مدن جورجيا — Cities of Georgia (Arabic names) | ListBase",
+    "seo_description": "تحميل مدن جورجيا — Cities of Georgia (Arabic names) — 20 سجل. متاح بصيغ Excel, CSV, PDF.",
+    "key_takeaways": [
+      "يحتوي على 20 سجل / 6 حقول",
+      "تحميل مجاني بصيغ Excel, CSV و PDF",
+      "مصدر البيانات: open data"
+    ]
+  }
+}
