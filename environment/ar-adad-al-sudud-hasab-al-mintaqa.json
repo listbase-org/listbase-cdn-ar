@@ -1,0 +1,111 @@
+{
+  "id": "ar-adad-al-sudud-hasab-al-mintaqa",
+  "name": "أعداد السدود حسب المناطق السعودية",
+  "title": "أعداد السدود حسب المناطق السعودية",
+  "description": "أعداد السدود موزعة حسب المناطق كما وردت في جدول ويكيبيديا العربية. القيم محفوظة بصيغتها النصية الأصلية ولا تمثل إحصاءً آنياً أو تعداداً جديداً.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128",
+  "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "ar.wikipedia.org contributors; source page history and revision linked in source_url.",
+  "retrieved": "2026-10-24",
+  "localization": "Source values retained without translation; HTML, reference markers and hidden sorting keys removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "region",
+      "label": "المنطقة",
+      "type": "string"
+    },
+    {
+      "key": "dam_count_text",
+      "label": "عدد السدود كما في المصدر",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "المصدر",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "منطقة الرياض",
+      "dam_count_text": "\"103\" سداً",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة مكة المكرمة",
+      "dam_count_text": "\"57\" سداً",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة المدينة المنورة",
+      "dam_count_text": "\"41\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "المنطقة الشرقية",
+      "dam_count_text": "\"1\" سد",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة عسير",
+      "dam_count_text": "\"117\" سداً",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة حائل",
+      "dam_count_text": "\"46\" سداً",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة الباحة",
+      "dam_count_text": "\"50\" سداً",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة نجران",
+      "dam_count_text": "\"27\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة القصيم",
+      "dam_count_text": "\"18\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة جازان",
+      "dam_count_text": "\"13\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة الجوف",
+      "dam_count_text": "\"10\" سدود",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة تبوك",
+      "dam_count_text": "\"16\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    },
+    {
+      "region": "منطقة الحدود الشمالية",
+      "dam_count_text": "\"11\" سدا",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    }
+  ],
+  "meta": {
+    "title": "أعداد السدود حسب المناطق السعودية - Free Download",
+    "description": "أعداد السدود موزعة حسب المناطق كما وردت في جدول ويكيبيديا العربية. القيم محفوظة بصيغتها النصية الأصلية ولا تمثل إحصاءً آنياً أو تعداداً جديداً. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أعداد السدود حسب المناطق السعودية | ListBase",
+    "seo_description": "Download أعداد السدود حسب المناطق السعودية — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128"
+    ]
+  }
+}

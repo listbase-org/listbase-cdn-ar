@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-24T00:03:01.507Z",
-  "total_datasets": 424,
-  "total_records": 146186,
+  "generated": "2026-10-24T00:03:07.193Z",
+  "total_datasets": 425,
+  "total_records": 146199,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -301,6 +301,30 @@
         "xlsx": {
           "name": "ar-sa-madaris_AR.xlsx",
           "size": 8902
+        }
+      }
+    },
+    {
+      "id": "ar-adad-al-sudud-hasab-al-mintaqa",
+      "name": "أعداد السدود حسب المناطق السعودية",
+      "category": "environment",
+      "record_count": 13,
+      "columns": [
+        "region",
+        "dam_count_text",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=76995128",
+      "updated": "2026-10",
+      "size": 6801,
+      "files": {
+        "csv": {
+          "name": "ar-adad-al-sudud-hasab-al-mintaqa_AR.csv",
+          "size": 3139
+        },
+        "xlsx": {
+          "name": "ar-adad-al-sudud-hasab-al-mintaqa_AR.xlsx",
+          "size": 7297
         }
       }
     },
