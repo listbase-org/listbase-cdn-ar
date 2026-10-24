@@ -1,0 +1,229 @@
+{
+  "id": "ar-ruasa-al-jazair",
+  "name": "رؤساء الجزائر وفترات العهدات منذ 1962",
+  "title": "رؤساء الجزائر وفترات العهدات منذ 1962",
+  "description": "قائمة رؤساء الجزائر ورؤساء الدولة المؤقتين منذ 1962 مع العهدات والانتماءات السياسية والملاحظات من ويكيبيديا العربية. تُحفظ العهدات المتعددة كسجلات منفصلة وفق المصدر.",
+  "category": "politics",
+  "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833",
+  "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "ar.wikipedia.org contributors; source page history and revision linked in source_url.",
+  "retrieved": "2026-10-24",
+  "localization": "Source values retained without translation; HTML, reference markers and hidden sorting keys removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "الاسم",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "بداية العهدة",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "نهاية العهدة",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "الانتماء السياسي",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "ملاحظات",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "المصدر",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "فرحات عباس",
+      "term_start": "25 سبتمبر 1962",
+      "term_end": "15 سبتمبر 1963",
+      "party": "ج.ت.و",
+      "notes": "رئيس التجمع الوطني التشريعي",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "أحمد بن بلة",
+      "term_start": "15 سبتمبر 1963",
+      "term_end": "19 جوان 1965",
+      "party": "ج.ت.و",
+      "notes": "أول رئيس للجمهورية ( السن عند تولي المنصب : 47 سنةً ) تنتهي الرئاسة بانقلاب عسكري",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "هواري بومدين",
+      "term_start": "19 جوان 1965",
+      "term_end": "10 ديسمبر 1976",
+      "party": "عسكري",
+      "notes": "رئيس مجلس الثورة ( السن عند تولي المنصب : 33 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "هواري بومدين",
+      "term_start": "10 ديسمبر 1976",
+      "term_end": "27 ديسمبر 1978",
+      "party": "عسكري / ج.ت.و",
+      "notes": "ثاني رئيس للجمهورية ( السن عند تولي المنصب : 44 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "رابح بيطاط",
+      "term_start": "27 ديسمبر 1978",
+      "term_end": "9 فيفري 1979",
+      "party": "ج.ت.و",
+      "notes": "رئيس مؤقت ( السن عند تولي المنصب : 53 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "الشاذلي بن جديد",
+      "term_start": "9 فيفري 1979",
+      "term_end": "7 فيفري 1984",
+      "party": "ج.ت.و",
+      "notes": "ثالث رئيس للجمهورية ( السن عند تولي المنصب : 50 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "الشاذلي بن جديد",
+      "term_start": "7 فيفري 1984",
+      "term_end": "22 ديسمبر 1988",
+      "party": "ج.ت.و",
+      "notes": "أعيد انتخابه ( السن عند تولي المنصب : 55 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "الشاذلي بن جديد",
+      "term_start": "22 ديسمبر 1988",
+      "term_end": "11 جانفي 1992",
+      "party": "ج.ت.و",
+      "notes": "أعيد انتخابه ( السن عند تولي المنصب : 59 سنةً ) تنتهي الرئاسة بالاستقالة",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد المالك بن حبيلس",
+      "term_start": "11 جانفي 1992",
+      "term_end": "14 جانفي 1992",
+      "party": "ج.ت.و",
+      "notes": "رئيس مؤقت ( السن عند تولي المنصب : 71 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "المجلس الأعلى للدولة",
+      "term_start": "14 جانفي 1992",
+      "term_end": "16 جانفي 1992",
+      "party": "",
+      "notes": "مرحلة إستثائية",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "محمد بوضياف",
+      "term_start": "16 جانفي 1992",
+      "term_end": "29 جوان 1992",
+      "party": "غير متحزب",
+      "notes": "رئيس للمجلس الأعلى للدولة (رابع رئيس للدولة) ( السن عند تولي المنصب : 73 سنةً ) تنتهي الرئاسة بالاغتيال",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "المجلس الأعلى للدولة",
+      "term_start": "29 جوان 1992",
+      "term_end": "2 جويلية 1992",
+      "party": "",
+      "notes": "مرحلة إستثائية",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "علي كافي",
+      "term_start": "2 جويلية 1992",
+      "term_end": "30 جانفي 1994",
+      "party": "غير متحزب",
+      "notes": "رئيس للمجلس الأعلى للدولة (خامس رئيس للدولة) ( السن عند تولي المنصب : 64 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "اليامين زروال",
+      "term_start": "30 جانفي 1994",
+      "term_end": "16 نوفمبر 1995",
+      "party": "عسكري",
+      "notes": "رئيس للدولة ( السن عند تولي المنصب : 53 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "اليامين زروال",
+      "term_start": "16 نوفمبر 1995",
+      "term_end": "27 أبريل 1999",
+      "party": "غير متحزب/ ت.و.د",
+      "notes": "أنتخب رابع رئيس للجمهورية بنسبة 61% ( السن عند تولي المنصب : 54 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد العزيز بوتفليقة",
+      "term_start": "27 أبريل 1999",
+      "term_end": "8 أبريل 2004",
+      "party": "غير متحزب",
+      "notes": "أنتخب خامس رئيس للجمهورية بنسبة 73.79% ( السن عند تولي المنصب : 62 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد العزيز بوتفليقة",
+      "term_start": "8 أبريل 2004",
+      "term_end": "9 أبريل 2009",
+      "party": "غير متحزب/ ج.ت.و",
+      "notes": "فاز بنسبة 83.49% لعهده الثاني ( السن عند تولي المنصب : 67 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد العزيز بوتفليقة",
+      "term_start": "9 أبريل 2009",
+      "term_end": "17 أبريل 2014",
+      "party": "مرشح حر",
+      "notes": "فاز بـ90.24% لعهده الثالث بعد تعديل الدستور وفتح العهدات إلى ما لانهاية. ( السن عند تولي المنصب : 72 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد العزيز بوتفليقة",
+      "term_start": "17 أبريل 2014",
+      "term_end": "02 أبريل 2019",
+      "party": "مرشح حر",
+      "notes": "فاز بـ 81.5 % لعهده الرابع. ( السن عند تولي المنصب : 77 سنةً ) انتهاء العهدة بالاستقالة بسبب حراك 22 فيفري 2019.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد القادر بن صالح",
+      "term_start": "2 أبريل 2019",
+      "term_end": "19 ديسمبر 2019",
+      "party": "التجمع الوطني الديمقراطي",
+      "notes": "رئيس الدولة رئيس مؤقت ( السن عند تولي المنصب : 78 سنةً )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    },
+    {
+      "name": "عبد المجيد تبون",
+      "term_start": "19 ديسمبر 2019",
+      "term_end": "",
+      "party": "مرشح حر",
+      "notes": "أنتخب سادس رئيس للجمهورية بنسبة 58.15%. ( السن عند تولي المنصب : 73 سنةً و11 شهرًا و6 أيامٍ )",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    }
+  ],
+  "meta": {
+    "title": "رؤساء الجزائر وفترات العهدات منذ 1962 - Free Download",
+    "description": "قائمة رؤساء الجزائر ورؤساء الدولة المؤقتين منذ 1962 مع العهدات والانتماءات السياسية والملاحظات من ويكيبيديا العربية. تُحفظ العهدات المتعددة كسجلات منفصلة وفق المصدر. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "رؤساء الجزائر وفترات العهدات منذ 1962 | ListBase",
+    "seo_description": "Download رؤساء الجزائر وفترات العهدات منذ 1962 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833"
+    ]
+  }
+}

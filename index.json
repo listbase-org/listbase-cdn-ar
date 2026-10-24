@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-24T00:05:55.203Z",
-  "total_datasets": 426,
-  "total_records": 146216,
+  "generated": "2026-10-24T00:05:59.124Z",
+  "total_datasets": 427,
+  "total_records": 146237,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -8279,6 +8279,33 @@
         "xlsx": {
           "name": "ar-lughat_AR.xlsx",
           "size": 25271
+        }
+      }
+    },
+    {
+      "id": "ar-ruasa-al-jazair",
+      "name": "رؤساء الجزائر وفترات العهدات منذ 1962",
+      "category": "politics",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "party",
+        "notes",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1&oldid=76477833",
+      "updated": "2026-10",
+      "size": 13186,
+      "files": {
+        "csv": {
+          "name": "ar-ruasa-al-jazair_AR.csv",
+          "size": 7758
+        },
+        "xlsx": {
+          "name": "ar-ruasa-al-jazair_AR.xlsx",
+          "size": 8458
         }
       }
     },
