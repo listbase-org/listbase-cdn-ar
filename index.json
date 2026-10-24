@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-20T03:58:40.755Z",
-  "total_datasets": 423,
-  "total_records": 146179,
+  "generated": "2026-10-24T00:03:01.507Z",
+  "total_datasets": 424,
+  "total_records": 146186,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -8171,6 +8171,32 @@
         "xlsx": {
           "name": "ar-yanabi-harra_AR.xlsx",
           "size": 7629
+        }
+      }
+    },
+    {
+      "id": "ar-muluk-al-saudia",
+      "name": "ملوك المملكة العربية السعودية وفترات حكمهم",
+      "category": "history",
+      "record_count": 7,
+      "columns": [
+        "name",
+        "reign_start",
+        "reign_end",
+        "notes",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9&oldid=74106265",
+      "updated": "2026-10",
+      "size": 9182,
+      "files": {
+        "csv": {
+          "name": "ar-muluk-al-saudia_AR.csv",
+          "size": 5439
+        },
+        "xlsx": {
+          "name": "ar-muluk-al-saudia_AR.xlsx",
+          "size": 8320
         }
       }
     },
