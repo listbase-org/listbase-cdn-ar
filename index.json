@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-24T00:03:07.193Z",
-  "total_datasets": 425,
-  "total_records": 146199,
+  "generated": "2026-10-24T00:05:55.203Z",
+  "total_datasets": 426,
+  "total_records": 146216,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "politics",
       "dataset_count": 1
     },
     {
@@ -8275,6 +8279,31 @@
         "xlsx": {
           "name": "ar-lughat_AR.xlsx",
           "size": 25271
+        }
+      }
+    },
+    {
+      "id": "ar-ruasa-misr",
+      "name": "رؤساء مصر وفترات تولي السلطة",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "age_and_reign_text",
+        "notes",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1_%D9%85%D8%B5%D8%B1&oldid=76668879",
+      "updated": "2026-10",
+      "size": 39170,
+      "files": {
+        "csv": {
+          "name": "ar-ruasa-misr_AR.csv",
+          "size": 35006
+        },
+        "xlsx": {
+          "name": "ar-ruasa-misr_AR.xlsx",
+          "size": 12721
         }
       }
     },
