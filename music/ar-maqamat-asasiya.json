@@ -1,0 +1,96 @@
+{
+  "id": "ar-maqamat-asasiya",
+  "name": "المقامات الموسيقية الأساسية ودرجات ارتكازها",
+  "title": "المقامات الموسيقية الأساسية ودرجات ارتكازها",
+  "description": "المقامات الأساسية مجمعة بحسب درجة الارتكاز كما وردت في ويكيبيديا العربية. الأسماء والتصنيف محفوظان من المصدر دون ترجمة.",
+  "category": "music",
+  "source": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395",
+  "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "ar.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "tonic_group",
+      "label": "tonic_group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "مقام راست",
+      "tonic_group": "مقامات ترتكز على درجة الراست ( دو ) C:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام نهاوند",
+      "tonic_group": "مقامات ترتكز على درجة الراست ( دو ) C:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام نوا أثر",
+      "tonic_group": "مقامات ترتكز على درجة الراست ( دو ) C:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام الكرد",
+      "tonic_group": "مقامات ترتكز على درجة الراست ( دو ) C:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام البيات",
+      "tonic_group": "مقامات ترتكز على درجة الدوكاه ( ري ) D:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام حجاز",
+      "tonic_group": "مقامات ترتكز على درجة الدوكاه ( ري ) D:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام صبا",
+      "tonic_group": "مقامات ترتكز على درجة الدوكاه ( ري ) D:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام سيكاه",
+      "tonic_group": "مقامات ترتكز على درجة السيكاه ( مي ) E:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام الهزام",
+      "tonic_group": "مقامات ترتكز على درجة السيكاه ( مي ) E:",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    },
+    {
+      "name": "مقام عجم",
+      "tonic_group": "مقامات ترتكز على درجة العجم عشيران (سي بيمول):",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    }
+  ],
+  "meta": {
+    "title": "المقامات الموسيقية الأساسية ودرجات ارتكازها - Free Download",
+    "description": "المقامات الأساسية مجمعة بحسب درجة الارتكاز كما وردت في ويكيبيديا العربية. الأسماء والتصنيف محفوظان من المصدر دون ترجمة. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المقامات الموسيقية الأساسية ودرجات ارتكازها | ListBase",
+    "seo_description": "Download المقامات الموسيقية الأساسية ودرجات ارتكازها — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395"
+    ]
+  }
+}

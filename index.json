@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-24T00:05:59.124Z",
-  "total_datasets": 427,
-  "total_records": 146237,
+  "generated": "2026-10-25T14:10:10.506Z",
+  "total_datasets": 428,
+  "total_records": 146247,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -8279,6 +8283,30 @@
         "xlsx": {
           "name": "ar-lughat_AR.xlsx",
           "size": 25271
+        }
+      }
+    },
+    {
+      "id": "ar-maqamat-asasiya",
+      "name": "المقامات الموسيقية الأساسية ودرجات ارتكازها",
+      "category": "music",
+      "record_count": 10,
+      "columns": [
+        "name",
+        "tonic_group",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D9%82%D8%A7%D9%85_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%8A&oldid=74685395",
+      "updated": "2026-10",
+      "size": 5325,
+      "files": {
+        "csv": {
+          "name": "ar-maqamat-asasiya_AR.csv",
+          "size": 2171
+        },
+        "xlsx": {
+          "name": "ar-maqamat-asasiya_AR.xlsx",
+          "size": 7192
         }
       }
     },
