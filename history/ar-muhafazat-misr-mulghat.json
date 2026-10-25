@@ -1,0 +1,125 @@
+{
+  "id": "ar-muhafazat-misr-mulghat",
+  "name": "محافظات مصر الملغاة وتاريخها",
+  "title": "محافظات مصر الملغاة وتاريخها",
+  "description": "المحافظات المصرية الملغاة وعواصمها وتواريخ إنشائها وإلغائها وملاحظاتها وفق جدول ويكيبيديا العربية. القيم غير المتاحة تبقى كما في المصدر.",
+  "category": "history",
+  "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457",
+  "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "ar.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "capital",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "established",
+      "type": "string"
+    },
+    {
+      "key": "abolished",
+      "label": "abolished",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "notes",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "مصلحة الحدود",
+      "capital": "-",
+      "established": "1917",
+      "abolished": "1960",
+      "notes": "كانت تشتمل على مناطق شبه جزيرة سيناء والصحراء الشرقية وساحل البحر الأحمر والصحراء الليبية والواحات .",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة القنال",
+      "capital": "بورسعيد",
+      "established": "1859",
+      "abolished": "1959",
+      "notes": "كانت تشتمل على منطقة محافظتي الإسماعيلية و بورسعيد .",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة رشيد",
+      "capital": "رشيد",
+      "established": "-",
+      "abolished": "1896",
+      "notes": "كانت إحدى المحافظات ثم ضمت للبحيرة.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة الصحراء الغربية",
+      "capital": "مرسى مطروح",
+      "established": "1917",
+      "abolished": "1961",
+      "notes": "كانت عاصمتها مرسى مطروح وتضم محافظة مطروح ومحافظة الإسكندرية (مركز مريوط) ومحافظة الجيزة (مركز الواحات البحرية) ومحافظة الوادي الجديد.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة الصحراء الجنوبية",
+      "capital": "الخارجة",
+      "established": "1917",
+      "abolished": "1961",
+      "notes": "كانت تقع في جنوب غرب مصر وعاصمتها كانت مدينة الخارجة .",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة سيناء",
+      "capital": "العريش",
+      "established": "1917",
+      "abolished": "1979",
+      "notes": "كانت تضم منطقة شبة جزيرة سيناء ومناطق من البحر الأحمر وعاصمتها مدينة العريش ، قسمت إلى محافظتي شمال وجنوب سيناء، وأضيفت بعض أجزائها إلى محافظات القناة الثلاث.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة السادس من أكتوبر",
+      "capital": "مدينة 6 أكتوبر",
+      "established": "2008",
+      "abolished": "2011",
+      "notes": "حدد نطاقها الإداري بمركز أوسيم و إمبابة و مدينة السادات بالشمال وحد قسم 6 أكتوبر ومحافظة الفيوم ومن الشرق محافظة الجيزة ونهر النيل من الحوامدية وحتى البدرشين ومن الغرب محافظتي البحيرة و مطروح .",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    },
+    {
+      "name": "محافظة حلوان",
+      "capital": "مدينة حلوان",
+      "established": "2008",
+      "abolished": "2011",
+      "notes": "شملت المحافظة جنوب شرق القاهرة الكبرى، وضمت مدينتين هما حلوان (العاصمة) و المعادي ومدن جديدة هي 15 مايو والشروق وبدر والقاهرة الجديدة والهايكستيب، إضافة إلى مركزي أطفيح والصف.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    }
+  ],
+  "meta": {
+    "title": "محافظات مصر الملغاة وتاريخها - Free Download",
+    "description": "المحافظات المصرية الملغاة وعواصمها وتواريخ إنشائها وإلغائها وملاحظاتها وفق جدول ويكيبيديا العربية. القيم غير المتاحة تبقى كما في المصدر. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "محافظات مصر الملغاة وتاريخها | ListBase",
+    "seo_description": "Download محافظات مصر الملغاة وتاريخها — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457"
+    ]
+  }
+}

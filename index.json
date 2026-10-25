@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-25T14:10:10.506Z",
-  "total_datasets": 428,
-  "total_records": 146247,
+  "generated": "2026-10-25T14:10:22.299Z",
+  "total_datasets": 429,
+  "total_records": 146255,
   "categories": [
     {
       "id": "culture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -8203,6 +8203,33 @@
         "xlsx": {
           "name": "ar-yanabi-harra_AR.xlsx",
           "size": 7629
+        }
+      }
+    },
+    {
+      "id": "ar-muhafazat-misr-mulghat",
+      "name": "محافظات مصر الملغاة وتاريخها",
+      "category": "history",
+      "record_count": 8,
+      "columns": [
+        "name",
+        "capital",
+        "established",
+        "abolished",
+        "notes",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1&oldid=76453457",
+      "updated": "2026-10",
+      "size": 7165,
+      "files": {
+        "csv": {
+          "name": "ar-muhafazat-misr-mulghat_AR.csv",
+          "size": 3472
+        },
+        "xlsx": {
+          "name": "ar-muhafazat-misr-mulghat_AR.xlsx",
+          "size": 7919
         }
       }
     },
