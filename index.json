@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-25T14:10:22.299Z",
-  "total_datasets": 429,
-  "total_records": 146255,
+  "generated": "2026-10-26T02:56:50.229Z",
+  "total_datasets": 430,
+  "total_records": 146295,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -8310,6 +8314,35 @@
         "xlsx": {
           "name": "ar-lughat_AR.xlsx",
           "size": 25271
+        }
+      }
+    },
+    {
+      "id": "ar-wathaiq-dusturiya-misr",
+      "name": "الوثائق الدستورية المصرية وتواريخها",
+      "category": "law",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "document_type",
+        "issued",
+        "effective",
+        "referendum",
+        "referendum_result",
+        "notes",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AF%D8%B3%D8%A7%D8%AA%D9%8A%D8%B1_%D9%85%D8%B5%D8%B1&oldid=76453403",
+      "updated": "2026-10",
+      "size": 42338,
+      "files": {
+        "csv": {
+          "name": "ar-wathaiq-dusturiya-misr_AR.csv",
+          "size": 32299
+        },
+        "xlsx": {
+          "name": "ar-wathaiq-dusturiya-misr_AR.xlsx",
+          "size": 14115
         }
       }
     },
