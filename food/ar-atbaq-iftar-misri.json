@@ -1,0 +1,71 @@
+{
+  "id": "ar-atbaq-iftar-misri",
+  "name": "أطباق الإفطار في المطبخ المصري",
+  "title": "أطباق الإفطار في المطبخ المصري",
+  "description": "الأطباق وأوصافها من جدول الإفطار في مقالة المطبخ المصري بويكيبيديا العربية. حُفظ النص الأصلي وحذفت الصور وعلامات المراجع فقط.",
+  "category": "food",
+  "source": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202",
+  "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "ar.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "description",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "فول مدمس",
+      "description": ".",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    },
+    {
+      "name": "كشك",
+      "description": ".",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    },
+    {
+      "name": "عجة",
+      "description": "عجة البيض والبقدونس يخفق البيض مع الزيت ويضاف الدقيق لخليط البيض. مع البصل الأخضروالثوم يُتبل الخليط بالبهارات والملح والفلفل.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    },
+    {
+      "name": "فلافل أو طعمية",
+      "description": "تصنع من الفول يوجد أكثر من نوع طعمية اسكندراني وهي محشية وطعمية صعيدية طعمية عين الكتكوت محشية شرائح بيض",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    },
+    {
+      "name": "شكشوكة",
+      "description": "توضع الخضر المتنوعة في وعاء ثم تسخن حتى تذبل ونضج جيدا. يمكن إضافة كمية قليلة من الماء.بعد ذلك تضاف الزيت لتقلية المحتويات في قدر أو في مقلاة حسب الكمية. بعد أن تسخن نضيف البيض.",
+      "source_url": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    }
+  ],
+  "meta": {
+    "title": "أطباق الإفطار في المطبخ المصري - Free Download",
+    "description": "الأطباق وأوصافها من جدول الإفطار في مقالة المطبخ المصري بويكيبيديا العربية. حُفظ النص الأصلي وحذفت الصور وعلامات المراجع فقط. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أطباق الإفطار في المطبخ المصري | ListBase",
+    "seo_description": "Download أطباق الإفطار في المطبخ المصري — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202"
+    ]
+  }
+}

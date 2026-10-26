@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-26T02:56:50.229Z",
-  "total_datasets": 430,
-  "total_records": 146295,
+  "generated": "2026-10-26T02:56:59.883Z",
+  "total_datasets": 431,
+  "total_records": 146300,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -2386,6 +2386,30 @@
         "xlsx": {
           "name": "ar-yaman-sanaa-bunuk_AR.xlsx",
           "size": 8135
+        }
+      }
+    },
+    {
+      "id": "ar-atbaq-iftar-misri",
+      "name": "أطباق الإفطار في المطبخ المصري",
+      "category": "food",
+      "record_count": 5,
+      "columns": [
+        "name",
+        "description",
+        "source_url"
+      ],
+      "source": "https://ar.wikipedia.org/w/index.php?title=%D9%85%D8%B7%D8%A8%D8%AE_%D9%85%D8%B5%D8%B1%D9%8A&oldid=76797202",
+      "updated": "2026-10",
+      "size": 4079,
+      "files": {
+        "csv": {
+          "name": "ar-atbaq-iftar-misri_AR.csv",
+          "size": 1422
+        },
+        "xlsx": {
+          "name": "ar-atbaq-iftar-misri_AR.xlsx",
+          "size": 7309
         }
       }
     },
