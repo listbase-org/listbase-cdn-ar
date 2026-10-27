@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:11.157Z",
-  "total_datasets": 446,
-  "total_records": 147093,
+  "generated": "2026-10-27T02:21:14.037Z",
+  "total_datasets": 447,
+  "total_records": 147289,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -8553,6 +8553,32 @@
         "xlsx": {
           "name": "ar-faizun-jaizat-almalik-faisal-tib_AR.xlsx",
           "size": 10361
+        }
+      }
+    },
+    {
+      "id": "ar-mustashfayat-almaghrib",
+      "name": "المستشفيات في المغرب",
+      "category": "health",
+      "record_count": 196,
+      "columns": [
+        "no",
+        "name",
+        "city",
+        "type",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+      "updated": "2026-10",
+      "size": 44970,
+      "files": {
+        "csv": {
+          "name": "ar-mustashfayat-almaghrib_AR.csv",
+          "size": 26391
+        },
+        "xlsx": {
+          "name": "ar-mustashfayat-almaghrib_AR.xlsx",
+          "size": 15540
         }
       }
     },
