@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:20:51.533Z",
-  "total_datasets": 440,
-  "total_records": 146772,
+  "generated": "2026-10-27T02:20:54.728Z",
+  "total_datasets": 441,
+  "total_records": 146850,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -8450,6 +8450,31 @@
         "xlsx": {
           "name": "ar-alumr-almutawaqqa-alwatan-alarabi_AR.xlsx",
           "size": 7264
+        }
+      }
+    },
+    {
+      "id": "ar-faizun-jaizat-almalik-faisal-tib",
+      "name": "الفائزون بجائزة الملك فيصل في الطب",
+      "category": "health",
+      "record_count": 78,
+      "columns": [
+        "year",
+        "laureate",
+        "country",
+        "subject"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D9%81%D9%8A%D8%B5%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%B7%D8%A8",
+      "updated": "2026-10",
+      "size": 18269,
+      "files": {
+        "csv": {
+          "name": "ar-faizun-jaizat-almalik-faisal-tib_AR.csv",
+          "size": 9790
+        },
+        "xlsx": {
+          "name": "ar-faizun-jaizat-almalik-faisal-tib_AR.xlsx",
+          "size": 10361
         }
       }
     },
