@@ -1,0 +1,232 @@
+{
+  "id": "ar-aldual-alarabiya-hasab-alnizam-alsiyasi",
+  "name": "الدول العربية حسب النظام السياسي",
+  "title": "الدول العربية حسب النظام السياسي",
+  "description": "تصنيف الدول العربية حسب نظام الحكم: مركزي/اتحادي، ملكية/جمهورية، نوع الحكم، رأس الدولة ورئيس الحكومة.",
+  "category": "politics",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "structure",
+      "label": "Structure",
+      "type": "string"
+    },
+    {
+      "key": "monarchy_republic",
+      "label": "Monarchy Republic",
+      "type": "string"
+    },
+    {
+      "key": "system",
+      "label": "System",
+      "type": "string"
+    },
+    {
+      "key": "head_of_state",
+      "label": "Head Of State",
+      "type": "string"
+    },
+    {
+      "key": "head_of_government",
+      "label": "Head Of Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "الأردن",
+      "structure": "مركزي",
+      "monarchy_republic": "ملكية",
+      "system": "دستورية",
+      "head_of_state": "الملك",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "الإمارات",
+      "structure": "اتحادي",
+      "monarchy_republic": "إتحادي رئاسي ، و ملكي",
+      "system": "رئاسية ، و شبه دستورية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "البحرين",
+      "structure": "مركزي",
+      "monarchy_republic": "ملكية",
+      "system": "دستورية",
+      "head_of_state": "الملك",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "تونس",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "الجزائر",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الدولة"
+    },
+    {
+      "country": "جيبوتي",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "السعودية",
+      "structure": "مركزي",
+      "monarchy_republic": "ملكية",
+      "system": "مطلقة",
+      "head_of_state": "الملك",
+      "head_of_government": "الملك"
+    },
+    {
+      "country": "السودان",
+      "structure": "اتحادي",
+      "monarchy_republic": "جمهورية",
+      "system": "إنتقالية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الدولة"
+    },
+    {
+      "country": "سوريا",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "الصومال",
+      "structure": "اتحادي",
+      "monarchy_republic": "جمهورية",
+      "system": "برلمانية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "العراق",
+      "structure": "إتحادي",
+      "monarchy_republic": "جمهورية",
+      "system": "برلمانية",
+      "head_of_state": "رئيس الجمهورية",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "عمان",
+      "structure": "مركزي",
+      "monarchy_republic": "سلطنة",
+      "system": "مطلقة",
+      "head_of_state": "السلطان",
+      "head_of_government": "السلطان"
+    },
+    {
+      "country": "فلسطين",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "قطر",
+      "structure": "مركزي",
+      "monarchy_republic": "امارة",
+      "system": "مطلقة",
+      "head_of_state": "الأمير",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "جزر القمر",
+      "structure": "اتحادي",
+      "monarchy_republic": "جمهورية",
+      "system": "رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الدولة"
+    },
+    {
+      "country": "الكويت",
+      "structure": "مركزي",
+      "monarchy_republic": "إمارة",
+      "system": "شبه دستورية",
+      "head_of_state": "الأمير",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "لبنان",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "برلمانية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "ليبيا",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "برلمانية انتقالية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "مصر",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    },
+    {
+      "country": "المغرب",
+      "structure": "مركزي",
+      "monarchy_republic": "ملكية",
+      "system": "شبه دستورية",
+      "head_of_state": "الملك",
+      "head_of_government": "رئيس الحكومة"
+    },
+    {
+      "country": "موريتانيا",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "شبه رئاسية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "الوزير الأول"
+    },
+    {
+      "country": "اليمن",
+      "structure": "مركزي",
+      "monarchy_republic": "جمهورية",
+      "system": "إنتقالية",
+      "head_of_state": "الرئيس",
+      "head_of_government": "رئيس الوزراء"
+    }
+  ],
+  "meta": {
+    "title": "الدول العربية حسب النظام السياسي - Free Download",
+    "description": "تصنيف الدول العربية حسب نظام الحكم: مركزي/اتحادي، ملكية/جمهورية، نوع الحكم، رأس الدولة ورئيس الحكومة. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الدول العربية حسب النظام السياسي | ListBase",
+    "seo_description": "Download الدول العربية حسب النظام السياسي — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A"
+    ]
+  }
+}
