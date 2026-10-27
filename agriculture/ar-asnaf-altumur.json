@@ -1,0 +1,566 @@
+{
+  "id": "ar-asnaf-altumur",
+  "name": "أصناف التمور",
+  "title": "أصناف التمور",
+  "description": "قائمة أصناف التمور (البلح) ومناطق أصلها في الدول العربية مع وصف موجز لكل صنف.",
+  "category": "agriculture",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D8%B1",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D8%B1",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "الخنيزي",
+      "origin": "السعودية ، القطيف/الأحساء",
+      "description": "يُشكِّل مُعظم إنتاج القطيف، ويُزرع بكميَّات قليلة في الأحساء."
+    },
+    {
+      "name": "دقلة",
+      "origin": "الجزائر",
+      "description": ""
+    },
+    {
+      "name": "أنقو",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الباجو",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "بسر حلو",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "بنت السقني",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "بيض حمام",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الترنجة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "التوزرزايت",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الحرّة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الحلُوّة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الحمراء",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "الحَمّورية",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "هلالي",
+      "origin": "السعودية",
+      "description": ""
+    },
+    {
+      "name": "الخضراء",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "خلط",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "دنقة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "سفاري",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "شتوي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "شداخ",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "عرشتي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "فطيمي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "العليقي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "عَمَّاري",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "غرس سوف",
+      "origin": "الجزائر",
+      "description": ""
+    },
+    {
+      "name": "غرس مطيقي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "فحل كسبة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "فرملة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "فزاني",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "قصبي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "قُنْدَة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "كْسِبَة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "كنتيشي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "اللاقو",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "مالطي",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "المدور",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "هيسة",
+      "origin": "تونس",
+      "description": ""
+    },
+    {
+      "name": "بكيرة",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "العجوة",
+      "origin": "السعودية / المدينة المنورة",
+      "description": ""
+    },
+    {
+      "name": "روثانة",
+      "origin": "السعودية / المدينة المنورة",
+      "description": ""
+    },
+    {
+      "name": "دعالج",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الغر",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الرزيز",
+      "origin": "السعودية / الأحساء",
+      "description": "يتواجد هذا النّوع في واحة الأحساء بشكل وفير، إذ تُقدَّر كميَّته بما يُقارب 80% من محصول التمور في الواحة."
+    },
+    {
+      "name": "الغر",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "حلوة",
+      "origin": "السعودية / الجوف",
+      "description": ""
+    },
+    {
+      "name": "المنجاز",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الختاسي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "المرزبان",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الشهل",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الحاتمي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "بكيرة",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الطيار",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "التناجيب",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الوصيلي",
+      "origin": "السعودية / الأحساء",
+      "description": "يُزرع للاستهلاك الحيواني"
+    },
+    {
+      "name": "الحاتمي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الهلالي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الحليلي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "حريزي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "عذابي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الشيشي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الجبيلي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الخداج",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "خاتاسي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الخصاب",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الخلاص",
+      "origin": "العراق السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "المرزبان",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "المجناز (المكناز)",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "خصيب",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "المحمي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "أم رحيم",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "مواحيد",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "نبت السيف",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الريزي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الصبو",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الشبيبي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الرزيز",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "السنيني",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الشهل",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "التناجيب",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الطيار",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الوصيلي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الزاملي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الزنبور الأحمر",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "الزنبور الأصفر",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "خوصبي",
+      "origin": "السعودية / الأحساء",
+      "description": ""
+    },
+    {
+      "name": "بياض",
+      "origin": "السعودية / نجران",
+      "description": ""
+    },
+    {
+      "name": "البرحي",
+      "origin": "العراق / البصرة",
+      "description": ""
+    },
+    {
+      "name": "اشرسي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "تبرزل",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "بربن",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "حمراوي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "حلاوي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "حلوة الجبل",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "جبجاب",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "جبلي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "خستاوي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "خضراوي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "خصاب",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "سلطاني",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "ساير",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "مكتوم",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "تمر المجهول",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "زهدي",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "ديري",
+      "origin": "العراق",
+      "description": ""
+    },
+    {
+      "name": "أم الدهن",
+      "origin": "العراق",
+      "description": ""
+    }
+  ],
+  "meta": {
+    "title": "أصناف التمور - Free Download",
+    "description": "قائمة أصناف التمور (البلح) ومناطق أصلها في الدول العربية مع وصف موجز لكل صنف. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أصناف التمور | ListBase",
+    "seo_description": "Download أصناف التمور — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D8%B1"
+    ]
+  }
+}
