@@ -1,9 +1,13 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:20:42.847Z",
-  "total_datasets": 437,
-  "total_records": 146622,
+  "generated": "2026-10-27T02:20:45.847Z",
+  "total_datasets": 438,
+  "total_records": 146643,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 6
@@ -82,6 +86,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ar-altumur-fi-alsaudia",
+      "name": "أشهر أنواع التمور في السعودية",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "info"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%85%D9%88%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "updated": "2026-10",
+      "size": 15247,
+      "files": {
+        "csv": {
+          "name": "ar-altumur-fi-alsaudia_AR.csv",
+          "size": 12555
+        },
+        "xlsx": {
+          "name": "ar-altumur-fi-alsaudia_AR.xlsx",
+          "size": 10383
+        }
+      }
+    },
     {
       "id": "ar-asmaa",
       "name": "الأسماء العربية ومعانيها",
