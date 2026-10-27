@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:20:27.173Z",
-  "total_datasets": 432,
-  "total_records": 146331,
+  "generated": "2026-10-27T02:20:30.829Z",
+  "total_datasets": 433,
+  "total_records": 146359,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -343,6 +343,31 @@
         "xlsx": {
           "name": "ar-aflam-farid-alatrash_AR.xlsx",
           "size": 8664
+        }
+      }
+    },
+    {
+      "id": "ar-aflam-misriya-2010",
+      "name": "الأفلام المصرية سنة 2010",
+      "category": "entertainment",
+      "record_count": 28,
+      "columns": [
+        "title",
+        "director",
+        "cast",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9_%D8%B3%D9%86%D8%A9_2010",
+      "updated": "2026-10",
+      "size": 9099,
+      "files": {
+        "csv": {
+          "name": "ar-aflam-misriya-2010_AR.csv",
+          "size": 5049
+        },
+        "xlsx": {
+          "name": "ar-aflam-misriya-2010_AR.xlsx",
+          "size": 8967
         }
       }
     },
