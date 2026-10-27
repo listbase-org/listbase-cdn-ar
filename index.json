@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:23.658Z",
-  "total_datasets": 450,
-  "total_records": 147768,
+  "generated": "2026-10-27T02:21:26.760Z",
+  "total_datasets": 451,
+  "total_records": 147789,
   "categories": [
     {
       "id": "agriculture",
@@ -71,6 +71,10 @@
     {
       "id": "science",
       "dataset_count": 2
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -10985,6 +10989,32 @@
         "xlsx": {
           "name": "ar-ruwwad-alfada-alarab_AR.xlsx",
           "size": 7495
+        }
+      }
+    },
+    {
+      "id": "ar-sukkan-aldual-alarabiya-tawaqquat",
+      "name": "سكان الدول العربية 1950–2100 (التقديرات والتوقعات)",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "country",
+        "pop_1950",
+        "pop_2000",
+        "pop_2050",
+        "pop_2100"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86",
+      "updated": "2026-10",
+      "size": 5591,
+      "files": {
+        "csv": {
+          "name": "ar-sukkan-aldual-alarabiya-tawaqquat_AR.csv",
+          "size": 1234
+        },
+        "xlsx": {
+          "name": "ar-sukkan-aldual-alarabiya-tawaqquat_AR.xlsx",
+          "size": 7607
         }
       }
     },
