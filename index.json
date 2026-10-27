@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:29.400Z",
-  "total_datasets": 452,
-  "total_records": 147796,
+  "generated": "2026-10-27T02:21:32.007Z",
+  "total_datasets": 453,
+  "total_records": 147810,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 40
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -13533,6 +13537,31 @@
         "xlsx": {
           "name": "ar-yaman-matarat_AR.xlsx",
           "size": 13878
+        }
+      }
+    },
+    {
+      "id": "ar-wahdat-qiyas-arabiya-qadima",
+      "name": "وحدات القياس العربية القديمة",
+      "category": "units",
+      "record_count": 14,
+      "columns": [
+        "unit",
+        "equivalent",
+        "metric",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%82%D9%8A%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9",
+      "updated": "2026-10",
+      "size": 4406,
+      "files": {
+        "csv": {
+          "name": "ar-wahdat-qiyas-arabiya-qadima_AR.csv",
+          "size": 1139
+        },
+        "xlsx": {
+          "name": "ar-wahdat-qiyas-arabiya-qadima_AR.xlsx",
+          "size": 7503
         }
       }
     }

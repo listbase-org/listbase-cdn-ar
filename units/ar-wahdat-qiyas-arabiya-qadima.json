@@ -1,0 +1,130 @@
+{
+  "id": "ar-wahdat-qiyas-arabiya-qadima",
+  "name": "وحدات القياس العربية القديمة",
+  "title": "وحدات القياس العربية القديمة",
+  "description": "وحدات قياس الطول العربية التقليدية (الإصبع، القبضة، الشبر، القدم، الذراع، الميل، الفرسخ، البريد...) وما يعادلها بالمقاييس المترية.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%82%D9%8A%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%82%D9%8A%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "equivalent",
+      "label": "Equivalent",
+      "type": "string"
+    },
+    {
+      "key": "metric",
+      "label": "Metric",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "إصبع",
+      "equivalent": "1/16 قدم عربية",
+      "metric": "~2.25 سم",
+      "notes": "بطول الإصبع"
+    },
+    {
+      "unit": "قبضة",
+      "equivalent": "1/4 قدم عربية",
+      "metric": "~9 سم",
+      "notes": "بطول الكف"
+    },
+    {
+      "unit": "شبر",
+      "equivalent": "الشبر المسافة ما بين أصبع السبابة والابهام .",
+      "metric": "20 سم",
+      "notes": ""
+    },
+    {
+      "unit": "قدم عربية",
+      "equivalent": "",
+      "metric": "~32 سم",
+      "notes": ""
+    },
+    {
+      "unit": "ذراع",
+      "equivalent": "الذراع : تقليديا قدمان عربيتان، ولكن خفض لاحقًا إلى قدم ونصف.",
+      "metric": "",
+      "notes": "طول الذراع"
+    },
+    {
+      "unit": "خطوة",
+      "equivalent": "ذراعين أو 3 أقدام أو 12 كف.",
+      "metric": "",
+      "notes": ""
+    },
+    {
+      "unit": "القامة",
+      "equivalent": "6 أقدام عربية",
+      "metric": "~1.92 م",
+      "notes": "طول القامة"
+    },
+    {
+      "unit": "الباع",
+      "equivalent": ": المسافة التي ما بين اليدين ممدوده ومن إبهام اليد اليمني إلى ابهام اليد اليسرى.",
+      "metric": "انظر هنا",
+      "notes": ""
+    },
+    {
+      "unit": "جز .",
+      "equivalent": "الجز .",
+      "metric": "ما بين 25 و37 بوصة",
+      "notes": "وحدة مسافة"
+    },
+    {
+      "unit": "قصبة",
+      "equivalent": "12 قدم عربية",
+      "metric": "~3.84 م",
+      "notes": ""
+    },
+    {
+      "unit": "الغلوة",
+      "equivalent": "300 إلى 400 ذراع",
+      "metric": "",
+      "notes": ""
+    },
+    {
+      "unit": "فرسخ",
+      "equivalent": "الفرسخ 18,000 قدم العربية",
+      "metric": "~5.76 كم",
+      "notes": ""
+    },
+    {
+      "unit": "بريد",
+      "equivalent": "4 فراسخ",
+      "metric": "~23.04 كم",
+      "notes": ""
+    },
+    {
+      "unit": "مرحلة",
+      "equivalent": "8 فراسخ",
+      "metric": "~46.08 كم",
+      "notes": "مراحل السفر ."
+    }
+  ],
+  "meta": {
+    "title": "وحدات القياس العربية القديمة - Free Download",
+    "description": "وحدات قياس الطول العربية التقليدية (الإصبع، القبضة، الشبر، القدم، الذراع، الميل، الفرسخ، البريد...) وما يعادلها بالمقاييس المترية. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "وحدات القياس العربية القديمة | ListBase",
+    "seo_description": "Download وحدات القياس العربية القديمة — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D9%82%D9%8A%D8%A7%D8%B3_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%82%D8%AF%D9%8A%D9%85%D8%A9"
+    ]
+  }
+}
