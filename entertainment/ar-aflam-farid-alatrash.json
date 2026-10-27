@@ -1,0 +1,268 @@
+{
+  "id": "ar-aflam-farid-alatrash",
+  "name": "أفلام فريد الأطرش",
+  "title": "أفلام فريد الأطرش",
+  "description": "قائمة أفلام الفنان فريد الأطرش: الأبطال، القصة، المخرج وتاريخ العرض.",
+  "category": "entertainment",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D9%81%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%B4",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D9%81%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%B4",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "cast",
+      "label": "Cast",
+      "type": "string"
+    },
+    {
+      "key": "story",
+      "label": "Story",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "انتصار الشباب",
+      "cast": "فريد الأطرش وأسمهان",
+      "story": "عمر جميعي",
+      "director": "أحمد بدرخان",
+      "release_date": "24.03.1941"
+    },
+    {
+      "title": "أحلام الشباب",
+      "cast": "فريد الأطرش ومديحة يسري",
+      "story": "يوسف وهبي",
+      "director": "كمال سليم",
+      "release_date": "16.11.1942"
+    },
+    {
+      "title": "جمال ودلال",
+      "cast": "فريد وليلى فوزي",
+      "story": "زكي صالح",
+      "director": "إستفان روستي",
+      "release_date": "12.11.1945"
+    },
+    {
+      "title": "شهر العسل",
+      "cast": "فريد ومديحة يسري",
+      "story": "بديع خيري",
+      "director": "أحمد بدرخان",
+      "release_date": "01.10.1945"
+    },
+    {
+      "title": "مقدرش",
+      "cast": "فريد وتحية كاريوكا",
+      "story": "سليمان نجيب",
+      "director": "أحمد بدرخان",
+      "release_date": "18.01.1946"
+    },
+    {
+      "title": "حبيب العمر",
+      "cast": "فريد وسامية جمال",
+      "story": "هنري بركات",
+      "director": "هنري بركات",
+      "release_date": "17.03.1947"
+    },
+    {
+      "title": "بلبل أفندي",
+      "cast": "فريد وصباح",
+      "story": "حسين فوزي",
+      "director": "حسين فوزي",
+      "release_date": "12.04.1948"
+    },
+    {
+      "title": "أحبك إنت",
+      "cast": "فريد وسامية جمال",
+      "story": "يوسف جوهر",
+      "director": "أحمد بدرخان",
+      "release_date": "03.01.1949"
+    },
+    {
+      "title": "عفريتة هانم",
+      "cast": "فريد وسامية جمال",
+      "story": "أبو السعود الأبياري",
+      "director": "هنري بركات",
+      "release_date": "28.11.1949"
+    },
+    {
+      "title": "آخر كذبة",
+      "cast": "فريد وسامية جمال",
+      "story": "أبو السعود الأبياري",
+      "director": "أحمد بدرخان",
+      "release_date": "11.12.1950"
+    },
+    {
+      "title": "تعال سلم",
+      "cast": "فريد وسامية جمال",
+      "story": "أبو السعود الأبياري",
+      "director": "حلمي رفلة",
+      "release_date": "03.09.1951"
+    },
+    {
+      "title": "ما تقولش لحد",
+      "cast": "فريد ونور الهدى وسامية جمال",
+      "story": "مقتبسة من الأدب الأجنبي بتصرف",
+      "director": "هنري بركات",
+      "release_date": "28.11.1952"
+    },
+    {
+      "title": "عايزة أتجوز",
+      "cast": "فريد ونور الهدى",
+      "story": "أبو السعود الأبياري",
+      "director": "أحمد بدرخان",
+      "release_date": "18.08.1952"
+    },
+    {
+      "title": "لحن الخلود",
+      "cast": "فريد وفاتن حمامة",
+      "story": "ماركريت كندي",
+      "director": "هنري بركات",
+      "release_date": "15.12.1952"
+    },
+    {
+      "title": "لحن حبي",
+      "cast": "فريد وصباح",
+      "story": "أبو السعود الأبياري",
+      "director": "أحمد بدرخان",
+      "release_date": "05.10.1953"
+    },
+    {
+      "title": "رسالة غرام",
+      "cast": "فريد ومريم فخر الدين",
+      "story": "عن ماجدولين الفونس كار",
+      "director": "هنري بركات",
+      "release_date": "22.03.1954"
+    },
+    {
+      "title": "عهد الهوى",
+      "cast": "فريد ومريم فخر الدين",
+      "story": "إسكندر دوماس الابن عن رواية (غادة الكاميليا)",
+      "director": "أحمد بدرخان",
+      "release_date": "07.02.1955"
+    },
+    {
+      "title": "قصة حبي",
+      "cast": "فريد وإيمان",
+      "story": "أبو السعود الأبياري(عن حياة فريد)",
+      "director": "هنري بركات",
+      "release_date": "07.11.1955"
+    },
+    {
+      "title": "إزاي أنساك",
+      "cast": "فريد وصباح",
+      "story": "عبد العزيز سلام",
+      "director": "أحمد بدرخان",
+      "release_date": "01.05.1956"
+    },
+    {
+      "title": "ودعت حبك",
+      "cast": "فريد وشادية",
+      "story": "من الأدب العالمي",
+      "director": "يوسف شاهين",
+      "release_date": "29.10.1956"
+    },
+    {
+      "title": "انت حبيبي",
+      "cast": "فريد وشادية",
+      "story": "أبو السعود الأبياري",
+      "director": "يوسف شاهين",
+      "release_date": "29.04.1957"
+    },
+    {
+      "title": "ماليش غيرك",
+      "cast": "فريد ومريم فخر الدين",
+      "story": "من الأدب الأجنبي بتصرف",
+      "director": "هنري بركات",
+      "release_date": "01.02.1958"
+    },
+    {
+      "title": "من أجل حبي",
+      "cast": "فريد الأطرش وماجدة",
+      "story": "محمد عثمان وصلاح عز الدين",
+      "director": "كمال الشيخ",
+      "release_date": "03.12.1959"
+    },
+    {
+      "title": "شاطئ الحب",
+      "cast": "فريد وسميرة أحمد",
+      "story": "عبد العزيز سلام",
+      "director": "هنري بركات",
+      "release_date": "01.01.1961"
+    },
+    {
+      "title": "يوم بلا غد",
+      "cast": "فريد ومريم فخر الدين",
+      "story": "هنري بركات",
+      "director": "هنري بركات",
+      "release_date": "15.03.1962"
+    },
+    {
+      "title": "رسالة من امرأة مجهولة",
+      "cast": "فريد ولبنى عبد العزيز",
+      "story": "استيفان زفايج",
+      "director": "صلاح أبو سيف",
+      "release_date": "22.10.1962"
+    },
+    {
+      "title": "حكاية العمر كله",
+      "cast": "فريد وفاتن حمامة",
+      "story": "من الأدب الأجنبي بتصرف",
+      "director": "حلمي حليم",
+      "release_date": "19.09.1965"
+    },
+    {
+      "title": "الخروج من الجنة",
+      "cast": "فريد الأطرش وهند رستم",
+      "story": "توفيق الحكيم",
+      "director": "محمود ذو الفقار",
+      "release_date": "20.03.1967"
+    },
+    {
+      "title": "الحب الكبير",
+      "cast": "فريد وفاتن حمامة",
+      "story": "إيريان (فتاة روسية)",
+      "director": "هنري بركات",
+      "release_date": "01.01.1969"
+    },
+    {
+      "title": "زمان يا حب",
+      "cast": "فريد وزبيدة ثروت",
+      "story": "مقتبسة من الأدب الأجنبي بتصرف",
+      "director": "عاطف سالم",
+      "release_date": "05.11.1973"
+    },
+    {
+      "title": "نغم في حياتي",
+      "cast": "فريد وميرفت أمين",
+      "story": "فاني من ثلاثية لمارسيل بانيول",
+      "director": "هنري بركات",
+      "release_date": "25.08.1975"
+    }
+  ],
+  "meta": {
+    "title": "أفلام فريد الأطرش - Free Download",
+    "description": "قائمة أفلام الفنان فريد الأطرش: الأبطال، القصة، المخرج وتاريخ العرض. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أفلام فريد الأطرش | ListBase",
+    "seo_description": "Download أفلام فريد الأطرش — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D9%81%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%B4"
+    ]
+  }
+}

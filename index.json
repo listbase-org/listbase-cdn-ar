@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-26T02:56:59.883Z",
-  "total_datasets": 431,
-  "total_records": 146300,
+  "generated": "2026-10-27T02:20:27.173Z",
+  "total_datasets": 432,
+  "total_records": 146331,
   "categories": [
     {
       "id": "culture",
@@ -11,6 +11,10 @@
     {
       "id": "education",
       "dataset_count": 2
+    },
+    {
+      "id": "entertainment",
+      "dataset_count": 1
     },
     {
       "id": "environment",
@@ -313,6 +317,32 @@
         "xlsx": {
           "name": "ar-sa-madaris_AR.xlsx",
           "size": 8902
+        }
+      }
+    },
+    {
+      "id": "ar-aflam-farid-alatrash",
+      "name": "أفلام فريد الأطرش",
+      "category": "entertainment",
+      "record_count": 31,
+      "columns": [
+        "title",
+        "cast",
+        "story",
+        "director",
+        "release_date"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D9%81%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%B4",
+      "updated": "2026-10",
+      "size": 9066,
+      "files": {
+        "csv": {
+          "name": "ar-aflam-farid-alatrash_AR.csv",
+          "size": 4036
+        },
+        "xlsx": {
+          "name": "ar-aflam-farid-alatrash_AR.xlsx",
+          "size": 8664
         }
       }
     },
