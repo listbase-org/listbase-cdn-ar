@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:08.261Z",
-  "total_datasets": 445,
-  "total_records": 147041,
+  "generated": "2026-10-27T02:21:11.157Z",
+  "total_datasets": 446,
+  "total_records": 147093,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -536,6 +536,31 @@
         "xlsx": {
           "name": "ar-musalsalat-ramadan-2017_AR.xlsx",
           "size": 11858
+        }
+      }
+    },
+    {
+      "id": "ar-musalsalat-ramadan-2022",
+      "name": "مسلسلات رمضان 2022",
+      "category": "entertainment",
+      "record_count": 52,
+      "columns": [
+        "title",
+        "director",
+        "cast",
+        "country"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2022",
+      "updated": "2026-10",
+      "size": 12219,
+      "files": {
+        "csv": {
+          "name": "ar-musalsalat-ramadan-2022_AR.csv",
+          "size": 6114
+        },
+        "xlsx": {
+          "name": "ar-musalsalat-ramadan-2022_AR.xlsx",
+          "size": 9833
         }
       }
     },
