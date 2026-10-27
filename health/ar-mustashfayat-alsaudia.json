@@ -1,0 +1,4048 @@
+{
+  "id": "ar-mustashfayat-alsaudia",
+  "name": "مستشفيات المملكة العربية السعودية",
+  "title": "مستشفيات المملكة العربية السعودية",
+  "description": "قائمة المستشفيات والمدن الطبية في السعودية: الموقع، المنطقة، النوع، الملكية (حكومي/خاص)، عدد الأسرة والموقع الإلكتروني.",
+  "category": "health",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+  "updated": "2026-10",
+  "record_count": 443,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "ownership",
+      "label": "Ownership",
+      "type": "string"
+    },
+    {
+      "key": "beds",
+      "label": "Beds",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "مدينة الأمير سلطان الطبية العسكرية",
+      "location": "السليمانية",
+      "region": "الرياض",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": "psmmc.med.sa"
+    },
+    {
+      "name": "مدينة الملك سعود الطبية",
+      "location": "عليشة",
+      "region": "الرياض",
+      "type": "مدينة",
+      "ownership": "",
+      "beds": "",
+      "website": "ksmc.med.sa"
+    },
+    {
+      "name": "مدينة الملك عبد العزيز الطبية للحرس الوطني",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": "ngha.med.sa"
+    },
+    {
+      "name": "مستشفى عبيد التخصصي",
+      "location": "الملز",
+      "region": "الرياض",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الإمام عبد الرحمن الفيصل",
+      "location": "عكاظ",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان فقيه",
+      "location": "الياسمين",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحمادي",
+      "location": "العليا",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "alhammadi.med.sa"
+    },
+    {
+      "name": "مستشفى الحمادي",
+      "location": "النزهة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحمادي",
+      "location": "السويدي",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المشاري",
+      "location": "العليا",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "غرناطة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "mouwasat.com"
+    },
+    {
+      "name": "مستشفى اليمامة",
+      "location": "المنار",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى استر سند",
+      "location": "الحمراء",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور محمد الفقيه",
+      "location": "الخليج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى دله",
+      "location": "النخيل",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "dallah-hospital.co"
+    },
+    {
+      "name": "مستشفى دله",
+      "location": "نمار",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "dallah-hospital.co"
+    },
+    {
+      "name": "مستشفى الرياض",
+      "location": "المغرزات",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد الله الجامعي",
+      "location": "جامعة الأميرة نورة",
+      "region": "الرياض",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحبيب الطبية",
+      "location": "العليا",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحبيب الطبية",
+      "location": "الريان",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحبيب الطبية",
+      "location": "السويدي",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الجزيرة",
+      "location": "النسيم الغربي",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الهلال الأخضر",
+      "location": "المؤتمرات",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى علي بن علي",
+      "location": "العزيزية",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى انتر هلث",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفيات مديدة",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اس ام سي",
+      "location": "طريق الملك فهد",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "smc.com.sa"
+    },
+    {
+      "name": "مستشفى اس ام سي",
+      "location": "طريق الملك عبد الله",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "smc.com.sa"
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "الصحافة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى عناية العائلة",
+      "location": "الندوة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سلمان",
+      "location": "العريجاء الوسطى",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مدينة الملك فهد الطبية",
+      "location": "السليمانية",
+      "region": "الرياض",
+      "type": "مدينة",
+      "ownership": "",
+      "beds": "",
+      "website": "kfmc.med.sa"
+    },
+    {
+      "name": "مستشفى الملك فيصل التخصصي",
+      "location": "المعذر",
+      "region": "الرياض",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": "kfshrc.edu.sa"
+    },
+    {
+      "name": "مستشفى الملك خالد الجامعي",
+      "location": "جامعة الملك سعود",
+      "region": "الرياض",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المملكة",
+      "location": "الربيع",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "khccgroup.com"
+    },
+    {
+      "name": "مستشفى رعاية الطبية",
+      "location": "الروابي",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "care.med.sa"
+    },
+    {
+      "name": "مستشفى رعاية الطبية",
+      "location": "الملز",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير محمد بن عبد العزيز",
+      "location": "الروابي",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قوى الأمن",
+      "location": "الضباط",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحياة الوطني",
+      "location": "الربوة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الإيمان العام",
+      "location": "المنصورة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المانع",
+      "location": "الفلاح",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى نبع الصحة",
+      "location": "المونسية",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اماد",
+      "location": "العارض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السليل العام",
+      "location": "السليل",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى وادي الدواسر العام",
+      "location": "وادي الدواسر",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد بالخرج",
+      "location": "الخرج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال بالخرج",
+      "location": "الخرج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى إرادة والصحة النفسية بالخرج",
+      "location": "الخرج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأفلاج العام",
+      "location": "الأفلاج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حوطة بني تميم العام",
+      "location": "حوطة بني تميم",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير سلمان بن محمد العام بالدلم",
+      "location": "الدلم",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحريق العام",
+      "location": "الحريق",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القويعية العام",
+      "location": "القويعية",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المزاحمية العام",
+      "location": "المزاحمية",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رويضة العرض العام",
+      "location": "رويضة العرض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخاصرة العام",
+      "location": "الخاصرة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرين",
+      "location": "الرين",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع عيادات طب الأسنان",
+      "location": "غرب الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع عيادات طب الأسنان بجنوب الرياض",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد التخصصي للعيون",
+      "location": "أم الحمام الغربي",
+      "region": "الرياض",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": "kkesh.med.sa"
+    },
+    {
+      "name": "مستشفى الملك فيصل التخصصي",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز الجامعي",
+      "location": "الملز",
+      "region": "الرياض",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قوى الأمن",
+      "location": "",
+      "region": "الرياض",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القوات المسلحة",
+      "location": "وادي الدواسر",
+      "region": "الرياض",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجموعة العبير: مستشفى الجافل",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "abeermedicalgroup.com"
+    },
+    {
+      "name": "مستشفى القوات المسلحة",
+      "location": "الخرج",
+      "region": "الرياض",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى العام بمدينة الملك سعود الطبية",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع الأمل والصحة النفسية",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز الملك سلمان لأمراض الكلى",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأرطاوية العام",
+      "location": "الأرطاوية",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأطفال بمدينة الملك سعود الطبية",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأفلاج العام",
+      "location": "الأفلاج",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير سلمان بن محمد بالدلم",
+      "location": "الدلم",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير محمد بن عبد العزيز",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير ناصر بن سعد السديري بمحافظة الغاط",
+      "location": "محافظة الغاط",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الإيمان العام",
+      "location": "",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الامام عبد الرحمن الفيصل",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البجادية",
+      "location": "البجادية",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحريق العام",
+      "location": "الحريق",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخاصرة",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدوادمي العام",
+      "location": "الدوادمي",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرفايع بالجمش",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرين العام",
+      "location": "الرين",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الزلفي العام",
+      "location": "الزلفي",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السليل العام",
+      "location": "السليل",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الغاط العام",
+      "location": "الغاط",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القويعية العام",
+      "location": "القويعية",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المزاحمية العام",
+      "location": "المزاحمية",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد بالخرج",
+      "location": "الخرج",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد بالمجمعة",
+      "location": "المجمعة",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سعود للأمراض الصدرية",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سلمان بن عبد العزيز",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النقاهة",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة بمدينة الملك سعود الطبية",
+      "location": "الرياض",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اليمامة",
+      "location": "",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تمير العام",
+      "location": "تمير",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ثادق العام",
+      "location": "ثادق",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حريملاء العام",
+      "location": "حريملاء",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حوطة بني تميم العام",
+      "location": "حوطة بني تميم",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حوطة سدير العام",
+      "location": "حوطة سدير",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رماح العام",
+      "location": "رماح",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رويضة العرض العام",
+      "location": "رويضة العرض",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ساجر العام",
+      "location": "ساجر",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى شقراء العام",
+      "location": "محافظة شقراء",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ضرماء",
+      "location": "ضرما",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عفيف العام",
+      "location": "محافظة عفيف",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مرات",
+      "location": "محافظة مرات",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى نفي العام",
+      "location": "نفي (الدوادمي)",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى وادي الدواسر",
+      "location": "وادي الدواسر",
+      "region": "الرياض",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى وثيلان العام",
+      "location": "وثيلان",
+      "region": "الرياض",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدوسري",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخبر",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المانع",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "almanahospital.com.sa"
+    },
+    {
+      "name": "مستشفى المانع",
+      "location": "الجبيل",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المانع",
+      "location": "الهفوف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المانع",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "الجبيل",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "القطيف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الروضة",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اليوسف",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى نبع الصحة (مستشفى الزهراء العام)",
+      "location": "القطيف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي الفيصلية، الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى جاما",
+      "location": "الظهران",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "gamahospital.com"
+    },
+    {
+      "name": "مستشفى الدمام المركزي",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "مركزي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الإمام عبد الرحمن الفيصل",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيون التخصصي",
+      "location": "الظهران",
+      "region": "الشرقية",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى دار السلامة",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرعايه - برو كير",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الموسى",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمن العام",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع الملك فهد الطبي العسكري",
+      "location": "الظهران",
+      "region": "الشرقية",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": "kfmmc.med.sa"
+    },
+    {
+      "name": "مركز الأمير سلطان لأمراض القلب",
+      "location": "الهفوف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "pscch.med.sa"
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حسين العلي",
+      "location": "الهفوف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أرامكو السعودية",
+      "location": "الظهران",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان الحبيب",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى دله",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القطيف المركزي",
+      "location": "القطيف",
+      "region": "الشرقية",
+      "type": "مركزي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عنك",
+      "location": "القطيف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الهيئة الملكية",
+      "location": "الجبيل",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "rch.med.sa"
+    },
+    {
+      "name": "مستشفى الملك فهد التخصصي",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد الجامعي",
+      "location": "الخبر",
+      "region": "الشرقية",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أرامكو السعودية",
+      "location": "رأس تنورة",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور محمد نور خان العام",
+      "location": "حفر الباطن",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد",
+      "location": "حفر الباطن",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النعيرية",
+      "location": "النعيرية",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيون التخصصي بالظهران",
+      "location": "الظهران",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مجمع الدمام الطبي",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز البابطين لامراض القلب",
+      "location": "",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى راس تنورة",
+      "location": "رأس تنورة",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الامير سلطان بمليجه",
+      "location": "مليجه",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الامير سلطان بعريعرة",
+      "location": "عريعرة",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخفجي العام",
+      "location": "الخفجي",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرفيعة",
+      "location": "",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القطيف المركزي",
+      "location": "القطيف",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع الأمل للصحة النفسية",
+      "location": "",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الجبيل العام",
+      "location": "الجبيل",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى صفوى العام",
+      "location": "صفوى",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عنك العام",
+      "location": "عنك",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قرية العليا",
+      "location": "قرية العليا",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بقيق",
+      "location": "بقيق",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد التخصصي بالدمام",
+      "location": "الدمام",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز كانو لامراض الكلي",
+      "location": "",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد العام",
+      "location": "حفر الباطن",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القيصومة العام",
+      "location": "القيصومة ، حفر الباطن",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السعيرة العام",
+      "location": "السعيرة ، حفر الباطن",
+      "region": "الشرقية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "حفر الباطن",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النقاهة",
+      "location": "حفر الباطن",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد بالهفوف",
+      "location": "الهفوف ، الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير سعود بن جلوي",
+      "location": "الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الجبر للعيون والانف والاذن والحنجرة",
+      "location": "الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مدينة العيون",
+      "location": "العيون ، الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الجفر",
+      "location": "الجفر ، الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مركز الأمير سلطان لأمراض وجراحة القلب",
+      "location": "الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى سلوى",
+      "location": "سلوى، الأحساء",
+      "region": "الشرقية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مدينة الملك عبد الله الطبية",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "مدينة",
+      "ownership": "",
+      "beds": "",
+      "website": "kamc.med.sa"
+    },
+    {
+      "name": "مدينة الملك عبد العزيز الطبية",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "مدينة",
+      "ownership": "",
+      "beds": "",
+      "website": "ngha.med.sa"
+    },
+    {
+      "name": "مستشفى الأطباء المتحدون",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "udh.sa"
+    },
+    {
+      "name": "مجموعة العبير: مستشفى حسان غزاوي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "abeermedicalgroup.com"
+    },
+    {
+      "name": "مجموعة العبير: مستشفى مجمع الهبة الطبية الجديد",
+      "location": "الأجواد، جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "abeermedicalgroup.com"
+    },
+    {
+      "name": "مستشفى الأمل",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحمراء",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى لندن",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مغربي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السلامة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الثغر",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بقشان",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان الحبيب",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى جدة الأهلي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور بخش",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى شرق جدة العام",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سمير عباس",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجمع الملك عبد الله الطبي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "مجمع",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان فقيه",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المركز الطبي الدولي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيون",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى جدة الوطني",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أندلسية",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى جامعة الملك عبد العزيز",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العرب",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الطب النفسي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الشبكة الشاملة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي الزهراء، جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي الجامعة \"حي الروابي\"، جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "المستشفى السعودي الألماني (مستشفى صبحي عبدالجليل بترجي الطبية)",
+      "location": "حي الرحاب، جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى د.هالة عيسى بن لادن",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور حسن العدواني",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ابو زنادة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور محمد عرفان",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اية",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عبداللطيف جميل",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عيادتي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الجدعاني",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فيصل التخصصي",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النور التخصصي",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجموعة العبير: المستشفى السعودي الأهلي",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "abeermedicalgroup.com"
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز التخصصي",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى جامعة الملك عبد العزيز بجدة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد للقوات المسلحة",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قوى الأمن",
+      "location": "",
+      "region": "مكة المكرمة",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى الدكتور عواض البشري",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النور التخصصي",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حراء العام",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فيصل",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أجياد الطوارئ",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "مكة المكرمة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ابن سيناء بحدا",
+      "location": "حدا",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الكامل",
+      "location": "الكامل",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى خليص",
+      "location": "خليص",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز ومركز الأورام",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سعود",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الثغر",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال (المساعدية)",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العزيزية للولادة والأطفال",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمل",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيون",
+      "location": "جدة",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رابغ العام",
+      "location": "رابغ",
+      "region": "مكة المكرمة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الليث",
+      "location": "الليث",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أضم",
+      "location": "أضم",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القنفذة العام",
+      "location": "القنفذة",
+      "region": "مكة المكرمة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد العزيز التخصصي",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فيصل",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمراض الصدرية",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأطفال",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القريع بني مالك",
+      "location": "القريع بني مالك ، الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ميسان العام",
+      "location": "ميسان ، الطائف",
+      "region": "مكة المكرمة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السحن بني سعد",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تربة",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رنية",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخرمة",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الموية العام",
+      "location": "الموية ، الطائف",
+      "region": "مكة المكرمة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ظلم",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز طب الأسنان",
+      "location": "الطائف",
+      "region": "مكة المكرمة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مدينة الملك سلمان بن عبد العزيز الطبية",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "مدينة",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مجموعة العبير: مستشفى سمير صعيدي",
+      "location": "ينبع",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "abeermedicalgroup.com"
+    },
+    {
+      "name": "مستشفى الملك فيصل التخصصي",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور حامد الأحمدي",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان فقيه",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحياة الوطني",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المواساة",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدار",
+      "location": "المدينة المنورة",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي أبيار علي",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أحد",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النساء والولادة والأطفال",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأنصار",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الطب النفسي",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الميقات",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى مدينة الحجاج",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى التأهيل الطبي",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيص",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحبمنة",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى وادي الفرع",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قطاع العلا (الأمير عبد المحسن)",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ينبع العام",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المهد",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بدر العام",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى خيبر",
+      "location": "خيبر",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قطاع الحناكية",
+      "location": "الحناكية",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ينبع النخل",
+      "location": "ينبع النخل",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز القلب",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أبو راكة",
+      "location": "",
+      "region": "المدينة المنورة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحياة الوطني",
+      "location": "خميس مشيط",
+      "region": "الجنوبية",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى خميس مشيط العسكري",
+      "location": "خميس مشيط",
+      "region": "الجنوبية",
+      "type": "عسكري",
+      "ownership": "حكومي",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى نجران الجامعي",
+      "location": "نجران",
+      "region": "نجران",
+      "type": "جامعي/تعليمي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد",
+      "location": "نجران",
+      "region": "نجران",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى نجران العام",
+      "location": "نجران",
+      "region": "نجران",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولاده والأطفال",
+      "location": "نجران",
+      "region": "نجران",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى شروره",
+      "location": "شروره",
+      "region": "نجران",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حبونا العام",
+      "location": "حبونا",
+      "region": "نجران",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحه النفسيه",
+      "location": "نجران",
+      "region": "نجران",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى يدمه العام",
+      "location": "يدمه",
+      "region": "نجران",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخرخير",
+      "location": "الخرخير",
+      "region": "نجران",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ثار العام",
+      "location": "",
+      "region": "نجران",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عرعر المركزي",
+      "location": "عرعر",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير عبد العزيز بن مساعد",
+      "location": "",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى طريف العام",
+      "location": "طريف",
+      "region": "الحدود الشمالية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية بعرعر",
+      "location": "عرعر",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العويقيلة العام",
+      "location": "العويقيلة",
+      "region": "الحدود الشمالية",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رفحاء المركزي",
+      "location": "رفحاء",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى شعبة نصاب",
+      "location": "",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النقاهة",
+      "location": "",
+      "region": "الحدود الشمالية",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير مشاري بن سعود",
+      "location": "بلجرشي",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "الباحة",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "الباحة",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بالجرشي العام",
+      "location": "محافظة بلجرشي",
+      "region": "الباحة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال ببلجرشي",
+      "location": "محافظة بلجرشي",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المندق العام",
+      "location": "المندق",
+      "region": "الباحة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المخواة العام",
+      "location": "المخواة",
+      "region": "الباحة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قلوة العام",
+      "location": "قلوة",
+      "region": "الباحة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز التشخيص والولادة بالحجرة",
+      "location": "",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العقيق العام",
+      "location": "",
+      "region": "الباحة",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية ببلجرشي",
+      "location": "محافظة بلجرشي",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النقاهة",
+      "location": "الباحة",
+      "region": "الباحة",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تثليث",
+      "location": "تثليث",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد الله",
+      "location": "بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النقاهة والصحة النفسية",
+      "location": "بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تبالة العام",
+      "location": "تبالة ، بيشة",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى وادي ترج",
+      "location": "وادي ترج ، بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى سبت العلايا",
+      "location": "سبت العلايا ، بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البشائر",
+      "location": "بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عسير المركزي",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أبها العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى خميس مشيط العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى خميس مشيط للولادة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى سراة عبيدة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أحد رفيدة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ظهران الجنوب",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بللسمر العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النماص العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى محائل",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رجال المع",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المجاردة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البرك",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القحمة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحرجة العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بللحمر",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المضة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الفرشة العام",
+      "location": "",
+      "region": "عسير",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تنومة",
+      "location": "",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي حجة عسير",
+      "region": "عسير",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مدينة الملك فيصل الطبية لخدمة المناطق الجنوبية",
+      "location": "أبها",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": "kfm.city"
+    },
+    {
+      "name": "مستشفى أبها الخاص",
+      "location": "أبها",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عسير المركزي",
+      "location": "أبها",
+      "region": "عسير",
+      "type": "مركزي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك عبد الله",
+      "location": "بيشة",
+      "region": "عسير",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور فارس الهداج",
+      "location": "سكاكا",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمير عبد الرحمن السديري",
+      "location": "",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النساء والولادة والأطفال",
+      "location": "",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى دومة الجندل العام",
+      "location": "",
+      "region": "الجوف",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى طبرجل العام",
+      "location": "",
+      "region": "الجوف",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى صوير العام (مركز صحي)",
+      "location": "",
+      "region": "الجوف",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أبو عجرم العام",
+      "location": "",
+      "region": "الجوف",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز طب الأسنان التخصصي",
+      "location": "",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القريات العام",
+      "location": "القريات",
+      "region": "الجوف",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فيصل",
+      "location": "القريات",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "القريات",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العيساوية",
+      "location": "القريات",
+      "region": "الجوف",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد التخصصي",
+      "location": "بريدة",
+      "region": "القصيم",
+      "type": "تخصصي",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى القصيم الوطني",
+      "location": "بريدة",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدكتور سليمان الحبيب",
+      "location": "بريدة",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحياة الوطني",
+      "location": "عنيزة",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد التخصصي",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بريدة المركزي",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سعود بعنيزة",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الرس العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البكيرية العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى المذنب العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى رياض الخبراء العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البدائع العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قصيباء العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الاسياح",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الشفاء بعنيزة",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى قبة العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عيون الجواء",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى عقلة الصقور",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ضريه العام",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "",
+      "region": "القصيم",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "المستشفى السعودي الألماني",
+      "location": "حي الخزامي، حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": "saudigermanhealth.com"
+    },
+    {
+      "name": "مستشفى نبع الصحة (مستشفى الأنوار الطبي)",
+      "location": "",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك سلمان التخصصي",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى سلامات الطبي",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حائل العام الجديد",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى النساء والولادة",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "حائل",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بقعاء العام",
+      "location": "بقعاء",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الشملي",
+      "location": "الشملي",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى السليمي",
+      "location": "",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى سميراء",
+      "location": "",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى موقق",
+      "location": "",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الغزالة",
+      "location": "محافظة الغزالة",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الشنان",
+      "location": "الشنان",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز القلب",
+      "location": "",
+      "region": "حائل",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك خالد المدنى",
+      "location": "تبوك",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الملك فهد",
+      "location": "تبوك",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الولادة والأطفال",
+      "location": "تبوك",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الصحة النفسية",
+      "location": "",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى البدع",
+      "location": "البدع",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى تيماء",
+      "location": "تيماء",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحوراء بأملج",
+      "location": "أملج",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الوجه",
+      "location": "",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ضباء",
+      "location": "",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى حقل",
+      "location": "",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى اشواق",
+      "location": "",
+      "region": "تبوك",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الحياة الوطني",
+      "location": "جازان",
+      "region": "جازان",
+      "type": "",
+      "ownership": "خاص",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفي الملك فهد المركزي",
+      "location": "جازان",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى جازان العام",
+      "location": "جازان",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أبو عريش",
+      "location": "أبو عريش",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى صبيا العام",
+      "location": "صبيا",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى صامطه العام",
+      "location": "صامطه",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى فرسان العام",
+      "location": "فرسان",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مركز طب الأسنان",
+      "location": "",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى أحد المسارحة",
+      "location": "أحد المسارحة",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الدرب",
+      "location": "الدرب",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بيش",
+      "location": "بيش",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى العارضة العام",
+      "location": "",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الموسم العام",
+      "location": "الموسم",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الطوال العام",
+      "location": "الطوال",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى فيفا العام",
+      "location": "",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى ضمد العام",
+      "location": "",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمراض الصدرية",
+      "location": "",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى بنى مالك العام",
+      "location": "",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الأمراض النفسية",
+      "location": "",
+      "region": "جازان",
+      "type": "",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الخوبة العام",
+      "location": "",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    },
+    {
+      "name": "مستشفى الريث العام",
+      "location": "الريث",
+      "region": "جازان",
+      "type": "عام",
+      "ownership": "",
+      "beds": "",
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "مستشفيات المملكة العربية السعودية - Free Download",
+    "description": "قائمة المستشفيات والمدن الطبية في السعودية: الموقع، المنطقة، النوع، الملكية (حكومي/خاص)، عدد الأسرة والموقع الإلكتروني. Contains 443 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مستشفيات المملكة العربية السعودية | ListBase",
+    "seo_description": "Download مستشفيات المملكة العربية السعودية — 443 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 443 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
+    ]
+  }
+}
