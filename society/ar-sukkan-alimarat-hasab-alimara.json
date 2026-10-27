@@ -1,0 +1,100 @@
+{
+  "id": "ar-sukkan-alimarat-hasab-alimara",
+  "name": "سكان الإمارات حسب الإمارة (التعدادات 1975–2005)",
+  "title": "سكان الإمارات حسب الإمارة (التعدادات 1975–2005)",
+  "description": "عدد سكان كل إمارة في دولة الإمارات العربية المتحدة حسب تعدادات 1975 و1985 و1995 و2005.",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/%D8%B3%D9%83%D8%A7%D9%86_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
+  "source_url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%83%D8%A7%D9%86_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "emirate",
+      "label": "Emirate",
+      "type": "string"
+    },
+    {
+      "key": "census_1975",
+      "label": "Census 1975",
+      "type": "number"
+    },
+    {
+      "key": "census_1985",
+      "label": "Census 1985",
+      "type": "number"
+    },
+    {
+      "key": "census_1995",
+      "label": "Census 1995",
+      "type": "number"
+    },
+    {
+      "key": "census_2005",
+      "label": "Census 2005",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "emirate": "أبوظبي",
+      "census_1975": 211812,
+      "census_1985": 566036,
+      "census_1995": 942463,
+      "census_2005": 1399484
+    },
+    {
+      "emirate": "دبي",
+      "census_1975": 183187,
+      "census_1985": 370788,
+      "census_1995": 689420,
+      "census_2005": 1321453
+    },
+    {
+      "emirate": "الشارقة",
+      "census_1975": 78790,
+      "census_1985": 228317,
+      "census_1995": 402792,
+      "census_2005": 793573
+    },
+    {
+      "emirate": "عجمان",
+      "census_1975": 16690,
+      "census_1985": 54546,
+      "census_1995": 121491,
+      "census_2005": 206997
+    },
+    {
+      "emirate": "أم القيوين",
+      "census_1975": 6908,
+      "census_1985": 19285,
+      "census_1995": 35361,
+      "census_2005": 49159
+    },
+    {
+      "emirate": "رأس الخيمة",
+      "census_1975": 43845,
+      "census_1985": 96578,
+      "census_1995": 143334,
+      "census_2005": 210063
+    },
+    {
+      "emirate": "الفجيرة",
+      "census_1975": 16655,
+      "census_1985": 43753,
+      "census_1995": 76180,
+      "census_2005": 125698
+    }
+  ],
+  "meta": {
+    "title": "سكان الإمارات حسب الإمارة (التعدادات 1975–2005) - Free Download",
+    "description": "عدد سكان كل إمارة في دولة الإمارات العربية المتحدة حسب تعدادات 1975 و1985 و1995 و2005. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سكان الإمارات حسب الإمارة (التعدادات 1975–2005) | ListBase",
+    "seo_description": "Download سكان الإمارات حسب الإمارة (التعدادات 1975–2005) — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D8%B3%D9%83%D8%A7%D9%86_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA"
+    ]
+  }
+}
