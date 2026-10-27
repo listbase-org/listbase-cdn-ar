@@ -1,0 +1,166 @@
+{
+  "id": "ar-majami-allugha-alarabiya",
+  "name": "مجامع اللغة العربية",
+  "title": "مجامع اللغة العربية",
+  "description": "قائمة مجامع اللغة العربية في الدول العربية وسنة تأسيس كل مجمع.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "مجمع اللغة العربية بدمشق",
+      "country": "سوريا",
+      "founded": 1919
+    },
+    {
+      "no": 2,
+      "name": "المجمع العلمي اللبناني",
+      "country": "لبنان",
+      "founded": 1928
+    },
+    {
+      "no": 3,
+      "name": "مجمع اللغة العربية بالقاهرة",
+      "country": "مصر",
+      "founded": 1932
+    },
+    {
+      "no": 4,
+      "name": "المجمع العلمي العراقي",
+      "country": "العراق",
+      "founded": 1947
+    },
+    {
+      "no": 5,
+      "name": "المجمع الجزائري للغة العربية",
+      "country": "الجزائر",
+      "founded": 1986
+    },
+    {
+      "no": 6,
+      "name": "مكتب تنسيق التعريب",
+      "country": "المغرب",
+      "founded": 1961
+    },
+    {
+      "no": 7,
+      "name": "مجمع اللغة العربية الأردني",
+      "country": "الأردن",
+      "founded": 1976
+    },
+    {
+      "no": 8,
+      "name": "مؤسسة بيت الحكمة",
+      "country": "تونس",
+      "founded": 1983
+    },
+    {
+      "no": 9,
+      "name": "مجمع اللغة العربية بالخرطوم",
+      "country": "السودان",
+      "founded": 1993
+    },
+    {
+      "no": 10,
+      "name": "مجمع اللغة العربية الفلسطيني",
+      "country": "فلسطين",
+      "founded": 1994
+    },
+    {
+      "no": 11,
+      "name": "مجمع اللغة العربية الليبي",
+      "country": "ليبيا",
+      "founded": 1994
+    },
+    {
+      "no": 12,
+      "name": "المجلس الأعلى للغة العربية",
+      "country": "الجزائر",
+      "founded": 1996
+    },
+    {
+      "no": 13,
+      "name": "مجمع اللغة العربية في حيفا",
+      "country": "إسرائيل",
+      "founded": 2007
+    },
+    {
+      "no": 14,
+      "name": "مجمع العربية السعيدة",
+      "country": "اليمن",
+      "founded": 2011
+    },
+    {
+      "no": 15,
+      "name": "مجمع اللغة العربية الافتراضي",
+      "country": "السعودية",
+      "founded": 2012
+    },
+    {
+      "no": 16,
+      "name": "مجمع اللغة العربية على الشبكة العالمية",
+      "country": "السعودية",
+      "founded": 2012
+    },
+    {
+      "no": 17,
+      "name": "المجمع العلمي اللغوي اليمني",
+      "country": "اليمن",
+      "founded": 2013
+    },
+    {
+      "no": 18,
+      "name": "مجمع اللغة العربية بالشارقة",
+      "country": "الإمارات العربية المتحدة",
+      "founded": 2016
+    },
+    {
+      "no": 19,
+      "name": "مجلس اللسان العربي",
+      "country": "موريتانيا",
+      "founded": 2017
+    },
+    {
+      "no": 20,
+      "name": "مجمع الملك سلمان العالمي للغة العربية",
+      "country": "السعودية",
+      "founded": 2020
+    }
+  ],
+  "meta": {
+    "title": "مجامع اللغة العربية - Free Download",
+    "description": "قائمة مجامع اللغة العربية في الدول العربية وسنة تأسيس كل مجمع. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مجامع اللغة العربية | ListBase",
+    "seo_description": "Download مجامع اللغة العربية — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9"
+    ]
+  }
+}

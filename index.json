@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:20:59.073Z",
-  "total_datasets": 442,
-  "total_records": 146918,
+  "generated": "2026-10-27T02:21:02.362Z",
+  "total_datasets": 443,
+  "total_records": 146938,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -8586,6 +8586,31 @@
         "xlsx": {
           "name": "ar-lughat_AR.xlsx",
           "size": 25271
+        }
+      }
+    },
+    {
+      "id": "ar-majami-allugha-alarabiya",
+      "name": "مجامع اللغة العربية",
+      "category": "language",
+      "record_count": 20,
+      "columns": [
+        "no",
+        "name",
+        "country",
+        "founded"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+      "updated": "2026-10",
+      "size": 4911,
+      "files": {
+        "csv": {
+          "name": "ar-majami-allugha-alarabiya_AR.csv",
+          "size": 1624
+        },
+        "xlsx": {
+          "name": "ar-majami-allugha-alarabiya_AR.xlsx",
+          "size": 7551
         }
       }
     },
