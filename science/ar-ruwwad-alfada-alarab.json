@@ -1,0 +1,115 @@
+{
+  "id": "ar-ruwwad-alfada-alarab",
+  "name": "رواد الفضاء العرب",
+  "title": "رواد الفضاء العرب",
+  "description": "قائمة رواد الفضاء العرب الذين صعدوا إلى الفضاء: الدولة، اسم الرحلة، تاريخها ومدتها.",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+  "updated": "2026-10",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "astronaut",
+      "label": "Astronaut",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "mission",
+      "label": "Mission",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "astronaut": "الأمير سلطان بن سلمان بن عبدالعزيز آل سعود",
+      "country": "السعودية",
+      "mission": "إس تي إس-51-جي",
+      "date": "17 يونيو 1985",
+      "duration": "7 ايام وساعة واحدة وثمان وثلاثون دقيقة",
+      "notes": "أول سعودي أول عربي أول مسلم يصعد إلى الفضاء."
+    },
+    {
+      "no": 2,
+      "astronaut": "محمد فارس",
+      "country": "سوريا",
+      "mission": "مير اي بي-1",
+      "date": "22 يوليو 1987",
+      "duration": "7 أيام و 23 ساعة تقريبًا",
+      "notes": "أول سوري ثاني عربي يصعد إلى الفضاء"
+    },
+    {
+      "no": 3,
+      "astronaut": "هزاع المنصوري",
+      "country": "الإمارات",
+      "mission": "سويوز أم أس-15",
+      "date": "25 سبتمبر 2019",
+      "duration": "8 أيام",
+      "notes": "أول إماراتي يصعد إلى الفضاء أول رائد فضاء عربي يذهب إلى محطة الفضاء الدولية"
+    },
+    {
+      "no": 4,
+      "astronaut": "سلطان سيف النيادي",
+      "country": "الإمارات",
+      "mission": "كرو 6 (Crew 6)",
+      "date": "2 مارس 2023",
+      "duration": "6 أشهر",
+      "notes": "ثاني إماراتي يصعد إلى الفضاء صاحب أطول مهمة فضائية في تاريخ العرب أول عربي يشارك في مهمة نشاط خارج المركبة (السير في الفضاء)"
+    },
+    {
+      "no": 5,
+      "astronaut": "علي القرني",
+      "country": "السعودية",
+      "mission": "Axiom Mission 2",
+      "date": "21 مايو 2023",
+      "duration": "10 أيام",
+      "notes": "ثاني رائد فضاء سعودي اول رائد فضاء سعودي يصعد الى محطة الفضاء الدولية"
+    },
+    {
+      "no": 6,
+      "astronaut": "ريانة برناوي",
+      "country": "السعودية",
+      "mission": "Axiom Mission 2",
+      "date": "21 مايو 2023",
+      "duration": "10 أيام",
+      "notes": "أول رائدة فضاء سعودية أول رائدة فضاء عربية"
+    }
+  ],
+  "meta": {
+    "title": "رواد الفضاء العرب - Free Download",
+    "description": "قائمة رواد الفضاء العرب الذين صعدوا إلى الفضاء: الدولة، اسم الرحلة، تاريخها ومدتها. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "رواد الفضاء العرب | ListBase",
+    "seo_description": "Download رواد الفضاء العرب — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8"
+    ]
+  }
+}

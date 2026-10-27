@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:16.965Z",
-  "total_datasets": 448,
-  "total_records": 147732,
+  "generated": "2026-10-27T02:21:20.598Z",
+  "total_datasets": 449,
+  "total_records": 147738,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -10931,6 +10931,34 @@
         "xlsx": {
           "name": "ar-faizun-jaizat-almalik-faisal-ulum_AR.xlsx",
           "size": 9367
+        }
+      }
+    },
+    {
+      "id": "ar-ruwwad-alfada-alarab",
+      "name": "رواد الفضاء العرب",
+      "category": "science",
+      "record_count": 6,
+      "columns": [
+        "no",
+        "astronaut",
+        "country",
+        "mission",
+        "date",
+        "duration",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%B1%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+      "updated": "2026-10",
+      "size": 4412,
+      "files": {
+        "csv": {
+          "name": "ar-ruwwad-alfada-alarab_AR.csv",
+          "size": 1549
+        },
+        "xlsx": {
+          "name": "ar-ruwwad-alfada-alarab_AR.xlsx",
+          "size": 7495
         }
       }
     },
