@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:02.362Z",
-  "total_datasets": 443,
-  "total_records": 146938,
+  "generated": "2026-10-27T02:21:05.295Z",
+  "total_datasets": 444,
+  "total_records": 146959,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -351,6 +351,30 @@
         "xlsx": {
           "name": "ar-akbar-alsharikat-alsaudia-forbes_AR.xlsx",
           "size": 7876
+        }
+      }
+    },
+    {
+      "id": "ar-muaddal-albitala-aldual-alarabiya",
+      "name": "معدل البطالة في الدول العربية",
+      "category": "economy",
+      "record_count": 21,
+      "columns": [
+        "rank",
+        "country",
+        "unemployment_pct"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B9%D8%AF%D9%84_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9",
+      "updated": "2026-10",
+      "size": 3862,
+      "files": {
+        "csv": {
+          "name": "ar-muaddal-albitala-aldual-alarabiya_AR.csv",
+          "size": 594
+        },
+        "xlsx": {
+          "name": "ar-muaddal-albitala-aldual-alarabiya_AR.xlsx",
+          "size": 7273
         }
       }
     },

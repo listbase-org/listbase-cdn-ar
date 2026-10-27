@@ -1,0 +1,146 @@
+{
+  "id": "ar-muaddal-albitala-aldual-alarabiya",
+  "name": "معدل البطالة في الدول العربية",
+  "title": "معدل البطالة في الدول العربية",
+  "description": "ترتيب الدول العربية حسب معدل البطالة (%).",
+  "category": "economy",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B9%D8%AF%D9%84_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B9%D8%AF%D9%84_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "unemployment_pct",
+      "label": "Unemployment Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "country": "جيبوتي",
+      "unemployment_pct": 59
+    },
+    {
+      "rank": 2,
+      "country": "اليمن",
+      "unemployment_pct": 35
+    },
+    {
+      "rank": 3,
+      "country": "فلسطين",
+      "unemployment_pct": 20.1
+    },
+    {
+      "rank": 4,
+      "country": "جزر القمر",
+      "unemployment_pct": 20
+    },
+    {
+      "rank": 5,
+      "country": "موريتانيا",
+      "unemployment_pct": 20
+    },
+    {
+      "rank": 6,
+      "country": "السودان",
+      "unemployment_pct": 18.7
+    },
+    {
+      "rank": 7,
+      "country": "العراق",
+      "unemployment_pct": 18
+    },
+    {
+      "rank": 8,
+      "country": "السعودية",
+      "unemployment_pct": 15
+    },
+    {
+      "rank": 9,
+      "country": "تونس",
+      "unemployment_pct": 14
+    },
+    {
+      "rank": 10,
+      "country": "الأردن",
+      "unemployment_pct": 13
+    },
+    {
+      "rank": 11,
+      "country": "ليبيا",
+      "unemployment_pct": 13
+    },
+    {
+      "rank": 12,
+      "country": "الجزائر",
+      "unemployment_pct": 12.9
+    },
+    {
+      "rank": 14,
+      "country": "المغرب",
+      "unemployment_pct": 10.2
+    },
+    {
+      "rank": 15,
+      "country": "لبنان",
+      "unemployment_pct": 10
+    },
+    {
+      "rank": 16,
+      "country": "سوريا",
+      "unemployment_pct": 9
+    },
+    {
+      "rank": 17,
+      "country": "مصر",
+      "unemployment_pct": 8.7
+    },
+    {
+      "rank": 18,
+      "country": "عُمان",
+      "unemployment_pct": 5
+    },
+    {
+      "rank": 13,
+      "country": "الإمارات العربية المتحدة",
+      "unemployment_pct": 4.3
+    },
+    {
+      "rank": 19,
+      "country": "البحرين",
+      "unemployment_pct": 3.5
+    },
+    {
+      "rank": 20,
+      "country": "الكويت",
+      "unemployment_pct": 2.2
+    },
+    {
+      "rank": 21,
+      "country": "قطر",
+      "unemployment_pct": 0.6
+    }
+  ],
+  "meta": {
+    "title": "معدل البطالة في الدول العربية - Free Download",
+    "description": "ترتيب الدول العربية حسب معدل البطالة (%). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "معدل البطالة في الدول العربية | ListBase",
+    "seo_description": "Download معدل البطالة في الدول العربية — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B9%D8%AF%D9%84_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9"
+    ]
+  }
+}
