@@ -1,0 +1,212 @@
+{
+  "id": "ar-aldual-alarabiya-hasab-misahat-alghabat",
+  "name": "الدول العربية حسب مساحة الغابات",
+  "title": "الدول العربية حسب مساحة الغابات",
+  "description": "ترتيب الدول العربية حسب مساحة الغابات (كم²) ونسبتها من مساحة الدولة.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA",
+  "source_url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "forest_area_km2",
+      "label": "Forest Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "pct_of_land",
+      "label": "Pct Of Land",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "country": "السودان",
+      "forest_area_km2": 183595,
+      "pct_of_land": 9.9,
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "country": "الصومال",
+      "forest_area_km2": 59800,
+      "pct_of_land": 9.5,
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "country": "المغرب",
+      "forest_area_km2": 57425,
+      "pct_of_land": 12.9,
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "country": "الجزائر",
+      "forest_area_km2": 19490,
+      "pct_of_land": 0.8,
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "country": "السعودية",
+      "forest_area_km2": 9770,
+      "pct_of_land": 0.5,
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "country": "العراق",
+      "forest_area_km2": 8250,
+      "pct_of_land": 1.9,
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "country": "تونس",
+      "forest_area_km2": 7027,
+      "pct_of_land": 4.5,
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "country": "اليمن",
+      "forest_area_km2": 5490,
+      "pct_of_land": 1,
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "country": "سوريا",
+      "forest_area_km2": 5221,
+      "pct_of_land": 2.8,
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "country": "الإمارات العربية المتحدة",
+      "forest_area_km2": 3173,
+      "pct_of_land": 4.5,
+      "notes": ""
+    },
+    {
+      "rank": 11,
+      "country": "موريتانيا",
+      "forest_area_km2": 3128,
+      "pct_of_land": 0.3,
+      "notes": ""
+    },
+    {
+      "rank": 12,
+      "country": "ليبيا",
+      "forest_area_km2": 2170,
+      "pct_of_land": 0.1,
+      "notes": ""
+    },
+    {
+      "rank": 13,
+      "country": "فلسطين",
+      "forest_area_km2": 1501,
+      "pct_of_land": 5.4,
+      "notes": "تشمل أراضي 1948."
+    },
+    {
+      "rank": 14,
+      "country": "لبنان",
+      "forest_area_km2": 1433,
+      "pct_of_land": 14,
+      "notes": ""
+    },
+    {
+      "rank": 15,
+      "country": "الأردن",
+      "forest_area_km2": 975,
+      "pct_of_land": 1.1,
+      "notes": ""
+    },
+    {
+      "rank": 16,
+      "country": "مصر",
+      "forest_area_km2": 450,
+      "pct_of_land": 0,
+      "notes": ""
+    },
+    {
+      "rank": 17,
+      "country": "جزر القمر",
+      "forest_area_km2": 329,
+      "pct_of_land": 17.7,
+      "notes": ""
+    },
+    {
+      "rank": 18,
+      "country": "الكويت",
+      "forest_area_km2": 62,
+      "pct_of_land": 0.4,
+      "notes": ""
+    },
+    {
+      "rank": 19,
+      "country": "جيبوتي",
+      "forest_area_km2": 58,
+      "pct_of_land": 0.3,
+      "notes": ""
+    },
+    {
+      "rank": 20,
+      "country": "عمان",
+      "forest_area_km2": 25,
+      "pct_of_land": 0,
+      "notes": ""
+    },
+    {
+      "rank": 21,
+      "country": "البحرين",
+      "forest_area_km2": 7,
+      "pct_of_land": 0.9,
+      "notes": ""
+    },
+    {
+      "rank": 22,
+      "country": "قطر",
+      "forest_area_km2": 0,
+      "pct_of_land": 0,
+      "notes": ""
+    },
+    {
+      "rank": "الإجمالي",
+      "country": "الإجمالي",
+      "forest_area_km2": 367980,
+      "pct_of_land": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "الدول العربية حسب مساحة الغابات - Free Download",
+    "description": "ترتيب الدول العربية حسب مساحة الغابات (كم²) ونسبتها من مساحة الدولة. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الدول العربية حسب مساحة الغابات | ListBase",
+    "seo_description": "Download الدول العربية حسب مساحة الغابات — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA"
+    ]
+  }
+}

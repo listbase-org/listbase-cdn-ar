@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:20:36.762Z",
-  "total_datasets": 435,
-  "total_records": 146396,
+  "generated": "2026-10-27T02:20:39.690Z",
+  "total_datasets": 436,
+  "total_records": 146419,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -426,6 +426,32 @@
         "xlsx": {
           "name": "ar-adad-al-sudud-hasab-al-mintaqa_AR.xlsx",
           "size": 7297
+        }
+      }
+    },
+    {
+      "id": "ar-aldual-alarabiya-hasab-misahat-alghabat",
+      "name": "الدول العربية حسب مساحة الغابات",
+      "category": "environment",
+      "record_count": 23,
+      "columns": [
+        "rank",
+        "country",
+        "forest_area_km2",
+        "pct_of_land",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%AD%D8%B3%D8%A8_%D9%85%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A7%D8%AA",
+      "updated": "2026-10",
+      "size": 5577,
+      "files": {
+        "csv": {
+          "name": "ar-aldual-alarabiya-hasab-misahat-alghabat_AR.csv",
+          "size": 932
+        },
+        "xlsx": {
+          "name": "ar-aldual-alarabiya-hasab-misahat-alghabat_AR.xlsx",
+          "size": 7601
         }
       }
     },
