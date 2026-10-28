@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:51.259Z",
-  "total_datasets": 457,
-  "total_records": 148353,
+  "generated": "2026-10-28T02:15:54.128Z",
+  "total_datasets": 458,
+  "total_records": 148421,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11097,6 +11097,33 @@
         "xlsx": {
           "name": "ar-ruwwad-alfada-alarab_AR.xlsx",
           "size": 7495
+        }
+      }
+    },
+    {
+      "id": "ar-thadiyat-misr",
+      "name": "الثدييات في مصر",
+      "category": "science",
+      "record_count": 68,
+      "columns": [
+        "name",
+        "english_name",
+        "scientific_name",
+        "habitat_egypt",
+        "order",
+        "family"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الثدييات_في_مصر",
+      "updated": "2026-10",
+      "size": 27979,
+      "files": {
+        "csv": {
+          "name": "ar-thadiyat-misr_AR.csv",
+          "size": 17185
+        },
+        "xlsx": {
+          "name": "ar-thadiyat-misr_AR.xlsx",
+          "size": 12590
         }
       }
     },

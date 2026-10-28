@@ -1,0 +1,600 @@
+{
+  "id": "ar-thadiyat-misr",
+  "name": "الثدييات في مصر",
+  "title": "الثدييات في مصر",
+  "description": "قائمة أنواع الثدييات في مصر بالاسم العربي والإنجليزي والعلمي مع الرتبة والفصيلة.",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الثدييات_في_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الثدييات_في_مصر",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "english_name",
+      "label": "English Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "habitat_egypt",
+      "label": "Habitat Egypt",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "قنفذ طويل الأذن",
+      "english_name": "قنفذ طويل الأذن",
+      "scientific_name": "Hemiechinus auritus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "فصيلة القنفذيات Family Erinaceidae"
+    },
+    {
+      "name": "قنفذ حبشي",
+      "english_name": "Ethiopean Hedgehog",
+      "scientific_name": "Paraechinus aethiopicus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "فصيلة القنفذيات Family Erinaceidae"
+    },
+    {
+      "name": "زباب قزم مصري",
+      "english_name": "Pygmy Shrew",
+      "scientific_name": "Crocidura religiosa",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "عائلة الزبابيات Family Soricidae"
+    },
+    {
+      "name": "زباب الزهور",
+      "english_name": "Flower's Shrew",
+      "scientific_name": "Crocidura floweri",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "عائلة الزبابيات Family Soricidae"
+    },
+    {
+      "name": "زباب أصغر أبيض الأسنان",
+      "english_name": "Lesser White-Toothed Shrew",
+      "scientific_name": "Crocidura suaveolens",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "عائلة الزبابيات Family Soricidae"
+    },
+    {
+      "name": "زباب المنزل",
+      "english_name": "House Shrew",
+      "scientific_name": "Crocidura murinus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "عائلة الزبابيات Family Soricidae"
+    },
+    {
+      "name": "زباب الزيتون",
+      "english_name": "أفريقي (توضيح)",
+      "scientific_name": "Crocidura olivieri",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات الحشرات Order Insectivora",
+      "family": "عائلة الزبابيات Family Soricidae"
+    },
+    {
+      "name": "ابن آوى الذهبي",
+      "english_name": "ابن آوى الذهبي",
+      "scientific_name": "Canis aureus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "ذئب رمادي",
+      "english_name": "ذئب رمادي",
+      "scientific_name": "Canis lupus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "الثعلب الأحمر",
+      "english_name": "ثعلب أحمر",
+      "scientific_name": "Vulpes vulpes",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "ثعلب روبل",
+      "english_name": "Rueppell's Sand Fox",
+      "scientific_name": "Vulpes rueppelli",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "ثعلب بلاندفورد",
+      "english_name": "Blanford's Fox",
+      "scientific_name": "Vulpes cana",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "فنك",
+      "english_name": "فنك",
+      "scientific_name": "Vulpes zerda",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "فصيلة الكلبيات Family Canidae"
+    },
+    {
+      "name": "عرسة مصرية",
+      "english_name": "ابن عرس",
+      "scientific_name": "Mustela nivalis",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة العرسيات Family Mustelidae"
+    },
+    {
+      "name": "أبو منتن",
+      "english_name": "Striped Weasel",
+      "scientific_name": "Poecilictus libyca",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة العرسيات Family Mustelidae"
+    },
+    {
+      "name": "ظربان أفريقي أو \"زوريلا\"",
+      "english_name": "ابن عرس المنتن المخطط",
+      "scientific_name": "Ictonyx striatus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة العرسيات Family Mustelidae"
+    },
+    {
+      "name": "ظربان مرقط",
+      "english_name": "Marbled Polecat",
+      "scientific_name": "Vormela peregusna",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة العرسيات Family Mustelidae"
+    },
+    {
+      "name": "زريقاء أو رَتـَم",
+      "english_name": "Small-Spotted Genet, Common Genet, European Genet",
+      "scientific_name": "Genetta genetta",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة الزباديات Family Viverridae"
+    },
+    {
+      "name": "نمس مصري",
+      "english_name": "سموريات",
+      "scientific_name": "Herpestes ichneumon",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السموريات Family Herpestidae"
+    },
+    {
+      "name": "ضبع مخطط",
+      "english_name": "Barbary Hyaena",
+      "scientific_name": "Hyaena hyaena",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة الضبعيات Family Hyaenidae"
+    },
+    {
+      "name": "عسبار",
+      "english_name": "Aardwolf",
+      "scientific_name": "Proteles cristatus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة الضبعيات Family Hyaenidae"
+    },
+    {
+      "name": "قط جبلي ليبي",
+      "english_name": "Wild Cat",
+      "scientific_name": "Felis Silvestris",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السنوريات (القططيات) Family Felidae"
+    },
+    {
+      "name": "قط بري نيلي",
+      "english_name": "تفة",
+      "scientific_name": "Felis chaus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السنوريات (القططيات) Family Felidae"
+    },
+    {
+      "name": "قط صحراوي",
+      "english_name": "قط الرمال",
+      "scientific_name": "Felis margarita",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السنوريات (القططيات) Family Felidae"
+    },
+    {
+      "name": "أم ريشات",
+      "english_name": "عناق الأرض",
+      "scientific_name": "Felis caracal",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السنوريات (القططيات) Family Felidae"
+    },
+    {
+      "name": "فهد صياد",
+      "english_name": "فهد",
+      "scientific_name": "Acinonyx jubatus",
+      "habitat_egypt": "",
+      "order": "رتبة آكلات اللحوم Order Carnivora",
+      "family": "عائلة السنوريات (القططيات) Family Felidae"
+    },
+    {
+      "name": "هـِركول",
+      "english_name": "حوت زعنفي",
+      "scientific_name": "Balaenoptera physalus",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الحيتانيات القافزة The Rorquals - Family Balaenopteridae"
+    },
+    {
+      "name": "حوت ساي",
+      "english_name": "حوت ساي",
+      "scientific_name": "Balaenoptera borealis",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الحيتانيات القافزة The Rorquals - Family Balaenopteridae"
+    },
+    {
+      "name": "حوت أحدب",
+      "english_name": "جمل البحر",
+      "scientific_name": "Megaptera novaeangliae",
+      "habitat_egypt": "تحت الفصائل الموجودة في مصر: جنس أحادي النمط Monotypic. أماكن التواجد والحالة: واسع الانتشار وعموماً مهاجر. يوجد في كل المياه من المحيطين المتجمدين إلى المياه الاستوائية. يقضي فصل الشتاء في المياه الأكثر برودة، وتنتقل للمياه الاستوائية للتوالد. هناك قبيلة Population منهم تسكن شمال المحيط الهندي قد تكون غير مترحلة. هناك حالة مسجلة واحدة في غرب البحر المتوسط. في المياه المصرية: هناك مثال جيد التسجيل لحوت أحدب يافع في جنوب خليج العقبة. هذا الحوت شوهد وصوّر أمام شاطئ دهب عام 1992 وكان حوتاً واحداً. موثق في القائمة الدولية للأجناس المهددة بالانقراض اتفاقية الإتجار الدولي بالفصائل المهددة بالانقراض (سايتس) معاهدة التجارة العالمية لأصناف الحيوان والنبات البري المهدد بالانقراض ، ومصنف كجنس معرض للانقراض من قبل الاتحاد العالمي للحفاظ على الطبيعة والمصادر الطبيعية الاتحاد الدولي لحفظ الطبيعة. ملاحظات: حوت دهب الأحدب ربما كان قد ضل طريقه أو شرد عن قبيلته في شمال المحيط الهندي.",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الحيتانيات القافزة The Rorquals - Family Balaenopteridae"
+    },
+    {
+      "name": "حوت العنبر",
+      "english_name": "حوت العنبر",
+      "scientific_name": "Physeter macrocephalus",
+      "habitat_egypt": "تحت الفصائل الموجودة في مصر: جنس أحادي النمط. أماكن التواجد والحالة: واسع الانتشار في المياه الباردة والمعتدلة والاستوائية ولكنه مهاجر وفي الشتاء يغلب وجوده في المياه الدافئة، على عكس الحوت الأحدب. في المياه المصرية: هناك حالة محتملة مسجلة لأسنان هذه الفصيلة عُثر عليها في بورسعيد عام 1909 ، وقيل أنها من حوت ضل طريقه في البحر المتوسط. وهناك حالات مسجلة في شرق البحر المتوسط حتى اليونان. غير معروف وجوده في المياه المصرية من البحر الأحمر. موثق في القائمة الدولية للأجناس المهددة بالانقراض اتفاقية الإتجار الدولي بالفصائل المهددة بالانقراض (سايتس) معاهدة التجارة العالمية لأصناف الحيوان والنبات البري المهدد بالانقراض ملاحظات: هناك حالات حديثة مسجلة لتواجد حوت العنبر في شرق المتوسط، إلا أنها ليست في المياه المصرية.",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة حيتانيات العنبر Family Physeteridae"
+    },
+    {
+      "name": "كركدن البحر",
+      "english_name": "حريش البحر",
+      "scientific_name": "Monodon monoceros",
+      "habitat_egypt": "تحت الفصائل الموجودة في مصر: جنس أحادي النمط Monotypic. أماكن التواجد والحالة: هذا الجنس يعيش في أعالي المياه القطبية الشمالية، ونادراً ما سجل جنوب أيسلندا ، وأقل ندرة حالات نزوله للجزر البريطانية. وهناك حالة واحدة من هولندا. في المياه المصرية: هناك حالة واحدة مسجلة، وربما كانت أعجب حالة في كل حالات الثدييات المصرية. ففي يوليو 1986 ، تم الامساك بكركدن بحر ذكر حي، طول نابه/قرنه 2 متر على بعد 500 متر من شاطئ رشيد ، وتم نشر صوره في الجرائد المحلية. ملاحظات: الطبيعة الفريدة للحالة المسجلة المصرية، إن صدقت، فغالباً ما ستكون لكركدن بحر عجوز اُمسك به في تيار أو ظروف جوية معاكسة. الكركدن يقال أنه حالياً متواجد في متحف رشيد ، ولكن لم يتم التأكد من ذلك.",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الحيتان البيضاء Family Monodontidae"
+    },
+    {
+      "name": "درفيل عادي",
+      "english_name": "دلفين شائع",
+      "scientific_name": "Delphinus delphis",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "درفيل قنيني الأنف",
+      "english_name": "Bottle-nosed Dolphin",
+      "scientific_name": "Tursiops truncatus",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "درفيل هندي هادي",
+      "english_name": "دلفين أبيض صيني",
+      "scientific_name": "Sousa Chinensis",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "درفيل استوائي أرقط",
+      "english_name": "دلفين مداري منقط",
+      "scientific_name": "Stenella attenuata",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "درفيل دوار",
+      "english_name": "دلفين دوار",
+      "scientific_name": "Stenella longirostris",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "درفيل ريسو",
+      "english_name": "Risso's Dolphin, Grampus",
+      "scientific_name": "Grampus griseus",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "حوت قائد قصير الزعنفة",
+      "english_name": "Short-Finned Pilot Whale",
+      "scientific_name": "Globicephala macrorhynchus",
+      "habitat_egypt": "تحت الفصائل الموجودة في مصر: غالباً جنس أحادي النمط Monotypic. أماكن التواجد والحالة: واسع الانتشار في كل البحار الاستوائية والمدارية. لم يغثر عليه في البحر المتوسط. مناطق تواجده وحالته في المياه المصرية غير مؤكدة. شوهد أمام راس محمد ، كما تم الابلاغ عن وجود أسراب كبيرة عند مدخل خليج العقبة في ربيع/صيف 1994. الحالات مسجلة جنوباً قرب الغردقة قد تشير إلى هذا الجنس أو إلى الحوت القاتل الكاذب. موثق في القائمة الدولية للأجناس المهددة بالانقراض اتفاقية الإتجار الدولي بالفصائل المهددة بالانقراض (سايتس) معاهدة التجارة العالمية لأصناف الحيوان والنبات البري المهدد بالانقراض. ملاحظات: الحوت القائد طويل الزعنفة Globicephala melas سُجّل تواجده في البحر المتوسط، ولكن ليس في المياه المصرية. وهو شديد الشبه بالحوت القائد قصير الزعنفة، إلا أن زعانفه الصدرية أطول بكثير.",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "حوت قاتل كاذب",
+      "english_name": "False Killer Whale",
+      "scientific_name": "Pseudorca crassidens",
+      "habitat_egypt": "",
+      "order": "رتبة الحيتانيات Order Cetacea",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "أطوم",
+      "english_name": "أطوم",
+      "scientific_name": "Dugong dugon",
+      "habitat_egypt": "",
+      "order": "رتبة الخيلانيات Order Sirenia",
+      "family": "عائلة الدرافيل Family Delphinidae"
+    },
+    {
+      "name": "حمار بري نوبي",
+      "english_name": "African Wild Ass, African Ass, Wild Ass",
+      "scientific_name": "Equus africanus",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات فردية الأصابع Order Perissodactyla",
+      "family": "عائلة الخيليات Family Equidae"
+    },
+    {
+      "name": "وبر صخري",
+      "english_name": "Rock Hyrax, Cape Rock Hyrax, Cape Dssie, Dassie, Coney",
+      "scientific_name": "Procavia capensis",
+      "habitat_egypt": "",
+      "order": "رتبة الوبريات Order Hyracoidea",
+      "family": "عائلة الوبر Family Procaviidae"
+    },
+    {
+      "name": "وبر أصفر الرقط",
+      "english_name": "Yellow-Spotted Rock Hyrax",
+      "scientific_name": "Heterohyrax brucei",
+      "habitat_egypt": "",
+      "order": "رتبة الوبريات Order Hyracoidea",
+      "family": "عائلة الوبر Family Procaviidae"
+    },
+    {
+      "name": "بقر وحشي أو أبو عدس",
+      "english_name": "مها أبو عدس",
+      "scientific_name": "Addax nasomaculatus",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "أبو حراب أو مها",
+      "english_name": "مها أبو حراب",
+      "scientific_name": "Oryx dammah",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "غزال دوركاس أو عفري",
+      "english_name": "غزال دوركاس",
+      "scientific_name": "Gazella dorcas",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "ريم أو غزال الرمل",
+      "english_name": "غزال نحيل القرون",
+      "scientific_name": "Gazella leptoceros",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "غزال جبلي أو إدمي",
+      "english_name": "غزال الجبل",
+      "scientific_name": "Gazella gazella",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "وعل نوبي",
+      "english_name": "وعل (جنس)",
+      "scientific_name": "Capra ibex",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "كبش بربري أو أروي",
+      "english_name": "ضأن بربري",
+      "scientific_name": "Ammotragus lervia",
+      "habitat_egypt": "",
+      "order": "رتبة الحافريات زوجية الأصابع Order Artiodactyla",
+      "family": "عائلة البقريات Family Bovidae"
+    },
+    {
+      "name": "عضل أمينة",
+      "english_name": "Giza Gerbil, Charming Dipodil",
+      "scientific_name": "Gerbillus amoenus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل أندرسون",
+      "english_name": "Anderson's Gerbil",
+      "scientific_name": "Gerbillus andersoni",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "يرابل شمال أفريقيا الكبير",
+      "english_name": "Large North African Gerbil",
+      "scientific_name": "Gerbillus campestris",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل وادي حوف",
+      "english_name": "Wagner's Gerbil",
+      "scientific_name": "Gerbillus dasyurus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "بيوض (جرذ)",
+      "english_name": "Lesser Egyptian Gerbil",
+      "scientific_name": "Gerbillus gerbillus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "دمسي",
+      "english_name": "Greater Egyptian Gerbil",
+      "scientific_name": "Gerbillus pyramidum",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل قزم",
+      "english_name": "Pygmy Gerbil, Henley's Gerbil, Pygmy Dipodil",
+      "scientific_name": "Gerbillus henleyi",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل مكليجين",
+      "english_name": "Mackilligin Gerbil",
+      "scientific_name": "Gerbillus mackilligini",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل بلوشستان",
+      "english_name": "Baluchistan Gerbil",
+      "scientific_name": "Gerbillus nanus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل بليد",
+      "english_name": "Pallid Gerbil",
+      "scientific_name": "Gerbillus perpallidus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "عضل صغير قصير الذيل",
+      "english_name": "Lesser Short-tailed Gerbil, Simon's Dipodil",
+      "scientific_name": "Gerbillus simoni",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "جرد حريري",
+      "english_name": "Silky Jird, Sundevall's Jird",
+      "scientific_name": "Meriones crassus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "جرد النقب",
+      "english_name": "Negev Jird, Buxton's Jird",
+      "scientific_name": "Meriones sacramenti",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "فأر شوكي مصري",
+      "english_name": "Cairo Spiny Mouse, Egyptian Spiny Mouse",
+      "scientific_name": "Acomys cahirinus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "فأر شوكي ذهبي",
+      "english_name": "Golden Spiny Mouse",
+      "scientific_name": "Acomys russatus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الفئران Family Muridae"
+    },
+    {
+      "name": "غـُفـْل",
+      "english_name": "Four-Toed Jerboa",
+      "scientific_name": "Allactaga tetradactyla",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الجربوعيات Family Dipodidae"
+    },
+    {
+      "name": "أبو نوارة",
+      "english_name": "Lesser Egyptian Jerboa",
+      "scientific_name": "Jaculus jaculus",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الجربوعيات Family Dipodidae"
+    },
+    {
+      "name": "قريفتي",
+      "english_name": "Greater Egyptian Jerboa",
+      "scientific_name": "Jaculus orientalis",
+      "habitat_egypt": "",
+      "order": "رتبة القوارض Order Rodentia",
+      "family": "عائلة الجربوعيات Family Dipodidae"
+    }
+  ],
+  "meta": {
+    "title": "الثدييات في مصر - Free Download",
+    "description": "قائمة أنواع الثدييات في مصر بالاسم العربي والإنجليزي والعلمي مع الرتبة والفصيلة. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الثدييات في مصر | ListBase",
+    "seo_description": "Download الثدييات في مصر — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الثدييات_في_مصر"
+    ]
+  }
+}
