@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:16:03.930Z",
-  "total_datasets": 461,
-  "total_records": 148977,
+  "generated": "2026-10-28T02:16:06.944Z",
+  "total_datasets": 462,
+  "total_records": 149126,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -8855,6 +8855,32 @@
         "xlsx": {
           "name": "ar-wathaiq-dusturiya-misr_AR.xlsx",
           "size": 14115
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-aladl-misr",
+      "name": "وزراء العدل في مصر",
+      "category": "law",
+      "record_count": 149,
+      "columns": [
+        "minister",
+        "ministry_name",
+        "term",
+        "cabinet",
+        "prime_minister"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(مصر)",
+      "updated": "2026-10",
+      "size": 45822,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-aladl-misr_AR.csv",
+          "size": 27264
+        },
+        "xlsx": {
+          "name": "ar-wuzara-aladl-misr_AR.xlsx",
+          "size": 13093
         }
       }
     },
