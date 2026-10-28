@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:16:00.987Z",
-  "total_datasets": 460,
-  "total_records": 148484,
+  "generated": "2026-10-28T02:16:03.930Z",
+  "total_datasets": 461,
+  "total_records": 148977,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11124,6 +11124,32 @@
         "xlsx": {
           "name": "ar-thadiyat-misr_AR.xlsx",
           "size": 12590
+        }
+      }
+    },
+    {
+      "id": "ar-tuyur-misr",
+      "name": "الطيور في مصر",
+      "category": "science",
+      "record_count": 493,
+      "columns": [
+        "name",
+        "scientific_name",
+        "english_name",
+        "family",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الطيور_في_مصر",
+      "updated": "2026-10",
+      "size": 99806,
+      "files": {
+        "csv": {
+          "name": "ar-tuyur-misr_AR.csv",
+          "size": 44446
+        },
+        "xlsx": {
+          "name": "ar-tuyur-misr_AR.xlsx",
+          "size": 30871
         }
       }
     },

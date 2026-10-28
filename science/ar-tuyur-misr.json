@@ -1,0 +1,3502 @@
+{
+  "id": "ar-tuyur-misr",
+  "name": "الطيور في مصر",
+  "title": "الطيور في مصر",
+  "description": "قائمة أنواع الطيور المسجلة في مصر بالاسم العربي والعلمي والإنجليزي والفصيلة.",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الطيور_في_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الطيور_في_مصر",
+  "updated": "2026-10",
+  "record_count": 493,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "english_name",
+      "label": "English Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "أبو موس",
+      "scientific_name": "Alca torda",
+      "english_name": "Razorbill",
+      "family": "أوك (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الغيط",
+      "scientific_name": "Alauda arvensis",
+      "english_name": "Sky Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الغيط الشرقية",
+      "scientific_name": "Alauda gulgula",
+      "english_name": "Oriental Sky Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة بادية مصرية",
+      "scientific_name": "Ammomanes cincturus",
+      "english_name": "Bar-tailed Desert Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "مكاء",
+      "scientific_name": "Alaemon alaudipes",
+      "english_name": "Greater Hoopoe-Lark",
+      "family": "قبرة",
+      "notes": "يعرف أيضا باسم قبرة هدهدية ، أم سالم"
+    },
+    {
+      "name": "قنبرة الصحراء",
+      "scientific_name": "Ammomanes deserti",
+      "english_name": "Desert Lark",
+      "family": "قبرة",
+      "notes": "القبرة الصحراوية"
+    },
+    {
+      "name": "قبرة قصيرة الأصابع",
+      "scientific_name": "Calandrella brachydactyla",
+      "english_name": "Greater Short-toed Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة قصيرة الأصابع صغيرة",
+      "scientific_name": "Calandrella rufescens",
+      "english_name": "Lesser Short-toed Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة طويلة المنقار",
+      "scientific_name": "Chersophilus duponti",
+      "english_name": "Dupont's Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة دن",
+      "scientific_name": "Eremalauda dunni",
+      "english_name": "Dunn's Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الصحراء المقرنة",
+      "scientific_name": "Eremophila bilopha",
+      "english_name": "Temminck's Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة سوداء متوجة",
+      "scientific_name": "Eremopterix nigriceps",
+      "english_name": "Black-crowned Sparrow-Lark",
+      "family": "قبرة",
+      "notes": "اسويد اباط"
+    },
+    {
+      "name": "قنبرة متوجة",
+      "scientific_name": "Galerida cristata",
+      "english_name": "Crested Lark",
+      "family": "قبرة",
+      "notes": "القوبعة"
+    },
+    {
+      "name": "قنبرة متوجة صغيرة المنقار",
+      "scientific_name": "Galerida theklae",
+      "english_name": "Thekla Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الغياض",
+      "scientific_name": "Lullula arborea",
+      "english_name": "Wood Lark",
+      "family": "قبرة",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الشرق كبيرة",
+      "scientific_name": "Melanocorypha bimaculata",
+      "english_name": "Bimaculated Lark",
+      "family": "قبرة",
+      "notes": "قبرة مرقطة"
+    },
+    {
+      "name": "قبرة كلاندرا",
+      "scientific_name": "Melanocorypha calandra",
+      "english_name": "Calandra Lark",
+      "family": "قبرة",
+      "notes": "قنبرة الغرب الكبيرة"
+    },
+    {
+      "name": "قنبرة مغربية",
+      "scientific_name": "Rhamphocorys clotbey",
+      "english_name": "Thick-billed Lark",
+      "family": "قبرة",
+      "notes": "Rhamphocoris clotbey"
+    },
+    {
+      "name": "صياد السمك أخضر",
+      "scientific_name": "Alcedo atthis",
+      "english_name": "Common Kingfisher",
+      "family": "صياد السمك رمادي الرأس",
+      "notes": "رفراف"
+    },
+    {
+      "name": "باز شمالي",
+      "scientific_name": "Accipiter gentilis",
+      "english_name": "Northern Goshawk",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "باشق",
+      "scientific_name": "Accipiter nisus",
+      "english_name": "Eurasian Sparrowhawk",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "نسر أسود",
+      "scientific_name": "Aegypius monachus",
+      "english_name": "Cinereous Vulture (black vulture)",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب ذهبي",
+      "scientific_name": "Aquila chrysaetos",
+      "english_name": "Golden Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب سعفاء كبرى",
+      "scientific_name": "Aquila clanga",
+      "english_name": "Greater Spotted Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب ملكي شرقي",
+      "scientific_name": "Aquila heliaca",
+      "english_name": "Imperial Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب السهول",
+      "scientific_name": "Aquila nipalensis",
+      "english_name": "Steppe Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب سعفاء صغرى",
+      "scientific_name": "Aquila pomarina",
+      "english_name": "Lesser Spotted Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب أصحم",
+      "scientific_name": "Aquila rapax",
+      "english_name": "Tawny Eagle",
+      "family": "بازيات",
+      "notes": "عقاب لموعة"
+    },
+    {
+      "name": "عقاب أسود (افريقي)",
+      "scientific_name": "Aquila verreauxii",
+      "english_name": "Verreaux's Eagle",
+      "family": "بازيات",
+      "notes": "مشابه ل عقاب أسود (أسيوي)"
+    },
+    {
+      "name": "صقر منذر",
+      "scientific_name": "Buteo augur",
+      "english_name": "Augur Buzzard",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "صقر حوام",
+      "scientific_name": "Buteo buteo",
+      "english_name": "Common Buzzard",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "صقر جراح",
+      "scientific_name": "Buteo rufinus",
+      "english_name": "Long-legged Buzzard",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب صرارة",
+      "scientific_name": "Circaetus gallicus",
+      "english_name": "Short-toed Snake-Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "مرزة المستنقعات",
+      "scientific_name": "Circus aeruginosus",
+      "english_name": "Western Marsh-Harrier",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "مرزة الدجاج",
+      "scientific_name": "Circus cyaneus",
+      "english_name": "Northern Harrier",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "مرزة باهتة",
+      "scientific_name": "Circus macrourus",
+      "english_name": "Pallid Harrier",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "مرزة مونتاجو",
+      "scientific_name": "Circus pygargus",
+      "english_name": "Montagu's Harrier",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "كوهية",
+      "scientific_name": "Elanus caeruleus",
+      "english_name": "Black-winged Kite",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "نسر أبو ذقن",
+      "scientific_name": "Gypaetus barbatus",
+      "english_name": "Lammergeier",
+      "family": "بازيات",
+      "notes": "نسر ملتحي"
+    },
+    {
+      "name": "نسر أسمر",
+      "scientific_name": "Gyps fulvus",
+      "english_name": "Eurasian Griffon",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "نسر أبقع",
+      "scientific_name": "Gyps rueppellii",
+      "english_name": "Rueppell's Griffon",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب أبيض الذنب",
+      "scientific_name": "Haliaeetus albicilla",
+      "english_name": "White-tailed Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب السمك الأفريقي",
+      "scientific_name": "Haliaeetus vocifer",
+      "english_name": "African Fish-Eagle",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب مسيرة كبرى",
+      "scientific_name": "Hieraaetus fasciatus",
+      "english_name": "Bonelli's Eagle",
+      "family": "بازيات",
+      "notes": "عقاب بونلي"
+    },
+    {
+      "name": "عقاب مسيرة صغرى",
+      "scientific_name": "Hieraaetus pennatus",
+      "english_name": "Booted Eagle",
+      "family": "بازيات",
+      "notes": "السبر"
+    },
+    {
+      "name": "باز جبار",
+      "scientific_name": "Melierax gabar",
+      "english_name": "Gabar Goshawk",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "حدأة سوداء",
+      "scientific_name": "Milvus migrans",
+      "english_name": "Black Kite",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "حدأة حمراء",
+      "scientific_name": "Milvus milvus",
+      "english_name": "Red Kite",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "رخمة مصرية",
+      "scientific_name": "Neophron percnopterus",
+      "english_name": "Egyptian Vulture",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "حوام النحل الأوربي",
+      "scientific_name": "Pernis apivorus",
+      "english_name": "European Honey-buzzard",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "حوام النحل الشرقي",
+      "scientific_name": "Pernis ptilorhyncus",
+      "english_name": "Oriental Honey-buzzard",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب حكيم",
+      "scientific_name": "Terathopius ecaudatus",
+      "english_name": "Bateleur",
+      "family": "بازيات",
+      "notes": ""
+    },
+    {
+      "name": "نسر أذون",
+      "scientific_name": "Torgos Tracheliotos",
+      "english_name": "Lappet-faced Vulture",
+      "family": "بازيات",
+      "notes": "Nubian Vulture"
+    },
+    {
+      "name": "بيدق",
+      "scientific_name": "Accipiter brevipes",
+      "english_name": "en:Levant Sparrowhawk",
+      "family": "بازيات",
+      "notes": "باشق ليفانت"
+    },
+    {
+      "name": "صقر حر",
+      "scientific_name": "Falco biarmicus",
+      "english_name": "Lanner Falcon",
+      "family": "صقريات",
+      "notes": "انظر أيضا صقر وكري"
+    },
+    {
+      "name": "صقر الغزال",
+      "scientific_name": "Falco cherrug",
+      "english_name": "Saker Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "يؤيؤ",
+      "scientific_name": "Falco columbarius",
+      "english_name": "Merlin",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "صقر الغروب",
+      "scientific_name": "Falco concolor",
+      "english_name": "Sooty Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "صقر أسحم",
+      "scientific_name": "Falco eleonorae",
+      "english_name": "Eleonora's Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "عوسق صغير",
+      "scientific_name": "Falco naumanni",
+      "english_name": "Lesser Kestrel",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "شاهين مغربي",
+      "scientific_name": "Falco pelegrinoides",
+      "english_name": "Barbary Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "شاهين",
+      "scientific_name": "Falco peregrinus",
+      "english_name": "Peregrine Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "كونج",
+      "scientific_name": "Falco subbuteo",
+      "english_name": "Eurasian Hobby",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "صقر الجراد",
+      "scientific_name": "Falco tinnunculus",
+      "english_name": "Common Kestrel",
+      "family": "صقريات",
+      "notes": "عوسق"
+    },
+    {
+      "name": "لزيق",
+      "scientific_name": "Falco vespertinus",
+      "english_name": "Red-footed Falcon",
+      "family": "صقريات",
+      "notes": ""
+    },
+    {
+      "name": "عقاب نساري",
+      "scientific_name": "Pandion haliaetus",
+      "english_name": "Osprey",
+      "family": "عقاب نساري",
+      "notes": "شماط"
+    },
+    {
+      "name": "هازجة سميكة المنقار",
+      "scientific_name": "Acrocephalus aedon",
+      "english_name": "Thick-billed Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة الغاب الكبيرة",
+      "scientific_name": "Acrocephalus arundinaceus",
+      "english_name": "Great Reed-Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة أم شارب",
+      "scientific_name": "Acrocephalus melanopogon",
+      "english_name": "Moustached Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة الماء",
+      "scientific_name": "Acrocephalus paludicola",
+      "english_name": "Aquatic Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة البطائح",
+      "scientific_name": "Acrocephalus palustris",
+      "english_name": "Marsh Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة السعد",
+      "scientific_name": "Acrocephalus schoenobaenus",
+      "english_name": "Sedge Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة الغاب",
+      "scientific_name": "Acrocephalus scirpaceus",
+      "english_name": "Eurasian Reed-Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة الغاب المصرية",
+      "scientific_name": "Acrocephalus stentoreus",
+      "english_name": "Clamorous Reed-Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة قصب بلايث",
+      "scientific_name": "Acrocephalus dumetorum",
+      "english_name": "Blyth's Reed-Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة منتعلة",
+      "scientific_name": "Hippolais caligata",
+      "english_name": "Booted Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "خنشع ليموني",
+      "scientific_name": "Hippolais icterina",
+      "english_name": "Icterine Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "خنشع الشجر",
+      "scientific_name": "Hippolais languida",
+      "english_name": "Upcher's Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "خنشع الزيتون الكبير",
+      "scientific_name": "Hippolais olivetorum",
+      "english_name": "Olive-tree Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "خنشع الزيتون",
+      "scientific_name": "Hippolais pallida",
+      "english_name": "Olivaceous Warbler",
+      "family": "Acrocephalidae",
+      "notes": ""
+    },
+    {
+      "name": "كيش (طائر)",
+      "scientific_name": "Anas clypeata",
+      "english_name": "Northern Shoveler",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز أبيض الجبهة",
+      "scientific_name": "Anser albifrons",
+      "english_name": "Greater White-fronted Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز مصري",
+      "scientific_name": "Alopochen aegyptiacus",
+      "english_name": "Egyptian Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بلبول",
+      "scientific_name": "Anas acuta",
+      "english_name": "Northern Pintail",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط بري أزرق الجناحين",
+      "scientific_name": "Anas discors",
+      "english_name": "Blue-winged Teal",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "شرشير شائع",
+      "scientific_name": "Anas crecca",
+      "english_name": "Common Teal",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط هوتنتوت",
+      "scientific_name": "Anas hottentota",
+      "english_name": "Hottentot Teal",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "صواي",
+      "scientific_name": "Anas penelope",
+      "english_name": "Eurasian Wigeon",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "خضاري (طائر)",
+      "scientific_name": "Anas platyrhynchos",
+      "english_name": "Mallard",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "شرشير صيفي",
+      "scientific_name": "Anas querquedula",
+      "english_name": "Garganey",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط سماري",
+      "scientific_name": "Anas strepera",
+      "english_name": "Gadwall",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز رمادي",
+      "scientific_name": "Anser anser",
+      "english_name": "Greylag Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز أبيض الجبهة صغير",
+      "scientific_name": "Anser erythropus",
+      "english_name": "Lesser White-fronted Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز الفول",
+      "scientific_name": "Anser fabalis",
+      "english_name": "Bean Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "حمرواي",
+      "scientific_name": "Aythya ferina",
+      "english_name": "Common Pochard",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "زرقاي",
+      "scientific_name": "Aythya fuligula",
+      "english_name": "Tufted Duck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بطة حديدية",
+      "scientific_name": "Aythya nyroca",
+      "english_name": "Ferruginous Pochard (Ferruginous Duck)",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "تم صافر",
+      "scientific_name": "Cygnus cygnus",
+      "english_name": "Whooper Swan",
+      "family": "إوزيات",
+      "notes": "تم ناعق"
+    },
+    {
+      "name": "تم أبيض",
+      "scientific_name": "Cygnus olor",
+      "english_name": "Mute Swan",
+      "family": "إوزيات",
+      "notes": "تم صامت"
+    },
+    {
+      "name": "شرشير مخطط",
+      "scientific_name": "Marmaronetta angustirostris",
+      "english_name": "Marbled Teal",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط بحري أخضر",
+      "scientific_name": "Melanitta fusca",
+      "english_name": "White-winged Scoter",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بلقشة بيضاء",
+      "scientific_name": "Mergellus albellus",
+      "english_name": "Smew",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بلقشة حمراء الصدر",
+      "scientific_name": "Mergus serrator",
+      "english_name": "Red-breasted Merganser",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "ونس",
+      "scientific_name": "Netta rufina",
+      "english_name": "Red-crested Pochard",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز قزم أفريقي",
+      "scientific_name": "Nettapus auritus",
+      "english_name": "African Pygmy-Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط أبيض الوجه",
+      "scientific_name": "Oxyura leucocephala",
+      "english_name": "White-headed Duck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط مكوأ",
+      "scientific_name": "Oxyura maccoa",
+      "english_name": "Maccoa Duck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط هارتلوب",
+      "scientific_name": "Pteronetta hartlaubii",
+      "english_name": "Hartlaub's Duck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز غامبيا",
+      "scientific_name": "Plectropterus gambensis",
+      "english_name": "Spur-winged Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بطة ذات العرف",
+      "scientific_name": "Sarkidiornis melanotos",
+      "english_name": "Comb Duck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "بط أبو فروة",
+      "scientific_name": "Tadorna ferruginea",
+      "english_name": "Ruddy Shelduck",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز أسود",
+      "scientific_name": "Branta bernicla",
+      "english_name": "Brent Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز أبيض الرأس",
+      "scientific_name": "Branta leucopsis",
+      "english_name": "Barnacle Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "إوز أحمر الصدر",
+      "scientific_name": "Branta ruficollis",
+      "english_name": "Red-breasted Goose",
+      "family": "إوزيات",
+      "notes": ""
+    },
+    {
+      "name": "شهرمان شائع",
+      "scientific_name": "Tadorna tadorna",
+      "english_name": "Common Shelduck",
+      "family": "إوزيات",
+      "notes": "شهرمان"
+    },
+    {
+      "name": "زق",
+      "scientific_name": "Anhinga melanogaster",
+      "english_name": "Oriental Darter",
+      "family": "قاذفات",
+      "notes": ""
+    },
+    {
+      "name": "زقة",
+      "scientific_name": "Anhinga rufa",
+      "english_name": "African Darter",
+      "family": "قاذفات",
+      "notes": ""
+    },
+    {
+      "name": "سمامة صغيرة",
+      "scientific_name": "Apus affinis",
+      "english_name": "Little Swift",
+      "family": "سمامة",
+      "notes": ""
+    },
+    {
+      "name": "سمامة",
+      "scientific_name": "Apus apus",
+      "english_name": "Common Swift",
+      "family": "سمامة",
+      "notes": ""
+    },
+    {
+      "name": "سمامة باهتة",
+      "scientific_name": "Apus pallidus",
+      "english_name": "Pallid Swift",
+      "family": "سمامة",
+      "notes": ""
+    },
+    {
+      "name": "سمامة النخيل",
+      "scientific_name": "Cypsiurus parvus",
+      "english_name": "African Palm-Swift",
+      "family": "سمامة",
+      "notes": ""
+    },
+    {
+      "name": "سمامة الصرود",
+      "scientific_name": "Tachymarptis melba",
+      "english_name": "Alpine Swift",
+      "family": "سمامة",
+      "notes": ""
+    },
+    {
+      "name": "بلشون أبيض كبير",
+      "scientific_name": "Ardea alba",
+      "english_name": "Great Egret",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون رمادي",
+      "scientific_name": "Ardea cinerea",
+      "english_name": "Grey Heron",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون جبار",
+      "scientific_name": "Ardea goliath",
+      "english_name": "Goliath Heron",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون إرجواني",
+      "scientific_name": "Ardea purpurea",
+      "english_name": "Purple Heron",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "واق أبيض",
+      "scientific_name": "Ardeola ralloides",
+      "english_name": "Squacco Heron",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "واق أوراسي",
+      "scientific_name": "Botaurus stellaris",
+      "english_name": "Great Bittern",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون أخضر الظهر",
+      "scientific_name": "Butorides striatus",
+      "english_name": "Striated Heron",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون أبيض صغير",
+      "scientific_name": "Egretta garzetta",
+      "english_name": "Little Egret",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون الصخر",
+      "scientific_name": "Egretta gularis",
+      "english_name": "Western Reef-Egret",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "أبو قردان",
+      "scientific_name": "Egretta ibis (Bubulcus bubulcus)",
+      "english_name": "Cattle Egret",
+      "family": "بلشونيات",
+      "notes": "Bubulcus ibis"
+    },
+    {
+      "name": "واق صغير",
+      "scientific_name": "Ixobrychus minutus",
+      "english_name": "Little Bittern",
+      "family": "بلشونيات",
+      "notes": ""
+    },
+    {
+      "name": "بلشون الليل",
+      "scientific_name": "Nycticorax nycticorax",
+      "english_name": "Black-crowned Night-Heron",
+      "family": "بلشونيات",
+      "notes": "غراب الليل"
+    },
+    {
+      "name": "كروان صحراوي",
+      "scientific_name": "Burhinus oedicnemus",
+      "english_name": "Eurasian Thick-knee",
+      "family": "كروان (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "كروان سنغالي",
+      "scientific_name": "Burhinus senegalensis",
+      "english_name": "Senegal Thick-knee",
+      "family": "كروان (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "سبد مصري",
+      "scientific_name": "Caprimulgus aegyptius",
+      "english_name": "Egyptian Nightjar",
+      "family": "طائر السبد",
+      "notes": "ملهى الرعيان"
+    },
+    {
+      "name": "سبد أوروبي",
+      "scientific_name": "Caprimulgus europaeus",
+      "english_name": "Eurasian Nightjar",
+      "family": "طائر السبد",
+      "notes": ""
+    },
+    {
+      "name": "سبد نوبي",
+      "scientific_name": "Caprimulgus nubicus",
+      "english_name": "Nubian Nightjar",
+      "family": "طائر السبد",
+      "notes": ""
+    },
+    {
+      "name": "صياد السمك أبقع",
+      "scientific_name": "Ceryle rudis",
+      "english_name": "Pied Kingfisher",
+      "family": "رفراف الماء",
+      "notes": ""
+    },
+    {
+      "name": "هازجة سيتي",
+      "scientific_name": "Cettia cetti",
+      "english_name": "Cetti's Warbler",
+      "family": "Cettiidae",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط اسكندراني",
+      "scientific_name": "Charadrius alexandrinus",
+      "english_name": "Kentish Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط قزويني",
+      "scientific_name": "Charadrius asiaticus",
+      "english_name": "Caspian Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط مطوق صغير",
+      "scientific_name": "Charadrius dubius",
+      "english_name": "Little Ringed Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط مطوق",
+      "scientific_name": "Charadrius hiaticula",
+      "english_name": "Common Ringed Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط الرمل الكبير",
+      "scientific_name": "Charadrius leschenaultii",
+      "english_name": "Greater Sand Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط الرمل صغير",
+      "scientific_name": "Charadrius mongolus",
+      "english_name": "Mongolian Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط بني",
+      "scientific_name": "Charadrius pecuarius",
+      "english_name": "Kittlitz's Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "زقزاق إجتماعي",
+      "scientific_name": "Chettusia gregaria (Vanellus gregarius)",
+      "english_name": "Sociable Plover (Sociable Lapwing)",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "زقزاق أبيض الذنب",
+      "scientific_name": "Chettusia leucura (Vanellus leucurus)",
+      "english_name": "White-tailed Lapwing (White-tailed Plover)",
+      "family": "زقزاقية",
+      "notes": "Vanellus leucurus"
+    },
+    {
+      "name": "قطقاط أوراسي",
+      "scientific_name": "Eudromias morinellus",
+      "english_name": "Eurasian Dotterel",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "زقزاق بلدي",
+      "scientific_name": "Hoplopterus spinosus (Vanellus spinosus)",
+      "english_name": "Spur-winged Plover (Spur-winged Lapwing)",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط ذهبي أوروبي",
+      "scientific_name": "Pluvialis apricaria",
+      "english_name": "European Golden-Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "قطقاط رمادي",
+      "scientific_name": "Pluvialis squatarola",
+      "english_name": "Grey Plover",
+      "family": "زقزاقية",
+      "notes": ""
+    },
+    {
+      "name": "زقزاق أخضر",
+      "scientific_name": "Vanellus vanellus",
+      "english_name": "Northern Lapwing",
+      "family": "زقزاقية",
+      "notes": "أبوطيط ذو العرف"
+    },
+    {
+      "name": "لقلق أبيض",
+      "scientific_name": "Ciconia ciconia",
+      "english_name": "White Stork",
+      "family": "لقلقية",
+      "notes": ""
+    },
+    {
+      "name": "لقلق أسود",
+      "scientific_name": "Ciconia nigra",
+      "english_name": "Black Stork",
+      "family": "لقلقية",
+      "notes": ""
+    },
+    {
+      "name": "لقلق أصفر المنقار",
+      "scientific_name": "Mycteria ibis",
+      "english_name": "Yellow-billed Stork",
+      "family": "لقلقية",
+      "notes": ""
+    },
+    {
+      "name": "فصية مروحية الذنب",
+      "scientific_name": "Cisticola juncidis",
+      "english_name": "Zitting Cisticola",
+      "family": "Cisticolidae",
+      "notes": ""
+    },
+    {
+      "name": "فصية رشيقة",
+      "scientific_name": "Prinia gracilis",
+      "english_name": "Graceful Prinia",
+      "family": "Cisticolidae",
+      "notes": "هازجة رشيقة"
+    },
+    {
+      "name": "نمنمة الشجر",
+      "scientific_name": "Scotocerca inquieta",
+      "english_name": "Streaked Scrub-Warbler",
+      "family": "Cisticolidae",
+      "notes": ""
+    },
+    {
+      "name": "حمام جبلي",
+      "scientific_name": "Columba livia",
+      "english_name": "Rock Dove",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "حمام بري",
+      "scientific_name": "Columba oenas",
+      "english_name": "Stock Pigeon",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "حمام الغابات",
+      "scientific_name": "Columba palumbus",
+      "english_name": "Common Wood-Pigeon",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "يمام بالوم",
+      "scientific_name": "Oena capensis",
+      "english_name": "Namaqua Dove",
+      "family": "يمام وحمام",
+      "notes": "يمام طويل الذنب البالوم"
+    },
+    {
+      "name": "يمام مطوق",
+      "scientific_name": "Streptopelia decaocto",
+      "english_name": "Eurasian Collared-Dove",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "قمري شرقي",
+      "scientific_name": "Streptopelia orientalis",
+      "english_name": "Oriental Turtle-Dove",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "يمام ورجي الرأس",
+      "scientific_name": "Streptopelia roseogrisea",
+      "english_name": "African Collared-Dove",
+      "family": "يمام وحمام",
+      "notes": ""
+    },
+    {
+      "name": "يمام مصري",
+      "scientific_name": "Streptopelia senegalensis",
+      "english_name": "Laughing Dove",
+      "family": "يمام وحمام",
+      "notes": "فاختة النخيل"
+    },
+    {
+      "name": "قمري",
+      "scientific_name": "Streptopelia turtur",
+      "english_name": "European Turtle-Dove",
+      "family": "يمام وحمام",
+      "notes": "حمامة السلحفاة"
+    },
+    {
+      "name": "شقراق حبشي",
+      "scientific_name": "Coracias abyssinica",
+      "english_name": "Abyssinian Roller",
+      "family": "شقراق",
+      "notes": ""
+    },
+    {
+      "name": "شقراق أوروبي",
+      "scientific_name": "Coracias garrulus",
+      "english_name": "European Roller",
+      "family": "شقراق",
+      "notes": ""
+    },
+    {
+      "name": "زاغ مقنع",
+      "scientific_name": "Corvus cornix",
+      "english_name": "Hooded crow",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "غراب مألوف",
+      "scientific_name": "Corvus corax",
+      "english_name": "Common Raven",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "زاغ الجيف",
+      "scientific_name": "Corvus corone",
+      "english_name": "Carrion Crow",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "غداف شائع",
+      "scientific_name": "Corvus frugilegus",
+      "english_name": "Rook",
+      "family": "غرابيات",
+      "notes": "غداف"
+    },
+    {
+      "name": "غراب مروحي الذنب",
+      "scientific_name": "Corvus rhipidurus",
+      "english_name": "Fan-tailed Raven",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "زاغ أبقع",
+      "scientific_name": "Corvus ruficollis",
+      "english_name": "Brown-necked Raven",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "زاغ رمادي العنق",
+      "scientific_name": "Corvus splendens",
+      "english_name": "House Crow",
+      "family": "غرابيات",
+      "notes": ""
+    },
+    {
+      "name": "مك",
+      "scientific_name": "Centropus senegalensis",
+      "english_name": "Senegal Coucal",
+      "family": "وقواق",
+      "notes": ""
+    },
+    {
+      "name": "وقواق أرقط",
+      "scientific_name": "Clamator glandarius",
+      "english_name": "Great Spotted Cuckoo",
+      "family": "وقواق",
+      "notes": ""
+    },
+    {
+      "name": "وقواق شائع",
+      "scientific_name": "Cuculus canorus",
+      "english_name": "Common Cuckoo",
+      "family": "وقواق",
+      "notes": ""
+    },
+    {
+      "name": "باتروس خجول",
+      "scientific_name": "Thalassarche cauta",
+      "english_name": "Shy Albatross",
+      "family": "قطرس",
+      "notes": ""
+    },
+    {
+      "name": "جنكور",
+      "scientific_name": "Dromas ardeola",
+      "english_name": "Crab Plover",
+      "family": "زقزاق السرطان",
+      "notes": ""
+    },
+    {
+      "name": "درسة صفراء الصدر",
+      "scientific_name": "Emberiza aureola",
+      "english_name": "Yellow-breasted Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة زرقاء اللون",
+      "scientific_name": "Emberiza caesia",
+      "english_name": "Cretzschmar's Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة القمح",
+      "scientific_name": "Emberiza calandra",
+      "english_name": "Corn Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة شامية",
+      "scientific_name": "Emberiza cineracea",
+      "english_name": "Cinereous Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة سوداء اللون",
+      "scientific_name": "Emberiza cirlus",
+      "english_name": "Cirl Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة صفراء",
+      "scientific_name": "Emberiza citrinella",
+      "english_name": "Yellowhammer",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة الشعير",
+      "scientific_name": "Emberiza hortulana",
+      "english_name": "Ortolan Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة سوداء الراس",
+      "scientific_name": "Emberiza melanocephala",
+      "english_name": "Black-headed Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة صغيرة",
+      "scientific_name": "Emberiza pusilla",
+      "english_name": "Little Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة صدئية",
+      "scientific_name": "Emberiza rustica",
+      "english_name": "Rustic Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة الغاب",
+      "scientific_name": "Emberiza schoeniclus",
+      "english_name": "Reed Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة مخططة",
+      "scientific_name": "Emberiza striolata",
+      "english_name": "House Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "درسة الصخر إفريقية",
+      "scientific_name": "Emberiza tahapisi",
+      "english_name": "Cinnamon-breasted Bunting",
+      "family": "درسة",
+      "notes": ""
+    },
+    {
+      "name": "عصفور هندي أحمر",
+      "scientific_name": "Amandava amandava",
+      "english_name": "Red Avadavat",
+      "family": "عصافير الاستريلديد",
+      "notes": ""
+    },
+    {
+      "name": "عصفور فضي المنقار",
+      "scientific_name": "Euodice cantans",
+      "english_name": "African Silverbill",
+      "family": "عصافير الاستريلديد",
+      "notes": "عصفور فضي الراس"
+    },
+    {
+      "name": "عصفور تفاحي",
+      "scientific_name": "Carduelis cannabina",
+      "english_name": "Eurasian Linnet",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "عصفور حسيني",
+      "scientific_name": "Carduelis carduelis",
+      "english_name": "European Goldfinch",
+      "family": "شرشوريات",
+      "notes": "الحسون"
+    },
+    {
+      "name": "عصفور خضيري",
+      "scientific_name": "Carduelis chloris",
+      "english_name": "European Greenfinch",
+      "family": "شرشوريات",
+      "notes": "حسون أخضر أوروبي"
+    },
+    {
+      "name": "عصفور سميلي",
+      "scientific_name": "Carduelis spinus",
+      "english_name": "Eurasian Siskin",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "عصفور وردي",
+      "scientific_name": "Carpodacus erythrinus",
+      "english_name": "Common Rosefinch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "عصفور وردي سينائي",
+      "scientific_name": "Carpodacus synoicus",
+      "english_name": "Pale Rosefinch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "بلبل زيتوني",
+      "scientific_name": "Coccothraustes coccothraustes",
+      "english_name": "Hawfinch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "حسون الظالم",
+      "scientific_name": "Fringilla coelebs",
+      "english_name": "Chaffinch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "عصفور زغاري",
+      "scientific_name": "Fringilla montifringilla",
+      "english_name": "Brambling",
+      "family": "شرشوريات",
+      "notes": "شرشور - شرشور جبلي"
+    },
+    {
+      "name": "زمير وردي",
+      "scientific_name": "Rhodopechys githaginea",
+      "english_name": "Trumpeter Finch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "عصفور البادية",
+      "scientific_name": "Rhodopechys obsoleta",
+      "english_name": "Desert Finch",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "نعار أحمر الجبهة",
+      "scientific_name": "Serinus pusillus",
+      "english_name": "Fire-fronted Serin",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "نعار أوروبي",
+      "scientific_name": "Serinus serinus",
+      "english_name": "European Serin",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "نعار سوري",
+      "scientific_name": "Serinus syriacus",
+      "english_name": "Syrian Serin",
+      "family": "شرشوريات",
+      "notes": ""
+    },
+    {
+      "name": "جليل",
+      "scientific_name": "Cursorius cursor",
+      "english_name": "Cream-colored Courser",
+      "family": "أبو اليسر",
+      "notes": ""
+    },
+    {
+      "name": "أبو اليسر شرقي",
+      "scientific_name": "Glareola maldivarum",
+      "english_name": "Oriental Pratincole",
+      "family": "أبو اليسر",
+      "notes": ""
+    },
+    {
+      "name": "أبواليسر أسود الجناح",
+      "scientific_name": "Glareola nordmanni",
+      "english_name": "Black-winged Pratincole",
+      "family": "أبو اليسر",
+      "notes": ""
+    },
+    {
+      "name": "أبو اليسر مطوق",
+      "scientific_name": "Glareola pratincola",
+      "english_name": "Collared Pratincole",
+      "family": "أبو اليسر",
+      "notes": ""
+    },
+    {
+      "name": "رهو",
+      "scientific_name": "Anthropoides virgo",
+      "english_name": "Demoiselle Cran",
+      "family": "كركي",
+      "notes": ""
+    },
+    {
+      "name": "كركي متوج",
+      "scientific_name": "Balearica pavonina",
+      "english_name": "Black Crowned-Crane",
+      "family": "كركي",
+      "notes": ""
+    },
+    {
+      "name": "كركي آنسة",
+      "scientific_name": "Grus virgo",
+      "english_name": "Demoiselle Crane",
+      "family": "كركي",
+      "notes": ""
+    },
+    {
+      "name": "كركي رمادي",
+      "scientific_name": "Grus grus",
+      "english_name": "Common Crane",
+      "family": "كركي",
+      "notes": ""
+    },
+    {
+      "name": "أكل المحار",
+      "scientific_name": "Haematopus ostralegus",
+      "english_name": "Eurasian Oystercatcher",
+      "family": "صائد المحار",
+      "notes": ""
+    },
+    {
+      "name": "قاوند",
+      "scientific_name": "Halcyon smyrnensis",
+      "english_name": "White-throated Kingfisher",
+      "family": "رفراف الشجر",
+      "notes": ""
+    },
+    {
+      "name": "سنونو أبيض البطن",
+      "scientific_name": "Delichon urbica",
+      "english_name": "Northern House-Martin",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الجنة أحمر العجز",
+      "scientific_name": "Hirundo daurica",
+      "english_name": "Red-rumped Swallow",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "سنونو الصخر",
+      "scientific_name": "Hirundo fuligula",
+      "english_name": "Rock Martin",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "سنونو شاحب الزور",
+      "scientific_name": "Hirundo obsoleta",
+      "english_name": "Pale Crag-Martin",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "سنونو الجرف أوراسي",
+      "scientific_name": "Hirundo rupestris",
+      "english_name": "Eurasian Crag-Martin",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الجنة",
+      "scientific_name": "Hirundo rustica",
+      "english_name": "Barn Swallow",
+      "family": "سنونو",
+      "notes": "خطاف"
+    },
+    {
+      "name": "سنونو الرمل",
+      "scientific_name": "Riparia riparia",
+      "english_name": "Sand Martin",
+      "family": "سنونو",
+      "notes": ""
+    },
+    {
+      "name": "طائر نوء ويلسون",
+      "scientific_name": "Oceanites oceanicus",
+      "english_name": "Wilson's Storm-Petrel",
+      "family": "طيور النوء",
+      "notes": ""
+    },
+    {
+      "name": "طائر النؤ أبيض العجز",
+      "scientific_name": "Oceanodroma leucorhoa",
+      "english_name": "Leach's Storm-Petrel",
+      "family": "طيور النوء",
+      "notes": ""
+    },
+    {
+      "name": "خناق رمادي",
+      "scientific_name": "Hypocolius ampelinus",
+      "english_name": "Grey Hypocolius",
+      "family": "خناق رمادي",
+      "notes": ""
+    },
+    {
+      "name": "مرشد العسل شاحب",
+      "scientific_name": "Indicator meliphilus",
+      "english_name": "Pallid Honeyguide",
+      "family": "مرشد العسل",
+      "notes": ""
+    },
+    {
+      "name": "صرد رمادي كبير",
+      "scientific_name": "Lanius excubitor",
+      "english_name": "Great grey shrike",
+      "family": "دقنوش",
+      "notes": ""
+    },
+    {
+      "name": "دقناش وردي الصدر",
+      "scientific_name": "Rhodophoneus cruentus",
+      "english_name": "Rosy-patched Bushshrike",
+      "family": "دقناش الشجر",
+      "notes": ""
+    },
+    {
+      "name": "دقناش أشهب",
+      "scientific_name": "Lanius isabellinus",
+      "english_name": "Rufous-tailed Shrike",
+      "family": "دقنوش",
+      "notes": "صرد محمر الذنب"
+    },
+    {
+      "name": "دقناش أكحل",
+      "scientific_name": "Lanius collurio",
+      "english_name": "Red-backed Shrike",
+      "family": "دقنوش",
+      "notes": "الرماني (طير)"
+    },
+    {
+      "name": "دقناش صردي",
+      "scientific_name": "Lanius minor",
+      "english_name": "Lesser Grey Shrike",
+      "family": "دقنوش",
+      "notes": ""
+    },
+    {
+      "name": "دقناش قبطي",
+      "scientific_name": "Lanius nubicus",
+      "english_name": "Masked Shrike",
+      "family": "دقنوش",
+      "notes": ""
+    },
+    {
+      "name": "دقناش أوروبي",
+      "scientific_name": "Lanius senator",
+      "english_name": "Woodchat Shrike",
+      "family": "دقنوش",
+      "notes": ""
+    },
+    {
+      "name": "نورس أرميني",
+      "scientific_name": "Larus armenicus",
+      "english_name": "Armenian Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أدوين",
+      "scientific_name": "Larus audouinii",
+      "english_name": "Audouin's Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أصفر القدم",
+      "scientific_name": "Larus cachinnans",
+      "english_name": "Yellow-legged Gull",
+      "family": "نورس",
+      "notes": "نورس أصفر الساق"
+    },
+    {
+      "name": "نورس شائع",
+      "scientific_name": "Larus canus",
+      "english_name": "Common Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس دغبة",
+      "scientific_name": "Larus fuscus",
+      "english_name": "Lesser Black-backed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس قرقطي",
+      "scientific_name": "Larus genei",
+      "english_name": "Slender-billed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أسحم",
+      "scientific_name": "Larus hemprichii",
+      "english_name": "Sooty Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس السمك",
+      "scientific_name": "Larus ichthyaetus",
+      "english_name": "Great Black-headed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس عجمة",
+      "scientific_name": "Larus leucophthalmus",
+      "english_name": "White-eyed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أسود الظهر كبير",
+      "scientific_name": "Larus marinus",
+      "english_name": "Great Black-backed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس البحر المتوسط",
+      "scientific_name": "Larus melanocephalus",
+      "english_name": "Mediterranean Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس صغير",
+      "scientific_name": "Larus minutus",
+      "english_name": "Little Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أسود الرأس",
+      "scientific_name": "Larus ridibundus",
+      "english_name": "Black-headed Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس أسود القدم",
+      "scientific_name": "Rissa tridactyla",
+      "english_name": "Black-legged Kittiwake",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "نورس سابيني",
+      "scientific_name": "Xema sabini",
+      "english_name": "Sabine's Gull",
+      "family": "نورس",
+      "notes": ""
+    },
+    {
+      "name": "هازجة النهر",
+      "scientific_name": "Locustella fluviatilis",
+      "english_name": "Eurasian River Warbler",
+      "family": "Locustellidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة المستنقع",
+      "scientific_name": "Locustella luscinioides",
+      "english_name": "Savi's Warbler",
+      "family": "Locustellidae",
+      "notes": ""
+    },
+    {
+      "name": "هازجة الجراد",
+      "scientific_name": "Locustella naevia",
+      "english_name": "Common Grasshopper-Warbler",
+      "family": "Locustellidae",
+      "notes": ""
+    },
+    {
+      "name": "بربيت صفراء مرقطة",
+      "scientific_name": "Buccanodon duchaillui",
+      "english_name": "Yellow-spotted Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت مذدوج الاسنان",
+      "scientific_name": "Lybius bidentatus",
+      "english_name": "Double-toothed Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت سوداء المنقار",
+      "scientific_name": "Lybius guifsobalito",
+      "english_name": "Black-billed Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت أبيض الرأس",
+      "scientific_name": "Lybius leucocephalus",
+      "english_name": "White-headed Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت بني الصدر",
+      "scientific_name": "Lybius melanopterus",
+      "english_name": "Brown-breasted Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت سوداء الصدر",
+      "scientific_name": "Lybius rolleti",
+      "english_name": "Black-breasted Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت حمراء الوجه",
+      "scientific_name": "Lybius rubrifacies",
+      "english_name": "Red-faced Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "بربيت أسود الطوق",
+      "scientific_name": "Lybius torquatus",
+      "english_name": "Black-collared Barbet",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "ملهوج أحمر العجز",
+      "scientific_name": "Pogoniulus atroflavus",
+      "english_name": "Red-rumped Tinkerbird",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "ملهوج أصفر العجز",
+      "scientific_name": "Pogoniulus bilineatus",
+      "english_name": "Yellow-rumped Tinkerbird",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "ملهوج أصفر الجبهة",
+      "scientific_name": "Pogoniulus chrysoconus",
+      "english_name": "Yellow-fronted Tinkerbird",
+      "family": "بربيت أفريقي",
+      "notes": ""
+    },
+    {
+      "name": "وروار أوروبي",
+      "scientific_name": "Merops apiaster",
+      "english_name": "European Bee-eater",
+      "family": "وروارية",
+      "notes": "صقرقع"
+    },
+    {
+      "name": "خضير مصري",
+      "scientific_name": "Merops orientalis",
+      "english_name": "Green Bee-eater",
+      "family": "وروار",
+      "notes": "آكل النحل الأخضر الصغير"
+    },
+    {
+      "name": "وروار عراقي",
+      "scientific_name": "Merops persicus",
+      "english_name": "Blue-cheeked Bee-eater",
+      "family": "وروار",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية الصحراء",
+      "scientific_name": "Anthus campestris",
+      "english_name": "Tawny Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية أحمر الزور",
+      "scientific_name": "Anthus cervinus",
+      "english_name": "Red-throated Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية أفريقي",
+      "scientific_name": "Anthus cinnamomeus",
+      "english_name": "African Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية الغيط",
+      "scientific_name": "Anthus pratensis",
+      "english_name": "Meadow Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية كبير",
+      "scientific_name": "Anthus richardi",
+      "english_name": "Richard's Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية الماء",
+      "scientific_name": "Anthus spinoletta",
+      "english_name": "Water Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصية الشجر",
+      "scientific_name": "Anthus trivialis",
+      "english_name": "Tree Pipit",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبوفصادة أبقع",
+      "scientific_name": "Motacilla aguimp",
+      "english_name": "African Pied Wagtail",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبوفصادة أبيض",
+      "scientific_name": "Motacilla alba",
+      "english_name": "White Wagtail",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": "السلحوت - ذعرة بيضاء"
+    },
+    {
+      "name": "أبوفصادة رمادي",
+      "scientific_name": "Motacilla cinerea",
+      "english_name": "Grey Wagtail",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبوفصادة ليموني",
+      "scientific_name": "Motacilla citreola",
+      "english_name": "Citrine Wagtail",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": ""
+    },
+    {
+      "name": "أبو فصادة أصفر",
+      "scientific_name": "Motacilla flava",
+      "english_name": "Yellow Wagtail",
+      "family": "طيور التمرة وأم عجلان",
+      "notes": "صعوة—ذعرة صفراء"
+    },
+    {
+      "name": "قليعي أسود الذنب",
+      "scientific_name": "Cercomela melanura",
+      "english_name": "Blackstart",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "دخلة حمراء",
+      "scientific_name": "Cercotrichas galactotes",
+      "english_name": "Rufous-tailed Scrub-Robin",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبو الحنا",
+      "scientific_name": "Erithacus rubecula",
+      "english_name": "European Robin",
+      "family": "صائدة الذباب",
+      "notes": "أبو الحناء الأوروبي"
+    },
+    {
+      "name": "خطاف الذباب مطوق",
+      "scientific_name": "Ficedula albicollis",
+      "english_name": "Collared Flycatcher",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "خطاف الذباب أبقع",
+      "scientific_name": "Ficedula hypoleuca",
+      "english_name": "European Pied Flycatcher",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "خطاف الذباب أحمر الصدر",
+      "scientific_name": "Ficedula parva",
+      "english_name": "Red-breasted Flycatcher",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "خطاف الذباب شبه مطوق",
+      "scientific_name": "Ficedula semitorquata",
+      "english_name": "Semicollared Flycatcher",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبو الحنا أبيض الزور",
+      "scientific_name": "Irania gutturalis",
+      "english_name": "White-throated Robin",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "عندليب",
+      "scientific_name": "Luscinia luscinia",
+      "english_name": "Thrush Nightingale",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "هزار",
+      "scientific_name": "Luscinia megarhynchos",
+      "english_name": "Common Nightingale",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "حسيني",
+      "scientific_name": "Luscinia svecica",
+      "english_name": "Bluethroat",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "سكلة",
+      "scientific_name": "Monticola saxatilis",
+      "english_name": "Rufous-tailed Rock-Thrush",
+      "family": "صائدة الذباب",
+      "notes": "السمنة الزيانية - سمنة الصخور"
+    },
+    {
+      "name": "سكلة زرقاء",
+      "scientific_name": "Monticola solitarius",
+      "english_name": "Blue Rock-Thrush",
+      "family": "صائدة الذباب",
+      "notes": "السمنة الشيانية - سمنة الصخور الزرقاء"
+    },
+    {
+      "name": "خطاف الذباب الأنقط",
+      "scientific_name": "Muscicapa striata",
+      "english_name": "Spotted Flycatcher",
+      "family": "صائدة الذباب",
+      "notes": "الذبابي"
+    },
+    {
+      "name": "أبلق قبرصي",
+      "scientific_name": "Oenanthe cypriaca",
+      "english_name": "Cyprus Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق الصحراء",
+      "scientific_name": "Oenanthe deserti",
+      "english_name": "Desert Wheatear",
+      "family": "صائدة الذباب",
+      "notes": "الحطيبي"
+    },
+    {
+      "name": "أبلق عربي",
+      "scientific_name": "Oenanthe finschii",
+      "english_name": "Finsch's Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أسود الأذن",
+      "scientific_name": "Oenanthe hispanica",
+      "english_name": "Black-eared Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أشهب",
+      "scientific_name": "Oenanthe isabellina",
+      "english_name": "Isabelline Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أسود أبيض الرأس",
+      "scientific_name": "Oenanthe leucopyga",
+      "english_name": "White-tailed Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق حزين",
+      "scientific_name": "Oenanthe lugens",
+      "english_name": "Mourning Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أحمر العجز",
+      "scientific_name": "Oenanthe moesta",
+      "english_name": "Red-rumped Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "ابلق أبو طاقية",
+      "scientific_name": "Oenanthe monacha",
+      "english_name": "Hooded Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أوروبي",
+      "scientific_name": "Oenanthe oenanthe",
+      "english_name": "Northern Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أبقع",
+      "scientific_name": "Oenanthe pleschanka",
+      "english_name": "Pied Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "أبلق أحمر الذنب",
+      "scientific_name": "Oenanthe xanthoprymna",
+      "english_name": "Rufous-tailed Wheatear",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "فرخ السمن",
+      "scientific_name": "Phoenicurus ochruros",
+      "english_name": "Black Redstart",
+      "family": "صائدة الذباب",
+      "notes": "حميراء سوداء"
+    },
+    {
+      "name": "حميراء",
+      "scientific_name": "Phoenicurus phoenicurus",
+      "english_name": "Common Redstart",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "قليعي أحمر",
+      "scientific_name": "Saxicola rubetra",
+      "english_name": "Whinchat",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "قليعي مطوق",
+      "scientific_name": "Saxicola torquata",
+      "english_name": "Common Stonechat",
+      "family": "صائدة الذباب",
+      "notes": ""
+    },
+    {
+      "name": "تمير وادي النيل",
+      "scientific_name": "Anthreptes metallicus",
+      "english_name": "Nile Valley Sunbird",
+      "family": "تمير (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "تمير وادي النيل",
+      "scientific_name": "Anthreptes platurus",
+      "english_name": "Pygmy Sunbird",
+      "family": "تمير (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "تمير حبشي",
+      "scientific_name": "Nectarinia habessinica",
+      "english_name": "Shining Sunbird",
+      "family": "تمير (فصيلة طيور)",
+      "notes": ""
+    },
+    {
+      "name": "تمير عربي",
+      "scientific_name": "Nectarinia osea",
+      "english_name": "Palestine Sunbird",
+      "family": "تمير (فصيلة طيور)",
+      "notes": "تمير فلسطين"
+    },
+    {
+      "name": "صفير",
+      "scientific_name": "Oriolus oriolus",
+      "english_name": "Eurasian Golden-Oriole",
+      "family": "طيور الصفارية",
+      "notes": ""
+    },
+    {
+      "name": "حباري",
+      "scientific_name": "Chlamydotis undulata",
+      "english_name": "Houbara Bustard",
+      "family": "حباريات",
+      "notes": ""
+    },
+    {
+      "name": "حبارى كبرى",
+      "scientific_name": "Otis tarda",
+      "english_name": "Great Bustard",
+      "family": "حباريات",
+      "notes": ""
+    },
+    {
+      "name": "حباري صغيرة",
+      "scientific_name": "Tetrax tetrax",
+      "english_name": "Little Bustard",
+      "family": "حباريات",
+      "notes": ""
+    },
+    {
+      "name": "قرقف أبو ذقن",
+      "scientific_name": "Panurus biarmicus",
+      "english_name": "Bearded Reedling",
+      "family": "قرقف أبو ذقن",
+      "notes": ""
+    },
+    {
+      "name": "قرقف كبير",
+      "scientific_name": "Parus major",
+      "english_name": "Great Tit",
+      "family": "قرقف",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الصخر الباهت",
+      "scientific_name": "Carpospiza brachydactyla",
+      "english_name": "Pale Rockfinch",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور دوري",
+      "scientific_name": "Passer domesticus",
+      "english_name": "House Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور أسباني",
+      "scientific_name": "Passer hispaniolensis",
+      "english_name": "Spanish Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور ذهبي",
+      "scientific_name": "Passer luteus",
+      "english_name": "Sudan Golden-Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور البحر الميت",
+      "scientific_name": "Passer moabiticus",
+      "english_name": "Dead Sea Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الشجر",
+      "scientific_name": "Passer montanus",
+      "english_name": "Eurasian Tree Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الصحراء",
+      "scientific_name": "Passer simplex",
+      "english_name": "Desert Sparrow",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الصخر الباهت",
+      "scientific_name": "Petronia brachydactyla",
+      "english_name": "Pale Rockfinch",
+      "family": "عصفور الدوري",
+      "notes": ""
+    },
+    {
+      "name": "بجع بلقاني",
+      "scientific_name": "Pelecanus crispus",
+      "english_name": "Dalmatian Pelican",
+      "family": "بجعة",
+      "notes": ""
+    },
+    {
+      "name": "بجع أبيض",
+      "scientific_name": "Pelecanus onocrotalus",
+      "english_name": "Great White Pelican",
+      "family": "بجعة",
+      "notes": ""
+    },
+    {
+      "name": "بجع رمادي",
+      "scientific_name": "Pelecanus rufescens",
+      "english_name": "Pink-backed Pelican",
+      "family": "بجعة",
+      "notes": ""
+    },
+    {
+      "name": "رئيس البحر أحمر المنقار",
+      "scientific_name": "Phaethon aethereus",
+      "english_name": "Red-billed Tropicbird",
+      "family": "طيور إستوائية",
+      "notes": ""
+    },
+    {
+      "name": "غاق شائع",
+      "scientific_name": "Phalacrocorax aristotelis",
+      "english_name": "European Shag",
+      "family": "غاقيات",
+      "notes": ""
+    },
+    {
+      "name": "غراب البحر",
+      "scientific_name": "Phalacrocorax carbo",
+      "english_name": "Great Cormorant",
+      "family": "غاقيات",
+      "notes": ""
+    },
+    {
+      "name": "شنار شوكار",
+      "scientific_name": "Alectoris chukar",
+      "english_name": "Chukar",
+      "family": "سماني",
+      "notes": ""
+    },
+    {
+      "name": "شنار مغربي",
+      "scientific_name": "Alectoris barbara",
+      "english_name": "Barbary Partridge",
+      "family": "سماني",
+      "notes": "حجل بربري"
+    },
+    {
+      "name": "حجل الرمل",
+      "scientific_name": "Ammoperdix heyi",
+      "english_name": "Sand Partridge",
+      "family": "سماني",
+      "notes": ""
+    },
+    {
+      "name": "سمان",
+      "scientific_name": "Coturnix coturnix",
+      "english_name": "Common Quail",
+      "family": "سماني",
+      "notes": ""
+    },
+    {
+      "name": "بشاروش",
+      "scientific_name": "Phoenicopterus ruber",
+      "english_name": "Greater Flamingo",
+      "family": "نحامية",
+      "notes": "نحام الكاريبي—النحام الكبير"
+    },
+    {
+      "name": "نقشارة صفراء العجز",
+      "scientific_name": "Phylloscopus bonelli",
+      "english_name": "Western Bonelli's Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "سكسكة",
+      "scientific_name": "Phylloscopus collybita",
+      "english_name": "Eurasian Chiffchaff",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقشارة غبراء",
+      "scientific_name": "Phylloscopus fuscatus",
+      "english_name": "Dusky Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقشارة صفراء الحاجب",
+      "scientific_name": "Phylloscopus inornatus",
+      "english_name": "Inornate Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقشارة بونلي الشرقية",
+      "scientific_name": "Phylloscopus orientalis",
+      "english_name": "Eastern Bonelli's Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقشارة الشجر",
+      "scientific_name": "Phylloscopus sibilatrix",
+      "english_name": "Wood Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقشارة الصفصاف",
+      "scientific_name": "Phylloscopus trochilus",
+      "english_name": "Willow Warbler",
+      "family": "Phylloscopidae",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب أرقط الزور",
+      "scientific_name": "Campethera scriptoricauda",
+      "english_name": "Reichenow's Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب تولربج",
+      "scientific_name": "Campethera tullbergi",
+      "english_name": "Tullberg's Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب السوري",
+      "scientific_name": "Dendrocopos syriacus",
+      "english_name": "Syrian Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب رمادي الرأس",
+      "scientific_name": "Dendropicos spodocephalus",
+      "english_name": "Grey-headed Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب ستيرلنج",
+      "scientific_name": "Dendropicos stierlingi",
+      "english_name": "Stierling's Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "نقار الخشب ذهبي التاج",
+      "scientific_name": "Dendropicos xantholophus",
+      "english_name": "Golden-crowned Woodpecker",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "لواء أحمر الزور",
+      "scientific_name": "Jynx ruficollis",
+      "english_name": "Rufous-necked Wryneck",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "لواء أوراسي",
+      "scientific_name": "Jynx torquilla",
+      "english_name": "Eurasian Wryneck",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "ساسيا أفريقية",
+      "scientific_name": "Sasia africana",
+      "english_name": "African Piculet",
+      "family": "نقار الخشب",
+      "notes": ""
+    },
+    {
+      "name": "عصفور نساج مخطط",
+      "scientific_name": "Ploceus manyar",
+      "english_name": "Streaked Weaver",
+      "family": "الحباك",
+      "notes": ""
+    },
+    {
+      "name": "قطاط مصري",
+      "scientific_name": "Pluvianus aegyptius",
+      "english_name": "Egyptian Plover",
+      "family": "قطاط مصري",
+      "notes": ""
+    },
+    {
+      "name": "غطاس متوج",
+      "scientific_name": "Podiceps cristatus",
+      "english_name": "Great Crested Grebe",
+      "family": "غطاسيات",
+      "notes": ""
+    },
+    {
+      "name": "غطاس أحمر الرقبة",
+      "scientific_name": "Podiceps grisegena",
+      "english_name": "Red-necked Grebe",
+      "family": "غطاسيات",
+      "notes": ""
+    },
+    {
+      "name": "غطاس أسود الرقبة",
+      "scientific_name": "Podiceps nigricollis",
+      "english_name": "Black-necked Grebe",
+      "family": "غطاسيات",
+      "notes": ""
+    },
+    {
+      "name": "زهوت",
+      "scientific_name": "Tachybaptus ruficollis",
+      "english_name": "Little Grebe",
+      "family": "غطاسيات",
+      "notes": ""
+    },
+    {
+      "name": "جلم ماء أسحم",
+      "scientific_name": "Puffinus griseus",
+      "english_name": "Sooty Shearwater",
+      "family": "طيور بترل",
+      "notes": ""
+    },
+    {
+      "name": "جلم ماء مانكس",
+      "scientific_name": "Puffinus puffinus",
+      "english_name": "Manx Shearwater",
+      "family": "طيور بترل",
+      "notes": ""
+    },
+    {
+      "name": "جلم ماء البحر المتوسط",
+      "scientific_name": "Puffinus yelkouan",
+      "english_name": "Mediterranean Shearwater",
+      "family": "طيور بترل",
+      "notes": ""
+    },
+    {
+      "name": "جلم الماء الكبير",
+      "scientific_name": "Calonectris diomedea",
+      "english_name": "Cory's Shearwater",
+      "family": "طيور بترل",
+      "notes": ""
+    },
+    {
+      "name": "عصفور الشوك",
+      "scientific_name": "Prunella modularis",
+      "english_name": "Hedge Accentor",
+      "family": "Prunellidae",
+      "notes": ""
+    },
+    {
+      "name": "باراكيت أخضر",
+      "scientific_name": "Psittacula krameri",
+      "english_name": "Rose-ringed Parakeet",
+      "family": "Psittaculidae",
+      "notes": "درة هندية مطوقة"
+    },
+    {
+      "name": "قطا عراقي",
+      "scientific_name": "Pterocles alchata",
+      "english_name": "Pin-tailed Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "قطا متوج",
+      "scientific_name": "Pterocles coronatus",
+      "english_name": "Crowned Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "قطا كستنائي البطن",
+      "scientific_name": "Pterocles exustus",
+      "english_name": "Chestnut-bellied Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "قطا مخطط",
+      "scientific_name": "Pterocles lichtensteinii",
+      "english_name": "Lichtenstein's Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "قطا أسود البطن",
+      "scientific_name": "Pterocles orientalis",
+      "english_name": "Black-bellied Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "قطا مرقط",
+      "scientific_name": "Pterocles senegallus",
+      "english_name": "Spotted Sandgrouse",
+      "family": "قطويات",
+      "notes": ""
+    },
+    {
+      "name": "بلبل شائع",
+      "scientific_name": "Pycnonotus barbatus",
+      "english_name": "Garden Bulbul",
+      "family": "بلبل",
+      "notes": ""
+    },
+    {
+      "name": "بلبل عربي",
+      "scientific_name": "Pycnonotus xanthopygos",
+      "english_name": "White-spectacled Bulbul",
+      "family": "بلبل",
+      "notes": ""
+    },
+    {
+      "name": "بلبل بني الصدر",
+      "scientific_name": "Pycnonotus xanthorrhous",
+      "english_name": "Brown-breasted Bulbul",
+      "family": "بلبل",
+      "notes": ""
+    },
+    {
+      "name": "مرعة الغلة",
+      "scientific_name": "Crex crex",
+      "english_name": "Corn Crake",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "غر أوراسي",
+      "scientific_name": "Fulica atra",
+      "english_name": "Common Coot",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "دجاجة الماء",
+      "scientific_name": "Gallinula chloropus",
+      "english_name": "Common Moorhen",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "سحنون ألن",
+      "scientific_name": "Porphyrio alleni",
+      "english_name": "Allen's Gallinule",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "دجاجة الماء ارجوانية",
+      "scientific_name": "Porphyrio porphyrio",
+      "english_name": "Purple Swamphen",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "مرعة صغيرة",
+      "scientific_name": "Porzana parva",
+      "english_name": "Little Crake",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "مرعة منقطة",
+      "scientific_name": "Porzana porzana",
+      "english_name": "Spotted Crake",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "مرعة بايلون",
+      "scientific_name": "Porzana pusilla",
+      "english_name": "Baillon's Crake",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "مرعة جنوبية",
+      "scientific_name": "Rallus antarcticus",
+      "english_name": "Austral Rail",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "مرعة الماء",
+      "scientific_name": "Rallus aquaticus",
+      "english_name": "Water Rail",
+      "family": "طيور المرعة",
+      "notes": ""
+    },
+    {
+      "name": "أبو المغازل",
+      "scientific_name": "Himantopus himantopus",
+      "english_name": "Black-winged Stilt",
+      "family": "نكاتيات",
+      "notes": ""
+    },
+    {
+      "name": "نكات العالم القديم",
+      "scientific_name": "Recurvirostra avosetta",
+      "english_name": "Pied Avocet",
+      "family": "نكاتيات",
+      "notes": "جنس نكات"
+    },
+    {
+      "name": "صعو أحمر العرف",
+      "scientific_name": "Regulus ignicapillus",
+      "english_name": "Firecrest",
+      "family": "صعو",
+      "notes": ""
+    },
+    {
+      "name": "صعو أصفر العرف",
+      "scientific_name": "Regulus regulus",
+      "english_name": "Goldcrest",
+      "family": "صعو",
+      "notes": ""
+    },
+    {
+      "name": "قرقف البندول",
+      "scientific_name": "Remiz pendulinus",
+      "english_name": "Eurasian Penduline-Tit",
+      "family": "قرقف البندول (فصيلة)",
+      "notes": ""
+    },
+    {
+      "name": "بكاشينة مزوقة",
+      "scientific_name": "Rostratula benghalensis",
+      "english_name": "Greater Painted-snipe",
+      "family": "بكاشينة مزوقة (فصيلة)",
+      "notes": ""
+    },
+    {
+      "name": "أبو مقص أفريقي",
+      "scientific_name": "Rynchops flavirostris",
+      "english_name": "African Skimmer",
+      "family": "أبو مقص",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي شائع",
+      "scientific_name": "Actitis hypoleucos",
+      "english_name": "Common Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة الماء",
+      "scientific_name": "Arenaria interpres",
+      "english_name": "Ruddy Turnstone",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "مدروان",
+      "scientific_name": "Calidris alba",
+      "english_name": "Sanderling",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "دريجة الألب",
+      "scientific_name": "Calidris alpina",
+      "english_name": "Dunlin",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "دريجة الشمال",
+      "scientific_name": "Calidris canutus",
+      "english_name": "Red Knot",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "دريجة كروانية",
+      "scientific_name": "Calidris ferruginea",
+      "english_name": "Curlew Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "فطيرة صغيرة",
+      "scientific_name": "Calidris minuta",
+      "english_name": "Little Stint",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "فطيرة تمنك",
+      "scientific_name": "Calidris temminckii",
+      "english_name": "Temminck's Stint",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "بكاشينة شائعة",
+      "scientific_name": "Gallinago gallinago",
+      "english_name": "Common Snipe",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "بكاشين كبير",
+      "scientific_name": "Gallinago media",
+      "english_name": "Great Snipe",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "دريجة عريضة المنقار",
+      "scientific_name": "Limicola falcinellus",
+      "english_name": "Broad-billed Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "بقويقة مخططة الذنب",
+      "scientific_name": "Limosa lapponica",
+      "english_name": "Bar-tailed Godwit",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "بقويقة سوداء الذنب",
+      "scientific_name": "Limosa limosa",
+      "english_name": "Black-tailed Godwit",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "بكاشين صغير",
+      "scientific_name": "Lymnocryptes minimus",
+      "english_name": "Jack Snipe",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "كروان الماء",
+      "scientific_name": "Numenius arquata",
+      "english_name": "Eurasian Curlew",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "كروان الماء صغير",
+      "scientific_name": "Numenius phaeopus",
+      "english_name": "Whimbrel",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "كروان الماء رفيع المنقار",
+      "scientific_name": "Numenius tenuirostris",
+      "english_name": "Slender-billed Curlew",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "فلروب أحمر",
+      "scientific_name": "Phalaropus fulicaria",
+      "english_name": "Red Phalarope",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "فلروب أحمر الرقبة",
+      "scientific_name": "Phalaropus lobatus",
+      "english_name": "Red-necked Phalarope",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "حجوالة",
+      "scientific_name": "Philomachus pugnax",
+      "english_name": "Ruff",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "ديك الغاب",
+      "scientific_name": "Scolopax rusticola",
+      "english_name": "Eurasian Woodcock",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي أحمر الساق أرقط",
+      "scientific_name": "Tringa erythropus",
+      "english_name": "Spotted Redshank",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي الغياط",
+      "scientific_name": "Tringa glareola",
+      "english_name": "Wood Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي أخضر الساق",
+      "scientific_name": "Tringa nebularia",
+      "english_name": "Common Greenshank",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي أخضر",
+      "scientific_name": "Tringa ochropus",
+      "english_name": "Green Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي المستنقع",
+      "scientific_name": "Tringa stagnatilis",
+      "english_name": "Marsh Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي أحمر الساق",
+      "scientific_name": "Tringa totanus",
+      "english_name": "Common Redshank",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "دريجة صفراء الصدر",
+      "scientific_name": "Tryngites subruficollis",
+      "english_name": "Buff-breasted Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "طيطوي نكات",
+      "scientific_name": "Xenus cinereus",
+      "english_name": "Terek Sandpiper",
+      "family": "طيطوي وشنقب",
+      "notes": ""
+    },
+    {
+      "name": "كركر كبير",
+      "scientific_name": "Catharacta skua",
+      "english_name": "Great Skua",
+      "family": "كركر",
+      "notes": ""
+    },
+    {
+      "name": "كركر طويل الذنب",
+      "scientific_name": "Stercorarius longicaudus",
+      "english_name": "Long-tailed Jaeger",
+      "family": "كركر",
+      "notes": ""
+    },
+    {
+      "name": "كركر قطبي",
+      "scientific_name": "Stercorarius parasiticus",
+      "english_name": "Parasitic Jaeger",
+      "family": "كركر",
+      "notes": ""
+    },
+    {
+      "name": "كركر بوماريني",
+      "scientific_name": "Stercorarius pomarinus",
+      "english_name": "Pomarine Jaeger",
+      "family": "كركر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف أبيض الخد",
+      "scientific_name": "Chlidonias hybridus",
+      "english_name": "Whiskered Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف أبيض الجناح",
+      "scientific_name": "Chlidonias leucopterus",
+      "english_name": "White-winged Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف أسود",
+      "scientific_name": "Chlidonias niger",
+      "english_name": "Black Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف البحر الصغير",
+      "scientific_name": "Sterna albifrons",
+      "english_name": "Little Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف أسحم",
+      "scientific_name": "Sterna anaethetus",
+      "english_name": "Bridled Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف متوج",
+      "scientific_name": "Sterna bengalensis",
+      "english_name": "Lesser Crested-Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف سريع",
+      "scientific_name": "Sterna bergii",
+      "english_name": "Great Crested-Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف أبو بلحة",
+      "scientific_name": "Sterna caspia",
+      "english_name": "Caspian Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف وردي",
+      "scientific_name": "Sterna dougallii",
+      "english_name": "Roseate Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف بحر اعتيادي",
+      "scientific_name": "Sterna hirundo",
+      "english_name": "Common Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف بحر ذو منقار نورس",
+      "scientific_name": "Sterna nilotica",
+      "english_name": "Gull-billed Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف البحر أبو بطن",
+      "scientific_name": "Sterna repressa",
+      "english_name": "White-cheeked Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف خرشنة",
+      "scientific_name": "Sterna sandvicensis",
+      "english_name": "Sandwich Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "خطاف البحر الاحمر",
+      "scientific_name": "Sterna saundersi",
+      "english_name": "Saunders's Tern",
+      "family": "خطاف البحر",
+      "notes": ""
+    },
+    {
+      "name": "بومة قصيرة الأذن",
+      "scientific_name": "Asio flammeus",
+      "english_name": "Short-eared Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بومة طويلة الأذن",
+      "scientific_name": "Asio otus",
+      "english_name": "Long-eared Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بومة أم قويق",
+      "scientific_name": "Athene noctua",
+      "english_name": "Little Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بومة نسارية فرعونية",
+      "scientific_name": "Bubo ascalaphus",
+      "english_name": "Pharaoh Eagle-Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بوهة أوراسية",
+      "scientific_name": "Bubo bubo",
+      "english_name": "Eurasian Eagle-Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "ثيج مخطط",
+      "scientific_name": "Otus brucei",
+      "english_name": "Pallid Scops-Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بومة بتلر",
+      "scientific_name": "Strix butleri",
+      "english_name": "Hume's Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "ثبج أوروبي",
+      "scientific_name": "Otus scops",
+      "english_name": "Common Scops-Owl",
+      "family": "بوم حقيقي",
+      "notes": ""
+    },
+    {
+      "name": "بومة مصاصة",
+      "scientific_name": "Tyto alba",
+      "english_name": "Barn Owl",
+      "family": "بوم المخازن",
+      "notes": ""
+    },
+    {
+      "name": "نعام",
+      "scientific_name": "Struthio camelus",
+      "english_name": "Ostrich",
+      "family": "نعامية",
+      "notes": ""
+    },
+    {
+      "name": "سوادية",
+      "scientific_name": "Onychognathus tristramii",
+      "english_name": "Tristram's Starling",
+      "family": "زرزور",
+      "notes": ""
+    },
+    {
+      "name": "زرزور وردي",
+      "scientific_name": "Sturnus roseus",
+      "english_name": "Rosy Starling",
+      "family": "زرزور",
+      "notes": ""
+    },
+    {
+      "name": "زرزور شائع",
+      "scientific_name": "Sturnus vulgaris",
+      "english_name": "Common Starling",
+      "family": "زرزور",
+      "notes": ""
+    },
+    {
+      "name": "أطيش شمالي",
+      "scientific_name": "Morus bassanus",
+      "english_name": "Northern Gannet",
+      "family": "الأطيش",
+      "notes": ""
+    },
+    {
+      "name": "أطيش بني",
+      "scientific_name": "Sula leucogaster",
+      "english_name": "Brown Booby",
+      "family": "الأطيش",
+      "notes": ""
+    },
+    {
+      "name": "أبو قلنسوة",
+      "scientific_name": "Sylvia atricapilla",
+      "english_name": "Blackcap",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة البساتين",
+      "scientific_name": "Sylvia borin",
+      "english_name": "Garden Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة الصرود",
+      "scientific_name": "Sylvia cantillans",
+      "english_name": "Subalpine Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة فيراني",
+      "scientific_name": "Sylvia communis",
+      "english_name": "Common Whitethroat",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة أم نظارة",
+      "scientific_name": "Sylvia conspicillata",
+      "english_name": "Spectacled Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "هازجة فيراني",
+      "scientific_name": "Sylvia curruca",
+      "english_name": "Lesser Whitethroat",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة مغنية",
+      "scientific_name": "Sylvia hortensis",
+      "english_name": "Orphean Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة البحر الحمر",
+      "scientific_name": "Sylvia leucomelaena",
+      "english_name": "Red Sea Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "هازجة رأساء",
+      "scientific_name": "Sylvia melanocephala",
+      "english_name": "Sardinian Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة قبرصية",
+      "scientific_name": "Sylvia melanothorax",
+      "english_name": "Cyprus Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة أسيوية",
+      "scientific_name": "Sylvia mystacea",
+      "english_name": "Menetries's Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة الصحراء",
+      "scientific_name": "Sylvia nana",
+      "english_name": "Desert Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة مخططة",
+      "scientific_name": "Sylvia nisoria",
+      "english_name": "Barred Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة روبل",
+      "scientific_name": "Sylvia rueppelli",
+      "english_name": "Rueppell's Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "دخلة مرمرة",
+      "scientific_name": "Sylvia sarda",
+      "english_name": "Marmora's Warbler",
+      "family": "طيور مغردة",
+      "notes": ""
+    },
+    {
+      "name": "أبو منجل الأصلع",
+      "scientific_name": "Geronticus eremita",
+      "english_name": "Waldrapp",
+      "family": "أبو منجليات",
+      "notes": "أبو منجل أقرع شمالي"
+    },
+    {
+      "name": "أبو ملعقة أبيض",
+      "scientific_name": "Platalea leucorodia",
+      "english_name": "Eurasian Spoonbill",
+      "family": "أبو منجليات",
+      "notes": "جنس أبو ملعقة"
+    },
+    {
+      "name": "أبو منجل أسود",
+      "scientific_name": "Plegadis falcinellus",
+      "english_name": "Glossy Ibis",
+      "family": "أبو منجليات",
+      "notes": "أبو منجل المصقول - أبو منجل اللامع"
+    },
+    {
+      "name": "ثرثارة الشجر",
+      "scientific_name": "Turdoides fulvus",
+      "english_name": "Fulvous Babbler",
+      "family": "ثرثارة العالم القديم",
+      "notes": ""
+    },
+    {
+      "name": "ثرثارة عربية",
+      "scientific_name": "Turdoides squamiceps",
+      "english_name": "Arabian Babbler",
+      "family": "ثرثارة العالم القديم",
+      "notes": ""
+    },
+    {
+      "name": "صعو أوراسي",
+      "scientific_name": "Troglodytes troglodytes",
+      "english_name": "Winter Wren",
+      "family": "نمنمة",
+      "notes": ""
+    },
+    {
+      "name": "سمنة حمراء الجناح",
+      "scientific_name": "Turdus iliacus",
+      "english_name": "Redwing",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "شحرور",
+      "scientific_name": "Turdus merula",
+      "english_name": "Eurasian Blackbird",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "سمنة مطربة",
+      "scientific_name": "Turdus philomelos",
+      "english_name": "Song Thrush",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "دج الغيط",
+      "scientific_name": "Turdus pilaris",
+      "english_name": "Fieldfare",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "دج أسود الزور",
+      "scientific_name": "Turdus ruficollis",
+      "english_name": "Dark-throated Thrush",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "دج مطوق",
+      "scientific_name": "Turdus torquatus",
+      "english_name": "Ring Ouzel",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "سمنة كبيرة",
+      "scientific_name": "Turdus viscivorus",
+      "english_name": "Mistle Thrush",
+      "family": "سمنة",
+      "notes": ""
+    },
+    {
+      "name": "سمان هوتنتوت",
+      "scientific_name": "Turnix hottentotta",
+      "english_name": "Hottentot Buttonquail",
+      "family": "سمان ذو نقرة في الذقن",
+      "notes": ""
+    },
+    {
+      "name": "قنبرة سمانية",
+      "scientific_name": "Ortyxelos meiffrenii",
+      "english_name": "Lark Buttonquail",
+      "family": "سمان ذو نقرة في الذقن",
+      "notes": ""
+    },
+    {
+      "name": "سمان الشجر أسود العجز",
+      "scientific_name": "Turnix nana",
+      "english_name": "Black-rumped Buttonquail",
+      "family": "سمان ذو نقرة في الذقن",
+      "notes": ""
+    },
+    {
+      "name": "سمان الشجر الصغير",
+      "scientific_name": "Turnix sylvaticus",
+      "english_name": "Small Buttonquail",
+      "family": "سمان ذو نقرة في الذقن",
+      "notes": ""
+    },
+    {
+      "name": "هدهد",
+      "scientific_name": "Upupa epops",
+      "english_name": "Eurasian Hoopoe",
+      "family": "هدهد",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "الطيور في مصر - Free Download",
+    "description": "قائمة أنواع الطيور المسجلة في مصر بالاسم العربي والعلمي والإنجليزي والفصيلة. Contains 493 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الطيور في مصر | ListBase",
+    "seo_description": "Download الطيور في مصر — 493 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 493 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الطيور_في_مصر"
+    ]
+  }
+}
