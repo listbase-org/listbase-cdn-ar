@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:57.087Z",
-  "total_datasets": 459,
-  "total_records": 148443,
+  "generated": "2026-10-28T02:16:00.987Z",
+  "total_datasets": 460,
+  "total_records": 148484,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -12028,6 +12028,34 @@
         "xlsx": {
           "name": "ar-turath-alami-alsaudia_AR.xlsx",
           "size": 13509
+        }
+      }
+    },
+    {
+      "id": "ar-turath-alami-misr",
+      "name": "مواقع التراث العالمي في مصر",
+      "category": "tourism",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "location",
+        "type",
+        "ref",
+        "year",
+        "notes",
+        "list"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_مصر",
+      "updated": "2026-10",
+      "size": 35238,
+      "files": {
+        "csv": {
+          "name": "ar-turath-alami-misr_AR.csv",
+          "size": 28301
+        },
+        "xlsx": {
+          "name": "ar-turath-alami-misr_AR.xlsx",
+          "size": 15772
         }
       }
     },
