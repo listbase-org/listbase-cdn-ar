@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:42.168Z",
-  "total_datasets": 454,
-  "total_records": 148073,
+  "generated": "2026-10-28T02:15:45.360Z",
+  "total_datasets": 455,
+  "total_records": 148178,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -8828,6 +8828,31 @@
         "xlsx": {
           "name": "ar-aghani-abdelhalim-hafez_AR.xlsx",
           "size": 16960
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-fayza-ahmed",
+      "name": "أغاني فايزة أحمد",
+      "category": "music",
+      "record_count": 105,
+      "columns": [
+        "song",
+        "lyrics",
+        "composer",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_فايزة_أحمد",
+      "updated": "2026-10",
+      "size": 17888,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-fayza-ahmed_AR.csv",
+          "size": 8084
+        },
+        "xlsx": {
+          "name": "ar-aghani-fayza-ahmed_AR.xlsx",
+          "size": 10528
         }
       }
     },
