@@ -1,0 +1,289 @@
+{
+  "id": "ar-jamiat-alurdun",
+  "name": "قائمة الجامعات في الأردن",
+  "title": "قائمة الجامعات في الأردن",
+  "description": "قائمة الجامعات الأردنية الحكومية والخاصة مع سنة التأسيس والموقع والموقع الإلكتروني.",
+  "category": "education",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_الأردن",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_جامعات_الأردن",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "الجامعة الألمانية الأردنية",
+      "founded": 2005,
+      "location": "ناعور - عمان",
+      "website": "www.gju.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة الطفيلة التقنية",
+      "founded": 2005,
+      "location": "الطفيلة",
+      "website": "www.ttu.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة الحسين بن طلال",
+      "founded": 1999,
+      "location": "معان",
+      "website": "www.ahu.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة البلقاء التطبيقية",
+      "founded": 1997,
+      "location": "المركز - السلط",
+      "website": "www.bau.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "الجامعة الهاشمية",
+      "founded": 1995,
+      "location": "الزرقاء",
+      "website": "www.hu.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة آل البيت",
+      "founded": 1993,
+      "location": "المفرق",
+      "website": "www.aabu.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة العلوم والتكنولوجيا الأردنية",
+      "founded": 1986,
+      "location": "الرمثا - إربد",
+      "website": "www.just.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة مؤتة (يوجد أيضا جناح عسكري)",
+      "founded": 1981,
+      "location": "الكرك",
+      "website": "www.mutah.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة اليرموك",
+      "founded": 1976,
+      "location": "إربد",
+      "website": "www.yu.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "الجامعة الأردنية",
+      "founded": 1962,
+      "location": "الجبيهة - عمان",
+      "website": "www.ju.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "الجامعة الأردنية فرع العقبة",
+      "founded": 2009,
+      "location": "العقبة",
+      "website": "aqaba.ju.edu.jo",
+      "type": "الجامعات الحكومية"
+    },
+    {
+      "name": "جامعة ابن سينا للعلوم الطبية",
+      "founded": 2022,
+      "location": "عمان",
+      "website": "isums.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة العقبة للعلوم الطبية",
+      "founded": 2022,
+      "location": "العقبة",
+      "website": "amsu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة العقبة للتكنولوجيا",
+      "founded": 2015,
+      "location": "العقبة",
+      "website": "www.aut.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة عجلون الوطنية",
+      "founded": 2008,
+      "location": "عجلون",
+      "website": "www.anu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "الجامعة الأمريكية في مادبا",
+      "founded": 2005,
+      "location": "مادبا",
+      "website": "aum.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة جدارا",
+      "founded": 2005,
+      "location": "إربد",
+      "website": "jadara.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الشرق الأوسط",
+      "founded": 2005,
+      "location": "عمان",
+      "website": "meu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة عمان العربية",
+      "founded": 1999,
+      "location": "عمان",
+      "website": "www.aau.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الزرقاء",
+      "founded": 1994,
+      "location": "الزرقاء",
+      "website": "www.zu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة إربد الأهلية",
+      "founded": 1994,
+      "location": "إربد",
+      "website": "www.inu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الزيتونة الأردنية",
+      "founded": 1993,
+      "location": "عمان",
+      "website": "www.zuj.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة جرش",
+      "founded": 1992,
+      "location": "جرش",
+      "website": "www.jpu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الأميرة سمية للتكنولوجيا",
+      "founded": 1991,
+      "location": "عمان",
+      "website": "www.psut.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الإسراء",
+      "founded": 1991,
+      "location": "عمان",
+      "website": "www.iu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة البترا",
+      "founded": 1991,
+      "location": "عمان",
+      "website": "www.uop.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة العلوم التطبيقية الخاصة",
+      "founded": 1991,
+      "location": "شفا بدران - عمان",
+      "website": "www.asu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة فيلادلفيا",
+      "founded": 1990,
+      "location": "عمان",
+      "website": "philadelphia.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة عمان الأهلية",
+      "founded": 1990,
+      "location": "عمان - السلط",
+      "website": "www.ammanu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "الجامعة العربية المفتوحة فرع الأردن",
+      "founded": 2002,
+      "location": "عمان",
+      "website": "www.aou.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة الحسين التقنية",
+      "founded": 2016,
+      "location": "عمان",
+      "website": "www.htu.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "جامعة العلوم الإسلامية العالمية",
+      "founded": 2008,
+      "location": "طبربور - عمان",
+      "website": "www.wise.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "معهد الإعلام الأردني",
+      "founded": 2006,
+      "location": "عمان",
+      "website": "www.jmi.edu.jo",
+      "type": "الجامعات الخاصة"
+    },
+    {
+      "name": "معهد الدراسات المصرفية",
+      "founded": 1971,
+      "location": "عمان",
+      "website": "www.ibs.edu.jo",
+      "type": "الجامعات الخاصة"
+    }
+  ],
+  "meta": {
+    "title": "قائمة الجامعات في الأردن - Free Download",
+    "description": "قائمة الجامعات الأردنية الحكومية والخاصة مع سنة التأسيس والموقع والموقع الإلكتروني. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "قائمة الجامعات في الأردن | ListBase",
+    "seo_description": "Download قائمة الجامعات في الأردن — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_جامعات_الأردن"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:45.360Z",
-  "total_datasets": 455,
-  "total_records": 148178,
+  "generated": "2026-10-28T02:15:48.313Z",
+  "total_datasets": 456,
+  "total_records": 148212,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -412,6 +412,32 @@
         "xlsx": {
           "name": "ar-jamiat_AR.xlsx",
           "size": 10317
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-alurdun",
+      "name": "قائمة الجامعات في الأردن",
+      "category": "education",
+      "record_count": 34,
+      "columns": [
+        "name",
+        "founded",
+        "location",
+        "website",
+        "type"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_الأردن",
+      "updated": "2026-10",
+      "size": 8960,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-alurdun_AR.csv",
+          "size": 3981
+        },
+        "xlsx": {
+          "name": "ar-jamiat-alurdun_AR.xlsx",
+          "size": 8328
         }
       }
     },
