@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:48.313Z",
-  "total_datasets": 456,
-  "total_records": 148212,
+  "generated": "2026-10-28T02:15:51.259Z",
+  "total_datasets": 457,
+  "total_records": 148353,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -438,6 +438,33 @@
         "xlsx": {
           "name": "ar-jamiat-alurdun_AR.xlsx",
           "size": 8328
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-misr",
+      "name": "قائمة الجامعات في مصر",
+      "category": "education",
+      "record_count": 141,
+      "columns": [
+        "name",
+        "founded",
+        "service_area_or_seat",
+        "website",
+        "notes",
+        "type"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_مصر",
+      "updated": "2026-10",
+      "size": 68877,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-misr_AR.csv",
+          "size": 49480
+        },
+        "xlsx": {
+          "name": "ar-jamiat-misr_AR.xlsx",
+          "size": 19891
         }
       }
     },
