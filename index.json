@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:15:54.128Z",
-  "total_datasets": 458,
-  "total_records": 148421,
+  "generated": "2026-10-28T02:15:57.087Z",
+  "total_datasets": 459,
+  "total_records": 148443,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "transport",
@@ -12000,6 +12000,34 @@
         "xlsx": {
           "name": "ar-sa-fanadiq_AR.xlsx",
           "size": 19087
+        }
+      }
+    },
+    {
+      "id": "ar-turath-alami-alsaudia",
+      "name": "مواقع التراث العالمي في السعودية",
+      "category": "tourism",
+      "record_count": 22,
+      "columns": [
+        "name",
+        "location",
+        "type",
+        "ref",
+        "year",
+        "notes",
+        "list"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_السعودية",
+      "updated": "2026-10",
+      "size": 25307,
+      "files": {
+        "csv": {
+          "name": "ar-turath-alami-alsaudia_AR.csv",
+          "size": 20607
+        },
+        "xlsx": {
+          "name": "ar-turath-alami-alsaudia_AR.xlsx",
+          "size": 13509
         }
       }
     },
