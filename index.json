@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-27T02:21:32.007Z",
-  "total_datasets": 453,
-  "total_records": 147810,
+  "generated": "2026-10-28T02:15:42.168Z",
+  "total_datasets": 454,
+  "total_records": 148073,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -8802,6 +8802,32 @@
         "xlsx": {
           "name": "ar-wathaiq-dusturiya-misr_AR.xlsx",
           "size": 14115
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-abdelhalim-hafez",
+      "name": "أغاني عبد الحليم حافظ",
+      "category": "music",
+      "record_count": 263,
+      "columns": [
+        "song",
+        "lyrics",
+        "composer",
+        "notes",
+        "period"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_عبد_الحليم_حافظ",
+      "updated": "2026-10",
+      "size": 60242,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-abdelhalim-hafez_AR.csv",
+          "size": 33231
+        },
+        "xlsx": {
+          "name": "ar-aghani-abdelhalim-hafez_AR.xlsx",
+          "size": 16960
         }
       }
     },
