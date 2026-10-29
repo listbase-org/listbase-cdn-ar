@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:28.200Z",
-  "total_datasets": 467,
-  "total_records": 149417,
+  "generated": "2026-10-29T02:23:31.213Z",
+  "total_datasets": 468,
+  "total_records": 149482,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -11332,6 +11332,30 @@
         "xlsx": {
           "name": "ar-sukkan-alimarat-hasab-alimara_AR.xlsx",
           "size": 7062
+        }
+      }
+    },
+    {
+      "id": "ar-abtal-aldawri-alsaudi",
+      "name": "أبطال الدوري السعودي لكرة القدم",
+      "category": "sports",
+      "record_count": 65,
+      "columns": [
+        "almawsim",
+        "albatal",
+        "raqm_allaqab"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/الدوري_السعودي_للمحترفين",
+      "updated": "2026-10",
+      "size": 8483,
+      "files": {
+        "csv": {
+          "name": "ar-abtal-aldawri-alsaudi_AR.csv",
+          "size": 2186
+        },
+        "xlsx": {
+          "name": "ar-abtal-aldawri-alsaudi_AR.xlsx",
+          "size": 8245
         }
       }
     },

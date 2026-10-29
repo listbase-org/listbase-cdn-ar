@@ -1,0 +1,366 @@
+{
+  "id": "ar-abtal-aldawri-alsaudi",
+  "name": "أبطال الدوري السعودي لكرة القدم",
+  "title": "أبطال الدوري السعودي لكرة القدم",
+  "description": "بطل الدوري السعودي لكرة القدم (دوري روشن للمحترفين حاليًا) في كل موسم منذ 1957–58 مع رقم لقب النادي.",
+  "category": "sports",
+  "source": "https://ar.wikipedia.org/wiki/الدوري_السعودي_للمحترفين",
+  "source_url": "https://ar.wikipedia.org/wiki/الدوري_السعودي_للمحترفين",
+  "updated": "2026-10",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "almawsim",
+      "label": "Almawsim",
+      "type": "string"
+    },
+    {
+      "key": "albatal",
+      "label": "Albatal",
+      "type": "string"
+    },
+    {
+      "key": "raqm_allaqab",
+      "label": "Raqm Allaqab",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "almawsim": "1957–58",
+      "albatal": "الوحدة",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1958–59",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1959–60",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1960–61",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 3
+    },
+    {
+      "almawsim": "1961–62",
+      "albatal": "الهلال",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1962–63",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1963–64",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "1964–65",
+      "albatal": "الهلال",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1965–66",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1966–67",
+      "albatal": "لم يستكمل 1967–68 : لم تقم 1968–69 : الأهلي",
+      "raqm_allaqab": 3
+    },
+    {
+      "almawsim": "1969–70",
+      "albatal": "الغيت 1970–71 : الأهلي",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "1971–72",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 5
+    },
+    {
+      "almawsim": "1972–73",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 6
+    },
+    {
+      "almawsim": "1973–74",
+      "albatal": "النصر",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1974–75",
+      "albatal": "النصر",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1975–76",
+      "albatal": "لم يستكمل 1976–77 : الهلال",
+      "raqm_allaqab": 3
+    },
+    {
+      "almawsim": "1977–78",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 7
+    },
+    {
+      "almawsim": "1978–79",
+      "albatal": "الهلال",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "1979–80",
+      "albatal": "النصر",
+      "raqm_allaqab": 3
+    },
+    {
+      "almawsim": "1980–81",
+      "albatal": "النصر",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "1981–82",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1982–83",
+      "albatal": "الاتفاق",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1983–84",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 8
+    },
+    {
+      "almawsim": "1984–85",
+      "albatal": "الهلال",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "1985–86",
+      "albatal": "الهلال",
+      "raqm_allaqab": 5
+    },
+    {
+      "almawsim": "1986–87",
+      "albatal": "الاتفاق",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1987–88",
+      "albatal": "الهلال",
+      "raqm_allaqab": 6
+    },
+    {
+      "almawsim": "1988–89",
+      "albatal": "النصر",
+      "raqm_allaqab": 5
+    },
+    {
+      "almawsim": "1989–90",
+      "albatal": "الهلال",
+      "raqm_allaqab": 7
+    },
+    {
+      "almawsim": "1990–91",
+      "albatal": "الشباب",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "1991–92",
+      "albatal": "الشباب",
+      "raqm_allaqab": 2
+    },
+    {
+      "almawsim": "1992–93",
+      "albatal": "الشباب",
+      "raqm_allaqab": 3
+    },
+    {
+      "almawsim": "1993–94",
+      "albatal": "النصر",
+      "raqm_allaqab": 6
+    },
+    {
+      "almawsim": "1994–95",
+      "albatal": "النصر",
+      "raqm_allaqab": 7
+    },
+    {
+      "almawsim": "1995–96",
+      "albatal": "الهلال",
+      "raqm_allaqab": 8
+    },
+    {
+      "almawsim": "1996–97",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 6
+    },
+    {
+      "almawsim": "1997–98",
+      "albatal": "الهلال",
+      "raqm_allaqab": 9
+    },
+    {
+      "almawsim": "1998–99",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 7
+    },
+    {
+      "almawsim": "1999–00",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 8
+    },
+    {
+      "almawsim": "2000–01",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 9
+    },
+    {
+      "almawsim": "2001–02",
+      "albatal": "الهلال",
+      "raqm_allaqab": 10
+    },
+    {
+      "almawsim": "2002–03",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 10
+    },
+    {
+      "almawsim": "2003–04",
+      "albatal": "الشباب",
+      "raqm_allaqab": 4
+    },
+    {
+      "almawsim": "2004–05",
+      "albatal": "الهلال",
+      "raqm_allaqab": 10
+    },
+    {
+      "almawsim": "2005–06",
+      "albatal": "الشباب",
+      "raqm_allaqab": 5
+    },
+    {
+      "almawsim": "2006–07",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 11
+    },
+    {
+      "almawsim": "2007–08",
+      "albatal": "الهلال",
+      "raqm_allaqab": 13
+    },
+    {
+      "almawsim": "2008–09",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 12
+    },
+    {
+      "almawsim": "2009–10",
+      "albatal": "الهلال",
+      "raqm_allaqab": 14
+    },
+    {
+      "almawsim": "2010–11",
+      "albatal": "الهلال",
+      "raqm_allaqab": 15
+    },
+    {
+      "almawsim": "2011–12",
+      "albatal": "الشباب",
+      "raqm_allaqab": 6
+    },
+    {
+      "almawsim": "2012–13",
+      "albatal": "الفتح",
+      "raqm_allaqab": 1
+    },
+    {
+      "almawsim": "2013–14",
+      "albatal": "النصر",
+      "raqm_allaqab": 8
+    },
+    {
+      "almawsim": "2014–15",
+      "albatal": "النصر",
+      "raqm_allaqab": 9
+    },
+    {
+      "almawsim": "2015–16",
+      "albatal": "الأهلي",
+      "raqm_allaqab": 9
+    },
+    {
+      "almawsim": "2016–17",
+      "albatal": "الهلال",
+      "raqm_allaqab": 16
+    },
+    {
+      "almawsim": "2017–18",
+      "albatal": "الهلال",
+      "raqm_allaqab": 17
+    },
+    {
+      "almawsim": "2018–19",
+      "albatal": "النصر",
+      "raqm_allaqab": 10
+    },
+    {
+      "almawsim": "2019–20",
+      "albatal": "الهلال",
+      "raqm_allaqab": 18
+    },
+    {
+      "almawsim": "2020–21",
+      "albatal": "الهلال",
+      "raqm_allaqab": 19
+    },
+    {
+      "almawsim": "2021–22",
+      "albatal": "الهلال",
+      "raqm_allaqab": 20
+    },
+    {
+      "almawsim": "2022–23",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 13
+    },
+    {
+      "almawsim": "2023–24",
+      "albatal": "الهلال",
+      "raqm_allaqab": 21
+    },
+    {
+      "almawsim": "2024–25",
+      "albatal": "الاتحاد",
+      "raqm_allaqab": 14
+    },
+    {
+      "almawsim": "2025–26",
+      "albatal": "النصر",
+      "raqm_allaqab": 11
+    }
+  ],
+  "meta": {
+    "title": "أبطال الدوري السعودي لكرة القدم - Free Download",
+    "description": "بطل الدوري السعودي لكرة القدم (دوري روشن للمحترفين حاليًا) في كل موسم منذ 1957–58 مع رقم لقب النادي. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أبطال الدوري السعودي لكرة القدم | ListBase",
+    "seo_description": "Download أبطال الدوري السعودي لكرة القدم — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/الدوري_السعودي_للمحترفين"
+    ]
+  }
+}
