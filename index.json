@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-28T02:16:06.944Z",
-  "total_datasets": 462,
-  "total_records": 149126,
+  "generated": "2026-10-29T02:23:15.911Z",
+  "total_datasets": 463,
+  "total_records": 149188,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -8694,6 +8694,33 @@
         "xlsx": {
           "name": "ar-mustashfayat-alsaudia_AR.xlsx",
           "size": 22327
+        }
+      }
+    },
+    {
+      "id": "ar-alkhulafa-alabbasiyyun",
+      "name": "قائمة الخلفاء العباسيين",
+      "category": "history",
+      "record_count": 62,
+      "columns": [
+        "raqm",
+        "alkhalifa",
+        "laqab",
+        "fatrat_alkhilafa",
+        "alasr",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الخلفاء_العباسيين",
+      "updated": "2026-10",
+      "size": 30046,
+      "files": {
+        "csv": {
+          "name": "ar-alkhulafa-alabbasiyyun_AR.csv",
+          "size": 20213
+        },
+        "xlsx": {
+          "name": "ar-alkhulafa-alabbasiyyun_AR.xlsx",
+          "size": 12260
         }
       }
     },
