@@ -1,0 +1,256 @@
+{
+  "id": "ar-aflam-misr-lilawskar",
+  "name": "الأفلام المصرية المقدمة لجائزة الأوسكار",
+  "title": "الأفلام المصرية المقدمة لجائزة الأوسكار",
+  "description": "الأفلام التي قدمتها مصر للمنافسة على جائزة الأوسكار لأفضل فيلم روائي طويل دولي (أجنبي) مع المخرج والنتيجة.",
+  "category": "entertainment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_التقديمات_المصرية_لجائزة_الأوسكار_لأفضل_فلم_روائي_طويل_دولي",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_التقديمات_المصرية_لجائزة_الأوسكار_لأفضل_فلم_روائي_طويل_دولي",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "string"
+    },
+    {
+      "key": "alfilm",
+      "label": "Alfilm",
+      "type": "string"
+    },
+    {
+      "key": "almukhrij",
+      "label": "Almukhrij",
+      "type": "string"
+    },
+    {
+      "key": "alnatija",
+      "label": "Alnatija",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alsana": "1958 (31)",
+      "alfilm": "باب الحديد",
+      "almukhrij": "يوسف شاهين",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1959(32)",
+      "alfilm": "دعاء الكروان",
+      "almukhrij": "هنري بركات",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1960 (33)",
+      "alfilm": "المراهقات",
+      "almukhrij": "أحمد ضياء الدين",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1961 (34)",
+      "alfilm": "وا إسلاماه",
+      "almukhrij": "إنريكو بومبا / أندرو مارتون",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1962 (35)",
+      "alfilm": "اللص والكلاب",
+      "almukhrij": "كمال الشيخ",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1964 (37)",
+      "alfilm": "أم العروسة",
+      "almukhrij": "عاطف سالم",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1965 (38)",
+      "alfilm": "المستحيل",
+      "almukhrij": "حسين كمال",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1966 (39)",
+      "alfilm": "القاهرة 30",
+      "almukhrij": "صلاح أبو سيف",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1970 (43)",
+      "alfilm": "المومياء",
+      "almukhrij": "شادي عبد السلام",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1971 (44)",
+      "alfilm": "امرأة ورجل",
+      "almukhrij": "حسام الدين مصطفى",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1972 (45)",
+      "alfilm": "زوجتي والكلب",
+      "almukhrij": "سيد مرزوق",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1973 (46)",
+      "alfilm": "إمبراطورية ميم",
+      "almukhrij": "حسين كمال",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1975 (48)",
+      "alfilm": "أريد حلاً",
+      "almukhrij": "سيد مرزوق",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1976 (49)",
+      "alfilm": "على من نطلق الرصاص",
+      "almukhrij": "كمال الشيخ",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1979 (52)",
+      "alfilm": "إسكندرية... ليه؟",
+      "almukhrij": "يوسف شاهين",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1981 (54)",
+      "alfilm": "أهل القمة",
+      "almukhrij": "علي بدرخان",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1990 (63)",
+      "alfilm": "اسكندرية كمان وكمان",
+      "almukhrij": "يوسف شاهين",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1994 (67)",
+      "alfilm": "أرض الاحلام",
+      "almukhrij": "داوود عبد السيد",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "1997 (70)",
+      "alfilm": "المصير",
+      "almukhrij": "يوسف شاهين",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2002 (75)",
+      "alfilm": "أسرار البنات",
+      "almukhrij": "مجدي أحمد علي",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2003 (76)",
+      "alfilm": "سهر الليالى",
+      "almukhrij": "هاني خليفة",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2004 (77)",
+      "alfilm": "بحب السيما",
+      "almukhrij": "أسامة فوزي",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2006 (79)",
+      "alfilm": "عمارة يعقوبيان",
+      "almukhrij": "مروان حامد",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2007 (80)",
+      "alfilm": "في شقة مصر الجديدة",
+      "almukhrij": "محمد خان",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2008 (81)",
+      "alfilm": "الجزيرة",
+      "almukhrij": "شريف عرفه",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2010 (83)",
+      "alfilm": "رسائل البحر",
+      "almukhrij": "داوود عبد السيد",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2011 (84)",
+      "alfilm": "الشوق",
+      "almukhrij": "خالد الحجار",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2013 (86)",
+      "alfilm": "الشتا إللى فات",
+      "almukhrij": "إبراهيم البطوط",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2014 (87)",
+      "alfilm": "فتاة المصنع",
+      "almukhrij": "محمد خان",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2016 (89)",
+      "alfilm": "اشتباك",
+      "almukhrij": "محمد دياب",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2017 (90)",
+      "alfilm": "شيخ جاكسون",
+      "almukhrij": "عمرو سلامة",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2018 (91)",
+      "alfilm": "يوم الدين",
+      "almukhrij": "أبو بكر شوقي",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2019 (92)",
+      "alfilm": "ورد مسموم",
+      "almukhrij": "فوزي صالح",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2020 (93)",
+      "alfilm": "لما بنتولد",
+      "almukhrij": "تامر عزت",
+      "alnatija": "لم يرشح"
+    },
+    {
+      "alsana": "2021 (94)",
+      "alfilm": "سعاد",
+      "almukhrij": "آيتن أمين",
+      "alnatija": "لم يرشح"
+    }
+  ],
+  "meta": {
+    "title": "الأفلام المصرية المقدمة لجائزة الأوسكار - Free Download",
+    "description": "الأفلام التي قدمتها مصر للمنافسة على جائزة الأوسكار لأفضل فيلم روائي طويل دولي (أجنبي) مع المخرج والنتيجة. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الأفلام المصرية المقدمة لجائزة الأوسكار | ListBase",
+    "seo_description": "Download الأفلام المصرية المقدمة لجائزة الأوسكار — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_التقديمات_المصرية_لجائزة_الأوسكار_لأفضل_فلم_روائي_طويل_دولي"
+    ]
+  }
+}
