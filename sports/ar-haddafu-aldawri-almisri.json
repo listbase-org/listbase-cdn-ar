@@ -1,0 +1,520 @@
+{
+  "id": "ar-haddafu-aldawri-almisri",
+  "name": "هدافو الدوري المصري الممتاز",
+  "title": "هدافو الدوري المصري الممتاز",
+  "description": "هداف الدوري المصري الممتاز لكرة القدم في كل موسم منذ 1948–49 مع عدد الأهداف والفريق.",
+  "category": "sports",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_هدافي_الدوري_المصري_الممتاز",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_هدافي_الدوري_المصري_الممتاز",
+  "updated": "2026-10",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "almawsim",
+      "label": "Almawsim",
+      "type": "string"
+    },
+    {
+      "key": "alhaddaf",
+      "label": "Alhaddaf",
+      "type": "string"
+    },
+    {
+      "key": "adad_alahdaf",
+      "label": "Adad Alahdaf",
+      "type": "number"
+    },
+    {
+      "key": "alfariq",
+      "label": "Alfariq",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "almawsim": "1948–49",
+      "alhaddaf": "السيد الضظوي",
+      "adad_alahdaf": 15,
+      "alfariq": "المصري"
+    },
+    {
+      "almawsim": "1949–50",
+      "alhaddaf": "حمديتو أحمد",
+      "adad_alahdaf": 10,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1950–51",
+      "alhaddaf": "عوض عبد الرحمن",
+      "adad_alahdaf": 12,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1950–51",
+      "alhaddaf": "السيد الضظوي",
+      "adad_alahdaf": 12,
+      "alfariq": "المصري"
+    },
+    {
+      "almawsim": "1951–52",
+      "alhaddaf": "لم تقم البطولة",
+      "adad_alahdaf": "لم تقم البطولة",
+      "alfariq": "لم تقم البطولة"
+    },
+    {
+      "almawsim": "1952–53",
+      "alhaddaf": "السيد الضظوي",
+      "adad_alahdaf": 10,
+      "alfariq": "المصري"
+    },
+    {
+      "almawsim": "1953–54",
+      "alhaddaf": "عبد النبي محمود",
+      "adad_alahdaf": 21,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1954–55",
+      "alhaddaf": "لم يكتمل الموسم",
+      "adad_alahdaf": "لم يكتمل الموسم",
+      "alfariq": "لم يكتمل الموسم"
+    },
+    {
+      "almawsim": "1955–56",
+      "alhaddaf": "صلاح أبو جريشة",
+      "adad_alahdaf": 13,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1956–57",
+      "alhaddaf": "حمدي عبد الفتاح",
+      "adad_alahdaf": 22,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1957–58",
+      "alhaddaf": "حمدي عبد الفتاح",
+      "adad_alahdaf": 19,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1958–59",
+      "alhaddaf": "السيد الضظوي",
+      "adad_alahdaf": 15,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "1959–60",
+      "alhaddaf": "حمدي عبد الفتاح",
+      "adad_alahdaf": 14,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1960–61",
+      "alhaddaf": "علي محسن",
+      "adad_alahdaf": 15,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1961–62",
+      "alhaddaf": "مصطفى رياض",
+      "adad_alahdaf": 20,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1962–63",
+      "alhaddaf": "حسن الشاذلي",
+      "adad_alahdaf": 29,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1963–64",
+      "alhaddaf": "مصطفى رياض",
+      "adad_alahdaf": 26,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1964–65",
+      "alhaddaf": "حسن الشاذلي",
+      "adad_alahdaf": 23,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1965–66",
+      "alhaddaf": "حسن الشاذلي",
+      "adad_alahdaf": 18,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1966–67",
+      "alhaddaf": "علي أبو جريشة",
+      "adad_alahdaf": 15,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1967-1972",
+      "alhaddaf": "لم تقم البطولة",
+      "adad_alahdaf": "لم تقم البطولة",
+      "alfariq": "لم تقم البطولة"
+    },
+    {
+      "almawsim": "1972–73",
+      "alhaddaf": "محمد عماشة",
+      "adad_alahdaf": 12,
+      "alfariq": "غزل المحلة"
+    },
+    {
+      "almawsim": "1973–74",
+      "alhaddaf": "لم يكتمل الموسم",
+      "adad_alahdaf": "لم يكتمل الموسم",
+      "alfariq": "لم يكتمل الموسم"
+    },
+    {
+      "almawsim": "1974–75",
+      "alhaddaf": "حسن الشاذلي",
+      "adad_alahdaf": 34,
+      "alfariq": "الترسانة"
+    },
+    {
+      "almawsim": "1975–76",
+      "alhaddaf": "أسامة خليل",
+      "adad_alahdaf": 18,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1976–77",
+      "alhaddaf": "علي خليل",
+      "adad_alahdaf": 17,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1976–77",
+      "alhaddaf": "حسن شحاتة",
+      "adad_alahdaf": 17,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1977–78",
+      "alhaddaf": "محمود الخطيب",
+      "adad_alahdaf": 11,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "1978–79",
+      "alhaddaf": "علي خليل",
+      "adad_alahdaf": 12,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1979–80",
+      "alhaddaf": "حسن شحاتة",
+      "adad_alahdaf": 14,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1980–81",
+      "alhaddaf": "محمود الخطيب",
+      "adad_alahdaf": 11,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "1981–82",
+      "alhaddaf": "جمال جودة",
+      "adad_alahdaf": 9,
+      "alfariq": "المصري"
+    },
+    {
+      "almawsim": "1982–83",
+      "alhaddaf": "محمود المشاقي",
+      "adad_alahdaf": 9,
+      "alfariq": "غزل المحلة"
+    },
+    {
+      "almawsim": "1983–84",
+      "alhaddaf": "أيمن شوقي",
+      "adad_alahdaf": 8,
+      "alfariq": "الكروم"
+    },
+    {
+      "almawsim": "1984–85",
+      "alhaddaf": "محمد حازم",
+      "adad_alahdaf": 11,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1985–86",
+      "alhaddaf": "محمد حازم",
+      "adad_alahdaf": 11,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1986–87",
+      "alhaddaf": "عماد سليمان",
+      "adad_alahdaf": 11,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1987–88",
+      "alhaddaf": "جمال عبد الحميد",
+      "adad_alahdaf": 10,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1988–89",
+      "alhaddaf": "محمود المشاقي",
+      "adad_alahdaf": 11,
+      "alfariq": "غزل المحلة"
+    },
+    {
+      "almawsim": "1989–90",
+      "alhaddaf": "لم يكتمل الموسم",
+      "adad_alahdaf": "لم يكتمل الموسم",
+      "alfariq": "لم يكتمل الموسم"
+    },
+    {
+      "almawsim": "1990–91",
+      "alhaddaf": "محمد رمضان",
+      "adad_alahdaf": 14,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "1991–92",
+      "alhaddaf": "أحمد الكأس",
+      "adad_alahdaf": 14,
+      "alfariq": "الأوليمبي"
+    },
+    {
+      "almawsim": "1992–93",
+      "alhaddaf": "أحمد الكأس",
+      "adad_alahdaf": 16,
+      "alfariq": "الأوليمبي"
+    },
+    {
+      "almawsim": "1993–94",
+      "alhaddaf": "أحمد الكأس",
+      "adad_alahdaf": 15,
+      "alfariq": "الأوليمبي"
+    },
+    {
+      "almawsim": "1993–94",
+      "alhaddaf": "بشير عبد الصمد",
+      "adad_alahdaf": 15,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1994–95",
+      "alhaddaf": "عبد الله الصاوي",
+      "adad_alahdaf": 10,
+      "alfariq": "القناة"
+    },
+    {
+      "almawsim": "1994–95",
+      "alhaddaf": "أحمد ساري",
+      "adad_alahdaf": 10,
+      "alfariq": "الاتحاد السكندري"
+    },
+    {
+      "almawsim": "1995–96",
+      "alhaddaf": "محمد صلاح أبو جريشة",
+      "adad_alahdaf": 14,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "1996–97",
+      "alhaddaf": "أيمن محب",
+      "adad_alahdaf": 17,
+      "alfariq": "المنصورة"
+    },
+    {
+      "almawsim": "1997–98",
+      "alhaddaf": "عبد الحميد بسيوني",
+      "adad_alahdaf": 15,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "1998–99",
+      "alhaddaf": "حسام حسن",
+      "adad_alahdaf": 15,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "1999–2000",
+      "alhaddaf": "جون أوتاكا",
+      "adad_alahdaf": 17,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "2000–01",
+      "alhaddaf": "طارق السعيد",
+      "adad_alahdaf": 13,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "2001–02",
+      "alhaddaf": "حسام حسن",
+      "adad_alahdaf": 18,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "2002–03",
+      "alhaddaf": "أحمد بلال",
+      "adad_alahdaf": 19,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2003–04",
+      "alhaddaf": "عبد الحليم علي",
+      "adad_alahdaf": 20,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "2004–05",
+      "alhaddaf": "عماد متعب",
+      "adad_alahdaf": 15,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2005–06",
+      "alhaddaf": "محمد أبو تريكة",
+      "adad_alahdaf": 18,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2006–07",
+      "alhaddaf": "فلافيو",
+      "adad_alahdaf": 17,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2007–08",
+      "alhaddaf": "علاء إبراهيم",
+      "adad_alahdaf": 15,
+      "alfariq": "بتروجيت"
+    },
+    {
+      "almawsim": "2008–09",
+      "alhaddaf": "فلافيو",
+      "adad_alahdaf": 12,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2008–09",
+      "alhaddaf": "إرنيست بابا آركو",
+      "adad_alahdaf": 12,
+      "alfariq": "طلائع الجيش"
+    },
+    {
+      "almawsim": "2009–10",
+      "alhaddaf": "منسواه بوبا",
+      "adad_alahdaf": 14,
+      "alfariq": "اتحاد الشرطة"
+    },
+    {
+      "almawsim": "2010–11",
+      "alhaddaf": "شيكابالا",
+      "adad_alahdaf": 13,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "2010–11",
+      "alhaddaf": "أحمد عبد الظاهر",
+      "adad_alahdaf": 13,
+      "alfariq": "إنبي"
+    },
+    {
+      "almawsim": "2011–12",
+      "alhaddaf": "لم يكتمل الموسم",
+      "adad_alahdaf": "لم يكتمل الموسم",
+      "alfariq": "لم يكتمل الموسم"
+    },
+    {
+      "almawsim": "2012–13",
+      "alhaddaf": "لم يكتمل الموسم",
+      "adad_alahdaf": "لم يكتمل الموسم",
+      "alfariq": "لم يكتمل الموسم"
+    },
+    {
+      "almawsim": "2013–14",
+      "alhaddaf": "جون أنطوي",
+      "adad_alahdaf": 11,
+      "alfariq": "الإسماعيلي"
+    },
+    {
+      "almawsim": "2014–15",
+      "alhaddaf": "حسام سلامة",
+      "adad_alahdaf": 20,
+      "alfariq": "الداخلية"
+    },
+    {
+      "almawsim": "2015–16",
+      "alhaddaf": "حسام سلامة",
+      "adad_alahdaf": 17,
+      "alfariq": "سموحة"
+    },
+    {
+      "almawsim": "2016–17",
+      "alhaddaf": "أحمد الشيخ",
+      "adad_alahdaf": 17,
+      "alfariq": "مصر المقاصة"
+    },
+    {
+      "almawsim": "2017–18",
+      "alhaddaf": "وليد أزارو",
+      "adad_alahdaf": 18,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2018–19",
+      "alhaddaf": "أحمد علي كامل",
+      "adad_alahdaf": 18,
+      "alfariq": "المقاولون العرب"
+    },
+    {
+      "almawsim": "2019–20",
+      "alhaddaf": "عبد الله السعيد",
+      "adad_alahdaf": 17,
+      "alfariq": "بيراميدز"
+    },
+    {
+      "almawsim": "2020–21",
+      "alhaddaf": "محمد شريف",
+      "adad_alahdaf": 21,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2021–22",
+      "alhaddaf": "أحمد سيد زيزو",
+      "adad_alahdaf": 19,
+      "alfariq": "الزمالك"
+    },
+    {
+      "almawsim": "2022–23",
+      "alhaddaf": "مابولولو",
+      "adad_alahdaf": 16,
+      "alfariq": "الاتحاد السكندري"
+    },
+    {
+      "almawsim": "2023–24",
+      "alhaddaf": "وسام أبو علي",
+      "adad_alahdaf": 18,
+      "alfariq": "الأهلي"
+    },
+    {
+      "almawsim": "2024–25",
+      "alhaddaf": "إمام عاشور",
+      "adad_alahdaf": 13,
+      "alfariq": "الأهلي"
+    }
+  ],
+  "meta": {
+    "title": "هدافو الدوري المصري الممتاز - Free Download",
+    "description": "هداف الدوري المصري الممتاز لكرة القدم في كل موسم منذ 1948–49 مع عدد الأهداف والفريق. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "هدافو الدوري المصري الممتاز | ListBase",
+    "seo_description": "Download هدافو الدوري المصري الممتاز — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_هدافي_الدوري_المصري_الممتاز"
+    ]
+  }
+}

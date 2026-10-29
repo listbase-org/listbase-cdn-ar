@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:22.274Z",
-  "total_datasets": 465,
-  "total_records": 149303,
+  "generated": "2026-10-29T02:23:25.086Z",
+  "total_datasets": 466,
+  "total_records": 149382,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -11307,6 +11307,31 @@
         "xlsx": {
           "name": "ar-sukkan-alimarat-hasab-alimara_AR.xlsx",
           "size": 7062
+        }
+      }
+    },
+    {
+      "id": "ar-haddafu-aldawri-almisri",
+      "name": "هدافو الدوري المصري الممتاز",
+      "category": "sports",
+      "record_count": 79,
+      "columns": [
+        "almawsim",
+        "alhaddaf",
+        "adad_alahdaf",
+        "alfariq"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_هدافي_الدوري_المصري_الممتاز",
+      "updated": "2026-10",
+      "size": 13931,
+      "files": {
+        "csv": {
+          "name": "ar-haddafu-aldawri-almisri_AR.csv",
+          "size": 5101
+        },
+        "xlsx": {
+          "name": "ar-haddafu-aldawri-almisri_AR.xlsx",
+          "size": 9512
         }
       }
     },
