@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:31.213Z",
-  "total_datasets": 468,
-  "total_records": 149482,
+  "generated": "2026-10-29T02:23:35.201Z",
+  "total_datasets": 469,
+  "total_records": 149501,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -383,6 +383,32 @@
         "xlsx": {
           "name": "ar-muaddal-albitala-aldual-alarabiya_AR.xlsx",
           "size": 7273
+        }
+      }
+    },
+    {
+      "id": "ar-muhafizu-albank-almarkazi-almisri",
+      "name": "محافظو البنك المركزي المصري",
+      "category": "economy",
+      "record_count": 19,
+      "columns": [
+        "raqm",
+        "almuhafiz",
+        "min",
+        "ila",
+        "mulahaza"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/البنك_المركزي_المصري",
+      "updated": "2026-10",
+      "size": 6497,
+      "files": {
+        "csv": {
+          "name": "ar-muhafizu-albank-almarkazi-almisri_AR.csv",
+          "size": 2796
+        },
+        "xlsx": {
+          "name": "ar-muhafizu-albank-almarkazi-almisri_AR.xlsx",
+          "size": 7769
         }
       }
     },
