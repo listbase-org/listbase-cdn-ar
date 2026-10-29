@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:19.238Z",
-  "total_datasets": 464,
-  "total_records": 149219,
+  "generated": "2026-10-29T02:23:22.274Z",
+  "total_datasets": 465,
+  "total_records": 149303,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2747,6 +2747,31 @@
         "xlsx": {
           "name": "ar-yaman-sanaa-bunuk_AR.xlsx",
           "size": 8135
+        }
+      }
+    },
+    {
+      "id": "ar-alatbaq-alarabiya",
+      "name": "قائمة الأطباق العربية",
+      "category": "food",
+      "record_count": 84,
+      "columns": [
+        "alism",
+        "alnaw",
+        "alasl",
+        "alwasf"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأطباق_العربية",
+      "updated": "2026-10",
+      "size": 15370,
+      "files": {
+        "csv": {
+          "name": "ar-alatbaq-alarabiya_AR.csv",
+          "size": 7271
+        },
+        "xlsx": {
+          "name": "ar-alatbaq-alarabiya_AR.xlsx",
+          "size": 10337
         }
       }
     },
