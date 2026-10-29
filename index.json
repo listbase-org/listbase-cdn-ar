@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:15.911Z",
-  "total_datasets": 463,
-  "total_records": 149188,
+  "generated": "2026-10-29T02:23:19.238Z",
+  "total_datasets": 464,
+  "total_records": 149219,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -8721,6 +8721,33 @@
         "xlsx": {
           "name": "ar-alkhulafa-alabbasiyyun_AR.xlsx",
           "size": 12260
+        }
+      }
+    },
+    {
+      "id": "ar-alkhulafa-alumawiyyun",
+      "name": "قائمة الخلفاء الأمويين",
+      "category": "history",
+      "record_count": 31,
+      "columns": [
+        "raqm",
+        "alkhalifa",
+        "alkunya",
+        "fatrat_alkhilafa",
+        "alasr",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الخلفاء_الأمويين",
+      "updated": "2026-10",
+      "size": 17228,
+      "files": {
+        "csv": {
+          "name": "ar-alkhulafa-alumawiyyun_AR.csv",
+          "size": 11412
+        },
+        "xlsx": {
+          "name": "ar-alkhulafa-alumawiyyun_AR.xlsx",
+          "size": 9946
         }
       }
     },
