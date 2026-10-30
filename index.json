@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-29T02:23:35.201Z",
-  "total_datasets": 469,
-  "total_records": 149501,
+  "generated": "2026-10-30T02:28:58.041Z",
+  "total_datasets": 470,
+  "total_records": 149559,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2798,6 +2798,30 @@
         "xlsx": {
           "name": "ar-yaman-sanaa-bunuk_AR.xlsx",
           "size": 8135
+        }
+      }
+    },
+    {
+      "id": "ar-akalat-shaabiya-saudia",
+      "name": "الأكلات الشعبية السعودية",
+      "category": "food",
+      "record_count": 58,
+      "columns": [
+        "alakla",
+        "almintaqa",
+        "alwasf"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأكلات_الشعبية_السعودية",
+      "updated": "2026-10",
+      "size": 16432,
+      "files": {
+        "csv": {
+          "name": "ar-akalat-shaabiya-saudia_AR.csv",
+          "size": 10915
+        },
+        "xlsx": {
+          "name": "ar-akalat-shaabiya-saudia_AR.xlsx",
+          "size": 10394
         }
       }
     },
