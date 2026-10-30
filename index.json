@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:28:58.041Z",
-  "total_datasets": 470,
-  "total_records": 149559,
+  "generated": "2026-10-30T02:29:07.475Z",
+  "total_datasets": 471,
+  "total_records": 149581,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -359,6 +359,34 @@
         "xlsx": {
           "name": "ar-akbar-alsharikat-alsaudia-forbes_AR.xlsx",
           "size": 7876
+        }
+      }
+    },
+    {
+      "id": "ar-alathriya-alarab",
+      "name": "أثرى الأثرياء العرب",
+      "category": "economy",
+      "record_count": 22,
+      "columns": [
+        "altartib",
+        "altartib_alaalami",
+        "alism",
+        "safi_altharwa_milyar_dollar",
+        "alqitaa",
+        "aljinsiya",
+        "alumr"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأثرياء_العرب_حسب_صافي_الثروة",
+      "updated": "2026-10",
+      "size": 8016,
+      "files": {
+        "csv": {
+          "name": "ar-alathriya-alarab_AR.csv",
+          "size": 2441
+        },
+        "xlsx": {
+          "name": "ar-alathriya-alarab_AR.xlsx",
+          "size": 8117
         }
       }
     },

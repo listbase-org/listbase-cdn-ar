@@ -1,0 +1,259 @@
+{
+  "id": "ar-alathriya-alarab",
+  "name": "أثرى الأثرياء العرب",
+  "title": "أثرى الأثرياء العرب",
+  "description": "قائمة أغنى رجال الأعمال العرب حسب صافي الثروة بمليارات الدولارات، مع الترتيب العالمي والقطاع والجنسية والعمر.",
+  "category": "economy",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الأثرياء_العرب_حسب_صافي_الثروة",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الأثرياء_العرب_حسب_صافي_الثروة",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "altartib",
+      "label": "Altartib",
+      "type": "number"
+    },
+    {
+      "key": "altartib_alaalami",
+      "label": "Altartib Alaalami",
+      "type": "number"
+    },
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "safi_altharwa_milyar_dollar",
+      "label": "Safi Altharwa Milyar Dollar",
+      "type": "number"
+    },
+    {
+      "key": "alqitaa",
+      "label": "Alqitaa",
+      "type": "string"
+    },
+    {
+      "key": "aljinsiya",
+      "label": "Aljinsiya",
+      "type": "string"
+    },
+    {
+      "key": "alumr",
+      "label": "Alumr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "altartib": 1,
+      "altartib_alaalami": 305,
+      "alism": "ناصف ساويرس",
+      "safi_altharwa_milyar_dollar": 7.4,
+      "alqitaa": "البناء والاستثمارات",
+      "aljinsiya": "مصر",
+      "alumr": 62
+    },
+    {
+      "altartib": 2,
+      "altartib_alaalami": 591,
+      "alism": "يسعد ربراب",
+      "safi_altharwa_milyar_dollar": 4.6,
+      "alqitaa": "الأغذية والمشروبات",
+      "aljinsiya": "الجزائر",
+      "alumr": 79
+    },
+    {
+      "altartib": 3,
+      "altartib_alaalami": 611,
+      "alism": "حسين سجواني",
+      "safi_altharwa_milyar_dollar": 4.5,
+      "alqitaa": "العقارات",
+      "aljinsiya": "الإمارات العربية المتحدة",
+      "alumr": 70
+    },
+    {
+      "altartib": 4,
+      "altartib_alaalami": 787,
+      "alism": "محمد منصور",
+      "safi_altharwa_milyar_dollar": 3.6,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "مصر",
+      "alumr": 75
+    },
+    {
+      "altartib": 5,
+      "altartib_alaalami": 878,
+      "alism": "الحسن الحفاف",
+      "safi_altharwa_milyar_dollar": 3.3,
+      "alqitaa": "التكنولوجيا المالية",
+      "aljinsiya": "السعودية / فرنسا",
+      "alumr": 69
+    },
+    {
+      "altartib": 6,
+      "altartib_alaalami": 982,
+      "alism": "عبد الله الغرير",
+      "safi_altharwa_milyar_dollar": 3,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "الإمارات العربية المتحدة",
+      "alumr": 93
+    },
+    {
+      "altartib": 7,
+      "altartib_alaalami": 1067,
+      "alism": "نجيب ميقاتي",
+      "safi_altharwa_milyar_dollar": 2.8,
+      "alqitaa": "الاتصالات",
+      "aljinsiya": "لبنان",
+      "alumr": 67
+    },
+    {
+      "altartib": 8,
+      "altartib_alaalami": 1067,
+      "alism": "طه ميقاتي",
+      "safi_altharwa_milyar_dollar": 2.4,
+      "alqitaa": "الاتصالات",
+      "aljinsiya": "لبنان",
+      "alumr": 79
+    },
+    {
+      "altartib": 9,
+      "altartib_alaalami": 1104,
+      "alism": "سهيل بهوان",
+      "safi_altharwa_milyar_dollar": 2.7,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "عمان",
+      "alumr": 85
+    },
+    {
+      "altartib": 10,
+      "altartib_alaalami": 1272,
+      "alism": "عبد الله الفطيم",
+      "safi_altharwa_milyar_dollar": 2.4,
+      "alqitaa": "تجارة السيارات والاستثمارات",
+      "aljinsiya": "الإمارات العربية المتحدة",
+      "alumr": 83
+    },
+    {
+      "altartib": 11,
+      "altartib_alaalami": 1434,
+      "alism": "بهاء الحريري",
+      "safi_altharwa_milyar_dollar": 2.1,
+      "alqitaa": "العقارات والاستثمارات",
+      "aljinsiya": "لبنان / السعودية / فرنسا",
+      "alumr": 57
+    },
+    {
+      "altartib": 12,
+      "altartib_alaalami": 1516,
+      "alism": "محمد الفايد",
+      "safi_altharwa_milyar_dollar": 2,
+      "alqitaa": "العقارات",
+      "aljinsiya": "مصر",
+      "alumr": 94
+    },
+    {
+      "altartib": 13,
+      "altartib_alaalami": 1647,
+      "alism": "فيصل بن قاسم آل ثاني",
+      "safi_altharwa_milyar_dollar": 1.8,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "قطر",
+      "alumr": 75
+    },
+    {
+      "altartib": 14,
+      "altartib_alaalami": 1721,
+      "alism": "محمد السالوسي",
+      "safi_altharwa_milyar_dollar": 1.6,
+      "alqitaa": "التكنولوجيا المالية",
+      "aljinsiya": "مصر",
+      "alumr": 41
+    },
+    {
+      "altartib": 15,
+      "altartib_alaalami": 1905,
+      "alism": "يوسف منصور",
+      "safi_altharwa_milyar_dollar": 1.5,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "مصر",
+      "alumr": 79
+    },
+    {
+      "altartib": 16,
+      "altartib_alaalami": 1905,
+      "alism": "عزيز أخنوش",
+      "safi_altharwa_milyar_dollar": 1.5,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "المغرب",
+      "alumr": 61
+    },
+    {
+      "altartib": 17,
+      "altartib_alaalami": 1905,
+      "alism": "روبير معوض",
+      "safi_altharwa_milyar_dollar": 1.5,
+      "alqitaa": "المجوهرات الفاخرة",
+      "aljinsiya": "لبنان",
+      "alumr": 78
+    },
+    {
+      "altartib": 18,
+      "altartib_alaalami": 2020,
+      "alism": "أيمن الحريري",
+      "safi_altharwa_milyar_dollar": 1.4,
+      "alqitaa": "البناء والاستثمارات",
+      "aljinsiya": "لبنان / السعودية / فرنسا",
+      "alumr": 45
+    },
+    {
+      "altartib": 19,
+      "altartib_alaalami": 2133,
+      "alism": "ياسين منصور",
+      "safi_altharwa_milyar_dollar": 1.3,
+      "alqitaa": "استثمارات متنوعة",
+      "aljinsiya": "مصر",
+      "alumr": 62
+    },
+    {
+      "altartib": 20,
+      "altartib_alaalami": 2133,
+      "alism": "عثمان بن جلون",
+      "safi_altharwa_milyar_dollar": 1.3,
+      "alqitaa": "التمويل والاستثمارات",
+      "aljinsiya": "المغرب",
+      "alumr": 92
+    },
+    {
+      "altartib": 21,
+      "altartib_alaalami": 2259,
+      "alism": "حمد بن جاسم بن جبر آل ثاني",
+      "safi_altharwa_milyar_dollar": 1.2,
+      "alqitaa": "التمويل والاستثمارات",
+      "aljinsiya": "قطر",
+      "alumr": 64
+    },
+    {
+      "altartib": 22,
+      "altartib_alaalami": 2259,
+      "alism": "عامر عبد الفتاح الشوبكي",
+      "safi_altharwa_milyar_dollar": 1.2,
+      "alqitaa": "النفط و الطاقة و العقارات",
+      "aljinsiya": "الاردن / اوروبا",
+      "alumr": 53
+    }
+  ],
+  "meta": {
+    "title": "أثرى الأثرياء العرب - Free Download",
+    "description": "قائمة أغنى رجال الأعمال العرب حسب صافي الثروة بمليارات الدولارات، مع الترتيب العالمي والقطاع والجنسية والعمر. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أثرى الأثرياء العرب | ListBase",
+    "seo_description": "Download أثرى الأثرياء العرب — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الأثرياء_العرب_حسب_صافي_الثروة"
+    ]
+  }
+}
