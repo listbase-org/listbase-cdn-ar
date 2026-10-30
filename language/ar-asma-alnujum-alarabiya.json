@@ -1,0 +1,970 @@
+{
+  "id": "ar-asma-alnujum-alarabiya",
+  "name": "أسماء النجوم العربية",
+  "title": "أسماء النجوم العربية",
+  "description": "النجوم التي تحمل أسماء عربية الأصل، مع تسمية باير والاسم التقليدي المستخدم عالمياً والكوكبة.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أسماء_النجوم_العربية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أسماء_النجوم_العربية",
+  "updated": "2026-10",
+  "record_count": 154,
+  "columns": [
+    {
+      "key": "ism_alnajm",
+      "label": "Ism Alnajm",
+      "type": "string"
+    },
+    {
+      "key": "tasmiyat_bayer",
+      "label": "Tasmiyat Bayer",
+      "type": "string"
+    },
+    {
+      "key": "alism_altaqlidi",
+      "label": "Alism Altaqlidi",
+      "type": "string"
+    },
+    {
+      "key": "alkawkaba",
+      "label": "Alkawkaba",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ism_alnajm": "آخر النهر",
+      "tasmiyat_bayer": "Theta Eridani",
+      "alism_altaqlidi": "Acamar",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "الصافي",
+      "tasmiyat_bayer": "Sigma Draconis",
+      "alism_altaqlidi": "Alsafi",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "الأرنب",
+      "tasmiyat_bayer": "Alpha Leporis",
+      "alism_altaqlidi": "Arneb",
+      "alkawkaba": "الأرنب"
+    },
+    {
+      "ism_alnajm": "أزهى",
+      "tasmiyat_bayer": "Eta Eridani",
+      "alism_altaqlidi": "Azha",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "الأنف",
+      "tasmiyat_bayer": "Epsilon Pegasi",
+      "alism_altaqlidi": "Enif",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "الإزار",
+      "tasmiyat_bayer": "Epsilon Boötis",
+      "alism_altaqlidi": "Izar",
+      "alkawkaba": "العواء"
+    },
+    {
+      "ism_alnajm": "الإلية",
+      "tasmiyat_bayer": "Epsilon Ursae Majoris",
+      "alism_altaqlidi": "Alioth",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "أخفى الفرقدين",
+      "tasmiyat_bayer": "γ UMi",
+      "alism_altaqlidi": "Pherkad",
+      "alkawkaba": "الدب الأصغر"
+    },
+    {
+      "ism_alnajm": "بطن القيطس",
+      "tasmiyat_bayer": "Zeta Ceti",
+      "alism_altaqlidi": "Baten Kaitos",
+      "alkawkaba": "القيطس"
+    },
+    {
+      "ism_alnajm": "بيض",
+      "tasmiyat_bayer": "Omicron¹ Eridani",
+      "alism_altaqlidi": "Beid",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "بنات النعش",
+      "tasmiyat_bayer": "Eta Ursae Majoris",
+      "alism_altaqlidi": "Benetnash",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "بطين",
+      "tasmiyat_bayer": "Delta Arietis",
+      "alism_altaqlidi": "Botein",
+      "alkawkaba": "الحمل"
+    },
+    {
+      "ism_alnajm": "البردون",
+      "tasmiyat_bayer": "Epsilon Centauri",
+      "alism_altaqlidi": "Birdun",
+      "alkawkaba": "قنطور"
+    },
+    {
+      "ism_alnajm": "البالع",
+      "tasmiyat_bayer": "Epsilon Aquarii",
+      "alism_altaqlidi": "Albali",
+      "alkawkaba": "الدلو"
+    },
+    {
+      "ism_alnajm": "البقار",
+      "tasmiyat_bayer": "Beta Boötis",
+      "alism_altaqlidi": "Nekkar",
+      "alkawkaba": "العواء"
+    },
+    {
+      "ism_alnajm": "بلقين",
+      "tasmiyat_bayer": "Tau Pup",
+      "alism_altaqlidi": "Tau Pup",
+      "alkawkaba": "الكوثل"
+    },
+    {
+      "ism_alnajm": "بلدة",
+      "tasmiyat_bayer": "Pi Sagittarii",
+      "alism_altaqlidi": "Albaldah",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "بخاتي",
+      "tasmiyat_bayer": "Eta Geminorum",
+      "alism_altaqlidi": "",
+      "alkawkaba": "التوأمان"
+    },
+    {
+      "ism_alnajm": "التيس",
+      "tasmiyat_bayer": "Delta Draconis",
+      "alism_altaqlidi": "Altais",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "الثعبان",
+      "tasmiyat_bayer": "Alpha Draconis",
+      "alism_altaqlidi": "Thuban",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "الجدي",
+      "tasmiyat_bayer": "Alpha Capricorni",
+      "alism_altaqlidi": "Algedi",
+      "alkawkaba": "الدب الأصغر"
+    },
+    {
+      "ism_alnajm": "الجنب",
+      "tasmiyat_bayer": "Gamma Pegasi",
+      "alism_altaqlidi": "Algenib",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "جبهة الأسد",
+      "tasmiyat_bayer": "Gamma Leonis",
+      "alism_altaqlidi": "Algieba",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "جبار",
+      "tasmiyat_bayer": "BEta Orionis",
+      "alism_altaqlidi": "Algjebbah",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "جدي الجدي",
+      "tasmiyat_bayer": "Alpha Capricorni",
+      "alism_altaqlidi": "Algedi",
+      "alkawkaba": "الجدي"
+    },
+    {
+      "ism_alnajm": "جناح الغراب الأيمن",
+      "tasmiyat_bayer": "Gamma Corvi",
+      "alism_altaqlidi": "Gienah",
+      "alkawkaba": "الغراب"
+    },
+    {
+      "ism_alnajm": "الجناح",
+      "tasmiyat_bayer": "Epsilon Cygni",
+      "alism_altaqlidi": "Gienah",
+      "alkawkaba": "الدجاجة"
+    },
+    {
+      "ism_alnajm": "حضار",
+      "tasmiyat_bayer": "Alpha Centauri",
+      "alism_altaqlidi": "Rigel",
+      "alkawkaba": "قنطورس"
+    },
+    {
+      "ism_alnajm": "حارس السماء",
+      "tasmiyat_bayer": "Alpha Boötis",
+      "alism_altaqlidi": "Arcturus",
+      "alkawkaba": "العواء"
+    },
+    {
+      "ism_alnajm": "الخباء",
+      "tasmiyat_bayer": "Alpha Corvi",
+      "alism_altaqlidi": "Alchiba",
+      "alkawkaba": "الغراب"
+    },
+    {
+      "ism_alnajm": "الدبران",
+      "tasmiyat_bayer": "Alpha Tauri",
+      "alism_altaqlidi": "Aldebaran",
+      "alkawkaba": "الثور"
+    },
+    {
+      "ism_alnajm": "الذئبان",
+      "tasmiyat_bayer": "Psi Draconis",
+      "alism_altaqlidi": "Dziban",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "ذنب الدلفين",
+      "tasmiyat_bayer": "Epsilon Delphini",
+      "alism_altaqlidi": "Deneb Dulfim",
+      "alkawkaba": "الدلفين"
+    },
+    {
+      "ism_alnajm": "ذنب قيطس الشمالي",
+      "tasmiyat_bayer": "Iota Ceti",
+      "alism_altaqlidi": "Deneb Kaitos Shemali",
+      "alkawkaba": "قيطس"
+    },
+    {
+      "ism_alnajm": "ذنب قيطس الجنوبي",
+      "tasmiyat_bayer": "Itha Ceti",
+      "alism_altaqlidi": "Deneb Kaitos janobi",
+      "alkawkaba": "قيطس"
+    },
+    {
+      "ism_alnajm": "الذيخ",
+      "tasmiyat_bayer": "Iota Draconis",
+      "alism_altaqlidi": "Edasich",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "ذيل الأسد",
+      "tasmiyat_bayer": "Beta Leonis",
+      "alism_altaqlidi": "Denebola",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "ذنب الدجاجة",
+      "tasmiyat_bayer": "Alpha Cygni",
+      "alism_altaqlidi": "Deneb‌",
+      "alkawkaba": "الدجاجة"
+    },
+    {
+      "ism_alnajm": "ذنب الجدي",
+      "tasmiyat_bayer": "Delta Capricorni",
+      "alism_altaqlidi": "Deneb Algedi‌",
+      "alkawkaba": "الجدي"
+    },
+    {
+      "ism_alnajm": "الذراع الأيمن",
+      "tasmiyat_bayer": "Alpha Cephei",
+      "alism_altaqlidi": "Alderamin",
+      "alkawkaba": "الملتهب"
+    },
+    {
+      "ism_alnajm": "الذيل",
+      "tasmiyat_bayer": "Xi Andromedae",
+      "alism_altaqlidi": "Adhil",
+      "alkawkaba": "المرأة المسلسلة"
+    },
+    {
+      "ism_alnajm": "رجل الجبار",
+      "tasmiyat_bayer": "Beta Orionis",
+      "alism_altaqlidi": "Algebar",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "رأس الغول",
+      "tasmiyat_bayer": "Beta Persei",
+      "alism_altaqlidi": "Algol",
+      "alkawkaba": "حامل رأس الغول"
+    },
+    {
+      "ism_alnajm": "الراقص",
+      "tasmiyat_bayer": "Mu Draconis",
+      "alism_altaqlidi": "Alrakis",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "راقص الملتهب",
+      "tasmiyat_bayer": "Mu Cephei",
+      "alism_altaqlidi": "Erakis",
+      "alkawkaba": "الملتهب"
+    },
+    {
+      "ism_alnajm": "الراعي",
+      "tasmiyat_bayer": "Gamma Cephei",
+      "alism_altaqlidi": "Errai",
+      "alkawkaba": "الملتهب"
+    },
+    {
+      "ism_alnajm": "رأس الأسد الشمالي",
+      "tasmiyat_bayer": "Mu Leonis",
+      "alism_altaqlidi": "Ras Elased Alshemali",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "رأس الأسد الجنوبي",
+      "tasmiyat_bayer": "Epsilon Leonis",
+      "alism_altaqlidi": "Ras Elased Algenubi",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "رأس الجاثي",
+      "tasmiyat_bayer": "Alpha Herculis‌",
+      "alism_altaqlidi": "Rasalgethi ‌",
+      "alkawkaba": "الجاثي"
+    },
+    {
+      "ism_alnajm": "رأس الحواء",
+      "tasmiyat_bayer": "Alpha Ophiuchi",
+      "alism_altaqlidi": "Ras Alhague‌",
+      "alkawkaba": "الحواء"
+    },
+    {
+      "ism_alnajm": "رأس الثعبان",
+      "tasmiyat_bayer": "Beta Draconis",
+      "alism_altaqlidi": "Rastaban",
+      "alkawkaba": "التنين"
+    },
+    {
+      "ism_alnajm": "رجل القنطور",
+      "tasmiyat_bayer": "Alpha Centauri",
+      "alism_altaqlidi": "Rigil Kentaurus",
+      "alkawkaba": "القنطور"
+    },
+    {
+      "ism_alnajm": "الرشاء",
+      "tasmiyat_bayer": "Alpha Piscium",
+      "alism_altaqlidi": "Alrescha",
+      "alkawkaba": "الحوت"
+    },
+    {
+      "ism_alnajm": "الركبة",
+      "tasmiyat_bayer": "Delta Cassiopeiae",
+      "alism_altaqlidi": "Ruchbah",
+      "alkawkaba": "ذات الكرسي"
+    },
+    {
+      "ism_alnajm": "ركبة الرامي",
+      "tasmiyat_bayer": "Alpha Sagittarii",
+      "alism_altaqlidi": "Ar-Rukbah",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "رأس التوأم المقدم",
+      "tasmiyat_bayer": "Alpha Geminorum",
+      "alism_altaqlidi": "Castor",
+      "alkawkaba": "التوأمان"
+    },
+    {
+      "ism_alnajm": "رأس التوأم المؤخر",
+      "tasmiyat_bayer": "Beta Geminorum",
+      "alism_altaqlidi": "Pollux",
+      "alkawkaba": "التوأمان"
+    },
+    {
+      "ism_alnajm": "الزبانى",
+      "tasmiyat_bayer": "Alpha Cancri",
+      "alism_altaqlidi": "al zubanāh,Acubens",
+      "alkawkaba": "السرطان"
+    },
+    {
+      "ism_alnajm": "الزبان الشمالي",
+      "tasmiyat_bayer": "Beta Librae",
+      "alism_altaqlidi": "Zubeneschamali",
+      "alkawkaba": "الميزان"
+    },
+    {
+      "ism_alnajm": "الزبان الجنوبي",
+      "tasmiyat_bayer": "Alpha Librae",
+      "alism_altaqlidi": "Zubenelgenubi",
+      "alkawkaba": "الميزان"
+    },
+    {
+      "ism_alnajm": "زاوية العذراء",
+      "tasmiyat_bayer": "Eta Virginis",
+      "alism_altaqlidi": "Zaniah",
+      "alkawkaba": "العذراء"
+    },
+    {
+      "ism_alnajm": "زاوية العواء",
+      "tasmiyat_bayer": "Beta Virginis",
+      "alism_altaqlidi": "Zavijava",
+      "alkawkaba": "العذراء"
+    },
+    {
+      "ism_alnajm": "الزورق",
+      "tasmiyat_bayer": "Gamma Eridani",
+      "alism_altaqlidi": "Zaurak",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "سعد المطر",
+      "tasmiyat_bayer": "Eta Pegasi",
+      "alism_altaqlidi": "Matar",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "سعد ناشرة",
+      "tasmiyat_bayer": "Gamma Capricorni",
+      "alism_altaqlidi": "Nashira",
+      "alkawkaba": "الجدي"
+    },
+    {
+      "ism_alnajm": "سابق",
+      "tasmiyat_bayer": "Eta Ophiuchi",
+      "alism_altaqlidi": "Sabik",
+      "alkawkaba": "الحواء"
+    },
+    {
+      "ism_alnajm": "سعد الأخبية",
+      "tasmiyat_bayer": "Gamma Aquarii",
+      "alism_altaqlidi": "Sadachbia",
+      "alkawkaba": "الدلو"
+    },
+    {
+      "ism_alnajm": "سعد بارع",
+      "tasmiyat_bayer": "Mu Pegasi",
+      "alism_altaqlidi": "Sadalbari",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "سرة الفرس",
+      "tasmiyat_bayer": "Alpha Andromedae",
+      "alism_altaqlidi": "Alpheratz",
+      "alkawkaba": "المرأة المسلسلة"
+    },
+    {
+      "ism_alnajm": "سعد البهام",
+      "tasmiyat_bayer": "Theta Pegasi",
+      "alism_altaqlidi": "Baham ‌",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "سعد الذابح",
+      "tasmiyat_bayer": "Beta Capricorni",
+      "alism_altaqlidi": "Dabih",
+      "alkawkaba": "الجدي"
+    },
+    {
+      "ism_alnajm": "سعد الهمام",
+      "tasmiyat_bayer": "Zeta Pegasi",
+      "alism_altaqlidi": "Homam",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "سعد الملك",
+      "tasmiyat_bayer": "Alpha Aquarii",
+      "alism_altaqlidi": "Sadalmelik",
+      "alkawkaba": "الدلو"
+    },
+    {
+      "ism_alnajm": "سعد السعود",
+      "tasmiyat_bayer": "Beta Aquarii",
+      "alism_altaqlidi": "Sadalsuud",
+      "alkawkaba": "الدلو"
+    },
+    {
+      "ism_alnajm": "سيف",
+      "tasmiyat_bayer": "Kappa Orionis",
+      "alism_altaqlidi": "Saiph",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "الساعد",
+      "tasmiyat_bayer": "Beta Pegasi",
+      "alism_altaqlidi": "Scheat",
+      "alkawkaba": "الفرس الأعظم"
+    },
+    {
+      "ism_alnajm": "الساق",
+      "tasmiyat_bayer": "Delta Aquarii",
+      "alism_altaqlidi": "Scheat",
+      "alkawkaba": "الدلو"
+    },
+    {
+      "ism_alnajm": "السلحفاة",
+      "tasmiyat_bayer": "Gamma Lyrae",
+      "alism_altaqlidi": "Sulafat",
+      "alkawkaba": "القيثارة"
+    },
+    {
+      "ism_alnajm": "سهيل",
+      "tasmiyat_bayer": "Canopus",
+      "alism_altaqlidi": "Suhayl",
+      "alkawkaba": "القاعدة"
+    },
+    {
+      "ism_alnajm": "الشولة",
+      "tasmiyat_bayer": "Lambda Scorpii",
+      "alism_altaqlidi": "Shaula",
+      "alkawkaba": "العقرب"
+    },
+    {
+      "ism_alnajm": "الشرطان",
+      "tasmiyat_bayer": "Beta Arietis",
+      "alism_altaqlidi": "Sheratan",
+      "alkawkaba": "الحمل"
+    },
+    {
+      "ism_alnajm": "الشلياق",
+      "tasmiyat_bayer": "Beta Lyrae",
+      "alism_altaqlidi": "Shelyak",
+      "alkawkaba": "القيثارة"
+    },
+    {
+      "ism_alnajm": "الشعرى اليمانية",
+      "tasmiyat_bayer": "Sirius",
+      "alism_altaqlidi": "Sirius",
+      "alkawkaba": "الكلب الأكبر"
+    },
+    {
+      "ism_alnajm": "صدر الدجاجة (نجم)",
+      "tasmiyat_bayer": "Gamma Cygni",
+      "alism_altaqlidi": "Sadr",
+      "alkawkaba": "الدجاجة"
+    },
+    {
+      "ism_alnajm": "صدر ذات الكرسي",
+      "tasmiyat_bayer": "Alpha Cassiopeiae",
+      "alism_altaqlidi": "Schedar",
+      "alkawkaba": "ذات الكرسي"
+    },
+    {
+      "ism_alnajm": "الضفدع الأول",
+      "tasmiyat_bayer": "Beta Ceti",
+      "alism_altaqlidi": "addafda",
+      "alkawkaba": "قيطس"
+    },
+    {
+      "ism_alnajm": "الضفيرة",
+      "tasmiyat_bayer": "Zeta Leonis",
+      "alism_altaqlidi": "ad-Dhafīrah",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "طرف السرطان",
+      "tasmiyat_bayer": "Beta Cancri",
+      "alism_altaqlidi": "Tarf",
+      "alkawkaba": "السرطان"
+    },
+    {
+      "ism_alnajm": "الطرف",
+      "tasmiyat_bayer": "Lambda Leonis",
+      "alism_altaqlidi": "Alterf",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "ظهر الناقة",
+      "tasmiyat_bayer": "Eta Cassiopeiae",
+      "alism_altaqlidi": "Achird",
+      "alkawkaba": "ذات الكرسي"
+    },
+    {
+      "ism_alnajm": "ظهر الدب الأكبر",
+      "tasmiyat_bayer": "Alpha Ursae Majoris",
+      "alism_altaqlidi": "Dubhe",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "عنق الحية",
+      "tasmiyat_bayer": "α Serpentis",
+      "alism_altaqlidi": "Unukalhai",
+      "alkawkaba": "الحية"
+    },
+    {
+      "ism_alnajm": "العواء",
+      "tasmiyat_bayer": "δ Virginis",
+      "alism_altaqlidi": "Auva",
+      "alkawkaba": "العذراء"
+    },
+    {
+      "ism_alnajm": "عقرب",
+      "tasmiyat_bayer": "β Scorpii",
+      "alism_altaqlidi": "Akrab",
+      "alkawkaba": "العقرب"
+    },
+    {
+      "ism_alnajm": "العذارى",
+      "tasmiyat_bayer": "ε Canis Majoris",
+      "alism_altaqlidi": "Adhara",
+      "alkawkaba": "الكلب الأكبر"
+    },
+    {
+      "ism_alnajm": "العين",
+      "tasmiyat_bayer": "ε Tauri",
+      "alism_altaqlidi": "Ain",
+      "alkawkaba": "الثور"
+    },
+    {
+      "ism_alnajm": "العذرة",
+      "tasmiyat_bayer": "η Canis Majoris",
+      "alism_altaqlidi": "Aludra",
+      "alkawkaba": "الكلب الأكبر"
+    },
+    {
+      "ism_alnajm": "عرجة النهر",
+      "tasmiyat_bayer": "Tau2 Eridani",
+      "alism_altaqlidi": "Angetenar",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "العنقاء",
+      "tasmiyat_bayer": "α Phoenicis",
+      "alism_altaqlidi": "Ankaa",
+      "alkawkaba": "العنقاء"
+    },
+    {
+      "ism_alnajm": "العرقوب",
+      "tasmiyat_bayer": "β 1 Sagittarii's",
+      "alism_altaqlidi": "Arkab",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "عاتق الثريا",
+      "tasmiyat_bayer": "ο Persei",
+      "alism_altaqlidi": "Atik",
+      "alkawkaba": "حامل رأس الغول"
+    },
+    {
+      "ism_alnajm": "عناق الأرض",
+      "tasmiyat_bayer": "γ1 And / γ2 And",
+      "alism_altaqlidi": "Almach",
+      "alkawkaba": "المرأة المسلسلة"
+    },
+    {
+      "ism_alnajm": "العيوق",
+      "tasmiyat_bayer": "α Aurigae",
+      "alism_altaqlidi": "Capella",
+      "alkawkaba": "ممسك الأعنة"
+    },
+    {
+      "ism_alnajm": "الغميصاء",
+      "tasmiyat_bayer": "β Canis Minoris",
+      "alism_altaqlidi": "Gomeisa",
+      "alkawkaba": "الكلب الأصغر"
+    },
+    {
+      "ism_alnajm": "الغراب",
+      "tasmiyat_bayer": "δ Corvi",
+      "alism_altaqlidi": "Algorab",
+      "alkawkaba": "الغراب"
+    },
+    {
+      "ism_alnajm": "الفرق",
+      "tasmiyat_bayer": "Beta Cephei",
+      "alism_altaqlidi": "Alfirk",
+      "alkawkaba": "الملتهب"
+    },
+    {
+      "ism_alnajm": "فم الحوت",
+      "tasmiyat_bayer": "α Piscis Austrini",
+      "alism_altaqlidi": "Fomalhaut",
+      "alkawkaba": "الحوت الجنوبي"
+    },
+    {
+      "ism_alnajm": "الفرد",
+      "tasmiyat_bayer": "α Hydrae",
+      "alism_altaqlidi": "Alphard",
+      "alkawkaba": "الشجاع"
+    },
+    {
+      "ism_alnajm": "فرد الكلب الأكبر (نجم)",
+      "tasmiyat_bayer": "Zeta Canis Majoris",
+      "alism_altaqlidi": "Furud",
+      "alkawkaba": "الكلب الأكبر"
+    },
+    {
+      "ism_alnajm": "الفخذة",
+      "tasmiyat_bayer": "Gamma Ursae Majoris",
+      "alism_altaqlidi": "Phad",
+      "alkawkaba": "مجموعة الدب الأكبر المتحركة"
+    },
+    {
+      "ism_alnajm": "فاخثة",
+      "tasmiyat_bayer": "Alpha Columbae",
+      "alism_altaqlidi": "Phact",
+      "alkawkaba": "الحمامة"
+    },
+    {
+      "ism_alnajm": "فرقد",
+      "tasmiyat_bayer": "Gamma Ursae Minoris",
+      "alism_altaqlidi": "Pherkad",
+      "alkawkaba": "الدب الأصغر"
+    },
+    {
+      "ism_alnajm": "القائد",
+      "tasmiyat_bayer": "Eta Ursae Majoris",
+      "alism_altaqlidi": "Alkaid",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الأولى الجنوبية",
+      "tasmiyat_bayer": "Xi Ursae Majoris",
+      "alism_altaqlidi": "Alula Australis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الأولى الشمالية",
+      "tasmiyat_bayer": "Nu Ursae Majoris",
+      "alism_altaqlidi": "Alula Borealis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الثانية الشمالية",
+      "tasmiyat_bayer": "Lambda Ursae Majoris",
+      "alism_altaqlidi": "Tania Borealis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الثانية الجنوبية",
+      "tasmiyat_bayer": "Mu Ursae Majoris",
+      "alism_altaqlidi": "Tania Australis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الثالثة الشمالية",
+      "tasmiyat_bayer": "Iota Ursae Majoris",
+      "alism_altaqlidi": "Talitha Borealis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "القفزة الثالثة الجنوبية",
+      "tasmiyat_bayer": "Kappa Ursae Majoris",
+      "alism_altaqlidi": "Talitha Australis",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "قطعة الفرس",
+      "tasmiyat_bayer": "Alpha Equulei",
+      "alism_altaqlidi": "Kitalpha",
+      "alkawkaba": "قطعة الفرس"
+    },
+    {
+      "ism_alnajm": "القوس الجنوبي",
+      "tasmiyat_bayer": "Epsilon Sagittarii",
+      "alism_altaqlidi": "Kaus Australis",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "القوس الشمالي",
+      "tasmiyat_bayer": "Lambda Sagittarii",
+      "alism_altaqlidi": "Kaus Borealis",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "القوس المتوسط",
+      "tasmiyat_bayer": "Delta Sagittarii",
+      "alism_altaqlidi": "Kaus Media",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "القرحة",
+      "tasmiyat_bayer": "Xi Cephei",
+      "alism_altaqlidi": "Kurhah",
+      "alkawkaba": "الملتهب"
+    },
+    {
+      "ism_alnajm": "قلب العقرب",
+      "tasmiyat_bayer": "α Scorpii",
+      "alism_altaqlidi": "Antares",
+      "alkawkaba": "العقرب"
+    },
+    {
+      "ism_alnajm": "القيض",
+      "tasmiyat_bayer": "40 Eridani",
+      "alism_altaqlidi": "Keid",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "كلب الراعي",
+      "tasmiyat_bayer": "Beta Ophiuchi",
+      "alism_altaqlidi": "Kelb Alrai",
+      "alkawkaba": "الحواء"
+    },
+    {
+      "ism_alnajm": "الكعب ذو العنان",
+      "tasmiyat_bayer": "Iota Aurigae",
+      "alism_altaqlidi": "Kabdhilinan",
+      "alkawkaba": "ممسك الأعنة"
+    },
+    {
+      "ism_alnajm": "الكف الخصيب",
+      "tasmiyat_bayer": "Beta Cassiopeiae",
+      "alism_altaqlidi": "Caph",
+      "alkawkaba": "ذات الكرسي"
+    },
+    {
+      "ism_alnajm": "الكأس",
+      "tasmiyat_bayer": "Alpha Crateris",
+      "alism_altaqlidi": "Alkes",
+      "alkawkaba": "الباطية"
+    },
+    {
+      "ism_alnajm": "الكرسي",
+      "tasmiyat_bayer": "Beta Eridani",
+      "alism_altaqlidi": "Cursa",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "كف الجذماء",
+      "tasmiyat_bayer": "Gamma Ceti",
+      "alism_altaqlidi": "Kaffaljidhma",
+      "alkawkaba": "قيطس"
+    },
+    {
+      "ism_alnajm": "كوكب",
+      "tasmiyat_bayer": "Beta Ursae Minoris",
+      "alism_altaqlidi": "Kochab",
+      "alkawkaba": "الدب الأصغر"
+    },
+    {
+      "ism_alnajm": "ماعز",
+      "tasmiyat_bayer": "ε Aurigae",
+      "alism_altaqlidi": "Almaaz",
+      "alkawkaba": "ممسك الأعنة"
+    },
+    {
+      "ism_alnajm": "المحلفين",
+      "tasmiyat_bayer": "γ Canis Majoris",
+      "alism_altaqlidi": "Muliphein",
+      "alkawkaba": "الكلب الأكبر"
+    },
+    {
+      "ism_alnajm": "المرزم",
+      "tasmiyat_bayer": "γ Orionis",
+      "alism_altaqlidi": "Bellatrix",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "الميسان",
+      "tasmiyat_bayer": "Lambda Orionis",
+      "alism_altaqlidi": "Meissa",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "المنطقة",
+      "tasmiyat_bayer": "Delta Orionis",
+      "alism_altaqlidi": "Mintaka",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "المراق",
+      "tasmiyat_bayer": "Beta Ursae Majoris",
+      "alism_altaqlidi": "Merak",
+      "alkawkaba": "الدب الأكبر"
+    },
+    {
+      "ism_alnajm": "منكب الجوزاء",
+      "tasmiyat_bayer": "Alpha Orionis",
+      "alism_altaqlidi": "Betelgeus",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "المرفق",
+      "tasmiyat_bayer": "Alpha Persei‌",
+      "alism_altaqlidi": "Mirfak",
+      "alkawkaba": "حامل رأس الغول"
+    },
+    {
+      "ism_alnajm": "مرفق الجاثي",
+      "tasmiyat_bayer": "Kappa Herculis",
+      "alism_altaqlidi": "Marsic",
+      "alkawkaba": "الجاثي"
+    },
+    {
+      "ism_alnajm": "المليك",
+      "tasmiyat_bayer": "Alpha Leonis",
+      "alism_altaqlidi": "Regulus",
+      "alkawkaba": "الأسد"
+    },
+    {
+      "ism_alnajm": "المحلف",
+      "tasmiyat_bayer": "Alpha Eridani",
+      "alism_altaqlidi": "Achernar",
+      "alkawkaba": "النهر"
+    },
+    {
+      "ism_alnajm": "النطاق",
+      "tasmiyat_bayer": "Zeta Orionis",
+      "alism_altaqlidi": "Alnitak",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "النياط",
+      "tasmiyat_bayer": "Sigma Scorpii",
+      "alism_altaqlidi": "Alniyat",
+      "alkawkaba": "العقرب"
+    },
+    {
+      "ism_alnajm": "النظام",
+      "tasmiyat_bayer": "Epsilon Orionis",
+      "alism_altaqlidi": "Alnilam",
+      "alkawkaba": "الجبار"
+    },
+    {
+      "ism_alnajm": "النسر الطائر",
+      "tasmiyat_bayer": "Alpha Aquilae",
+      "alism_altaqlidi": "Altair",
+      "alkawkaba": "العقاب"
+    },
+    {
+      "ism_alnajm": "النصل",
+      "tasmiyat_bayer": "Gamma² Sagittarii",
+      "alism_altaqlidi": "Alnasl",
+      "alkawkaba": "الرامي"
+    },
+    {
+      "ism_alnajm": "الناطح",
+      "tasmiyat_bayer": "Alpha Arietis",
+      "alism_altaqlidi": "Hamal",
+      "alkawkaba": "الحمل"
+    },
+    {
+      "ism_alnajm": "النهال",
+      "tasmiyat_bayer": "Beta Leporis",
+      "alism_altaqlidi": "Nihal",
+      "alkawkaba": "الأرنب"
+    },
+    {
+      "ism_alnajm": "النير",
+      "tasmiyat_bayer": "Alpha Gruis",
+      "alism_altaqlidi": "Alnair",
+      "alkawkaba": "الكركي"
+    },
+    {
+      "ism_alnajm": "النطح",
+      "tasmiyat_bayer": "β (Elnath)",
+      "alism_altaqlidi": "Alnath",
+      "alkawkaba": "الثور"
+    },
+    {
+      "ism_alnajm": "الوزن",
+      "tasmiyat_bayer": "Beta Centauri",
+      "alism_altaqlidi": "Hadar",
+      "alkawkaba": "قنطور"
+    }
+  ],
+  "meta": {
+    "title": "أسماء النجوم العربية - Free Download",
+    "description": "النجوم التي تحمل أسماء عربية الأصل، مع تسمية باير والاسم التقليدي المستخدم عالمياً والكوكبة. Contains 154 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أسماء النجوم العربية | ListBase",
+    "seo_description": "Download أسماء النجوم العربية — 154 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 154 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أسماء_النجوم_العربية"
+    ]
+  }
+}

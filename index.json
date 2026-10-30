@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:41.766Z",
-  "total_datasets": 475,
-  "total_records": 149945,
+  "generated": "2026-10-30T02:29:51.073Z",
+  "total_datasets": 476,
+  "total_records": 150099,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -8959,6 +8959,31 @@
         "xlsx": {
           "name": "ar-sa-mawaqi-athariyya_AR.xlsx",
           "size": 9992
+        }
+      }
+    },
+    {
+      "id": "ar-asma-alnujum-alarabiya",
+      "name": "أسماء النجوم العربية",
+      "category": "language",
+      "record_count": 154,
+      "columns": [
+        "ism_alnajm",
+        "tasmiyat_bayer",
+        "alism_altaqlidi",
+        "alkawkaba"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أسماء_النجوم_العربية",
+      "updated": "2026-10",
+      "size": 27859,
+      "files": {
+        "csv": {
+          "name": "ar-asma-alnujum-alarabiya_AR.csv",
+          "size": 10100
+        },
+        "xlsx": {
+          "name": "ar-asma-alnujum-alarabiya_AR.xlsx",
+          "size": 12932
         }
       }
     },
