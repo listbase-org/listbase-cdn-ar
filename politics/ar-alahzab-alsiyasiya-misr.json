@@ -1,0 +1,301 @@
+{
+  "id": "ar-alahzab-alsiyasiya-misr",
+  "name": "الأحزاب السياسية في مصر",
+  "title": "الأحزاب السياسية في مصر",
+  "description": "قائمة الأحزاب السياسية القائمة في مصر مع أيديولوجية كل حزب وتاريخ تأسيسه.",
+  "category": "politics",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_مصر",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "alaydiyulujiya",
+      "label": "Alaydiyulujiya",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_altasis",
+      "label": "Tarikh Altasis",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alism": "مصر العربي الاشتراكي",
+      "alaydiyulujiya": "اشتراكي",
+      "tarikh_altasis": 1976
+    },
+    {
+      "alism": "الأحرار الاشتراكيين",
+      "alaydiyulujiya": "اشتراكي",
+      "tarikh_altasis": 1976
+    },
+    {
+      "alism": "التجمع الوطني التقدمي الوحدوي",
+      "alaydiyulujiya": "يسارية",
+      "tarikh_altasis": 1977
+    },
+    {
+      "alism": "الوفد الجديد",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 1978
+    },
+    {
+      "alism": "الأمة",
+      "alaydiyulujiya": "يسارية",
+      "tarikh_altasis": 1982
+    },
+    {
+      "alism": "الخضر",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 1990
+    },
+    {
+      "alism": "الاتحاد الديمقراطي",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 1990
+    },
+    {
+      "alism": "العربي الديمقراطي الناصري",
+      "alaydiyulujiya": "ناصرية",
+      "tarikh_altasis": 1992
+    },
+    {
+      "alism": "حزب مصر 2000",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2001
+    },
+    {
+      "alism": "حزب الجيل الديمقراطي",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2002
+    },
+    {
+      "alism": "الحزب الدستوري الاجتماعي الحر",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2004
+    },
+    {
+      "alism": "حزب الغد",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 2004
+    },
+    {
+      "alism": "حزب شباب مصر",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2005
+    },
+    {
+      "alism": "حزب السلام الديمقراطي",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2005
+    },
+    {
+      "alism": "الحزب الجمهوري الحر",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2006
+    },
+    {
+      "alism": "حزب الوسط الجديد",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب التحالف الشعبي الاشتراكي",
+      "alaydiyulujiya": "اشتراكي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "النور",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "الفضيلة",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "الأصالة",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب الإصلاح والنهضة",
+      "alaydiyulujiya": "وطني اجتماعي محافظ",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "العدل",
+      "alaydiyulujiya": "وسطى محافظ",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "الكرامة",
+      "alaydiyulujiya": "ناصرية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "المصري الديمقراطي الاجتماعي",
+      "alaydiyulujiya": "ليبرالية اشتراكية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "النهضة",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "مصر الحرية",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "المصريين الأحرار",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب المصريين",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "التغيير والتنمية",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "العمال الديمقراطي",
+      "alaydiyulujiya": "يسارية",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "الشيوعي",
+      "alaydiyulujiya": "أقصى اليسار",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "الحرية",
+      "alaydiyulujiya": "",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "البناء والتنمية",
+      "alaydiyulujiya": "إسلام سياسي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب غد الثورة",
+      "alaydiyulujiya": "ليبرالى",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب الحضارة",
+      "alaydiyulujiya": "يساري وسطي",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب الثورة",
+      "alaydiyulujiya": "ليبرالى وسطى معتدل",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب الحرية المصري",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2011
+    },
+    {
+      "alism": "حزب مصر المستقبل",
+      "alaydiyulujiya": "معتدل",
+      "tarikh_altasis": 2012
+    },
+    {
+      "alism": "حزب نصر بلادي",
+      "alaydiyulujiya": "ديمقراطي اجتماعي",
+      "tarikh_altasis": 2012
+    },
+    {
+      "alism": "حزب الدستور",
+      "alaydiyulujiya": "يساري وسطي",
+      "tarikh_altasis": 2012
+    },
+    {
+      "alism": "حزب مصر القوية",
+      "alaydiyulujiya": "وسطي",
+      "tarikh_altasis": 2012
+    },
+    {
+      "alism": "حزب الشعب الجمهوري",
+      "alaydiyulujiya": "مدنية ليبرالية",
+      "tarikh_altasis": 2012
+    },
+    {
+      "alism": "حزب الحركة الوطنية المصرية",
+      "alaydiyulujiya": "غير معروف",
+      "tarikh_altasis": 2013
+    },
+    {
+      "alism": "حزب الأحرار الدستوريين الجديد",
+      "alaydiyulujiya": "غير واضحة",
+      "tarikh_altasis": 2013
+    },
+    {
+      "alism": "حزب فرسان مصر",
+      "alaydiyulujiya": "غير معروف",
+      "tarikh_altasis": 2013
+    },
+    {
+      "alism": "حزب السادات الديمقراطي",
+      "alaydiyulujiya": "غير معروف",
+      "tarikh_altasis": 2014
+    },
+    {
+      "alism": "حزب مستقبل وطن",
+      "alaydiyulujiya": "مدنية ليبرالية",
+      "tarikh_altasis": 2014
+    },
+    {
+      "alism": "حزب إرادة جيل",
+      "alaydiyulujiya": "ليبرالي",
+      "tarikh_altasis": 2019
+    },
+    {
+      "alism": "حزب شعب مصر",
+      "alaydiyulujiya": "جماهيري",
+      "tarikh_altasis": 2023
+    },
+    {
+      "alism": "حزب مصر اكتوبر",
+      "alaydiyulujiya": "حزب سياسي",
+      "tarikh_altasis": 2023
+    },
+    {
+      "alism": "الحزب الليبرالي المصري",
+      "alaydiyulujiya": "ليبرالية",
+      "tarikh_altasis": 2023
+    },
+    {
+      "alism": "الجبهة الوطنية",
+      "alaydiyulujiya": "براغماتية",
+      "tarikh_altasis": 2024
+    }
+  ],
+  "meta": {
+    "title": "الأحزاب السياسية في مصر - Free Download",
+    "description": "قائمة الأحزاب السياسية القائمة في مصر مع أيديولوجية كل حزب وتاريخ تأسيسه. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الأحزاب السياسية في مصر | ListBase",
+    "seo_description": "Download الأحزاب السياسية في مصر — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_مصر"
+    ]
+  }
+}

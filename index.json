@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:18.455Z",
-  "total_datasets": 472,
-  "total_records": 149685,
+  "generated": "2026-10-30T02:29:26.134Z",
+  "total_datasets": 473,
+  "total_records": 149737,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -9138,6 +9138,30 @@
         "xlsx": {
           "name": "ar-maqamat-asasiya_AR.xlsx",
           "size": 7192
+        }
+      }
+    },
+    {
+      "id": "ar-alahzab-alsiyasiya-misr",
+      "name": "الأحزاب السياسية في مصر",
+      "category": "politics",
+      "record_count": 52,
+      "columns": [
+        "alism",
+        "alaydiyulujiya",
+        "tarikh_altasis"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_مصر",
+      "updated": "2026-10",
+      "size": 8700,
+      "files": {
+        "csv": {
+          "name": "ar-alahzab-alsiyasiya-misr_AR.csv",
+          "size": 3124
+        },
+        "xlsx": {
+          "name": "ar-alahzab-alsiyasiya-misr_AR.xlsx",
+          "size": 8231
         }
       }
     },
