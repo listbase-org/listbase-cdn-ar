@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:33.387Z",
-  "total_datasets": 474,
-  "total_records": 149926,
+  "generated": "2026-10-30T02:29:41.766Z",
+  "total_datasets": 475,
+  "total_records": 149945,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -9008,6 +9008,30 @@
         "xlsx": {
           "name": "ar-majami-allugha-alarabiya_AR.xlsx",
           "size": 7551
+        }
+      }
+    },
+    {
+      "id": "ar-ittifaqiyat-aljazair-taslim-almujrimin",
+      "name": "اتفاقيات الجزائر لتسليم المجرمين",
+      "category": "law",
+      "record_count": 19,
+      "columns": [
+        "aldawla",
+        "tarikh_altawqi",
+        "tarikh_almusadaqa"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_اتفاقيات_الجزائر_لتسليم_المجرمين",
+      "updated": "2026-10",
+      "size": 4699,
+      "files": {
+        "csv": {
+          "name": "ar-ittifaqiyat-aljazair-taslim-almujrimin_AR.csv",
+          "size": 1255
+        },
+        "xlsx": {
+          "name": "ar-ittifaqiyat-aljazair-taslim-almujrimin_AR.xlsx",
+          "size": 7539
         }
       }
     },
