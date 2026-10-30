@@ -1,0 +1,888 @@
+{
+  "id": "ar-alab-fidyo-tadam-alarabiya",
+  "name": "ألعاب الفيديو التي تدعم اللغة العربية",
+  "title": "ألعاب الفيديو التي تدعم اللغة العربية",
+  "description": "قائمة ألعاب الفيديو المعرّبة رسمياً بالترجمة أو الدبلجة العربية، مع سنة الإصدار والمنصات ونوع اللعبة.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_ألعاب_الفيديو_التي_تدعم_اللغة_العربية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_ألعاب_الفيديو_التي_تدعم_اللغة_العربية",
+  "updated": "2026-10",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "sanat_alisdar",
+      "label": "Sanat Alisdar",
+      "type": "number"
+    },
+    {
+      "key": "ism_allueba",
+      "label": "Ism Allueba",
+      "type": "string"
+    },
+    {
+      "key": "almanassat",
+      "label": "Almanassat",
+      "type": "string"
+    },
+    {
+      "key": "naw_allueba",
+      "label": "Naw Allueba",
+      "type": "string"
+    },
+    {
+      "key": "altarib_altarjama",
+      "label": "Altarib Altarjama",
+      "type": "string"
+    },
+    {
+      "key": "altarib_aldablaja",
+      "label": "Altarib Aldablaja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sanat_alisdar": 2008,
+      "ism_allueba": "وول-ي",
+      "almanassat": "مايكروسوفت ويندوز - ماك أو إس إكس - بلاي ستيشن 2 - بلاي ستيشن بورتبل - إكس بوكس 360 - بلاي ستيشن 3 - وي - نينتندو دي أس",
+      "naw_allueba": "منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2011,
+      "ism_allueba": "ماينكرافت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 3 - إكس بوكس 360 - نينتندو سويتش - ماك أو إس - لينكس - أندرويد - آي أو إس - ويندوز فون - بلاي ستيشن فيتا - منصة ويندوز العالمية - وي يو - تي في أو إس - نيو نينتندو 3دي أس - راسبيري باي - فيل أو إس",
+      "naw_allueba": "بقاء ، عالم مفتوح",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2012,
+      "ism_allueba": "جورني",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - بلاي ستيشن 3 - آي أو إس",
+      "naw_allueba": "لعبة مستقلة ، مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2013,
+      "ism_allueba": "توم ريدر",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - بلاي ستيشن 3 - إكس بوكس 360 - ماك أو إس - لينكس - إنفيديا شيلد تي في",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2013,
+      "ism_allueba": "أسفلت 8: القيادة الهوائية",
+      "almanassat": "مايكروسوفت ويندوز - ماك أو إس - أندرويد - آي أو إس",
+      "naw_allueba": "سباقات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2013,
+      "ism_allueba": "أساسنز كريد 4: بلاك فلاغ",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 3 - إكس بوكس 360 - نينتندو سويتش - وي يو - جوجل ستاديا",
+      "naw_allueba": "أكشن مغامرات ، تسلل",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2014,
+      "ism_allueba": "أساسنز كريد روغ",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 3 - إكس بوكس 360 - نينتندو سويتش",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2014,
+      "ism_allueba": "أساسنز كريد يونيتي",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا",
+      "naw_allueba": "أكشن مغامرات ، تسلل",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2014,
+      "ism_allueba": "أمونغ ذا سليب",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - ماك أو إس - لينكس",
+      "naw_allueba": "أكشن مغامرات ، رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2015,
+      "ism_allueba": "أنسيستورس: ذا هيومن كايند أوديسي",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "بقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2015,
+      "ism_allueba": "جست كوز 3",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2015,
+      "ism_allueba": "رايز أوف ذا توم ريدر",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - إكس بوكس 360 - ماك أو إس - لينكس",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2015,
+      "ism_allueba": "فورزا موتورسبورت 6",
+      "almanassat": "مايكروسوفت ويندوز - إكس بوكس ون",
+      "naw_allueba": "سباقات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2015,
+      "ism_allueba": "أساسنز كريد سنديكيت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "باتلفيلد 1",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "باتمان: ذا تلتيل سيريس",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 3 - إكس بوكس 360 - نينتندو سويتش - أندرويد - آي أو إس",
+      "naw_allueba": "مغامرات ، تأشير ونقر",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "أنشارتد 4: نهاية لص",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "لا",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "راتشت أند كلانك",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "لعبة منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "توم كلانسيز ذا ديفيجن",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن تقمص الأدوار ، جماعية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2016,
+      "ism_allueba": "آخر الحماة",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "ريزدنت إيفل 7: بايوهازرد",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - مايكروسوفت ويندوز - جوجل ستاديا - آي أو إس - آي باد أو إس - ماك أو إس",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "أساسنز كريد أوريجنز",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "توم كلانسز جوست ريكون ويلدلاندز",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "تصويب منظور الشخص الثالث ، جماعية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "ببجي",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا - آي أو إس - أندرويد",
+      "naw_allueba": "لعبة باتل رويال",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "باتمان: ذا إنمي ويثن",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - ماك أو إس - أندرويد - آي أو إس",
+      "naw_allueba": "مغامرات ، تأشير ونقر",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "ليت شيفت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - ماك أو إس",
+      "naw_allueba": "فيلم تفاعلي",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "أنشارتد: الإرث المفقود",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "لا",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "هيدين أغيندا",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "فور أونور",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "هيل بليد: سنواز سكريفايس",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - إكس بوكس كلاود غيمنغ - نينتندو سويتش",
+      "naw_allueba": "فنتازيا مظلمة ، أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "هوريزن زيرو دون",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "ميدل إيرث: شادو أوف وور",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "غران توريزمو سبورت",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "سباقات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "فورتنايت",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - مايكروسوفت ويندوز - أندرويد",
+      "naw_allueba": "عالم مفتوح ، بقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2017,
+      "ism_allueba": "ناك 2",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "لعبة منصات ، مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "أساسنز كريد أوديسي",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "في جناح التنويم",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "رعب نفسي",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "مونستر هنتر: ورلد",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "فلورنسا",
+      "almanassat": "مايكروسوفت ويندوز - نينتندو سويتش - ماك أو إس - أندرويد - آي أو إس",
+      "naw_allueba": "قصص تفاعلية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "سبايرو رئغنايدت ترلوجي",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش",
+      "naw_allueba": "لعبة منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "دارك سايدرز 3",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "سبايدرمان",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "لا",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "فار كراي 5",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "أسترو بوت ريسكو ميشن",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "لعبة منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "جست كوز 4",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "ديترويت: نحو الإنسانية",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4",
+      "naw_allueba": "مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "شادو أوف ذا توم ريدر",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - ماك أو إس - لينكس - جوجل ستاديا",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "جامب فورس",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "لعبة قتال",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "باتلفيلد 5 (اللعب الجماعي فقط)",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2018,
+      "ism_allueba": "ريترن أف ذا أوبرا دين",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - ماك أو إس",
+      "naw_allueba": "لعبة ألغاز ، لعبة فيديو مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "كونكريت جيني",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "كول أوف ديوتي: مودرن وورفير",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "ريزدنت إيفل 2 (2019)",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - مايكروسوفت ويندوز - آي أو إس - آي باد أو إس - ماك أو إس",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "مورتال كومبات 11",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "لعبة قتال",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "فار كراي نيو داون",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "داي مير: 1998",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "نيكروباريستا",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - ماك أو إس - آي أو إس",
+      "naw_allueba": "رواية مرئية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "كراش تيم رايسنغ نايترو-فيولد",
+      "almanassat": "بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش",
+      "naw_allueba": "سباقات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "ميد إيفل",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "أيام مضت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات ، رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "كنترول",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - أمازون لونا",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "ذا دارك بيكشرز: مان أف مايدن",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "قصص تفاعلية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "توم كلانسيز ذا ديفيجن 2",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا",
+      "naw_allueba": "أكشن تقمص الأدوار ، جماعية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "توم كلانسيز غوست ريكون بريكبوينت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - جوجل ستاديا",
+      "naw_allueba": "تصويب تكتيكي ، جماعية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "إي فوتبول برو إفولوشن سوكر 2020",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - أندرويد - آي أو إس",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "ديث ستراندنغ",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4",
+      "naw_allueba": "أكشن",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "غيرز 5",
+      "almanassat": "مايكروسوفت ويندوز - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس",
+      "naw_allueba": "تصويب منظور الشخص الثالث",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2019,
+      "ism_allueba": "اريكا",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - آي أو إس",
+      "naw_allueba": "حركة كاملة",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "أساسنز كريد فالهالا",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - جوجل ستاديا - أمازون لونا",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "دراغون بول زد: كاكاروت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "أحلام",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5",
+      "naw_allueba": "إنشاء مراحل",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "ريزدنت إيفل 3 (لعبة فيديو 2020)",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - مايكروسوفت ويندوز",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "بريديتور: هونتينج جراوندس",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4",
+      "naw_allueba": "جماعية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "كابتن تسوباسا: رايس أف نيو تشامبيونس",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - نينتندو سويتش",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "إي فوتبول بيس 2021 سيسون أبديت",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - آي أو إس - أندرويد",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "فيفا 21",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "ديستروي أول هيومن!",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "عالم مفتوح ، أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "أفنجرز",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - جوجل ستاديا",
+      "naw_allueba": "أكشن تقمص الأدوار ، بيتم أب",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "سبايدرمان: مايلز موراليس",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "لا",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "كراش بانديكوت 4: إتز أباوت تايم",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش",
+      "naw_allueba": "لعبة منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "شبح تسوشيما",
+      "almanassat": "بلاي ستيشن 4",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "هايبر سكيب",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس",
+      "naw_allueba": "تصويب منظور الشخص الأول ، لعبة مجانية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "فالورانت",
+      "almanassat": "مايكروسوفت ويندوز",
+      "naw_allueba": "تصويب منظور الشخص الأول ، لعبة مجانية",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "مايد أف سكار",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - نينتندو سويتش",
+      "naw_allueba": "تصويب منظور الشخص الأول ، رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "السرمديون، فينكس نحو القمة",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "سايبر بانك 2077",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - جوجل ستاديا",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "ديمونز سولز",
+      "almanassat": "بلاي ستيشن 5",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2020,
+      "ism_allueba": "أستروز بلاي روم",
+      "almanassat": "بلاي ستيشن 5",
+      "naw_allueba": "لعبة منصات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "الكوابيس الصغيرة 2",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - جوجل ستاديا",
+      "naw_allueba": "لعبة منصات ، مغامرات ، رعب",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "ريزدنت إيفل فيلدج",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش - مايكروسوفت ويندوز - جوجل ستاديا - آي أو إس - آي باد أو إس - ماك أو إس",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "ريتورنل",
+      "almanassat": "بلاي ستيشن 5",
+      "naw_allueba": "رعب نفسي ، روجلايك",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "إي فوتبول 2022",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - آي أو إس - أندرويد",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "فيفا 22",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش",
+      "naw_allueba": "محاكاة كرة القدم",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "فار كراي 6",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - جوجل ستاديا - أمازون لونا",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2021,
+      "ism_allueba": "باتلفيلد 2042",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس",
+      "naw_allueba": "تصويب منظور الشخص الأول",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2022,
+      "ism_allueba": "أنشارتد: مجموعة إرث اللصوص",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 5",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "لا",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2022,
+      "ism_allueba": "داينغ لايت 2",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - نينتندو سويتش",
+      "naw_allueba": "أكشن تقمص الأدوار ، رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2022,
+      "ism_allueba": "هورايزن الغرب المحظور",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2022,
+      "ism_allueba": "جوست واير: طوكيو",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2022,
+      "ism_allueba": "إله الحرب: راجناروك",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - مايكروسوفت ويندوز",
+      "naw_allueba": "أكشن مغامرات ، تقطيع وذبح",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2023,
+      "ism_allueba": "ريزدنت إيفل 4 (لعبة فيديو 2023)",
+      "almanassat": "بلاي ستيشن 4 - بلاي ستيشن 5 - إكس بوكس ون - إكس بوكس سيريس إكس وسيريس أس - مايكروسوفت ويندوز - آي أو إس - آي باد أو إس - ماك أو إس - بلاي ستيشن في آر 2",
+      "naw_allueba": "رعب البقاء",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2023,
+      "ism_allueba": "فاينل فانتسي 16",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 5",
+      "naw_allueba": "أكشن تقمص الأدوار",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "لا"
+    },
+    {
+      "sanat_alisdar": 2023,
+      "ism_allueba": "أساسنز كريد: السراب",
+      "almanassat": "مايكروسوفت ويندوز - بلاي ستيشن 4 - إكس بوكس ون - بلاي ستيشن 5 - إكس بوكس سيريس إكس وسيريس أس - آي أو إس - آي باد أو إس",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    },
+    {
+      "sanat_alisdar": 2023,
+      "ism_allueba": "سبايدر مان 2 (لعبة فيديو 2023)",
+      "almanassat": "بلاي ستيشن 5 - مايكروسوفت ويندوز",
+      "naw_allueba": "أكشن مغامرات",
+      "altarib_altarjama": "نعم",
+      "altarib_aldablaja": "نعم"
+    }
+  ],
+  "meta": {
+    "title": "ألعاب الفيديو التي تدعم اللغة العربية - Free Download",
+    "description": "قائمة ألعاب الفيديو المعرّبة رسمياً بالترجمة أو الدبلجة العربية، مع سنة الإصدار والمنصات ونوع اللعبة. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ألعاب الفيديو التي تدعم اللغة العربية | ListBase",
+    "seo_description": "Download ألعاب الفيديو التي تدعم اللغة العربية — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_ألعاب_الفيديو_التي_تدعم_اللغة_العربية"
+    ]
+  }
+}

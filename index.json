@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:07.475Z",
-  "total_datasets": 471,
-  "total_records": 149581,
+  "generated": "2026-10-30T02:29:18.455Z",
+  "total_datasets": 472,
+  "total_records": 149685,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -11609,6 +11609,33 @@
         "xlsx": {
           "name": "ar-tunis-andiyat-kurat-qadam_AR.xlsx",
           "size": 7141
+        }
+      }
+    },
+    {
+      "id": "ar-alab-fidyo-tadam-alarabiya",
+      "name": "ألعاب الفيديو التي تدعم اللغة العربية",
+      "category": "tech",
+      "record_count": 104,
+      "columns": [
+        "sanat_alisdar",
+        "ism_allueba",
+        "almanassat",
+        "naw_allueba",
+        "altarib_altarjama",
+        "altarib_aldablaja"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_ألعاب_الفيديو_التي_تدعم_اللغة_العربية",
+      "updated": "2026-10",
+      "size": 39956,
+      "files": {
+        "csv": {
+          "name": "ar-alab-fidyo-tadam-alarabiya_AR.csv",
+          "size": 21642
+        },
+        "xlsx": {
+          "name": "ar-alab-fidyo-tadam-alarabiya_AR.xlsx",
+          "size": 11854
         }
       }
     },
