@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:26.134Z",
-  "total_datasets": 473,
-  "total_records": 149737,
+  "generated": "2026-10-30T02:29:33.387Z",
+  "total_datasets": 474,
+  "total_records": 149926,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -11276,6 +11276,32 @@
         "xlsx": {
           "name": "ar-yaman-qanawat-tilfiziyya_AR.xlsx",
           "size": 8721
+        }
+      }
+    },
+    {
+      "id": "ar-asmak-alkhalij-alarabi",
+      "name": "أسماك الخليج العربي",
+      "category": "science",
+      "record_count": 189,
+      "columns": [
+        "alaila",
+        "alism_alilmi",
+        "alism_alshai",
+        "alism_almahalli",
+        "halat_alhifz"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أسماك_الخليج_العربي",
+      "updated": "2026-10",
+      "size": 47964,
+      "files": {
+        "csv": {
+          "name": "ar-asmak-alkhalij-alarabi_AR.csv",
+          "size": 22678
+        },
+        "xlsx": {
+          "name": "ar-asmak-alkhalij-alarabi_AR.xlsx",
+          "size": 15962
         }
       }
     },

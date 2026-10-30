@@ -1,0 +1,1374 @@
+{
+  "id": "ar-asmak-alkhalij-alarabi",
+  "name": "أسماك الخليج العربي",
+  "title": "أسماك الخليج العربي",
+  "description": "قائمة أنواع الأسماك في الخليج العربي حسب العائلة مع الاسم العلمي والاسم الشائع والاسم المحلي وحالة الحفظ.",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أسماك_الخليج_العربي",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أسماك_الخليج_العربي",
+  "updated": "2026-10",
+  "record_count": 189,
+  "columns": [
+    {
+      "key": "alaila",
+      "label": "Alaila",
+      "type": "string"
+    },
+    {
+      "key": "alism_alilmi",
+      "label": "Alism Alilmi",
+      "type": "string"
+    },
+    {
+      "key": "alism_alshai",
+      "label": "Alism Alshai",
+      "type": "string"
+    },
+    {
+      "key": "alism_almahalli",
+      "label": "Alism Almahalli",
+      "type": "string"
+    },
+    {
+      "key": "halat_alhifz",
+      "label": "Halat Alhifz",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alaila": "وحيد القرنيات",
+      "alism_alilmi": "رينكودون تايبس",
+      "alism_alshai": "قرش الحوت",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "نصفيات",
+      "alism_alilmi": "تشيلوسيلليوم عربيكوم",
+      "alism_alshai": "قرش السجاد العربي",
+      "alism_almahalli": "",
+      "halat_alhifz": "على وشك التهديد"
+    },
+    {
+      "alaila": "ستيجوستوميداي",
+      "alism_alilmi": "ستيجوستوما تيغرينيوم",
+      "alism_alshai": "قرش الحمار الوحشي",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "جينجليموستوماتيداي",
+      "alism_alilmi": "نيبريوس فيروجينيوس",
+      "alism_alshai": "سمكة قرش الممرضة السمراء",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "أودونتاسبيديداي",
+      "alism_alilmi": "كاركارياس الثور",
+      "alism_alshai": "قرش النمر الرملي",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "ثلاثيات",
+      "alism_alilmi": "موسيلوس موسيس",
+      "alism_alshai": "القرش العربي",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "نصفيات",
+      "alism_alilmi": "نصفيبريستيس إيلونجاتا",
+      "alism_alshai": "سمكة القرش ذات الأسنان المتعرجة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "نصفيات",
+      "alism_alilmi": "باراغاليوس لونجيكاداتوس",
+      "alism_alshai": "قرش ابن عرس النحيل",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس أمبليرهينشويدس",
+      "alism_alshai": "سمكة قرش رشيقة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس أمبوينسيس",
+      "alism_alshai": "سمكة قرش ذات عيون خنزيرية",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس دوسوميري",
+      "alism_alshai": "سمكة قرش بيضاء الخدود",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس ليوكاس",
+      "alism_alshai": "سمكة قرش الثور",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس ليمباتوس",
+      "alism_alshai": "سمك القرش ذو الأطراف السوداء الشائع",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس ميلانوبتيروس",
+      "alism_alshai": "قرش الشعاب المرجانية ذو الطرف الأسود",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس بلومبيوس",
+      "alism_alshai": "سمكة قرش الرمل",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "كاركارينوس سوراه",
+      "alism_alshai": "سمكة القرش ذات الذيل المرقط",
+      "alism_almahalli": "ياريوور",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كاركارهينيدي",
+      "alism_alilmi": "ريزوبريونودون أكوتوس",
+      "alism_alshai": "سمكة قرش الحليب",
+      "alism_almahalli": "ياريوور",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "جاليوسردونيداي",
+      "alism_alilmi": "غاليوسيردو كوفييه",
+      "alism_alshai": "سمكة قرش النمر",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "سيفرنا موكران",
+      "alism_alshai": "سمكة المطرقة الكبيرة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "سفيرنا زيجاينا",
+      "alism_alshai": "مطرقة ناعمة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "نارسينيداي",
+      "alism_alilmi": "نارسين تيملي",
+      "alism_alshai": "سمكة النمب البنية",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "طوربيدينيداي",
+      "alism_alilmi": "النمر الطوربيدي",
+      "alism_alshai": "طوربيد بانثر",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "طوربيدينيداي",
+      "alism_alilmi": "طوربيد الجيوب الأنفية",
+      "alism_alshai": "طوربيد الخليج الفارسي",
+      "alism_almahalli": "",
+      "halat_alhifz": "البيانات ناقصة"
+    },
+    {
+      "alaila": "وحيد القرن",
+      "alism_alilmi": "رينا أنكلستوما",
+      "alism_alshai": "سمكة القيثارة ذات الفم المقوس",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "وحيد القرن",
+      "alism_alilmi": "رينكوباتوس دجيدنسيس",
+      "alism_alshai": "سمكة القيثارة العملاقة",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "وحيد القرن",
+      "alism_alilmi": "رينكوباتوس ليفيس",
+      "alism_alshai": "سمكة القيثارة العملاقة",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "وحيد القرن",
+      "alism_alilmi": "رينوباتوس بونكتيفر",
+      "alism_alshai": "سمكة القيثارة المرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": "على وشك التهديد"
+    },
+    {
+      "alaila": "جلوكوستيجيداي",
+      "alism_alilmi": "غلوكوستيجوس حبيبي",
+      "alism_alshai": "سمكة القيثارة العملاقة ذات الأنف الحاد",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "بريستيداي",
+      "alism_alilmi": "أنوكسيبريستيس كوزبيداتا",
+      "alism_alshai": "سمكة المنشار ذات الأسنان السكينية",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "بريستيداي",
+      "alism_alilmi": "بريستس زيرجوم",
+      "alism_alshai": "سمك المنشار الأخضر",
+      "alism_almahalli": "",
+      "halat_alhifz": "معرضة للخطر بشكل حرج"
+    },
+    {
+      "alaila": "راجيداي",
+      "alism_alilmi": "راجا بيتا",
+      "alism_alshai": "خبز البيتا سمك الراي",
+      "alism_almahalli": "",
+      "halat_alhifz": "البيانات ناقصة"
+    },
+    {
+      "alaila": "داسياتيدي",
+      "alism_alilmi": "Himantura uarnak",
+      "alism_alshai": "قرص العسل، أو سمك الراي ذو السوط",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "داسياتيدي",
+      "alism_alilmi": "ماكولاباتيس راندالي",
+      "alism_alshai": "سمك الراي العربي",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "داسياتيدي",
+      "alism_alilmi": "باستيناكوس سيفين",
+      "alism_alshai": "سمكة الراي ذيل البقرة",
+      "alism_almahalli": "",
+      "halat_alhifz": "على وشك التهديد"
+    },
+    {
+      "alaila": "داسياتيدي",
+      "alism_alilmi": "تاينيورا ليما",
+      "alism_alshai": "شعاع ذيل الشريط ذو البقع الزرقاء",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "داسياتيدي",
+      "alism_alilmi": "تاينيروبس مييني",
+      "alism_alshai": "شعاع ذيل الشريط المستدير",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "جمبريات",
+      "alism_alilmi": "جيمنورا بويسيلورا",
+      "alism_alshai": "شعاع الفراشة طويل الذيل",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "ميليوباتيدي",
+      "alism_alilmi": "أيتوميلايوس ماكولاتوس",
+      "alism_alshai": "شيطان البحر المرقط",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "ميليوباتيدي",
+      "alism_alilmi": "أيتوميلايوس نيكوفي",
+      "alism_alshai": "سمكة الراي النسر المخططة",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "طيور الزينة",
+      "alism_alilmi": "ريهنوبيترا جاكاري",
+      "alism_alshai": "سمكة الراي العمانية",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "موبوليداي",
+      "alism_alilmi": "موبولا موبولار",
+      "alism_alshai": "شيطان البحر العملاق",
+      "alism_almahalli": "",
+      "halat_alhifz": "مهددة بالانقراض"
+    },
+    {
+      "alaila": "سمك الطربون",
+      "alism_alilmi": "ميغالوبس سيبرينويدس",
+      "alism_alshai": "سمك الطربون في المحيطين الهندي والهادئ",
+      "alism_almahalli": "",
+      "halat_alhifz": "البيانات ناقصة"
+    },
+    {
+      "alaila": "موراي",
+      "alism_alilmi": "سديم النضناض",
+      "alism_alshai": "ثعبان موراي ندفة الثلج",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موراي",
+      "alism_alilmi": "حمار وحشي جيمنوموراينا",
+      "alism_alshai": "موراي الحمار الوحشي",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موراي",
+      "alism_alilmi": "جماجم الصدر المتموجة",
+      "alism_alshai": "أفعى موراي متموجة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "ثعبان البحر",
+      "alism_alilmi": "مورينسوكس سينيريوس",
+      "alism_alshai": "سمكة الرمح ذات الأنياب الخنجرية",
+      "alism_almahalli": "أنقاليس مرماهي",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بلوتوسيدي",
+      "alism_alilmi": "بلوتوسوس لينياتوس",
+      "alism_alshai": "سمك السلور المخطط",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سمك السلور البحري",
+      "alism_alilmi": "نيوتاما بيلينيتا",
+      "alism_alshai": "سمك السلور البرينزي",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سمك السلور البحري",
+      "alism_alilmi": "نيوتاما بيلينيتا",
+      "alism_alshai": "سمك السلور العملاق",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سيندونتيداي",
+      "alism_alilmi": "سايوريدا تامبيل",
+      "alism_alshai": "سمكة السحلية الكبيرة",
+      "alism_almahalli": "حسون",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "ستروماتيداي",
+      "alism_alilmi": "بامبوس أرجينتيوس",
+      "alism_alshai": "سمكة بومفريت فضية أو بومفريت بيضاء",
+      "alism_almahalli": "زبيدي",
+      "halat_alhifz": "لم يتم تقييمه"
+    },
+    {
+      "alaila": "طيور السكومبريداي",
+      "alism_alilmi": "يوثينوس أفينيس",
+      "alism_alshai": "كاواكاوا",
+      "alism_almahalli": "تابان",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "طيور السكومبريداي",
+      "alism_alilmi": "راستريليجر كاناجورتا",
+      "alism_alshai": "سمك الماكريل الهندي طويل الفك",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "طيور السكومبريداي",
+      "alism_alilmi": "سكومبروموروروس كوميرسون",
+      "alism_alshai": "سمك الماكريل الإسباني الضيق",
+      "alism_almahalli": "شاناد",
+      "halat_alhifz": "على وشك التهديد"
+    },
+    {
+      "alaila": "تريكوريداي",
+      "alism_alilmi": "تريشوروس ليبتوروس",
+      "alism_alshai": "سمك الحزام",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الموليداي",
+      "alism_alilmi": "أوبينيوس أوليجوسبيلوس",
+      "alism_alshai": "",
+      "alism_almahalli": "السلطان إبراهيم",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الموليداي",
+      "alism_alilmi": "باروبينوس مارغريتاتوس",
+      "alism_alshai": "سمكة الماعز",
+      "alism_almahalli": "السلطان إبراهيم",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "سمكة الباراكودا سفيرينا",
+      "alism_alshai": "سمكة الباراكودا العظيمة",
+      "alism_almahalli": "جد",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "باركودا الزعنفة السوداء",
+      "alism_alshai": "سمكة باراكودا ذات الزعانف السوداء",
+      "alism_almahalli": "جد",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "جيلي سفيرينا",
+      "alism_alshai": "سمكة باراكودا بمقبض مخلل",
+      "alism_almahalli": "جد",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سفيرنيداي",
+      "alism_alilmi": "سفيرينا فلافيكودا",
+      "alism_alshai": "سمكة الباراكودا ذات الذيل الأصفر",
+      "alism_almahalli": "جد",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "مينيداي",
+      "alism_alilmi": "مين ماكولاتا",
+      "alism_alshai": "سمكة القمر",
+      "alism_almahalli": "",
+      "halat_alhifz": "لم يتم تقييمه"
+    },
+    {
+      "alaila": "بولينيميداي",
+      "alism_alilmi": "إليوثيرونيما تيتراداكتيلوم",
+      "alism_alshai": "زعانف خيطية بأربعة أصابع",
+      "alism_almahalli": "شيم",
+      "halat_alhifz": "لم يتم تقييمه"
+    },
+    {
+      "alaila": "البسيتوديات",
+      "alism_alilmi": "بسيتودس إيرومي",
+      "alism_alshai": "سمك الهلبوت الهندي",
+      "alism_almahalli": "",
+      "halat_alhifz": "البيانات ناقصة"
+    },
+    {
+      "alaila": "بوثيداي",
+      "alism_alilmi": "بوثوس بانثرينوس",
+      "alism_alshai": "سمكة فلوندر النمر",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "سينوغلوسيداي",
+      "alism_alilmi": "سينوجلوسوس أريل",
+      "alism_alshai": "اللسان",
+      "alism_almahalli": "لسان",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "كارانكس إينوبيليس",
+      "alism_alshai": "سمكة التريفالي العملاقة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "كارانكس سيكسفاسياتوس",
+      "alism_alshai": "سمكة التريفالي كبيرة العين",
+      "alism_almahalli": "حمام",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "ديكابيروس روسيلي",
+      "alism_alshai": "سكاد هندي",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "جناثانودون سبيسيوسوس",
+      "alism_alshai": "سمك التريفالي الذهبي",
+      "alism_almahalli": "صيد واسع النطاق",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "ميغالاسبيس كورديلا",
+      "alism_alshai": "قذيفة طوربيد",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "باراستروماتيوس نيجر",
+      "alism_alshai": "سمك الزبيدي الأسود",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "سكومبيرويدس كومرسونيانوس",
+      "alism_alshai": "سمكة الملكة العملاقة",
+      "alism_almahalli": "ذو القعدة",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "سكومبيرويدس تول",
+      "alism_alshai": "سمكة الملكة ذات الجلد الإبري",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "سيريولا دوميريلي",
+      "alism_alshai": "سمك العنبر العظيم",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "سيريولا نيجروفاسياتوس",
+      "alism_alshai": "سمك العنبر الأسود",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الكارانجيدي",
+      "alism_alilmi": "تراشوروس إنديكوس",
+      "alism_alshai": "سكاد عربي",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ريمورا",
+      "alism_alilmi": "إيكينيس ناوكراتيس",
+      "alism_alshai": "مصاصة القرش",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "راشيسنتريداي",
+      "alism_alilmi": "راتشيسينترون كانادوم",
+      "alism_alshai": "سمك الكوبيا",
+      "alism_almahalli": "سكلا",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "كوريفاينيداي",
+      "alism_alilmi": "كوريفاينا هيبوروس",
+      "alism_alshai": "ماهي ماهي، أو سمكة الدلفين الشائعة",
+      "alism_almahalli": "غاليت",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "زيفيداي",
+      "alism_alilmi": "زيفياس جلاديوس",
+      "alism_alshai": "سمك أبو سيف",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إستيوفوريدي",
+      "alism_alilmi": "إستيومباكس إنديكا",
+      "alism_alshai": "سمكة المارلن السوداء",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إستيوفوريدي",
+      "alism_alilmi": "خلد الماء",
+      "alism_alshai": "سمكة الشراع",
+      "alism_almahalli": "بادبان ماهي",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "أسماك البلطي",
+      "alism_alilmi": "البلوط الذهبي",
+      "alism_alshai": "سمك البلطي الأزرق",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "أسماك البلطي",
+      "alism_alilmi": "أوريوكروميس نيلوتيكوس",
+      "alism_alshai": "سمك البلطي النيلي",
+      "alism_almahalli": "بولتي",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "أثيرينيداي",
+      "alism_alilmi": "أثيرينوموروس لاكونوسوس",
+      "alism_alshai": "سمكة فضية هارديهيد",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "أسماك الشبوط",
+      "alism_alilmi": "أفانيوبس ستوليكزكانوس",
+      "alism_alshai": "سمكة الجرو العربية",
+      "alism_almahalli": "إفتي",
+      "halat_alhifz": "لم يتم تقييمه"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "أبلينيس هاينز",
+      "alism_alshai": "سمكة الإبرة المسطحة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "بلاتيبيلون بلاتورا",
+      "alism_alshai": "سمكة الإبرة المسطحة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "سترونجيلورا ليوروس",
+      "alism_alshai": "طويل نحيف",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "سترونجيلورا سترونجيلورا",
+      "alism_alshai": "بقعة سوداء طويلة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "تيلوسوروس كروكوديلوس",
+      "alism_alshai": "سمكة كلب الصيد",
+      "alism_almahalli": "حقول",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بيلونيداي",
+      "alism_alilmi": "تيلوسوروس تشورام",
+      "alism_alshai": "سمكة إبرة البحر الأحمر",
+      "alism_almahalli": "حقول",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "إكسوكويتيداي",
+      "alism_alilmi": "سيبسيلوروس أوليجوليبس",
+      "alism_alshai": "أسماك طائرة كبيرة الحجم",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "إكسوكويتيداي",
+      "alism_alilmi": "بارايكسوكويتوس مينتو",
+      "alism_alshai": "سمكة الشراعية الأفريقية الطائرة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "هيميرهامفيداي",
+      "alism_alilmi": "هيميرهامفوس مارجيناتوس",
+      "alism_alshai": "نصف منقار أصفر الطرف",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "هيميرهامفيداي",
+      "alism_alilmi": "رينكورهامفوس جورجي",
+      "alism_alshai": "سمكة منقار البط",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "إلوتشيلون فايجينسيس",
+      "alism_alshai": "سمك البوري ذو الذيل المربع",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "موجيل سيفالوس",
+      "alism_alshai": "البوري البحري",
+      "alism_almahalli": "بيياه أو بوري",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "موولجاردا سيهيلي",
+      "alism_alshai": "البوري الأزرق",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "عظمية كونيسية",
+      "alism_alshai": "قصة الموليت الطويلة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلانالي ابو",
+      "alism_alshai": "أبو البوري",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلاناليزا كاراناتا",
+      "alism_alshai": "سمك البوري",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلاناليزا كلينزينجيري",
+      "alism_alshai": "سمك البوري الكلونزينجيري",
+      "alism_almahalli": "صنع",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلاناليزا بيرسيكا",
+      "alism_alshai": "البوري الخليج الفارسي",
+      "alism_almahalli": "",
+      "halat_alhifz": "البيانات ناقصة"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلاناليزا بلانيسبس",
+      "alism_alshai": "البوري الرمادي تاد",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موغيليداي",
+      "alism_alilmi": "بلاناليزا سابفيرديس",
+      "alism_alshai": "البوري الأخضر",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "أبو دفدوڤ فايجينسيس",
+      "alism_alshai": "رقيب أول",
+      "alism_almahalli": "أبو دفدو",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "أمفيبريون كلاركي",
+      "alism_alshai": "سمكة شقائق النعمان الصفراء",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "كروميس فلافاكسيلا",
+      "alism_alshai": "كروميس عربي",
+      "alism_almahalli": "",
+      "halat_alhifz": "لم يتم تقييمه"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "كروميس زانثوبتيرجيا",
+      "alism_alshai": "كروميس الزعانف الصفراء",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "داسكيلوس تريماكولاتوس",
+      "alism_alshai": "داسكيلوس ثلاثي البقع",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "نيوبوماسنتروس سيانوموس",
+      "alism_alshai": "سيدة ملكية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "نيوبوماسنتروس سيندينسيس",
+      "alism_alshai": "ديموزيل عربية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "بوماسنتروس أكويلوس",
+      "alism_alshai": "سمكة الدامسل الداكنة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "بوماسينتريداي",
+      "alism_alilmi": "بريستوتيس أوبتوسيروستريس",
+      "alism_alshai": "فتاة الخليج الفارسي",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "لوبويداي",
+      "alism_alilmi": "فصائل سورينامينسيس",
+      "alism_alshai": "ثلاثي الذيل",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "البوماكانثيداي",
+      "alism_alilmi": "بومكانثوس ماكولوسوس",
+      "alism_alshai": "ملاك نصف القمر",
+      "alism_almahalli": "أنفوز",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "دريبانيداي",
+      "alism_alilmi": "دريبان لونجيمانا",
+      "alism_alshai": "كونسيرين",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "دريبانيداي",
+      "alism_alilmi": "دريبان منقط",
+      "alism_alshai": "سمكة المنجل المرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إفيبيداي",
+      "alism_alilmi": "عالم الخيول",
+      "alism_alshai": "سمكة أورب",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إفيبيداي",
+      "alism_alilmi": "بلاتاكس أوربيكولاريس",
+      "alism_alshai": "سمكة الخفاش الدائرية",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إفيبيداي",
+      "alism_alilmi": "بلاتاكس تييرا",
+      "alism_alshai": "سمكة الخفاش طويلة الزعانف",
+      "alism_almahalli": "عماد",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "فطريات الأسنان",
+      "alism_alilmi": "شيتودون غاردنيري",
+      "alism_alshai": "سمكة الفراشة غاردنر",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "فطريات الأسنان",
+      "alism_alilmi": "شيتودون ميلابتيروس",
+      "alism_alshai": "سمكة الفراشة العربية",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "فطريات الأسنان",
+      "alism_alilmi": "شيتودون نيجروبانكاتاتس",
+      "alism_alshai": "سمكة الفراشة السوداء",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "فطريات الأسنان",
+      "alism_alilmi": "هينيوخوس أكوميناتوس",
+      "alism_alshai": "سمكة الراية طويلة الزعانف",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ليوجناثيدي",
+      "alism_alilmi": "كارالا دورا",
+      "alism_alshai": "سمكة المهر ذات العملة الذهبية",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سكاتوفاجيدي",
+      "alism_alilmi": "سكاتوفاجوس أرجوس",
+      "alism_alshai": "فضلات مرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سيجانيداي",
+      "alism_alilmi": "سيجانوس سوتور",
+      "alism_alshai": "سمكة الأرنب ذات البقع البيضاء",
+      "alism_almahalli": "ينظف",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سيجانيداي",
+      "alism_alilmi": "سيجانوس جافوس",
+      "alism_alshai": "قدم العمود الفقري المخططة",
+      "alism_almahalli": "سنيفيل",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الأكانثوريدي",
+      "alism_alilmi": "أكانثوروس سوهال",
+      "alism_alshai": "سوهال",
+      "alism_almahalli": "سوهال",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الأكانثوريدي",
+      "alism_alilmi": "زيبراسوما زانثوروم",
+      "alism_alshai": "سمكة ذيل أصفر",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "رباعيات الأسنان",
+      "alism_alilmi": "أروثرون ستيلاتوس",
+      "alism_alshai": "سمكة المنتفخة النجمية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "رباعيات الأسنان",
+      "alism_alilmi": "تشيلونودونتوبس باتوكا",
+      "alism_alshai": "سمكة المنتفخة المرقطة بالحليب",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "رباعيات الأسنان",
+      "alism_alilmi": "لاجوفيلييس جيونثيري",
+      "alism_alshai": "سمكة المنتفخة ذات الظهر الماسي",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "رباعيات الأسنان",
+      "alism_alilmi": "لاغوسيفالوس القمري",
+      "alism_alshai": "سمكة المنتفخة الهلالية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موناكانتيداي",
+      "alism_alilmi": "ألوتيروس مونوسروس",
+      "alism_alshai": "سترة جلدية وحيد القرن",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "موناكانتيداي",
+      "alism_alilmi": "باراموناكانثوس عربيكوس",
+      "alism_alshai": "سمكة الملف الخليجية الفارسية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "باليستيدي",
+      "alism_alilmi": "رينكانثوس أساساسي",
+      "alism_alshai": "سمكة الزناد بيكاسو",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الموليدات",
+      "alism_alilmi": "مولا مولا",
+      "alism_alshai": "سمكة الشمس المحيطية",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "الموليدات",
+      "alism_alilmi": "رانزانيا ليفيس",
+      "alism_alshai": "نحيف مشمس",
+      "alism_almahalli": "",
+      "halat_alhifz": "مُعَرَّض"
+    },
+    {
+      "alaila": "تيرابونتيداي",
+      "alism_alilmi": "تيرابون جاربوا",
+      "alism_alshai": "هلال غاضب",
+      "alism_almahalli": "ضيبة",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "تيرابونتيداي",
+      "alism_alilmi": "تيرابون بوتا",
+      "alism_alshai": "طائر شائك الخد",
+      "alism_almahalli": "زمرور",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "كيفوسيدي",
+      "alism_alilmi": "كيفوسوس سينيراسينس",
+      "alism_alshai": "سمك الشوب البحري الأزرق",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "لوتجانيدي",
+      "alism_alilmi": "لوتيانوس أرجينتيماكيولاتوس",
+      "alism_alshai": "سمك النهاش الأحمر",
+      "alism_almahalli": "نهاش",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "لوتجانيدي",
+      "alism_alilmi": "لوتيانوس مالاباريكوس",
+      "alism_alshai": "سمك النهاش ذو الذيل السرجي",
+      "alism_almahalli": "الحمرا",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "لوتجانيدي",
+      "alism_alilmi": "لوتيانوس إيجرينبيرجي",
+      "alism_alshai": "سمك النهاش ذو البقع السوداء",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "لوتجانيدي",
+      "alism_alilmi": "لوتجنوس فولفيفلاما",
+      "alism_alshai": "سمكة دوري",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "جيريداي",
+      "alism_alilmi": "جييرس اويينا",
+      "alism_alshai": "رفيق فضي شائع",
+      "alism_almahalli": "بده",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "جيريداي",
+      "alism_alilmi": "بنتابريون لونجيمانوس",
+      "alism_alshai": "سمكة الموجارا طويلة الزعانف",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "جيريداي",
+      "alism_alilmi": "بنتابريون لونجيمانوس",
+      "alism_alshai": "سمكة الموجارا طويلة الزعانف",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الطفيليات الدموية",
+      "alism_alilmi": "بلكتورهينشوس جاتيرينوس",
+      "alism_alshai": "خرخرة أفريقية",
+      "alism_almahalli": "فرش",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الطفيليات الدموية",
+      "alism_alilmi": "بليكتورهينشوس بيكتوس",
+      "alism_alshai": "سمك السلمون المرقط ذو الشفاه الحلوة",
+      "alism_almahalli": "ينما",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "أكانثوباجروس عربيكوس",
+      "alism_alshai": "الدنيس العربي ذو الزعانف الصفراء",
+      "alism_almahalli": "شام",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "أكانثوباجروس بيردا",
+      "alism_alshai": "سمك الدنيس الذهبي",
+      "alism_almahalli": "شام",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "أكانثوباجروس بيفاسياتوس",
+      "alism_alshai": "سمك الدنيس ذو الشريطين",
+      "alism_almahalli": "فاسكار",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "أكانثوباجروس شيم",
+      "alism_alshai": "الدنيس ذو الزعانف الصفراء المرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "أرجيروبس سبينيفير",
+      "alism_alshai": "الجندي الملكي",
+      "alism_almahalli": "كوفر",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "رابدوسارجوس ساربا",
+      "alism_alshai": "تاروين",
+      "alism_almahalli": "جرجفان",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سباريداي",
+      "alism_alilmi": "سباريدنتكس هاستا",
+      "alism_alshai": "سوبيتي",
+      "alism_almahalli": "سوبيتي",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ليثرينيداي",
+      "alism_alilmi": "ليثرينوس لنتجان",
+      "alism_alshai": "إمبراطور بينكير",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ليثرينيداي",
+      "alism_alilmi": "ليثرينوس ميكرودون",
+      "alism_alshai": "إمبراطور الأسنان الصغيرة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ليثرينيداي",
+      "alism_alilmi": "ليثرينوس نيبولوسوس",
+      "alism_alshai": "إمبراطور سبانجلر",
+      "alism_almahalli": "شيري",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "نيميبتيريداي",
+      "alism_alilmi": "سكولوبسيس غانام",
+      "alism_alshai": "سمك الدنيس العربي أحادي العين",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سكيانيداي",
+      "alism_alilmi": "حصوات الأذن الحمراء",
+      "alism_alshai": "طائر الكراكر ذو أسنان النمر",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "سيبوليداي",
+      "alism_alilmi": "أكانثيسيبولا أبريفياتا",
+      "alism_alshai": "سمكة النطاق",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "الشفويات",
+      "alism_alilmi": "تشيلينوس لونولاتوس",
+      "alism_alshai": "سمكة مكنسة الذيل",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الشفويات",
+      "alism_alilmi": "كورودون روبستوس",
+      "alism_alshai": "سمكة ناب قوية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الشفويات",
+      "alism_alilmi": "لابرويدس ديميدياتوس",
+      "alism_alshai": "سمكة الراس المنظفة",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الشفويات",
+      "alism_alilmi": "الثلاسوما القمرية",
+      "alism_alshai": "سمكة الراس القمرية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الخنافس",
+      "alism_alilmi": "كلوروروس سورديدوس",
+      "alism_alshai": "سمكة الببغاء الأقحوان",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الخنافس",
+      "alism_alilmi": "سكاروس غبان",
+      "alism_alshai": "سمكة الببغاء ذات الشريط الأزرق",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "الخنافس",
+      "alism_alilmi": "سكاروس بيرسيكوس",
+      "alism_alshai": "سمكة الببغاء الخليجية الفارسية",
+      "alism_almahalli": "",
+      "halat_alhifz": "أقل قلق"
+    },
+    {
+      "alaila": "أنثياديداي",
+      "alism_alilmi": "سيودينثييس تاونسيندي",
+      "alism_alshai": "أنثياس تاونسنديان",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "أنثياديداي",
+      "alism_alilmi": "سيودينثييس تاونسيندي",
+      "alism_alshai": "أنثياس تاونسنديان",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "أياثالاوبيركا رووجا",
+      "alism_alshai": "سمك الهامور ذو الفم الأحمر",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "سيفالوفوليس هيميستيكتوس",
+      "alism_alshai": "زعانف صفراء خلفية",
+      "alism_almahalli": "شنينوة",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "إبينيفيلوس أريولاتوس",
+      "alism_alshai": "الهامور الهالي",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "إبينيفيلوس بليكيري",
+      "alism_alshai": "سمك الهامور ذو الذيل الداكن",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "ايبنايفيوليس كويريوليوبنساتاتس",
+      "alism_alshai": "الهامور ذو البقع البيضاء",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "إبينيفيلوس كويويدس",
+      "alism_alshai": "سمك القد الصخري المرقط الذهبي",
+      "alism_almahalli": "إيران حمور",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "إبينيفيلوس لاتيفاسكياتس",
+      "alism_alshai": "الهامور المنقط",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "إبينفيليداي",
+      "alism_alilmi": "إبينيفيلوس بوليليبس",
+      "alism_alshai": "الهامور الهالي",
+      "alism_almahalli": "سومان",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "العقربيات",
+      "alism_alilmi": "أميال بتيروا",
+      "alism_alshai": "سمكة الأسد العسكرية",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "العقربيات",
+      "alism_alilmi": "بترويس روسيلي",
+      "alism_alshai": "سمكة الأسد ذات الذيل المسطح",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "العقربيات",
+      "alism_alilmi": "أبيستوس كاريناتوس",
+      "alism_alshai": "سمكة الدبابير المرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "العقربيات",
+      "alism_alilmi": "أبيستوس كاريناتوس",
+      "alism_alshai": "سمكة الدبابير المرقطة",
+      "alism_almahalli": "",
+      "halat_alhifz": ""
+    },
+    {
+      "alaila": "ذوات الرؤوس المسطحة",
+      "alism_alilmi": "بلاتيسيفالس انديكس",
+      "alism_alshai": "سمكة الرأس المسطحة ذات الذيل المخطط",
+      "alism_almahalli": "وهار",
+      "halat_alhifz": ""
+    }
+  ],
+  "meta": {
+    "title": "أسماك الخليج العربي - Free Download",
+    "description": "قائمة أنواع الأسماك في الخليج العربي حسب العائلة مع الاسم العلمي والاسم الشائع والاسم المحلي وحالة الحفظ. Contains 189 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أسماك الخليج العربي | ListBase",
+    "seo_description": "Download أسماك الخليج العربي — 189 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 189 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أسماك_الخليج_العربي"
+    ]
+  }
+}
