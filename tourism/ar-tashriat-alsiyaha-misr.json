@@ -1,0 +1,248 @@
+{
+  "id": "ar-tashriat-alsiyaha-misr",
+  "name": "تشريعات السياحة والآثار في مصر",
+  "title": "تشريعات السياحة والآثار في مصر",
+  "description": "قائمة القوانين والقرارات المنظمة لقطاع السياحة والفنادق والآثار في مصر مع تعديلاتها ولوائحها التنفيذية.",
+  "category": "tourism",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_السياحة_(مصر)",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_السياحة_(مصر)",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "almawdu",
+      "label": "Almawdu",
+      "type": "string"
+    },
+    {
+      "key": "altashri_almunazzim",
+      "label": "Altashri Almunazzim",
+      "type": "string"
+    },
+    {
+      "key": "tashriat_altadilat",
+      "label": "Tashriat Altadilat",
+      "type": "string"
+    },
+    {
+      "key": "qararat_allaiha_altanfidhiya",
+      "label": "Qararat Allaiha Altanfidhiya",
+      "type": "string"
+    },
+    {
+      "key": "alhala",
+      "label": "Alhala",
+      "type": "string"
+    },
+    {
+      "key": "mulahazat",
+      "label": "Mulahazat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "almawdu": "التنمية والتنشيط السياحي",
+      "altashri_almunazzim": "تنظيم الهيئة العامة للتنمية السياحية قرار رئيس الجمهورية رقم 374 لسنة 1991",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التنمية والتنشيط السياحي",
+      "altashri_almunazzim": "إنشاء الهيئة المصرية العامة للتنشيط السياحي قرار رئيس الجمهورية رقم 134 لسنة 1981",
+      "tashriat_altadilat": "قرار رئيس مجلس الوزراء رقم 1523 لسنة 2020",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التنمية والتنشيط السياحي",
+      "altashri_almunazzim": "إنشاء هيئات إقليمية لتنشيط السياحة قرار رئيس الجمهورية رقم 691 لسنة 1957",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 191 لسنة 1959",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "دعم السياحة والآثار",
+      "altashri_almunazzim": "إنشاء صندوق دعم السياحة والآثار قانون رقم 19 لسنة 2022",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "أدمج فيه: صندوق تمويل مشروع إنقاذ آثار النوبة المنشأ بالقانون رقم 8 لسنة 1964 صندوق تمويل مشروعات الآثار والمتاحف المنشأ بقرار رئيس الجمهورية رقم 1443 لسنة 1966 صندوق السياحة المنشأ بقرار رئيس الجمهورية رقم 392 لسنة 2005"
+    },
+    {
+      "almawdu": "دعم السياحة والآثار",
+      "altashri_almunazzim": "إنشاء صندوق السياحة قرار رئيس الجمهورية رقم 392 لسنة 2005",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "دعم السياحة والآثار",
+      "altashri_almunazzim": "إنشاء صندوق تمويل مشروعات الآثار والمتاحف قرار رئيس الجمهورية رقم 1443 لسنة 1966",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "دعم السياحة والآثار",
+      "altashri_almunazzim": "إنشاء صندوق لتمويل مشروع إنقاذ آثار النوبة وطريقة تمويله قانون رقم 8 لسنة 1964",
+      "tashriat_altadilat": "قانون رقم 18 لسنة 1968 قانون رقم 39 لسنة 1970",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الغرف السياحية",
+      "altashri_almunazzim": "إنشاء الغرف السياحية وتنظيم اتحاد لها قانون رقم 27 لسنة 2023",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 85 لسنة 1968"
+    },
+    {
+      "almawdu": "الغرف السياحية",
+      "altashri_almunazzim": "إنشاء الغرف السياحية وتنظيم اتحاد لها قانون رقم 85 لسنة 1968",
+      "tashriat_altadilat": "قانون رقم 124 لسنة 1981",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات السياحة",
+      "altashri_almunazzim": "تنظيم الشركات السياحية قانون رقم 38 لسنة 1977",
+      "tashriat_altadilat": "قانون رقم 125 لسنة 2008 قانون رقم 25 لسنة 2005 قانون رقم 118 لسنة 1983",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 218 لسنة 2014 قرار وزاري رقم 120 لسنة 2014 قرار وزاري رقم 63 لسنة 2014 قرار وزاري رقم 26 لسنة 2014 قرار وزاري رقم 215 لسنة 2013 قرار وزاري رقم 324 لسنة 2011 قرار وزاري رقم 322 لسنة 2011 قرار وزاري رقم 703 لسنة 2009 قرار وزاري رقم 209 لسنة 2009",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 584 لسنة 1954"
+    },
+    {
+      "almawdu": "شركات السياحة",
+      "altashri_almunazzim": "تنظيم شركات ووكالات السفر والسياحة قانون رقم 584 لسنة 1954",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المنشآت الفندقية والسياحية",
+      "altashri_almunazzim": "المنشآت الفندقية والسياحية قانون رقم 8 لسنة 2022",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "قرار رئيس مجلس الوزراء رقم 705 لسنة 2023",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 1 لسنة 1973 القانون رقم 1 لسنة 1992"
+    },
+    {
+      "almawdu": "المنشآت الفندقية والسياحية",
+      "altashri_almunazzim": "بيع العاديات والسلع السياحية قانون رقم 1 لسنة 1992",
+      "tashriat_altadilat": "قانون رقم 16 لسنة 2004",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 525 لسنة 2011",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المنشآت الفندقية والسياحية",
+      "altashri_almunazzim": "المنشآت الفندقية والسياحية قانون رقم 1 لسنة 1973",
+      "tashriat_altadilat": "قانون رقم 180 لسنة 2005 قانون رقم 102 لسنة 1993",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "إعادة تنظيم المجلس الأعلى للآثار قرار رئيس مجلس الوزراء رقم 2462 لسنة 2022",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: قرار رئيس الجمهورية رقم 82 لسنة 1994"
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "إنشاء المجلس الأعلى للآثار قرار رئيس الجمهورية رقم 82 لسنة 1994",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 404 لسنة 1994 قرار رئيس مجلس الوزراء رقم 1122 لسنة 2017.",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: قرار رئيس الجمهورية رقم 2828 لسنة 1971"
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "حماية الآثار قانون رقم 117 لسنة 1983",
+      "tashriat_altadilat": "قانون رقم 20 لسنة 2020 قانون رقم 91 لسنة 2018 قانون رقم 61 لسنة 2010 قانون رقم 3 لسنة 2010 قانون رقم 12 لسنة 1991",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 215 لسنة 1951"
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "إنشاء هيئة الآثار المصرية قرار رئيس الجمهورية رقم 2828 لسنة 1971",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ضم إليها مصلحة الآثار. مركز تسجيل الآثار. صندوق تمويل مشروع إنقاذ آثار النوبة. صندوق تمويل الآثار والمتاحف. مشروع الصوت والضوء."
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "قانون رقم 184 لسنة 1956 في شأن إنشاء مركز تسجيل الآثار المصرية.",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "تنظيم مصلحة الآثار قانون رقم 529 لسنة 1953",
+      "tashriat_altadilat": "قانون رقم 192 لسنة 1955 قانون رقم 27 لسنة 1970",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "قانون رقم 22 لسنة 1953 في شأن إنشاء مصلحة الآثار.",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "حماية الآثار قانون رقم 215 لسنة 1951",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 8 لسنة 1918 القانون رقم 14 لسنة 1912"
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "حماية آثار العصر العربي قانون رقم 8 لسنة 1918",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "حماية الآثار",
+      "altashri_almunazzim": "الآثار قانون رقم 14 لسنة 1912",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    }
+  ],
+  "meta": {
+    "title": "تشريعات السياحة والآثار في مصر - Free Download",
+    "description": "قائمة القوانين والقرارات المنظمة لقطاع السياحة والفنادق والآثار في مصر مع تعديلاتها ولوائحها التنفيذية. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "تشريعات السياحة والآثار في مصر | ListBase",
+    "seo_description": "Download تشريعات السياحة والآثار في مصر — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_تشريعات_السياحة_(مصر)"
+    ]
+  }
+}

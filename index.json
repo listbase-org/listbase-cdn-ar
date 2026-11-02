@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:17:10.706Z",
-  "total_datasets": 479,
-  "total_records": 150626,
+  "generated": "2026-11-02T02:17:19.038Z",
+  "total_datasets": 480,
+  "total_records": 150650,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -12486,6 +12486,33 @@
         "xlsx": {
           "name": "ar-sa-fanadiq_AR.xlsx",
           "size": 19087
+        }
+      }
+    },
+    {
+      "id": "ar-tashriat-alsiyaha-misr",
+      "name": "تشريعات السياحة والآثار في مصر",
+      "category": "tourism",
+      "record_count": 24,
+      "columns": [
+        "almawdu",
+        "altashri_almunazzim",
+        "tashriat_altadilat",
+        "qararat_allaiha_altanfidhiya",
+        "alhala",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_السياحة_(مصر)",
+      "updated": "2026-11",
+      "size": 12298,
+      "files": {
+        "csv": {
+          "name": "ar-tashriat-alsiyaha-misr_AR.csv",
+          "size": 6289
+        },
+        "xlsx": {
+          "name": "ar-tashriat-alsiyaha-misr_AR.xlsx",
+          "size": 8408
         }
       }
     },
