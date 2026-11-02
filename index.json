@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:17:03.058Z",
-  "total_datasets": 478,
-  "total_records": 150435,
+  "generated": "2026-11-02T02:17:10.706Z",
+  "total_datasets": 479,
+  "total_records": 150626,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -8959,6 +8959,31 @@
         "xlsx": {
           "name": "ar-sa-mawaqi-athariyya_AR.xlsx",
           "size": 9992
+        }
+      }
+    },
+    {
+      "id": "ar-almuthannayat",
+      "name": "المثنيات في اللغة العربية",
+      "category": "language",
+      "record_count": 191,
+      "columns": [
+        "almuthanna",
+        "aldalala",
+        "almawqi",
+        "alqism"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المثنيات_في_اللغة_العربية",
+      "updated": "2026-11",
+      "size": 41647,
+      "files": {
+        "csv": {
+          "name": "ar-almuthannayat_AR.csv",
+          "size": 23187
+        },
+        "xlsx": {
+          "name": "ar-almuthannayat_AR.xlsx",
+          "size": 13865
         }
       }
     },
