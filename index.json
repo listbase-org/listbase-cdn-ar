@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:17:26.707Z",
-  "total_datasets": 481,
-  "total_records": 150735,
+  "generated": "2026-11-02T02:17:34.176Z",
+  "total_datasets": 482,
+  "total_records": 150794,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -146,6 +146,33 @@
         "xlsx": {
           "name": "ar-asnaf-altumur_AR.xlsx",
           "size": 9192
+        }
+      }
+    },
+    {
+      "id": "ar-tashriat-alziraa-misr",
+      "name": "تشريعات الزراعة في مصر",
+      "category": "agriculture",
+      "record_count": 59,
+      "columns": [
+        "almawdu",
+        "altashri_almunazzim",
+        "tashriat_altadilat",
+        "qararat_allaiha_altanfidhiya",
+        "alhala",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_الزراعة_(مصر)",
+      "updated": "2026-11",
+      "size": 34520,
+      "files": {
+        "csv": {
+          "name": "ar-tashriat-alziraa-misr_AR.csv",
+          "size": 22774
+        },
+        "xlsx": {
+          "name": "ar-tashriat-alziraa-misr_AR.xlsx",
+          "size": 11957
         }
       }
     },
