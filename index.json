@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:16:54.000Z",
-  "total_datasets": 477,
-  "total_records": 150392,
+  "generated": "2026-11-02T02:17:03.058Z",
+  "total_datasets": 478,
+  "total_records": 150435,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -9190,6 +9190,31 @@
         "xlsx": {
           "name": "ar-aghani-najat-alsaghira_AR.xlsx",
           "size": 21820
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-yas-khudr",
+      "name": "أغاني ياس خضر",
+      "category": "music",
+      "record_count": 43,
+      "columns": [
+        "alughniya",
+        "alkalimat",
+        "alalhan",
+        "mulahaza"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_ياس_خضر",
+      "updated": "2026-11",
+      "size": 7743,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-yas-khudr_AR.csv",
+          "size": 2437
+        },
+        "xlsx": {
+          "name": "ar-aghani-yas-khudr_AR.xlsx",
+          "size": 8339
         }
       }
     },

@@ -1,0 +1,304 @@
+{
+  "id": "ar-aghani-yas-khudr",
+  "name": "أغاني ياس خضر",
+  "title": "أغاني ياس خضر",
+  "description": "قائمة أغاني المطرب العراقي ياس خضر مع كاتب الكلمات والملحن.",
+  "category": "music",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_ياس_خضر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أغاني_ياس_خضر",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "alughniya",
+      "label": "Alughniya",
+      "type": "string"
+    },
+    {
+      "key": "alkalimat",
+      "label": "Alkalimat",
+      "type": "string"
+    },
+    {
+      "key": "alalhan",
+      "label": "Alalhan",
+      "type": "string"
+    },
+    {
+      "key": "mulahaza",
+      "label": "Mulahaza",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alughniya": "الهدل",
+      "alkalimat": "",
+      "alalhan": "محمد جواد أموري",
+      "mulahaza": "أول اغنية له"
+    },
+    {
+      "alughniya": "أبو زركة",
+      "alkalimat": "",
+      "alalhan": "محمد جواد أموري",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "المكير",
+      "alkalimat": "زامل سعيد فتاح",
+      "alalhan": "كمال السيد (ملحن)",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "البنفسج",
+      "alkalimat": "مظفر النواب",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "مرينه بيكم حمد",
+      "alkalimat": "مظفر النواب",
+      "alalhan": "محمد جواد أموري",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "إعزاز",
+      "alkalimat": "زامل سعيد فتاح",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "ولو تزعل",
+      "alkalimat": "",
+      "alalhan": "نامق أديب",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "تايبين",
+      "alkalimat": "داود الغنام",
+      "alalhan": "نامق أديب",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "كذاب",
+      "alkalimat": "زامل سعيد فتاح",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "حن وانه احن",
+      "alkalimat": "مظفر النواب",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "مجروحين",
+      "alkalimat": "داود الغنام",
+      "alalhan": "نامق أديب",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "لا يا ولدي",
+      "alkalimat": "علي العتابي",
+      "alalhan": "علي العتابي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "اه يا ليل",
+      "alkalimat": "عادل محسن",
+      "alalhan": "صباح الخياط",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "على مودك",
+      "alkalimat": "داود الغنام",
+      "alalhan": "ذياب خليل",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "شي يصير",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "ياحسافة",
+      "alkalimat": "",
+      "alalhan": "محمد عبد المحسن",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "دوريتك",
+      "alkalimat": "ناظم السماوي",
+      "alalhan": "محمد عبد المحسن",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "على شط الفرات",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "مسافرين",
+      "alkalimat": "غازي ثجيل",
+      "alalhan": "ياسين محمود",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "صدكوني",
+      "alkalimat": "",
+      "alalhan": "محمد عبد المحسن",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "تعال لحبك",
+      "alkalimat": "عدنان عيدان",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "ارحم دليلي",
+      "alkalimat": "عبد الحسين أبو شبع",
+      "alalhan": "جاسم العرباوي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "مغربين",
+      "alkalimat": "زهير الدجيلي",
+      "alalhan": "طالب القرة غولي",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "غصبا علي الروح",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "أحبك",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "نحبكم",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "إلهي",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "دمعي",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "شموع الخضر",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "ضيعوني",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "جزنة",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "ما ودعوني",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "أرد أعوفن كل هلي",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "أويلاه يابة",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "الدنيا ما تسوى زعل",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "قالوا جننت بمن تهوى",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "يا مجوره",
+      "alkalimat": "",
+      "alalhan": "",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "سيمفونية",
+      "alkalimat": "جبار صدام",
+      "alalhan": "علي صالح",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "هم رجع قلبي يحن",
+      "alkalimat": "ضياء الميالي",
+      "alalhan": "نصرت البدر",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "لايك عليكم النصر",
+      "alkalimat": "سعد البكري",
+      "alalhan": "إبراهيم السيد",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "شكرا يا عمر",
+      "alkalimat": "حاتم النعماني",
+      "alalhan": "سرور ماجد",
+      "mulahaza": ""
+    },
+    {
+      "alughniya": "أوف يا حب",
+      "alkalimat": "قصي عيسى",
+      "alalhan": "ايسر القاسم",
+      "mulahaza": "اخر اغنية له"
+    },
+    {
+      "alughniya": "هلا يمكحل كحلين",
+      "alkalimat": "رياض النعماني",
+      "alalhan": "",
+      "mulahaza": ""
+    }
+  ],
+  "meta": {
+    "title": "أغاني ياس خضر - Free Download",
+    "description": "قائمة أغاني المطرب العراقي ياس خضر مع كاتب الكلمات والملحن. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أغاني ياس خضر | ListBase",
+    "seo_description": "Download أغاني ياس خضر — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أغاني_ياس_خضر"
+    ]
+  }
+}
