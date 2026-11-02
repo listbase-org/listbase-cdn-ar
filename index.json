@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:17:34.176Z",
-  "total_datasets": 482,
-  "total_records": 150794,
+  "generated": "2026-11-02T02:17:42.227Z",
+  "total_datasets": 483,
+  "total_records": 150921,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -173,6 +173,32 @@
         "xlsx": {
           "name": "ar-tashriat-alziraa-misr_AR.xlsx",
           "size": 11957
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-alziraa-misr",
+      "name": "وزراء الزراعة في مصر",
+      "category": "agriculture",
+      "record_count": 127,
+      "columns": [
+        "alwazir",
+        "ism_alwizara",
+        "alfatra",
+        "alhukuma",
+        "rais_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_الزراعة_(مصر)",
+      "updated": "2026-11",
+      "size": 42944,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-alziraa-misr_AR.csv",
+          "size": 26710
+        },
+        "xlsx": {
+          "name": "ar-wuzara-alziraa-misr_AR.xlsx",
+          "size": 12761
         }
       }
     },
