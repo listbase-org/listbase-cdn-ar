@@ -1,0 +1,736 @@
+{
+  "id": "ar-tashriat-altijara-walsharikat-misr",
+  "name": "تشريعات التجارة والشركات في مصر",
+  "title": "تشريعات التجارة والشركات في مصر",
+  "description": "قائمة القوانين والقرارات المنظمة للتجارة والشركات والاستيراد والتصدير في مصر مع تعديلاتها ولوائحها التنفيذية وحالتها.",
+  "category": "law",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_التجارة_والشركات_(مصر)",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_التجارة_والشركات_(مصر)",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "almawdu",
+      "label": "Almawdu",
+      "type": "string"
+    },
+    {
+      "key": "altashri_almunazzim",
+      "label": "Altashri Almunazzim",
+      "type": "string"
+    },
+    {
+      "key": "tashriat_altadilat",
+      "label": "Tashriat Altadilat",
+      "type": "string"
+    },
+    {
+      "key": "qararat_allaiha_altanfidhiya",
+      "label": "Qararat Allaiha Altanfidhiya",
+      "type": "string"
+    },
+    {
+      "key": "alhala",
+      "label": "Alhala",
+      "type": "string"
+    },
+    {
+      "key": "mulahazat",
+      "label": "Mulahazat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "التجارة قانون رقم 17 لسنة 1999",
+      "tashriat_altadilat": "قانون رقم 158 لسنة 2003 قانون رقم 150 لسنة 2001 قانون رقم 168 لسنة 2000",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: قانون التجارة الصادر بالأمر العالي في 13 نوفمبر 1883 عدا الفصل الأول من الباب الثاني منه"
+    },
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "بعض البيوع التجارية رقم 100 لسنة 1957",
+      "tashriat_altadilat": "قانون رقم 47 لسنة 1968 قانون رقم 218 لسنة 1960",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "القانون التجاري",
+      "tashriat_altadilat": "قانون رقم 655 لسنة 1954",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "قانون التجارة الأهلي",
+      "tashriat_altadilat": "قانون رقم 12 لسنة 1944 قانون رقم 78 لسنة 1943",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "قانون التجارة المختلط",
+      "tashriat_altadilat": "قانون رقم 78 لسنة 1943",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة",
+      "altashri_almunazzim": "قانون التجارة الصادر بالأمر العالي في 13 نوفمبر 1883",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التسعير الجبري",
+      "altashri_almunazzim": "التسعير الجبري وتحديد الأرباح قانون رقم 163 لسنة 1950",
+      "tashriat_altadilat": "قانون رقم 128 لسنة 1982 قانون رقم 108 لسنة 1980 قانون رقم 28 لسنة 1957 قانون رقم 297 لسنة 1956 قانون رقم 570 لسنة 1954",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 96 لسنة 1945"
+    },
+    {
+      "almawdu": "التسعير الجبري",
+      "altashri_almunazzim": "التسعير الجبري قانون رقم 96 لسنة 1945",
+      "tashriat_altadilat": "قانون رقم 132 لسنة 1948",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "تجارة الجملة",
+      "altashri_almunazzim": "تنظيم تجارة الجملة قانون رقم 68 لسنة 1949",
+      "tashriat_altadilat": "قانون رقم 139 لسنة 1960 قانون رقم 43 لسنة 1959",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "تجارة القطن",
+      "altashri_almunazzim": "تنظيم تجارة القطن في الداخل قانون رقم 210 لسنة 1994",
+      "tashriat_altadilat": "قانون رقم 4 لسنة 2015",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "تجارة العلف",
+      "altashri_almunazzim": "تنظيم تجارة علف الحيوان وصناعته قانون رقم 21 لسنة 1957",
+      "tashriat_altadilat": "قانون رقم 192 لسنة 1959 قانون رقم 72 لسنة 1957",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ملغي بموجب قانون الزراعة رقم 53 لسنة 1966"
+    },
+    {
+      "almawdu": "تجارة الدخان",
+      "altashri_almunazzim": "تنظيم صناعة وتجارة الدخان قانون رقم 74 لسنة 1933",
+      "tashriat_altadilat": "قانون رقم 79 لسنة 1944",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "تنظيم أعمال الوكالة التجارية وبعض أعمال الوساطة التجارية قانون رقم 120 لسنة 1982",
+      "tashriat_altadilat": "قانون رقم 21 لسنة 2022",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 362 لسنة 2005 قرار وزاري رقم 111 لسنة 2000 قرار وزاري رقم 84 لسنة 1988 قرار وزاري رقم 342 لسنة 1982",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 107 لسنة 1961 القانون رقم 93 لسنة 1974 القانون رقم 117 لسنة 1975"
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "رسوم القيد في سجلات أعمال الوكالة التجارية قانون رقم 117 لسنة 1975",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "بعض الأحكام الخاصة بتنظيم أعمال الوكالة التجارية قرار رئيس الجمهورية رقم 1906 لسنة 1974",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 14 لسنة 1976",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "حق المواطنين في ممارسة تمثيل الشركات الأجنبية قانون رقم 93 لسنة 1974",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "بعض الأحكام الخاصة بتنظيم أعمال الوكالة التجارية قانون رقم 107 لسنة 1961",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 24 لسنة 1957"
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "تنظيم أعمال الوكالة التجارية قانون رقم 47 لسنة 1961",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 24 لسنة 1957"
+    },
+    {
+      "almawdu": "الوكالة والوساطة التجارية",
+      "altashri_almunazzim": "بعض الأحكام الخاصة بتنظيم أعمال الوكالة التجارية قانون رقم 24 لسنة 1957",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الأسماء والعلامات التجارية",
+      "altashri_almunazzim": "الأسماء التجارية قانون رقم 55 لسنة 1951",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الأسماء والعلامات التجارية",
+      "altashri_almunazzim": "العلامات والبيانات التجارية قانون رقم 57 لسنة 1939",
+      "tashriat_altadilat": "قانون رقم 531 لسنة 1953",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ملغي بموجب القانون 82 لسنه 2002"
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "المحال العامة قانون رقم 154 لسنة 2019",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "قرار رئيس مجلس الوزراء رقم 10 لسنة 2025 قرار رئيس مجلس الوزراء رقم 590 لسنة 2020",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون 372 رقم لسنة 1956 القانون 371 رقم لسنة 1956 القانون 453 رقم لسنة 1954"
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "تخويل وزارة السياحة سلطة الرقابة على المصنفات الفنية التى تؤدى فىي المحال العامة والملاهي الليلية قرار رئيس الجمهورية رقم 865 لسنة 1969",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "الملاهي قانون رقم 372 لسنة 1956",
+      "tashriat_altadilat": "قانون رقم 169 لسنة 1957",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "المحال العامة قانون رقم 371 لسنة 1956",
+      "tashriat_altadilat": "قانون رقم 170 لسنة 1957",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 38 لسنة 1941"
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "المحال الصناعية والتجارية قانون رقم 453 لسنة 1954",
+      "tashriat_altadilat": "قانون رقم 129 لسنة 1982 قانون رقم 177 لسنة 1981 قانون رقم 209 لسنة 1980 قانون رقم 359 لسنة 1966",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "تنظيم ساعات العمل في المحلات التجارية قانون رقم 72 لسنة 1946",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "المحال العمومية قانون رقم 38 لسنة 1941",
+      "tashriat_altadilat": "قانون رقم 18 لسنة 1955 قانون رقم 455 لسنة 1954 قانون رقم 97 لسنة 1954 قانون رقم 380 لسنة 1953 قانون رقم 285 لسنة 1953 قانون رقم 284 لسنة 1952",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المحال والملاهي",
+      "altashri_almunazzim": "بيع المحال التجارية ورهنه قانون رقم 11 لسنة 1940",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الباعة المتجولين",
+      "altashri_almunazzim": "الباعة المتجولين قانون رقم 33 لسنة 1957",
+      "tashriat_altadilat": "قانون رقم 105 لسنة 2012 قانون رقم 174 لسنة 1981",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 73 لسنة 1943"
+    },
+    {
+      "almawdu": "الباعة المتجولين",
+      "altashri_almunazzim": "الباعة المتجولين قانون رقم 73 لسنة 1943",
+      "tashriat_altadilat": "قانون رقم 19 لسنة 1951",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الغرف التجارية",
+      "altashri_almunazzim": "الغرف التجارية قانون رقم 189 لسنة 1951",
+      "tashriat_altadilat": "قانون رقم 22 لسنة 2015",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة البحرية",
+      "altashri_almunazzim": "تحديد الوزير المختص والجهة الإدارية المختصة في تطبيق قانون التجارة البحرية قرار رئيس الجمهورية رقم 332 لسنة 1990",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة البحرية",
+      "altashri_almunazzim": "التجارة البحرية رقم 8 لسنة 1990",
+      "tashriat_altadilat": "رقم 3 لسنة 2025",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التجارة البحرية",
+      "altashri_almunazzim": "مزاولة بعض المهن البحرية على السفن التجارية والوحدات البحرية في الموانئ رقم 32 لسنة 1970",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "تنمية التجارة",
+      "altashri_almunazzim": "إنشاء جهاز تنمية التجارة الداخلية قرار رئيس الجمهورية رقم 354 لسنة 2008",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "السجل التجاري",
+      "altashri_almunazzim": "السجل التجاري قانون رقم 34 لسنة 1976",
+      "tashriat_altadilat": "قانون رقم 198 لسنة 2020 قانون رقم 75 لسنة 2017 قانون رقم 98 لسنة 1996",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 192 لسنة 2004 قرار وزاري رقم 72 لسنة 2004 قرار وزاري رقم 293 لسنة 2000 قرار وزاري رقم 284 لسنة 2000 قرار وزاري رقم 826 لسنة 1978 قرار وزاري رقم 946 لسنة 1976",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 219 لسنة 1953"
+    },
+    {
+      "almawdu": "السجل التجاري",
+      "altashri_almunazzim": "إنشاء السجل التجاري قانون رقم 219 لسنة 1953",
+      "tashriat_altadilat": "قانون رقم 219 لسنة 1960 قانون رقم 168 لسنة 1955 قانون رقم 68 لسنة 1954",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 46 لسنة 1934"
+    },
+    {
+      "almawdu": "السجل التجاري",
+      "altashri_almunazzim": "إنشاء السجل التجاري قانون رقم 46 لسنة 1934",
+      "tashriat_altadilat": "قانون رقم 10 لسنة 1946",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "تنظيم بعض الأحكام الخاصة بملكية الدولة في الشركات المملوكة لها أو التي تساهم فيها قانون رقم 170 لسنة 2025",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: المادة 27 من القانون رقم 97 لسنة 1983"
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "شركات قطاع الأعمال العام قانون رقم 203 لسنة 1991",
+      "tashriat_altadilat": "قانون رقم 149 لسنة 2001 قانون رقم 185 لسنة 2020",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "هيئات القطاع العام وشركاته قانون رقم 97 لسنة 1983",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 60 لسنة 1971 القانون رقم 111 لسنة 1975"
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "بعض الأحكام الخاصة بشركات القطاع العام قانون رقم 111 لسنة 1975",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "المؤسسات العامة وشركات القطاع العام قانون رقم 60 لسنة 1971",
+      "tashriat_altadilat": "قانون رقم 104 لسنة 1974",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 32 لسنة 1966"
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "المؤسسات العامة وشركات القطاع العام قانون رقم 32 لسنة 1966",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 60 لسنة 1963"
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "المؤسسات العامة قانون رقم 60 لسنة 1963",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 32 لسنة 1957"
+    },
+    {
+      "almawdu": "شركات الدولة",
+      "altashri_almunazzim": "المؤسسات العامة قانون رقم 32 لسنة 1957",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "الترخيص لأشخاص القانون العام بتأسيس شركات مساهمة قانون رقم 127 لسنة 2015",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "شركات المساهمة وشركات التوصية بالأسهم والشركات ذات المسئولية المحدودة قانون رقم 159 لسنة 1981",
+      "tashriat_altadilat": "قانون رقم 4 لسنة 2018 قانون رقم 68 لسنة 2009 قانون رقم 159 لسنة 1998 قانون رقم 3 لسنة 1998 قانون رقم 212 لسنة 1994",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 16 لسنة 2018 قرار وزاري رقم 94 لسنة 2017 قرار وزاري رقم 85 لسنة 2010 قرار وزاري رقم 16 لسنة 2010 قرار وزاري رقم 90 لسنة 2009 قرار وزاري رقم 11 لسنة 2008 قرار وزاري رقم 2 لسنة 2007 قرار وزاري رقم 282 لسنة 2005 قرار رئيس مجلس الوزراء رقم 1212 لسنة 2004 قرار وزاري رقم 251 لسنة 1998 قرار وزاري رقم 496 لسنة 1997 قرار وزاري رقم 471 لسنة 1997 قرار وزاري رقم 40 لسنة 1995 قرار وزاري رقم 461 لسنة 1994 قرار وزاري رقم 204 لسنة 1991 قرار وزاري رقم 408 لسنة 1987 قرار وزاري رقم 96 لسنة 1982",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 137 لسنة 1961 القانون رقم 244 لسنة 1960 القانون رقم 26 لسنة 1954"
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "تشكيل مجلس إدارة شركات المساهمة قانون رقم 137 لسنة 1961",
+      "tashriat_altadilat": "قانون رقم 154 لسنة 1961",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "الإندماج في شركات المساهمة قانون رقم 244 لسنة 1960",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 54 لسنة 1957"
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "الإندماج في شركات المساهمة قانون رقم 54 لسنة 1957",
+      "tashriat_altadilat": "قانون رقم 140 لسنة 1957",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات المساهمة",
+      "altashri_almunazzim": "شركات المساهمة وشركات التوصية بالأسهم والشركات ذات المسئولية المحدودة قانون رقم 26 لسنة 1954",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 143 لسنة 1963 قانون رقم 96 لسنة 1962 قانون رقم 160 لسنة 1960 قانون رقم 143 لسنة 1959 قانون رقم 90 لسنة 1959 قانون رقم 7 لسنة 1959 قانون رقم 198 لسنة 1958 قانون رقم 114 لسنة 1958 قانون رقم 143 لسنة 1957 قانون رقم 45 لسنة 1957 قانون رقم 159 لسنة 1956 قانون رقم 314 لسنة 1955 قانون رقم 155 لسنة 1955 قانون رقم 27 لسنة 1955",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات حراسة المنشآت ونقل الأموال",
+      "altashri_almunazzim": "شركات حراسة المنشآت ونقل الأموال قانون رقم 86 لسنة 2015",
+      "tashriat_altadilat": "قانون رقم 126 لسنة 2015",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 133 لسنة 2016",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "شركات حراسة المنشآت ونقل الأموال",
+      "altashri_almunazzim": "الحراس الخصوصيين قانون رقم 68 لسنة 1970",
+      "tashriat_altadilat": "قانون رقم 33 لسنة 1976",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "إعادة الهيكلة والصلح الواقي من الافلاس",
+      "altashri_almunazzim": "إعادة الهيكلة والصلح الواقي من الافلاس قانون رقم 11 لسنة 2018",
+      "tashriat_altadilat": "قانون رقم 11 لسنة 2021",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: الباب الخامس من القانون رقم 17 لسنة 1999"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم مكتب شكاوى التعاقدات العمومية قرار رئيس مجلس الوزراء رقم 665 لسنة 2021",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: قرار رئيس مجلس الوزراء رقم 3549 لسنة 1998"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم التعاقدات التي تبرمها الجهات العامة قانون رقم 182 لسنة 2018",
+      "tashriat_altadilat": "قانون رقم 188 لسنة 2020",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 289 لسنة 2021 قرار وزاري رقم 28 لسنة 2020 قرار وزاري رقم 692 لسنة 2019",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون رقم 89 لسنة 1998"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تفضيل المنتجات المصرية في العقود الحكومية قانون رقم 5 لسنة 2015",
+      "tashriat_altadilat": "قانون رقم 90 لسنة 2018",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 656 لسنة 2015",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم مكتب متابعة التعاقدات الحكومية قرار رئيس مجلس الوزراء رقم 3549 لسنة 1998",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم المناقصات والمزايدات قانون رقم 89 لسنة 1998",
+      "tashriat_altadilat": "قانون رقم 48 لسنة 2014 قانون رقم 82 لسنة 2013 قانون رقم 14 لسنة 2009 قانون رقم 191 لسنة 2008 قانون رقم 148 لسنة 2006 قانون رقم 5 لسنة 2005",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 426 لسنة 2016 قرار وزاري رقم 549 لسنة 2010 قرار وزاري رقم 347 لسنة 2010 قرار وزاري رقم 399 لسنة 2009 قرار وزاري رقم 528 لسنة 2008 قرار وزاري رقم 374 لسنة 2008 قرار وزاري رقم 529 لسنة 2007 قرار وزاري رقم 435 لسنة 2007 قرار وزاري رقم 497 لسنة 2006 قرار وزاري رقم 219 لسنة 2006 قرار وزاري رقم 2 لسنة 2000 قرار وزاري رقم 513 لسنة 1999 قرار وزاري رقم 1367 لسنة 1998",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 9 لسنة 1983"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم المناقصات والمزايدات قانون رقم 9 لسنة 1983",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 236 لسنة 1954"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم المناقصات والمزايدات قانون رقم 236 لسنة 1954",
+      "tashriat_altadilat": "قانون رقم 108 لسنة 1961",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": "ألغي بموجبه: القانون رقم 58 لسنة 1953"
+    },
+    {
+      "almawdu": "المناقصات والمزايدات",
+      "altashri_almunazzim": "تنظيم المناقصات قانون رقم 58 لسنة 1953",
+      "tashriat_altadilat": "قانون رقم 188 لسنة 1953",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "القانون المدني",
+      "altashri_almunazzim": "القانون المدني قانون رقم 131 لسنة 1948",
+      "tashriat_altadilat": "قانون رقم 155 لسنة 2024 قانون رقم 137 لسنة 2006 قانون رقم 4 لسنة 1996 قانون رقم 55 لسنة 1970 قانون رقم 39 لسنة 1959 قانون رقم 147 لسنة 1957",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "ألغي بموجبه: القانون المدني الأهلي الصادر في 28 أكتوبر 1883 القانون المدني المختلط الصادر في 28 يونيو 1875"
+    },
+    {
+      "almawdu": "القانون المدني",
+      "altashri_almunazzim": "القانون المدني الأهلي الصادر في 28 أكتوبر 1883",
+      "tashriat_altadilat": "قانون رقم 28 لسنة 1940 قانون رقم 20 لسنة 1938 قانون رقم 79 لسنة 1933 قانون رقم 49 لسنة 1923 قانون رقم 34 لسنة 1912",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "القانون المدني",
+      "altashri_almunazzim": "القانون المدني المختلط الصادر في 28 يونيو 1875",
+      "tashriat_altadilat": "قانون رقم 50 لسنة 1923 قانون رقم 19 لسنة 1923 قانون رقم 27 لسنة 1912",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التصدير",
+      "altashri_almunazzim": "تنمية التصدير قانون رقم 155 لسنة 2002",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التصدير",
+      "altashri_almunazzim": "تنظيم الاستيراد والتصدير قانون رقم 118 لسنة 1975",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "التصدير",
+      "altashri_almunazzim": "التصدير قانون رقم 203 لسنة 1959",
+      "tashriat_altadilat": "رقم 42 لسنة 1964 رقم 189 لسنة 1961 رقم 58 لسنة 1961",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الرقابة على الصادرات والواردات",
+      "altashri_almunazzim": "إنشاء الهيئة العامة للرقابة على الصادرات والواردات قرار رئيس الجمهورية رقم 1770 لسنة 1971",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 339 لسنة 1986",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الوكالة المصرية لضمان الصادرات",
+      "altashri_almunazzim": "الوكالة المصرية لضمان الصادرات والاستثمار قانون رقم 178 لسنة 2023",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 21 لسنة 1992"
+    },
+    {
+      "almawdu": "الوكالة المصرية لضمان الصادرات",
+      "altashri_almunazzim": "الشركة المصرية لضمان الصادرات قانون رقم 21 لسنة 1992",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "الهيئة العامة لتنمية الصادرات",
+      "altashri_almunazzim": "إنشاء الهيئة العامة لتنمية الصادرات قرار رئيس الجمهورية رقم 855 لسنة 1957",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 1318 لسنة 1960",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "البنك المصري لتنمية الصادرات",
+      "altashri_almunazzim": "إنشاء البنك المصري لتنمية الصادرات قانون رقم 95 لسنة 1983",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: القانون رقم 120 لسنة 1981"
+    },
+    {
+      "almawdu": "البنك المصري لتنمية الصادرات",
+      "altashri_almunazzim": "إنشاء البنك القومي للاستيراد والتصدير قانون رقم 120 لسنة 1981",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "مركز تنمية الصادرات",
+      "altashri_almunazzim": "مركز تنمية الصادرات قانون رقم 22 لسنة 1992",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: قرار رئيس الجمهورية رقم 475 لسنة 1979"
+    },
+    {
+      "almawdu": "مركز تنمية الصادرات",
+      "altashri_almunazzim": "إنشاء مركز تنمية الصادرات قرار رئيس الجمهورية رقم 475 لسنة 1979",
+      "tashriat_altadilat": "قرار رئيس الجمهورية رقم 71 لسنة 1986",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "صندوق تنمية الصادرات",
+      "altashri_almunazzim": "الجهاز التنفيذي لصندوق تنمية الصادرات قرار وزاري رقم 665 لسنة 2002",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "صندوق تنمية الصادرات",
+      "altashri_almunazzim": "نظام وإدارة صندوق تنمية الصادرات قرار رئيس الجمهورية رقم 317 لسنة 2002",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "صندوق تنمية الصادرات",
+      "altashri_almunazzim": "تنمية التصدير قانون رقم 155 لسنة 2002",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "أنشئ بموجبه: صندوق تنمية الصادرات ووحدة دعم الصادرات بوزارة المالية"
+    },
+    {
+      "almawdu": "سجل المستوردين",
+      "altashri_almunazzim": "سجل المستوردين قانون رقم 121 لسنة 1982",
+      "tashriat_altadilat": "قانون رقم 4 لسنة 2026 قانون رقم 173 لسنة 2023 قانون رقم 9 لسنة 2018 قانون رقم 7 لسنة 2017",
+      "qararat_allaiha_altanfidhiya": "قرار وزاري رقم 846 لسنة 2017",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "سجل المستوردين",
+      "altashri_almunazzim": "سجل المستوردين قانون رقم 201 لسنة 1959",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "أخرى",
+      "altashri_almunazzim": "تعويضات عقود المقاولات والتوريدات والخدمات العامة قانون رقم 84 لسنة 2017",
+      "tashriat_altadilat": "قانون رقم 173 لسنة 2022",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "almawdu": "أخرى",
+      "altashri_almunazzim": "تنظيم التوقيع الإلكتروني قانون رقم 15 لسنة 2004",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    }
+  ],
+  "meta": {
+    "title": "تشريعات التجارة والشركات في مصر - Free Download",
+    "description": "قائمة القوانين والقرارات المنظمة للتجارة والشركات والاستيراد والتصدير في مصر مع تعديلاتها ولوائحها التنفيذية وحالتها. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "تشريعات التجارة والشركات في مصر | ListBase",
+    "seo_description": "Download تشريعات التجارة والشركات في مصر — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_تشريعات_التجارة_والشركات_(مصر)"
+    ]
+  }
+}
