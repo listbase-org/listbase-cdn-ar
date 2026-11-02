@@ -1,0 +1,2400 @@
+{
+  "id": "ar-aghani-najat-alsaghira",
+  "name": "أغاني نجاة الصغيرة",
+  "title": "أغاني نجاة الصغيرة",
+  "description": "قائمة أغاني المطربة المصرية نجاة الصغيرة مع المؤلف والملحن وسنة الإصدار ونوع الأغنية.",
+  "category": "music",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_نجاة_الصغيرة",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أغاني_نجاة_الصغيرة",
+  "updated": "2026-11",
+  "record_count": 293,
+  "columns": [
+    {
+      "key": "alughniya",
+      "label": "Alughniya",
+      "type": "string"
+    },
+    {
+      "key": "almuallif",
+      "label": "Almuallif",
+      "type": "string"
+    },
+    {
+      "key": "almulahhin",
+      "label": "Almulahhin",
+      "type": "string"
+    },
+    {
+      "key": "sanat_alisdar",
+      "label": "Sanat Alisdar",
+      "type": "number"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    },
+    {
+      "key": "malumat",
+      "label": "Malumat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alughniya": "إحساس غريب",
+      "almuallif": "محمد حلاوة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1963,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "استغاثات",
+      "almuallif": "الحسن بن هانئ",
+      "almulahhin": "أحمد عبد القادر",
+      "sanat_alisdar": 1955,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "استنانى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1974,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "اطمن",
+      "almuallif": "وليد رزيقة",
+      "almulahhin": "صلاح الشرنوبي",
+      "sanat_alisdar": 1998,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الثأر",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "علي إسماعيل",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": "نشيد وطني جماعي منع من الإذاعة لعدة سنوات"
+    },
+    {
+      "alughniya": "الجمهورية أمان وسلام",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "عزت الجاهلي",
+      "sanat_alisdar": 1956,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الجنة هى بلادنا",
+      "almuallif": "صلاح جاهين",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1956,
+      "alnaw": "وطني",
+      "malumat": "تم غناء الأغنية خلال العدوان الثلاثي على مصر"
+    },
+    {
+      "alughniya": "الجيل الصاعد",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": "نشيد وطني جماعي"
+    },
+    {
+      "alughniya": "الزفة",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "محمد هاشم",
+      "sanat_alisdar": 1950,
+      "alnaw": "اسكتش",
+      "malumat": "من فيلم محسوب العائلة 1950"
+    },
+    {
+      "alughniya": "السما والأرض",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "جمال سلامة",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "السيف والهوية",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "الشحاتة",
+      "almuallif": "أبو بثينة",
+      "almulahhin": "أحمد صبرة",
+      "sanat_alisdar": 1947,
+      "alnaw": "اسكتش",
+      "malumat": "من فيلم الكل يغني 1947"
+    },
+    {
+      "alughniya": "الشعب إيده ع الزناد",
+      "almuallif": "مجدي نجيب",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1969,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الشمس مروحة",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1970,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الشوق والحب",
+      "almuallif": "حسين السيد",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": "أولى أغنيات نجاة التي تمت بتسجيل الموسيقى أولا ثم تركيب صوت المطرب على اللحن"
+    },
+    {
+      "alughniya": "الصديق",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "اجتماعي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الطير المسافر",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1969,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "العراق",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "علي فراج",
+      "sanat_alisdar": 1958,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "العين تقول للعين",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "حسن صقر",
+      "sanat_alisdar": 1947,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم هدية 1947"
+    },
+    {
+      "alughniya": "الغربة",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1982,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "القريب منك بعيد",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم شاطئ المرح 1967"
+    },
+    {
+      "alughniya": "الله في علاه يحرس كل الناس",
+      "almuallif": "أحمد خيرت",
+      "almulahhin": "أحمد خيرت",
+      "sanat_alisdar": 1947,
+      "alnaw": "أطفال",
+      "malumat": ""
+    },
+    {
+      "alughniya": "اللهم حمداً",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الليالى الحلوة هلا",
+      "almuallif": "صالح جودت",
+      "almulahhin": "محمد فوزي",
+      "sanat_alisdar": 1965,
+      "alnaw": "ديني",
+      "malumat": "خاص بشهر رمضان الكريم"
+    },
+    {
+      "alughniya": "الليل",
+      "almuallif": "عبده بدوى",
+      "almulahhin": "أحمد عبد القادر",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "الليلة دى",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم غريبة 1958"
+    },
+    {
+      "alughniya": "النصيب فين",
+      "almuallif": "",
+      "almulahhin": "",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": "غير متوافر معلومات عن الأغنية"
+    },
+    {
+      "alughniya": "النهاردة كل شئ يا بلادى",
+      "almuallif": "كمال نجيب",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1974,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "النوم",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "حسن صقر",
+      "sanat_alisdar": 1947,
+      "alnaw": "",
+      "malumat": "من فيلم الكل يغني 1947"
+    },
+    {
+      "alughniya": "الوطن الأكبر",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1960,
+      "alnaw": "وطني",
+      "malumat": "نشيد وطني جماعي له تسجيلين مختلفين"
+    },
+    {
+      "alughniya": "اليتيم",
+      "almuallif": "حسن عبد الوهاب",
+      "almulahhin": "سيد مصطفى",
+      "sanat_alisdar": 1946,
+      "alnaw": "اجتماعي",
+      "malumat": "اسكتش إذاعي"
+    },
+    {
+      "alughniya": "اليتيمة",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "حسن صقر",
+      "sanat_alisdar": 1947,
+      "alnaw": "",
+      "malumat": "من فيلم هدية 1947"
+    },
+    {
+      "alughniya": "انتفاضة جيش وشعب",
+      "almuallif": "كمال عبد الحليم",
+      "almulahhin": "عبد الحميد عبد الرحمن",
+      "sanat_alisdar": 1957,
+      "alnaw": "وطني",
+      "malumat": "سجلت بمناسبة انتهاء العدوان الثلاثي على مصر"
+    },
+    {
+      "alughniya": "انتى دريتى",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "منير مراد",
+      "sanat_alisdar": 1954,
+      "alnaw": "دويتو",
+      "malumat": "مع إسماعيل ياسين من فيلم بنت البلد 1954"
+    },
+    {
+      "alughniya": "ايه هو ده",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم الشموع السوداء 1962"
+    },
+    {
+      "alughniya": "إفرح غني",
+      "almuallif": "يوسف صالح",
+      "almulahhin": "يوسف صالح",
+      "sanat_alisdar": 1950,
+      "alnaw": "اسكتش",
+      "malumat": "مع إسماعيل ياسين وحسن فايق من فيلم محسوب العائلة 1950"
+    },
+    {
+      "alughniya": "إلا إنت",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1969,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم 7 أيام في الجنة 1969"
+    },
+    {
+      "alughniya": "إلا فراق الأحباب",
+      "almuallif": "سمير الطائر",
+      "almulahhin": "سامي الحفناوي",
+      "sanat_alisdar": 1994,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "إلهى ما أعظمك",
+      "almuallif": "حسين السيد",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1963,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "إلى اللقاء",
+      "almuallif": "أحمد خيرت",
+      "almulahhin": "أحمد خيرت",
+      "sanat_alisdar": 1947,
+      "alnaw": "أطفال",
+      "malumat": ""
+    },
+    {
+      "alughniya": "إلى حبيبى",
+      "almuallif": "نزار قباني",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1973,
+      "alnaw": "عاطفي",
+      "malumat": "أضيفت بعد غناءها لفيلم جفت الدموع 1975"
+    },
+    {
+      "alughniya": "إنت اللى ظالم",
+      "almuallif": "علي مهدي",
+      "almulahhin": "عبد العظيم محمد",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "إنت إنت",
+      "almuallif": "عبد الرحمن الأبنودي",
+      "almulahhin": "سامي الحفناوي",
+      "sanat_alisdar": 1994,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أداري وإنت مش داري",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد محسن",
+      "sanat_alisdar": "",
+      "alnaw": "عاطفي",
+      "malumat": "غنيت بنفس الكلمات من المطرب عبد المطلب ولكن بلحن مختلف لمحمود الشريف"
+    },
+    {
+      "alughniya": "أرخت عمان جدائلها",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "أرضنا الطيبة",
+      "almuallif": "عبد الباسط عبد الرحمن",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أسألك الرحيلا",
+      "almuallif": "نزار قباني",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1990,
+      "alnaw": "عاطفي",
+      "malumat": "آخر ألحان الموسيقار محمد عبد الوهاب العاطفية لنجاة"
+    },
+    {
+      "alughniya": "أسرح وأفكر في قلبى",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أسهر وأنشغل أنا",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أصل الحكاية من زمان",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1978,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أعد الحقيبة ثم ابتسم",
+      "almuallif": "أحمد السقاف",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1963,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ألف حب وحب",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أم الكبائر",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أما براوة",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1971,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم ابنتي العزيزة 1971"
+    },
+    {
+      "alughniya": "أما غريبة",
+      "almuallif": "إسماعيل الحبروك",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا الوحدة",
+      "almuallif": "صالح جودت",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1959,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة الوحدة بين مصر وسوريا"
+    },
+    {
+      "alughniya": "أنا باستناك",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا بعشق البحر",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "هاني شنودة",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا خالى",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "أحمد صدقي",
+      "sanat_alisdar": 1954,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا ذكرى",
+      "almuallif": "إمام الصفطاوي",
+      "almulahhin": "أحمد صدقى",
+      "sanat_alisdar": 1954,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا عايزة ألعب وأغني",
+      "almuallif": "عز الدين حسني",
+      "almulahhin": "عز الدين حسني",
+      "sanat_alisdar": 1947,
+      "alnaw": "أطفال",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا كل ما أتوب أرجع تاني",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "زكريا أحمد",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": "غير مؤكد قيام نجاة بغناءها وذكرت مصادر أخرى بأن غنتها المطربة أحلام"
+    },
+    {
+      "alughniya": "أنا لياليك",
+      "almuallif": "جورج جرداق",
+      "almulahhin": "حليم الرومي",
+      "sanat_alisdar": 1969,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنا مازلت أهواه",
+      "almuallif": "خازن غبور",
+      "almulahhin": "عز الدين حسني",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنسيت كيف أنسيت",
+      "almuallif": "",
+      "almulahhin": "محمد محسن",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أنشودة مصر",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "سامي الحفناوي",
+      "sanat_alisdar": 1998,
+      "alnaw": "وطني",
+      "malumat": "سجلت بمناسة اليوبيل الفضي لحرب أكتوبر 1998 وغنتها نجاة في حفل عام بحضور الرئيس مبارك"
+    },
+    {
+      "alughniya": "أول حاجة اتعلمناها",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة الوحدة بين مصر وسوريا وغنتها نجاة في عيد الوحدة الثالث والأخير"
+    },
+    {
+      "alughniya": "أول صباح",
+      "almuallif": "علي مهدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1963,
+      "alnaw": "وطني",
+      "malumat": "خاص بحرب اليمن، سجلت ومنعت من الإذاعة لسنوات"
+    },
+    {
+      "alughniya": "أول ما تحب يا قلبى",
+      "almuallif": "موسى محفوظ",
+      "almulahhin": "أحمد عبد القادر",
+      "sanat_alisdar": 1954,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "أيظن",
+      "almuallif": "نزار قباني",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1960,
+      "alnaw": "عاطفي",
+      "malumat": "اختيرت الأغنية كأجمل أغنية عربية لعام 1960"
+    },
+    {
+      "alughniya": "أيوه بغير",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "آنستنا يا عيد",
+      "almuallif": "",
+      "almulahhin": "محمد محسن",
+      "sanat_alisdar": 1957,
+      "alnaw": "اجتماعي",
+      "malumat": "غير معروف اسم المؤلف"
+    },
+    {
+      "alughniya": "آه بحبه",
+      "almuallif": "أنور عبد الله",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "آه لو تعرف",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم شاطئ المرح 1967"
+    },
+    {
+      "alughniya": "باسم العرب",
+      "almuallif": "أحمد رامي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1958,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة إعلان قيام الوحدة بين مصر وسوريا"
+    },
+    {
+      "alughniya": "بالسلامة",
+      "almuallif": "هانم طرمان",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1965,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "بان عليا حبه",
+      "almuallif": "صلاح جاهين",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم غريبة 1958"
+    },
+    {
+      "alughniya": "بتقوللى بحبك من امتى",
+      "almuallif": "محمد علي أحمد",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "بحلم معاك",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "هاني شنودة",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "بكانى لما خلصت دموعى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": "أول ألحان بليغ حمدي لنجاة الصغيرة"
+    },
+    {
+      "alughniya": "بلادنا حلوة",
+      "almuallif": "عبد المنعم السباعي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1956,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة جلاء قوات الاحتلال الإنجليزي عن مصر 1956"
+    },
+    {
+      "alughniya": "ترويضة الاحرار",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "ترويضة للسيف الهاشمي",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "تفرق كتير",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "سيد مكاوي",
+      "sanat_alisdar": 1982,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "تليفونك ليه مشغول",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ثورة أم",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1963,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "جاى يا فلسطين",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1967,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "جيلنا الجديد",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبك الجبار",
+      "almuallif": "حسين السيد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبك حياتى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": "تم حذف مقطعين منها بالكوبليه الثاني بالتسجيل الإذاعي"
+    },
+    {
+      "alughniya": "حبي الأبدي",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1982,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبيبى جاى حدانا",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1983,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبيبى سامعنى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبيبى لولا السهر",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1974,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حبيبى يا الله",
+      "almuallif": "حسين السيد",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1972,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حد قالك",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1960,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حسب الميعاد",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1975,
+      "alnaw": "وطني",
+      "malumat": "سجلت بمناسبة إعادة افتتاح قناة السويس عام 1975 بعد حرب أكتوبر"
+    },
+    {
+      "alughniya": "حققناها حققناها هى بداية وبدأناها",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1958,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة قيام الوحدة بين مصر وسوريا"
+    },
+    {
+      "alughniya": "حقك عليا وسامح",
+      "almuallif": "محمد أحمد البحطيطى",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حلاوة الحب",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1982,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حلم الهوى",
+      "almuallif": "مصطفى عبد الرحمن",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "حماك الله",
+      "almuallif": "محمود حسن إسماعيل",
+      "almulahhin": "حسين جنيد",
+      "sanat_alisdar": 1954,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة نجاة جمال عبد الناصر من حادث المنشية"
+    },
+    {
+      "alughniya": "حمامة الحرم",
+      "almuallif": "محمود حسن إسماعيل",
+      "almulahhin": "أحمد صدقي",
+      "sanat_alisdar": 1955,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة عيد جلوس الملك سعود على عرش المملكة العربية السعودية"
+    },
+    {
+      "alughniya": "حمد الله ع السلامة",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1975,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم جفت الدموع 1975"
+    },
+    {
+      "alughniya": "حود من هنا",
+      "almuallif": "صالح جودت",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة تحويل مجرى النيل خلال فترة بناء السد العالي"
+    },
+    {
+      "alughniya": "خيوط النور",
+      "almuallif": "على مهدى",
+      "almulahhin": "محمد قاسم",
+      "sanat_alisdar": 1955,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "دعوة النور والهدى",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "دلوقتى أو بعدين",
+      "almuallif": "",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1954,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "دوارين",
+      "almuallif": "الأخوين رحباني",
+      "almulahhin": "الأخوين رحباني",
+      "sanat_alisdar": 1968,
+      "alnaw": "عاطفي",
+      "malumat": "شهدت التعامل الوحيد بين نجاة والرحبانية وأضيفت بفيلم 7 أيام في الجنة 1969"
+    },
+    {
+      "alughniya": "دوبنا حبايبنا",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1971,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم ابنتي العزيزة 1971"
+    },
+    {
+      "alughniya": "دوبنى دوب",
+      "almuallif": "كمال عطية",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "دومى بعزك درة الأمصار",
+      "almuallif": "علي السبتي",
+      "almulahhin": "يوسف دوخي",
+      "sanat_alisdar": 1963,
+      "alnaw": "وطني",
+      "malumat": "سجلت الأغنية لدولة الكويت"
+    },
+    {
+      "alughniya": "ذكرياتى",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1965,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "راجع بتسأل",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1963,
+      "alnaw": "عاطفي",
+      "malumat": "سجلت للإذاعة بعد توقف غناء نجاة للإذاعة لسنوات"
+    },
+    {
+      "alughniya": "رباعيات الخيام",
+      "almuallif": "عمر الخيام",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1958,
+      "alnaw": "ديني",
+      "malumat": "تختلف عن الرباعيات التي سبق وغنتها أم كلثوم"
+    },
+    {
+      "alughniya": "ربى خلقنى ورعانى",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "زي النهاردة",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سارقين النوم",
+      "almuallif": "بليغ حمدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1980,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ساكن قصادى",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1961,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سامحنى تبت خلاص",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1959,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سبحت يا رب ذاتك",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "جمال سلامة",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سبع سنين يا جزائر",
+      "almuallif": "طاهر أبو زيد",
+      "almulahhin": "أحمد فؤاد حسن",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سد عالى",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سكة العاشقين",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1971,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سلامتك يا قلبى",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "أحمد صدقى",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": "من الصورة الغنائية أم شناف"
+    },
+    {
+      "alughniya": "سلم على",
+      "almuallif": "سيد مرسي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1976,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سلملى عليه",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "رؤوف ذهني",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سمارة",
+      "almuallif": "محمد حلاوة",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سمعته",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سنة حلوة",
+      "almuallif": "بليغ حمدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1981,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "سهران يا قمر",
+      "almuallif": "رضا أمين",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 2000,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "شروق",
+      "almuallif": "عبد الله صخر العامري",
+      "almulahhin": "ناصر عبد الرب",
+      "sanat_alisdar": 1980,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية لسلطنة عمان"
+    },
+    {
+      "alughniya": "شكل تانى",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1963,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "شهر الصيام",
+      "almuallif": "عبد المنعم السباعى",
+      "almulahhin": "أحمد عبد القادر",
+      "sanat_alisdar": 1957,
+      "alnaw": "ديني",
+      "malumat": "خاصة بشهر رمضان الكريم"
+    },
+    {
+      "alughniya": "شوف كنا فين",
+      "almuallif": "زهير صبري",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1965,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "صرخة الأحرار",
+      "almuallif": "جمال حماد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1966,
+      "alnaw": "وطني",
+      "malumat": "سجلت ومنعت من الإذاعة لسنوات طويلة"
+    },
+    {
+      "alughniya": "صعبنا ع الودع",
+      "almuallif": "أحمد رامي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": ""
+    },
+    {
+      "alughniya": "صوت الجماهير",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1963,
+      "alnaw": "وطني",
+      "malumat": "نشيد وطني جماعي"
+    },
+    {
+      "alughniya": "صوت السواقى",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "طاير يا حمام",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "أحمد صدقى",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": "من الصورة الغنائية أم شناف"
+    },
+    {
+      "alughniya": "طلعة السعد",
+      "almuallif": "حيرم الغمراوي",
+      "almulahhin": "محمد فوزي",
+      "sanat_alisdar": 1958,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "طوفوا ببيت الله",
+      "almuallif": "أحمد خيرت",
+      "almulahhin": "أحمد خيرت",
+      "sanat_alisdar": 1946,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "طول عمرى أحبك",
+      "almuallif": "أنور عبد الله",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": "أعيد تسجيلها لاعتراض الإذاعة على المقطع الأول"
+    },
+    {
+      "alughniya": "طير يا حمام على بور سعيد",
+      "almuallif": "كمال منصور",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1957,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة نهاية العدوان الثلاثي على مصر"
+    },
+    {
+      "alughniya": "ع البر التانى",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1974,
+      "alnaw": "وطني",
+      "malumat": "خاصة بحرب أكتوبر"
+    },
+    {
+      "alughniya": "ع الشوك ماشى",
+      "almuallif": "إسماعيل الحبروك",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1959,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ع اليادى",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم شاطئ المرح 1967"
+    },
+    {
+      "alughniya": "عزة الغرام",
+      "almuallif": "على الشرقاوى",
+      "almulahhin": "علي إسماعيل",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "عشنا وشوفنا كتير",
+      "almuallif": "عبد المنعم السباعى",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": "بعض المصادر نسبت الكلمات لحسين السيد واللحن لعبد الوهاب وذكر سيناء بالأغنية ينسبها لحرب أكتوبر"
+    },
+    {
+      "alughniya": "عطشان أنا يا حنينة",
+      "almuallif": "سيد حجاب",
+      "almulahhin": "هانى شنودة",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "عطشان يا أسمرانى",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1955,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "على طرف جناحك",
+      "almuallif": "محمد أحمد البحطيطى",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "عندما يكبر طفلى سترى",
+      "almuallif": "محمد علي أحمد",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1955,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "عيد ميلادك يا منى",
+      "almuallif": "أحمد رامي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم غريبة 1958"
+    },
+    {
+      "alughniya": "عيش معايا",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1975,
+      "alnaw": "عاطفي",
+      "malumat": "بعض المصادر ذكرت أن الكلمات من تأليف الأبنودي"
+    },
+    {
+      "alughniya": "عيشى لكل الشعب العربى",
+      "almuallif": "مصطفى عبد الرحمن",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "عيون القلب",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1983,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "غالب ثورة الشمس نورها",
+      "almuallif": "علي مهدي",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1963,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "غريبة منسية",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": "سجلت عام 1957 وأضيفت لفيلم غريبة 1958"
+    },
+    {
+      "alughniya": "غنوة حب",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1973,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "غنى الحمام",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "سيد مكاوي",
+      "sanat_alisdar": 1982,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة تحرير سيناء 1982"
+    },
+    {
+      "alughniya": "غني يا كروان",
+      "almuallif": "محمد عرابي",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1942,
+      "alnaw": "عاطفي",
+      "malumat": "من أوائل أغاني نجاة"
+    },
+    {
+      "alughniya": "فاكرة",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "فجر جديد",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": "نشيد وطني اشترك فيه شادية ووردة وفايدة كامل وفايزة أحمد"
+    },
+    {
+      "alughniya": "فرحة وتحية",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1958,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة الوحدة بين مصر وسوريا"
+    },
+    {
+      "alughniya": "فضلت وحدى",
+      "almuallif": "أحمد رامي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": "موال من فيلم غريبة 1958"
+    },
+    {
+      "alughniya": "فكر يا حبيبى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": "ذكرت بعض المصادر أن الكلمات لإسماعيل الحبروك"
+    },
+    {
+      "alughniya": "فى السفر",
+      "almuallif": "بليغ حمدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1986,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "فى رحابك",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1991,
+      "alnaw": "ديني",
+      "malumat": "آخر ألحان الموسيقار عبد الوهاب لنجاة"
+    },
+    {
+      "alughniya": "فى غيابكم دوبنا",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1981,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "فى وسط الطريق",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1970,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "فى يوم واحد",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": "غنتها المطربة لطيفة حديثا بلحن آخر"
+    },
+    {
+      "alughniya": "في حضنك يا مصر",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "هانى شنودة",
+      "sanat_alisdar": 1979,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "في ضل العلم",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1974,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "فين يا محبوبى فين",
+      "almuallif": "محمد الفهد العيسي",
+      "almulahhin": "طارق عبد الحكيم",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قادوا الشموع",
+      "almuallif": "محمود إسماعيل جاد",
+      "almulahhin": "فؤاد حلمي",
+      "sanat_alisdar": 1959,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قالوا",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1977,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قبل هواك",
+      "almuallif": "مصطفى عبد الرحمن",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1963,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قبلت حد السيف",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "قد العالم حبيتك",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1977,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قدرت تنام",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1960,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قصة الظلم",
+      "almuallif": "صالح جودت",
+      "almulahhin": "عبد العظيم محمد",
+      "sanat_alisdar": 1964,
+      "alnaw": "وطني",
+      "malumat": "قصيدة وطنية لفلسطين"
+    },
+    {
+      "alughniya": "قصة هوايا",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "رؤوف ذهنى",
+      "sanat_alisdar": 1959,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قصتنا",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1969,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قصص الحب الجميلة",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "سامي الحفناوي",
+      "sanat_alisdar": 1994,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قلبك راح فين",
+      "almuallif": "عبد المنعم السباعى",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قلوب هداها الله",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "جمال سلامة",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "قمر بلدنا",
+      "almuallif": "عبد الرحيم منصور",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "كان من عينيه",
+      "almuallif": "إبراهيم الجرواني",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "كده برضه يا خاين",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "عبد العزيز محمود",
+      "sanat_alisdar": 1954,
+      "alnaw": "دويتو",
+      "malumat": "مع إسماعيل ياسين من فيلم بنت البلد 1954"
+    },
+    {
+      "alughniya": "كل الكلام قلناه",
+      "almuallif": "عبد الرحمن الأبنودي",
+      "almulahhin": "طلال",
+      "sanat_alisdar": 2017,
+      "alnaw": "عاطفي",
+      "malumat": "عادت نجاة بتلك الأغنية للغناء ببداية عام 2017 بعد توقف 15 عام تقريباً منذ 2002"
+    },
+    {
+      "alughniya": "كل ده كان ليه",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1954,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "كل شئ راح",
+      "almuallif": "إسماعيل الحبروك",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": "أضيفت لفيلم الشموع السوداء 1962"
+    },
+    {
+      "alughniya": "كل فين وفين",
+      "almuallif": "سمير الطائر",
+      "almulahhin": "سامي الحفناوي",
+      "sanat_alisdar": 1994,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "كلمنى عن بكرة",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "لا تكذبي",
+      "almuallif": "كامل الشناوي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم الشموع السوداء 1962 وتكلف إنتاجها سينمائيا 7 آلاف جنيه مصري وقتها"
+    },
+    {
+      "alughniya": "لا تنتقد خجلى",
+      "almuallif": "سعاد الصباح",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 2001,
+      "alnaw": "عاطفي",
+      "malumat": "آخر ألحان كمال الطويل لنجاة"
+    },
+    {
+      "alughniya": "لسه فاكر بعد ايه",
+      "almuallif": "محمد علي أحمد",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "لو بتحبنى",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "سيد مكاوي",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "لو يطول البعد",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1974,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ليلة م الليالى",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1970,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم ابنتي العزيزة 1971"
+    },
+    {
+      "alughniya": "ما أظنش يا حبيبى",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1968,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ما بنستغناش عن بعضينا",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1968,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ما تسألنيش",
+      "almuallif": "محمود عفيفى",
+      "almulahhin": "يوسف شوقى",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ما تنسناش",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1983,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ماذا أقول له",
+      "almuallif": "نزار قباني",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1965,
+      "alnaw": "عاطفي",
+      "malumat": "سجلت للإذاعة وأعيد التسجيل بعدها بأيام بسبب تلف التسجيل الأول"
+    },
+    {
+      "alughniya": "ماستغناش",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1975,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم جفت الدموع 1975"
+    },
+    {
+      "alughniya": "مبروك الفرحة يبو خالد",
+      "almuallif": "حسين السيد",
+      "almulahhin": "منير مراد",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": "ذكرت بعض المصادر أن اللحن للموجي"
+    },
+    {
+      "alughniya": "مبروك يا أهل الرحيمية",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "عزت الجاهلي",
+      "sanat_alisdar": 1954,
+      "alnaw": "اسكتش",
+      "malumat": "من فيلم بنت البلد 1954"
+    },
+    {
+      "alughniya": "مبروك يا أهل بلدنا",
+      "almuallif": "حسن محمد حاحا",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1964,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مر هذا اليوم",
+      "almuallif": "مصطفى البدوى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1982,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مرسال الهوى",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1969,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم 7 أيام في الجنة 1969"
+    },
+    {
+      "alughniya": "مسير الشمس",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مش لازم أقولك على حبي",
+      "almuallif": "أمين عبد المؤمن",
+      "almulahhin": "",
+      "sanat_alisdar": "",
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مش ممكن أسامحك",
+      "almuallif": "على مهدى",
+      "almulahhin": "محمد فوزي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مش هاين أودعك",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1958,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مش هقول كل الكلام",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "مع السلامة",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "عزت الجاهلي",
+      "sanat_alisdar": 1954,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم بنت البلد 1954"
+    },
+    {
+      "alughniya": "من باب الفتوح",
+      "almuallif": "كمال عمار",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1973,
+      "alnaw": "وطني",
+      "malumat": "خاصة بحرب أكتوبر 1973"
+    },
+    {
+      "alughniya": "موال العشاق",
+      "almuallif": "بدر الدين بن عبد المحسن",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1971,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "موكب حب",
+      "almuallif": "بليغ حمدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1980,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ميصعبش عليك غالى",
+      "almuallif": "سيد مرسي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نادانى الليل",
+      "almuallif": "محمد علي أحمد",
+      "almulahhin": "زكريا أحمد",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ناديت بايمانى",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "جمال سلامة",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نار",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نامي يا نور عيني",
+      "almuallif": "عبد العزيز سلام",
+      "almulahhin": "عبد الرحمن عبد الخطيب",
+      "sanat_alisdar": 1947,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم الكل يغني 1947"
+    },
+    {
+      "alughniya": "نجوى الرسول",
+      "almuallif": "فؤاد شاكر",
+      "almulahhin": "أحمد صدقي",
+      "sanat_alisdar": 1954,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نحبه",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية سجلت للأردن"
+    },
+    {
+      "alughniya": "نسى",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1972,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نشيد الثورة",
+      "almuallif": "مدحت عاصم",
+      "almulahhin": "مدحت عاصم",
+      "sanat_alisdar": 1953,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نشيد الدجلتين",
+      "almuallif": "عدنان الراوى",
+      "almulahhin": "عبد الحميد توفيق زكي",
+      "sanat_alisdar": 1956,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للعراق"
+    },
+    {
+      "alughniya": "نصرك يا جزائر",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1962,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "نفس السؤال",
+      "almuallif": "بليغ حمدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1982,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "هاتلي إيدك يا بطل",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1965,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "هجرت الحب",
+      "almuallif": "إمام الصفطاوي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": "أول أغنية لنجاة من ألحان كمال الطويل"
+    },
+    {
+      "alughniya": "هلال العيد",
+      "almuallif": "عارف الهوديني",
+      "almulahhin": "عز الدين حسنى",
+      "sanat_alisdar": 1947,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "والله ميت سلامة",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1979,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "والنبى خلينا نشوفك",
+      "almuallif": "عبد الوهاب محمد",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1960,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "وحياة ابنك",
+      "almuallif": "سيد مرسي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1959,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "وحياة الهوى",
+      "almuallif": "مرسي جميل عزيز",
+      "almulahhin": "حلمي بكر",
+      "sanat_alisdar": 1975,
+      "alnaw": "عاطفي",
+      "malumat": "من فيلم جفت الدموع 1975"
+    },
+    {
+      "alughniya": "وحياتى عندك",
+      "almuallif": "عبد العزيز سلام",
+      "almulahhin": "فؤاد حلمي",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ورد فريال",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "",
+      "sanat_alisdar": 1947,
+      "alnaw": "",
+      "malumat": "غنيت للأميرة فريال في حفل عام في حضور الملك فاروق والأميرة فوزية"
+    },
+    {
+      "alughniya": "وردة",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "فؤاد حلمي",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "وطني وصباي وأحلامي",
+      "almuallif": "أحمد مخيمر",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1955,
+      "alnaw": "وطني",
+      "malumat": "غنتها نجاة مع عبد الرؤوف إسماعيل"
+    },
+    {
+      "alughniya": "وفينا العهود",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1971,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة الانتهاء من بناء السد العالي"
+    },
+    {
+      "alughniya": "ولد العم يا جمال",
+      "almuallif": "أحمد شفيق كامل",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1960,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة البدء في مشروع السد العالي"
+    },
+    {
+      "alughniya": "وهتسافر",
+      "almuallif": "عبد الرحمن الأبنودى",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1964,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا أمى",
+      "almuallif": "فتحي قورة",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1958,
+      "alnaw": "اجتماعي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا حبايبى الحلوين",
+      "almuallif": "محمد حمزة",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1971,
+      "alnaw": "اجتماعي",
+      "malumat": "من فيلم ابنتي العزيزة 1971"
+    },
+    {
+      "alughniya": "يا حبيب الله والناس",
+      "almuallif": "صالح جودت",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1950,
+      "alnaw": "ديني",
+      "malumat": "من فيلم محسوب العائلة 1950 وأول ألحان السنباطي لنجاة"
+    },
+    {
+      "alughniya": "يا حبيبى",
+      "almuallif": "علي مهدي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1962,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا حنينة",
+      "almuallif": "محمد العجمي",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1967,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا راضيا بالحب",
+      "almuallif": "الإمام الصرصرى",
+      "almulahhin": "فؤاد حلمي",
+      "sanat_alisdar": 1955,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا رايحين أرض الكرامة",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1961,
+      "alnaw": "ديني",
+      "malumat": "نسبت بعض المصادر الكلمات لمرسي جميل عزيز واللحن لزكريا أحمد وسيد مكاوي"
+    },
+    {
+      "alughniya": "يا رب",
+      "almuallif": "حسين حلمي المانسترلي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1953,
+      "alnaw": "ديني",
+      "malumat": "أول أغاني نجاة بالإذاعة المصرية وأذيعت ليلة وقفة عرفات عام 1953"
+    },
+    {
+      "alughniya": "يا رب احفظ وحدتنا",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1961,
+      "alnaw": "وطني",
+      "malumat": "بمناسبة الانفصال بين سوريا ومصر"
+    },
+    {
+      "alughniya": "يا رب أبدعت ملكك",
+      "almuallif": "عبد الفتاح مصطفى",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا سلام عليك",
+      "almuallif": "عبد المنعم السباعي",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا شباب الكويت",
+      "almuallif": "",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1966,
+      "alnaw": "وطني",
+      "malumat": "غير معلوم المؤلف"
+    },
+    {
+      "alughniya": "يا شمسنا كوني نار",
+      "almuallif": "مجدي نجيب",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1969,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا طاعة الديان",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا طالعين العلالى",
+      "almuallif": "محمد علي أحمد",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1960,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا طيب القلب",
+      "almuallif": "حيدر محمود",
+      "almulahhin": "جميل العاص",
+      "sanat_alisdar": 1976,
+      "alnaw": "وطني",
+      "malumat": "أغنية وطنية للأردن"
+    },
+    {
+      "alughniya": "يا عيد نادى",
+      "almuallif": "كمال منصور",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1958,
+      "alnaw": "",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا قلبك",
+      "almuallif": "حسين السيد",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1955,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا قمر تبسم",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا ملاك الحب",
+      "almuallif": "أحمد رامي",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1958,
+      "alnaw": "اجتماعي",
+      "malumat": "من فيلم غريبة 1958"
+    },
+    {
+      "alughniya": "يا هاجر بحبك",
+      "almuallif": "عبد المنعم السباعى",
+      "almulahhin": "رياض السنباطي",
+      "sanat_alisdar": 1957,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا هجرة المختار",
+      "almuallif": "أحمد خيرت",
+      "almulahhin": "أحمد خيرت",
+      "sanat_alisdar": 1946,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يا هلى الحى",
+      "almuallif": "عبد العزيز البصرى",
+      "almulahhin": "أحمد باقر",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": "أغنية كويتية غنتها نجاة في جلسة خاصة وغير معلوم إن كان هناك تسجيل إذاعي للأغنية"
+    },
+    {
+      "alughniya": "ياللى في هواك هيمان",
+      "almuallif": "محمد طلعت",
+      "almulahhin": "طارق عبد الحكيم",
+      "sanat_alisdar": 1956,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "ياللي قبلك ما انشغل لي بال",
+      "almuallif": "غسماعيل الحبروك",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1959,
+      "alnaw": "عاطفي",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يجدد في النفس إشراقها",
+      "almuallif": "عبد السلام أمين",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1985,
+      "alnaw": "ديني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "يمين الله أنا بهواك",
+      "almuallif": "",
+      "almulahhin": "",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": "غير معلوم المؤلف والملحن"
+    },
+    {
+      "alughniya": "يوم الهنا",
+      "almuallif": "صلاح جاهين",
+      "almulahhin": "هانى شنودة",
+      "sanat_alisdar": 1982,
+      "alnaw": "وطني",
+      "malumat": ""
+    },
+    {
+      "alughniya": "العيد ليبى وغنوتى مصرية",
+      "almuallif": "",
+      "almulahhin": "",
+      "sanat_alisdar": 1989,
+      "alnaw": "",
+      "malumat": "لحن قديم"
+    },
+    {
+      "alughniya": "إوصفولي الحب",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1954,
+      "alnaw": "",
+      "malumat": "غنتها شادية في فيلم مغامرات إسماعيل ياسين وأعيد غناءها بصوت نجاة للإذاعة"
+    },
+    {
+      "alughniya": "آخرة جرحي إيه",
+      "almuallif": "إسماعيل الحبروك",
+      "almulahhin": "محمد الموجي",
+      "sanat_alisdar": 1960,
+      "alnaw": "",
+      "malumat": "غناها محرم فؤاد في فيلم وداعا يا حب"
+    },
+    {
+      "alughniya": "حي على الفلاح",
+      "almuallif": "الأخوين رحباني",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1973,
+      "alnaw": "",
+      "malumat": "غناها محمد عبد الوهاب بلبنان بعد نكسة يونيو 1967 وأعادت نجاة غناءها مع اختلاف كلمات الكوبليه الثاني، وذكرت بعض المصادر أن الشاعر عبد الوهاب محمد هو من قام بكتابة ذلك الكوبليه."
+    },
+    {
+      "alughniya": "طريق المحبة",
+      "almuallif": "",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": "",
+      "alnaw": "",
+      "malumat": "غنتها نجاح سلام في فيلم الدنيا لما تضحك وذكرت بعض المصادر أن نجاة أعادت غناءها ولكن الأرجح أن ذلك لم يحدث لكون الأغنية دويتو مع إسماعيل يس بطل الفيلم"
+    },
+    {
+      "alughniya": "ع الحلوة والمرة",
+      "almuallif": "سيد مرسي",
+      "almulahhin": "محمود الشريف",
+      "sanat_alisdar": 1954,
+      "alnaw": "",
+      "malumat": "أغنية عبد الغني السيد وغنتها نجاة في فيلم بنت البلد 1954 تماشيا مع أحداث الفيلم"
+    },
+    {
+      "alughniya": "قل ادع الله",
+      "almuallif": "زكى الطويل",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1954,
+      "alnaw": "",
+      "malumat": "غنتها شادية في فيلم اشهدوا يا ناس وأعيد غناءها بصوت نجاة للإذاعة"
+    },
+    {
+      "alughniya": "ليه خلتنى أحبك",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "كمال الطويل",
+      "sanat_alisdar": 1955,
+      "alnaw": "",
+      "malumat": "غنتها ليلى مراد في فيلم الحبيب المجهول وأعيد غناءها بصوت نجاة للإذاعة"
+    },
+    {
+      "alughniya": "ما كانش ع البال",
+      "almuallif": "أحمد عبد المجيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1992,
+      "alnaw": "",
+      "malumat": "أغنية للموسيقار محمد عبد الوهاب غنتها نجاة بتوزيع جديد"
+    },
+    {
+      "alughniya": "محلاها عيشة الفلاح",
+      "almuallif": "بيرم التونسي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1985,
+      "alnaw": "",
+      "malumat": "أغنية لأسمهان في فيلم يوم سعيد ، ثم غناها الموسيقار محمد عبد الوهاب وغنتها نجاة بتوزيع جديد"
+    },
+    {
+      "alughniya": "مقدرش أنساك (ساعة ما بشوفك جنبي)",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1968,
+      "alnaw": "",
+      "malumat": "من مفقودات أغاني عبد الوهاب بالأربعينات ووضع عبد الوهاب لحن آخر جديد للكلمات بنهاية 1967 لتغنيه نجاة ببداية 1968"
+    },
+    {
+      "alughniya": "والله وعرفنا الحب",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1965,
+      "alnaw": "",
+      "malumat": "سجلها عبد الوهاب ببداية يوليو 1965 وأهدى اللحن لنجاة لتغنيه أمام عبد الناصر في حفل عيد الثورة يوم 27 يوليو من نفس العام"
+    },
+    {
+      "alughniya": "وحدية",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "بليغ حمدي",
+      "sanat_alisdar": 1959,
+      "alnaw": "",
+      "malumat": "غنت مها صبري الكوبليه الثاني في فيلم أحلام البنات باسم ايه ده وأضيفت المقدمة والكوبليه الأخير في لحن نجاة"
+    },
+    {
+      "alughniya": "يا ساحل الفنطاس",
+      "almuallif": "أحمد العدواني",
+      "almulahhin": "حمد الرجيب",
+      "sanat_alisdar": 1963,
+      "alnaw": "",
+      "malumat": "لحن كويتي قديم"
+    },
+    {
+      "alughniya": "يا مسافر وحدك",
+      "almuallif": "حسين السيد",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1992,
+      "alnaw": "",
+      "malumat": "أغنية للموسيقار محمد عبد الوهاب من فيلم ممنوع الحب غنتها نجاة بتوزيع جديد"
+    },
+    {
+      "alughniya": "سلملى عليه",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "رؤوف ذهني",
+      "sanat_alisdar": 1956,
+      "alnaw": "",
+      "malumat": "غنتها فايزة أحمد بعد قدومها إلى مصر عام 1956"
+    },
+    {
+      "alughniya": "كل ده كان ليه",
+      "almuallif": "مأمون الشناوي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1954,
+      "alnaw": "",
+      "malumat": "لحنها الموسيقار محمد عبد الوهاب لنجاة وتم التسجيل بالإذاعة ببدايات عام 1954 وأعاد غناءها عبد الوهاب خلال نفس العام"
+    },
+    {
+      "alughniya": "لا تكذبي",
+      "almuallif": "كامل الشناوي",
+      "almulahhin": "محمد عبد الوهاب",
+      "sanat_alisdar": 1962,
+      "alnaw": "",
+      "malumat": "غنتها نجاة في فيلم الشموع السوداء وقدمتها لأول مرة في حفل عام في مايو 1962 وأعاد عبد الحليم حافظ غناءها بحفل عام بيوليو من نفس العام"
+    }
+  ],
+  "meta": {
+    "title": "أغاني نجاة الصغيرة - Free Download",
+    "description": "قائمة أغاني المطربة المصرية نجاة الصغيرة مع المؤلف والملحن وسنة الإصدار ونوع الأغنية. Contains 293 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أغاني نجاة الصغيرة | ListBase",
+    "seo_description": "Download أغاني نجاة الصغيرة — 293 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 293 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أغاني_نجاة_الصغيرة"
+    ]
+  }
+}

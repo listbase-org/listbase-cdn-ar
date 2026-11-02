@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-10-30T02:29:51.073Z",
-  "total_datasets": 476,
-  "total_records": 150099,
+  "generated": "2026-11-02T02:16:54.000Z",
+  "total_datasets": 477,
+  "total_records": 150392,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -9163,6 +9163,33 @@
         "xlsx": {
           "name": "ar-aghani-fayza-ahmed_AR.xlsx",
           "size": 10528
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-najat-alsaghira",
+      "name": "أغاني نجاة الصغيرة",
+      "category": "music",
+      "record_count": 293,
+      "columns": [
+        "alughniya",
+        "almuallif",
+        "almulahhin",
+        "sanat_alisdar",
+        "alnaw",
+        "malumat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أغاني_نجاة_الصغيرة",
+      "updated": "2026-11",
+      "size": 77891,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-najat-alsaghira_AR.csv",
+          "size": 38249
+        },
+        "xlsx": {
+          "name": "ar-aghani-najat-alsaghira_AR.xlsx",
+          "size": 21820
         }
       }
     },
