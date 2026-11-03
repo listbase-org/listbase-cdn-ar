@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-03T02:24:57.482Z",
-  "total_datasets": 487,
-  "total_records": 151073,
+  "generated": "2026-11-03T02:25:06.625Z",
+  "total_datasets": 488,
+  "total_records": 151165,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -8901,6 +8901,32 @@
         "xlsx": {
           "name": "ar-mustashfayat-alsaudia_AR.xlsx",
           "size": 22327
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-alsiha-misr",
+      "name": "وزراء الصحة في مصر",
+      "category": "health",
+      "record_count": 92,
+      "columns": [
+        "alwazir",
+        "alism",
+        "alfatarat",
+        "alwizara",
+        "rais_majlis_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_الصحة_(مصر)",
+      "updated": "2026-11",
+      "size": 29540,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-alsiha-misr_AR.csv",
+          "size": 17142
+        },
+        "xlsx": {
+          "name": "ar-wuzara-alsiha-misr_AR.xlsx",
+          "size": 10914
         }
       }
     },
