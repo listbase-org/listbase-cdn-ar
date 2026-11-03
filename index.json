@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-03T02:24:32.513Z",
-  "total_datasets": 484,
-  "total_records": 150971,
+  "generated": "2026-11-03T02:24:40.131Z",
+  "total_datasets": 485,
+  "total_records": 150994,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -12618,6 +12618,34 @@
         "xlsx": {
           "name": "ar-tashriat-alsiyaha-misr_AR.xlsx",
           "size": 8408
+        }
+      }
+    },
+    {
+      "id": "ar-turath-alami-almaghrib",
+      "name": "مواقع التراث العالمي في المغرب",
+      "category": "tourism",
+      "record_count": 23,
+      "columns": [
+        "alism",
+        "alqaima",
+        "almawqi",
+        "alfia_walmaayir",
+        "almarja",
+        "sanat_altasjil",
+        "alwasf"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_المغرب",
+      "updated": "2026-11",
+      "size": 19796,
+      "files": {
+        "csv": {
+          "name": "ar-turath-alami-almaghrib_AR.csv",
+          "size": 14184
+        },
+        "xlsx": {
+          "name": "ar-turath-alami-almaghrib_AR.xlsx",
+          "size": 11854
         }
       }
     },
