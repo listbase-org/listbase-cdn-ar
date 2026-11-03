@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-03T02:24:48.947Z",
-  "total_datasets": 486,
-  "total_records": 151025,
+  "generated": "2026-11-03T02:24:57.482Z",
+  "total_datasets": 487,
+  "total_records": 151073,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -490,6 +490,32 @@
         "xlsx": {
           "name": "ar-muhafizu-albank-almarkazi-almisri_AR.xlsx",
           "size": 7769
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-albitrol-misr",
+      "name": "وزراء البترول والثروة المعدنية في مصر",
+      "category": "economy",
+      "record_count": 48,
+      "columns": [
+        "alwazir",
+        "ism_alwizara",
+        "alfatarat",
+        "alwizara",
+        "rais_majlis_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_البترول_والثروة_المعدنية_(مصر)",
+      "updated": "2026-11",
+      "size": 18069,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-albitrol-misr_AR.csv",
+          "size": 10039
+        },
+        "xlsx": {
+          "name": "ar-wuzara-albitrol-misr_AR.xlsx",
+          "size": 9181
         }
       }
     },
