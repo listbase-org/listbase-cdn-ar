@@ -1,0 +1,346 @@
+{
+  "id": "ar-alshabakat-alkhalawiya-alarabiya",
+  "name": "شبكات الهاتف المحمول في الدول العربية",
+  "title": "شبكات الهاتف المحمول في الدول العربية",
+  "description": "قائمة بشركات وشبكات الهاتف الخلوي العاملة في الدول العربية مع الدولة وسنة التأسيس والملاحظات.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الشبكات_الخلوية_في_الوطن_العربي",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الشبكات_الخلوية_في_الوطن_العربي",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "alshabaka",
+      "label": "Alshabaka",
+      "type": "string"
+    },
+    {
+      "key": "aldawla",
+      "label": "Aldawla",
+      "type": "string"
+    },
+    {
+      "key": "altasis",
+      "label": "Altasis",
+      "type": "number"
+    },
+    {
+      "key": "mulahazat",
+      "label": "Mulahazat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alshabaka": "أورانج",
+      "aldawla": "مصر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "فودافون",
+      "aldawla": "مصر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "اتصالات",
+      "aldawla": "مصر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "المصرية للاتصالات",
+      "aldawla": "مصر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أمنية",
+      "aldawla": "الأردن",
+      "altasis": 2004,
+      "mulahazat": "الشبكة الثالثة في الأردن"
+    },
+    {
+      "alshabaka": "أورانج",
+      "aldawla": "الأردن",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "الأردن",
+      "altasis": "",
+      "mulahazat": "كانت تسمى قبل ذلك بفاست لينك"
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "البحرين",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "يمن موبايل",
+      "aldawla": "اليمن",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "ام تي ان",
+      "aldawla": "اليمن",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "سبأفون",
+      "aldawla": "اليمن",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "واي",
+      "aldawla": "اليمن",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "سيريتل",
+      "aldawla": "سوريا",
+      "altasis": 2000,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إم تي إن سوريا",
+      "aldawla": "سوريا",
+      "altasis": 2007,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إم تي إن السودان",
+      "aldawla": "السودان",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أوريدو",
+      "aldawla": "قطر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "اتصالات",
+      "aldawla": "الإمارات العربية المتحدة",
+      "altasis": 1976,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "دو",
+      "aldawla": "الإمارات العربية المتحدة",
+      "altasis": 2006,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "موبايلي",
+      "aldawla": "السعودية",
+      "altasis": 2005,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "ليبارا",
+      "aldawla": "السعودية",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "فيرجن موبايل",
+      "aldawla": "السعودية",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إتحاد عذيب",
+      "aldawla": "السعودية",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "الكويت",
+      "altasis": 1983,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أوريدو",
+      "aldawla": "الكويت",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إس تي سي",
+      "aldawla": "الكويت",
+      "altasis": 2008,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "جوال",
+      "aldawla": "فلسطين",
+      "altasis": 1999,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أوريدو",
+      "aldawla": "فلسطين",
+      "altasis": 2006,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إس تي سي",
+      "aldawla": "السعودية",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "السعودية",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "السودان",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "آسيا سيل",
+      "aldawla": "العراق",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "كورك تيليكوم",
+      "aldawla": "العراق",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أوريدو",
+      "aldawla": "تونس",
+      "altasis": 2002,
+      "mulahazat": "مملوكة مناصفة من قبل مجموعة اورسكوم تلكوم والشركة الوطنية للاتصالات وكانت تسمى بتونيزيانا."
+    },
+    {
+      "alshabaka": "أورنج",
+      "aldawla": "تونس",
+      "altasis": 2009,
+      "mulahazat": "مملوكة مناصفة من قبل أورنج الفرنسية وإنفستك التونسية."
+    },
+    {
+      "alshabaka": "اتصالات تونس",
+      "aldawla": "تونس",
+      "altasis": 1995,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "تاتش",
+      "aldawla": "لبنان",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "ألفا",
+      "aldawla": "لبنان",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "زين",
+      "aldawla": "العراق",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "جازي",
+      "aldawla": "الجزائر",
+      "altasis": 2001,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أوريدو",
+      "aldawla": "الجزائر",
+      "altasis": 2004,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "موبيليس",
+      "aldawla": "الجزائر",
+      "altasis": "",
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "المدار الجديد",
+      "aldawla": "ليبيا",
+      "altasis": 1996,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "ليبيانا",
+      "aldawla": "ليبيا",
+      "altasis": 2004,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "اتصالات المغرب",
+      "aldawla": "المغرب",
+      "altasis": 1999,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "أورنج",
+      "aldawla": "المغرب",
+      "altasis": 1999,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "إنوي",
+      "aldawla": "المغرب",
+      "altasis": 2010,
+      "mulahazat": ""
+    },
+    {
+      "alshabaka": "ماتل",
+      "aldawla": "موريتانيا",
+      "altasis": "",
+      "mulahazat": "شركة تابعة لاتصالات تونس"
+    },
+    {
+      "alshabaka": "موريتل",
+      "aldawla": "موريتانيا",
+      "altasis": "",
+      "mulahazat": "شركة تابعة لاتصالات المغرب"
+    },
+    {
+      "alshabaka": "شنقيتل",
+      "aldawla": "موريتانيا",
+      "altasis": "",
+      "mulahazat": "شركة تابعة لسوداتل"
+    },
+    {
+      "alshabaka": "تيليكوم جيبوتي",
+      "aldawla": "جيبوتي",
+      "altasis": 2013,
+      "mulahazat": ""
+    }
+  ],
+  "meta": {
+    "title": "شبكات الهاتف المحمول في الدول العربية - Free Download",
+    "description": "قائمة بشركات وشبكات الهاتف الخلوي العاملة في الدول العربية مع الدولة وسنة التأسيس والملاحظات. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "شبكات الهاتف المحمول في الدول العربية | ListBase",
+    "seo_description": "Download شبكات الهاتف المحمول في الدول العربية — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الشبكات_الخلوية_في_الوطن_العربي"
+    ]
+  }
+}

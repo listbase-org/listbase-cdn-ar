@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-02T02:17:42.227Z",
-  "total_datasets": 483,
-  "total_records": 150921,
+  "generated": "2026-11-03T02:24:32.513Z",
+  "total_datasets": 484,
+  "total_records": 150971,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -11892,6 +11892,31 @@
         "xlsx": {
           "name": "ar-alab-fidyo-tadam-alarabiya_AR.xlsx",
           "size": 11854
+        }
+      }
+    },
+    {
+      "id": "ar-alshabakat-alkhalawiya-alarabiya",
+      "name": "شبكات الهاتف المحمول في الدول العربية",
+      "category": "tech",
+      "record_count": 50,
+      "columns": [
+        "alshabaka",
+        "aldawla",
+        "altasis",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الشبكات_الخلوية_في_الوطن_العربي",
+      "updated": "2026-11",
+      "size": 8867,
+      "files": {
+        "csv": {
+          "name": "ar-alshabakat-alkhalawiya-alarabiya_AR.csv",
+          "size": 2561
+        },
+        "xlsx": {
+          "name": "ar-alshabakat-alkhalawiya-alarabiya_AR.xlsx",
+          "size": 8259
         }
       }
     },
