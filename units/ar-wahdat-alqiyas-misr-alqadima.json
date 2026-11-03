@@ -1,0 +1,268 @@
+{
+  "id": "ar-wahdat-alqiyas-misr-alqadima",
+  "name": "وحدات القياس في مصر القديمة",
+  "title": "وحدات القياس في مصر القديمة",
+  "description": "وحدات الطول والمساحة والحجم والوزن المستخدمة في مصر القديمة مع أسمائها المصرية القديمة والقبطية ومكافئها المتري التقريبي.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_في_مصر_القديمة",
+  "source_url": "https://ar.wikipedia.org/wiki/وحدات_القياس_في_مصر_القديمة",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    },
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "alism_almisri_alqadim",
+      "label": "Alism Almisri Alqadim",
+      "type": "string"
+    },
+    {
+      "key": "alism_alqibti",
+      "label": "Alism Alqibti",
+      "type": "string"
+    },
+    {
+      "key": "almukafi_almitri",
+      "label": "Almukafi Almitri",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alnaw": "الطول",
+      "alism": "إصبع Finger Fingerbreadth Tebā",
+      "alism_almisri_alqadim": "ḏbꜥ",
+      "alism_alqibti": "tēēbe",
+      "almukafi_almitri": "1.875 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "قبضة Hand Shesep",
+      "alism_almisri_alqadim": "šsp",
+      "alism_alqibti": "shop shoop shōp shap",
+      "almukafi_almitri": "7.5 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "يد Handsbreadth",
+      "alism_almisri_alqadim": "ḏrt",
+      "alism_alqibti": "hōhf",
+      "almukafi_almitri": "9.38 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "قبضة يد مقبوضة",
+      "alism_almisri_alqadim": "ḫfꜥ ꜣmm",
+      "alism_alqibti": "qajmē jamē",
+      "almukafi_almitri": "11.25 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "قبضة مزدوجة",
+      "alism_almisri_alqadim": "šspwy",
+      "alism_alqibti": "",
+      "almukafi_almitri": "15 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "شبر صغير Pedj-Sheser Shat Nedjes Little Shat",
+      "alism_almisri_alqadim": "pḏ šsr šꜣt nḏs",
+      "alism_alqibti": "rtō ertō",
+      "almukafi_almitri": "22.5 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "شبر كبير Half-Cubit Pedj-Aa Shat Aa Great Shat",
+      "alism_almisri_alqadim": "pḏ ꜥꜣ šꜣt ꜥꜣ",
+      "alism_alqibti": "rtō ertō",
+      "almukafi_almitri": "26 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "قدم Djeser Ser Bent Arm",
+      "alism_almisri_alqadim": "ḏsr",
+      "alism_alqibti": "",
+      "almukafi_almitri": "30 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "كتف Remen Upper Arm",
+      "alism_almisri_alqadim": "rmn",
+      "alism_alqibti": "",
+      "almukafi_almitri": "37.5 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "ذراع صغير Short Cubit Meh Nedjes",
+      "alism_almisri_alqadim": "mḥ nḏs mḥ šsr",
+      "alism_alqibti": "mahe mehi",
+      "almukafi_almitri": "45 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "ذراع ذراع ملكي ذراع مقدس Meh Nesut Meh Nisut Mahi Ell",
+      "alism_almisri_alqadim": "mḥ",
+      "alism_alqibti": "mahe mehi",
+      "almukafi_almitri": "52.3 سم 52.5 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "عمود Nebiu",
+      "alism_almisri_alqadim": "nbiw",
+      "alism_alqibti": "",
+      "almukafi_almitri": "60 سم"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "قصبة Rod of Cord Stick of Rope Khet سخوينوم",
+      "alism_almisri_alqadim": "ḫt",
+      "alism_alqibti": "hōte hōti",
+      "almukafi_almitri": "52.5 م"
+    },
+    {
+      "alnaw": "الطول",
+      "alism": "سخوينوس مقاييس النهر فرسخ Ater Iter أو Iteru",
+      "alism_almisri_alqadim": "jtrw",
+      "alism_alqibti": "shfō shvō",
+      "almukafi_almitri": "10.5 كم"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "Sa ثمن",
+      "alism_almisri_alqadim": "zꜣ",
+      "alism_alqibti": "",
+      "almukafi_almitri": "3.4456 م 2"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "Heseb ربع وحدة حسابية",
+      "alism_almisri_alqadim": "ḥsb",
+      "alism_alqibti": "",
+      "almukafi_almitri": "6.8913 م 2"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "Remen نصف كتف",
+      "alism_almisri_alqadim": "rmn",
+      "alism_alqibti": "",
+      "almukafi_almitri": "13.783 م 2"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "Ta Khet ذراع ذراع أرض Land Cubit Ground Cubit شريط ذراع وحدة أرض",
+      "alism_almisri_alqadim": "tꜣ ḫt mḥ mḥ itn",
+      "alism_alqibti": "jise",
+      "almukafi_almitri": "27.565 م 2"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "خا ألف",
+      "alism_almisri_alqadim": "ḫꜣ",
+      "alism_alqibti": "",
+      "almukafi_almitri": "275.65 م 2"
+    },
+    {
+      "alnaw": "المساحة",
+      "alism": "سشات Setjat أرورة خت مربع",
+      "alism_almisri_alqadim": "sṯꜣ sṯꜣt",
+      "alism_alqibti": "sōt steiōhe",
+      "almukafi_almitri": "2,756.5 م 2"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "Ro",
+      "alism_almisri_alqadim": "r",
+      "alism_alqibti": "",
+      "almukafi_almitri": "0.015 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "Dja",
+      "alism_almisri_alqadim": "dja",
+      "alism_alqibti": "",
+      "almukafi_almitri": "0.30 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "إناء هنُو",
+      "alism_almisri_alqadim": "hnw",
+      "alism_alqibti": "",
+      "almukafi_almitri": "0.48 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "برميل حقات Hekat",
+      "alism_almisri_alqadim": "hqt",
+      "alism_alqibti": "",
+      "almukafi_almitri": "4.8 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "برميل مزدوج حقات مزدوجة Double Hekat",
+      "alism_almisri_alqadim": "hqty",
+      "alism_alqibti": "",
+      "almukafi_almitri": "9.6 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "حقات رباعية (د.و) Oipe (د.ح)",
+      "alism_almisri_alqadim": "hqt-fdw jpt ipt",
+      "alism_alqibti": "",
+      "almukafi_almitri": "19.2 لتر"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "كيس خار",
+      "alism_almisri_alqadim": "khar",
+      "alism_alqibti": "",
+      "almukafi_almitri": "96.5 لتر (د.و) 76.8 لتر (د.ح)"
+    },
+    {
+      "alnaw": "الحجم",
+      "alism": "Deny ذراع مكعب",
+      "alism_almisri_alqadim": "deny",
+      "alism_alqibti": "",
+      "almukafi_almitri": "144 لتر"
+    },
+    {
+      "alnaw": "الوزن",
+      "alism": "قطعة Shematy",
+      "alism_almisri_alqadim": "shȝts",
+      "alism_alqibti": "",
+      "almukafi_almitri": ""
+    },
+    {
+      "alnaw": "الوزن",
+      "alism": "قدت Kedet Kite",
+      "alism_almisri_alqadim": "qdt",
+      "alism_alqibti": "",
+      "almukafi_almitri": ""
+    },
+    {
+      "alnaw": "الوزن",
+      "alism": "دبن",
+      "alism_almisri_alqadim": "dbn",
+      "alism_alqibti": "",
+      "almukafi_almitri": "13.6 غرام (د.ق ود.و) 91 غرام (د.ح)"
+    }
+  ],
+  "meta": {
+    "title": "وحدات القياس في مصر القديمة - Free Download",
+    "description": "وحدات الطول والمساحة والحجم والوزن المستخدمة في مصر القديمة مع أسمائها المصرية القديمة والقبطية ومكافئها المتري التقريبي. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "وحدات القياس في مصر القديمة | ListBase",
+    "seo_description": "Download وحدات القياس في مصر القديمة — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/وحدات_القياس_في_مصر_القديمة"
+    ]
+  }
+}
