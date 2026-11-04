@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-04T02:12:41.773Z",
-  "total_datasets": 491,
-  "total_records": 151283,
+  "generated": "2026-11-04T02:12:53.136Z",
+  "total_datasets": 492,
+  "total_records": 151295,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -146,6 +146,30 @@
         "xlsx": {
           "name": "ar-asnaf-altumur_AR.xlsx",
           "size": 9192
+        }
+      }
+    },
+    {
+      "id": "ar-intaj-altumur-aliraq",
+      "name": "إنتاج التمور في العراق عبر العقود",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "almudda",
+        "muaddal_alintaj_tan",
+        "altartib_alalami"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/التمور_في_العراق",
+      "updated": "2026-11",
+      "size": 3111,
+      "files": {
+        "csv": {
+          "name": "ar-intaj-altumur-aliraq_AR.csv",
+          "size": 348
+        },
+        "xlsx": {
+          "name": "ar-intaj-altumur-aliraq_AR.xlsx",
+          "size": 7018
         }
       }
     },

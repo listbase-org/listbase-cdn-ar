@@ -1,0 +1,101 @@
+{
+  "id": "ar-intaj-altumur-aliraq",
+  "name": "إنتاج التمور في العراق عبر العقود",
+  "title": "إنتاج التمور في العراق عبر العقود",
+  "description": "معدل إنتاج العراق من التمور (بالطن) وترتيبه العالمي في الإنتاج على فترات منذ ستينيات القرن العشرين حتى 2020.",
+  "category": "agriculture",
+  "source": "https://ar.wikipedia.org/wiki/التمور_في_العراق",
+  "source_url": "https://ar.wikipedia.org/wiki/التمور_في_العراق",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "almudda",
+      "label": "Almudda",
+      "type": "string"
+    },
+    {
+      "key": "muaddal_alintaj_tan",
+      "label": "Muaddal Alintaj Tan",
+      "type": "number"
+    },
+    {
+      "key": "altartib_alalami",
+      "label": "Altartib Alalami",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "almudda": "1960-1964",
+      "muaddal_alintaj_tan": 350000,
+      "altartib_alalami": 2
+    },
+    {
+      "almudda": "1965-1969",
+      "muaddal_alintaj_tan": 346000,
+      "altartib_alalami": 2
+    },
+    {
+      "almudda": "1970-1974",
+      "muaddal_alintaj_tan": 361000,
+      "altartib_alalami": 2
+    },
+    {
+      "almudda": "1975-1979",
+      "muaddal_alintaj_tan": 470818,
+      "altartib_alalami": 1
+    },
+    {
+      "almudda": "1980-1984",
+      "muaddal_alintaj_tan": 387516,
+      "altartib_alalami": 3
+    },
+    {
+      "almudda": "1985-1989",
+      "muaddal_alintaj_tan": 398534,
+      "altartib_alalami": 4
+    },
+    {
+      "almudda": "1990-1994",
+      "muaddal_alintaj_tan": 569478,
+      "altartib_alalami": 3
+    },
+    {
+      "almudda": "1995-1999",
+      "muaddal_alintaj_tan": 821094,
+      "altartib_alalami": 2
+    },
+    {
+      "almudda": "2000-2004",
+      "muaddal_alintaj_tan": 804276,
+      "altartib_alalami": 4
+    },
+    {
+      "almudda": "2005-2009",
+      "muaddal_alintaj_tan": 450114,
+      "altartib_alalami": 7
+    },
+    {
+      "almudda": "2010-2014",
+      "muaddal_alintaj_tan": 636172,
+      "altartib_alalami": 5
+    },
+    {
+      "almudda": "2020",
+      "muaddal_alintaj_tan": 735000,
+      "altartib_alalami": 4
+    }
+  ],
+  "meta": {
+    "title": "إنتاج التمور في العراق عبر العقود - Free Download",
+    "description": "معدل إنتاج العراق من التمور (بالطن) وترتيبه العالمي في الإنتاج على فترات منذ ستينيات القرن العشرين حتى 2020. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "إنتاج التمور في العراق عبر العقود | ListBase",
+    "seo_description": "Download إنتاج التمور في العراق عبر العقود — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/التمور_في_العراق"
+    ]
+  }
+}
