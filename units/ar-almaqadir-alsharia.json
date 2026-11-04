@@ -1,0 +1,322 @@
+{
+  "id": "ar-almaqadir-alsharia",
+  "name": "المقادير الشرعية: الأطوال والموازين والمكاييل",
+  "title": "المقادير الشرعية: الأطوال والموازين والمكاييل",
+  "description": "المقادير الشرعية الإسلامية من وحدات الطول والوزن والكيل (الذراع، الدرهم، الصاع، الوسق وغيرها) مع ما يعادلها بالوحدات المترية بحسب المذاهب الفقهية.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/مقادير_شرعية",
+  "source_url": "https://ar.wikipedia.org/wiki/مقادير_شرعية",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "alwahda",
+      "label": "Alwahda",
+      "type": "string"
+    },
+    {
+      "key": "almadhahib",
+      "label": "Almadhahib",
+      "type": "string"
+    },
+    {
+      "key": "almiqdar",
+      "label": "Almiqdar",
+      "type": "string"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alwahda": "الذراع",
+      "almadhahib": "عند الحنفية: المالكية: الشافعية والحنابلة",
+      "almiqdar": "46.375 سنتيمتر (سم) 53 سم 61.834 سم",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "ميل",
+      "almadhahib": "عند الحنفية والمالكية: الشافعية والحنابلة",
+      "almiqdar": "1855 الحنابلة متر (م) 3710 م",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "الإصبع",
+      "almadhahib": "عند الحنفية: المالكية: الشافعية والحنابلة",
+      "almiqdar": "1.932 سم. 1.472 سم. 2.576 سم",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "الفرسخ",
+      "almadhahib": "عند الحنفية والمالكية: الشافعية والحنابلة",
+      "almiqdar": "5565 م 11130 م",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "القبضة",
+      "almadhahib": "عند الحنفية: المالكية: الشافعية والحنابلة",
+      "almiqdar": "7.728 سم 5.888 سم 10.304 سم",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "البريد",
+      "almadhahib": "عند الحنفية والمالكية: الشافعية والحنابلة",
+      "almiqdar": "22260 م 44520 م",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "الشبر",
+      "almadhahib": "عند الحنفية المالكية: الشافعية والحنابلة",
+      "almiqdar": "11.592 سم. 8.832 سم. 15.456 سم.",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "المرحلة",
+      "almadhahib": "عند الحنفية والمالكية الشافعية والحنابلة",
+      "almiqdar": "44.520 كم 89.04 كم",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "الباع",
+      "almadhahib": "عند الحنفية المالكية: الشافعية والحنابلة",
+      "almiqdar": "1.855 م 2.12 م. 2.473 م",
+      "alnaw": "طول"
+    },
+    {
+      "alwahda": "الدرهم",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "3.125 غ 2.975 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الحبة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "0.0425 غ 0.059 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الدينار",
+      "almadhahib": "بالاتفاق",
+      "almiqdar": "4.25 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الطسوج",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "0.085 غ 0.0.118 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "النواة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "15.6 غ 14.875 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "القيراط",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "0.2125 غ 0.1771 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الأوقية",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "124.8 غ 119 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الدانق",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "0.521 غ 0.496 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "النش",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "62.4 غ 59.5 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "القنطار",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "149.76 كغ 142.8 كغ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الذرة",
+      "almadhahib": "",
+      "almiqdar": "0.00000023 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "المن",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "812.5 غ 773.5 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "القطمير",
+      "almadhahib": "",
+      "almiqdar": "0.00000276 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الكيلجة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "1523.5 غ 1450.3 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "النقير",
+      "almadhahib": "",
+      "almiqdar": "0.00001656 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الرطل عراقي",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "406.25 غ 382.5 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الفتيل",
+      "almadhahib": "",
+      "almiqdar": "0.00009936 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الإستار (ميزان)",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "20.3125 غ 19.3375 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الفلس",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "0.521 غ 0.496 غ",
+      "alnaw": "وزن"
+    },
+    {
+      "alwahda": "الكيلة",
+      "almadhahib": "",
+      "almiqdar": "16.5 لتر (ل)",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "القسط",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "1.625 كيلوغرام (كغ)",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "القدح (مكيال)",
+      "almadhahib": "",
+      "almiqdar": "2.0625 ل",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "العرق",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "48.75 كغ 30.6 غ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "المد",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "812.5 غ 510 غ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الإردب",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "78 كغ 48.96 غ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الحفنة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "812.5 غ 510 غ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "القفيز",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "98 كغ 24.480 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الصاع",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "3.25 كغ 2.04 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الجريب",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "156 كغ 97.92 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الوسق",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "195 كغ 122.4 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "المدي",
+      "almadhahib": "",
+      "almiqdar": "45.9 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الكر",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "2340 كغ 1468.8 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الفرق",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "6.5 كغ 6.12 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "الويبة",
+      "almadhahib": "",
+      "almiqdar": "33 ل",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "القربة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "40.625 كغ 38.250 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "القلة",
+      "almadhahib": "عند الحنفية: وعند الجمهور",
+      "almiqdar": "101.56 كغ. 95.625 كغ",
+      "alnaw": "كيل"
+    },
+    {
+      "alwahda": "المكوك",
+      "almadhahib": "",
+      "almiqdar": "3.06 كغ.",
+      "alnaw": "كيل"
+    }
+  ],
+  "meta": {
+    "title": "المقادير الشرعية: الأطوال والموازين والمكاييل - Free Download",
+    "description": "المقادير الشرعية الإسلامية من وحدات الطول والوزن والكيل (الذراع، الدرهم، الصاع، الوسق وغيرها) مع ما يعادلها بالوحدات المترية بحسب المذاهب الفقهية. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المقادير الشرعية: الأطوال والموازين والمكاييل | ListBase",
+    "seo_description": "Download المقادير الشرعية: الأطوال والموازين والمكاييل — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/مقادير_شرعية"
+    ]
+  }
+}

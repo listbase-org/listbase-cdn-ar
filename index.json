@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-04T02:12:32.219Z",
-  "total_datasets": 490,
-  "total_records": 151237,
+  "generated": "2026-11-04T02:12:41.773Z",
+  "total_datasets": 491,
+  "total_records": 151283,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -14472,6 +14472,31 @@
         "xlsx": {
           "name": "ar-yaman-matarat_AR.xlsx",
           "size": 13878
+        }
+      }
+    },
+    {
+      "id": "ar-almaqadir-alsharia",
+      "name": "المقادير الشرعية: الأطوال والموازين والمكاييل",
+      "category": "units",
+      "record_count": 46,
+      "columns": [
+        "alwahda",
+        "almadhahib",
+        "almiqdar",
+        "alnaw"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/مقادير_شرعية",
+      "updated": "2026-11",
+      "size": 10283,
+      "files": {
+        "csv": {
+          "name": "ar-almaqadir-alsharia_AR.csv",
+          "size": 4258
+        },
+        "xlsx": {
+          "name": "ar-almaqadir-alsharia_AR.xlsx",
+          "size": 8495
         }
       }
     },
