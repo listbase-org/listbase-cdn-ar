@@ -1,0 +1,142 @@
+{
+  "id": "ar-sukkan-oman-hasab-alfiaat-alumriya",
+  "name": "سكان سلطنة عمان والفئات العمرية (1950–2010)",
+  "title": "سكان سلطنة عمان والفئات العمرية (1950–2010)",
+  "description": "تطور عدد سكان سلطنة عمان (بالآلاف) ونسب الفئات العمرية (0–14، 15–64، 65 فما فوق) كل خمس سنوات وفق تقديرات الأمم المتحدة.",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_سلطنة_عمان",
+  "source_url": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_سلطنة_عمان",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "number"
+    },
+    {
+      "key": "alsukkan_bilalaf",
+      "label": "Alsukkan Bilalaf",
+      "type": "number"
+    },
+    {
+      "key": "nisbat_0_14",
+      "label": "Nisbat 0 14",
+      "type": "number"
+    },
+    {
+      "key": "nisbat_15_64",
+      "label": "Nisbat 15 64",
+      "type": "number"
+    },
+    {
+      "key": "nisbat_65_fama_fawq",
+      "label": "Nisbat 65 Fama Fawq",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alsana": 1950,
+      "alsukkan_bilalaf": 456,
+      "nisbat_0_14": 42.3,
+      "nisbat_15_64": 54.6,
+      "nisbat_65_fama_fawq": 3
+    },
+    {
+      "alsana": 1955,
+      "alsukkan_bilalaf": 501,
+      "nisbat_0_14": 43.6,
+      "nisbat_15_64": 53.2,
+      "nisbat_65_fama_fawq": 3.2
+    },
+    {
+      "alsana": 1960,
+      "alsukkan_bilalaf": 557,
+      "nisbat_0_14": 44.6,
+      "nisbat_15_64": 52.1,
+      "nisbat_65_fama_fawq": 3.2
+    },
+    {
+      "alsana": 1965,
+      "alsukkan_bilalaf": 631,
+      "nisbat_0_14": 45.6,
+      "nisbat_15_64": 51.2,
+      "nisbat_65_fama_fawq": 3.3
+    },
+    {
+      "alsana": 1970,
+      "alsukkan_bilalaf": 732,
+      "nisbat_0_14": 46.4,
+      "nisbat_15_64": 50.4,
+      "nisbat_65_fama_fawq": 3.2
+    },
+    {
+      "alsana": 1975,
+      "alsukkan_bilalaf": 898,
+      "nisbat_0_14": 46.1,
+      "nisbat_15_64": 50.9,
+      "nisbat_65_fama_fawq": 3
+    },
+    {
+      "alsana": 1980,
+      "alsukkan_bilalaf": 1181,
+      "nisbat_0_14": 45.6,
+      "nisbat_15_64": 51.8,
+      "nisbat_65_fama_fawq": 2.6
+    },
+    {
+      "alsana": 1985,
+      "alsukkan_bilalaf": 1539,
+      "nisbat_0_14": 46,
+      "nisbat_15_64": 51.6,
+      "nisbat_65_fama_fawq": 2.4
+    },
+    {
+      "alsana": 1990,
+      "alsukkan_bilalaf": 1868,
+      "nisbat_0_14": 45.6,
+      "nisbat_15_64": 52.1,
+      "nisbat_65_fama_fawq": 2.3
+    },
+    {
+      "alsana": 1995,
+      "alsukkan_bilalaf": 2232,
+      "nisbat_0_14": 40.3,
+      "nisbat_15_64": 57.5,
+      "nisbat_65_fama_fawq": 2.2
+    },
+    {
+      "alsana": 2000,
+      "alsukkan_bilalaf": 2264,
+      "nisbat_0_14": 36.7,
+      "nisbat_15_64": 60.8,
+      "nisbat_65_fama_fawq": 2.5
+    },
+    {
+      "alsana": 2005,
+      "alsukkan_bilalaf": 2430,
+      "nisbat_0_14": 32.1,
+      "nisbat_15_64": 65.1,
+      "nisbat_65_fama_fawq": 2.8
+    },
+    {
+      "alsana": 2010,
+      "alsukkan_bilalaf": 2782,
+      "nisbat_0_14": 27.2,
+      "nisbat_15_64": 70.3,
+      "nisbat_65_fama_fawq": 2.5
+    }
+  ],
+  "meta": {
+    "title": "سكان سلطنة عمان والفئات العمرية (1950–2010) - Free Download",
+    "description": "تطور عدد سكان سلطنة عمان (بالآلاف) ونسب الفئات العمرية (0–14، 15–64، 65 فما فوق) كل خمس سنوات وفق تقديرات الأمم المتحدة. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سكان سلطنة عمان والفئات العمرية (1950–2010) | ListBase",
+    "seo_description": "Download سكان سلطنة عمان والفئات العمرية (1950–2010) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_سلطنة_عمان"
+    ]
+  }
+}

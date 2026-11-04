@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-04T02:12:53.136Z",
-  "total_datasets": 492,
-  "total_records": 151295,
+  "generated": "2026-11-04T02:13:03.130Z",
+  "total_datasets": 493,
+  "total_records": 151308,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11792,6 +11792,32 @@
         "xlsx": {
           "name": "ar-sukkan-alimarat-hasab-alimara_AR.xlsx",
           "size": 7062
+        }
+      }
+    },
+    {
+      "id": "ar-sukkan-oman-hasab-alfiaat-alumriya",
+      "name": "سكان سلطنة عمان والفئات العمرية (1950–2010)",
+      "category": "society",
+      "record_count": 13,
+      "columns": [
+        "alsana",
+        "alsukkan_bilalaf",
+        "nisbat_0_14",
+        "nisbat_15_64",
+        "nisbat_65_fama_fawq"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_سلطنة_عمان",
+      "updated": "2026-11",
+      "size": 4192,
+      "files": {
+        "csv": {
+          "name": "ar-sukkan-oman-hasab-alfiaat-alumriya_AR.csv",
+          "size": 511
+        },
+        "xlsx": {
+          "name": "ar-sukkan-oman-hasab-alfiaat-alumriya_AR.xlsx",
+          "size": 7140
         }
       }
     },
