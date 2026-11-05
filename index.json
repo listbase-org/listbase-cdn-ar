@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:26:29.497Z",
-  "total_datasets": 497,
-  "total_records": 151688,
+  "generated": "2026-11-05T02:26:39.771Z",
+  "total_datasets": 498,
+  "total_records": 151771,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -9647,6 +9647,35 @@
         "xlsx": {
           "name": "ar-ruasa-misr_AR.xlsx",
           "size": 12721
+        }
+      }
+    },
+    {
+      "id": "ar-ruasa-wuzara-aliraq",
+      "name": "رؤساء وزراء العراق",
+      "category": "politics",
+      "record_count": 83,
+      "columns": [
+        "raqm",
+        "rais_alwuzara",
+        "wilada_wafat",
+        "bidayat_alfatra",
+        "nihayat_alfatra",
+        "alhizb",
+        "rais_aldawla",
+        "alhiqba"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_العراق",
+      "updated": "2026-11",
+      "size": 38087,
+      "files": {
+        "csv": {
+          "name": "ar-ruasa-wuzara-aliraq_AR.csv",
+          "size": 20727
+        },
+        "xlsx": {
+          "name": "ar-ruasa-wuzara-aliraq_AR.xlsx",
+          "size": 12341
         }
       }
     },

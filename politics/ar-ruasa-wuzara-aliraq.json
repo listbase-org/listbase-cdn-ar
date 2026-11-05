@@ -1,0 +1,896 @@
+{
+  "id": "ar-ruasa-wuzara-aliraq",
+  "name": "رؤساء وزراء العراق",
+  "title": "رؤساء وزراء العراق",
+  "description": "قائمة رؤساء وزراء العراق منذ 1920: تاريخ الولادة والوفاة، بداية ونهاية الفترة، الحزب السياسي ورئيس الدولة والحقبة.",
+  "category": "politics",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_العراق",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_العراق",
+  "updated": "2026-11",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "raqm",
+      "label": "Raqm",
+      "type": "number"
+    },
+    {
+      "key": "rais_alwuzara",
+      "label": "Rais Alwuzara",
+      "type": "string"
+    },
+    {
+      "key": "wilada_wafat",
+      "label": "Wilada Wafat",
+      "type": "string"
+    },
+    {
+      "key": "bidayat_alfatra",
+      "label": "Bidayat Alfatra",
+      "type": "string"
+    },
+    {
+      "key": "nihayat_alfatra",
+      "label": "Nihayat Alfatra",
+      "type": "string"
+    },
+    {
+      "key": "alhizb",
+      "label": "Alhizb",
+      "type": "string"
+    },
+    {
+      "key": "rais_aldawla",
+      "label": "Rais Aldawla",
+      "type": "string"
+    },
+    {
+      "key": "alhiqba",
+      "label": "Alhiqba",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "raqm": "1",
+      "rais_alwuzara": "عبد الرحمن الكيلاني",
+      "wilada_wafat": "1841–1927",
+      "bidayat_alfatra": "11 تشرين الثاني 1920",
+      "nihayat_alfatra": "20 تشرين الثاني 1922",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "2",
+      "rais_alwuzara": "عبد المحسن السعدون (أول مرة)",
+      "wilada_wafat": "1879–1929",
+      "bidayat_alfatra": "20 تشرين الثاني 1922",
+      "nihayat_alfatra": "22 تشرين الثاني 1923",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "3",
+      "rais_alwuzara": "جعفر العسكري (أول مرة)",
+      "wilada_wafat": "1885–1936",
+      "bidayat_alfatra": "22 تشرين الثاني 1923",
+      "nihayat_alfatra": "2 آب 1924",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "4",
+      "rais_alwuzara": "ياسين الهاشمي (أول مرة)",
+      "wilada_wafat": "1882–1937",
+      "bidayat_alfatra": "2 آب 1924",
+      "nihayat_alfatra": "26 حزيران 1925",
+      "alhizb": "عسكري / حزب الشعب",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "5",
+      "rais_alwuzara": "عبد المحسن السعدون (المرة الثانية)",
+      "wilada_wafat": "1879–1929",
+      "bidayat_alfatra": "26 حزيران 1925",
+      "nihayat_alfatra": "21 تشرين الثاني 1926",
+      "alhizb": "عسكري / حزب التقدم",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "6",
+      "rais_alwuzara": "جعفر العسكري (المرة الثانية)",
+      "wilada_wafat": "1887–1936",
+      "bidayat_alfatra": "21 تشرين الثاني 1926",
+      "nihayat_alfatra": "11 كانون الثاني 1928",
+      "alhizb": "عسكري / حزب العهد",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "7",
+      "rais_alwuzara": "عبد المحسن السعدون (المرة الثالثة)",
+      "wilada_wafat": "1879–1929",
+      "bidayat_alfatra": "11 كانون الثاني 1928",
+      "nihayat_alfatra": "20 كانون الثاني 1929",
+      "alhizb": "عسكري / حزب التقدم",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "8",
+      "rais_alwuzara": "توفيق السويدي (أول مرة)",
+      "wilada_wafat": "1892–1968",
+      "bidayat_alfatra": "28 نيسان 1929",
+      "nihayat_alfatra": "19 أيلول 1929",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "9",
+      "rais_alwuzara": "عبد المحسن السعدون (المرة الرابعة)",
+      "wilada_wafat": "1879–1929",
+      "bidayat_alfatra": "19 أيلول 1929",
+      "nihayat_alfatra": "13 تشرين الثاني 1929",
+      "alhizb": "عسكري / حزب التقدم",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "10",
+      "rais_alwuzara": "ناجي السويدي",
+      "wilada_wafat": "1882–1942",
+      "bidayat_alfatra": "18 تشرين الثاني 1929",
+      "nihayat_alfatra": "23 آذار 1930",
+      "alhizb": "حزب التقدم",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "11",
+      "rais_alwuzara": "نوري السعيد (أول مرة)",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "23 آذار 1930",
+      "nihayat_alfatra": "19 تشرين الأول 1931",
+      "alhizb": "حزب العهد",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "12",
+      "rais_alwuzara": "نوري السعيد (المرة الثانية)",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "19 تشرين الأول 1931",
+      "nihayat_alfatra": "3 تشرين الأول 1932",
+      "alhizb": "حزب العهد",
+      "rais_aldawla": "",
+      "alhiqba": "المملكة العراقية (تحت الانتداب البريطاني) (1920 – 1932)"
+    },
+    {
+      "raqm": "12",
+      "rais_alwuzara": "ناجي شوكت",
+      "wilada_wafat": "1893–1980",
+      "bidayat_alfatra": "3 تشرين الثاني 1932",
+      "nihayat_alfatra": "20 آذار 1933",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "13",
+      "rais_alwuzara": "رشيد عالي الكيلاني (أول مرة)",
+      "wilada_wafat": "1892–1965",
+      "bidayat_alfatra": "20 آذار 1933",
+      "nihayat_alfatra": "9 تشرين الثاني 1933",
+      "alhizb": "حزب الأخوة الوطني",
+      "rais_aldawla": "فيصل الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "14",
+      "rais_alwuzara": "جميل المدفعي (أول مرة)",
+      "wilada_wafat": "1890–1958",
+      "bidayat_alfatra": "9 تشرين الثاني 1933",
+      "nihayat_alfatra": "27 آب 1934",
+      "alhizb": "عسكري",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "15",
+      "rais_alwuzara": "علي جودت الأيوبي (أول مرة)",
+      "wilada_wafat": "1886–1969",
+      "bidayat_alfatra": "27 آب 1934",
+      "nihayat_alfatra": "4 آذار 1935",
+      "alhizb": "عسكري",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "16",
+      "rais_alwuzara": "جميل المدفعي (المرة الثانية)",
+      "wilada_wafat": "1890–1958",
+      "bidayat_alfatra": "4 آذار 1935",
+      "nihayat_alfatra": "17 آذار 1935",
+      "alhizb": "عسكري",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "17",
+      "rais_alwuzara": "ياسين الهاشمي (المرة الثانية)",
+      "wilada_wafat": "1894–1937",
+      "bidayat_alfatra": "17 آذار 1935",
+      "nihayat_alfatra": "30 تشرين الأول 1936",
+      "alhizb": "عسكري / حزب الإخاء الوطني",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "18",
+      "rais_alwuzara": "حكمت سليمان",
+      "wilada_wafat": "1889–1964",
+      "bidayat_alfatra": "30 تشرين الأول 1936",
+      "nihayat_alfatra": "17 آب 1937",
+      "alhizb": "حزب الأخوة الوطني",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "19",
+      "rais_alwuzara": "جميل المدفعي (المرة الثالثة)",
+      "wilada_wafat": "1890–1958",
+      "bidayat_alfatra": "17 آب 1937",
+      "nihayat_alfatra": "25 كانون الأول 1938",
+      "alhizb": "عسكري",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "20",
+      "rais_alwuzara": "نوري السعيد (المرة الثانية) الوزارات الثالثة والرابعة والخامسة",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "25 كانون الأول 1938",
+      "nihayat_alfatra": "31 آذار 1940",
+      "alhizb": "عسكري / حزب العهد",
+      "rais_aldawla": "غازي الأول",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "21",
+      "rais_alwuzara": "رشيد عالي الكيلاني (المرة الثانية)",
+      "wilada_wafat": "1892–1965",
+      "bidayat_alfatra": "31 آذار 1940",
+      "nihayat_alfatra": "3 شباط 1941",
+      "alhizb": "حزب الإخاء الوطني",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "22",
+      "rais_alwuzara": "طه الهاشمي",
+      "wilada_wafat": "1888–1961",
+      "bidayat_alfatra": "3 شباط 1941",
+      "nihayat_alfatra": "13 نيسان 1941 (خلع)",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "23",
+      "rais_alwuzara": "رشيد عالي الكيلاني (المرة الثالثة)",
+      "wilada_wafat": "1892–1965",
+      "bidayat_alfatra": "13 نيسان 1941",
+      "nihayat_alfatra": "30 أيار 1941",
+      "alhizb": "حزب الإخاء الوطني",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "24",
+      "rais_alwuzara": "جميل المدفعي (المرة الرابعة)",
+      "wilada_wafat": "1890–1958",
+      "bidayat_alfatra": "4 حزيران 1941",
+      "nihayat_alfatra": "10 تشرين الأول 1941",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "25",
+      "rais_alwuzara": "نوري السعيد (المرة الثالثة) الوزارات السادسة والسابعة والثامنة",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "10 تشرين الأول 1941",
+      "nihayat_alfatra": "4 حزيران 1944",
+      "alhizb": "عسكري / حزب العهد",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "26",
+      "rais_alwuzara": "حمدي الباجه جي",
+      "wilada_wafat": "1886–1948",
+      "bidayat_alfatra": "4 حزيران 1944",
+      "nihayat_alfatra": "23 شباط 1946",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "27",
+      "rais_alwuzara": "توفيق السويدي (المرة الثانية)",
+      "wilada_wafat": "1892–1968",
+      "bidayat_alfatra": "23 شباط 1946",
+      "nihayat_alfatra": "1 حزيران 1946",
+      "alhizb": "حزب الأحرار",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "28",
+      "rais_alwuzara": "أرشد العمري (أول مرة)",
+      "wilada_wafat": "1888–1978",
+      "bidayat_alfatra": "1 حزيران 1946",
+      "nihayat_alfatra": "21 تشرين الثاني 1946",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "29",
+      "rais_alwuzara": "نوري السعيد (المرة الرابعة) الوزارة التاسعة",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "21 تشرين الثاني 1946",
+      "nihayat_alfatra": "29 آذار 1947",
+      "alhizb": "عسكري / حزب الاتحاد الدستوري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "30",
+      "rais_alwuzara": "صالح جبر",
+      "wilada_wafat": "1896–1957",
+      "bidayat_alfatra": "29 آذار 1947",
+      "nihayat_alfatra": "29 كانون الثاني 1948",
+      "alhizb": "حزب الأمة الاشتراكي",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "31",
+      "rais_alwuzara": "سيد محمد الصدر",
+      "wilada_wafat": "1882 – 1956",
+      "bidayat_alfatra": "29 كانون الثاني 1948",
+      "nihayat_alfatra": "26 حزيران 1948",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "32",
+      "rais_alwuzara": "مزاحم الباجه جي",
+      "wilada_wafat": "1890–1982",
+      "bidayat_alfatra": "26 حزيران 1948",
+      "nihayat_alfatra": "6 كانون الثاني 1949",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "33",
+      "rais_alwuzara": "نوري السعيد (المرة الخامسة) الوزارة العاشرة",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "6 كانون الثاني 1949",
+      "nihayat_alfatra": "10 كانون الأول 1949",
+      "alhizb": "عسكري / حزب الاتحاد الدستوري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "34",
+      "rais_alwuzara": "علي جودت الأيوبي (المرة الثانية)",
+      "wilada_wafat": "1886–1969",
+      "bidayat_alfatra": "10 كانون الأول 1949",
+      "nihayat_alfatra": "5 شباط 1950",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "35",
+      "rais_alwuzara": "توفيق السويدي (المرة الثالثة)",
+      "wilada_wafat": "1892–1968",
+      "bidayat_alfatra": "5 شباط 1950",
+      "nihayat_alfatra": "15 أيلول 1950",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "36",
+      "rais_alwuzara": "نوري السعيد (المرة السادسة) الوزارة الحادية عشر",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "15 أيلول 1950",
+      "nihayat_alfatra": "12 تموز 1952",
+      "alhizb": "عسكري / حزب الاتحاد الدستوري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "37",
+      "rais_alwuzara": "مصطفى محمود العمري",
+      "wilada_wafat": "1898–1979",
+      "bidayat_alfatra": "12 تموز 1952",
+      "nihayat_alfatra": "23 تشرين الثاني 1952",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "38",
+      "rais_alwuzara": "نورالدين محمود",
+      "wilada_wafat": "1901–1978",
+      "bidayat_alfatra": "23 تشرين الثاني 1952",
+      "nihayat_alfatra": "29 كانون الثاني 1953",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "39",
+      "rais_alwuzara": "جميل المدفعي (المرة الخامسة)",
+      "wilada_wafat": "1890–1958",
+      "bidayat_alfatra": "29 كانون الثاني 1953",
+      "nihayat_alfatra": "17 أيلول 1953",
+      "alhizb": "عسكري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "40",
+      "rais_alwuzara": "محمد فاضل الجمالي",
+      "wilada_wafat": "1903–1997",
+      "bidayat_alfatra": "17 أيلول 1953",
+      "nihayat_alfatra": "29 نيسان 1954",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "41",
+      "rais_alwuzara": "أرشد العمري (المرة الثانية)",
+      "wilada_wafat": "1888–1978",
+      "bidayat_alfatra": "29 نيسان 1954",
+      "nihayat_alfatra": "4 آب 1954",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "42",
+      "rais_alwuzara": "نوري السعيد (المرة السابعة) الوزارتين الثانية عشر والثالثة عشر",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "4 آب 1954",
+      "nihayat_alfatra": "20 حزيران 1957",
+      "alhizb": "عسكري / حزب الاتحاد الدستوري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "43",
+      "rais_alwuzara": "علي جودت الأيوبي (المرة الثالثة)",
+      "wilada_wafat": "1886–1969",
+      "bidayat_alfatra": "20 حزيران 1957",
+      "nihayat_alfatra": "15 كانون الأول 1957",
+      "alhizb": "عسكري / جبهة الاتحاد الوطني",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "44",
+      "rais_alwuzara": "عبد الوهاب مرجان",
+      "wilada_wafat": "1909–1964",
+      "bidayat_alfatra": "15 كانون الأول 1957",
+      "nihayat_alfatra": "3 آذار 1958",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "45",
+      "rais_alwuzara": "نوري السعيد (المرة الثامنة) الوزارة الرابعة عشر",
+      "wilada_wafat": "1888–1958",
+      "bidayat_alfatra": "3 آذار 1958",
+      "nihayat_alfatra": "18 أيار 1958",
+      "alhizb": "عسكري / حزب الاتحاد الدستوري",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "46",
+      "rais_alwuzara": "أحمد مختار بابان",
+      "wilada_wafat": "1900–1976",
+      "bidayat_alfatra": "18 أيار 1958",
+      "nihayat_alfatra": "14 تموز 1958 (خلع)",
+      "alhizb": "مستقل",
+      "rais_aldawla": "فيصل الثاني",
+      "alhiqba": "المملكة العراقية (1932 – 1958)"
+    },
+    {
+      "raqm": "47",
+      "rais_alwuzara": "عبد الكريم قاسم",
+      "wilada_wafat": "1914–1963",
+      "bidayat_alfatra": "14 تموز 1958",
+      "nihayat_alfatra": "8 شباط 1963 (خلع)",
+      "alhizb": "عسكري",
+      "rais_aldawla": "محمد نجيب الربيعي",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "48",
+      "rais_alwuzara": "أحمد حسن البكر (أول مرة)",
+      "wilada_wafat": "1914–1982",
+      "bidayat_alfatra": "8 شباط 1963",
+      "nihayat_alfatra": "18 تشرين الثاني 1963 (خلع)",
+      "alhizb": "عسكري / حزب البعث العربي الاشتراكي (العراق)",
+      "rais_aldawla": "عبد السلام عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "49",
+      "rais_alwuzara": "طاهر يحيى (أول مرة)",
+      "wilada_wafat": "1915–1986",
+      "bidayat_alfatra": "20 تشرين الثاني 1963",
+      "nihayat_alfatra": "6 أيلول 1965",
+      "alhizb": "عسكري / الاتحاد الاشتراكي العربي العراقي",
+      "rais_aldawla": "عبد السلام عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "50",
+      "rais_alwuzara": "عارف عبد الرزاق",
+      "wilada_wafat": "1921–2007",
+      "bidayat_alfatra": "6 أيلول 1965",
+      "nihayat_alfatra": "21 أيلول 1965",
+      "alhizb": "عسكري / الاتحاد الاشتراكي العربي العراقي",
+      "rais_aldawla": "عبد السلام عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "51",
+      "rais_alwuzara": "عبد الرحمن البزاز",
+      "wilada_wafat": "1913–1973",
+      "bidayat_alfatra": "21 أيلول 1965",
+      "nihayat_alfatra": "9 آب 1966",
+      "alhizb": "الاتحاد الاشتراكي العربي العراقي",
+      "rais_aldawla": "عبد السلام عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "52",
+      "rais_alwuzara": "ناجي طالب",
+      "wilada_wafat": "1917–2012",
+      "bidayat_alfatra": "9 آب 1966",
+      "nihayat_alfatra": "10 أيار 1967",
+      "alhizb": "عسكري",
+      "rais_aldawla": "عبد الرحمن عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "53",
+      "rais_alwuzara": "عبد الرحمن عارف",
+      "wilada_wafat": "1916–2007",
+      "bidayat_alfatra": "10 أيار 1967",
+      "nihayat_alfatra": "10 تموز 1967",
+      "alhizb": "عسكري / الاتحاد الاشتراكي العربي العراقي",
+      "rais_aldawla": "عبد الرحمن عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "54",
+      "rais_alwuzara": "طاهر يحيى (المرة الثانية)",
+      "wilada_wafat": "1915–1986",
+      "bidayat_alfatra": "10 تموز 1967",
+      "nihayat_alfatra": "17 تموز 1968 (خلع)",
+      "alhizb": "عسكري / الاتحاد الاشتراكي العربي العراقي",
+      "rais_aldawla": "عبد الرحمن عارف",
+      "alhiqba": "← • الجمهورية العراقية (1958 – 1968) • ←"
+    },
+    {
+      "raqm": "55",
+      "rais_alwuzara": "عبد الرزاق النايف",
+      "wilada_wafat": "1933–1978",
+      "bidayat_alfatra": "17 تموز 1968",
+      "nihayat_alfatra": "30 تموز 1968 (خلع)",
+      "alhizb": "عسكري",
+      "rais_aldawla": "أحمد حسن البكر",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "56",
+      "rais_alwuzara": "أحمد حسن البكر (المرة الثانية)",
+      "wilada_wafat": "1914–1982",
+      "bidayat_alfatra": "31 تموز 1968",
+      "nihayat_alfatra": "16 تموز 1979",
+      "alhizb": "عسكري / حزب البعث العراقي (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "أحمد حسن البكر",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "57",
+      "rais_alwuzara": "صدام حسين (أول مرة)",
+      "wilada_wafat": "1937–2006",
+      "bidayat_alfatra": "16 تموز 1979",
+      "nihayat_alfatra": "23 آذار 1991",
+      "alhizb": "(حزب البعث العراقي) (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "صدام حسين",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "58",
+      "rais_alwuzara": "سعدون حمادي",
+      "wilada_wafat": "1930–2007",
+      "bidayat_alfatra": "23 آذار 1991",
+      "nihayat_alfatra": "13 أيلول 1991",
+      "alhizb": "(حزب البعث العراقي) (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "صدام حسين",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "59",
+      "rais_alwuzara": "محمد حمزة الزبيدي",
+      "wilada_wafat": "1938–2005",
+      "bidayat_alfatra": "16 أيلول 1991",
+      "nihayat_alfatra": "5 أيلول 1993",
+      "alhizb": "(حزب البعث العراقي) (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "صدام حسين",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "60",
+      "rais_alwuzara": "أحمد حسين خضير السامرائي",
+      "wilada_wafat": "1941–",
+      "bidayat_alfatra": "5 أيلول 1993",
+      "nihayat_alfatra": "29 أيار 1994",
+      "alhizb": "(حزب البعث العراقي) (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "صدام حسين",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "61",
+      "rais_alwuzara": "صدام حسين (المرة الثانية)",
+      "wilada_wafat": "1937–2006",
+      "bidayat_alfatra": "29 أيار 1994",
+      "nihayat_alfatra": "9 نيسان 2003 (خلع)",
+      "alhizb": "(حزب البعث العراقي) (الجبهة الوطنية التقدمية العراقية)",
+      "rais_aldawla": "صدام حسين",
+      "alhiqba": "الجمهورية العراقية ← جمهورية العراق • (تحت حكم حزب البعث: 1968 – 2003)"
+    },
+    {
+      "raqm": "—",
+      "rais_alwuzara": "محمد بحر العلوم (أول مرة)",
+      "wilada_wafat": "1927–2015",
+      "bidayat_alfatra": "13 تموز 2003",
+      "nihayat_alfatra": "31 تموز 2003",
+      "alhizb": "مستقل",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "62",
+      "rais_alwuzara": "إبراهيم الجعفري (أول مرة)",
+      "wilada_wafat": "1947–",
+      "bidayat_alfatra": "1 آب 2003",
+      "nihayat_alfatra": "31 آب 2003",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "63",
+      "rais_alwuzara": "أحمد الجلبي",
+      "wilada_wafat": "1944–2015",
+      "bidayat_alfatra": "1 أيلول 2003",
+      "nihayat_alfatra": "30 أيلول 2003",
+      "alhizb": "المؤتمر الوطني العراقي",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "64",
+      "rais_alwuzara": "إياد علاوي (أول مرة)",
+      "wilada_wafat": "1945–",
+      "bidayat_alfatra": "1 تشرين الأول 2003",
+      "nihayat_alfatra": "31 تشرين الأول 2003",
+      "alhizb": "حركة الوفاق الوطني العراقي",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "65",
+      "rais_alwuzara": "جلال طلباني",
+      "wilada_wafat": "1933–2017",
+      "bidayat_alfatra": "1 تشرين الثاني 2003",
+      "nihayat_alfatra": "30 تشرين الثاني 2003",
+      "alhizb": "الاتحاد الوطني کوردستان",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "66",
+      "rais_alwuzara": "عبد العزيز الحكيم",
+      "wilada_wafat": "1950–2009",
+      "bidayat_alfatra": "1 كانون الأول 2003",
+      "nihayat_alfatra": "31 كانون الأول 2003",
+      "alhizb": "المجلس الأعلى الإسلامي العراقي",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "67",
+      "rais_alwuzara": "عدنان الباجه جي",
+      "wilada_wafat": "1923–2019",
+      "bidayat_alfatra": "1 كانون الثاني 2004",
+      "nihayat_alfatra": "31 كانون الثاني 2004",
+      "alhizb": "مجلس المستقلين الديمقراطيين",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "68",
+      "rais_alwuzara": "محسن عبد الحميد",
+      "wilada_wafat": "1937–",
+      "bidayat_alfatra": "1 شباط 2004",
+      "nihayat_alfatra": "29 شباط 2004",
+      "alhizb": "الحزب الإسلامي العراقي",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "69",
+      "rais_alwuzara": "محمد بحر العلوم (المرة الثانية)",
+      "wilada_wafat": "1927–2015",
+      "bidayat_alfatra": "1 آذار 2004",
+      "nihayat_alfatra": "31 آذار 2004",
+      "alhizb": "مستقل",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "70",
+      "rais_alwuzara": "مسعود برزاني",
+      "wilada_wafat": "1946–",
+      "bidayat_alfatra": "1 نيسان 2004",
+      "nihayat_alfatra": "30 نيسان 2004",
+      "alhizb": "الحزب الديمقراطي الكردستاني",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "71",
+      "rais_alwuzara": "عز الدين سليم",
+      "wilada_wafat": "1943–2004",
+      "bidayat_alfatra": "1 أيار 2004",
+      "nihayat_alfatra": "17 أيار 2004",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "72",
+      "rais_alwuzara": "غازي مشعل عجيل الياور",
+      "wilada_wafat": "1958–",
+      "bidayat_alfatra": "17 أيار 2004",
+      "nihayat_alfatra": "1 حزيران 2004",
+      "alhizb": "العراقيون",
+      "rais_aldawla": "سلطة الائتلاف المؤقتة - (تحت الاحتلال الامريكي)",
+      "alhiqba": "مجلس الحكم العراقي (2003 – 2004)"
+    },
+    {
+      "raqm": "—",
+      "rais_alwuzara": "إياد علاوي (المرة الثانية)",
+      "wilada_wafat": "1945–",
+      "bidayat_alfatra": "1 حزيران 2004",
+      "nihayat_alfatra": "3 أيار 2005",
+      "alhizb": "حركة الوفاق الوطني العراقي",
+      "rais_aldawla": "غازي مشعل عجيل الياور",
+      "alhiqba": "جمهورية العراق (2004 – 2011)"
+    },
+    {
+      "raqm": "73",
+      "rais_alwuzara": "إبراهيم الجعفري (المرة الثانية)",
+      "wilada_wafat": "1947–",
+      "bidayat_alfatra": "3 أيار 2005",
+      "nihayat_alfatra": "20 أيار 2006",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "جلال طالباني",
+      "alhiqba": "جمهورية العراق (2004 – 2011)"
+    },
+    {
+      "raqm": "74",
+      "rais_alwuzara": "نوري المالكي (أول مرة)",
+      "wilada_wafat": "1950–",
+      "bidayat_alfatra": "20 أيار 2006",
+      "nihayat_alfatra": "21 كانون الأول 2010",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "جلال طالباني",
+      "alhiqba": "جمهورية العراق (2004 – 2011)"
+    },
+    {
+      "raqm": "74",
+      "rais_alwuzara": "نوري المالكي (المرة الثانية)",
+      "wilada_wafat": "1950–",
+      "bidayat_alfatra": "21 كانون الأول 2010",
+      "nihayat_alfatra": "8 أيلول 2014",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "جلال طالباني",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    },
+    {
+      "raqm": "75",
+      "rais_alwuzara": "حيدر العبادي",
+      "wilada_wafat": "1952–",
+      "bidayat_alfatra": "8 أيلول 2014",
+      "nihayat_alfatra": "25 تشرين الأول 2018",
+      "alhizb": "حزب الدعوة الإسلامية",
+      "rais_aldawla": "فؤاد معصوم",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    },
+    {
+      "raqm": "76",
+      "rais_alwuzara": "عادل عبد المهدي",
+      "wilada_wafat": "1942–",
+      "bidayat_alfatra": "25 تشرين الأول 2018",
+      "nihayat_alfatra": "30 تشرين الثاني 2019",
+      "alhizb": "مستقل",
+      "rais_aldawla": "برهم صالح",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    },
+    {
+      "raqm": "76",
+      "rais_alwuzara": "مصطفى الكاظمي",
+      "wilada_wafat": "1967–",
+      "bidayat_alfatra": "7 أيار 2020",
+      "nihayat_alfatra": "13 تشرين الأول 2022",
+      "alhizb": "مستقل",
+      "rais_aldawla": "برهم صالح",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    },
+    {
+      "raqm": "77",
+      "rais_alwuzara": "محمد شياع السوداني",
+      "wilada_wafat": "1970–",
+      "bidayat_alfatra": "13 تشرين الأول 2022",
+      "nihayat_alfatra": "14 أيار 2026",
+      "alhizb": "الإطار التنسيقي",
+      "rais_aldawla": "عبد اللطيف جمال رشيد",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    },
+    {
+      "raqm": "78",
+      "rais_alwuzara": "علي فالح الزيدي",
+      "wilada_wafat": "1985–",
+      "bidayat_alfatra": "14 أيار 2026",
+      "nihayat_alfatra": "حتى الآن",
+      "alhizb": "مستقل / الإطار التنسيقي",
+      "rais_aldawla": "نزار آميدي",
+      "alhiqba": "جمهورية العراق (2011 –الآن)"
+    }
+  ],
+  "meta": {
+    "title": "رؤساء وزراء العراق - Free Download",
+    "description": "قائمة رؤساء وزراء العراق منذ 1920: تاريخ الولادة والوفاة، بداية ونهاية الفترة، الحزب السياسي ورئيس الدولة والحقبة. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "رؤساء وزراء العراق | ListBase",
+    "seo_description": "Download رؤساء وزراء العراق — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_العراق"
+    ]
+  }
+}
