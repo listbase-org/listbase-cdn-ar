@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:26:39.771Z",
-  "total_datasets": 498,
-  "total_records": 151771,
+  "generated": "2026-11-05T02:26:49.447Z",
+  "total_datasets": 499,
+  "total_records": 151785,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -11951,6 +11951,31 @@
         "xlsx": {
           "name": "ar-sukkan-oman-hasab-alfiaat-alumriya_AR.xlsx",
           "size": 7140
+        }
+      }
+    },
+    {
+      "id": "ar-taadad-alsaudia-2022-hasab-almintaqa",
+      "name": "سكان السعودية حسب المنطقة الإدارية (تعداد 2022)",
+      "category": "society",
+      "record_count": 14,
+      "columns": [
+        "almintaqa",
+        "alijmali",
+        "saudi",
+        "ghayr_saudi"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/تعداد_السعودية_2022",
+      "updated": "2026-11",
+      "size": 3780,
+      "files": {
+        "csv": {
+          "name": "ar-taadad-alsaudia-2022-hasab-almintaqa_AR.csv",
+          "size": 702
+        },
+        "xlsx": {
+          "name": "ar-taadad-alsaudia-2022-hasab-almintaqa_AR.xlsx",
+          "size": 7313
         }
       }
     },

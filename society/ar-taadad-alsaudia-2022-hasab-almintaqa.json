@@ -1,0 +1,130 @@
+{
+  "id": "ar-taadad-alsaudia-2022-hasab-almintaqa",
+  "name": "سكان السعودية حسب المنطقة الإدارية (تعداد 2022)",
+  "title": "سكان السعودية حسب المنطقة الإدارية (تعداد 2022)",
+  "description": "النتائج الرئيسة لتعداد السعودية 2022: إجمالي السكان والسعوديون وغير السعوديين في كل منطقة إدارية.",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/تعداد_السعودية_2022",
+  "source_url": "https://ar.wikipedia.org/wiki/تعداد_السعودية_2022",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "almintaqa",
+      "label": "Almintaqa",
+      "type": "string"
+    },
+    {
+      "key": "alijmali",
+      "label": "Alijmali",
+      "type": "number"
+    },
+    {
+      "key": "saudi",
+      "label": "Saudi",
+      "type": "number"
+    },
+    {
+      "key": "ghayr_saudi",
+      "label": "Ghayr Saudi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "almintaqa": "الرياض",
+      "alijmali": 8591748,
+      "saudi": 4439210,
+      "ghayr_saudi": 4152538
+    },
+    {
+      "almintaqa": "مكة المكرمة",
+      "alijmali": 8021463,
+      "saudi": 4153723,
+      "ghayr_saudi": 3867740
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "alijmali": 5125254,
+      "saudi": 2949854,
+      "ghayr_saudi": 2175400
+    },
+    {
+      "almintaqa": "المدينة المنورة",
+      "alijmali": 2137983,
+      "saudi": 1352146,
+      "ghayr_saudi": 785837
+    },
+    {
+      "almintaqa": "عسير",
+      "alijmali": 2024285,
+      "saudi": 1444688,
+      "ghayr_saudi": 579597
+    },
+    {
+      "almintaqa": "جازان",
+      "alijmali": 1404997,
+      "saudi": 1002779,
+      "ghayr_saudi": 402218
+    },
+    {
+      "almintaqa": "القصيم",
+      "alijmali": 1336179,
+      "saudi": 926490,
+      "ghayr_saudi": 409689
+    },
+    {
+      "almintaqa": "تبوك",
+      "alijmali": 886036,
+      "saudi": 637601,
+      "ghayr_saudi": 248435
+    },
+    {
+      "almintaqa": "حائل",
+      "alijmali": 746406,
+      "saudi": 527885,
+      "ghayr_saudi": 218521
+    },
+    {
+      "almintaqa": "الجوف",
+      "alijmali": 595822,
+      "saudi": 440264,
+      "ghayr_saudi": 155558
+    },
+    {
+      "almintaqa": "نجران",
+      "alijmali": 592300,
+      "saudi": 394976,
+      "ghayr_saudi": 197324
+    },
+    {
+      "almintaqa": "الحدود الشمالية",
+      "alijmali": 373577,
+      "saudi": 271358,
+      "ghayr_saudi": 102219
+    },
+    {
+      "almintaqa": "الباحة",
+      "alijmali": 339174,
+      "saudi": 251288,
+      "ghayr_saudi": 87886
+    },
+    {
+      "almintaqa": "الإجمالي",
+      "alijmali": 32175224,
+      "saudi": 18792262,
+      "ghayr_saudi": 13382962
+    }
+  ],
+  "meta": {
+    "title": "سكان السعودية حسب المنطقة الإدارية (تعداد 2022) - Free Download",
+    "description": "النتائج الرئيسة لتعداد السعودية 2022: إجمالي السكان والسعوديون وغير السعوديين في كل منطقة إدارية. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سكان السعودية حسب المنطقة الإدارية (تعداد 2022) | ListBase",
+    "seo_description": "Download سكان السعودية حسب المنطقة الإدارية (تعداد 2022) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/تعداد_السعودية_2022"
+    ]
+  }
+}
