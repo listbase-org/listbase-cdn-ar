@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:25:59.683Z",
-  "total_datasets": 494,
-  "total_records": 151362,
+  "generated": "2026-11-05T02:26:10.461Z",
+  "total_datasets": 495,
+  "total_records": 151501,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -595,6 +595,29 @@
         "xlsx": {
           "name": "ar-jamiat_AR.xlsx",
           "size": 10317
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-aljazair",
+      "name": "قائمة الجامعات في الجزائر حسب الولاية",
+      "category": "education",
+      "record_count": 139,
+      "columns": [
+        "aljamia",
+        "alwilaya"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_في_الجزائر",
+      "updated": "2026-11",
+      "size": 20053,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-aljazair_AR.csv",
+          "size": 11679
+        },
+        "xlsx": {
+          "name": "ar-jamiat-aljazair_AR.xlsx",
+          "size": 10690
         }
       }
     },
