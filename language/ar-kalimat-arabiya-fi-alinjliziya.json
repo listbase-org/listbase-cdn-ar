@@ -1,0 +1,1024 @@
+{
+  "id": "ar-kalimat-arabiya-fi-alinjliziya",
+  "name": "كلمات عربية دخيلة في اللغة الإنجليزية",
+  "title": "كلمات عربية دخيلة في اللغة الإنجليزية",
+  "description": "كلمات إنجليزية ذات أصل عربي مع الكلمة العربية الأصلية ومعناها أو ملاحظات حولها.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_كلمات_عربية_دخيلة_في_الإنجليزية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_كلمات_عربية_دخيلة_في_الإنجليزية",
+  "updated": "2026-11",
+  "record_count": 163,
+  "columns": [
+    {
+      "key": "alkalima_alarabiya",
+      "label": "Alkalima Alarabiya",
+      "type": "string"
+    },
+    {
+      "key": "alkalima_alinjliziya",
+      "label": "Alkalima Alinjliziya",
+      "type": "string"
+    },
+    {
+      "key": "almana_mulahazat",
+      "label": "Almana Mulahazat",
+      "type": "string"
+    },
+    {
+      "key": "alfia",
+      "label": "Alfia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alkalima_alarabiya": "حب المسك",
+      "alkalima_alinjliziya": "Abelmoschus",
+      "almana_mulahazat": "",
+      "alfia": "أسماء النباتات العربية"
+    },
+    {
+      "alkalima_alarabiya": "لبلب",
+      "alkalima_alinjliziya": "Lablab",
+      "almana_mulahazat": "",
+      "alfia": "أسماء النباتات العربية"
+    },
+    {
+      "alkalima_alarabiya": "ملوخية",
+      "alkalima_alinjliziya": "Melochia",
+      "almana_mulahazat": "أُطلِقت التسمية على نبات آخر في اللغات الأجنبية",
+      "alfia": "أسماء النباتات العربية"
+    },
+    {
+      "alkalima_alarabiya": "بخاري",
+      "alkalima_alinjliziya": "Buckram",
+      "almana_mulahazat": "نسبة لمدينة بخارى",
+      "alfia": "كلمات النسيج العربية"
+    },
+    {
+      "alkalima_alarabiya": "شَفّ",
+      "alkalima_alinjliziya": "Chiffon",
+      "almana_mulahazat": "بمعنى شفاف",
+      "alfia": "كلمات النسيج العربية"
+    },
+    {
+      "alkalima_alarabiya": "فسطاطي",
+      "alkalima_alinjliziya": "Fustian",
+      "almana_mulahazat": "نسبة لمدينة الفسطاط",
+      "alfia": "كلمات النسيج العربية"
+    },
+    {
+      "alkalima_alarabiya": "زيتوني",
+      "alkalima_alinjliziya": "Satin",
+      "almana_mulahazat": "نسبة لمدينة الزيتون",
+      "alfia": "كلمات النسيج العربية"
+    },
+    {
+      "alkalima_alarabiya": "صفر",
+      "alkalima_alinjliziya": "cipher",
+      "almana_mulahazat": "شيفرة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قيراط",
+      "alkalima_alinjliziya": "carat",
+      "almana_mulahazat": "وحدة وزن.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "صفر",
+      "alkalima_alinjliziya": "zero",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الإكسير",
+      "alkalima_alinjliziya": "elixir",
+      "almana_mulahazat": "من الكلمة اليونانية (ξηρίον، كسيريون)، جرعة دوائية أو سحرية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الإنبيق",
+      "alkalima_alinjliziya": "alembic",
+      "almana_mulahazat": "اداة كيميائية للتقطير، وهي كلمة تعود جذورها إلى العربية للكلمة الأغريقية ambix وتعني \"كوب.\" قام الإغريق بأول تقطير كيميائي في الإسكندرية بمصر في القرن الثالث بعد الميلاد. وتحولت كلمة ambix للعربية في القرن 9 لتصبح (الإنبيق). وبعد ذلك في القرن 12 عرفت باللاتينية (alembicus).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الباذنجان",
+      "alkalima_alinjliziya": "aubergine",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الجبر",
+      "alkalima_alinjliziya": "algebra",
+      "almana_mulahazat": "الجبر، استعادة الأجزاء المفقودة. وتفيد التقارير أن هذه الكلمة دخلت اللغة الإنجليزية الوسطى بمعنى \"الإعداد للكسور في العظام\".بالمعنى الحديث الرياضية يأتي من عنوان كتاب \"الكتاب المختصر في حساب الجبر والمقابلة\"، من قبل عالم الرياضيات المسلم في القرن 9 أبو جعفر محمد ابن موسى الخوارزمي خوارزم في أوزبكستان، مصطلح آخر هي أن تسمية له أدت إلى الخوارزمية algorithm.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جبة",
+      "alkalima_alinjliziya": "Jumper",
+      "almana_mulahazat": "اليوم تقابل: جوبية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حشاشين",
+      "alkalima_alinjliziya": "assassin",
+      "almana_mulahazat": "سفاحين مرتزقة - طاائفة شيعية اسماعيلية نزارية كانت تقوم بعمليات انتحارية واغتيالات ضد السلاجقة والأيوبيون تحت تأثير تعاطيهم الحشيش. حتى وصلت القصة لغرب أوروبا في أواخر القرن 12 وبدايات القرن 13. وشاع لقب الطائفة بالإيطالية بعد حادثة القتل التي حدثت بعد مدة غير طويلة بعد وصولها. ودخلت الكلمة الإيطالية للغة الانجليزية والفرنسية في القرن 16. في الوقت الحالي تطلق بالانجليزية على القاتل المأجور.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الخوارزمية",
+      "alkalima_alinjliziya": "algorithm algorism",
+      "almana_mulahazat": "تسمية للعالم الفارسي، محمد بن موسى الخوارزمي ، الذي كتب أول كتاب في علم الجبر. بو ترجم هذا الاسم للاتينية في أواخر القرن 12 إلى \"(Algorismi). وحتى أواخر القرن 19 (Algorismus) و(Algorithm) تعني ببساطة بالعربية نظام الأرقام العشرية. انظر الجبر في هذه القائمة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الخيمياء الكيمياء",
+      "alkalima_alinjliziya": "alchemy chemistry",
+      "almana_mulahazat": "في اللغة العربية الكيمياء أصلها الخيمياء قد استخدمت في القرون الأولى اليونانيه وأيضا في الأسكندرية في مصر.و قد دخلت كلمة الكيمياء لللاتينية في العصور الوسطى. وأوائل السجلات اللاتينية في 1140، أظهرت الكلمة في كتابين ترجما من العربية. وظهرت في أواخر القرون اللاتينية الوسطى صيغ مثل \"كيمائي\" وادى ذلك لظهور صيغ اخرى في بدايات القرن 16 مثل (Chimicus) و(Chimista). ملحوظة: الكيمياء هي كلمة عربية وهي الكيمياء المستخدمة الآن، أما الخيمياء فهي طقوس سِحرية، وهي عند العرب فن تحويل المعادن.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الكحول الغول",
+      "alkalima_alinjliziya": "alcohol",
+      "almana_mulahazat": "الكحل مسحوق ناعم قريب للبودرة.و قد دخلت الكلمة بمعنى الكحل لللاتينية في القرن 13 وأصبحت في القرن 14 بمعنى أي مادة مسحوقة ومطحونة. ففي أواخر الأدب الكيميائي الأوروبي تعتبر الخلاصة للجواهر الأرضية. وفكرة \" الخلاصة للجواهر الأرضية \" واستخدام كلمة \"الكحول\" للدلالة على إن الخلاصة تتطور في الكيمياء الأوروبية في القرن 14. و في وقت لاحق في اللاتينية اكتسبت معنى آخر وهي المادة النقية أو المركزة. وتم التوصل لهذا المعنى بسبب وسائل التقطير. وبدأ الكيميائي باراسيلسوس في القرن 16 بتقطير الخمر \"الأيثانول\" (CH3CH2OH). وقد عرف الكحول في القاموس الأكثر مبيعا في القرن 18 على أنه \"مسحوق ناعم جدا وغير محسوس، أو كحول نقي\" وتشير كلمة \"الكحول\" على \"جوهر من النبيذ\" أو \"روح النبيذ\". انظر الكحل في هذه القائمة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "المخا",
+      "alkalima_alinjliziya": "mocha",
+      "almana_mulahazat": "مخا مدينة في اليمن وتطلق على قهوة (الموكا).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الملغمة",
+      "alkalima_alinjliziya": "amalgam",
+      "almana_mulahazat": "وهي خليطة أي معدن مع الزئبق.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "أمير البحار",
+      "alkalima_alinjliziya": "admiral",
+      "almana_mulahazat": "أمير البحر \" قائد البحر \" كان عنوانا مستخدماً في صقلية.و أعتمد وترجم بواسطة الرومان في صقلية بالشكل اللاتيني. واعتمدت لاحقا في القرون الوسطى من قبل جنوة والفرنسيين.كانت تعني في العربية أمير وقائد جيش المسلمين. وكانت تعني في العصور الوسطى الفرنسية والحديثة الأميرال، دون حرف ' د ' وكانت تعني أمير البحر بالأنجليزية في القرن 15. وأظهرت السجلات اللاتينية من القرون الوسطى عدة صيغ للكلمة مثل amiræus ، وammiratus ، وamirallus ، وadmiralius. وقد أثرت بلا شك الكلمة اللاتينية admire على إضافة حرف \"د\".",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "أمير",
+      "alkalima_alinjliziya": "emir",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "بازهر",
+      "alkalima_alinjliziya": "bezoar",
+      "almana_mulahazat": "عن الفارسية \"پادزهر\" معربة، أصله باد: ضِدّ، زهر: السم، ويقال بازَهَر بإسقاط الدّال.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ببغاء",
+      "alkalima_alinjliziya": "popinjay",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "العلف الفصفصة",
+      "alkalima_alinjliziya": "alfalfa",
+      "almana_mulahazat": "علف (برسيم) الفِصْفِصُ.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "برسيم",
+      "alkalima_alinjliziya": "berseem",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "بورق",
+      "alkalima_alinjliziya": "Borax",
+      "almana_mulahazat": "عن الفارسية \"بوراه\"، مركب كيميائي (ملح).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "تمر هندي",
+      "alkalima_alinjliziya": "tamarind",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "تنوين",
+      "alkalima_alinjliziya": "nunation",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "يربوع",
+      "alkalima_alinjliziya": "jerboa / gerbil",
+      "almana_mulahazat": "حيوان من فصيلة الفئران.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جرة",
+      "alkalima_alinjliziya": "jar",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جلاب",
+      "alkalima_alinjliziya": "julep",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جمل",
+      "alkalima_alinjliziya": "camel",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جن",
+      "alkalima_alinjliziya": "jinn / genie",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حشيش",
+      "alkalima_alinjliziya": "hashish",
+      "almana_mulahazat": "عقار مخدر.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حناء",
+      "alkalima_alinjliziya": "henna",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "خرّوب",
+      "alkalima_alinjliziya": "carob",
+      "almana_mulahazat": "شجرة دائمة الخضرة تنتمي إلى الفصيلة الفولية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "دار الصناعة",
+      "alkalima_alinjliziya": "arsenal",
+      "almana_mulahazat": "دار الصناعة، وهي التصنيع الذي تديره الحكومة في القرون الوسطى العربية العملية، وعادة تكون للجيش، وعلى الأخص لسلاح البحرية.وفي عهد الجمهورية البحرية الإيطالية في القرن 12 اعتمدت الكلمة لتعيين ترسانات بناء السفن البحرية، مكانا لبناء السفن والتسليح العسكري للسفن، وإصلاح السفن المسلحة. وفي وقت من القرون الوسطى، وكانت أكبر الترسانة في أوروبا هي ترسانة البندقية. في القرن 14 تنوعت التهجئات الإيطالية واللاتينية وضمت terzana, arzana, arsana, arcenatus, tersanaia, terzinaia, darsena. وكانت تعني ترسانة في القرن 16 في الإنجليزية والفرنسية إما حوض بناء السفن أو دار صناعة أو كلاهما. وتعني ترسانة في اللغة الفرنسية الحالية المعاني نفسها من القرن 16.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قِرْمِز",
+      "alkalima_alinjliziya": "carmine",
+      "almana_mulahazat": "مادة كيميائية تعتبرخضاب ذو لون أحمر مشرق اللون قرمزي (مأخوذ من حشرة القرمز).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "رهج الغار",
+      "alkalima_alinjliziya": "realgar",
+      "almana_mulahazat": "مادة كيميائية معدن كبريتيد الزرنيخ.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "زباد",
+      "alkalima_alinjliziya": "civet",
+      "almana_mulahazat": "نوع من الحيوانات.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "زرافة",
+      "alkalima_alinjliziya": "giraffe",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "زعفران",
+      "alkalima_alinjliziya": "saffron",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سبانخ",
+      "alkalima_alinjliziya": "spinach",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سكر",
+      "alkalima_alinjliziya": "sugar",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سمت الرأس",
+      "alkalima_alinjliziya": "zenith",
+      "almana_mulahazat": "في علم الفلك هو نقطة من الفلك ينتهي اليها الخط الخارج من مركز الأرض على استقامة قامة الشخص.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سمت",
+      "alkalima_alinjliziya": "azimuth",
+      "almana_mulahazat": "وهي زاوية بين مستوي مرجعي ونقطة، غالبا ما تقاس بالدرجة. وهي في الأساس تعني الطريق، وكانت تشير إلى وجه السفن أو الأشخاص أثناء الترحال قديماً. وهي مسارات، واتجاهات، والأزيموث. وأصلها هو علم الفلك من العصور الوسطى للإسلام والنسخة العربية من آداة الاسطرلاب.أول أستعمال للكلمة في الإنجليزية ظهر في 1390s في مقال جيفري تشوسر على الإسطرلاب ، الذي استخدم كلمة عدة مرات. وأول استعمال للكلمة في اللغة الغربية كانت في للأسبانية عام 1270 في مجموعة من الكتب الفلكية التي أخذت بشكل كبير من المصادر العربية ومنهم يبروس ديل صابر دي وعلم الفلك ألفونسو ديل ري دي كاستيلا.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "شاش",
+      "alkalima_alinjliziya": "sash",
+      "almana_mulahazat": "حزام من القماش.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "شراب ، شربات",
+      "alkalima_alinjliziya": "sherbet, sorbet, shrub, syrup",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "صُفّة",
+      "alkalima_alinjliziya": "sofa",
+      "almana_mulahazat": "كنبة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طحينة",
+      "alkalima_alinjliziya": "tahini",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طرخون",
+      "alkalima_alinjliziya": "tarragon",
+      "almana_mulahazat": "نبات عشبي يتبع جنس الشيح.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "لك",
+      "alkalima_alinjliziya": "lacquer",
+      "almana_mulahazat": "طلاء.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طلق",
+      "alkalima_alinjliziya": "talc",
+      "almana_mulahazat": "نوع من الحجر.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الطوب",
+      "alkalima_alinjliziya": "adobe",
+      "almana_mulahazat": "لبنة، تستخدم البناء.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "العضادة",
+      "alkalima_alinjliziya": "alidade",
+      "almana_mulahazat": "أداة مسح (لقياس المسافات في الأفق).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "عطار",
+      "alkalima_alinjliziya": "attar",
+      "almana_mulahazat": "من العطر والطيب.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "عنبر",
+      "alkalima_alinjliziya": "Ambergris amber",
+      "almana_mulahazat": "الكهرمان - تحجر اشجار لتصبح كالاحجار الكريمة - وقد اخذت قديما من كلمة العنبر والعنبر مادة شمعية تنتج في معدة الحيتان واستخدمت تاريخيا في صناعة العطور. وبسبب البائعين العرب انتشرت كلمة امبرا في اللغات الأجنبية في أوساط القرون الوسطى وتحمل نفس المعنى العربي. وفي أواخر القرون الوسطى أضيف لها معنى أخر لأسباب غير مفهومة. الكلمتين أمبر وعنبر أستعملت لأكثر من ثلاث قرون. وأستحدث كلمة عنبر حتى تلغي غموض الكلمة. العنبر رمادي اللون وأصل كلمة (grey) فرنسي وتعني رمادي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "العود",
+      "alkalima_alinjliziya": "lute",
+      "almana_mulahazat": "آلة موسيقية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "غربال",
+      "alkalima_alinjliziya": "garble",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "غزال",
+      "alkalima_alinjliziya": "gazelle",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "غول",
+      "alkalima_alinjliziya": "ghoul",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الفسطيط أو الفستيق",
+      "alkalima_alinjliziya": "fustic",
+      "almana_mulahazat": "شجرة أمريكية تستخلص منها صبغة صفراءشجرة أمريكية تستخلص منها صبغة صفراء، قد يعود أصل الكلمة إلى الإغريقية (pistakē=πιστακη).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "فنك",
+      "alkalima_alinjliziya": "fennec",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قرمز",
+      "alkalima_alinjliziya": "kermes, crimson",
+      "almana_mulahazat": "حشرة تنتج لون قرمزي، اللون القرمزي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قطن",
+      "alkalima_alinjliziya": "cotton",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قنطار",
+      "alkalima_alinjliziya": "quintal",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قهوة",
+      "alkalima_alinjliziya": "coffee",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كافور",
+      "alkalima_alinjliziya": "camphor",
+      "almana_mulahazat": "مادة كيميائية شمعية، أبيض أو شفافة، عن الفارسية القدیمة وسنسکریت.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كحل",
+      "alkalima_alinjliziya": "kohl",
+      "almana_mulahazat": "مسحوق يستخدم لتجميل العيون.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كروياء",
+      "alkalima_alinjliziya": "caraway",
+      "almana_mulahazat": "نبات عطري.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كركم",
+      "alkalima_alinjliziya": "curcuma/Crocus",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "لازورد",
+      "alkalima_alinjliziya": "azure",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "لبان جاوي",
+      "alkalima_alinjliziya": "benzoin",
+      "almana_mulahazat": "هو عبارة عن مادة راتنجية تستخرج من شجرة اندونيسية. شحنها تجار القرون الوسطى الموجودين في بحر العربي إلى الشرق الأوسط لبيعه كا مادة من العطور والبخور. استخدمت مادة الجاوي في أوروبا في القرن 15. والتي كانت المصدر الأصلي لحمض البنزويك ، والذي أصبح مصدر للبنزين في القرن 19.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "لوفة أو ليف",
+      "alkalima_alinjliziya": "loofah",
+      "almana_mulahazat": "نبات يشبه الأسفنج.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ليلك",
+      "alkalima_alinjliziya": "lilac",
+      "almana_mulahazat": "نوع ورد ولون، من الفارسية (ليلك).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مُخّير",
+      "alkalima_alinjliziya": "mohair",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مقرمة",
+      "alkalima_alinjliziya": "macrame",
+      "almana_mulahazat": "ستر فيه نقوش، من الفرنسية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "موسم",
+      "alkalima_alinjliziya": "monsoon",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "موصلي",
+      "alkalima_alinjliziya": "muslin",
+      "almana_mulahazat": "نسيج منسوب لمدينة الموصل العراقية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مومياء",
+      "alkalima_alinjliziya": "mummy",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طرف الغار",
+      "alkalima_alinjliziya": "Trafalgar",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "نارنج",
+      "alkalima_alinjliziya": "orange",
+      "almana_mulahazat": "نوع من البرتقال.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "نسيج أطلس الزيتون",
+      "alkalima_alinjliziya": "satin",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "نظير",
+      "alkalima_alinjliziya": "nadir",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "نيلة النيلي",
+      "alkalima_alinjliziya": "anil aniline",
+      "almana_mulahazat": "مادة كيميائية للصبغ أزرق (من النيل) النيل كلمة عربية أُخذت من السنسكريتي لغة الهند القديمة، وتعني الصبغ الأزرق وتستخرج من الهند الاستوائية. وأصبحت أنيل في القرون الوسطى العربية كلمة متداولة بدلا من الصبغ الأزرق في اللغة البرتغالية والأسبانية. وكان الصبغ الأزرق غير معروف في أوروبا حتى القرن 16. وتعني انيل في الإنجليزية الصبغ الأزرق الطبيعي أو النبات الاستوائي الأمريكي المستخرجة منها. والأنيلين كلمة تقنية في صبغ الكيمياء التي يرجع تاريخها ل منتصف القرن 19 أوروبا.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ياسمين",
+      "alkalima_alinjliziya": "jasmine / jessamine",
+      "almana_mulahazat": "في الفرنسية جاسمين وهي زهرة ذات رائحة زكية، الياسمين.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الأرضي-شوكي",
+      "alkalima_alinjliziya": "artichoke",
+      "almana_mulahazat": "ويسمى الخرشوف - وهو نبات ذو أوراق شوكية. لدى كلمة خرشوف عدة سجلات بهذا المعنى في العصر العربي الأندلسي.مثل carchiofa في بدايات الأسبانية وcarciofjo في الإيطالية وحتى اليوم هي بمعنى خرشوف. وغير واضح كيف تحورت الكلمة إلى artichault في الفرنسية وarticiocch في الإيطالية الشمالية وفي الإنجليزية إلى archecokk في (1531), وartochock في (1542). وتبين القواميس الاشتقاق بأن الكلمة قد حورت.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الباكورة",
+      "alkalima_alinjliziya": "albacore",
+      "almana_mulahazat": "السابق لاوانه وبالإنجليزية تعني التونة البيضاء.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "البرقوق",
+      "alkalima_alinjliziya": "apricot",
+      "almana_mulahazat": "البرقوق كلمة عربية وتعود إلى البيزنطية الأغريقية ومنها إلى كلمة praecoqua اللاتينية، وتعني \" مبكر النضوج\" وبالتحديد الدراق \\ الخوخ المبكر بالنضوج. ومن اوائل التهجئات الأنجليزية للكلمة تتضمن: abrecok (1551), abrecox (1578), apricock (1593). وتعني هنا: المشمش.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الحنة",
+      "alkalima_alinjliziya": "alkanet",
+      "almana_mulahazat": "مادة صبغية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الزهر - النرد",
+      "alkalima_alinjliziya": "hazard",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "العصارة",
+      "alkalima_alinjliziya": "alizarin",
+      "almana_mulahazat": "مركب عضوي يسمى (أليزارين) من عصارة جذور نبات - يستخدم للصباغة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "الغطاس",
+      "alkalima_alinjliziya": "albatross",
+      "almana_mulahazat": "نوع من الطيور كثير الغطس يدعى القطرس.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "القلي",
+      "alkalima_alinjliziya": "alkali",
+      "almana_mulahazat": "مصطلح كيميائي (قلوي). القلي مادة مستحضرة من رماد بعض النباتات. خاصة النباتات التي تنمو في تربة مالحة. وقال الجوهري (توفى في 1003) \" القلي يحصل علية من نبات الأشنان. والقلي في القرون الوسطى تتكون أساسا من كربونات الصوديوم وكربونات البوتاسيوم. وأستخدمه العرب كعنصر في صنع الصابون وصنع الزجاج. وأول السجلات المعروفة لدى الغرب كان في القرن 13 في الكيمياء اللاتينية وتستخدم بنفس المعنى الموجود لدى العرب.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قُمرة",
+      "alkalima_alinjliziya": "camera",
+      "almana_mulahazat": "القُمرة - أي الغرفة السوداء.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "المناخ",
+      "alkalima_alinjliziya": "almanac",
+      "almana_mulahazat": "أي الروزنامة وقد اخذ المسمى من (كتاب المناخ) لابن البنا المراكشي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "بُرنُس",
+      "alkalima_alinjliziya": "burnous / burnoose",
+      "almana_mulahazat": "عن اليونانية \"بِروس\".",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "باب خانة",
+      "alkalima_alinjliziya": "barbican",
+      "almana_mulahazat": "تحصين القلاع في القرون الوسطى.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "برية",
+      "alkalima_alinjliziya": "barrio",
+      "almana_mulahazat": "تعني إقْلِيم أو حي. في إسبانيا، والعديد من بلدان أمريكا اللاتينية والفلبين، يستخدم المصطلح أيضًا رسميًا للدلالة على تقسيم البلدية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طُبّاق",
+      "alkalima_alinjliziya": "tobacco",
+      "almana_mulahazat": "نبات يطلق عليه اليوم تبغ.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ترجمان",
+      "alkalima_alinjliziya": "dragoman",
+      "almana_mulahazat": "مفسر.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "تعريفة",
+      "alkalima_alinjliziya": "tariff",
+      "almana_mulahazat": "الضريبة التي تُدفع عند الدخول لأي حاجز سياسي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "تفريق",
+      "alkalima_alinjliziya": "traffic",
+      "almana_mulahazat": "مرور (طرق).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "جابري",
+      "alkalima_alinjliziya": "gibberish",
+      "almana_mulahazat": "نسبة إلى عالم الكيمياء جابر بن الحيان. تستخدم بمعنى الكلام غير المفهوم.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حب المسك",
+      "alkalima_alinjliziya": "abelmosk",
+      "almana_mulahazat": "نبات.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حبل أو كَبل",
+      "alkalima_alinjliziya": "Cable",
+      "almana_mulahazat": "السلك الكهربائي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "حريم",
+      "alkalima_alinjliziya": "harem",
+      "almana_mulahazat": "مكان جلوس النساء في القصور، أو مجموعة من الجاريات.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "دقل - بلح",
+      "alkalima_alinjliziya": "date",
+      "almana_mulahazat": "تمر.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ديوان",
+      "alkalima_alinjliziya": "divan",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "راحة اليد",
+      "alkalima_alinjliziya": "racquet or 'racket'",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "رخ",
+      "alkalima_alinjliziya": "roc",
+      "almana_mulahazat": "طائر أسطوري.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "رز",
+      "alkalima_alinjliziya": "rice",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "رزق",
+      "alkalima_alinjliziya": "risk",
+      "almana_mulahazat": "خطر. قد تكون الكلمة ذات أصل يوناني.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "رزمة",
+      "alkalima_alinjliziya": "ream",
+      "almana_mulahazat": "رزمة من 500 ورقة، بالتحديد.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سرنديب",
+      "alkalima_alinjliziya": "serendipity",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سفر",
+      "alkalima_alinjliziya": "safari",
+      "almana_mulahazat": "من الكلمة الساحلية سفاري والتي هي مأخوذة من كلمة سفر العربية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سكة",
+      "alkalima_alinjliziya": "sequin",
+      "almana_mulahazat": "أزرار لامعة لتجميل الملابس.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سلوقي",
+      "alkalima_alinjliziya": "Saluki",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سمَاق",
+      "alkalima_alinjliziya": "sumac",
+      "almana_mulahazat": "نبات السماق.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "سمسم",
+      "alkalima_alinjliziya": "sesame",
+      "almana_mulahazat": "من كلمة سمسم العربية، والمأخوذة بدورها من الكلمة الأكادية (شمشمي).",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "شَفّ",
+      "alkalima_alinjliziya": "chiffon",
+      "almana_mulahazat": "نسيج رقيق شفاف.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "شَكّ",
+      "alkalima_alinjliziya": "jacket",
+      "almana_mulahazat": "اليوم تقابل: سترة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "شاه مات أو كش مات",
+      "alkalima_alinjliziya": "checkmate",
+      "almana_mulahazat": "موت الملك - شطرنج.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "صَكّ",
+      "alkalima_alinjliziya": "Cheque",
+      "almana_mulahazat": "شيك.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "صودا، صوديوم",
+      "alkalima_alinjliziya": "soda, Sodium",
+      "almana_mulahazat": "سوادة-سويد-سويدة.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ضرب",
+      "alkalima_alinjliziya": "drub",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طاسة - طشت / وعاء",
+      "alkalima_alinjliziya": "tazza",
+      "almana_mulahazat": "كأس ماء.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طاقية",
+      "alkalima_alinjliziya": "toque",
+      "almana_mulahazat": "اليوم تقابل: طاق.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طرحة",
+      "alkalima_alinjliziya": "tare",
+      "almana_mulahazat": "اليوم تقابل: وزن فارغ.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "طلاسم",
+      "alkalima_alinjliziya": "talisman",
+      "almana_mulahazat": "وهي خليط بين الكلمة العربية المأخوذة من اليونانية والكلمة اليونانية نفسها.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "عتابي",
+      "alkalima_alinjliziya": "tabby",
+      "almana_mulahazat": "نوع من النسيج.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "عفريت",
+      "alkalima_alinjliziya": "Ifrit - efreet-ifreet-afrit-afreet",
+      "almana_mulahazat": "مصطلح قديم يطلق على الشيطان والجن وتروى حكايات شبه خيالية عنه في حكايات ألف ليلة وليلة العربية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "عوار",
+      "alkalima_alinjliziya": "average",
+      "almana_mulahazat": "بضاعة اصابها عطب في البحر - وكانت تحسب وقتها متوسط التأمين للخسائر التجارية. ظهرت أول سجلات لهذه الكلمة في اللغات الأجنبية في جنوة في القرن 12. وأول استخدام للكلمة لدى الغرب كان في مجال التجارة البحرية على البحر المتوسط، وكان معناها يختلف كثيراُ عما هو عليه في اللغة الإنجليزية اليوم. ومصدر الكلمة العربية كان من كلمة عوار أي خلل أو عيب. وكلمة عوارية وتعني خلل أو ضرر وكلمة العوارية السبب وراء منشأ كلمة avaria بالإيطالية ومعناها نفقات ضرر أو خسارة غير متوقعة خلال القافلة التجارية البحرية. الكلمة avaria الإيطالية سبب وجود كلمة avarie الفرنسية ومنها وجود الكلمة averay وaverage الأنجليزية وجميعهم لديهم نفس المعنى. لكن في اللغة الإيطالية اليوم avaria لا تزال تعني \" الضرر\". في وقت لاحق من بدايات عقود القوانين البحرية التجارية الغربية الحديثة في العصور الوسطى. إذا ضربت السفينة عاصفة سيئة كان لابد من رمي بعض السلع في البحر لجعل السفينة أخف وزنا وأكثر أمانا، والتجار المؤمنة بضائعهم يعانون من الضرر نسبيا ولذلك وجب وجود المساواة في الضرر مع التجار الملقأه بضائعهم في البحر. ومن هنا اعتمدت الكلمة بواسطة شركات التأمين البريطانية، والدائنين، والتجار الذين يتحدثون عن التلفيات. ووضع وتطور المعنى الحديث في منتصف القرن 18 الإنجليزي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "غرّافة",
+      "alkalima_alinjliziya": "carafe",
+      "almana_mulahazat": "إناء للشراب.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "فقير",
+      "alkalima_alinjliziya": "Fakir",
+      "almana_mulahazat": "الشخص اللذي لا يمتلك المال.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قات",
+      "alkalima_alinjliziya": "qat / khat",
+      "almana_mulahazat": "نوع من النبات.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قالب",
+      "alkalima_alinjliziya": "caliber",
+      "almana_mulahazat": "اليوم تقابل: عيار.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قبة",
+      "alkalima_alinjliziya": "alcove",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قرقور / السفينة الطويلة",
+      "alkalima_alinjliziya": "carrack",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قز",
+      "alkalima_alinjliziya": "gauze",
+      "almana_mulahazat": "حرير خام، اليوم تقابل: شاش.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قسمة",
+      "alkalima_alinjliziya": "kismet",
+      "almana_mulahazat": "نصيب.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قميص",
+      "alkalima_alinjliziya": "Camise",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قند",
+      "alkalima_alinjliziya": "candy",
+      "almana_mulahazat": "حلوى.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "قيثارة",
+      "alkalima_alinjliziya": "Guitar",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كَبَابَة",
+      "alkalima_alinjliziya": "cubeb",
+      "almana_mulahazat": "نَبَات مِن الْفَصِيلَة الْفُلْفُلِيَّة تُسْتَخْدَم ثِمَارُهُ فِي الْعِلَاج.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كمون",
+      "alkalima_alinjliziya": "Cumin",
+      "almana_mulahazat": "أخذت من الإسبانية كومينو خلال فترة حكم العرب لإسبانيا في القرن 15.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كيمياء",
+      "alkalima_alinjliziya": "chemistry",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "لبن",
+      "alkalima_alinjliziya": "Leban",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ليمة",
+      "alkalima_alinjliziya": "lime",
+      "almana_mulahazat": "فاكهة اللومي.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "ليمون",
+      "alkalima_alinjliziya": "Lemon",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مارد",
+      "alkalima_alinjliziya": "Marid",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مخزن",
+      "alkalima_alinjliziya": "magazine",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مرفوض",
+      "alkalima_alinjliziya": "mafia",
+      "almana_mulahazat": "اليوم تقابل: مافيا.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مرقشيثا",
+      "alkalima_alinjliziya": "marcasite",
+      "almana_mulahazat": "نوع من المعادن.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مسح أو مس",
+      "alkalima_alinjliziya": "massage",
+      "almana_mulahazat": "قد تكون من الفعل العربي مسَّ، أم من اليونانية.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مسكرة",
+      "alkalima_alinjliziya": "mascara",
+      "almana_mulahazat": "مأخوذة من كلمة مسخرة عندما كان يستخدمها المهرجون لتلوين الوجه.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مطرح أو مرتبة",
+      "alkalima_alinjliziya": "mattress",
+      "almana_mulahazat": "فرشة للنوم.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "نخاع ، منخع",
+      "alkalima_alinjliziya": "nucha (anatomical term for 'nape of the neck')",
+      "almana_mulahazat": "",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "كرة محلاة",
+      "alkalima_alinjliziya": "caramel",
+      "almana_mulahazat": "السكر المحروق، المعروف بالكراميل. يمكن أن يكون أصل الاسم لاتينيا كذلك.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "خِلعة",
+      "alkalima_alinjliziya": "gala",
+      "almana_mulahazat": "قطعة قماش تستخدم للعرض.",
+      "alfia": "القائمة"
+    },
+    {
+      "alkalima_alarabiya": "مُوَلَّد",
+      "alkalima_alinjliziya": "Mulatto",
+      "almana_mulahazat": "اليوم تقابل: مولاتو.",
+      "alfia": "القائمة"
+    }
+  ],
+  "meta": {
+    "title": "كلمات عربية دخيلة في اللغة الإنجليزية - Free Download",
+    "description": "كلمات إنجليزية ذات أصل عربي مع الكلمة العربية الأصلية ومعناها أو ملاحظات حولها. Contains 163 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "كلمات عربية دخيلة في اللغة الإنجليزية | ListBase",
+    "seo_description": "Download كلمات عربية دخيلة في اللغة الإنجليزية — 163 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 163 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_كلمات_عربية_دخيلة_في_الإنجليزية"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:26:19.855Z",
-  "total_datasets": 496,
-  "total_records": 151525,
+  "generated": "2026-11-05T02:26:29.497Z",
+  "total_datasets": 497,
+  "total_records": 151688,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -9237,6 +9237,31 @@
         "xlsx": {
           "name": "ar-asma-alnujum-alarabiya_AR.xlsx",
           "size": 12932
+        }
+      }
+    },
+    {
+      "id": "ar-kalimat-arabiya-fi-alinjliziya",
+      "name": "كلمات عربية دخيلة في اللغة الإنجليزية",
+      "category": "language",
+      "record_count": 163,
+      "columns": [
+        "alkalima_alarabiya",
+        "alkalima_alinjliziya",
+        "almana_mulahazat",
+        "alfia"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_كلمات_عربية_دخيلة_في_الإنجليزية",
+      "updated": "2026-11",
+      "size": 47076,
+      "files": {
+        "csv": {
+          "name": "ar-kalimat-arabiya-fi-alinjliziya_AR.csv",
+          "size": 26403
+        },
+        "xlsx": {
+          "name": "ar-kalimat-arabiya-fi-alinjliziya_AR.xlsx",
+          "size": 18505
         }
       }
     },
