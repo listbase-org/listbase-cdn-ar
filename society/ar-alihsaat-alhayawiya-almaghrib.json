@@ -1,0 +1,665 @@
+{
+  "id": "ar-alihsaat-alhayawiya-almaghrib",
+  "name": "الإحصاءات الحيوية في المغرب منذ 1960",
+  "title": "الإحصاءات الحيوية في المغرب منذ 1960",
+  "description": "متوسط عدد السكان والمواليد والوفيات والتغير الطبيعي ومعدلاتها لكل 1000 نسمة ومعدل الخصوبة في المغرب سنويًا منذ 1960.",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_المغرب",
+  "source_url": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_المغرب",
+  "updated": "2026-11",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "number"
+    },
+    {
+      "key": "mutawassit_adad_alsukkan",
+      "label": "Mutawassit Adad Alsukkan",
+      "type": "number"
+    },
+    {
+      "key": "almawalid",
+      "label": "Almawalid",
+      "type": "number"
+    },
+    {
+      "key": "alwafayat",
+      "label": "Alwafayat",
+      "type": "number"
+    },
+    {
+      "key": "altaghayyur_altabii",
+      "label": "Altaghayyur Altabii",
+      "type": "number"
+    },
+    {
+      "key": "muaddal_almawalid_lkul_1000",
+      "label": "Muaddal Almawalid Lkul 1000",
+      "type": "number"
+    },
+    {
+      "key": "muaddal_alwafayat_lkul_1000",
+      "label": "Muaddal Alwafayat Lkul 1000",
+      "type": "number"
+    },
+    {
+      "key": "altaghayyur_altabii_lkul_1000",
+      "label": "Altaghayyur Altabii Lkul 1000",
+      "type": "number"
+    },
+    {
+      "key": "muaddal_alkhusuba",
+      "label": "Muaddal Alkhusuba",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alsana": 1960,
+      "mutawassit_adad_alsukkan": 11626000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1962,
+      "mutawassit_adad_alsukkan": 12177000,
+      "almawalid": 561360,
+      "alwafayat": 227710,
+      "altaghayyur_altabii": 333650,
+      "muaddal_almawalid_lkul_1000": 46.1,
+      "muaddal_alwafayat_lkul_1000": 18.7,
+      "altaghayyur_altabii_lkul_1000": 27.4,
+      "muaddal_alkhusuba": 7.2
+    },
+    {
+      "alsana": 1971,
+      "mutawassit_adad_alsukkan": 15379000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1972,
+      "mutawassit_adad_alsukkan": 15772000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1973,
+      "mutawassit_adad_alsukkan": 16196000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1974,
+      "mutawassit_adad_alsukkan": 16630000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1975,
+      "mutawassit_adad_alsukkan": 17072000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": 5.91
+    },
+    {
+      "alsana": 1976,
+      "mutawassit_adad_alsukkan": 17521000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1977,
+      "mutawassit_adad_alsukkan": 17978000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1978,
+      "mutawassit_adad_alsukkan": 18440000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1979,
+      "mutawassit_adad_alsukkan": 18908000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1980,
+      "mutawassit_adad_alsukkan": 19380000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1981,
+      "mutawassit_adad_alsukkan": 19855000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1982,
+      "mutawassit_adad_alsukkan": 20419000,
+      "almawalid": 756425,
+      "alwafayat": 215504,
+      "altaghayyur_altabii": 540921,
+      "muaddal_almawalid_lkul_1000": 37.2,
+      "muaddal_alwafayat_lkul_1000": 10.6,
+      "altaghayyur_altabii_lkul_1000": 26.6,
+      "muaddal_alkhusuba": 5.52
+    },
+    {
+      "alsana": 1983,
+      "mutawassit_adad_alsukkan": 20815000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1984,
+      "mutawassit_adad_alsukkan": 21297000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1985,
+      "mutawassit_adad_alsukkan": 21779000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1986,
+      "mutawassit_adad_alsukkan": 22261000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1987,
+      "mutawassit_adad_alsukkan": 22742000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1988,
+      "mutawassit_adad_alsukkan": 23220000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1989,
+      "mutawassit_adad_alsukkan": 23696000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1991,
+      "mutawassit_adad_alsukkan": 24634000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1992,
+      "mutawassit_adad_alsukkan": 25095000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1993,
+      "mutawassit_adad_alsukkan": 25549000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1994,
+      "mutawassit_adad_alsukkan": 26074000,
+      "almawalid": 675896,
+      "alwafayat": 174173,
+      "altaghayyur_altabii": 501723,
+      "muaddal_almawalid_lkul_1000": 26,
+      "muaddal_alwafayat_lkul_1000": 6.7,
+      "altaghayyur_altabii_lkul_1000": 19.3,
+      "muaddal_alkhusuba": 3.28
+    },
+    {
+      "alsana": 1995,
+      "mutawassit_adad_alsukkan": 26435000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1996,
+      "mutawassit_adad_alsukkan": 26864000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1997,
+      "mutawassit_adad_alsukkan": 27282000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1998,
+      "mutawassit_adad_alsukkan": 27689000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 1999,
+      "mutawassit_adad_alsukkan": 28084000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2000,
+      "mutawassit_adad_alsukkan": 28466000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2001,
+      "mutawassit_adad_alsukkan": 28833000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2002,
+      "mutawassit_adad_alsukkan": 29185000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2003,
+      "mutawassit_adad_alsukkan": 29520000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2004,
+      "mutawassit_adad_alsukkan": 29892000,
+      "almawalid": 602768,
+      "alwafayat": 173073,
+      "altaghayyur_altabii": 429696,
+      "muaddal_almawalid_lkul_1000": 20.2,
+      "muaddal_alwafayat_lkul_1000": 5.8,
+      "altaghayyur_altabii_lkul_1000": 14.4,
+      "muaddal_alkhusuba": 2.47
+    },
+    {
+      "alsana": 2005,
+      "mutawassit_adad_alsukkan": 30215000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2006,
+      "mutawassit_adad_alsukkan": 30606000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2007,
+      "mutawassit_adad_alsukkan": 30998000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2008,
+      "mutawassit_adad_alsukkan": 31391000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2009,
+      "mutawassit_adad_alsukkan": 31786000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2010,
+      "mutawassit_adad_alsukkan": 32182000,
+      "almawalid": 599607,
+      "alwafayat": 178606,
+      "altaghayyur_altabii": 421001,
+      "muaddal_almawalid_lkul_1000": 18.8,
+      "muaddal_alwafayat_lkul_1000": 5.6,
+      "altaghayyur_altabii_lkul_1000": 13.2,
+      "muaddal_alkhusuba": 2.19
+    },
+    {
+      "alsana": 2011,
+      "mutawassit_adad_alsukkan": 32579000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2012,
+      "mutawassit_adad_alsukkan": 32978000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 18.5,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 13.4,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2013,
+      "mutawassit_adad_alsukkan": 33378000,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 18.3,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 13.2,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2014,
+      "mutawassit_adad_alsukkan": 33848242,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 18.1,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 13,
+      "muaddal_alkhusuba": 2.21
+    },
+    {
+      "alsana": 2015,
+      "mutawassit_adad_alsukkan": 34124870,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 17.6,
+      "muaddal_alwafayat_lkul_1000": 5.4,
+      "altaghayyur_altabii_lkul_1000": 12.3,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2016,
+      "mutawassit_adad_alsukkan": 34486536,
+      "almawalid": "",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 17.4,
+      "muaddal_alwafayat_lkul_1000": 5.2,
+      "altaghayyur_altabii_lkul_1000": 12.2,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2017,
+      "mutawassit_adad_alsukkan": 34852121,
+      "almawalid": 677411,
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 17.2,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 12.1,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2018,
+      "mutawassit_adad_alsukkan": 35219547,
+      "almawalid": "679,863 (623,036)",
+      "alwafayat": 141207,
+      "altaghayyur_altabii": 481829,
+      "muaddal_almawalid_lkul_1000": 17.7,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 12.6,
+      "muaddal_alkhusuba": 2.38
+    },
+    {
+      "alsana": 2019,
+      "mutawassit_adad_alsukkan": 35586616,
+      "almawalid": "681,606 (749,758)",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 21.1,
+      "muaddal_alwafayat_lkul_1000": 5,
+      "altaghayyur_altabii_lkul_1000": 16.1,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2020,
+      "mutawassit_adad_alsukkan": 35952000,
+      "almawalid": "682,984 (660,391)",
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": 18.4,
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2021,
+      "mutawassit_adad_alsukkan": 37082000,
+      "almawalid": "684,121 (650,892)",
+      "alwafayat": 228888,
+      "altaghayyur_altabii": 422004,
+      "muaddal_almawalid_lkul_1000": 17.55,
+      "muaddal_alwafayat_lkul_1000": 6.17,
+      "altaghayyur_altabii_lkul_1000": 11.38,
+      "muaddal_alkhusuba": ""
+    },
+    {
+      "alsana": 2022,
+      "mutawassit_adad_alsukkan": "",
+      "almawalid": 684738,
+      "alwafayat": "",
+      "altaghayyur_altabii": "",
+      "muaddal_almawalid_lkul_1000": "",
+      "muaddal_alwafayat_lkul_1000": "",
+      "altaghayyur_altabii_lkul_1000": "",
+      "muaddal_alkhusuba": 2.07
+    },
+    {
+      "alsana": 2023,
+      "mutawassit_adad_alsukkan": 37022000,
+      "almawalid": 592352,
+      "alwafayat": 188812,
+      "altaghayyur_altabii": 403540,
+      "muaddal_almawalid_lkul_1000": 16,
+      "muaddal_alwafayat_lkul_1000": 5.1,
+      "altaghayyur_altabii_lkul_1000": 10.9,
+      "muaddal_alkhusuba": 2.05
+    }
+  ],
+  "meta": {
+    "title": "الإحصاءات الحيوية في المغرب منذ 1960 - Free Download",
+    "description": "متوسط عدد السكان والمواليد والوفيات والتغير الطبيعي ومعدلاتها لكل 1000 نسمة ومعدل الخصوبة في المغرب سنويًا منذ 1960. Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الإحصاءات الحيوية في المغرب منذ 1960 | ListBase",
+    "seo_description": "Download الإحصاءات الحيوية في المغرب منذ 1960 — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_المغرب"
+    ]
+  }
+}

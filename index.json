@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-04T02:13:03.130Z",
-  "total_datasets": 493,
-  "total_records": 151308,
+  "generated": "2026-11-05T02:25:59.683Z",
+  "total_datasets": 494,
+  "total_records": 151362,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -11740,6 +11740,36 @@
         "xlsx": {
           "name": "ar-tuyur-misr_AR.xlsx",
           "size": 30871
+        }
+      }
+    },
+    {
+      "id": "ar-alihsaat-alhayawiya-almaghrib",
+      "name": "الإحصاءات الحيوية في المغرب منذ 1960",
+      "category": "society",
+      "record_count": 54,
+      "columns": [
+        "alsana",
+        "mutawassit_adad_alsukkan",
+        "almawalid",
+        "alwafayat",
+        "altaghayyur_altabii",
+        "muaddal_almawalid_lkul_1000",
+        "muaddal_alwafayat_lkul_1000",
+        "altaghayyur_altabii_lkul_1000",
+        "muaddal_alkhusuba"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/التركيبة_السكانية_في_المغرب",
+      "updated": "2026-11",
+      "size": 19761,
+      "files": {
+        "csv": {
+          "name": "ar-alihsaat-alhayawiya-almaghrib_AR.csv",
+          "size": 2711
+        },
+        "xlsx": {
+          "name": "ar-alihsaat-alhayawiya-almaghrib_AR.xlsx",
+          "size": 9014
         }
       }
     },
