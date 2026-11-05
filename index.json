@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:26:10.461Z",
-  "total_datasets": 495,
-  "total_records": 151501,
+  "generated": "2026-11-05T02:26:19.855Z",
+  "total_datasets": 496,
+  "total_records": 151525,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -618,6 +618,32 @@
         "xlsx": {
           "name": "ar-jamiat-aljazair_AR.xlsx",
           "size": 10690
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-almaghrib",
+      "name": "قائمة الجامعات في المغرب",
+      "category": "education",
+      "record_count": 24,
+      "columns": [
+        "aljamia",
+        "almadina",
+        "almawqi",
+        "sanat_altasis",
+        "alnaw"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_في_المغرب",
+      "updated": "2026-11",
+      "size": 6586,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-almaghrib_AR.csv",
+          "size": 2300
+        },
+        "xlsx": {
+          "name": "ar-jamiat-almaghrib_AR.xlsx",
+          "size": 7990
         }
       }
     },

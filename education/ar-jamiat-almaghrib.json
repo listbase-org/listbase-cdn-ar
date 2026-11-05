@@ -1,0 +1,219 @@
+{
+  "id": "ar-jamiat-almaghrib",
+  "name": "قائمة الجامعات في المغرب",
+  "title": "قائمة الجامعات في المغرب",
+  "description": "الجامعات العامة والخاصة في المغرب مع المدينة والموقع الإلكتروني وسنة التأسيس.",
+  "category": "education",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_في_المغرب",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_في_المغرب",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "aljamia",
+      "label": "Aljamia",
+      "type": "string"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    },
+    {
+      "key": "almawqi",
+      "label": "Almawqi",
+      "type": "string"
+    },
+    {
+      "key": "sanat_altasis",
+      "label": "Sanat Altasis",
+      "type": "number"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aljamia": "جامعة القرويين",
+      "almadina": "فاس",
+      "almawqi": "alquaraouiyine.com",
+      "sanat_altasis": 859,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة شعيب الدكالي",
+      "almadina": "الجديدة",
+      "almawqi": "ucd.ac.ma",
+      "sanat_altasis": 1962,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة الحسن الثاني (1)",
+      "almadina": "الدار البيضاء والمحمدية",
+      "almawqi": "uh2c.ac.ma",
+      "sanat_altasis": 1975,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة سيدي محمد بن عبد الله",
+      "almadina": "فاس",
+      "almawqi": "usmba.ac.ma",
+      "sanat_altasis": 1975,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة القاضي عياض",
+      "almadina": "مراكش",
+      "almawqi": "uca-ar.ucam.ac.ma",
+      "sanat_altasis": 1978,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة محمد الأول",
+      "almadina": "وجدة",
+      "almawqi": "ump.ma",
+      "sanat_altasis": 1978,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة ابن زهر",
+      "almadina": "أكادير",
+      "almawqi": "univ-ibnzohr.ac.ma",
+      "sanat_altasis": 1989,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة ابن طفيل",
+      "almadina": "القنيطرة",
+      "almawqi": "univ-ibntofail.ac.ma",
+      "sanat_altasis": 1989,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة عبد المالك السعدي",
+      "almadina": "تطوان",
+      "almawqi": "uae.ma",
+      "sanat_altasis": 1989,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة مولاي إسماعيل",
+      "almadina": "مكناس",
+      "almawqi": "umi.ac.ma",
+      "sanat_altasis": 1989,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة الأخوين",
+      "almadina": "إفران",
+      "almawqi": "aui.ma",
+      "sanat_altasis": 1992,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة محمد الخامس (1)",
+      "almadina": "الرباط",
+      "almawqi": "um5.ac.ma",
+      "sanat_altasis": 1957,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة الحسن الأول",
+      "almadina": "سطات",
+      "almawqi": "uh1.ac.ma",
+      "sanat_altasis": 1997,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة السلطان مولاي سليمان",
+      "almadina": "بني ملال",
+      "almawqi": "universitesms.ma",
+      "sanat_altasis": 2007,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة محمد السادس لعلوم الصحة",
+      "almadina": "الدار البيضاء",
+      "almawqi": "um6ss.ma",
+      "sanat_altasis": 2014,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "جامعة محمد السادس متعددة التخصصات",
+      "almadina": "بن جرير",
+      "almawqi": "emines-ingenieur.org",
+      "sanat_altasis": 2017,
+      "alnaw": "عامة"
+    },
+    {
+      "aljamia": "الجامعة الدولية للرباط",
+      "almadina": "سلا الجديدة",
+      "almawqi": "uir.ac.ma",
+      "sanat_altasis": 2010,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "الجامعة الدولية للدار البيضاء",
+      "almadina": "الدار البيضاء",
+      "almawqi": "uic.ac.ma",
+      "sanat_altasis": 2010,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "الجامعة الدولية لأكادير (Universiapolis)",
+      "almadina": "أكادير",
+      "almawqi": "univeriapolis.ma",
+      "sanat_altasis": "",
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "جامعة العالمية (Mundiapolis)",
+      "almadina": "الدار البيضاء",
+      "almawqi": "mundiapolis.ma",
+      "sanat_altasis": 1996,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "الجامعة الخاصة لمراكش",
+      "almadina": "مراكش",
+      "almawqi": "upm.ac.ma",
+      "sanat_altasis": 2005,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "الجامعة الخاصة لفاس",
+      "almadina": "فاس",
+      "almawqi": "upf.ac.ma",
+      "sanat_altasis": 2006,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "الجامعة الأورومتوسطية لفاس",
+      "almadina": "فاس",
+      "almawqi": "ueuromed.org",
+      "sanat_altasis": 2012,
+      "alnaw": "خاصة"
+    },
+    {
+      "aljamia": "جامعة الزهراوي الدولية لعلوم الصحة",
+      "almadina": "الرباط",
+      "almawqi": "uiass.ma",
+      "sanat_altasis": 2014,
+      "alnaw": "خاصة"
+    }
+  ],
+  "meta": {
+    "title": "قائمة الجامعات في المغرب - Free Download",
+    "description": "الجامعات العامة والخاصة في المغرب مع المدينة والموقع الإلكتروني وسنة التأسيس. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "قائمة الجامعات في المغرب | ListBase",
+    "seo_description": "Download قائمة الجامعات في المغرب — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الجامعات_في_المغرب"
+    ]
+  }
+}
