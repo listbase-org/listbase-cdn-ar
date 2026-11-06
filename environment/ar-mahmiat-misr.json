@@ -1,0 +1,275 @@
+{
+  "id": "ar-mahmiat-misr",
+  "name": "المحميات الطبيعية في مصر",
+  "title": "المحميات الطبيعية في مصر",
+  "description": "قائمة المحميات الطبيعية في مصر مع الموقع والمساحة وتاريخ الإعلان.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المحميات_الطبيعية_في_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المحميات_الطبيعية_في_مصر",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "raqm",
+      "label": "Raqm",
+      "type": "number"
+    },
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "almawqi",
+      "label": "Almawqi",
+      "type": "string"
+    },
+    {
+      "key": "almisaha",
+      "label": "Almisaha",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_alian",
+      "label": "Tarikh Alian",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "raqm": 1,
+      "alism": "محمية رأس محمد",
+      "almawqi": "شرم الشيخ ، محافظة جنوب سيناء",
+      "almisaha": "850 كم²",
+      "tarikh_alian": 1983
+    },
+    {
+      "raqm": "_",
+      "alism": "محمية جزر تيران وصنافير",
+      "almawqi": "شرم الشيخ ، محافظة جنوب سيناء",
+      "almisaha": "",
+      "tarikh_alian": ""
+    },
+    {
+      "raqm": 2,
+      "alism": "محمية الزرانيق وسبخة البردويل",
+      "almawqi": "محافظة شمال سيناء",
+      "almisaha": "230 كم²",
+      "tarikh_alian": 1985
+    },
+    {
+      "raqm": 3,
+      "alism": "محمية الأحراش",
+      "almawqi": "مدينة رفح ، محافظة شمال سيناء",
+      "almisaha": "8 كم²",
+      "tarikh_alian": 1985
+    },
+    {
+      "raqm": 4,
+      "alism": "محمية جبل علبة",
+      "almawqi": "حلايب ، محافظة البحر الأحمر",
+      "almisaha": "35600 كم²",
+      "tarikh_alian": 1986
+    },
+    {
+      "raqm": 5,
+      "alism": "محمية العميد الطبيعية",
+      "almawqi": "محافظة مطروح",
+      "almisaha": "700 كم²",
+      "tarikh_alian": 1986
+    },
+    {
+      "raqm": 6,
+      "alism": "محمية سالوجا وغزال",
+      "almawqi": "محافظة أسوان",
+      "almisaha": "0.5 كم²",
+      "tarikh_alian": 1986
+    },
+    {
+      "raqm": 7,
+      "alism": "محمية أشتوم الجميل وجزيرة تنيس",
+      "almawqi": "محافظة بورسعيد",
+      "almisaha": "180 كم²",
+      "tarikh_alian": 1998
+    },
+    {
+      "raqm": 8,
+      "alism": "محمية سانت كاترين",
+      "almawqi": "سانت كاترين ، محافظة جنوب سيناء",
+      "almisaha": "4250 كم²",
+      "tarikh_alian": 1988
+    },
+    {
+      "raqm": 9,
+      "alism": "محمية وادي العلاقي",
+      "almawqi": "محافظة أسوان",
+      "almisaha": "30000 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 10,
+      "alism": "محمية الغابة المتحجرة",
+      "almawqi": "المعادي ، محافظة القاهرة",
+      "almisaha": "7 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 11,
+      "alism": "محمية وادي الأسيوطي",
+      "almawqi": "محافظة أسيوط",
+      "almisaha": "35 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 12,
+      "alism": "محمية وادي الريان (الشلالات، عيون الريان، جبل الريان، وادي الحيتان)",
+      "almawqi": "محافظة الفيوم",
+      "almisaha": "1759 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 13,
+      "alism": "محمية قارون",
+      "almawqi": "محافظة الفيوم",
+      "almisaha": "1385 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 14,
+      "alism": "محمية قبة الحسنة",
+      "almawqi": "الجيزة",
+      "almisaha": "1 كم²",
+      "tarikh_alian": 1989
+    },
+    {
+      "raqm": 15,
+      "alism": "محمية كهف وادي سنور",
+      "almawqi": "محافظة بني سويف",
+      "almisaha": "12 كم²",
+      "tarikh_alian": 1992
+    },
+    {
+      "raqm": 16,
+      "alism": "محمية نبق",
+      "almawqi": "ما بين شرم الشيخ ودهب ، محافظة جنوب سيناء",
+      "almisaha": "600 كم²",
+      "tarikh_alian": 1992
+    },
+    {
+      "raqm": 17,
+      "alism": "محمية أبو جالوم",
+      "almawqi": "دهب ، محافظة جنوب سيناء",
+      "almisaha": "500 كم²",
+      "tarikh_alian": 1992
+    },
+    {
+      "raqm": 18,
+      "alism": "محمية طابا",
+      "almawqi": "طابا ، محافظة جنوب سيناء",
+      "almisaha": "3595 كم²",
+      "tarikh_alian": 1998
+    },
+    {
+      "raqm": 19,
+      "alism": "محمية البرلس",
+      "almawqi": "محافظة كفر الشيخ",
+      "almisaha": "460 كم²",
+      "tarikh_alian": 1998
+    },
+    {
+      "raqm": 20,
+      "alism": "محميات جزر نهر النيل",
+      "almawqi": "كل المحافظات المطلة على نهر النيل، وادي النيل",
+      "almisaha": "160 كم²",
+      "tarikh_alian": 1998
+    },
+    {
+      "raqm": 21,
+      "alism": "محمية وادي دجلة",
+      "almawqi": "المعادي ، محافظة القاهرة",
+      "almisaha": "60 كم²",
+      "tarikh_alian": 1999
+    },
+    {
+      "raqm": 22,
+      "alism": "محمية سيوة",
+      "almawqi": "سيوة ، محافظة مطروح",
+      "almisaha": "7800 كم²",
+      "tarikh_alian": 2002
+    },
+    {
+      "raqm": 23,
+      "alism": "محمية الصحراء البيضاء",
+      "almawqi": "الواحات البحرية ، محافظة الوادي الجديد",
+      "almisaha": "3010 كم²",
+      "tarikh_alian": 2002
+    },
+    {
+      "raqm": 24,
+      "alism": "محمية وادي الجمال - حماطة",
+      "almawqi": "مرسى علم ، محافظة البحر الأحمر",
+      "almisaha": "7450 كم²",
+      "tarikh_alian": 2003
+    },
+    {
+      "raqm": 25,
+      "alism": "محمية الجزر الشمالية للبحر الأحمر",
+      "almawqi": "البحر الأحمر",
+      "almisaha": "1991 كم²",
+      "tarikh_alian": 2007
+    },
+    {
+      "raqm": 26,
+      "alism": "محمية الجلف الكبير",
+      "almawqi": "محافظة الوادي الجديد",
+      "almisaha": "48523 كم²",
+      "tarikh_alian": 2007
+    },
+    {
+      "raqm": 27,
+      "alism": "محمية الدبابية",
+      "almawqi": "إسنا ، محافظة الأقصر",
+      "almisaha": "1 كم²",
+      "tarikh_alian": 2007
+    },
+    {
+      "raqm": 28,
+      "alism": "محمية السلوم",
+      "almawqi": "محافظة مطروح",
+      "almisaha": "383 كم²",
+      "tarikh_alian": 2010
+    },
+    {
+      "raqm": 29,
+      "alism": "محمية الواحات البحرية (الصحراء السوداء، الدست والمغرفة، جبل الإنجليز)",
+      "almawqi": "الواحات البحرية ، محافظة الوادي الجديد",
+      "almisaha": "109 كم²",
+      "tarikh_alian": 2010
+    },
+    {
+      "raqm": 30,
+      "alism": "محمية نيزك جبل كامل",
+      "almawqi": "محافظة الوادي الجديد",
+      "almisaha": "كم²",
+      "tarikh_alian": 2012
+    },
+    {
+      "raqm": 31,
+      "alism": "جبل الكريستال",
+      "almawqi": "محافظة الوادي الجديد",
+      "almisaha": "كم²",
+      "tarikh_alian": 2012
+    }
+  ],
+  "meta": {
+    "title": "المحميات الطبيعية في مصر - Free Download",
+    "description": "قائمة المحميات الطبيعية في مصر مع الموقع والمساحة وتاريخ الإعلان. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المحميات الطبيعية في مصر | ListBase",
+    "seo_description": "Download المحميات الطبيعية في مصر — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المحميات_الطبيعية_في_مصر"
+    ]
+  }
+}

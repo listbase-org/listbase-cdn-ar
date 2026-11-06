@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:18:44.525Z",
-  "total_datasets": 500,
-  "total_records": 151855,
+  "generated": "2026-11-06T02:18:54.937Z",
+  "total_datasets": 501,
+  "total_records": 151887,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -1027,6 +1027,32 @@
         "xlsx": {
           "name": "ar-mahmiat-alsaudia_AR.xlsx",
           "size": 11165
+        }
+      }
+    },
+    {
+      "id": "ar-mahmiat-misr",
+      "name": "المحميات الطبيعية في مصر",
+      "category": "environment",
+      "record_count": 32,
+      "columns": [
+        "raqm",
+        "alism",
+        "almawqi",
+        "almisaha",
+        "tarikh_alian"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المحميات_الطبيعية_في_مصر",
+      "updated": "2026-11",
+      "size": 8478,
+      "files": {
+        "csv": {
+          "name": "ar-mahmiat-misr_AR.csv",
+          "size": 3561
+        },
+        "xlsx": {
+          "name": "ar-mahmiat-misr_AR.xlsx",
+          "size": 8450
         }
       }
     },
