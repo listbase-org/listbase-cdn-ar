@@ -1,0 +1,331 @@
+{
+  "id": "ar-mahrajanat-sinimaiya-arabia",
+  "name": "المهرجانات السينمائية في الدول العربية",
+  "title": "المهرجانات السينمائية في الدول العربية",
+  "description": "قائمة المهرجانات السينمائية في الدول العربية مع سنة التأسيس والمدينة والنوع والبلد.",
+  "category": "entertainment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_السينمائية_في_الدول_العربية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_السينمائية_في_الدول_العربية",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "sanat_altasis",
+      "label": "Sanat Altasis",
+      "type": "number"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    },
+    {
+      "key": "albalad",
+      "label": "Albalad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alism": "مهرجان الأردن للأفلام القصيرة",
+      "sanat_altasis": 2006,
+      "almadina": "عمان",
+      "alnaw": "أفلام قصيرة",
+      "albalad": "الأردن"
+    },
+    {
+      "alism": "مهرجان الأردن الدولي للأفلام",
+      "sanat_altasis": 2016,
+      "almadina": "عمان",
+      "alnaw": "دولي",
+      "albalad": "الأردن"
+    },
+    {
+      "alism": "مهرجان الفيلم الأردني",
+      "sanat_altasis": 2013,
+      "almadina": "عمان",
+      "alnaw": "محلي",
+      "albalad": "الأردن"
+    },
+    {
+      "alism": "مهرجان دبي السينمائي الدولي",
+      "sanat_altasis": 2004,
+      "almadina": "دبي",
+      "alnaw": "عالمي",
+      "albalad": "الإمارات العربية المتحدة"
+    },
+    {
+      "alism": "مهرجان أبوظبي السينمائي",
+      "sanat_altasis": 2007,
+      "almadina": "أبوظبي",
+      "alnaw": "عالمي",
+      "albalad": "الإمارات العربية المتحدة"
+    },
+    {
+      "alism": "مهرجان الأطفال السينمائي الدولي",
+      "sanat_altasis": 2014,
+      "almadina": "دبي",
+      "alnaw": "عالمي",
+      "albalad": "الإمارات العربية المتحدة"
+    },
+    {
+      "alism": "أيام قرطاج السينمائية",
+      "sanat_altasis": 1966,
+      "almadina": "قرطاج",
+      "alnaw": "محلي",
+      "albalad": "تونس"
+    },
+    {
+      "alism": "مهرجان في صحراء السينمائي الدولي",
+      "sanat_altasis": 2003,
+      "almadina": "تندوف",
+      "alnaw": "دولي",
+      "albalad": "الجزائر"
+    },
+    {
+      "alism": "مهرجان وهران الدولي للفيلم العربي",
+      "sanat_altasis": 1976,
+      "almadina": "وهران",
+      "alnaw": "دولي",
+      "albalad": "الجزائر"
+    },
+    {
+      "alism": "مهرجان عنابة للفيلم المتوسطي",
+      "sanat_altasis": 2016,
+      "almadina": "عنابة",
+      "alnaw": "دولي",
+      "albalad": "الجزائر"
+    },
+    {
+      "alism": "مهرجان سيدي امحمد بن عودة للفيلم الوثائقي",
+      "sanat_altasis": 2019,
+      "almadina": "غليزان",
+      "alnaw": "دولي",
+      "albalad": "الجزائر"
+    },
+    {
+      "alism": "مهرجان أفلام السعودية",
+      "sanat_altasis": 2008,
+      "almadina": "الدمام",
+      "alnaw": "محلي",
+      "albalad": "السعودية"
+    },
+    {
+      "alism": "مهرجان البحر الأحمر السينمائي الدولي",
+      "sanat_altasis": 2019,
+      "almadina": "جدة",
+      "alnaw": "دولي",
+      "albalad": "السعودية"
+    },
+    {
+      "alism": "مهرجان الخرطوم للفيلم العربي",
+      "sanat_altasis": 2015,
+      "almadina": "الخرطوم",
+      "alnaw": "دولي",
+      "albalad": "السودان"
+    },
+    {
+      "alism": "مهرجان دهوك الدولي للأفلام",
+      "sanat_altasis": 2011,
+      "almadina": "دهوك",
+      "alnaw": "دولي",
+      "albalad": "العراق"
+    },
+    {
+      "alism": "مهرجان مسقط السينمائي الدولي",
+      "sanat_altasis": 2002,
+      "almadina": "مسقط",
+      "alnaw": "دولي",
+      "albalad": "سلطنة عُمان"
+    },
+    {
+      "alism": "مهرجان الباطنة السينمائي الدولي",
+      "sanat_altasis": 2022,
+      "almadina": "مسقط",
+      "alnaw": "دولي",
+      "albalad": "سلطنة عُمان"
+    },
+    {
+      "alism": "مهرجان أجيال السينمائي",
+      "sanat_altasis": 2012,
+      "almadina": "الدوحة",
+      "alnaw": "دولي",
+      "albalad": "قطر"
+    },
+    {
+      "alism": "مهرجان الدوحة ترايبيكا السينمائي",
+      "sanat_altasis": 2009,
+      "almadina": "الدوحة",
+      "alnaw": "دولي",
+      "albalad": "قطر"
+    },
+    {
+      "alism": "مهرجان الجونة السينمائي",
+      "sanat_altasis": 2017,
+      "almadina": "الجونة",
+      "alnaw": "دولي",
+      "albalad": "مصر"
+    },
+    {
+      "alism": "المهرجان القومي للسينما المصرية",
+      "sanat_altasis": 1997,
+      "almadina": "",
+      "alnaw": "محلي",
+      "albalad": "مصر"
+    },
+    {
+      "alism": "مهرجان جمعية الفيلم للسينما المصرية",
+      "sanat_altasis": 1975,
+      "almadina": "القاهرة",
+      "alnaw": "محلي",
+      "albalad": "مصر"
+    },
+    {
+      "alism": "مهرجان أسوان الدولي لأفلام المرأة",
+      "sanat_altasis": 2017,
+      "almadina": "أسوان",
+      "alnaw": "دولي",
+      "albalad": "مصر"
+    },
+    {
+      "alism": "مهرجان شرم الشيخ السينمائي",
+      "sanat_altasis": 2017,
+      "almadina": "شرم الشيخ",
+      "alnaw": "دولي",
+      "albalad": "مصر"
+    },
+    {
+      "alism": "مهرجان تطوان لسينما البحر الأبيض المتوسط",
+      "sanat_altasis": 1988,
+      "almadina": "تطوان",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "مهرجان مراكش السينمائي الدولي",
+      "sanat_altasis": 2001,
+      "almadina": "مراكش",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الوطني للفيلم بطنجة",
+      "sanat_altasis": 1982,
+      "almadina": "طنجة",
+      "alnaw": "محلي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "مهرجان الفيلم القصير المتوسطي",
+      "sanat_altasis": 2002,
+      "almadina": "طنجة",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي لفيلم المرأة",
+      "sanat_altasis": 2004,
+      "almadina": "سلا",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي لسينما المؤلف",
+      "sanat_altasis": 1994,
+      "almadina": "الرباط",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي للسينما الإفريقية",
+      "sanat_altasis": 1977,
+      "almadina": "خريبكة",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "مهرجان الفيلم الوثائقي حول الثقافة والتاريخ والمجال الصحراوي الحساني",
+      "sanat_altasis": 2015,
+      "almadina": "العيون",
+      "alnaw": "محلي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي للسينما والذاكرة المشتركة",
+      "sanat_altasis": 2012,
+      "almadina": "الناظور",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان المغاربي للفيلم",
+      "sanat_altasis": 2012,
+      "almadina": "وجدة",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي للفيلم الوثائقي",
+      "sanat_altasis": "",
+      "almadina": "أكادير",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي لسينما التحريك",
+      "sanat_altasis": 2004,
+      "almadina": "مكناس",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي للسينما بالداخلة",
+      "sanat_altasis": 2008,
+      "almadina": "الداخلة",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "مهرجان السينما والهجرة",
+      "sanat_altasis": 2003,
+      "almadina": "أكادير",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "المهرجان الدولي للفيلم عبر الصحراء",
+      "sanat_altasis": "",
+      "almadina": "زاكورة",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    },
+    {
+      "alism": "مهرجان الدار البيضاء للفيلم العربي",
+      "sanat_altasis": 2018,
+      "almadina": "الدار البيضاء",
+      "alnaw": "دولي",
+      "albalad": "المغرب"
+    }
+  ],
+  "meta": {
+    "title": "المهرجانات السينمائية في الدول العربية - Free Download",
+    "description": "قائمة المهرجانات السينمائية في الدول العربية مع سنة التأسيس والمدينة والنوع والبلد. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المهرجانات السينمائية في الدول العربية | ListBase",
+    "seo_description": "Download المهرجانات السينمائية في الدول العربية — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المهرجانات_السينمائية_في_الدول_العربية"
+    ]
+  }
+}

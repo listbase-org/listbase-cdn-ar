@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:19:13.604Z",
-  "total_datasets": 503,
-  "total_records": 151980,
+  "generated": "2026-11-06T02:19:23.797Z",
+  "total_datasets": 504,
+  "total_records": 152020,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -829,6 +829,32 @@
         "xlsx": {
           "name": "ar-almusalsalat-altarikhiya-alarabiya_AR.xlsx",
           "size": 17202
+        }
+      }
+    },
+    {
+      "id": "ar-mahrajanat-sinimaiya-arabia",
+      "name": "المهرجانات السينمائية في الدول العربية",
+      "category": "entertainment",
+      "record_count": 40,
+      "columns": [
+        "alism",
+        "sanat_altasis",
+        "almadina",
+        "alnaw",
+        "albalad"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_السينمائية_في_الدول_العربية",
+      "updated": "2026-11",
+      "size": 10614,
+      "files": {
+        "csv": {
+          "name": "ar-mahrajanat-sinimaiya-arabia_AR.csv",
+          "size": 4442
+        },
+        "xlsx": {
+          "name": "ar-mahrajanat-sinimaiya-arabia_AR.xlsx",
+          "size": 8564
         }
       }
     },
