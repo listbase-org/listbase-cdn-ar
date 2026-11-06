@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:18:54.937Z",
-  "total_datasets": 501,
-  "total_records": 151887,
+  "generated": "2026-11-06T02:19:04.631Z",
+  "total_datasets": 502,
+  "total_records": 151912,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1053,6 +1053,32 @@
         "xlsx": {
           "name": "ar-mahmiat-misr_AR.xlsx",
           "size": 8450
+        }
+      }
+    },
+    {
+      "id": "ar-sudud-almaghrib",
+      "name": "سدود المغرب",
+      "category": "environment",
+      "record_count": 25,
+      "columns": [
+        "ism_alsadd",
+        "alnahr",
+        "sanat_altashyid",
+        "almadina",
+        "alhaqina_mlyun_m3"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_سدود_المغرب",
+      "updated": "2026-11",
+      "size": 6754,
+      "files": {
+        "csv": {
+          "name": "ar-sudud-almaghrib_AR.csv",
+          "size": 2063
+        },
+        "xlsx": {
+          "name": "ar-sudud-almaghrib_AR.xlsx",
+          "size": 8174
         }
       }
     },

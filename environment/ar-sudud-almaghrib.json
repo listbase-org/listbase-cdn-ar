@@ -1,0 +1,226 @@
+{
+  "id": "ar-sudud-almaghrib",
+  "name": "سدود المغرب",
+  "title": "سدود المغرب",
+  "description": "قائمة سدود المغرب مع النهر وسنة التشييد والمدينة والحقينة بالمليون متر مكعب.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_سدود_المغرب",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_سدود_المغرب",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "ism_alsadd",
+      "label": "Ism Alsadd",
+      "type": "string"
+    },
+    {
+      "key": "alnahr",
+      "label": "Alnahr",
+      "type": "string"
+    },
+    {
+      "key": "sanat_altashyid",
+      "label": "Sanat Altashyid",
+      "type": "number"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    },
+    {
+      "key": "alhaqina_mlyun_m3",
+      "label": "Alhaqina Mlyun M3",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ism_alsadd": "سد محمد الخامس",
+      "alnahr": "واد ملوية",
+      "sanat_altashyid": "1967",
+      "almadina": "تاوريرت",
+      "alhaqina_mlyun_m3": "239"
+    },
+    {
+      "ism_alsadd": "سد الحسن الأول",
+      "alnahr": "واد لخضر",
+      "sanat_altashyid": "",
+      "almadina": "دمنات أزيلال",
+      "alhaqina_mlyun_m3": "236"
+    },
+    {
+      "ism_alsadd": "سد بين الويدان",
+      "alnahr": "واد العبيد",
+      "sanat_altashyid": "1953",
+      "almadina": "أزيلال",
+      "alhaqina_mlyun_m3": "1215,5"
+    },
+    {
+      "ism_alsadd": "سد المنصور الذهبي",
+      "alnahr": "وادي درعة",
+      "sanat_altashyid": "1971",
+      "almadina": "ورزازات",
+      "alhaqina_mlyun_m3": "445,52"
+    },
+    {
+      "ism_alsadd": "سد إدريس الأول",
+      "alnahr": "واد إناون",
+      "sanat_altashyid": "1973",
+      "almadina": "تاونات",
+      "alhaqina_mlyun_m3": "1129,56"
+    },
+    {
+      "ism_alsadd": "سد محمد بن عبد الله",
+      "alnahr": "واد أبو رقراق",
+      "sanat_altashyid": "1974",
+      "almadina": "الرباط",
+      "alhaqina_mlyun_m3": "974,78"
+    },
+    {
+      "ism_alsadd": "سد وادي المخازن",
+      "alnahr": "واد لوكوس",
+      "sanat_altashyid": "1979",
+      "almadina": "القصر الكبير",
+      "alhaqina_mlyun_m3": "672,86"
+    },
+    {
+      "ism_alsadd": "سد المسيرة",
+      "alnahr": "واد أم الربيع",
+      "sanat_altashyid": "1979",
+      "almadina": "سطات",
+      "alhaqina_mlyun_m3": "2656,99"
+    },
+    {
+      "ism_alsadd": "سد الوحدة",
+      "alnahr": "واد ورغة",
+      "sanat_altashyid": "1996",
+      "almadina": "تاونات",
+      "alhaqina_mlyun_m3": "3522,25"
+    },
+    {
+      "ism_alsadd": "سد يوسف بن تاشفين",
+      "alnahr": "واد ماسة",
+      "sanat_altashyid": "1972",
+      "almadina": "تزنيت",
+      "alhaqina_mlyun_m3": "298,86"
+    },
+    {
+      "ism_alsadd": "سد الحسن الثاني",
+      "alnahr": "واد ملوية",
+      "sanat_altashyid": "2006",
+      "almadina": "تاوريرت",
+      "alhaqina_mlyun_m3": "392,3"
+    },
+    {
+      "ism_alsadd": "سد الحسن الداخل",
+      "alnahr": "واد زيز",
+      "sanat_altashyid": "1971",
+      "almadina": "الراشدية",
+      "alhaqina_mlyun_m3": "312,79"
+    },
+    {
+      "ism_alsadd": "سد عبد المومن",
+      "alnahr": "وادي إسن",
+      "sanat_altashyid": "1981",
+      "almadina": "أكادير",
+      "alhaqina_mlyun_m3": "198,44"
+    },
+    {
+      "ism_alsadd": "سد 9 أبريل 1947",
+      "alnahr": "وادي الحاشف",
+      "sanat_altashyid": "1995",
+      "almadina": "طنجة",
+      "alhaqina_mlyun_m3": "299,96"
+    },
+    {
+      "ism_alsadd": "سد الساقية الحمراء",
+      "alnahr": "الساقية الحمراء",
+      "sanat_altashyid": "1995",
+      "almadina": "العيون",
+      "alhaqina_mlyun_m3": "110"
+    },
+    {
+      "ism_alsadd": "سد أولوز",
+      "alnahr": "وادي سوس",
+      "sanat_altashyid": "1991",
+      "almadina": "تارودانت",
+      "alhaqina_mlyun_m3": "88,96"
+    },
+    {
+      "ism_alsadd": "سد أحمد الحنصالي",
+      "alnahr": "أم الربيع",
+      "sanat_altashyid": "2001",
+      "almadina": "بني ملال",
+      "alhaqina_mlyun_m3": "668,17"
+    },
+    {
+      "ism_alsadd": "سد علال الفاسي",
+      "alnahr": "واد سبو",
+      "sanat_altashyid": "1990",
+      "almadina": "إقليم صفرو",
+      "alhaqina_mlyun_m3": "63,74"
+    },
+    {
+      "ism_alsadd": "سد باب الوطا",
+      "alnahr": "واد بوسبع",
+      "sanat_altashyid": "1990",
+      "almadina": "تاهلة",
+      "alhaqina_mlyun_m3": "33,82"
+    },
+    {
+      "ism_alsadd": "سد أسفالو",
+      "alnahr": "؟؟؟",
+      "sanat_altashyid": "؟؟؟؟",
+      "almadina": "تازة",
+      "alhaqina_mlyun_m3": "281,68"
+    },
+    {
+      "ism_alsadd": "سد الجمعة",
+      "alnahr": "؟؟؟؟",
+      "sanat_altashyid": "؟؟؟؟",
+      "almadina": "تارجيست",
+      "alhaqina_mlyun_m3": "5,16"
+    },
+    {
+      "ism_alsadd": "سد تادارت",
+      "alnahr": "؟؟؟؟",
+      "sanat_altashyid": "؟؟؟؟",
+      "almadina": "الحسيمة",
+      "alhaqina_mlyun_m3": "؟؟؟"
+    },
+    {
+      "ism_alsadd": "سد النخلة",
+      "alnahr": "؟؟؟؟",
+      "sanat_altashyid": "؟؟؟؟",
+      "almadina": "تطوان",
+      "alhaqina_mlyun_m3": "4,21"
+    },
+    {
+      "ism_alsadd": "سد عبد الكريم الخطابي",
+      "alnahr": "؟؟؟؟",
+      "sanat_altashyid": "؟؟؟؟",
+      "almadina": "الحسيمة",
+      "alhaqina_mlyun_m3": "11,79"
+    },
+    {
+      "ism_alsadd": "سد مولاي يوسف",
+      "alnahr": "وادي تساوت",
+      "sanat_altashyid": "1965",
+      "almadina": "مراكش و دمنات",
+      "alhaqina_mlyun_m3": "142,8"
+    }
+  ],
+  "meta": {
+    "title": "سدود المغرب - Free Download",
+    "description": "قائمة سدود المغرب مع النهر وسنة التشييد والمدينة والحقينة بالمليون متر مكعب. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سدود المغرب | ListBase",
+    "seo_description": "Download سدود المغرب — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_سدود_المغرب"
+    ]
+  }
+}
