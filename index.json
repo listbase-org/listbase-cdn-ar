@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:19:04.631Z",
-  "total_datasets": 502,
-  "total_records": 151912,
+  "generated": "2026-11-06T02:19:13.604Z",
+  "total_datasets": 503,
+  "total_records": 151980,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 40
+      "dataset_count": 41
     },
     {
       "id": "units",
@@ -13999,6 +13999,31 @@
         "xlsx": {
           "name": "ar-matarat_AR.xlsx",
           "size": 177707
+        }
+      }
+    },
+    {
+      "id": "ar-mawani-misr",
+      "name": "موانئ مصر",
+      "category": "transport",
+      "record_count": 68,
+      "columns": [
+        "almina",
+        "aljiha",
+        "alnaw",
+        "fiya"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_موانئ_مصر",
+      "updated": "2026-11",
+      "size": 14899,
+      "files": {
+        "csv": {
+          "name": "ar-mawani-misr_AR.csv",
+          "size": 8211
+        },
+        "xlsx": {
+          "name": "ar-mawani-misr_AR.xlsx",
+          "size": 8834
         }
       }
     },
