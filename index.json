@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-05T02:26:49.447Z",
-  "total_datasets": 499,
-  "total_records": 151785,
+  "generated": "2026-11-06T02:18:44.525Z",
+  "total_datasets": 500,
+  "total_records": 151855,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -998,6 +998,35 @@
         "xlsx": {
           "name": "ar-mahattat-nawawiya_AR.xlsx",
           "size": 7528
+        }
+      }
+    },
+    {
+      "id": "ar-mahmiat-alsaudia",
+      "name": "المناطق المحمية في السعودية",
+      "category": "environment",
+      "record_count": 70,
+      "columns": [
+        "alism",
+        "sanat_altaayin",
+        "alnaw",
+        "almisaha_km2",
+        "tasnif_iucn",
+        "aljiha",
+        "almintaqa",
+        "aqrab_muhafaza"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المناطق_المحمية_في_السعودية",
+      "updated": "2026-11",
+      "size": 27249,
+      "files": {
+        "csv": {
+          "name": "ar-mahmiat-alsaudia_AR.csv",
+          "size": 12867
+        },
+        "xlsx": {
+          "name": "ar-mahmiat-alsaudia_AR.xlsx",
+          "size": 11165
         }
       }
     },

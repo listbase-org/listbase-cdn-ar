@@ -1,0 +1,766 @@
+{
+  "id": "ar-mahmiat-alsaudia",
+  "name": "المناطق المحمية في السعودية",
+  "title": "المناطق المحمية في السعودية",
+  "description": "قائمة المناطق المحمية والمحميات الطبيعية في المملكة العربية السعودية مع سنة التعيين والنوع والمساحة وتصنيف IUCN والجهة المسؤولة والمنطقة.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المناطق_المحمية_في_السعودية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المناطق_المحمية_في_السعودية",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "sanat_altaayin",
+      "label": "Sanat Altaayin",
+      "type": "number"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    },
+    {
+      "key": "almisaha_km2",
+      "label": "Almisaha Km2",
+      "type": "number"
+    },
+    {
+      "key": "tasnif_iucn",
+      "label": "Tasnif Iucn",
+      "type": "string"
+    },
+    {
+      "key": "aljiha",
+      "label": "Aljiha",
+      "type": "string"
+    },
+    {
+      "key": "almintaqa",
+      "label": "Almintaqa",
+      "type": "string"
+    },
+    {
+      "key": "aqrab_muhafaza",
+      "label": "Aqrab Muhafaza",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alism": "الحرم المدني",
+      "sanat_altaayin": "",
+      "alnaw": "حرم مقدس",
+      "almisaha_km2": 1376,
+      "tasnif_iucn": "V",
+      "aljiha": "أمانة منطقة المدينة المنورة",
+      "almintaqa": "منطقة المدينة المنورة",
+      "aqrab_muhafaza": "المدينة المنورة"
+    },
+    {
+      "alism": "الحرم المكي",
+      "sanat_altaayin": "",
+      "alnaw": "حرم مقدس",
+      "almisaha_km2": 571.38,
+      "tasnif_iucn": "V",
+      "aljiha": "أمانة العاصمة المقدسة",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "مكة المكرمة"
+    },
+    {
+      "alism": "حمى الغضا",
+      "sanat_altaayin": "",
+      "alnaw": "حمى /منطقة استجمام",
+      "almisaha_km2": 1186.22,
+      "tasnif_iucn": "VI",
+      "aljiha": "محافظة عنيزة والمجتمع المحلي",
+      "almintaqa": "منطقة القصيم",
+      "aqrab_muhafaza": "عنيزة"
+    },
+    {
+      "alism": "حفر الباطن",
+      "sanat_altaayin": "",
+      "alnaw": "محمية عسكرية",
+      "almisaha_km2": 4128.98,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة الدفاع",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "حفر الباطن"
+    },
+    {
+      "alism": "جبل الكور",
+      "sanat_altaayin": "",
+      "alnaw": "محمية عسكرية",
+      "almisaha_km2": 200.63,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة الدفاع",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "رنية"
+    },
+    {
+      "alism": "منتزه عسير الوطني",
+      "sanat_altaayin": 1981,
+      "alnaw": "متنزه وطني",
+      "almisaha_km2": 6490.7,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة عسير",
+      "aqrab_muhafaza": "أبها"
+    },
+    {
+      "alism": "منتزه الغاط الوطني",
+      "sanat_altaayin": 2001,
+      "alnaw": "متنزه وطني",
+      "almisaha_km2": 58.67,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "الغاط"
+    },
+    {
+      "alism": "منتزه شعيب حريملاء الوطني",
+      "sanat_altaayin": "",
+      "alnaw": "متنزه وطني",
+      "almisaha_km2": 147.32,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "حريملاء"
+    },
+    {
+      "alism": "محمية ريدة",
+      "sanat_altaayin": 1989,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 9.33,
+      "tasnif_iucn": "IV",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة عسير",
+      "aqrab_muhafaza": "أبها"
+    },
+    {
+      "alism": "روضة التنهات",
+      "sanat_altaayin": "",
+      "alnaw": "غير معروف",
+      "almisaha_km2": 36.31,
+      "tasnif_iucn": "III",
+      "aljiha": "وزارة البيئة والمياه والزراعة الديوان الملكي",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "المجمعة"
+    },
+    {
+      "alism": "روضة خريم",
+      "sanat_altaayin": "",
+      "alnaw": "غير معروف",
+      "almisaha_km2": 314.25,
+      "tasnif_iucn": "III",
+      "aljiha": "وزارة البيئة والمياه والزراعة الديوان الملكي",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "رماح"
+    },
+    {
+      "alism": "محمية الوعول",
+      "sanat_altaayin": 1988,
+      "alnaw": "منطقة محمية",
+      "almisaha_km2": 2369,
+      "tasnif_iucn": "II",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "الحريق حوطة بني تميم"
+    },
+    {
+      "alism": "محمية مجامع الهضب",
+      "sanat_altaayin": 1993,
+      "alnaw": "منطقة محمية",
+      "almisaha_km2": 3400,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "رنية"
+    },
+    {
+      "alism": "الأراضي الرطبة بالحائر",
+      "sanat_altaayin": "",
+      "alnaw": "محمية",
+      "almisaha_km2": 123.53,
+      "tasnif_iucn": "VI",
+      "aljiha": "الهيئة الملكية لمدينة الرياض",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "الرياض"
+    },
+    {
+      "alism": "سبخة الفصل",
+      "sanat_altaayin": "",
+      "alnaw": "محمية",
+      "almisaha_km2": 4.7,
+      "tasnif_iucn": "IV",
+      "aljiha": "الهيئة الملكية للجبيل وينبع",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "الجبيل"
+    },
+    {
+      "alism": "وادي لبن",
+      "sanat_altaayin": 2005,
+      "alnaw": "محمية",
+      "almisaha_km2": 150,
+      "tasnif_iucn": "VI",
+      "aljiha": "الهيئة الملكية لمدينة الرياض",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "الرياض"
+    },
+    {
+      "alism": "محمية ينبع الساحلية",
+      "sanat_altaayin": "",
+      "alnaw": "محمية",
+      "almisaha_km2": 10.4,
+      "tasnif_iucn": "IV",
+      "aljiha": "الهيئة الملكية للجبيل وينبع",
+      "almintaqa": "منطقة المدينة المنورة",
+      "aqrab_muhafaza": "ينبع"
+    },
+    {
+      "alism": "محمية عروق بني معارض",
+      "sanat_altaayin": 1993,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 12787,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة نجران",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "محمية الجندلية",
+      "sanat_altaayin": 1995,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 1188.9,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة الرياض",
+      "aqrab_muhafaza": "المجمعة"
+    },
+    {
+      "alism": "محمية الخنفة",
+      "sanat_altaayin": 1987,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 19339,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "تيماء"
+    },
+    {
+      "alism": "محمية التيسية",
+      "sanat_altaayin": 1995,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 4272.2,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منقطة القصيم منقطة حائل",
+      "aqrab_muhafaza": "الأسياح بقعاء"
+    },
+    {
+      "alism": "محمية الطبيق",
+      "sanat_altaayin": 1989,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 12105,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "تبوك"
+    },
+    {
+      "alism": "محمية جزر فرسان",
+      "sanat_altaayin": 1988,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 5408,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة جازان",
+      "aqrab_muhafaza": "جيزان"
+    },
+    {
+      "alism": "محمية جبل شدا الأعلى",
+      "sanat_altaayin": 2002,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 68.62,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة الباحة",
+      "aqrab_muhafaza": "المخواة"
+    },
+    {
+      "alism": "محمية نفود العريق",
+      "sanat_altaayin": 1995,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 2036.1,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منقطة القصيم",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "محمية سجا وأم الرمث",
+      "sanat_altaayin": 1995,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 6528.2,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منقطة مكة المكرمة",
+      "aqrab_muhafaza": "المويه"
+    },
+    {
+      "alism": "محمية حرة الحرة",
+      "sanat_altaayin": 1987,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 13775,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة الحدود الشمالية منطقة الجوف",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "محمية محازة الصيد",
+      "sanat_altaayin": 1988,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 2553,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "الخرمة"
+    },
+    {
+      "alism": "محمية جزر أم القماري",
+      "sanat_altaayin": 1977,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 4.03,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "القنفذة"
+    },
+    {
+      "alism": "أشجار اللبخ بوادي جورة",
+      "sanat_altaayin": "",
+      "alnaw": "محمية بيولوجية",
+      "almisaha_km2": 0.22,
+      "tasnif_iucn": "IV",
+      "aljiha": "بلدية الدائر",
+      "almintaqa": "منطقة جازان",
+      "aqrab_muhafaza": "الدائر"
+    },
+    {
+      "alism": "محمية الظهران الطبيعية",
+      "sanat_altaayin": "",
+      "alnaw": "متنزه بيئي",
+      "almisaha_km2": 1,
+      "tasnif_iucn": "IV",
+      "aljiha": "أرامكو السعودية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "الظهران"
+    },
+    {
+      "alism": "خليج تاروت",
+      "sanat_altaayin": 1990,
+      "alnaw": "متنزه بيئي",
+      "almisaha_km2": 346.69,
+      "tasnif_iucn": "IV",
+      "aljiha": "وزارة البيئة والمياه والزراعة وزارة الشؤون البلدية والقروية أرامكو السعودية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "رأس تنورة القطيف الدمام"
+    },
+    {
+      "alism": "دحول معقلاء",
+      "sanat_altaayin": 1990,
+      "alnaw": "متنزه جيولوجي",
+      "almisaha_km2": 314.25,
+      "tasnif_iucn": "III",
+      "aljiha": "هيئة المساحة الجيولوجية السعودية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "حمى بني سار",
+      "sanat_altaayin": "",
+      "alnaw": "حمى /محمية الغلاف الحيوي",
+      "almisaha_km2": 3.38,
+      "tasnif_iucn": "V",
+      "aljiha": "مجتمعات محلية",
+      "almintaqa": "منطقة الباحة",
+      "aqrab_muhafaza": "الباحة"
+    },
+    {
+      "alism": "حمى ثمالة",
+      "sanat_altaayin": "",
+      "alnaw": "حمى /محمية الغلاف الحيوي",
+      "almisaha_km2": 7.46,
+      "tasnif_iucn": "V",
+      "aljiha": "مجتمعات محلية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "الطائف"
+    },
+    {
+      "alism": "حمى قريش",
+      "sanat_altaayin": "",
+      "alnaw": "حمى /محمية ريفية",
+      "almisaha_km2": 15.01,
+      "tasnif_iucn": "V",
+      "aljiha": "مجتمعات محلية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "الطائف"
+    },
+    {
+      "alism": "جبل رال",
+      "sanat_altaayin": "",
+      "alnaw": "حمى /محمية ريفية",
+      "almisaha_km2": 69.07,
+      "tasnif_iucn": "V",
+      "aljiha": "مجتمعات محلية",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "الوجه"
+    },
+    {
+      "alism": "جبل شِرعان",
+      "sanat_altaayin": "",
+      "alnaw": "متنزه طبيعي",
+      "almisaha_km2": 129.4,
+      "tasnif_iucn": "III",
+      "aljiha": "محافظة العلا والقطاع الخاص",
+      "almintaqa": "منطقة المدينة المنورة",
+      "aqrab_muhafaza": "العلا"
+    },
+    {
+      "alism": "حرة عويرض",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 5165.17,
+      "tasnif_iucn": "Ib",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة المدينة المنورة",
+      "aqrab_muhafaza": "العلا"
+    },
+    {
+      "alism": "جبل أجا",
+      "sanat_altaayin": 1987,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 2202.91,
+      "tasnif_iucn": "II",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة حائل",
+      "aqrab_muhafaza": "حائل"
+    },
+    {
+      "alism": "جبل بثرة / وادي تربة",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 316.56,
+      "tasnif_iucn": "II",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "الطائف"
+    },
+    {
+      "alism": "جبل رضوى",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 1673.02,
+      "tasnif_iucn": "Ib",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة المدينة المنورة",
+      "aqrab_muhafaza": "ينبع"
+    },
+    {
+      "alism": "مخشوش",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 267.63,
+      "tasnif_iucn": "IV",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة مكة المكرمة منطقة عسير",
+      "aqrab_muhafaza": "القنفذة البرك"
+    },
+    {
+      "alism": "وادي لجب / جبل القهر",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية",
+      "almisaha_km2": 719.85,
+      "tasnif_iucn": "II",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة جازان",
+      "aqrab_muhafaza": "الريث"
+    },
+    {
+      "alism": "جبل اللوز",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 489.82,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة الدفاع",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "البدع"
+    },
+    {
+      "alism": "جبل طخفة",
+      "sanat_altaayin": 2000,
+      "alnaw": "محمية",
+      "almisaha_km2": 147.32,
+      "tasnif_iucn": "IV",
+      "aljiha": "وزارة البيئة والمياه والزراعة إماراة منطقة القصيم",
+      "almintaqa": "منطقة الرياض منطقة القصيم",
+      "aqrab_muhafaza": "الدوادمي ضرية"
+    },
+    {
+      "alism": "جبل أثرب / البلس",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 308.89,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة الباحة",
+      "aqrab_muhafaza": "بلجرشي"
+    },
+    {
+      "alism": "محمية الجبيل للأحياء الفطرية",
+      "sanat_altaayin": 1991,
+      "alnaw": "محمية",
+      "almisaha_km2": 2369.05,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية أرامكو السعودية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "الجبيل"
+    },
+    {
+      "alism": "رأس كشران / جزيرة شريفة",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 582.11,
+      "tasnif_iucn": "IV",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة مكة المكرمة",
+      "aqrab_muhafaza": "الليث"
+    },
+    {
+      "alism": "وادي عليب",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 33.44,
+      "tasnif_iucn": "IV",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة الباحة",
+      "aqrab_muhafaza": "الحجرة"
+    },
+    {
+      "alism": "وادي عياء / بللسمر",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 473.51,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية مدينة بللسمر",
+      "almintaqa": "منطقة عسير",
+      "aqrab_muhafaza": "خميس مشيط"
+    },
+    {
+      "alism": "وادي جوّة / وادي جازان",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 131.48,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة جازان",
+      "aqrab_muhafaza": "فيفاء"
+    },
+    {
+      "alism": "وادي تيّه",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية",
+      "almisaha_km2": 705.17,
+      "tasnif_iucn": "VI",
+      "aljiha": "وزارة البيئة والمياه والزراعة",
+      "almintaqa": "منطقة عسير",
+      "aqrab_muhafaza": "محايل عسير"
+    },
+    {
+      "alism": "العروق المعترضة",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 50414.15,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "ضفّة الوجه",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 3857.6,
+      "tasnif_iucn": "II",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "الوجه"
+    },
+    {
+      "alism": "إمتداد لجبل شدا الأعلى",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 76.21,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة الباحة",
+      "aqrab_muhafaza": "المخواة"
+    },
+    {
+      "alism": "حسمى",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 3699.29,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "منطقة تبوك",
+      "aqrab_muhafaza": "تبوك ، حقل"
+    },
+    {
+      "alism": "خليج سلوى",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 7802.48,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "المنطقة الشرقية",
+      "aqrab_muhafaza": "—"
+    },
+    {
+      "alism": "مرتفعات نجران",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 2241.69,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "رأس سويحل / رأس القصبة",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 3705,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "وادي الحزمة / وادي تثليث",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية استخدام الموارد",
+      "almisaha_km2": 4437.77,
+      "tasnif_iucn": "VI",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "إمتداد لمحمية مجامع الهضب",
+      "sanat_altaayin": 1987,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 2703.78,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "محمية جزرالخليخ للحياة",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 41.64,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "حرّة خيبر / وادي هدية",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 4895.66,
+      "tasnif_iucn": "Ib",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "جبل الدبغ",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 628.91,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "جزيرة الحويصات / دوحة دويهن",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 1223.88,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "جبال قراقر",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 1678.26,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "مقلع طمية / حرة كشب",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 599.24,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "وادي ترج / جبل جندف",
+      "sanat_altaayin": 1990,
+      "alnaw": "محمية طبيعية خاصة",
+      "almisaha_km2": 1119.98,
+      "tasnif_iucn": "Ia",
+      "aljiha": "المركز الوطني لتنمية الحياة الفطرية",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    },
+    {
+      "alism": "جبال عرنان / جبل المسمى",
+      "sanat_altaayin": 1990,
+      "alnaw": "متنزه للحياة البرية",
+      "almisaha_km2": 4750.94,
+      "tasnif_iucn": "VI",
+      "aljiha": "إمارة منطقة حائل القطاع الخاص",
+      "almintaqa": "",
+      "aqrab_muhafaza": ""
+    }
+  ],
+  "meta": {
+    "title": "المناطق المحمية في السعودية - Free Download",
+    "description": "قائمة المناطق المحمية والمحميات الطبيعية في المملكة العربية السعودية مع سنة التعيين والنوع والمساحة وتصنيف IUCN والجهة المسؤولة والمنطقة. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المناطق المحمية في السعودية | ListBase",
+    "seo_description": "Download المناطق المحمية في السعودية — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المناطق_المحمية_في_السعودية"
+    ]
+  }
+}
