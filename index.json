@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:19:23.797Z",
-  "total_datasets": 504,
-  "total_records": 152020,
+  "generated": "2026-11-06T02:19:35.040Z",
+  "total_datasets": 505,
+  "total_records": 152173,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -9783,6 +9783,32 @@
         "xlsx": {
           "name": "ar-ruasa-wuzara-aliraq_AR.xlsx",
           "size": 12341
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-alkharijia-misr",
+      "name": "وزراء الخارجية في مصر",
+      "category": "politics",
+      "record_count": 153,
+      "columns": [
+        "alwazir",
+        "ism_alwizara",
+        "alfatra",
+        "alwizara",
+        "rais_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_الخارجية_(مصر)",
+      "updated": "2026-11",
+      "size": 49033,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-alkharijia-misr_AR.csv",
+          "size": 29781
+        },
+        "xlsx": {
+          "name": "ar-wuzara-alkharijia-misr_AR.xlsx",
+          "size": 13245
         }
       }
     },
