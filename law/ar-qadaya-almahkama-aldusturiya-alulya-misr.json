@@ -1,0 +1,268 @@
+{
+  "id": "ar-qadaya-almahkama-aldusturiya-alulya-misr",
+  "name": "القضايا المقيدة أمام المحكمة الدستورية العليا في مصر حسب السنة القضائية",
+  "title": "القضايا المقيدة أمام المحكمة الدستورية العليا في مصر حسب السنة القضائية",
+  "description": "عدد القضايا المقيدة أمام المحكمة الدستورية العليا المصرية في كل سنة قضائية منذ 1979: الإجمالي والقضايا الدستورية وقضايا التنازع والتفسير.",
+  "category": "law",
+  "source": "https://ar.wikipedia.org/wiki/المحكمة_الدستورية_العليا_(مصر)",
+  "source_url": "https://ar.wikipedia.org/wiki/المحكمة_الدستورية_العليا_(مصر)",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "alsana_alqadaiya",
+      "label": "Alsana Alqadaiya",
+      "type": "string"
+    },
+    {
+      "key": "ijmali_alqadaya",
+      "label": "Ijmali Alqadaya",
+      "type": "number"
+    },
+    {
+      "key": "qadaya_dusturiya",
+      "label": "Qadaya Dusturiya",
+      "type": "number"
+    },
+    {
+      "key": "qadaya_tanazu",
+      "label": "Qadaya Tanazu",
+      "type": "number"
+    },
+    {
+      "key": "qadaya_tafsir",
+      "label": "Qadaya Tafsir",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alsana_alqadaiya": "الأولى 1979",
+      "ijmali_alqadaya": 62,
+      "qadaya_dusturiya": 31,
+      "qadaya_tanazu": 26,
+      "qadaya_tafsir": 4
+    },
+    {
+      "alsana_alqadaiya": "الثانية 1980",
+      "ijmali_alqadaya": 52,
+      "qadaya_dusturiya": 41,
+      "qadaya_tanazu": 6,
+      "qadaya_tafsir": 5
+    },
+    {
+      "alsana_alqadaiya": "الثالثة 1981",
+      "ijmali_alqadaya": 87,
+      "qadaya_dusturiya": 82,
+      "qadaya_tanazu": 2,
+      "qadaya_tafsir": 2
+    },
+    {
+      "alsana_alqadaiya": "الرابعة 1982",
+      "ijmali_alqadaya": 170,
+      "qadaya_dusturiya": 150,
+      "qadaya_tanazu": 15,
+      "qadaya_tafsir": 3
+    },
+    {
+      "alsana_alqadaiya": "الخامسة 1983",
+      "ijmali_alqadaya": 160,
+      "qadaya_dusturiya": 150,
+      "qadaya_tanazu": 6,
+      "qadaya_tafsir": 2
+    },
+    {
+      "alsana_alqadaiya": "السادسة 1984",
+      "ijmali_alqadaya": 149,
+      "qadaya_dusturiya": 136,
+      "qadaya_tanazu": 7,
+      "qadaya_tafsir": 1
+    },
+    {
+      "alsana_alqadaiya": "السابعة 1985",
+      "ijmali_alqadaya": 60,
+      "qadaya_dusturiya": 47,
+      "qadaya_tanazu": 6,
+      "qadaya_tafsir": 1
+    },
+    {
+      "alsana_alqadaiya": "الثامنة 1986",
+      "ijmali_alqadaya": 49,
+      "qadaya_dusturiya": 28,
+      "qadaya_tanazu": 15,
+      "qadaya_tafsir": 3
+    },
+    {
+      "alsana_alqadaiya": "التاسعة 1987",
+      "ijmali_alqadaya": 62,
+      "qadaya_dusturiya": 38,
+      "qadaya_tanazu": 20,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "العاشرة 1988",
+      "ijmali_alqadaya": 47,
+      "qadaya_dusturiya": 39,
+      "qadaya_tanazu": 4,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الحادية عشر 1989",
+      "ijmali_alqadaya": 56,
+      "qadaya_dusturiya": 40,
+      "qadaya_tanazu": 12,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثانية عشر 1990",
+      "ijmali_alqadaya": 122,
+      "qadaya_dusturiya": 104,
+      "qadaya_tanazu": 9,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثالثة عشر 1991",
+      "ijmali_alqadaya": 80,
+      "qadaya_dusturiya": 65,
+      "qadaya_tanazu": 9,
+      "qadaya_tafsir": 1
+    },
+    {
+      "alsana_alqadaiya": "الرابعة عشر 1992",
+      "ijmali_alqadaya": 44,
+      "qadaya_dusturiya": 26,
+      "qadaya_tanazu": 9,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الخامسة عشر 1993",
+      "ijmali_alqadaya": 52,
+      "qadaya_dusturiya": 37,
+      "qadaya_tanazu": 11,
+      "qadaya_tafsir": 1
+    },
+    {
+      "alsana_alqadaiya": "السادسة عشر 1994",
+      "ijmali_alqadaya": 62,
+      "qadaya_dusturiya": 39,
+      "qadaya_tanazu": 17,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "السابعة عشر 1995",
+      "ijmali_alqadaya": 115,
+      "qadaya_dusturiya": 83,
+      "qadaya_tanazu": 24,
+      "qadaya_tafsir": 2
+    },
+    {
+      "alsana_alqadaiya": "الثامنة عشر 1996",
+      "ijmali_alqadaya": 171,
+      "qadaya_dusturiya": 131,
+      "qadaya_tanazu": 13,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "التاسعة عشر 1997",
+      "ijmali_alqadaya": 242,
+      "qadaya_dusturiya": 181,
+      "qadaya_tanazu": 10,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "العشرون 1998",
+      "ijmali_alqadaya": 254,
+      "qadaya_dusturiya": 159,
+      "qadaya_tanazu": 13,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الحادية والعشرون 1999",
+      "ijmali_alqadaya": 292,
+      "qadaya_dusturiya": 174,
+      "qadaya_tanazu": 34,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثانية والعشرون 2000",
+      "ijmali_alqadaya": 224,
+      "qadaya_dusturiya": 128,
+      "qadaya_tanazu": 17,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثالثة والعشرون 2001",
+      "ijmali_alqadaya": 428,
+      "qadaya_dusturiya": 280,
+      "qadaya_tanazu": 17,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الرابعة والعشرون 2002",
+      "ijmali_alqadaya": 369,
+      "qadaya_dusturiya": 165,
+      "qadaya_tanazu": 16,
+      "qadaya_tafsir": 1
+    },
+    {
+      "alsana_alqadaiya": "الخامسة والعشرون 2003",
+      "ijmali_alqadaya": 331,
+      "qadaya_dusturiya": 113,
+      "qadaya_tanazu": 10,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "السادسة والعشرون 2004",
+      "ijmali_alqadaya": 275,
+      "qadaya_dusturiya": 22,
+      "qadaya_tanazu": 8,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "السابعة والعشرون 2005",
+      "ijmali_alqadaya": 323,
+      "qadaya_dusturiya": 11,
+      "qadaya_tanazu": 1,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثامنة والعشرون 2006",
+      "ijmali_alqadaya": 83,
+      "qadaya_dusturiya": 67,
+      "qadaya_tanazu": 14,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "التاسعة والعشرون 2007",
+      "ijmali_alqadaya": 222,
+      "qadaya_dusturiya": 169,
+      "qadaya_tanazu": 50,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الثلاثون 2008",
+      "ijmali_alqadaya": 332,
+      "qadaya_dusturiya": 271,
+      "qadaya_tanazu": 57,
+      "qadaya_tafsir": 0
+    },
+    {
+      "alsana_alqadaiya": "الإجمالي العام",
+      "ijmali_alqadaya": 4975,
+      "qadaya_dusturiya": 3007,
+      "qadaya_tanazu": 458,
+      "qadaya_tafsir": 26
+    }
+  ],
+  "meta": {
+    "title": "القضايا المقيدة أمام المحكمة الدستورية العليا في مصر حسب السنة القضائية - Free Download",
+    "description": "عدد القضايا المقيدة أمام المحكمة الدستورية العليا المصرية في كل سنة قضائية منذ 1979: الإجمالي والقضايا الدستورية وقضايا التنازع والتفسير. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "القضايا المقيدة أمام المحكمة الدستورية العليا في مصر حسب السنة القضائية | ListBase",
+    "seo_description": "Download القضايا المقيدة أمام المحكمة الدستورية العليا في مصر حسب السنة القضائية — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/المحكمة_الدستورية_العليا_(مصر)"
+    ]
+  }
+}
