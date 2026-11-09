@@ -1,0 +1,171 @@
+{
+  "id": "ar-wahdat-alqiyas-almisriya-alqarn-19",
+  "name": "وحدات القياس المصرية في أواخر القرن التاسع عشر",
+  "title": "وحدات القياس المصرية في أواخر القرن التاسع عشر",
+  "description": "وحدات الطول وقياس الطريق والكتلة والمساحة المستخدمة في مصر أواخر القرن التاسع عشر ومعادلاتها بالذراع والمتر والفدان والأوقة.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_المصرية",
+  "source_url": "https://ar.wikipedia.org/wiki/وحدات_القياس_المصرية",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "alwahda",
+      "label": "Alwahda",
+      "type": "string"
+    },
+    {
+      "key": "almuadil",
+      "label": "Almuadil",
+      "type": "string"
+    },
+    {
+      "key": "alfia",
+      "label": "Alfia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alwahda": "الذراع البلدي",
+      "almuadil": "0.58 متر",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "القصبة الواحدة",
+      "almuadil": "3.55 متر",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "قيراط",
+      "almuadil": "1/24 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "قبضة",
+      "almuadil": "1/6 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "قدم",
+      "almuadil": "1/2 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "قصبة",
+      "almuadil": "4 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "ميل هاشمي",
+      "almuadil": "1000 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "فرسخ",
+      "almuadil": "3000 ذراع",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "النيلي",
+      "almuadil": "0.2545 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "المحلي (ذراع البلدي)",
+      "almuadil": "0.5682 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "الأسطنبولي (ذراع إسطنبولي)",
+      "almuadil": "0.6691 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "القماش (ذراع هندازه)",
+      "almuadil": "0.6479 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "البناء (ذراع معماري)",
+      "almuadil": "0.7500 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "الطريقي (قياس السكة)",
+      "almuadil": "0.7389 م",
+      "alfia": "الطول"
+    },
+    {
+      "alwahda": "قصبة",
+      "almuadil": "5 ذراع",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "بأه",
+      "almuadil": "2.5 ذراع",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "ميلي",
+      "almuadil": "500 قصبة = 1.148 ميل = 1.847 كيلومتر",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "فرسخ",
+      "almuadil": "3 ميلي",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "بريد",
+      "almuadil": "4 فرسخ",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "سفر يوم (ما يعادل 2 1 / 2 منه يصنع درجة واحدة من الميريديان",
+      "almuadil": "60 ميلي) = 2 بريد",
+      "alfia": "قياس الطريق"
+    },
+    {
+      "alwahda": "قيراط",
+      "almuadil": "1/6400 أوقة",
+      "alfia": "الكتلة"
+    },
+    {
+      "alwahda": "درهم",
+      "almuadil": "1/400 أوقة",
+      "alfia": "الكتلة"
+    },
+    {
+      "alwahda": "مثقال",
+      "almuadil": "1/100 أوقة",
+      "alfia": "الكتلة"
+    },
+    {
+      "alwahda": "قنطار",
+      "almuadil": "36 أوقة",
+      "alfia": "الكتلة"
+    },
+    {
+      "alwahda": "سهم",
+      "almuadil": "1/576 فدان",
+      "alfia": "المساحة"
+    },
+    {
+      "alwahda": "قيراط",
+      "almuadil": "1/24 فدان",
+      "alfia": "المساحة"
+    }
+  ],
+  "meta": {
+    "title": "وحدات القياس المصرية في أواخر القرن التاسع عشر - Free Download",
+    "description": "وحدات الطول وقياس الطريق والكتلة والمساحة المستخدمة في مصر أواخر القرن التاسع عشر ومعادلاتها بالذراع والمتر والفدان والأوقة. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "وحدات القياس المصرية في أواخر القرن التاسع عشر | ListBase",
+    "seo_description": "Download وحدات القياس المصرية في أواخر القرن التاسع عشر — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/وحدات_القياس_المصرية"
+    ]
+  }
+}

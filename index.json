@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-09T02:20:11.441Z",
-  "total_datasets": 509,
-  "total_records": 152273,
+  "generated": "2026-11-09T02:20:21.173Z",
+  "total_datasets": 510,
+  "total_records": 152299,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -14962,6 +14962,30 @@
         "xlsx": {
           "name": "ar-wahdat-alqiyas-almaghribiya-altaqlidiya_AR.xlsx",
           "size": 7593
+        }
+      }
+    },
+    {
+      "id": "ar-wahdat-alqiyas-almisriya-alqarn-19",
+      "name": "وحدات القياس المصرية في أواخر القرن التاسع عشر",
+      "category": "units",
+      "record_count": 26,
+      "columns": [
+        "alwahda",
+        "almuadil",
+        "alfia"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_المصرية",
+      "updated": "2026-11",
+      "size": 5122,
+      "files": {
+        "csv": {
+          "name": "ar-wahdat-alqiyas-almisriya-alqarn-19_AR.csv",
+          "size": 1459
+        },
+        "xlsx": {
+          "name": "ar-wahdat-alqiyas-almisriya-alqarn-19_AR.xlsx",
+          "size": 7571
         }
       }
     },
