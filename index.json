@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-09T02:20:00.080Z",
-  "total_datasets": 508,
-  "total_records": 152261,
+  "generated": "2026-11-09T02:20:11.441Z",
+  "total_datasets": 509,
+  "total_records": 152273,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -14938,6 +14938,30 @@
         "xlsx": {
           "name": "ar-almaqadir-alsharia_AR.xlsx",
           "size": 8495
+        }
+      }
+    },
+    {
+      "id": "ar-wahdat-alqiyas-almaghribiya-altaqlidiya",
+      "name": "وحدات القياس المغربية التقليدية",
+      "category": "units",
+      "record_count": 12,
+      "columns": [
+        "alwahda",
+        "alwasf",
+        "alfia"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_المغربية",
+      "updated": "2026-11",
+      "size": 4296,
+      "files": {
+        "csv": {
+          "name": "ar-wahdat-alqiyas-almaghribiya-altaqlidiya_AR.csv",
+          "size": 1848
+        },
+        "xlsx": {
+          "name": "ar-wahdat-alqiyas-almaghribiya-altaqlidiya_AR.xlsx",
+          "size": 7593
         }
       }
     },
