@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-09T02:19:38.922Z",
-  "total_datasets": 506,
-  "total_records": 152188,
+  "generated": "2026-11-09T02:19:49.088Z",
+  "total_datasets": 507,
+  "total_records": 152230,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -9077,6 +9077,28 @@
         "xlsx": {
           "name": "ar-faizun-jaizat-almalik-faisal-tib_AR.xlsx",
           "size": 10361
+        }
+      }
+    },
+    {
+      "id": "ar-kulliyat-altib-alsaudia",
+      "name": "كليات الطب في السعودية",
+      "category": "health",
+      "record_count": 42,
+      "columns": [
+        "alkulliya"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_كليات_الطب_في_السعودية",
+      "updated": "2026-11",
+      "size": 5059,
+      "files": {
+        "csv": {
+          "name": "ar-kulliyat-altib-alsaudia_AR.csv",
+          "size": 2245
+        },
+        "xlsx": {
+          "name": "ar-kulliyat-altib-alsaudia_AR.xlsx",
+          "size": 7530
         }
       }
     },
