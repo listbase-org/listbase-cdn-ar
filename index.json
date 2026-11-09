@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-06T02:19:35.040Z",
-  "total_datasets": 505,
-  "total_records": 152173,
+  "generated": "2026-11-09T02:19:38.922Z",
+  "total_datasets": 506,
+  "total_records": 152188,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -9184,6 +9184,33 @@
         "xlsx": {
           "name": "ar-alkhulafa-alabbasiyyun_AR.xlsx",
           "size": 12260
+        }
+      }
+    },
+    {
+      "id": "ar-alkhulafa-alfatimiyyun",
+      "name": "قائمة الخلفاء الفاطميين",
+      "category": "history",
+      "record_count": 15,
+      "columns": [
+        "raqm",
+        "laqab",
+        "kunya",
+        "ism",
+        "nasab",
+        "fatrat_alhukm"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الخلفاء_الفاطميين",
+      "updated": "2026-11",
+      "size": 9530,
+      "files": {
+        "csv": {
+          "name": "ar-alkhulafa-alfatimiyyun_AR.csv",
+          "size": 5995
+        },
+        "xlsx": {
+          "name": "ar-alkhulafa-alfatimiyyun_AR.xlsx",
+          "size": 8264
         }
       }
     },
