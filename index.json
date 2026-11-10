@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:31:49.973Z",
-  "total_datasets": 515,
-  "total_records": 152583,
+  "generated": "2026-11-10T02:32:02.132Z",
+  "total_datasets": 516,
+  "total_records": 152623,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3209,6 +3209,31 @@
         "xlsx": {
           "name": "ar-alhalawiyat-alarabiya_AR.xlsx",
           "size": 18524
+        }
+      }
+    },
+    {
+      "id": "ar-almakulat-alfilastiniya",
+      "name": "المأكولات الفلسطينية",
+      "category": "food",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "section",
+        "description",
+        "regions"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المأكولات_الفلسطينية",
+      "updated": "2026-11",
+      "size": 19785,
+      "files": {
+        "csv": {
+          "name": "ar-almakulat-alfilastiniya_AR.csv",
+          "size": 14660
+        },
+        "xlsx": {
+          "name": "ar-almakulat-alfilastiniya_AR.xlsx",
+          "size": 11542
         }
       }
     },
