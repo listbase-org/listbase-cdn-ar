@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:15:47.046Z",
-  "total_datasets": 514,
-  "total_records": 152520,
+  "generated": "2026-11-10T02:31:49.973Z",
+  "total_datasets": 515,
+  "total_records": 152583,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3160,6 +3160,31 @@
         "xlsx": {
           "name": "ar-alatbaq-alarabiya_AR.xlsx",
           "size": 10337
+        }
+      }
+    },
+    {
+      "id": "ar-alatbaq-almaghribiya",
+      "name": "الأطباق المغربية",
+      "category": "food",
+      "record_count": 63,
+      "columns": [
+        "name",
+        "type",
+        "section",
+        "description"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأطباق_المغربية",
+      "updated": "2026-11",
+      "size": 21834,
+      "files": {
+        "csv": {
+          "name": "ar-alatbaq-almaghribiya_AR.csv",
+          "size": 15065
+        },
+        "xlsx": {
+          "name": "ar-alatbaq-almaghribiya_AR.xlsx",
+          "size": 11771
         }
       }
     },
