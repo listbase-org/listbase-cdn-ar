@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:32:14.201Z",
-  "total_datasets": 517,
-  "total_records": 152784,
+  "generated": "2026-11-10T02:32:24.625Z",
+  "total_datasets": 518,
+  "total_records": 153021,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -9178,6 +9178,32 @@
         "xlsx": {
           "name": "ar-kulliyat-altib-alsaudia_AR.xlsx",
           "size": 7530
+        }
+      }
+    },
+    {
+      "id": "ar-mustashfayat-aliraq",
+      "name": "مستشفيات العراق",
+      "category": "health",
+      "record_count": 237,
+      "columns": [
+        "hospital",
+        "governorate",
+        "opened",
+        "location",
+        "beds"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مستشفيات_العراق",
+      "updated": "2026-11",
+      "size": 44417,
+      "files": {
+        "csv": {
+          "name": "ar-mustashfayat-aliraq_AR.csv",
+          "size": 18227
+        },
+        "xlsx": {
+          "name": "ar-mustashfayat-aliraq_AR.xlsx",
+          "size": 14951
         }
       }
     },

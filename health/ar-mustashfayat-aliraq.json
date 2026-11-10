@@ -1,0 +1,1710 @@
+{
+  "id": "ar-mustashfayat-aliraq",
+  "name": "مستشفيات العراق",
+  "title": "مستشفيات العراق",
+  "description": "قائمة المستشفيات في العراق موزعة حسب المحافظات مع سنة الافتتاح والموقع والسعة السريرية.",
+  "category": "health",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_مستشفيات_العراق",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_مستشفيات_العراق",
+  "updated": "2026-11",
+  "record_count": 237,
+  "columns": [
+    {
+      "key": "hospital",
+      "label": "Hospital",
+      "type": "string"
+    },
+    {
+      "key": "governorate",
+      "label": "Governorate",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "beds",
+      "label": "Beds",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hospital": "مستشفى الرشاد",
+      "governorate": "بغداد",
+      "opened": 1950,
+      "location": "الشماعية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن زهر",
+      "governorate": "بغداد",
+      "opened": 1951,
+      "location": "جسر ديالى",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النعمان العام",
+      "governorate": "بغداد",
+      "opened": 1955,
+      "location": "الأعظمية",
+      "beds": "240 سرير"
+    },
+    {
+      "hospital": "مستشفى ابن الخطيب",
+      "governorate": "بغداد",
+      "opened": 1962,
+      "location": "التويثة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى اليرموك التعليمي",
+      "governorate": "بغداد",
+      "opened": 1964,
+      "location": "اليرموك",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن سينا",
+      "governorate": "بغداد",
+      "opened": 1964,
+      "location": "المنطقة الخضراء",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العلوية للولادة",
+      "governorate": "بغداد",
+      "opened": 1969,
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الإشعاع والطب النووي",
+      "governorate": "بغداد",
+      "opened": 1969,
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن النفيس",
+      "governorate": "بغداد",
+      "opened": 1973,
+      "location": "الكرادة",
+      "beds": "287 سرير"
+    },
+    {
+      "hospital": "مستشفى الجوادر",
+      "governorate": "بغداد",
+      "opened": 1973,
+      "location": "مدينة الصدر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكندي التعليمي",
+      "governorate": "بغداد",
+      "opened": 1976,
+      "location": "النهضة",
+      "beds": "370 سرير"
+    },
+    {
+      "hospital": "مستشفى أطفال العلوية",
+      "governorate": "بغداد",
+      "opened": 1978,
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن القف",
+      "governorate": "بغداد",
+      "opened": 1982,
+      "location": "البلديات",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن البلدي للأطفال والنسائية",
+      "governorate": "بغداد",
+      "opened": 1983,
+      "location": "مدينة الصدر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى فاطمة الزهراء للنسائية والأطفال",
+      "governorate": "بغداد",
+      "opened": 1984,
+      "location": "الحبيبية",
+      "beds": "125 سرير"
+    },
+    {
+      "hospital": "مستشفى ابن الهيثم للعيون",
+      "governorate": "بغداد",
+      "opened": 1985,
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العلوم العصبية",
+      "governorate": "بغداد",
+      "opened": 1997,
+      "location": "صدر القناة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزعفرانية",
+      "governorate": "بغداد",
+      "opened": 2001,
+      "location": "الزعفرانية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحروق التخصصي",
+      "governorate": "بغداد",
+      "opened": 2010,
+      "location": "مدينة الطب",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الأندلس التخصصي",
+      "governorate": "بغداد",
+      "opened": 2018,
+      "location": "",
+      "beds": "100 سرير"
+    },
+    {
+      "hospital": "مستشفى العطاء",
+      "governorate": "بغداد",
+      "opened": 2020,
+      "location": "مدينة الصدر",
+      "beds": "325 سرير"
+    },
+    {
+      "hospital": "مستشفى الأندلس التخصصي للأورام",
+      "governorate": "بغداد",
+      "opened": 2020,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسين العسكري",
+      "governorate": "بغداد",
+      "opened": 2022,
+      "location": "الكرادة",
+      "beds": "466 سرير"
+    },
+    {
+      "hospital": "مستشفى السلامة الألماني",
+      "governorate": "بغداد",
+      "opened": 2022,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشعب العام",
+      "governorate": "بغداد",
+      "opened": 2024,
+      "location": "الشعب",
+      "beds": "246 سرير"
+    },
+    {
+      "hospital": "المستشفى العراقي الكوري التخصصي",
+      "governorate": "بغداد",
+      "opened": 2024,
+      "location": "",
+      "beds": "74 سرير"
+    },
+    {
+      "hospital": "مستشفى قوى الأمن الداخلي",
+      "governorate": "بغداد",
+      "opened": 2025,
+      "location": "باب الشرقي",
+      "beds": "126 سرير"
+    },
+    {
+      "hospital": "مستشفى الفضيلية العام",
+      "governorate": "بغداد",
+      "opened": 2025,
+      "location": "الفضيلية",
+      "beds": "246 سرير"
+    },
+    {
+      "hospital": "مستشفى الطفل المركزي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "مستشفى الكرخ العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكرخ للولادة",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكرامة التعليمي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن البيطار لجراحة القلب",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الأطفال في الإسكان",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى أبي غريب العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الفرات العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المحمودية العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الطارمية العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى أطفال الكاظمية",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكاظمية التعليمي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحكيم الشعلة",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشيخ زايد",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كمال السامرائي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشيخ ضاري الفياض",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "بوب الشام",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المدائن",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "المدائن",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الصدر العام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الصدر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى جراحة الجملة العصبية التعليمي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العلاج الطبيعي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "سبع أبكار",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى التمريض الخاص",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": "289 سرير"
+    },
+    {
+      "hospital": "مستشفى بغداد التعليمي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الجراحات التخصصية",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الأمل الوطني لعلاج الأورام",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "الكرادة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الجهاز الهضمي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى حماية الأطفال",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الطب",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بغداد التعليمي الأسترالي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "مدينة الصدر",
+      "beds": "492 سرير"
+    },
+    {
+      "hospital": "مستشفى الألماني",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "الكرادة",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "مستشفى الحرية",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "حي الحرية",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "مستشفى النهروان",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "النهروان",
+      "beds": "200 سرير"
+    },
+    {
+      "hospital": "مستشفى المعامل",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "المعامل",
+      "beds": "127 سرير"
+    },
+    {
+      "hospital": "مستشفى الحسينية",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "الحسينية",
+      "beds": "200 سرير"
+    },
+    {
+      "hospital": "مستشفى الطب الرياضي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "زيونة",
+      "beds": "50 سرير"
+    },
+    {
+      "hospital": "مستشفى الجامعي",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "",
+      "beds": "600 سرير"
+    },
+    {
+      "hospital": "مستشفى سبع البور",
+      "governorate": "بغداد",
+      "opened": "",
+      "location": "سبع البور",
+      "beds": "50 سرير"
+    },
+    {
+      "hospital": "مستشفى البصرة العام",
+      "governorate": "البصرة",
+      "opened": 1924,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى القرنة العام",
+      "governorate": "البصرة",
+      "opened": 1950,
+      "location": "القرنة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابي الخصيب العام",
+      "governorate": "البصرة",
+      "opened": 1957,
+      "location": "أبو الخصيب",
+      "beds": "48 سرير"
+    },
+    {
+      "hospital": "مستشفى الفيحاء العام",
+      "governorate": "البصرة",
+      "opened": 1962,
+      "location": "نواب الضباط",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "مستشفى الموانئ العام",
+      "governorate": "البصرة",
+      "opened": 1964,
+      "location": "ميناء المعقل",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "مستشفى النسائية والاطفال",
+      "governorate": "البصرة",
+      "opened": 1965,
+      "location": "",
+      "beds": "414 سرير"
+    },
+    {
+      "hospital": "مستشفى أم قصر العام",
+      "governorate": "البصرة",
+      "opened": 1971,
+      "location": "أم قصر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشفاء العام",
+      "governorate": "البصرة",
+      "opened": 1972,
+      "location": "جبيلة",
+      "beds": "186 سرير"
+    },
+    {
+      "hospital": "مستشفى المدينة العام",
+      "governorate": "البصرة",
+      "opened": 1979,
+      "location": "قضاء المدينة",
+      "beds": "50 سرير"
+    },
+    {
+      "hospital": "مستشفى الفاو العام",
+      "governorate": "البصرة",
+      "opened": 1989,
+      "location": "الفاو",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الطفل التخصصي",
+      "governorate": "البصرة",
+      "opened": 2009,
+      "location": "حي الجامعة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى السياب",
+      "governorate": "البصرة",
+      "opened": 2022,
+      "location": "طريق عبدالله عويس",
+      "beds": "400 سرير"
+    },
+    {
+      "hospital": "المستشفى الكويتي الجراحي",
+      "governorate": "البصرة",
+      "opened": 2024,
+      "location": "",
+      "beds": "250 سرير"
+    },
+    {
+      "hospital": "مستشفى البصرة الجامعي",
+      "governorate": "البصرة",
+      "opened": 2025,
+      "location": "",
+      "beds": "446 سرير"
+    },
+    {
+      "hospital": "مستشفى الصدر التعليمي",
+      "governorate": "البصرة",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزبير العام",
+      "governorate": "البصرة",
+      "opened": "",
+      "location": "قضاء الزبير",
+      "beds": "160 سرير"
+    },
+    {
+      "hospital": "مستشفى الجمهوري التعليمي",
+      "governorate": "نينوى",
+      "opened": 1934,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن الأثير للأطفال",
+      "governorate": "نينوى",
+      "opened": 1958,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى السلام",
+      "governorate": "نينوى",
+      "opened": 1985,
+      "location": "حي الوحدة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الموصل العام",
+      "governorate": "نينوى",
+      "opened": 2003,
+      "location": "وادي حجر",
+      "beds": "270"
+    },
+    {
+      "hospital": "مركز الموصل لطب وجراحة القلب",
+      "governorate": "نينوى",
+      "opened": 2020,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن سينا",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الأورام",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى البتول",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الخنساء للنسائية والتوليد",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشفاء",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى سنجار",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "سنجار",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحمدانية",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "الحمدانية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى تلعفر",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "تلعفر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشيخان",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "شيخان",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى البعاج",
+      "governorate": "نينوى",
+      "opened": "",
+      "location": "البعاج",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كركوك العام",
+      "governorate": "كركوك",
+      "opened": "1950s",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى آزادي التعليمي",
+      "governorate": "كركوك",
+      "opened": 1985,
+      "location": "",
+      "beds": "400"
+    },
+    {
+      "hospital": "مستشفى الحويجة العام",
+      "governorate": "كركوك",
+      "opened": 1966,
+      "location": "الحويجة",
+      "beds": "90"
+    },
+    {
+      "hospital": "مستشفى الأطفال",
+      "governorate": "كركوك",
+      "opened": 1973,
+      "location": "",
+      "beds": "120"
+    },
+    {
+      "hospital": "مستشفى الولادة والأمراض النسائية",
+      "governorate": "كركوك",
+      "opened": 2019,
+      "location": "حي النصر",
+      "beds": "156"
+    },
+    {
+      "hospital": "مستشفى داقوق العام",
+      "governorate": "كركوك",
+      "opened": "",
+      "location": "داقوق",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الجراحات التخصصية",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى سامراء العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بلد العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى تكريت التعليمي",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الدجيل للطوارئ والولادة",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى صلاح الدين التعليمي",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الدور الجراحي",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الضلوعية العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بيجي العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العلم العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشرقاط العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الطوز العام",
+      "governorate": "صلاح الدين",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى البتول للولادة",
+      "governorate": "ديالى",
+      "opened": 1980,
+      "location": "بعقوبة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى السعدية العام",
+      "governorate": "ديالى",
+      "opened": 2005,
+      "location": "السعدية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بلدروز العام",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "بلدروز",
+      "beds": "90 سرير"
+    },
+    {
+      "hospital": "مستشفى بعقوبة التعليمي",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "بعقوبة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المقدادية العام",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "المقدادية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزهراء للنسائية والأطفال",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى جلولاء العام",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "جلولاء",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الخالص العام",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "الخالص",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العراق الجديد",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى خانقين العام",
+      "governorate": "ديالى",
+      "opened": "",
+      "location": "خانقين",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الرمادي العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "الرمادي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النسائية والأطفال العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العامرية العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "عامرية الفلوجة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الفلوجة العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "الفلوجة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى هيت العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "هيت",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى حديثة العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "حديثة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى عانة العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "مدينة عانة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى راوة العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "راوة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى القائم العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "القائم",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشفاء",
+      "governorate": "الأنبار",
+      "opened": 2021,
+      "location": "الرمادي",
+      "beds": "170"
+    },
+    {
+      "hospital": "مستشفى العبيدي العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "ناحية العبيدي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكرمة للولادة والطوارئ",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "قضاء الكرمة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الرطبة العام",
+      "governorate": "الأنبار",
+      "opened": "",
+      "location": "الرطبة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الهاشمية العام",
+      "governorate": "بابل",
+      "opened": 1972,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحلة التعليمي العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بابل للنسائية والأطفال",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى مرجان التعليمي",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النور للأطفال",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الإمام الصادق التعليمي",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكفل العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشوملي العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى القاسم العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المحاويل العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الإمام علي العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الإسكندرية العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المسيب العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ابن سيف للأطفال",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزهراء للنسائية والتوليد",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المدحتية العام",
+      "governorate": "بابل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى جبلة العام",
+      "governorate": "بابل",
+      "opened": 2008,
+      "location": "",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى الكرامة التعليمي",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "الكوت",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العزيزية العام",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزهراء التعليمي",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الكوت للنسائية والأطفال",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحاج جلال للنسائية والأطفال",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "النعمانية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النعمانية العام",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشهيد فيروز",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "قضاء الحي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الصويرة العام",
+      "governorate": "واسط",
+      "opened": "",
+      "location": "الصويرة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى عين التمر العام",
+      "governorate": "كربلاء",
+      "opened": "",
+      "location": "عين التمر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الهندية العام",
+      "governorate": "كربلاء",
+      "opened": "",
+      "location": "مدينة الهندية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النسائية والتوليد التعليمي",
+      "governorate": "كربلاء",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كربلاء التعليمي للأطفال",
+      "governorate": "كربلاء",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسين التعليمي",
+      "governorate": "كربلاء",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسينية العام",
+      "governorate": "كربلاء",
+      "opened": 2015,
+      "location": "",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى الحسن العام",
+      "governorate": "كربلاء",
+      "opened": 2020,
+      "location": "",
+      "beds": "492"
+    },
+    {
+      "hospital": "مستشفى الكفيل",
+      "governorate": "كربلاء",
+      "opened": 2015,
+      "location": "",
+      "beds": "200"
+    },
+    {
+      "hospital": "مستشفى زين العابدين",
+      "governorate": "كربلاء",
+      "opened": 2016,
+      "location": "",
+      "beds": "120"
+    },
+    {
+      "hospital": "مستشفى الامام الحجة",
+      "governorate": "كربلاء",
+      "opened": 2018,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الفرات الأوسط",
+      "governorate": "النجف",
+      "opened": "1940s",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحكيم العام",
+      "governorate": "النجف",
+      "opened": 1966,
+      "location": "حي الصحة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المناذرة العام",
+      "governorate": "النجف",
+      "opened": 1973,
+      "location": "قضاء المناذرة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزهراء التعليمي للولادة والأطفال",
+      "governorate": "النجف",
+      "opened": "",
+      "location": "حي الاشتراكي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الإمام السجاد",
+      "governorate": "النجف",
+      "opened": "",
+      "location": "ناحية العباسية",
+      "beds": ""
+    },
+    {
+      "hospital": "مدينة الصدر الطبية",
+      "governorate": "النجف",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحيدرية العام",
+      "governorate": "النجف",
+      "opened": 2009,
+      "location": "ناحية الحيدرية",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى أمير المؤمنين",
+      "governorate": "النجف",
+      "opened": 2017,
+      "location": "",
+      "beds": "110"
+    },
+    {
+      "hospital": "مستشفى ناحية القادسية",
+      "governorate": "النجف",
+      "opened": 2018,
+      "location": "ناحية القادسية",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى قضاء المشخاب",
+      "governorate": "النجف",
+      "opened": 2020,
+      "location": "المشخاب",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى النجف العام",
+      "governorate": "النجف",
+      "opened": 2021,
+      "location": "حي العروبة",
+      "beds": "496"
+    },
+    {
+      "hospital": "مستشفى الإمام علي",
+      "governorate": "النجف",
+      "opened": 2022,
+      "location": "",
+      "beds": "220"
+    },
+    {
+      "hospital": "مستشفى الحرية",
+      "governorate": "النجف",
+      "opened": 2023,
+      "location": "ناحية الحرية",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى الحياة للأمراض النفسية",
+      "governorate": "القادسية",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى عفك العام",
+      "governorate": "القادسية",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الديوانية التعليمي",
+      "governorate": "القادسية",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحروق",
+      "governorate": "القادسية",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسين للأطفال",
+      "governorate": "القادسية",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحبوبي العام",
+      "governorate": "ذي قار",
+      "opened": 1932,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسين التعليمي",
+      "governorate": "ذي قار",
+      "opened": 1983,
+      "location": "",
+      "beds": "400"
+    },
+    {
+      "hospital": "مستشفى بنت الهدى التعليمي",
+      "governorate": "ذي قار",
+      "opened": 1985,
+      "location": "صوب الشامية",
+      "beds": ""
+    },
+    {
+      "hospital": "مركز الناصرية للقلب",
+      "governorate": "ذي قار",
+      "opened": 2007,
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الشطرة العام",
+      "governorate": "ذي قار",
+      "opened": "",
+      "location": "الشطرة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الرفاعي",
+      "governorate": "ذي قار",
+      "opened": "",
+      "location": "الرفاعي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الجبايش",
+      "governorate": "ذي قار",
+      "opened": "",
+      "location": "الجبايش",
+      "beds": ""
+    },
+    {
+      "hospital": "المستشفى التركي",
+      "governorate": "ذي قار",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الاورام السرطانية",
+      "governorate": "ذي قار",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى البطحاء",
+      "governorate": "ذي قار",
+      "opened": 2024,
+      "location": "",
+      "beds": "50"
+    },
+    {
+      "hospital": "مستشفى جامعة العين التعليمي",
+      "governorate": "ذي قار",
+      "opened": 2022,
+      "location": "",
+      "beds": "200"
+    },
+    {
+      "hospital": "مستشفى الخضر العام",
+      "governorate": "المثنى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الرميثة العام",
+      "governorate": "المثنى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحسين التعليمي",
+      "governorate": "المثنى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى النسائية والأطفال التعليمي",
+      "governorate": "المثنى",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الصدر العام",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "العمارة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الزهراوي",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى علي الغربي العام",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "علي الغربي",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى المجر العام",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "المجر",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الميمونة",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "الميمونة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى قلعة صالح",
+      "governorate": "ميسان",
+      "opened": "",
+      "location": "قلعة صالح",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى ميسان للطفل والولادة",
+      "governorate": "ميسان",
+      "opened": 2016,
+      "location": "",
+      "beds": "260"
+    },
+    {
+      "hospital": "مستشفى شقلاوة العام",
+      "governorate": "أربيل",
+      "opened": 1958,
+      "location": "شقلاوة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الطوارئ المركزي",
+      "governorate": "أربيل",
+      "opened": "",
+      "location": "أربيل",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى رزكاري",
+      "governorate": "أربيل",
+      "opened": "",
+      "location": "اربيل",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى نانكلي",
+      "governorate": "أربيل",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى طوارئ غرب أربيل",
+      "governorate": "أربيل",
+      "opened": 2010,
+      "location": "أربيل",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى بحركة التخصصي",
+      "governorate": "أربيل",
+      "opened": 2023,
+      "location": "اربيل",
+      "beds": "38"
+    },
+    {
+      "hospital": "مستشفى الطوارئ في السليمانية",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "السليمانية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى حلبجة",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "حلبجة",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى جمجمال",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "جمجمال",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى رانية العام",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "رانية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كلار العام",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "كلار",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى دربندخان",
+      "governorate": "السليمانية",
+      "opened": "",
+      "location": "دربندخان",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى اصدقاء الطفولة",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "العمادية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى روزانا العام",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "العمادية",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى زاخو العام",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "زاخو",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الطوارئ",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "دهوك",
+      "beds": ""
+    },
+    {
+      "hospital": "مركز الامراض النفسية",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "دهوك",
+      "beds": ""
+    },
+    {
+      "hospital": "مركز جراحة القلب",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "دهوك",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى آزادي التعليمي",
+      "governorate": "دهوك",
+      "opened": 1984,
+      "location": "",
+      "beds": "490"
+    },
+    {
+      "hospital": "مستشفى سرسنك",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى الحروق والجراحة التجميلية",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كلكجي",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "شيخان",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى كولان الجديد",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "آكري",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى العمادية",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى عقرة",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى هيفي للأطفال",
+      "governorate": "دهوك",
+      "opened": "",
+      "location": "",
+      "beds": ""
+    },
+    {
+      "hospital": "مستشفى شورش هيتيت",
+      "governorate": "دهوك",
+      "opened": 2025,
+      "location": "ديرالوك",
+      "beds": "100 سرير"
+    }
+  ],
+  "meta": {
+    "title": "مستشفيات العراق - Free Download",
+    "description": "قائمة المستشفيات في العراق موزعة حسب المحافظات مع سنة الافتتاح والموقع والسعة السريرية. Contains 237 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مستشفيات العراق | ListBase",
+    "seo_description": "Download مستشفيات العراق — 237 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 237 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_مستشفيات_العراق"
+    ]
+  }
+}
