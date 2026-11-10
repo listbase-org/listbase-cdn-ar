@@ -1,0 +1,219 @@
+{
+  "id": "ar-wuzara-aladl-aljazair",
+  "name": "وزراء العدل في الجزائر",
+  "title": "وزراء العدل في الجزائر",
+  "description": "قائمة وزراء العدل (حافظي الأختام) في الجزائر منذ الاستقلال سنة 1962 مع فترات الخدمة والحكومات.",
+  "category": "law",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(الجزائر)",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(الجزائر)",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from_date",
+      "label": "From Date",
+      "type": "string"
+    },
+    {
+      "key": "to_date",
+      "label": "To Date",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": 1,
+      "name": "عمار بن تومي",
+      "from_date": "27 سبتمبر 1962",
+      "to_date": "18 سبتمبر 1963",
+      "government": "حكومة بن بلة الأولى"
+    },
+    {
+      "number": 2,
+      "name": "محمد الهادي حاج سماعين",
+      "from_date": "18 سبتمبر 1963",
+      "to_date": "2 ديسمبر 1964",
+      "government": ""
+    },
+    {
+      "number": 3,
+      "name": "محمد بجاوي",
+      "from_date": "2 ديسمبر 1964",
+      "to_date": "21 يوليو 1970",
+      "government": ""
+    },
+    {
+      "number": 4,
+      "name": "بوعلام بن حمودة",
+      "from_date": "21 يوليو 1970",
+      "to_date": "23 أبريل 1977",
+      "government": ""
+    },
+    {
+      "number": 5,
+      "name": "عبد المالك بن حبيلس",
+      "from_date": "23 أبريل 1977",
+      "to_date": "8 مارس 1979",
+      "government": ""
+    },
+    {
+      "number": 6,
+      "name": "لحسن سوفي",
+      "from_date": "8 مارس 1979",
+      "to_date": "15 يوليو 1980",
+      "government": ""
+    },
+    {
+      "number": 7,
+      "name": "بوعلام باقي",
+      "from_date": "15 يوليو 1980",
+      "to_date": "18 فبراير 1986",
+      "government": ""
+    },
+    {
+      "number": 8,
+      "name": "محمد شريف خروبي",
+      "from_date": "18 فبراير 1986",
+      "to_date": "5 نوفمبر 1988",
+      "government": ""
+    },
+    {
+      "number": 9,
+      "name": "علي بن فليس",
+      "from_date": "5 نوفمبر 1988",
+      "to_date": "21 يوليو 1991",
+      "government": "حكومة مرباح حكومة حمروش الأولى حكومة حمروش الثانية حكومة غزالي الأولى"
+    },
+    {
+      "number": 10,
+      "name": "حمداني بن خليل",
+      "from_date": "21 يوليو 1991",
+      "to_date": "19 يوليو 1992",
+      "government": ""
+    },
+    {
+      "number": 11,
+      "name": "عبد الحميد ماحي باهي",
+      "from_date": "19 يوليو 1992",
+      "to_date": "17 نوفمبر 1992",
+      "government": ""
+    },
+    {
+      "number": 12,
+      "name": "محمد تقية",
+      "from_date": "17 نوفمبر 1992",
+      "to_date": "7 مارس 1995",
+      "government": ""
+    },
+    {
+      "number": 13,
+      "name": "محمد أدمي",
+      "from_date": "7 مارس 1995",
+      "to_date": "18 أكتوبر 1998",
+      "government": ""
+    },
+    {
+      "number": 14,
+      "name": "مكامشة الغوثي",
+      "from_date": "15 ديسمبر 1998",
+      "to_date": "23 ديسمبر 1999",
+      "government": "حكومة حمداني"
+    },
+    {
+      "number": 15,
+      "name": "أحمد أويحيى",
+      "from_date": "23 ديسمبر 1999",
+      "to_date": "4 يونيو 2002",
+      "government": "حكومة بن بيتور حكومة بن فليس الأولى حكومة بن فليس الثانية"
+    },
+    {
+      "number": 16,
+      "name": "محمد شرفي",
+      "from_date": "4 يونيو 2002",
+      "to_date": "6 سبتمبر 2003",
+      "government": ""
+    },
+    {
+      "number": 17,
+      "name": "الطيب بلعيز",
+      "from_date": "6 سبتمبر 2003",
+      "to_date": "4 أبريل 2012",
+      "government": "حكومة سلال الثانية حكومة سلال الثالثة"
+    },
+    {
+      "number": 18,
+      "name": "أحمد نوي (بالنيابة)",
+      "from_date": "4 أبريل 2012",
+      "to_date": "3 سبتمبر 2012",
+      "government": ""
+    },
+    {
+      "number": 19,
+      "name": "محمد شرفي",
+      "from_date": "3 سبتمبر 2012",
+      "to_date": "11 سبتمبر 2013",
+      "government": "حكومة سلال الأولى"
+    },
+    {
+      "number": 20,
+      "name": "الطيب لوح",
+      "from_date": "11 سبتمبر 2013",
+      "to_date": "1 أبريل 2019",
+      "government": "حكومة سلال الأولى حكومة سلال الثانية حكومة سلال الثالثة حكومة سلال الرابعة حكومة سلال الخامسة حكومة تبون حكومة أويحيى العاشرة"
+    },
+    {
+      "number": 21,
+      "name": "سليمان براهمي",
+      "from_date": "1 أبريل 2019",
+      "to_date": "31 يوليو 2019",
+      "government": "حكومة بدوي"
+    },
+    {
+      "number": 22,
+      "name": "بلقاسم زغماتي",
+      "from_date": "31 يوليو 2019",
+      "to_date": "07 يوليو 2021",
+      "government": "حكومة بدوي حكومة جراد الأولى حكومة جراد الثانية"
+    },
+    {
+      "number": 23,
+      "name": "عبد الرشيد طبي",
+      "from_date": "07 يوليو 2021",
+      "to_date": "إلى اليوم",
+      "government": "حكومة بن عبد الرحمان"
+    },
+    {
+      "number": "المصدر: وزارة العدل",
+      "name": "المصدر: وزارة العدل",
+      "from_date": "المصدر: وزارة العدل",
+      "to_date": "المصدر: وزارة العدل",
+      "government": "المصدر: وزارة العدل"
+    }
+  ],
+  "meta": {
+    "title": "وزراء العدل في الجزائر - Free Download",
+    "description": "قائمة وزراء العدل (حافظي الأختام) في الجزائر منذ الاستقلال سنة 1962 مع فترات الخدمة والحكومات. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "وزراء العدل في الجزائر | ListBase",
+    "seo_description": "Download وزراء العدل في الجزائر — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(الجزائر)"
+    ]
+  }
+}

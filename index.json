@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:15:34.693Z",
-  "total_datasets": 513,
-  "total_records": 152496,
+  "generated": "2026-11-10T02:15:47.046Z",
+  "total_datasets": 514,
+  "total_records": 152520,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -9633,6 +9633,32 @@
         "xlsx": {
           "name": "ar-wuzara-aladl-aliraq_AR.xlsx",
           "size": 11960
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-aladl-aljazair",
+      "name": "وزراء العدل في الجزائر",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "number",
+        "name",
+        "from_date",
+        "to_date",
+        "government"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(الجزائر)",
+      "updated": "2026-11",
+      "size": 7014,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-aladl-aljazair_AR.csv",
+          "size": 2789
+        },
+        "xlsx": {
+          "name": "ar-wuzara-aladl-aljazair_AR.xlsx",
+          "size": 8030
         }
       }
     },
