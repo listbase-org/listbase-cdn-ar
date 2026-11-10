@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:32:02.132Z",
-  "total_datasets": 516,
-  "total_records": 152623,
+  "generated": "2026-11-10T02:32:14.201Z",
+  "total_datasets": 517,
+  "total_records": 152784,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -9079,6 +9079,35 @@
         "xlsx": {
           "name": "ar-yanabi-harra_AR.xlsx",
           "size": 7629
+        }
+      }
+    },
+    {
+      "id": "ar-almustashfayat-aljamiiya-misr",
+      "name": "المستشفيات الجامعية في مصر",
+      "category": "health",
+      "record_count": 161,
+      "columns": [
+        "hospital",
+        "university",
+        "owner",
+        "location",
+        "region",
+        "area",
+        "capacity",
+        "about"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المستشفيات_الجامعية_(مصر)",
+      "updated": "2026-11",
+      "size": 90369,
+      "files": {
+        "csv": {
+          "name": "ar-almustashfayat-aljamiiya-misr_AR.csv",
+          "size": 63404
+        },
+        "xlsx": {
+          "name": "ar-almustashfayat-aljamiiya-misr_AR.xlsx",
+          "size": 23617
         }
       }
     },
