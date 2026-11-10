@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:15:23.879Z",
-  "total_datasets": 512,
-  "total_records": 152394,
+  "generated": "2026-11-10T02:15:34.693Z",
+  "total_datasets": 513,
+  "total_records": 152496,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -9605,6 +9605,34 @@
         "xlsx": {
           "name": "ar-wathaiq-dusturiya-misr_AR.xlsx",
           "size": 14115
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-aladl-aliraq",
+      "name": "وزراء العدل في العراق",
+      "category": "law",
+      "record_count": 102,
+      "columns": [
+        "number",
+        "minister",
+        "start",
+        "end",
+        "prime_minister",
+        "head_of_state",
+        "era"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_العدل_(العراق)",
+      "updated": "2026-11",
+      "size": 32992,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-aladl-aliraq_AR.csv",
+          "size": 16889
+        },
+        "xlsx": {
+          "name": "ar-wuzara-aladl-aliraq_AR.xlsx",
+          "size": 11960
         }
       }
     },
