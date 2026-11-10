@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:15:12.048Z",
-  "total_datasets": 511,
-  "total_records": 152347,
+  "generated": "2026-11-10T02:15:23.879Z",
+  "total_datasets": 512,
+  "total_records": 152394,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -12492,6 +12492,36 @@
         "xlsx": {
           "name": "ar-buldan-emoji-aalam_AR.xlsx",
           "size": 15937
+        }
+      }
+    },
+    {
+      "id": "ar-mahattat-tahliyat-almiyah-alsaudia",
+      "name": "محطات تحلية المياه في السعودية",
+      "category": "tech",
+      "record_count": 47,
+      "columns": [
+        "rank",
+        "plant",
+        "phase",
+        "commissioned",
+        "process",
+        "water_m3_per_day",
+        "power_mw",
+        "owner",
+        "cities_served"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_محطات_تحلية_المياه_في_السعودية",
+      "updated": "2026-11",
+      "size": 20463,
+      "files": {
+        "csv": {
+          "name": "ar-mahattat-tahliyat-almiyah-alsaudia_AR.csv",
+          "size": 9408
+        },
+        "xlsx": {
+          "name": "ar-mahattat-tahliyat-almiyah-alsaudia_AR.xlsx",
+          "size": 10526
         }
       }
     },

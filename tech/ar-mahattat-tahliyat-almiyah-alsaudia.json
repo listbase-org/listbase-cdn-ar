@@ -1,0 +1,588 @@
+{
+  "id": "ar-mahattat-tahliyat-almiyah-alsaudia",
+  "name": "محطات تحلية المياه في السعودية",
+  "title": "محطات تحلية المياه في السعودية",
+  "description": "قائمة محطات تحلية المياه العاملة في المملكة العربية السعودية مع المرحلة وتاريخ التشغيل وتقنية التحلية والإنتاج اليومي من المياه والكهرباء والمدن المستفيدة.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_محطات_تحلية_المياه_في_السعودية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_محطات_تحلية_المياه_في_السعودية",
+  "updated": "2026-11",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "plant",
+      "label": "Plant",
+      "type": "string"
+    },
+    {
+      "key": "phase",
+      "label": "Phase",
+      "type": "string"
+    },
+    {
+      "key": "commissioned",
+      "label": "Commissioned",
+      "type": "string"
+    },
+    {
+      "key": "process",
+      "label": "Process",
+      "type": "string"
+    },
+    {
+      "key": "water_m3_per_day",
+      "label": "Water M3 Per Day",
+      "type": "number"
+    },
+    {
+      "key": "power_mw",
+      "label": "Power Mw",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "cities_served",
+      "label": "Cities Served",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "plant": "محطة جدة",
+      "phase": "الرابعة",
+      "commissioned": "1401 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 190555,
+      "power_mw": "500",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جدة"
+    },
+    {
+      "rank": 2,
+      "plant": "محطة جدة",
+      "phase": "ت ع 1",
+      "commissioned": "1409 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 48848,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جدة"
+    },
+    {
+      "rank": 3,
+      "plant": "محطة جدة",
+      "phase": "ت ع 2",
+      "commissioned": "1414 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 48848,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جدة"
+    },
+    {
+      "rank": 4,
+      "plant": "محطة جدة",
+      "phase": "ت ع 3",
+      "commissioned": "1434 هـ /2013م",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 240000,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جدة"
+    },
+    {
+      "rank": 5,
+      "plant": "محطة الشعيبة",
+      "phase": "الأولى",
+      "commissioned": "1409 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 191780,
+      "power_mw": "157",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "مكة المكرمة ، الطائف"
+    },
+    {
+      "rank": 6,
+      "plant": "محطة الشعيبة",
+      "phase": "الثانية",
+      "commissioned": "11 مارس 2003",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 390909,
+      "power_mw": "340",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "مكة المكرمة ، الطائف ، جدة"
+    },
+    {
+      "rank": 7,
+      "plant": "محطة الشعيبة",
+      "phase": "الثالثة",
+      "commissioned": "25 يوليو 2009م",
+      "process": "تبخير وميضي متعدد المراحل",
+      "water_m3_per_day": 880000,
+      "power_mw": "900",
+      "owner": "شركة الشعيبة",
+      "cities_served": "ماء لكل من: مكة المكرمة والمشاعر المقدسة وجدة والطائف والباحة. وطاقة كهربائية تغذي كل من مكة المكرمة والطائف وجدة"
+    },
+    {
+      "rank": 8,
+      "plant": "محطة الشعيبة",
+      "phase": "الرابعة",
+      "commissioned": "28 فبراير 2009م",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 150000,
+      "power_mw": "-",
+      "owner": "شركة الشعيبة",
+      "cities_served": "مخصصة بالكامل لمدينة جدة من خلال عدد 10 قاطرات تحلية بقدرة 15,000 م3 يوميا للقاطرة الواحدة."
+    },
+    {
+      "rank": 9,
+      "plant": "محطة ينبع",
+      "phase": "الأولى",
+      "commissioned": "1401 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 94625,
+      "power_mw": "250",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "المدينة المنورة ، ينبع والقرى المجاورة لها"
+    },
+    {
+      "rank": 10,
+      "plant": "محطة ينبع",
+      "phase": "الثانية",
+      "commissioned": "1420 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 120096,
+      "power_mw": "35",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "المدينة المنورة ، ينبع والقرى المجاورة لها"
+    },
+    {
+      "rank": 11,
+      "plant": "محطة ينبع",
+      "phase": "ت ع",
+      "commissioned": "1420 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 106904,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "المدينة المنورة ، ينبع والقرى المجاورة لها"
+    },
+    {
+      "rank": 12,
+      "plant": "محطة ينبع",
+      "phase": "الثالثة",
+      "commissioned": "تحت الإنشاء",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 550000,
+      "power_mw": "2500",
+      "owner": "",
+      "cities_served": "المدينة المنورة - ينبع البحر - محافظة المهد - الصويدرة - الحناكية"
+    },
+    {
+      "rank": 13,
+      "plant": "محطة الشقيق",
+      "phase": "الأولى",
+      "commissioned": "1409 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 83432,
+      "power_mw": "62",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "أبها ، خميس مشيط ، أحد رفيدة والمدينة العسكرية والمدن و القرى المجاورة لها."
+    },
+    {
+      "rank": 14,
+      "plant": "محطة الشقيق",
+      "phase": "الثانية",
+      "commissioned": "1 ديسمبر 2010م",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 212000,
+      "power_mw": "850",
+      "owner": "شركة الشقيق",
+      "cities_served": "منطقتي جازان وعسير"
+    },
+    {
+      "rank": 15,
+      "plant": "محطة حقل",
+      "phase": "الثانية",
+      "commissioned": "1410 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 3784,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "حقل والقرى المجاورة لها"
+    },
+    {
+      "rank": 16,
+      "plant": "محطة حقل",
+      "phase": "الثالثة",
+      "commissioned": "تحت الإنشاء",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 9000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "محافظة حقل"
+    },
+    {
+      "rank": 17,
+      "plant": "محطة ضبا",
+      "phase": "الثالثة",
+      "commissioned": "1409 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 3784,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "ضبا و القرى المجاورة لها"
+    },
+    {
+      "rank": 18,
+      "plant": "محطة ضبا",
+      "phase": "الرابعة",
+      "commissioned": "تحت الإنشاء",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 9000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "محافظة ضباء"
+    },
+    {
+      "rank": 19,
+      "plant": "محطة الوجه",
+      "phase": "الثالثة",
+      "commissioned": "1430 هـ",
+      "process": "متعدد التأثير (MED)",
+      "water_m3_per_day": 7740,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الوجه و القرى المجاورة لها"
+    },
+    {
+      "rank": 20,
+      "plant": "محطة الوجه",
+      "phase": "الرابعة",
+      "commissioned": "تحت الإنشاء",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 9000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "محافظة الوجه"
+    },
+    {
+      "rank": 21,
+      "plant": "محطة أملج",
+      "phase": "تناضح عكسي",
+      "commissioned": "1406هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 3784,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "أملج"
+    },
+    {
+      "rank": 22,
+      "plant": "محطة أملج",
+      "phase": "الثالثة",
+      "commissioned": "1430هـ",
+      "process": "متعدد التأثير(MED)",
+      "water_m3_per_day": 7740,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "املج والقرى التابعه لها"
+    },
+    {
+      "rank": 23,
+      "plant": "محطة رابغ",
+      "phase": "الثانية",
+      "commissioned": "1430هـ",
+      "process": "متعدد التأثير(MED)",
+      "water_m3_per_day": 15480,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "رابغ ، مستورة ، ثول"
+    },
+    {
+      "rank": 24,
+      "plant": "محطة رابغ",
+      "phase": "الثالثة",
+      "commissioned": "تحت الإنشاء",
+      "process": "",
+      "water_m3_per_day": 20000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "رابغ"
+    },
+    {
+      "rank": 25,
+      "plant": "محطة رابغ",
+      "phase": "الرابعة",
+      "commissioned": "2018 (تحت الإنشاء)",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 600000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "رابغ وجدة ومكة والطائف"
+    },
+    {
+      "rank": 26,
+      "plant": "رأس الخير",
+      "phase": "الأولى",
+      "commissioned": "22 أبريل 2014م",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 1025000,
+      "power_mw": "2,400",
+      "owner": "شركة رأس الزور",
+      "cities_served": "800 ألف م3 للرياض، 100 ألف م3 الوشم وسدير والمجمعة والزلفي والغاط ، والمزاحمية 100 ألف م3 وضرما والقوعية والخرج ، و 100 ألف متر م3 حفر الباطن والقيصومة و الصداوي و قرية العليا والسعيرة والسلمانيه ومحطة النعيرية"
+    },
+    {
+      "rank": 27,
+      "plant": "محطة العزيزية",
+      "phase": "الأولى",
+      "commissioned": "1407 هـ",
+      "process": "إعادة تسخين",
+      "water_m3_per_day": 3870,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جزيرة العزيزية"
+    },
+    {
+      "rank": 28,
+      "plant": "محطة البرك",
+      "phase": "الأولى",
+      "commissioned": "1403 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 1952,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "البرك والقرى المجاورة لها (مشروع سقيا مركز أم البرك عبارة عن محطة تحلية ذاتية تعتمد على سحب مياه الآبار الجوفية وإعادة انتاجها كمياه محلاَّة صالحة للشرب.)"
+    },
+    {
+      "rank": 29,
+      "plant": "محطة فرسان",
+      "phase": "الثانية",
+      "commissioned": "1430 هـ",
+      "process": "متعدد التأثير MED",
+      "water_m3_per_day": 7740,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "جزيرة فرسان"
+    },
+    {
+      "rank": 30,
+      "plant": "محطة القنفذه",
+      "phase": "الأولى",
+      "commissioned": "1429 هـ",
+      "process": "متعدد التأثير MED",
+      "water_m3_per_day": 7740,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "القنفذة - القوز - حلي"
+    },
+    {
+      "rank": 31,
+      "plant": "محطة الليث",
+      "phase": "الأولى",
+      "commissioned": "1430 هـ",
+      "process": "متعدد التأثير MED",
+      "water_m3_per_day": 7740,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الليث"
+    },
+    {
+      "rank": 22,
+      "plant": "محطة الخبر",
+      "phase": "الثانية",
+      "commissioned": "1403 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 191780,
+      "power_mw": "500",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الخبر ، الدمام ، مطار الظهران ، القطيف ، سيهات ، صفوى ، رأس تنورة"
+    },
+    {
+      "rank": 23,
+      "plant": "محطة الخبر",
+      "phase": "الثالثة",
+      "commissioned": "1422 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 240800,
+      "power_mw": "311",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الخبر ، الدمام ، مطار الظهران ، القطيف ، سيهات ، رأس تنورة ، الهفوف ، بقيق"
+    },
+    {
+      "rank": 24,
+      "plant": "محطة الجبيل",
+      "phase": "الأولى",
+      "commissioned": "1402 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 118447,
+      "power_mw": "238",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الرياض ، الجبيل و القاعدة البحرية بالجبيل و شركة صدف"
+    },
+    {
+      "rank": 25,
+      "plant": "محطة الجبيل",
+      "phase": "الثانية",
+      "commissioned": "1403 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 815185,
+      "power_mw": "762",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الرياض ، الجبيل و القاعدة البحرية بالجبيل و شركة صدف"
+    },
+    {
+      "rank": 26,
+      "plant": "محطة الجبيل",
+      "phase": "تناضح عكسي",
+      "commissioned": "1422 هـ",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 78182,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الرياض ، سدير ، القصيم"
+    },
+    {
+      "rank": 27,
+      "plant": "محطة الجبيل",
+      "phase": "المحطة المزدوجة",
+      "commissioned": "20 يوليو 2009",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 800000,
+      "power_mw": "2,745",
+      "owner": "شركة «مرافق»",
+      "cities_served": "300,000 م3 لمدينة الجبيل الصناعية، و500,000 م3 ستباع للمؤسسة العامة لتحلية المياه"
+    },
+    {
+      "rank": 28,
+      "plant": "محطة الخفجي",
+      "phase": "الثانية",
+      "commissioned": "1406 هـ",
+      "process": "تبخير وميضي",
+      "water_m3_per_day": 19682,
+      "power_mw": "",
+      "owner": "الهيئة السعودية للمياه",
+      "cities_served": "الخفجي"
+    },
+    {
+      "rank": 29,
+      "plant": "محطة الخفجي",
+      "phase": "الخفجي",
+      "commissioned": "",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 60000,
+      "power_mw": "غ. م",
+      "owner": "إتحاد شركة أبينجوا وشركة تقنية المياه المتقدمة",
+      "cities_served": "تشغل بالطاقة الشمسية"
+    },
+    {
+      "rank": 32,
+      "plant": "صناعية الدمام 3",
+      "phase": "الدمام",
+      "commissioned": "",
+      "process": "",
+      "water_m3_per_day": 6000,
+      "power_mw": "غ. م",
+      "owner": "\"مدن\"",
+      "cities_served": "المدينة الصناعية في الدمام المرحلة الثالثة"
+    },
+    {
+      "rank": 33,
+      "plant": "صناعية سدير",
+      "phase": "سدير",
+      "commissioned": "",
+      "process": "",
+      "water_m3_per_day": 6000,
+      "power_mw": "غ. م",
+      "owner": "\"مدن\"",
+      "cities_served": "المدينة الصناعية في سدير"
+    },
+    {
+      "rank": 34,
+      "plant": "صناعية الخرج",
+      "phase": "الخرج",
+      "commissioned": "",
+      "process": "",
+      "water_m3_per_day": 6000,
+      "power_mw": "غ. م",
+      "owner": "\"مدن\"",
+      "cities_served": "المدينة الصناعية في الخرج"
+    },
+    {
+      "rank": 35,
+      "plant": "تحلية مياه رفحاء",
+      "phase": "محافظة رفحاء",
+      "commissioned": "",
+      "process": "تبخير",
+      "water_m3_per_day": 13500,
+      "power_mw": "غ. م",
+      "owner": "",
+      "cities_served": "تبخير المياه المالحة"
+    },
+    {
+      "rank": 36,
+      "plant": "محطة تحلية قرية الرس",
+      "phase": "محافظة الوجه",
+      "commissioned": "",
+      "process": "",
+      "water_m3_per_day": "غ. م",
+      "power_mw": "غ. م",
+      "owner": "محطة خيرية",
+      "cities_served": "احدى المشاريع الخيرية للأمير الراحل سلطان بن عبد العزيز آل سعود"
+    },
+    {
+      "rank": 41,
+      "plant": "العقير",
+      "phase": "الأولى",
+      "commissioned": "تحت الإنشاء",
+      "process": "تناضح عكسي",
+      "water_m3_per_day": 10000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "محافظة العقير"
+    },
+    {
+      "rank": 1,
+      "plant": "جدة سواكو",
+      "phase": "",
+      "commissioned": "",
+      "process": "",
+      "water_m3_per_day": 15000,
+      "power_mw": "",
+      "owner": "",
+      "cities_served": "محطات قطاع خاص"
+    },
+    {
+      "rank": 1,
+      "plant": "بوارج الدولية",
+      "phase": "مناطق مختلفة",
+      "commissioned": "2008",
+      "process": "",
+      "water_m3_per_day": 50000,
+      "power_mw": "",
+      "owner": "شركة بوارج الدولية",
+      "cities_served": "تملك بارجتان للتحلية بقدرة 25000 م3 يوم لكل بارجة، وعملت البارجتان في كل من الشعيبة والشقيق وينبع"
+    }
+  ],
+  "meta": {
+    "title": "محطات تحلية المياه في السعودية - Free Download",
+    "description": "قائمة محطات تحلية المياه العاملة في المملكة العربية السعودية مع المرحلة وتاريخ التشغيل وتقنية التحلية والإنتاج اليومي من المياه والكهرباء والمدن المستفيدة. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "محطات تحلية المياه في السعودية | ListBase",
+    "seo_description": "Download محطات تحلية المياه في السعودية — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_محطات_تحلية_المياه_في_السعودية"
+    ]
+  }
+}
