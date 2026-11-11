@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-11T02:10:15.836Z",
-  "total_datasets": 519,
-  "total_records": 153737,
+  "generated": "2026-11-11T02:10:28.609Z",
+  "total_datasets": 520,
+  "total_records": 153978,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -9868,6 +9868,31 @@
         "xlsx": {
           "name": "ar-aghani-fayza-ahmed_AR.xlsx",
           "size": 10528
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-mohammed-abdel-wahab",
+      "name": "أغاني محمد عبد الوهاب",
+      "category": "music",
+      "record_count": 241,
+      "columns": [
+        "ughniya",
+        "shaer",
+        "mulahazat",
+        "fatra"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أعمال_محمد_عبد_الوهاب",
+      "updated": "2026-11",
+      "size": 42543,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-mohammed-abdel-wahab_AR.csv",
+          "size": 21092
+        },
+        "xlsx": {
+          "name": "ar-aghani-mohammed-abdel-wahab_AR.xlsx",
+          "size": 14428
         }
       }
     },
