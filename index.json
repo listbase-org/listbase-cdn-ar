@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-11T02:11:02.449Z",
-  "total_datasets": 521,
-  "total_records": 154067,
+  "generated": "2026-11-11T02:11:13.997Z",
+  "total_datasets": 522,
+  "total_records": 154092,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -13434,6 +13434,34 @@
         "xlsx": {
           "name": "ar-tashriat-alsiyaha-misr_AR.xlsx",
           "size": 8408
+        }
+      }
+    },
+    {
+      "id": "ar-turath-alami-aljazair",
+      "name": "مواقع التراث العالمي في الجزائر",
+      "category": "tourism",
+      "record_count": 25,
+      "columns": [
+        "alism",
+        "almawqi",
+        "alfia",
+        "alsana",
+        "alhala",
+        "latitude",
+        "longitude"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_الجزائر",
+      "updated": "2026-11",
+      "size": 10398,
+      "files": {
+        "csv": {
+          "name": "ar-turath-alami-aljazair_AR.csv",
+          "size": 4919
+        },
+        "xlsx": {
+          "name": "ar-turath-alami-aljazair_AR.xlsx",
+          "size": 8562
         }
       }
     },

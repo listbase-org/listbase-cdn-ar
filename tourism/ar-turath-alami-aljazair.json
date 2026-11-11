@@ -1,0 +1,286 @@
+{
+  "id": "ar-turath-alami-aljazair",
+  "name": "مواقع التراث العالمي في الجزائر",
+  "title": "مواقع التراث العالمي في الجزائر",
+  "description": "مواقع الجزائر المدرجة في قائمة التراث العالمي لليونسكو والقائمة الإرشادية المؤقتة، مع الموقع والفئة وسنة التسجيل.",
+  "category": "tourism",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_الجزائر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_الجزائر",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "almawqi",
+      "label": "Almawqi",
+      "type": "string"
+    },
+    {
+      "key": "alfia",
+      "label": "Alfia",
+      "type": "string"
+    },
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "number"
+    },
+    {
+      "key": "alhala",
+      "label": "Alhala",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alism": "قلعة بني حماد",
+      "almawqi": "ولاية المسيلة",
+      "alfia": "ثقافي: (iii)",
+      "alsana": 1980,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 34.06111,
+      "longitude": -4.97778
+    },
+    {
+      "alism": "طاسيلي ناجر",
+      "almawqi": "ولايتي إليزي وتمنراست",
+      "alfia": "مختلط: (i)(iii)(vii)(viii)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 26.333,
+      "longitude": 5
+    },
+    {
+      "alism": "وادي مزاب",
+      "almawqi": "ولاية غرداية",
+      "alfia": "ثقافي: (ii)(iii)(v)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 32.48722,
+      "longitude": 3.68139
+    },
+    {
+      "alism": "جيميلة",
+      "almawqi": "ولاية سطيف",
+      "alfia": "ثقافي: (iii)(iv)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.3,
+      "longitude": 5.733
+    },
+    {
+      "alism": "تيبازة",
+      "almawqi": "ولاية تيبازة",
+      "alfia": "ثقافي: (iii)(iv)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.583,
+      "longitude": 2.433
+    },
+    {
+      "alism": "تيمقاد",
+      "almawqi": "ولاية باتنة",
+      "alfia": "ثقافي: (ii)(iii)(iv)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 35.484237,
+      "longitude": 6.468666
+    },
+    {
+      "alism": "قصبة الجزائر",
+      "almawqi": "ولاية الجزائر",
+      "alfia": "ثقافي: (ii)(v)",
+      "alsana": 1982,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.78333,
+      "longitude": 3.06028
+    },
+    {
+      "alism": "إغماوين، الحصون والمخازن الجماعية بالحظيرة الثقافية لتوات قورارة تيديكلت",
+      "almawqi": "تيميمون",
+      "alfia": "ثقافي: (iii)(iv)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الطرق الأوغسطينية في الجزائر",
+      "almawqi": "عدة ولايات",
+      "alfia": "ثقافي: (ii)(iii)(vi)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "قصور الأطلس الصحراوي الجزائري",
+      "almawqi": "ولايات البيض و الأغواط و النعامة",
+      "alfia": "ثقافي: (ii)(iv)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الأضرحة الملكية في الجزائر القديمة (من القرن الرابع قبل الميلاد إلى القرن السادس الميلادي)",
+      "almawqi": "ولايات باتنة و قسنطينة و عين تموشنت و تمنراست و تيارت",
+      "alfia": "ثقافي: (i)(iii)(iv)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "أنظمة الواحات في وديان الغوفي و الأبيوض",
+      "almawqi": "ولايتي باتنة و بسكرة",
+      "alfia": "مختلط: (iii)(v)(viii)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "كتلة تفيدست في الحديقة الثقافية للهقار",
+      "almawqi": "تمنراست",
+      "alfia": "مختلط: (i)(iii)(viii)(x)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "ندرومة و ترارة",
+      "almawqi": "تلمسان",
+      "alfia": "ثقافي: (ii)(iv)(v)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الحظيرة الوطنية للقالة",
+      "almawqi": "الطارف",
+      "alfia": "طبيعي: (vii)(ix)(x)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الحديقة الوطنية جرجرة",
+      "almawqi": "ولايتي البويرة ، تيزي وزو",
+      "alfia": "طبيعي: (vii)(viii)(x)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "التراث الأثري لمدينة تبسة",
+      "almawqi": "تبسة",
+      "alfia": "ثقافي: (ii)(iv)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الحديقة الثقافية للساورة",
+      "almawqi": "ولايتي بشار و بني عباس",
+      "alfia": "مختلط: (iii)(iv)(ix)(x)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "المشهد الواحي بوادي سوف",
+      "almawqi": "الوادي",
+      "alfia": "ثقافي: (iii)(v)",
+      "alsana": 2025,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع حالية",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الواحات التي تعتمد على الفقرات (قنوات الري) والقصور في العرق الغربي الكبير.",
+      "almawqi": "العرق الغربي الكبير",
+      "alfia": "ثقافي",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "المواقع والطرق التي سلكها أوغسطينوس في الجزائر الأوسط.",
+      "almawqi": "ولاية تبسة وعنابة",
+      "alfia": "ثقافي",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "ندرومة وجبال طرارة.",
+      "almawqi": "ولاية تلمسان",
+      "alfia": "ثقافي",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "واد سوف.",
+      "almawqi": "الوادي",
+      "alfia": "ثقافي",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "المدافن الملكية لنوميديا وموريطنية والآثار الجنائزية لما قبل الفتح الإسلامي.",
+      "almawqi": "ولاية تيبازة",
+      "alfia": "ثقافي",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "منطقة الأوراس مراكز الواحات في تضاريس غوفي والقنطرة.",
+      "almawqi": "ولاية بسكرة",
+      "alfia": "مختلط",
+      "alsana": 2002,
+      "alhala": "القائمة الإرشادية المؤقتة - مواقع سابقة",
+      "latitude": "",
+      "longitude": ""
+    }
+  ],
+  "meta": {
+    "title": "مواقع التراث العالمي في الجزائر - Free Download",
+    "description": "مواقع الجزائر المدرجة في قائمة التراث العالمي لليونسكو والقائمة الإرشادية المؤقتة، مع الموقع والفئة وسنة التسجيل. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مواقع التراث العالمي في الجزائر | ListBase",
+    "seo_description": "Download مواقع التراث العالمي في الجزائر — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_الجزائر"
+    ]
+  }
+}
