@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-10T02:32:24.625Z",
-  "total_datasets": 518,
-  "total_records": 153021,
+  "generated": "2026-11-11T02:10:15.836Z",
+  "total_datasets": 519,
+  "total_records": 153737,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -9816,6 +9816,33 @@
         "xlsx": {
           "name": "ar-aghani-abdelhalim-hafez_AR.xlsx",
           "size": 16960
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-fairuz",
+      "name": "أغاني فيروز",
+      "category": "music",
+      "record_count": 716,
+      "columns": [
+        "ughniya",
+        "tarikh",
+        "kalimat",
+        "alhan",
+        "maqam",
+        "mulahaza"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أعمال_فيروز",
+      "updated": "2026-11",
+      "size": 152495,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-fairuz_AR.csv",
+          "size": 68644
+        },
+        "xlsx": {
+          "name": "ar-aghani-fairuz_AR.xlsx",
+          "size": 32532
         }
       }
     },

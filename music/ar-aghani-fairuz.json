@@ -1,0 +1,5784 @@
+{
+  "id": "ar-aghani-fairuz",
+  "name": "أغاني فيروز",
+  "title": "أغاني فيروز",
+  "description": "قائمة أغاني المطربة اللبنانية فيروز مع سنة الإصدار وكاتب الكلمات والملحن والمقام والملاحظات.",
+  "category": "music",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أعمال_فيروز",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أعمال_فيروز",
+  "updated": "2026-11",
+  "record_count": 716,
+  "columns": [
+    {
+      "key": "ughniya",
+      "label": "Ughniya",
+      "type": "string"
+    },
+    {
+      "key": "tarikh",
+      "label": "Tarikh",
+      "type": "number"
+    },
+    {
+      "key": "kalimat",
+      "label": "Kalimat",
+      "type": "string"
+    },
+    {
+      "key": "alhan",
+      "label": "Alhan",
+      "type": "string"
+    },
+    {
+      "key": "maqam",
+      "label": "Maqam",
+      "type": "string"
+    },
+    {
+      "key": "mulahaza",
+      "label": "Mulahaza",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ughniya": "حكايات الربيع",
+      "tarikh": 1964,
+      "kalimat": "الأخوين رحباني",
+      "alhan": "الأخوين رحباني",
+      "maqam": "",
+      "mulahaza": "بالإشتراك مع كارم محمود"
+    },
+    {
+      "ughniya": "برنامج زرياب",
+      "tarikh": 1964,
+      "kalimat": "الأخوين رحباني",
+      "alhan": "الأخوين رحباني",
+      "maqam": "",
+      "mulahaza": "بالإشتراك مع كارم محمود"
+    },
+    {
+      "ughniya": "Adeste Fideles",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "Joy to the world",
+      "tarikh": "",
+      "kalimat": "إسحاق واتس",
+      "alhan": "هاندل",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "We Wish You a Merry Christmas",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أبحث عنك دوما",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ابنة بلادي",
+      "tarikh": "",
+      "kalimat": "عبد الكريم الكرمي (أبو سلمى)",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أتسألين النجم",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحب الأسماء",
+      "tarikh": 1999,
+      "kalimat": "قيس بن الملوح",
+      "alhan": "محمد محسن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحب دمشق",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحبك في صمتي",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحبك مهما أشوف",
+      "tarikh": 1952,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "حليم الرومي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحترف الحزن",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "احكيلي حكاية طويلة",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "احكيلي عن بلدي",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أحلى ليالي المنى",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "آخر السهرية",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "آخر أيام الصيفية",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند سي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "آخر مرة غنيتلك",
+      "tarikh": "",
+      "kalimat": "منصور الرحباني",
+      "alhan": "منصور الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "إذا الأرض مدورة",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اذكريني",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أرجعي يا ألف ليلة",
+      "tarikh": "",
+      "kalimat": "رفيق خوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أردن أرض العزم",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ارسل الله يسوع",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أرضنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أرضنا وسمانا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ازهر النرجس",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أسامينا",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "استنيري",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أسمر يا أسمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اسهار",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "كرد",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اسوارة العروس",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اشتقتلك",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أصوات الرعيان",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اطلعي يا عروسة",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أعطني الناي",
+      "tarikh": "",
+      "kalimat": "جبران خليل جبران",
+      "alhan": "نجيب حنكش",
+      "maqam": "نهوند لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أغنيتي إليك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أقول لطفلتي",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اقول وانست بالليل",
+      "tarikh": "",
+      "kalimat": "ابن جبير",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الأرض لكم",
+      "tarikh": 2010,
+      "kalimat": "جبران خليل جبران",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "البنت الشلبية",
+      "tarikh": "",
+      "kalimat": "تراث",
+      "alhan": "تراث",
+      "maqam": "نهوند ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "البواب",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "البوسطه",
+      "tarikh": 1979,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الحب القديم",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الدوالي دوالينا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الربيع الضائع",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "السهول",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الشاويش والقباضيات",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "العشاق والشاويش",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "القدس العتيقة",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "القطاف",
+      "tarikh": 1959,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "القمر الوردي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "القمر بيضوي",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "القمر تحت المشمشة",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الكويت",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم لا بيمول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الله كبير",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الله محيي عسكرنا",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الله معك يا أسمر الجبهة",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الله معك يا هوانا",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الله يزيدك يا فلاح",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الليل أناشيد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "المجد لله",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "المحبة",
+      "tarikh": 1972,
+      "kalimat": "جبران خليل جبران",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "المسيح قام",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "المشهد البدوي",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "المصطاف والمتربعا",
+      "tarikh": 1972,
+      "kalimat": "الصمة القشيري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الملهى الأخضر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الميج الميج دبكة",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "النهار بالعبير",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الهوى المنسي",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "الوداع",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "إلى باريس",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "إلى دمشق",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "إلى راعيه",
+      "tarikh": 1983,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أم العين الكحلا",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أمس انتهينا",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "امطري",
+      "tarikh": "",
+      "kalimat": "الياس أبو شبكه",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أمي الحبيبة",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أمي نامت ع بكير",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "شاهيناز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أمي نداء الحنان",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أمي يا ملاكي",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا الأم الحزينة",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا بياعة ودي عيش",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا خوفي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا عصفورة الشمس",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا عندي حنين",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "زياد رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا فزعانة",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا لحبيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا هويته وانتهيت",
+      "tarikh": 1970,
+      "kalimat": "يونس القاضي",
+      "alhan": "سيد درويش",
+      "maqam": "حجاز كار كرد",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنا وبلادي هناء",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "انا وسهرانة",
+      "tarikh": "",
+      "kalimat": "الأخوين الرحباني",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنت لي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنت معي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "انت وانا عم يسالونا",
+      "tarikh": "",
+      "kalimat": "ميشال طراد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أنت يا أسمر أحلى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "انت يا مي زهرة",
+      "tarikh": 1952,
+      "kalimat": "قبلان مكرزل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "انشاالله مابو شي",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أهلا بلولو",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أهلا وسهلا فيك",
+      "tarikh": 1953,
+      "kalimat": "رشيد نخله",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اهو دا اللي صار",
+      "tarikh": "",
+      "kalimat": "بديع خيري",
+      "alhan": "سيد درويش",
+      "maqam": "كرد لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أهواك",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اوبريت - الليل أناشيد",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "اومن",
+      "tarikh": "",
+      "kalimat": "الأخوين الرحباني",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أيام العيد",
+      "tarikh": "",
+      "kalimat": "الأخوين الرحباني",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "أيامنا في الخليج",
+      "tarikh": "",
+      "kalimat": "أبو بكر بن زهر",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ايفييفا",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ايماني ساطع",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم دو",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ايه فيه أمل",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بالغار كللت",
+      "tarikh": 1961,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بالمح ظلال الحب",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ببلدي الأول",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتتلج الدني - يا لبنان بحبك",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتذكرك بالخريف",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتسال اذا بهواك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتشوف بكرة",
+      "tarikh": 1997,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتمرجح بقلبك",
+      "tarikh": 1964,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بتمشوا شوي",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بحبك ما بعرف",
+      "tarikh": 1964,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بدي خبركن",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بدي عمر وطني",
+      "tarikh": "",
+      "kalimat": "منصور رحباني",
+      "alhan": "منصور رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "برجك عيد",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "برد",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بردا بردا",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بروحي تلك الأرض",
+      "tarikh": 1973,
+      "kalimat": "الصمه القشيري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعتلك",
+      "tarikh": 1970,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعد الليالي",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعدك على بالي",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعدنا",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعدوا الحبايب",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بعلبك",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بغداد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بقطفلك بس هالمرة",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكتب أساميهن",
+      "tarikh": 2010,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكتب اسمك",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكرة بيجي نيسان",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكرة لما بيرجعوا",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكرم اللولو",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكره الهوى",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكره وأنت جايي",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكوخنا يا بني",
+      "tarikh": "",
+      "kalimat": "ميشال طراد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بكى هواك",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "بيغي لي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بلادنا لنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بلادنا مواطن الهناء",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بلبل غنى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بلدتي غابة",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بلغه يا قمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بليل وشتي",
+      "tarikh": "",
+      "kalimat": "جوزف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "عراق",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بناديلك يا حبيبي",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بو فارس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بياع الخواتم",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "جهار كاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيبقى المسا",
+      "tarikh": 1955,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيت الحبيب",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيتك يا ستي الختيارة",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيتنا في الجزيرة",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيتي أنا بيتك",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيتي صغير بكندا",
+      "tarikh": 1980,
+      "kalimat": "ريما فيروز",
+      "alhan": "لوي غاستي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيروت هل ذرفت",
+      "tarikh": "",
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيروت يا بيروت",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيسان",
+      "tarikh": 1956,
+      "kalimat": "الأخوين الرحباني",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيعدلها البيعدل",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيقولوا بكتب الهوى",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيقولوا زغير بلدي",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيني وبينك",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "بيي راح مع هالعسكر",
+      "tarikh": 1966,
+      "kalimat": "الأخوين الرحباني",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تبقى بلدنا",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تبقى ميل",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "لامي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تحت العريشة",
+      "tarikh": 1995,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تخمين",
+      "tarikh": 1973,
+      "kalimat": "ميشال طراد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تدور الأرجيلة",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تذكر يا حبيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "جورج فريديرك هاندل",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ترتدي الأحلام",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تسعد فيها",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تعا ولا تجي",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تعال كفاك دلال",
+      "tarikh": 1952,
+      "kalimat": "شفيق جدايل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تك تك يام سليمان",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تلال الزراعين",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تلج تلج",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تلفن عياش",
+      "tarikh": 2000,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تلك القرى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تناثري",
+      "tarikh": 1960,
+      "kalimat": "ميخائيل نعيمة",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تنذكر ما تنعاد",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "تونس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جاءت معذبتي",
+      "tarikh": 1999,
+      "kalimat": "لسان الدين بن الخطيب",
+      "alhan": "محمد محسن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جادك الغيث",
+      "tarikh": 1960,
+      "kalimat": "لسان الدين بن الخطيب",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جاي أنا",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جايين عساحة سيلينا",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جايبلي سلام",
+      "tarikh": 1962,
+      "kalimat": "فيلمون وهبه",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جبلية النسمه",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جسر العوده",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جفنه علم الغزال",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جلنار",
+      "tarikh": 1953,
+      "kalimat": "ميشال طراد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جميلة بوحيرد",
+      "tarikh": 1962,
+      "kalimat": "",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جناتنا",
+      "tarikh": 1951,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "جينا لحلال القصص",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حامل الهوى تعب",
+      "tarikh": "",
+      "kalimat": "أبو النواس",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبذا يا غروب",
+      "tarikh": 1951,
+      "kalimat": "قبلان مكرزل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبك ليالي الهنا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبني اليوم",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبوا بعضن",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "نهوند لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيبي بده القمر",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيبي ترى هل تعود",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيبي قال انطريني",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيتك بالصيف",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيتك تنسيت النوم",
+      "tarikh": 2000,
+      "kalimat": "جوزيف حرب",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبيتك والشوق انقال",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حبينا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حراس المدينة",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حصاد ورماح",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حلو يا سهرنا",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حلوه يا بلدتنا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حمرا سطيحاتك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حملت بيروت",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حمى الحبيب",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حنا السكران",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "حيدوا الحلوين",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خالقه",
+      "tarikh": "",
+      "kalimat": "بدوي الجبل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خايف",
+      "tarikh": 1961,
+      "kalimat": "احمد عبد المجيد",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خبروني يا أيها الرعاة",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خبطة قدمكن",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "صبا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خدني على تلاتها",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خذني بعينك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خذني على الارض",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خذني يا حبيبي",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خضرة يا زينتنا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "خليك بالبيت",
+      "tarikh": 1983,
+      "kalimat": "جوزيف حرب",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دار الدوري عالداير",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دار السلام",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دارة الحبيب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دبكة لبنان",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دجاجات الحب",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دخلك ياطير الوروار",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دخيلك يا امي",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "درب الحبيب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "درج اللوز",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "درج الورد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دق الهوا عالباب",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دقت على صدري",
+      "tarikh": 1967,
+      "kalimat": "عبد الله غانم",
+      "alhan": "الأخوان رحباني",
+      "maqam": "هزام",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دقوا المهابيج",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دقيت طل الورد",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "دواره ع الدواره",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ديروا الميه",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذا خيالي",
+      "tarikh": 1953,
+      "kalimat": "قبلان مكرزل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذاكر يا ترى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذبنا وما تبنا",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذكرى - ضاعوا منا",
+      "tarikh": 1959,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذكرى بردى",
+      "tarikh": "",
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ذكريات الصباح",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راجع بصوت البلابل",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راجعه",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راجعون",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راجعين يا هوى",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راح ماضي الحب",
+      "tarikh": 1952,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راح يطلع القمر",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راحوا مثل الحلم",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "راضية",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ربي سالتك",
+      "tarikh": "",
+      "kalimat": "رشدي معلوف",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رجعت الشتويه",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رجعت العصفورة",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رجعت في المساء",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رجعت ليالي زمان",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رح نبقى سوى",
+      "tarikh": 1983,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رحيل",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ردني إلى بلادي",
+      "tarikh": 1956,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ردي منديلك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "رزق الله ع العربيات",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "روح زورهن ببيتهن",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "روح يا بلبل",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ريح السفر",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ريح الشمالي",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زار بسكون الليل",
+      "tarikh": 2001,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زرياب",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زعلي طول",
+      "tarikh": 1983,
+      "kalimat": "جوزيف حرب",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زغيري وما بتعرف",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زنوبيا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زهرة البنفسج",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زهرة المدائن",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زوروني كل سنه مره",
+      "tarikh": "",
+      "kalimat": "يونس القاضي",
+      "alhan": "سيد درويش",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زيارة الربيع",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زيارة الصباح",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "زينت بيتي بياسمين",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ساحة سيلينا",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ساعدني يا نبع الينابيع",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سافرت القضيه",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سال الحلو",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سالتك حبيبي",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سالوني الناس",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سانت فندريدي",
+      "tarikh": 1997,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سائليني يا شام",
+      "tarikh": 1960,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سبحان الكلمه",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ستي يا ستي",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سحرتنا البسمات",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سعيدة يا شيخ المشايخ",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سعيدة يسعد مساكن",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سكرو الشوارع",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سكن الليل",
+      "tarikh": 1967,
+      "kalimat": "جبران خليل جبران",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "كرد",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سلسليها",
+      "tarikh": "",
+      "kalimat": "قبلان مكرزل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سلملي عليه",
+      "tarikh": 1999,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سلمى",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سمرا يام عيون",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سمراء مها",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سمعنا",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سنرجع يوما",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سنه عن سنه",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سهرتنا ع ادراج",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سهرنا سهرنا",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سوا ربينا",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سوريا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سوف احيا",
+      "tarikh": 1955,
+      "kalimat": "مرسي جميل عزيز",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راحة الأرواح",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سيد الهوى",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "محمد محسن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سيف المراجل حكم",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "سيف فاليشهر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شادي",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شاكر الكندرجي",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شال",
+      "tarikh": 1964,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شالك رفرف",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شام ياذا السيف",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شايف البحر",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شتي يا دنيي",
+      "tarikh": 1995,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شط اسكندريه",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شلحة الحرير",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند دو",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شمس الأطفال",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شهرزاد",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو بخاف",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو بيبقى",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو صار",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو عبالنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو كان بدك",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو هالأيام",
+      "tarikh": 2000,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شو يا مناطورجية",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شوبحو لها وقولوا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "ترنيمة سريانية",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "شيخ المينا",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صار لازم ودعكن",
+      "tarikh": 1997,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صار لو زمان",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صباح ومسا",
+      "tarikh": 2000,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صبحي الجيز",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صرخ يا ذيب",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صوت العيد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "صيف يا صيف",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبي",
+      "maqam": "بياتي حسيني",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضاق خلقي",
+      "tarikh": 1999,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضجت الأحلام",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضحك اللوز",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضفاف بردى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضوا الهوى قناديله",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ضوي يا هالقنديل",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طالل على بواب الحلا",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طرق اورشليم",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طرقات السواحل",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طريق الليلكي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طريق النحل",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طل القمر عالجبال",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طلع القمر",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طلع المنادي",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طلعت يا محلا نورها",
+      "tarikh": "",
+      "kalimat": "سيد درويش",
+      "alhan": "سيد درويش",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طلعلي البكي",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طيري يا طياره",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "طيري يارفوف الدرج",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع اسمك غنيت",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع الطاحونه شفتك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "كرد ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع الكرم انزلي",
+      "tarikh": 1952,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع اللومه",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "تشارلي تشابلن",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع الهوى (موال)",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع سفح الوادي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع طريق حماك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "ادوارد بيانكو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ع هدير البوسطه",
+      "tarikh": 1979,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاتبة لينا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عابالي يا قمر",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاد الهوى حيران",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عادت ليالي زمان",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عادروب الهوى",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاشق الورد",
+      "tarikh": 1957,
+      "kalimat": "محمد السباع",
+      "alhan": "حليم الرومي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاشق صغير",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عالالا الحلوه",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فلكلور",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عالروزانا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عالزينو",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاللومة",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "شارلي شابلن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عالي الشمايل",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عاليادي اليادي",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عبر الحلو",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عبود وليلى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عتاب",
+      "tarikh": 1952,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عتابا وميجنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عتم يا ليل",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عدنا رأيناها",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عربة لميا",
+      "tarikh": 2001,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عروستنا الحلوه",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عراق",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عصفورة الشجن",
+      "tarikh": "",
+      "kalimat": "علي بدر الدين",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عللي عللي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "علموني",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "علوا ابواب الوسيعه",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على البير المهجور",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على جسر اللوزيه",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "راست صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على درب الحب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على دلعونا",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على ذرى بلادي",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على طول امشي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على طول يا كرومي",
+      "tarikh": 1959,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على مهلك",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "على مهلنا ع القمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "علي طير وعلي",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "علي علي طير",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عم بتضوي الشمس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عم يلعبوا الولاد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عمان في القلب",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عمان هذا الضحى",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عمانو موريو",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "ترنيمة سريانية",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عمر وهند",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عن جبال في الغيم",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عن حبك غنينا",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عنبيه",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عند الانهار",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "ادوارد بيانكو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عند حماها",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عندي ثقه فيك",
+      "tarikh": "",
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عنفوان",
+      "tarikh": 1952,
+      "kalimat": "عمر أبو ريشه",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عودك رنان",
+      "tarikh": "",
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عيد الدنيا",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "عين الرمان",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غالي الدهب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غرب الحسون",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غرب يا هوى",
+      "tarikh": 1962,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غرباء",
+      "tarikh": 1954,
+      "kalimat": "هارون هاشم رشيد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غمارنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غمر الغداير",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غنوا الليالي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غيب يا قمر",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غيبي ولا تغيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غيره",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "غيروا اهل الهوى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فاتر الالحاظ",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فايق شو حكينا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فايق علي",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فايق ولا ناسي",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فايق يا هوى",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فتحهن علي",
+      "tarikh": 1999,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فوق الجبل غاد",
+      "tarikh": 1957,
+      "kalimat": "فوزي العمري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فوق هاتيك الربى",
+      "tarikh": 1994,
+      "kalimat": "زكي ناصيف",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "في الميلاد نسهر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "في شي عم بيصير",
+      "tarikh": "",
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "في قهوه عالمفرق",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "في معنا بندوره",
+      "tarikh": 1968,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "في مقلتيك حنين",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "فيكن تنسو",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قال الورد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قال قايل",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قال يابيتا لنا",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قالتلي المرايه",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قالوا العدا",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قديش كان في ناس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قرات مجدك",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قصة الورد",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قصة صغيره كتير",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قصقص ورق",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قصيدة الإمارات",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قصيدة لبنان",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قلبي عليك",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قلتلك شي",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قمر السماء",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "كافيلا فارغاس",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قمر السهرات",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قمره",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قولي احبك لا تملي",
+      "tarikh": 1955,
+      "kalimat": "سليم حيدر",
+      "alhan": "خالد أبو النصر اليافي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قولي حلو هالفسطان",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قولي يا نسوم",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "قوي حبيبي",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كامل الأجيال",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "جهار كاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كان عنا طاحونه",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كان ياما كان",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كانوا يا حبيبي",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "لييف كنيبر",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كبيره المزحة هاي",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كتبت اليك",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كتبنا وما كاتبنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كرم زغير",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كرمالك",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كل ما الحكي",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كل ما بروح للوادي",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كم بنفسجة",
+      "tarikh": 1961,
+      "kalimat": "ميشال طراد",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كنا نتلاقى",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كنا نزين شجرة صغيرة",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيف الاحوال يااسمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيف انسى",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيف حال الضيعه",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيف حالك خبرنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راحة الأرواح",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيف حالك ياجار",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيفك انت",
+      "tarikh": "",
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "كيفك كيف حالك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا انت حبيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تجي اليوم",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تسألوني",
+      "tarikh": "",
+      "kalimat": "نزار قباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تعتب عليي",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تنسني عاد الربيع",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تنسني يكفيك ماعذبتني",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا تنوحي",
+      "tarikh": 1997,
+      "kalimat": "",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا والله",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لا يدوم اغترابي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لاعب الريشة",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لالا انا اسمي هاله",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لبنان الاخضر",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لبنان يا اخضر حلو",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لبيروت",
+      "tarikh": 1983,
+      "kalimat": "جوزيف حرب",
+      "alhan": "عالمي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لشو الحكي",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لعب الهوى فينا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لما البدر الحلو",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "نتالينو اوتو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لما ع الباب",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لملمت ذكرى لقاء الأمس",
+      "tarikh": "",
+      "kalimat": "علي بدرالدين",
+      "alhan": "الأخوين الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لمين الهديه",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "له يا شكري",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لو تعلمين",
+      "tarikh": 1999,
+      "kalimat": "جميل بثينه",
+      "alhan": "محمد محسن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لو فينا ننقي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لوح منديلك",
+      "tarikh": 1998,
+      "kalimat": "منصور رحباني",
+      "alhan": "فلكلور",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لوني الدنيا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لوين رايحين (أيام صعبة)",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لي هواك",
+      "tarikh": 1952,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "تشارلي تشابلن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ليالي الشمال",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ليسمعنا حدا",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ليل واوضه منسيه",
+      "tarikh": 1997,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ليلة عيد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ليليه بترجع ياليل",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "لينا ويا لينا",
+      "tarikh": 1979,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "مندلسون",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما احلا الرجعه",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما احلاه",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما بزعلو",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما شاورت حالي",
+      "tarikh": 2010,
+      "kalimat": "زياد الرحباني",
+      "alhan": "زياد الرحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما عاد يذكرنا",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما في حدا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ما نام",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ماريا",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مبارك يا رب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مر بي",
+      "tarikh": 1968,
+      "kalimat": "سعيد عقل",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مر على روضنا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مراكبنا ع المينا",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "جهار كاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مرحبا",
+      "tarikh": 2001,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مرفرف الدلال",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "نات كينغ كول",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مرق السفر",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مروج السندس",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مسيتكم بالخير",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مش فارقه معاي",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مش كاين هيك تكون",
+      "tarikh": 1999,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مش كل يوم تمر",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مشوار",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مصر عادت",
+      "tarikh": 1976,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مضويه",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مطرح ما النسمات",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معا هنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معافى ياعسكر لبنان",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز فا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معرفتي فيك",
+      "tarikh": 1983,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معك يا حبيبي",
+      "tarikh": 1998,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الياس رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معليش يا قلبي",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "معنا هو الله",
+      "tarikh": 1997,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مغرور قلبي",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ملعب الأحلام",
+      "tarikh": 1961,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مملكتي",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من تحت هالارزه",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من روابينا القمر",
+      "tarikh": 1999,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من عز النوم",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من غيرنا في الليالي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "ادواردو بيانكو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من كل قلبي بساعدك",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من هنا حبنا مر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "ادوارد بيانكو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من هون - ياقلبي طير",
+      "tarikh": 1951,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من ياترى مخبري",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "من يوم تغربنا",
+      "tarikh": 1994,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "موطن القمر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "موطن المجد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مي هل ترقصين",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميج يابو الميج",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميدلي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميري كريسماس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميسلون",
+      "tarikh": 1953,
+      "kalimat": "الأخوان فليفل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميلي بخصرك",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ميلي يا غصون",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مين",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "مين دلك",
+      "tarikh": "",
+      "kalimat": "اسعد سابا",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نام ولا تنام",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نام يا والينا نام",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نجمة العيد",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نحن سر في الليالي",
+      "tarikh": "",
+      "kalimat": "صلاح الدين اللبابيدي",
+      "alhan": "سليم الحلو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نحنا الهوى جرحنا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نحنا والقمر جيران",
+      "tarikh": 1995,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نحنا وذياب الغابات",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ندى",
+      "tarikh": 1954,
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نسم علينا الهوى",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نسمت",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نسهر ومنسهر",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نسيتنا الكروم",
+      "tarikh": 1958,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نشيد المقاومه",
+      "tarikh": 2000,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نطرونا - موقف دارينا",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "كرد صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نفنافه",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نوار ياحلم الصباح",
+      "tarikh": 1955,
+      "kalimat": "بولس سلامه",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "نوره والتنوره",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ها انني في يديك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هات انغامك",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هالسياره مش عم تمشي",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هالله ياتراب عنطوره",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هب الهوى",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هل جئت كي تلقانا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هلا لا ليا",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هلي ع الريح",
+      "tarikh": 1974,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هونيك في سجره",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هويدلك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هيك مشق الزعروره",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "هيلا يا واسع",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وا حبيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وحدهن بيبقو",
+      "tarikh": "",
+      "kalimat": "طلال حيدر",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وداد",
+      "tarikh": 1954,
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ورد الشبابيك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ورق التين",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ورقو الاصفر",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وشايه",
+      "tarikh": 1956,
+      "kalimat": "نزار قباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وطن النجوم",
+      "tarikh": "",
+      "kalimat": "ايليا أبو ماضي",
+      "alhan": "خالد أبو النصر اليافي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وطني",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وطى الدوار",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وعدي الك",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وفد وفد",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وقف يا اسمر",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ولي فؤاد",
+      "tarikh": 1999,
+      "kalimat": "أبو العتاهيه",
+      "alhan": "محمد محسن",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "وينهن",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "حجاز كار",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا اسمر شو خلاك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا اكف الخيرين",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا انا",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "موتسارت",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا اهل الدار",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ايها الشادي المغرد",
+      "tarikh": 1955,
+      "kalimat": "سليم حيدر",
+      "alhan": "خالد أبو النصر اليافي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا بنت جارتنا",
+      "tarikh": 1953,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا بني أمي",
+      "tarikh": 1994,
+      "kalimat": "جبران خليل جبران",
+      "alhan": "زكي ناصيف",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ترى نسينا",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا جارة الوادي",
+      "tarikh": 1961,
+      "kalimat": "احمد شوقي",
+      "alhan": "محمد عبد الوهاب",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا جبل الشيخ",
+      "tarikh": "",
+      "kalimat": "سعيد عقل",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا جسرا خشبيا",
+      "tarikh": 1957,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حبيبي كلما هب الهوى",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "نهوند",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حجل صنين",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حريه",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حلو شو بخاف",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حلوه",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حمام يا مروح",
+      "tarikh": 1951,
+      "kalimat": "فتحي قوره",
+      "alhan": "حليم الرومي",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حنايا بيتنا",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا حنينه - قالولي كن",
+      "tarikh": 1960,
+      "kalimat": "ميشال طراد",
+      "alhan": "منير بشير",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا دار بتلوح",
+      "tarikh": 2001,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا دارة العلالي",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا داره دوري فينا",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا راعي القصب",
+      "tarikh": "",
+      "kalimat": "طلال حيدر",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ربع",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ربعنا",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ربوع بلادي",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ربي",
+      "tarikh": 1961,
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا رعيان الجبال",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ريت انت وانا بالييت",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ريت منن",
+      "tarikh": 1980,
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبع",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا رئيس البلديه",
+      "tarikh": 1973,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد صول",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا زائري",
+      "tarikh": 1999,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا زنبق",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا زهرة الجنوب",
+      "tarikh": 1977,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ساحر العينين",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا سميره يا اميره",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شادي الالحان",
+      "tarikh": "",
+      "kalimat": "فلكلور",
+      "alhan": "سيد درويش",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شاطئ الاغاني",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فرانك سيناترا",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شام عاد الصيف",
+      "tarikh": 1976,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شاويش الكراكون",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شعبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شقيق الروح",
+      "tarikh": 1972,
+      "kalimat": "بن سناء الملك",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا شواطئ الانهار",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا طير",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا طيره طيري",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "أبو خليل القباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا عازف الرمبه",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا عاقد الحاجبين",
+      "tarikh": 1967,
+      "kalimat": "بشارة الخوري",
+      "alhan": "سليم الحلو",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا عود",
+      "tarikh": 1960,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا غربه",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا غصن نقاه",
+      "tarikh": "",
+      "kalimat": "شعر قديم",
+      "alhan": "",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا غنيه غنيناها",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا غيم الصيف",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا قمر انا وياك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا كرم العلالي",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا لور حبك",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "باكو دي لوشيا",
+      "maqam": "حجاز لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ليل الصب",
+      "tarikh": 1965,
+      "kalimat": "علي الحصري القيرواني",
+      "alhan": "توفيق الباشا",
+      "maqam": "حجاز",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ليل بلادي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مال الشام",
+      "tarikh": "",
+      "kalimat": "عمر الحلبي",
+      "alhan": "ابوخليل القباني",
+      "maqam": "راست",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مايله ع الغصون",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مختار المخاتير",
+      "tarikh": 1975,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مرسال المراسيل",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "فيلمون وهبه",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مروج بلادي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مريع الحب",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مريم",
+      "tarikh": 2001,
+      "kalimat": "زياد رحباني",
+      "alhan": "زياد رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مغزال",
+      "tarikh": 1966,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ملكنا",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا من تغني",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا من يحن",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مية مسا",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا مينا الحبايب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم ري",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ناطور القمريه",
+      "tarikh": 1964,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا نسيم الدجى",
+      "tarikh": 1961,
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا هالناس يا أهلي",
+      "tarikh": 1969,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا هلا يا حبيبي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا هموم الحب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "هزام",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا ويلك بكرا",
+      "tarikh": 1951,
+      "kalimat": "مارون نصر",
+      "alhan": "نقولا المني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يا يسوع الحياة نعظمك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يابا لا لا",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "لامي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يابايع قلبك بالمال",
+      "tarikh": "",
+      "kalimat": "",
+      "alhan": "نقولا المني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياحلو ياقمر",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يارا",
+      "tarikh": 1964,
+      "kalimat": "سعيد عقل",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يارايح ع كفر",
+      "tarikh": 1970,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "كرد لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياعيد ما احلاك",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياغزيل يابو الهيبه",
+      "tarikh": 1996,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياقلبي لا تتعب",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي لا",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياقمر على دارتنا",
+      "tarikh": 1997,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياقمر لشو تطلع",
+      "tarikh": 1971,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياقونه شعبيه",
+      "tarikh": "",
+      "kalimat": "جوزيف حرب",
+      "alhan": "فيلمون وهبه",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يالله تنام ريما",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يامحلا ليالي الهوى",
+      "tarikh": 1963,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يامركب الريح (موال)",
+      "tarikh": 1972,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يامن تقطن جناتنا",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "عجم",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "ياولف شو باقي",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يبكي ويضحك",
+      "tarikh": 1999,
+      "kalimat": "بشارة الخوري",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يدور الدوري",
+      "tarikh": 1967,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "سيكاه",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يريد زهره",
+      "tarikh": 1955,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يسعد صباحك ياحلو",
+      "tarikh": 2001,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يلا نلم زهور",
+      "tarikh": 1956,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يلبقلك شك الالماس",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "",
+      "maqam": "هزام",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يما الحلو",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "بياتي",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يولا",
+      "tarikh": 1954,
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    },
+    {
+      "ughniya": "يوم ويومين و جمعة",
+      "tarikh": "",
+      "kalimat": "الأخوان رحباني",
+      "alhan": "الأخوان رحباني",
+      "maqam": "",
+      "mulahaza": ""
+    }
+  ],
+  "meta": {
+    "title": "أغاني فيروز - Free Download",
+    "description": "قائمة أغاني المطربة اللبنانية فيروز مع سنة الإصدار وكاتب الكلمات والملحن والمقام والملاحظات. Contains 716 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أغاني فيروز | ListBase",
+    "seo_description": "Download أغاني فيروز — 716 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 716 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أعمال_فيروز"
+    ]
+  }
+}
