@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-11T02:10:28.609Z",
-  "total_datasets": 520,
-  "total_records": 153978,
+  "generated": "2026-11-11T02:11:02.449Z",
+  "total_datasets": 521,
+  "total_records": 154067,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -13352,6 +13352,31 @@
         "xlsx": {
           "name": "ar-yaman-a3yad-completos_AR.xlsx",
           "size": 45237
+        }
+      }
+    },
+    {
+      "id": "ar-mawaqi-athariya-alurdun",
+      "name": "المواقع الأثرية في الأردن",
+      "category": "tourism",
+      "record_count": 89,
+      "columns": [
+        "alism",
+        "alasr",
+        "almawqi",
+        "almuhafaza"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المواقع_الأثرية_في_الأردن",
+      "updated": "2026-11",
+      "size": 19483,
+      "files": {
+        "csv": {
+          "name": "ar-mawaqi-athariya-alurdun_AR.csv",
+          "size": 10358
+        },
+        "xlsx": {
+          "name": "ar-mawaqi-athariya-alurdun_AR.xlsx",
+          "size": 9848
         }
       }
     },
