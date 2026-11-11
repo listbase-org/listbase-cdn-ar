@@ -1,0 +1,295 @@
+{
+  "id": "ar-turath-alami-tunis",
+  "name": "مواقع التراث العالمي في تونس",
+  "title": "مواقع التراث العالمي في تونس",
+  "description": "مواقع تونس المدرجة في قائمة التراث العالمي لليونسكو والقائمة الإرشادية المؤقتة، مع الموقع والفئة وسنة التسجيل.",
+  "category": "tourism",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_تونس",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_تونس",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "almawqi",
+      "label": "Almawqi",
+      "type": "string"
+    },
+    {
+      "key": "alfia",
+      "label": "Alfia",
+      "type": "string"
+    },
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "number"
+    },
+    {
+      "key": "alhala",
+      "label": "Alhala",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "alism": "مدينة تونس العتيقة",
+      "almawqi": "ولاية تونس",
+      "alfia": "ثقافي: (ii)(iii)(v)",
+      "alsana": 1979,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.8,
+      "longitude": 10.17
+    },
+    {
+      "alism": "موقع قرطاج الأثري",
+      "almawqi": "ولاية تونس",
+      "alfia": "ثقافي: (ii)(iii)(vi)",
+      "alsana": 1979,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.85306,
+      "longitude": 10.32306
+    },
+    {
+      "alism": "مدرج الجم الروماني",
+      "almawqi": "ولاية المهدية",
+      "alfia": "ثقافي: (iv)(vi)",
+      "alsana": 1979,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 35.3,
+      "longitude": 10.717
+    },
+    {
+      "alism": "محمية إشكل الوطنية",
+      "almawqi": "ولاية بنزرت",
+      "alfia": "طبيعي: (x)",
+      "alsana": 1980,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 37.167,
+      "longitude": 9.667
+    },
+    {
+      "alism": "مدينة كركوان البونيقية ومقبرتها",
+      "almawqi": "ولاية نابل",
+      "alfia": "ثقافي: (iii)",
+      "alsana": 1985,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.94639,
+      "longitude": 11.09917
+    },
+    {
+      "alism": "مدينة سوسة العتيقة",
+      "almawqi": "ولاية سوسة",
+      "alfia": "ثقافي: (iii)(iv)(v)",
+      "alsana": 1988,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 35.833,
+      "longitude": 10.633
+    },
+    {
+      "alism": "القيروان",
+      "almawqi": "ولاية القيروان",
+      "alfia": "ثقافي: (i)(ii)(iii)(v)(vi)",
+      "alsana": 1988,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 35.667,
+      "longitude": 10.1
+    },
+    {
+      "alism": "دقة",
+      "almawqi": "ولاية باجة",
+      "alfia": "ثقافي: (ii)(iii)",
+      "alsana": 1997,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.42222,
+      "longitude": 9.21833
+    },
+    {
+      "alism": "جزيرة جربة: شهادة على نمط إعمار في مجال ترابي جزيري",
+      "almawqi": "ولاية مدنين",
+      "alfia": "ثقافي: (v)",
+      "alsana": 2023,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 33.783,
+      "longitude": 10.883
+    },
+    {
+      "alism": "قرية سيدي بوسعيد",
+      "almawqi": "ولاية تونس",
+      "alfia": "ثقافي: (iii)",
+      "alsana": 2026,
+      "alhala": "القائمة الرئيسة",
+      "latitude": 36.871028,
+      "longitude": 10.348639
+    },
+    {
+      "alism": "المنتزه الوطني بالفايجة",
+      "almawqi": "ولاية جندوبة",
+      "alfia": "طبيعي: (vii)(viii)(x)",
+      "alsana": 2008,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 36.7697,
+      "longitude": 8.6529
+    },
+    {
+      "alism": "الحديقة الوطنية جبل بوهدمة",
+      "almawqi": "ولايتي سيدي بوزيد وقفصة",
+      "alfia": "طبيعي: (vii)(viii)(x)",
+      "alsana": 2008,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 34.47694,
+      "longitude": 9.62472
+    },
+    {
+      "alism": "شط الجريد",
+      "almawqi": "ولاية قبلي",
+      "alfia": "طبيعي: (vii)(viii)(ix)(x)",
+      "alsana": 2008,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 33.717,
+      "longitude": 8.35
+    },
+    {
+      "alism": "واحات قابس",
+      "almawqi": "ولاية قابس",
+      "alfia": "مختلط: (iv)(vii)(x)",
+      "alsana": 2008,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 33.883,
+      "longitude": 10.117
+    },
+    {
+      "alism": "الأضرحة الملكية لنوميديا وموريطانية والآثار الجنائزية ما قبل الإسلام",
+      "almawqi": "ولايات مدنين و سليانة و باجة و الكاف و جندوبة",
+      "alfia": "ثقافي: (ii)(iii)(iv)",
+      "alsana": 2012,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "مجمع زغوان قرطاج المائي الروماني",
+      "almawqi": "ولاية زغوان",
+      "alfia": "ثقافي: (i)(iv)",
+      "alsana": 2012,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 36.4,
+      "longitude": 10.15
+    },
+    {
+      "alism": "الموقع الأثري شمتو",
+      "almawqi": "ولاية جندوبة",
+      "alfia": "ثقافي: (ii)(iv)",
+      "alsana": 2012,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 36.4919,
+      "longitude": 8.5761889
+    },
+    {
+      "alism": "حدود الإمبراطورية الرومانية: الليمس في جنوب تونس",
+      "almawqi": "آثار حدود لليمس في مناطق متفرقة جنوب تونس: تطاوين ، قبلي ، قابس",
+      "alfia": "ثقافي: (ii)(iii)(iv)",
+      "alsana": 2012,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "مدينة صفاقس العتيقة",
+      "almawqi": "ولاية صفاقس ، صفاقس",
+      "alfia": "ثقافي: (ii)(iv)(v)",
+      "alsana": 2012,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": 34.733,
+      "longitude": 10.767
+    },
+    {
+      "alism": "بحريات العصر البرمي في جبل طباقة",
+      "almawqi": "ولاية مدنين",
+      "alfia": "طبيعي: (vii)(viii)",
+      "alsana": 2016,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الطبقة الجيولوجية لحدود الطباشيري الباليوجيني",
+      "almawqi": "ولاية الكاف",
+      "alfia": "طبيعي: (vii)(viii)",
+      "alsana": 2016,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "مائدة يوغرطة بالقرب من قلعة سنان",
+      "almawqi": "ولاية الكاف",
+      "alfia": "مختلط: (ii)(iii)(v)(vi)(vii)(viii)",
+      "alsana": 2017,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "المساكن الكهفية وعالم القصور في جنوب تونس",
+      "almawqi": "مواقع متعددة",
+      "alfia": "ثقافي: (iv)(v)",
+      "alsana": 2020,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "رمادية المقطع، الموقع المرجعي للحضارة القبصية",
+      "almawqi": "ولاية قفصة",
+      "alfia": "ثقافي: (iii)",
+      "alsana": 2021,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "الموقع سبيطلة الأثري",
+      "almawqi": "ولاية القصرين",
+      "alfia": "ثقافي: (ii)",
+      "alsana": 2021,
+      "alhala": "القائمة الإرشادية المؤقتة",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "alism": "أرخبيل زمبرة",
+      "almawqi": "ولاية نابل",
+      "alfia": "طبيعي",
+      "alsana": 1979,
+      "alhala": "مواقع رفضت ملفاتها",
+      "latitude": 37.11667,
+      "longitude": 10.80389
+    }
+  ],
+  "meta": {
+    "title": "مواقع التراث العالمي في تونس - Free Download",
+    "description": "مواقع تونس المدرجة في قائمة التراث العالمي لليونسكو والقائمة الإرشادية المؤقتة، مع الموقع والفئة وسنة التسجيل. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مواقع التراث العالمي في تونس | ListBase",
+    "seo_description": "Download مواقع التراث العالمي في تونس — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_تونس"
+    ]
+  }
+}

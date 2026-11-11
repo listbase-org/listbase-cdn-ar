@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-11T02:11:13.997Z",
-  "total_datasets": 522,
-  "total_records": 154092,
+  "generated": "2026-11-11T02:11:26.266Z",
+  "total_datasets": 523,
+  "total_records": 154118,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -13546,6 +13546,34 @@
         "xlsx": {
           "name": "ar-turath-alami-misr_AR.xlsx",
           "size": 15772
+        }
+      }
+    },
+    {
+      "id": "ar-turath-alami-tunis",
+      "name": "مواقع التراث العالمي في تونس",
+      "category": "tourism",
+      "record_count": 26,
+      "columns": [
+        "alism",
+        "almawqi",
+        "alfia",
+        "alsana",
+        "alhala",
+        "latitude",
+        "longitude"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مواقع_التراث_العالمي_في_تونس",
+      "updated": "2026-11",
+      "size": 10081,
+      "files": {
+        "csv": {
+          "name": "ar-turath-alami-tunis_AR.csv",
+          "size": 4576
+        },
+        "xlsx": {
+          "name": "ar-turath-alami-tunis_AR.xlsx",
+          "size": 8695
         }
       }
     },
