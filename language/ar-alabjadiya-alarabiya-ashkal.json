@@ -1,0 +1,313 @@
+{
+  "id": "ar-alabjadiya-alarabiya-ashkal",
+  "name": "الحروف العربية وأشكالها السياقية",
+  "title": "الحروف العربية وأشكالها السياقية",
+  "description": "حروف الأبجدية العربية الثمانية والعشرون مع أشكالها في بداية الكلمة ووسطها ونهايتها، واسم الحرف والترجمة الصوتية والقيمة الصوتية.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/أبجدية_عربية",
+  "source_url": "https://ar.wikipedia.org/wiki/أبجدية_عربية",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "alharf",
+      "label": "Alharf",
+      "type": "string"
+    },
+    {
+      "key": "nihayat_alkalima",
+      "label": "Nihayat Alkalima",
+      "type": "string"
+    },
+    {
+      "key": "wasat_alkalima",
+      "label": "Wasat Alkalima",
+      "type": "string"
+    },
+    {
+      "key": "bidayat_alkalima",
+      "label": "Bidayat Alkalima",
+      "type": "string"
+    },
+    {
+      "key": "alism",
+      "label": "Alism",
+      "type": "string"
+    },
+    {
+      "key": "altarjama_alsawtiya",
+      "label": "Altarjama Alsawtiya",
+      "type": "string"
+    },
+    {
+      "key": "alqima_alsawtiya",
+      "label": "Alqima Alsawtiya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alharf": "ا",
+      "nihayat_alkalima": "ـا",
+      "wasat_alkalima": "ـا",
+      "bidayat_alkalima": "ا",
+      "alism": "ألف",
+      "altarjama_alsawtiya": "ʾ / ā",
+      "alqima_alsawtiya": "/aː/ / /ʔ/"
+    },
+    {
+      "alharf": "ب",
+      "nihayat_alkalima": "ـب",
+      "wasat_alkalima": "ـبـ",
+      "bidayat_alkalima": "بـ",
+      "alism": "باء",
+      "altarjama_alsawtiya": "b",
+      "alqima_alsawtiya": "/b/"
+    },
+    {
+      "alharf": "ت",
+      "nihayat_alkalima": "ـت",
+      "wasat_alkalima": "ـتـ",
+      "bidayat_alkalima": "تـ",
+      "alism": "تاء",
+      "altarjama_alsawtiya": "t",
+      "alqima_alsawtiya": "/t/"
+    },
+    {
+      "alharf": "ث",
+      "nihayat_alkalima": "ـث",
+      "wasat_alkalima": "ـثـ",
+      "bidayat_alkalima": "ثـ",
+      "alism": "ثاء",
+      "altarjama_alsawtiya": "ṯ",
+      "alqima_alsawtiya": "/θ/"
+    },
+    {
+      "alharf": "ج",
+      "nihayat_alkalima": "ـج",
+      "wasat_alkalima": "ـجـ",
+      "bidayat_alkalima": "جـ",
+      "alism": "جيم",
+      "altarjama_alsawtiya": "ǧ",
+      "alqima_alsawtiya": "[ɡ~dʒ~ʒ]"
+    },
+    {
+      "alharf": "ح",
+      "nihayat_alkalima": "ـح",
+      "wasat_alkalima": "ـحـ",
+      "bidayat_alkalima": "حـ",
+      "alism": "حاء",
+      "altarjama_alsawtiya": "ḥ",
+      "alqima_alsawtiya": "/ħ/"
+    },
+    {
+      "alharf": "خ",
+      "nihayat_alkalima": "ـخ",
+      "wasat_alkalima": "ـخـ",
+      "bidayat_alkalima": "خـ",
+      "alism": "خاء",
+      "altarjama_alsawtiya": "ḫ",
+      "alqima_alsawtiya": "/x/"
+    },
+    {
+      "alharf": "د",
+      "nihayat_alkalima": "ـد",
+      "wasat_alkalima": "ـد",
+      "bidayat_alkalima": "د",
+      "alism": "دال",
+      "altarjama_alsawtiya": "d",
+      "alqima_alsawtiya": "/d/"
+    },
+    {
+      "alharf": "ذ",
+      "nihayat_alkalima": "ـذ",
+      "wasat_alkalima": "ـذ",
+      "bidayat_alkalima": "ذ",
+      "alism": "ذال",
+      "altarjama_alsawtiya": "ḏ",
+      "alqima_alsawtiya": "/ð/"
+    },
+    {
+      "alharf": "ر",
+      "nihayat_alkalima": "ـر",
+      "wasat_alkalima": "ـر",
+      "bidayat_alkalima": "ر",
+      "alism": "راء",
+      "altarjama_alsawtiya": "r",
+      "alqima_alsawtiya": "/r/"
+    },
+    {
+      "alharf": "ز",
+      "nihayat_alkalima": "ـز",
+      "wasat_alkalima": "ـز",
+      "bidayat_alkalima": "ز",
+      "alism": "زاي",
+      "altarjama_alsawtiya": "z",
+      "alqima_alsawtiya": "/z/"
+    },
+    {
+      "alharf": "س",
+      "nihayat_alkalima": "ـس",
+      "wasat_alkalima": "ـسـ",
+      "bidayat_alkalima": "سـ",
+      "alism": "سين",
+      "altarjama_alsawtiya": "s",
+      "alqima_alsawtiya": "/s/"
+    },
+    {
+      "alharf": "ش",
+      "nihayat_alkalima": "ـش",
+      "wasat_alkalima": "ـشـ",
+      "bidayat_alkalima": "شـ",
+      "alism": "شين",
+      "altarjama_alsawtiya": "š",
+      "alqima_alsawtiya": "/ʃ/"
+    },
+    {
+      "alharf": "ص",
+      "nihayat_alkalima": "ـص",
+      "wasat_alkalima": "ـصـ",
+      "bidayat_alkalima": "صـ",
+      "alism": "صاد",
+      "altarjama_alsawtiya": "ṣ",
+      "alqima_alsawtiya": "/sˁ/"
+    },
+    {
+      "alharf": "ض",
+      "nihayat_alkalima": "ـض",
+      "wasat_alkalima": "ـضـ",
+      "bidayat_alkalima": "ضـ",
+      "alism": "ضاد",
+      "altarjama_alsawtiya": "ḍ",
+      "alqima_alsawtiya": "/dˁ/"
+    },
+    {
+      "alharf": "ط",
+      "nihayat_alkalima": "ـط",
+      "wasat_alkalima": "ـطـ",
+      "bidayat_alkalima": "طـ",
+      "alism": "طاء",
+      "altarjama_alsawtiya": "ṭ",
+      "alqima_alsawtiya": "/tˁ/"
+    },
+    {
+      "alharf": "ظ",
+      "nihayat_alkalima": "ـظ",
+      "wasat_alkalima": "ـظـ",
+      "bidayat_alkalima": "ظـ",
+      "alism": "ظاء",
+      "altarjama_alsawtiya": "ẓ",
+      "alqima_alsawtiya": "/ðˁ/"
+    },
+    {
+      "alharf": "ع",
+      "nihayat_alkalima": "ـع",
+      "wasat_alkalima": "ـعـ",
+      "bidayat_alkalima": "عـ",
+      "alism": "عين",
+      "altarjama_alsawtiya": "ʿ",
+      "alqima_alsawtiya": "/ʕ/"
+    },
+    {
+      "alharf": "غ",
+      "nihayat_alkalima": "ـغ",
+      "wasat_alkalima": "ـغـ",
+      "bidayat_alkalima": "غـ",
+      "alism": "غين",
+      "altarjama_alsawtiya": "ġ",
+      "alqima_alsawtiya": "/ɣ/"
+    },
+    {
+      "alharf": "ف",
+      "nihayat_alkalima": "ـف",
+      "wasat_alkalima": "ـفـ",
+      "bidayat_alkalima": "فـ",
+      "alism": "فاء",
+      "altarjama_alsawtiya": "f",
+      "alqima_alsawtiya": "/f/"
+    },
+    {
+      "alharf": "ق",
+      "nihayat_alkalima": "ـق",
+      "wasat_alkalima": "ـقـ",
+      "bidayat_alkalima": "قـ",
+      "alism": "قاف",
+      "altarjama_alsawtiya": "q",
+      "alqima_alsawtiya": "/q/"
+    },
+    {
+      "alharf": "ك",
+      "nihayat_alkalima": "ـك",
+      "wasat_alkalima": "ـكـ",
+      "bidayat_alkalima": "كـ",
+      "alism": "كاف",
+      "altarjama_alsawtiya": "k",
+      "alqima_alsawtiya": "/k/"
+    },
+    {
+      "alharf": "ل",
+      "nihayat_alkalima": "ـل",
+      "wasat_alkalima": "ـلـ",
+      "bidayat_alkalima": "لـ",
+      "alism": "لام",
+      "altarjama_alsawtiya": "l",
+      "alqima_alsawtiya": "في لفظ الله فقط /l/ / [lˁ]"
+    },
+    {
+      "alharf": "م",
+      "nihayat_alkalima": "ـم",
+      "wasat_alkalima": "ـمـ",
+      "bidayat_alkalima": "مـ",
+      "alism": "ميم",
+      "altarjama_alsawtiya": "m",
+      "alqima_alsawtiya": "/m/"
+    },
+    {
+      "alharf": "ن",
+      "nihayat_alkalima": "ـن",
+      "wasat_alkalima": "ـنـ",
+      "bidayat_alkalima": "نـ",
+      "alism": "نون",
+      "altarjama_alsawtiya": "n",
+      "alqima_alsawtiya": "/n/"
+    },
+    {
+      "alharf": "ه",
+      "nihayat_alkalima": "ـه",
+      "wasat_alkalima": "ـهـ",
+      "bidayat_alkalima": "هـ",
+      "alism": "هاء",
+      "altarjama_alsawtiya": "h",
+      "alqima_alsawtiya": "/h/"
+    },
+    {
+      "alharf": "و",
+      "nihayat_alkalima": "ـو",
+      "wasat_alkalima": "ـو",
+      "bidayat_alkalima": "و",
+      "alism": "واو",
+      "altarjama_alsawtiya": "w / ū",
+      "alqima_alsawtiya": "/w/ / /u:/"
+    },
+    {
+      "alharf": "ي",
+      "nihayat_alkalima": "ـي",
+      "wasat_alkalima": "ـيـ",
+      "bidayat_alkalima": "يـ",
+      "alism": "ياء",
+      "altarjama_alsawtiya": "y / ī",
+      "alqima_alsawtiya": "/j/ / /i:/"
+    }
+  ],
+  "meta": {
+    "title": "الحروف العربية وأشكالها السياقية - Free Download",
+    "description": "حروف الأبجدية العربية الثمانية والعشرون مع أشكالها في بداية الكلمة ووسطها ونهايتها، واسم الحرف والترجمة الصوتية والقيمة الصوتية. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الحروف العربية وأشكالها السياقية | ListBase",
+    "seo_description": "Download الحروف العربية وأشكالها السياقية — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/أبجدية_عربية"
+    ]
+  }
+}

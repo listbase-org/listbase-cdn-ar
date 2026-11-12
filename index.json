@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-11T02:11:26.266Z",
-  "total_datasets": 523,
-  "total_records": 154118,
+  "generated": "2026-11-12T02:16:50.591Z",
+  "total_datasets": 524,
+  "total_records": 154146,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -9480,6 +9480,34 @@
         "xlsx": {
           "name": "ar-sa-mawaqi-athariyya_AR.xlsx",
           "size": 9992
+        }
+      }
+    },
+    {
+      "id": "ar-alabjadiya-alarabiya-ashkal",
+      "name": "الحروف العربية وأشكالها السياقية",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "alharf",
+        "nihayat_alkalima",
+        "wasat_alkalima",
+        "bidayat_alkalima",
+        "alism",
+        "altarjama_alsawtiya",
+        "alqima_alsawtiya"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/أبجدية_عربية",
+      "updated": "2026-11",
+      "size": 8761,
+      "files": {
+        "csv": {
+          "name": "ar-alabjadiya-alarabiya-ashkal_AR.csv",
+          "size": 1525
+        },
+        "xlsx": {
+          "name": "ar-alabjadiya-alarabiya-ashkal_AR.xlsx",
+          "size": 8258
         }
       }
     },
