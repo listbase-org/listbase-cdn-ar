@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-12T02:17:02.171Z",
-  "total_datasets": 525,
-  "total_records": 154199,
+  "generated": "2026-11-12T02:17:18.770Z",
+  "total_datasets": 526,
+  "total_records": 154292,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -10129,6 +10129,34 @@
         "xlsx": {
           "name": "ar-ruasa-wuzara-aliraq_AR.xlsx",
           "size": 12341
+        }
+      }
+    },
+    {
+      "id": "ar-ruasa-wuzara-alurdun",
+      "name": "رؤساء وزراء الأردن",
+      "category": "politics",
+      "record_count": 93,
+      "columns": [
+        "alraqm",
+        "rais_alwuzara",
+        "fi_ahd",
+        "almudda",
+        "majlis_alwuzara",
+        "alintima",
+        "alhaqba"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_الأردن",
+      "updated": "2026-11",
+      "size": 57277,
+      "files": {
+        "csv": {
+          "name": "ar-ruasa-wuzara-alurdun_AR.csv",
+          "size": 41222
+        },
+        "xlsx": {
+          "name": "ar-ruasa-wuzara-alurdun_AR.xlsx",
+          "size": 13070
         }
       }
     },
