@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-12T02:17:18.770Z",
-  "total_datasets": 526,
-  "total_records": 154292,
+  "generated": "2026-11-12T02:17:31.565Z",
+  "total_datasets": 527,
+  "total_records": 154428,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -197,6 +197,33 @@
         "xlsx": {
           "name": "ar-tashriat-alziraa-misr_AR.xlsx",
           "size": 11957
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-alrai-misr",
+      "name": "وزراء الري والأشغال العمومية في مصر",
+      "category": "agriculture",
+      "record_count": 136,
+      "columns": [
+        "altartib",
+        "alwazir",
+        "ism_alwizara",
+        "alfatra",
+        "alhukuma",
+        "rais_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_الري_(مصر)",
+      "updated": "2026-11",
+      "size": 47889,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-alrai-misr_AR.csv",
+          "size": 27738
+        },
+        "xlsx": {
+          "name": "ar-wuzara-alrai-misr_AR.xlsx",
+          "size": 13098
         }
       }
     },
