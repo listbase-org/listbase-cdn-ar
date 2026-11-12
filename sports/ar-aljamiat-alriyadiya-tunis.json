@@ -1,0 +1,364 @@
+{
+  "id": "ar-aljamiat-alriyadiya-tunis",
+  "name": "الجامعات (الاتحادات) الرياضية في تونس",
+  "title": "الجامعات (الاتحادات) الرياضية في تونس",
+  "description": "قائمة الجامعات الرياضية التونسية (الاتحادات الوطنية) مع رئيس الجامعة وسنة التأسيس والموقع الرسمي.",
+  "category": "sports",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_الرياضية_في_تونس",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_الرياضية_في_تونس",
+  "updated": "2026-11",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "ism_aljamia",
+      "label": "Ism Aljamia",
+      "type": "string"
+    },
+    {
+      "key": "rais_aljamia",
+      "label": "Rais Aljamia",
+      "type": "string"
+    },
+    {
+      "key": "sanat_altasis",
+      "label": "Sanat Altasis",
+      "type": "number"
+    },
+    {
+      "key": "almawqi",
+      "label": "Almawqi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ism_aljamia": "الجامعة التونسية للبيزبول والسوفتبول",
+      "rais_aljamia": "صابر جلاجلة",
+      "sanat_altasis": "1920",
+      "almawqi": "http://www.ftbs.tn"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للسباحة",
+      "rais_aljamia": "الهادي بن حسن",
+      "sanat_altasis": "29 جوان 1956",
+      "almawqi": "http://www.ftnatation.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكرة الطائرة",
+      "rais_aljamia": "فراس الفالح",
+      "sanat_altasis": "جوان 1956",
+      "almawqi": "http://www.ftvb.org/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة اليد",
+      "rais_aljamia": "مراد المستيري",
+      "sanat_altasis": "1 أكتوبر 1956",
+      "almawqi": "http://www.federationhandball.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة السلة",
+      "rais_aljamia": "علي البنزرتي",
+      "sanat_altasis": "28 أكتوبر 1956",
+      "almawqi": "http://www.ftbb.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لرفع الأثقال",
+      "rais_aljamia": "على بن فضل",
+      "sanat_altasis": "28 أكتوبر 1956",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكرة الحديدية",
+      "rais_aljamia": "محمد لسعد الضيف",
+      "sanat_altasis": "1956",
+      "almawqi": "http://www.ftbp.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة القدم",
+      "rais_aljamia": "وديع الجريء",
+      "sanat_altasis": "29 مارس 1957",
+      "almawqi": "http://www.ftf.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لألعاب القوى",
+      "rais_aljamia": "فتحي حشيشة",
+      "sanat_altasis": "1957",
+      "almawqi": "http://www.fta.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للشطرنج",
+      "rais_aljamia": "خالد عرفة",
+      "sanat_altasis": "1957",
+      "almawqi": "http://www.chess.tn/ نسخة محفوظة 16 أغسطس 2016 على موقع واي باك مشين"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للدراجات",
+      "rais_aljamia": "نوفل المرشاوي",
+      "sanat_altasis": "18 أكتوبر 1960",
+      "almawqi": "http://www.ftcyclisme.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة المضرب",
+      "rais_aljamia": "سلمى المولهي",
+      "sanat_altasis": "28 أكتوبر 1960",
+      "almawqi": "http://www.ftt.tn"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للمبارزة",
+      "rais_aljamia": "صالح الفرجاني",
+      "sanat_altasis": "26 أكتوبر 1960",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للجمباز",
+      "rais_aljamia": "فيصل الزمني",
+      "sanat_altasis": "28 أكتوبر 1960",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للجودو",
+      "rais_aljamia": "إسكندر حشيشة",
+      "sanat_altasis": "28 أكتوبر 1960",
+      "almawqi": "http://www.fjudo-tn.com/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للملاكمة",
+      "rais_aljamia": "معطى الدخلي",
+      "sanat_altasis": "7 نوفمبر 1960",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لرياضات الفروسية",
+      "rais_aljamia": "ماهر بالرشيد",
+      "sanat_altasis": "1964",
+      "almawqi": "http://www.ftse.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكاراتيه",
+      "rais_aljamia": "حسن القربي",
+      "sanat_altasis": "1966",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة الطاولة",
+      "rais_aljamia": "لطفي قرفال",
+      "sanat_altasis": "8 مارس 1968",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للمصارعة",
+      "rais_aljamia": "حسين الخرازي",
+      "sanat_altasis": "8 سبتمبر 1968",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لاتحاد الرغبي",
+      "rais_aljamia": "عارف بالخيرية",
+      "sanat_altasis": "14 نوفمبر 1970",
+      "almawqi": "http://www.tunisiarugby.com/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لرياضة المعوقين",
+      "rais_aljamia": "محمد المزوغي",
+      "sanat_altasis": "1984",
+      "almawqi": "http://www.ftsh-tn.com/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرياضة المدرسية والجامعية",
+      "rais_aljamia": "محمد الهادي القاسمي",
+      "sanat_altasis": "17 مارس 1989",
+      "almawqi": "http://www.ftssu.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرقص الفني والرياضي",
+      "rais_aljamia": "فتحي الغربي",
+      "sanat_altasis": "6 ماي 1989",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لأنشطة الغوص والانقاذ",
+      "rais_aljamia": "الحبيب الشريف",
+      "sanat_altasis": "27 ماي 1989",
+      "almawqi": "https://ftassa.tn"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للأشرعة",
+      "rais_aljamia": "عبد الكريم الدّرويش",
+      "sanat_altasis": "14 جوان 1989",
+      "almawqi": "http://www.ftv.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للجولف",
+      "rais_aljamia": "ماهر بوشماوي",
+      "sanat_altasis": "4 ديسمبر 1992",
+      "almawqi": "http://www.ftg.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للتايكواندو",
+      "rais_aljamia": "أحمد قعلول",
+      "sanat_altasis": "30 نوفمبر 1999",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكيوكوشنكاي كاراتي والفنون الدفاعية",
+      "rais_aljamia": "لطفي الساكت",
+      "sanat_altasis": "2 أفريل 2004",
+      "almawqi": "http://www.ftkktunisia.com/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للصيد البحري الرياضي",
+      "rais_aljamia": "فتحي بيّار",
+      "sanat_altasis": "25 أوت 2005",
+      "almawqi": "http://www.ftps.org.tn"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للدراجات النارية والأنشطة التابعة",
+      "rais_aljamia": "مهدي باش حامبة",
+      "sanat_altasis": "30 أوت 2005",
+      "almawqi": "http://fede-moto-tunisie.com/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للووشو كونغ فو والرياضات التابعة",
+      "rais_aljamia": "محمد عادل زهرة",
+      "sanat_altasis": "9 سبتمبر 2005",
+      "almawqi": "http://www.kungfuwushutunisie.com"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لبناء الأجسام و الفتنس",
+      "rais_aljamia": "وائل الهيشري",
+      "sanat_altasis": "17 أكتوبر 2005",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرياضة للجميع",
+      "rais_aljamia": "جلال بن تقية",
+      "sanat_altasis": "18 ديسمبر 2007",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكانوي كاياك",
+      "rais_aljamia": "محسن التكروني",
+      "sanat_altasis": "8 أفريل 2008",
+      "almawqi": "http://www.ftck.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لهوكي الجليد",
+      "rais_aljamia": "إيهاب عياد",
+      "sanat_altasis": "سبتمبر 2009",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للسيارات",
+      "rais_aljamia": "محمد سليم الغزاي",
+      "sanat_altasis": "10 ديسمبر 2012",
+      "almawqi": "http://www.ftauto.org.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للتجديف",
+      "rais_aljamia": "سليم بن بوبكر",
+      "sanat_altasis": "15 ماي 2014",
+      "almawqi": "https://trf.org.tn"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرياضات الجوية والأنشطة التابعة",
+      "rais_aljamia": "ماهر العطّار",
+      "sanat_altasis": "5 أوت 2015",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة القدم المصغرة",
+      "rais_aljamia": "أشرف بن صالحة",
+      "sanat_altasis": "2016",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة القدم الأمريكية",
+      "rais_aljamia": "أمين بن عبد الكريم",
+      "sanat_altasis": "2017",
+      "almawqi": "atfootus.wixsite.com"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرياضات الإلكترونية",
+      "rais_aljamia": "مراد الملولي",
+      "sanat_altasis": "1 أكتوبر 2018",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للريشة الطائرة",
+      "rais_aljamia": "عبد المجيد البحري",
+      "sanat_altasis": "12 جانفي 2019",
+      "almawqi": "http://www.ftbad.org/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لكرة السرعة",
+      "rais_aljamia": "منصف ميلي",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للترياتلون والبارا ترياتلون",
+      "rais_aljamia": "لطفي لعبيّد",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لليوزيكان بودو",
+      "rais_aljamia": "سمير بن دعية",
+      "sanat_altasis": "",
+      "almawqi": "http://www.ft-yb.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للجوجوتسو",
+      "rais_aljamia": "على بدر",
+      "sanat_altasis": "",
+      "almawqi": "http://www.ftjj.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للكيك والتاي بوكسينغ السافات والأنشطة التابعة",
+      "rais_aljamia": "على الديوري",
+      "sanat_altasis": "",
+      "almawqi": "http://www.ftktbsda.tn/"
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرماية",
+      "rais_aljamia": "الطاهر المطماطي",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية لأنشطة السياحة البحرية",
+      "rais_aljamia": "بلقاسم الوشتاتي",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للبريدج",
+      "rais_aljamia": "المنصف الدغموري",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للأولمبياد الخاص لحاملي الإعاقة الذهنية",
+      "rais_aljamia": "توفيق الشريف",
+      "sanat_altasis": "",
+      "almawqi": ""
+    },
+    {
+      "ism_aljamia": "الجامعة التونسية للرياضة والشغل",
+      "rais_aljamia": "منير الدنقزلي",
+      "sanat_altasis": "",
+      "almawqi": "http://www.ftst.org.tn/"
+    }
+  ],
+  "meta": {
+    "title": "الجامعات (الاتحادات) الرياضية في تونس - Free Download",
+    "description": "قائمة الجامعات الرياضية التونسية (الاتحادات الوطنية) مع رئيس الجامعة وسنة التأسيس والموقع الرسمي. Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الجامعات (الاتحادات) الرياضية في تونس | ListBase",
+    "seo_description": "Download الجامعات (الاتحادات) الرياضية في تونس — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الجامعات_الرياضية_في_تونس"
+    ]
+  }
+}

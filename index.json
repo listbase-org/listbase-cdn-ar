@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-12T02:16:50.591Z",
-  "total_datasets": 524,
-  "total_records": 154146,
+  "generated": "2026-11-12T02:17:02.171Z",
+  "total_datasets": 525,
+  "total_records": 154199,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -12479,6 +12479,31 @@
         "xlsx": {
           "name": "ar-abtal-aldawri-alsaudi_AR.xlsx",
           "size": 8245
+        }
+      }
+    },
+    {
+      "id": "ar-aljamiat-alriyadiya-tunis",
+      "name": "الجامعات (الاتحادات) الرياضية في تونس",
+      "category": "sports",
+      "record_count": 53,
+      "columns": [
+        "ism_aljamia",
+        "rais_aljamia",
+        "sanat_altasis",
+        "almawqi"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الجامعات_الرياضية_في_تونس",
+      "updated": "2026-11",
+      "size": 13827,
+      "files": {
+        "csv": {
+          "name": "ar-aljamiat-alriyadiya-tunis_AR.csv",
+          "size": 6650
+        },
+        "xlsx": {
+          "name": "ar-aljamiat-alriyadiya-tunis_AR.xlsx",
+          "size": 9672
         }
       }
     },
