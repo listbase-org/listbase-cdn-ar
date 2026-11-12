@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-12T02:17:31.565Z",
-  "total_datasets": 527,
-  "total_records": 154428,
+  "generated": "2026-11-12T02:17:43.098Z",
+  "total_datasets": 528,
+  "total_records": 154570,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -754,6 +754,33 @@
         "xlsx": {
           "name": "ar-sa-madaris_AR.xlsx",
           "size": 8902
+        }
+      }
+    },
+    {
+      "id": "ar-wuzara-altarbiya-waltaalim-misr",
+      "name": "وزراء التربية والتعليم في مصر",
+      "category": "education",
+      "record_count": 142,
+      "columns": [
+        "altartib",
+        "alwazir",
+        "ism_alwizara",
+        "alfatra",
+        "alhukuma",
+        "rais_alwuzara"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_وزراء_التربية_والتعليم_(مصر)",
+      "updated": "2026-11",
+      "size": 57994,
+      "files": {
+        "csv": {
+          "name": "ar-wuzara-altarbiya-waltaalim-misr_AR.csv",
+          "size": 37079
+        },
+        "xlsx": {
+          "name": "ar-wuzara-altarbiya-waltaalim-misr_AR.xlsx",
+          "size": 14475
         }
       }
     },
