@@ -1,0 +1,432 @@
+{
+  "id": "ar-sukkan-wamisahat-muhafazat-misr",
+  "name": "سكان ومساحة محافظات مصر",
+  "title": "سكان ومساحة محافظات مصر",
+  "description": "محافظات مصر مع المساحة وعدد السكان (تعداد 2017 وتقدير 2025) والعاصمة والإقليم وعدد المدن والقرى والمراكز والأقسام.",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_محافظات_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_محافظات_مصر",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "almuhafaza",
+      "label": "Almuhafaza",
+      "type": "string"
+    },
+    {
+      "key": "almisaha_km2",
+      "label": "Almisaha Km2",
+      "type": "number"
+    },
+    {
+      "key": "sukkan_2017",
+      "label": "Sukkan 2017",
+      "type": "number"
+    },
+    {
+      "key": "sukkan_2025_taqdir",
+      "label": "Sukkan 2025 Taqdir",
+      "type": "number"
+    },
+    {
+      "key": "alasima",
+      "label": "Alasima",
+      "type": "string"
+    },
+    {
+      "key": "aliqlim",
+      "label": "Aliqlim",
+      "type": "string"
+    },
+    {
+      "key": "almudun",
+      "label": "Almudun",
+      "type": "number"
+    },
+    {
+      "key": "alqura",
+      "label": "Alqura",
+      "type": "number"
+    },
+    {
+      "key": "almarakiz",
+      "label": "Almarakiz",
+      "type": "number"
+    },
+    {
+      "key": "alaqsam",
+      "label": "Alaqsam",
+      "type": "number"
+    },
+    {
+      "key": "almudun_aljadida",
+      "label": "Almudun Aljadida",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "almuhafaza": "الإسكندرية",
+      "almisaha_km2": 2299.97,
+      "sukkan_2017": 5299718,
+      "sukkan_2025_taqdir": 5634723,
+      "alasima": "الإسكندرية",
+      "aliqlim": "الإسكندرية",
+      "almudun": 2,
+      "alqura": 9,
+      "almarakiz": 1,
+      "alaqsam": 18,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "الإسماعيلية",
+      "almisaha_km2": 5066.97,
+      "sukkan_2017": 1352548,
+      "sukkan_2025_taqdir": 1491299,
+      "alasima": "الإسماعيلية",
+      "aliqlim": "القناة",
+      "almudun": 7,
+      "alqura": 42,
+      "almarakiz": 7,
+      "alaqsam": 2,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "أسوان",
+      "almisaha_km2": 62726,
+      "sukkan_2017": 1532400,
+      "sukkan_2025_taqdir": 1704974,
+      "alasima": "أسوان",
+      "aliqlim": "جنوب الصعيد",
+      "almudun": 10,
+      "alqura": 116,
+      "almarakiz": 6,
+      "alaqsam": 3,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "أسيوط",
+      "almisaha_km2": 25926,
+      "sukkan_2017": 4587577,
+      "sukkan_2025_taqdir": 5249756,
+      "alasima": "أسيوط",
+      "aliqlim": "وسط الصعيد",
+      "almudun": 11,
+      "alqura": 235,
+      "almarakiz": 11,
+      "alaqsam": 4,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "الأقصر",
+      "almisaha_km2": 2409.68,
+      "sukkan_2017": 1296540,
+      "sukkan_2025_taqdir": 1445111,
+      "alasima": "الأقصر",
+      "aliqlim": "جنوب الصعيد",
+      "almudun": 7,
+      "alqura": 56,
+      "almarakiz": 5,
+      "alaqsam": 1,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "البحر الأحمر",
+      "almisaha_km2": 119099,
+      "sukkan_2017": 372862,
+      "sukkan_2025_taqdir": 417516,
+      "alasima": "الغردقة",
+      "aliqlim": "جنوب الصعيد",
+      "almudun": 7,
+      "alqura": 13,
+      "almarakiz": "-",
+      "alaqsam": 8,
+      "almudun_aljadida": "-"
+    },
+    {
+      "almuhafaza": "البحيرة",
+      "almisaha_km2": 9826,
+      "sukkan_2017": 6404210,
+      "sukkan_2025_taqdir": 7058007,
+      "alasima": "دمنهور",
+      "aliqlim": "الإسكندرية",
+      "almudun": 15,
+      "alqura": 496,
+      "almarakiz": 15,
+      "alaqsam": 3,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "بني سويف",
+      "almisaha_km2": 10954,
+      "sukkan_2017": 3288219,
+      "sukkan_2025_taqdir": 3710369,
+      "alasima": "بني سويف",
+      "aliqlim": "شمال الصعيد",
+      "almudun": 7,
+      "alqura": 222,
+      "almarakiz": 7,
+      "alaqsam": 2,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "بورسعيد",
+      "almisaha_km2": 1344.96,
+      "sukkan_2017": 764499,
+      "sukkan_2025_taqdir": 799949,
+      "alasima": "بورسعيد",
+      "aliqlim": "القناة",
+      "almudun": 2,
+      "alqura": "-",
+      "almarakiz": 2,
+      "alaqsam": 11,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "جنوب سيناء",
+      "almisaha_km2": 31272,
+      "sukkan_2017": 105953,
+      "sukkan_2025_taqdir": 121261,
+      "alasima": "الطور",
+      "aliqlim": "القناة",
+      "almudun": 9,
+      "alqura": 14,
+      "almarakiz": "-",
+      "alaqsam": 10,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "الجيزة",
+      "almisaha_km2": 85153,
+      "sukkan_2017": 8915164,
+      "sukkan_2025_taqdir": 9754127,
+      "alasima": "الجيزة",
+      "aliqlim": "القاهرة الكبرى",
+      "almudun": 11,
+      "alqura": 162,
+      "almarakiz": 8,
+      "alaqsam": 18,
+      "almudun_aljadida": 6
+    },
+    {
+      "almuhafaza": "الدقهلية",
+      "almisaha_km2": 3538.23,
+      "sukkan_2017": 6679368,
+      "sukkan_2025_taqdir": 7180931,
+      "alasima": "المنصورة",
+      "aliqlim": "الدلتا",
+      "almudun": 19,
+      "alqura": 499,
+      "almarakiz": 18,
+      "alaqsam": 6,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "دمياط",
+      "almisaha_km2": 910.26,
+      "sukkan_2017": 1539075,
+      "sukkan_2025_taqdir": 1645864,
+      "alasima": "دمياط",
+      "aliqlim": "الدلتا",
+      "almudun": 10,
+      "alqura": 85,
+      "almarakiz": 5,
+      "alaqsam": 5,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "سوهاج",
+      "almisaha_km2": 11022,
+      "sukkan_2017": 5193052,
+      "sukkan_2025_taqdir": 5937939,
+      "alasima": "سوهاج",
+      "aliqlim": "جنوب الصعيد",
+      "almudun": 11,
+      "alqura": 270,
+      "almarakiz": 13,
+      "alaqsam": 6,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "السويس",
+      "almisaha_km2": 9002.21,
+      "sukkan_2017": 749657,
+      "sukkan_2025_taqdir": 808204,
+      "alasima": "السويس",
+      "aliqlim": "القناة",
+      "almudun": 1,
+      "alqura": "-",
+      "almarakiz": "-",
+      "alaqsam": 5,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "الشرقية",
+      "almisaha_km2": 4911,
+      "sukkan_2017": 7401700,
+      "sukkan_2025_taqdir": 8101175,
+      "alasima": "الزقازيق",
+      "aliqlim": "القناة",
+      "almudun": 17,
+      "alqura": 509,
+      "almarakiz": 15,
+      "alaqsam": 10,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "شمال سيناء",
+      "almisaha_km2": 28992,
+      "sukkan_2017": 463975,
+      "sukkan_2025_taqdir": 525639,
+      "alasima": "العريش",
+      "aliqlim": "القناة",
+      "almudun": 6,
+      "alqura": 85,
+      "almarakiz": "-",
+      "alaqsam": 11,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "الغربية",
+      "almisaha_km2": 1942.34,
+      "sukkan_2017": 5146411,
+      "sukkan_2025_taqdir": 5541092,
+      "alasima": "طنطا",
+      "aliqlim": "الدلتا",
+      "almudun": 8,
+      "alqura": 320,
+      "almarakiz": 8,
+      "alaqsam": 7,
+      "almudun_aljadida": "-"
+    },
+    {
+      "almuhafaza": "الفيوم",
+      "almisaha_km2": 6068,
+      "sukkan_2017": 3747942,
+      "sukkan_2025_taqdir": 4207869,
+      "alasima": "الفيوم",
+      "aliqlim": "شمال الصعيد",
+      "almudun": 6,
+      "alqura": 163,
+      "almarakiz": 8,
+      "alaqsam": 3,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "القاهرة",
+      "almisaha_km2": 3085.12,
+      "sukkan_2017": 9788739,
+      "sukkan_2025_taqdir": 10427030,
+      "alasima": "القاهرة",
+      "aliqlim": "القاهرة الكبرى",
+      "almudun": 1,
+      "alqura": "-",
+      "almarakiz": "-",
+      "alaqsam": 45,
+      "almudun_aljadida": 9
+    },
+    {
+      "almuhafaza": "القليوبية",
+      "almisaha_km2": 1124.28,
+      "sukkan_2017": 5792066,
+      "sukkan_2025_taqdir": 6267715,
+      "alasima": "بنها",
+      "aliqlim": "القاهرة الكبرى",
+      "almudun": 10,
+      "alqura": 195,
+      "almarakiz": 7,
+      "alaqsam": 9,
+      "almudun_aljadida": 2
+    },
+    {
+      "almuhafaza": "قنا",
+      "almisaha_km2": 10798,
+      "sukkan_2017": 3302894,
+      "sukkan_2025_taqdir": 3764791,
+      "alasima": "قنا",
+      "aliqlim": "جنوب الصعيد",
+      "almudun": 9,
+      "alqura": 152,
+      "almarakiz": 9,
+      "alaqsam": 1,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "كفر الشيخ",
+      "almisaha_km2": 3466.69,
+      "sukkan_2017": 3478267,
+      "sukkan_2025_taqdir": "380,2762",
+      "alasima": "كفر الشيخ",
+      "aliqlim": "الدلتا",
+      "almudun": 14,
+      "alqura": 225,
+      "almarakiz": 10,
+      "alaqsam": 5,
+      "almudun_aljadida": "-"
+    },
+    {
+      "almuhafaza": "مطروح",
+      "almisaha_km2": 166564,
+      "sukkan_2017": 461847,
+      "sukkan_2025_taqdir": 584973,
+      "alasima": "مرسى مطروح",
+      "aliqlim": "الإسكندرية",
+      "almudun": 8,
+      "alqura": 130,
+      "almarakiz": "-",
+      "alaqsam": 9,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "المنوفية",
+      "almisaha_km2": 2499,
+      "sukkan_2017": 4441717,
+      "sukkan_2025_taqdir": 4847520,
+      "alasima": "شبين الكوم",
+      "aliqlim": "الدلتا",
+      "almudun": 9,
+      "alqura": 317,
+      "almarakiz": 9,
+      "alaqsam": 3,
+      "almudun_aljadida": 1
+    },
+    {
+      "almuhafaza": "المنيا",
+      "almisaha_km2": 32279,
+      "sukkan_2017": 5745212,
+      "sukkan_2025_taqdir": 6563077,
+      "alasima": "المنيا",
+      "aliqlim": "شمال الصعيد",
+      "almudun": 9,
+      "alqura": 361,
+      "almarakiz": 10,
+      "alaqsam": 5,
+      "almudun_aljadida": 3
+    },
+    {
+      "almuhafaza": "الوادي الجديد",
+      "almisaha_km2": 440098,
+      "sukkan_2017": 249399,
+      "sukkan_2025_taqdir": 274623,
+      "alasima": "الخارجة",
+      "aliqlim": "وسط الصعيد",
+      "almudun": 5,
+      "alqura": 130,
+      "almarakiz": 4,
+      "alaqsam": 1,
+      "almudun_aljadida": 1
+    }
+  ],
+  "meta": {
+    "title": "سكان ومساحة محافظات مصر - Free Download",
+    "description": "محافظات مصر مع المساحة وعدد السكان (تعداد 2017 وتقدير 2025) والعاصمة والإقليم وعدد المدن والقرى والمراكز والأقسام. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سكان ومساحة محافظات مصر | ListBase",
+    "seo_description": "Download سكان ومساحة محافظات مصر — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_محافظات_مصر"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-13T02:17:19.566Z",
-  "total_datasets": 530,
-  "total_records": 154595,
+  "generated": "2026-11-13T02:17:34.209Z",
+  "total_datasets": 531,
+  "total_records": 154622,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12541,6 +12541,38 @@
         "xlsx": {
           "name": "ar-sukkan-oman-hasab-alfiaat-alumriya_AR.xlsx",
           "size": 7140
+        }
+      }
+    },
+    {
+      "id": "ar-sukkan-wamisahat-muhafazat-misr",
+      "name": "سكان ومساحة محافظات مصر",
+      "category": "society",
+      "record_count": 27,
+      "columns": [
+        "almuhafaza",
+        "almisaha_km2",
+        "sukkan_2017",
+        "sukkan_2025_taqdir",
+        "alasima",
+        "aliqlim",
+        "almudun",
+        "alqura",
+        "almarakiz",
+        "alaqsam",
+        "almudun_aljadida"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_محافظات_مصر",
+      "updated": "2026-11",
+      "size": 11471,
+      "files": {
+        "csv": {
+          "name": "ar-sukkan-wamisahat-muhafazat-misr_AR.csv",
+          "size": 2987
+        },
+        "xlsx": {
+          "name": "ar-sukkan-wamisahat-muhafazat-misr_AR.xlsx",
+          "size": 8848
         }
       }
     },
