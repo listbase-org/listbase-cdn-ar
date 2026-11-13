@@ -1,0 +1,112 @@
+{
+  "id": "ar-nitaqat-alintarnit-alarabiya-lildual",
+  "name": "نطاقات الإنترنت العربية المقترحة للدول",
+  "title": "نطاقات الإنترنت العربية المقترحة للدول",
+  "description": "رموز نطاقات الإنترنت العلوية العربية المقترحة للدول العربية مع ما يقابلها من رمز الدولة اللاتيني والاسم النسبي.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/النطاقات_العربية",
+  "source_url": "https://ar.wikipedia.org/wiki/النطاقات_العربية",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nitaq_arabi",
+      "label": "Nitaq Arabi",
+      "type": "string"
+    },
+    {
+      "key": "ramz_aldawla_latini",
+      "label": "Ramz Aldawla Latini",
+      "type": "string"
+    },
+    {
+      "key": "alism_alnisbi",
+      "label": "Alism Alnisbi",
+      "type": "string"
+    },
+    {
+      "key": "aldawla",
+      "label": "Aldawla",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nitaq_arabi": ".أر",
+      "ramz_aldawla_latini": ".jo",
+      "alism_alnisbi": "أردني",
+      "aldawla": "الأردن"
+    },
+    {
+      "nitaq_arabi": ".إم",
+      "ramz_aldawla_latini": ".ae",
+      "alism_alnisbi": "إماراتي",
+      "aldawla": "الإمارات"
+    },
+    {
+      "nitaq_arabi": ".بح",
+      "ramz_aldawla_latini": ".bh",
+      "alism_alnisbi": "بحريني",
+      "aldawla": "البحرين"
+    },
+    {
+      "nitaq_arabi": ".تو",
+      "ramz_aldawla_latini": ".tn",
+      "alism_alnisbi": "تونسي",
+      "aldawla": "تونس"
+    },
+    {
+      "nitaq_arabi": ".جز",
+      "ramz_aldawla_latini": ".dz",
+      "alism_alnisbi": "جزائري",
+      "aldawla": "الجزائر"
+    },
+    {
+      "nitaq_arabi": ".جي",
+      "ramz_aldawla_latini": ".dj",
+      "alism_alnisbi": "جيبوتي",
+      "aldawla": "جيبوتي"
+    },
+    {
+      "nitaq_arabi": ".سع",
+      "ramz_aldawla_latini": ".sa",
+      "alism_alnisbi": "سعودي",
+      "aldawla": "السعودية"
+    },
+    {
+      "nitaq_arabi": ".مص",
+      "ramz_aldawla_latini": ".eg",
+      "alism_alnisbi": "مصري",
+      "aldawla": "مصر"
+    },
+    {
+      "nitaq_arabi": ".مغ",
+      "ramz_aldawla_latini": ".ma",
+      "alism_alnisbi": "مغربي",
+      "aldawla": "المغرب"
+    },
+    {
+      "nitaq_arabi": ".مو",
+      "ramz_aldawla_latini": ".mr",
+      "alism_alnisbi": "موريتاني",
+      "aldawla": "موريتانيا"
+    },
+    {
+      "nitaq_arabi": ".يم",
+      "ramz_aldawla_latini": ".ye",
+      "alism_alnisbi": "يمني",
+      "aldawla": "اليمن"
+    }
+  ],
+  "meta": {
+    "title": "نطاقات الإنترنت العربية المقترحة للدول - Free Download",
+    "description": "رموز نطاقات الإنترنت العلوية العربية المقترحة للدول العربية مع ما يقابلها من رمز الدولة اللاتيني والاسم النسبي. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "نطاقات الإنترنت العربية المقترحة للدول | ListBase",
+    "seo_description": "Download نطاقات الإنترنت العربية المقترحة للدول — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/النطاقات_العربية"
+    ]
+  }
+}

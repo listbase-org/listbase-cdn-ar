@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-13T02:17:07.687Z",
-  "total_datasets": 529,
-  "total_records": 154584,
+  "generated": "2026-11-13T02:17:19.566Z",
+  "total_datasets": 530,
+  "total_records": 154595,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -12897,6 +12897,31 @@
         "xlsx": {
           "name": "ar-mahattat-tahliyat-almiyah-alsaudia_AR.xlsx",
           "size": 10526
+        }
+      }
+    },
+    {
+      "id": "ar-nitaqat-alintarnit-alarabiya-lildual",
+      "name": "نطاقات الإنترنت العربية المقترحة للدول",
+      "category": "tech",
+      "record_count": 11,
+      "columns": [
+        "nitaq_arabi",
+        "ramz_aldawla_latini",
+        "alism_alnisbi",
+        "aldawla"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/النطاقات_العربية",
+      "updated": "2026-11",
+      "size": 3647,
+      "files": {
+        "csv": {
+          "name": "ar-nitaqat-alintarnit-alarabiya-lildual_AR.csv",
+          "size": 544
+        },
+        "xlsx": {
+          "name": "ar-nitaqat-alintarnit-alarabiya-lildual_AR.xlsx",
+          "size": 7195
         }
       }
     },
