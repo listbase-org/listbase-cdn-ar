@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-14T02:16:30.692Z",
-  "total_datasets": 535,
-  "total_records": 154944,
+  "generated": "2026-11-14T02:16:44.636Z",
+  "total_datasets": 536,
+  "total_records": 154976,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -15656,6 +15656,35 @@
         "xlsx": {
           "name": "ar-wahdat-alqiyas-almisriya-alqarn-19_AR.xlsx",
           "size": 7571
+        }
+      }
+    },
+    {
+      "id": "ar-wahdat-alqiyas-bilad-alrafidayn",
+      "name": "وحدات القياس في حضارة بلاد الرافدين القديمة",
+      "category": "units",
+      "record_count": 32,
+      "columns": [
+        "alnaw",
+        "alwahda",
+        "alnisba",
+        "alabaad",
+        "alqima",
+        "bilsumariya",
+        "bilakkadiya",
+        "bilmismariya"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_في_حضارة_بلاد_الرافدين_القديمة",
+      "updated": "2026-11",
+      "size": 10165,
+      "files": {
+        "csv": {
+          "name": "ar-wahdat-alqiyas-bilad-alrafidayn_AR.csv",
+          "size": 2375
+        },
+        "xlsx": {
+          "name": "ar-wahdat-alqiyas-bilad-alrafidayn_AR.xlsx",
+          "size": 8612
         }
       }
     },

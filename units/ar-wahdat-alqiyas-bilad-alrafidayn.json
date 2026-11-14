@@ -1,0 +1,386 @@
+{
+  "id": "ar-wahdat-alqiyas-bilad-alrafidayn",
+  "name": "وحدات القياس في حضارة بلاد الرافدين القديمة",
+  "title": "وحدات القياس في حضارة بلاد الرافدين القديمة",
+  "description": "وحدات الطول والمسافة والمساحة والسعة والوزن والزمن في بلاد الرافدين القديمة مع نسبها وأسمائها بالسومرية والأكدية والخط المسماري.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/وحدات_القياس_في_حضارة_بلاد_الرافدين_القديمة",
+  "source_url": "https://ar.wikipedia.org/wiki/وحدات_القياس_في_حضارة_بلاد_الرافدين_القديمة",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    },
+    {
+      "key": "alwahda",
+      "label": "Alwahda",
+      "type": "string"
+    },
+    {
+      "key": "alnisba",
+      "label": "Alnisba",
+      "type": "string"
+    },
+    {
+      "key": "alabaad",
+      "label": "Alabaad",
+      "type": "string"
+    },
+    {
+      "key": "alqima",
+      "label": "Alqima",
+      "type": "string"
+    },
+    {
+      "key": "bilsumariya",
+      "label": "Bilsumariya",
+      "type": "string"
+    },
+    {
+      "key": "bilakkadiya",
+      "label": "Bilakkadiya",
+      "type": "string"
+    },
+    {
+      "key": "bilmismariya",
+      "label": "Bilmismariya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alnaw": "الطول",
+      "alwahda": "حبة",
+      "alnisba": "1/180",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "še",
+      "bilakkadiya": "uţţatu",
+      "bilmismariya": "𒊺"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "أصبع",
+      "alnisba": "1/30",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "šu-si",
+      "bilakkadiya": "ubānu",
+      "bilmismariya": "𒋗𒋛"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "قدم",
+      "alnisba": "2/3",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "šu-du 3 -a",
+      "bilakkadiya": "šīzu",
+      "bilmismariya": "𒋗𒆕𒀀"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "ذراع",
+      "alnisba": "1",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "kuš 3",
+      "bilakkadiya": "ammatu",
+      "bilmismariya": "𒌑"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "خطوة",
+      "alnisba": "2",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "ĝiri 3",
+      "bilakkadiya": "šēpu",
+      "bilmismariya": "𒈨𒊑"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "قصب",
+      "alnisba": "6",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "gi",
+      "bilakkadiya": "qanû",
+      "bilmismariya": "𒄀"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "عصا",
+      "alnisba": "12",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "nindan",
+      "bilakkadiya": "nindanu",
+      "bilmismariya": "𒃻"
+    },
+    {
+      "alnaw": "الطول",
+      "alwahda": "حبل",
+      "alnisba": "120",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "eše 2",
+      "bilakkadiya": "aslu",
+      "bilmismariya": "𒂠"
+    },
+    {
+      "alnaw": "المسافة",
+      "alwahda": "عصا",
+      "alnisba": "1/60",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "nidan",
+      "bilakkadiya": "nindanu",
+      "bilmismariya": "𒃻"
+    },
+    {
+      "alnaw": "المسافة",
+      "alwahda": "حبل",
+      "alnisba": "1/6",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "eše 2",
+      "bilakkadiya": "aslu",
+      "bilmismariya": "𒂠"
+    },
+    {
+      "alnaw": "المسافة",
+      "alwahda": "سلك",
+      "alnisba": "1",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "uš",
+      "bilakkadiya": "uš",
+      "bilmismariya": "𒍑"
+    },
+    {
+      "alnaw": "المسافة",
+      "alwahda": "عصبة",
+      "alnisba": "30",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "da-na",
+      "bilakkadiya": "bêru",
+      "bilmismariya": "𒁕𒈾"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "شيكل",
+      "alnisba": "1/144",
+      "alabaad": "1 kuš 3 × 1 kuš 3",
+      "alqima": "",
+      "bilsumariya": "gin 2",
+      "bilakkadiya": "šiqlu",
+      "bilmismariya": "𒂆"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "حديقة",
+      "alnisba": "1",
+      "alabaad": "12 kuš 3 × 12 kuš 3",
+      "alqima": "",
+      "bilsumariya": "sar",
+      "bilakkadiya": "mūšaru",
+      "bilmismariya": "𒊬"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "ربع حقل",
+      "alnisba": "25",
+      "alabaad": "60 kuš 3 × 60 kuš 3",
+      "alqima": "",
+      "bilsumariya": "uzalak",
+      "bilakkadiya": "?",
+      "bilmismariya": "𒀺"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "نصف حقل",
+      "alnisba": "50",
+      "alabaad": "120 kuš 3 × 60 kuš 3",
+      "alqima": "",
+      "bilsumariya": "upu",
+      "bilakkadiya": "ubû",
+      "bilmismariya": "𒀹𒃷"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "حقل",
+      "alnisba": "100",
+      "alabaad": "120 kuš 3 × 120 kuš 3",
+      "alqima": "",
+      "bilsumariya": "iku",
+      "bilakkadiya": "ikû",
+      "bilmismariya": "𒃷"
+    },
+    {
+      "alnaw": "المساحة",
+      "alwahda": "ملكية",
+      "alnisba": "1800",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "bur",
+      "bilakkadiya": "būru",
+      "bilmismariya": "𒁓"
+    },
+    {
+      "alnaw": "السعة أو الحجم",
+      "alwahda": "شيكل",
+      "alnisba": "1/60",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "gin 2",
+      "bilakkadiya": "šiqlu",
+      "bilmismariya": "𒂆"
+    },
+    {
+      "alnaw": "السعة أو الحجم",
+      "alwahda": "صَحن",
+      "alnisba": "1",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "sila 3",
+      "bilakkadiya": "qû",
+      "bilmismariya": "𒋡"
+    },
+    {
+      "alnaw": "السعة أو الحجم",
+      "alwahda": "وعاء",
+      "alnisba": "10",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "ban 2",
+      "bilakkadiya": "sutū",
+      "bilmismariya": "𒑏"
+    },
+    {
+      "alnaw": "السعة أو الحجم",
+      "alwahda": "بوشل",
+      "alnisba": "60",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "ba-ri 2 -ga",
+      "bilakkadiya": "parsiktu",
+      "bilmismariya": "𒁀𒌷𒂵"
+    },
+    {
+      "alnaw": "السعة أو الحجم",
+      "alwahda": "كَـور مكعب",
+      "alnisba": "300",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "gur",
+      "bilakkadiya": "kurru",
+      "bilmismariya": "𒄥"
+    },
+    {
+      "alnaw": "الكتلة أو الوزن",
+      "alwahda": "حبة",
+      "alnisba": "1/180",
+      "alabaad": "",
+      "alqima": "46.6±1.9 mg",
+      "bilsumariya": "še",
+      "bilakkadiya": "uţţatu",
+      "bilmismariya": "𒊺"
+    },
+    {
+      "alnaw": "الكتلة أو الوزن",
+      "alwahda": "شيكل",
+      "alnisba": "1",
+      "alabaad": "",
+      "alqima": "8.40±0.34 g",
+      "bilsumariya": "gin 2",
+      "bilakkadiya": "šiqlu",
+      "bilmismariya": "𒂆"
+    },
+    {
+      "alnaw": "الكتلة أو الوزن",
+      "alwahda": "مينا",
+      "alnisba": "60",
+      "alabaad": "",
+      "alqima": "504±20 g",
+      "bilsumariya": "ma-na",
+      "bilakkadiya": "manû",
+      "bilmismariya": "𒈠𒈾"
+    },
+    {
+      "alnaw": "الكتلة أو الوزن",
+      "alwahda": "طالن",
+      "alnisba": "3,600",
+      "alabaad": "",
+      "alqima": "30.2±1.2 kg",
+      "bilsumariya": "gun 2",
+      "bilakkadiya": "biltu or kakaru",
+      "bilmismariya": "𒄘"
+    },
+    {
+      "alnaw": "الزمن",
+      "alwahda": "كَـيش",
+      "alnisba": "1/360",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "mu-eš",
+      "bilakkadiya": "geš",
+      "bilmismariya": "𒈬𒍑"
+    },
+    {
+      "alnaw": "الزمن",
+      "alwahda": "ساعة",
+      "alnisba": "1/12",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "da-na",
+      "bilakkadiya": "bêru",
+      "bilmismariya": "𒂆"
+    },
+    {
+      "alnaw": "الزمن",
+      "alwahda": "يوم",
+      "alnisba": "1",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "ud",
+      "bilakkadiya": "immu",
+      "bilmismariya": "𒌓"
+    },
+    {
+      "alnaw": "الزمن",
+      "alwahda": "شهر",
+      "alnisba": "30",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "itud",
+      "bilakkadiya": "arhu",
+      "bilmismariya": "𒌗"
+    },
+    {
+      "alnaw": "الزمن",
+      "alwahda": "سنة",
+      "alnisba": "360",
+      "alabaad": "",
+      "alqima": "",
+      "bilsumariya": "mu",
+      "bilakkadiya": "šattu",
+      "bilmismariya": "𒈬"
+    }
+  ],
+  "meta": {
+    "title": "وحدات القياس في حضارة بلاد الرافدين القديمة - Free Download",
+    "description": "وحدات الطول والمسافة والمساحة والسعة والوزن والزمن في بلاد الرافدين القديمة مع نسبها وأسمائها بالسومرية والأكدية والخط المسماري. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "وحدات القياس في حضارة بلاد الرافدين القديمة | ListBase",
+    "seo_description": "Download وحدات القياس في حضارة بلاد الرافدين القديمة — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/وحدات_القياس_في_حضارة_بلاد_الرافدين_القديمة"
+    ]
+  }
+}
