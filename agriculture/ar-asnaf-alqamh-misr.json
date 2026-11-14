@@ -1,0 +1,76 @@
+{
+  "id": "ar-asnaf-alqamh-misr",
+  "name": "أصناف القمح في مصر ومناطق زراعتها",
+  "title": "أصناف القمح في مصر ومناطق زراعتها",
+  "description": "أصناف القمح المعتمدة في مصر (سخا، جيزة، بني سويف، سدس...) ومناطق زراعتها الموصى بها.",
+  "category": "agriculture",
+  "source": "https://ar.wikipedia.org/wiki/القمح_في_مصر",
+  "source_url": "https://ar.wikipedia.org/wiki/القمح_في_مصر",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "alsinf",
+      "label": "Alsinf",
+      "type": "string"
+    },
+    {
+      "key": "manatiq_alziraa",
+      "label": "Manatiq Alziraa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alsinf": "سخا 93",
+      "manatiq_alziraa": "جميع محافظات مصر وفي الأراضي الملحية"
+    },
+    {
+      "alsinf": "سخا 94، جيزة 168",
+      "manatiq_alziraa": "جميع محافظات مصر"
+    },
+    {
+      "alsinf": "جميزة 7",
+      "manatiq_alziraa": "محافظات الوجه البحرى والجيزة والفيوم والأراضى الجديدة التابعة لها"
+    },
+    {
+      "alsinf": "جميزة 9",
+      "manatiq_alziraa": "محافظات الوجه البحرى والجيزة والأراضى الجديدة التابعة لها ماعدا الملحية والتي تعانى من نقص المياه"
+    },
+    {
+      "alsinf": "جميزة 10",
+      "manatiq_alziraa": "محافظات الوجه البحرى والجيزة والفيوم"
+    },
+    {
+      "alsinf": "سدس1 وسدس12",
+      "manatiq_alziraa": "محافظات مصر الوسطى والعليا وجنوب الوادى ويمكن زراعته في الاراضى الملحية التابعة لهذه المناطق"
+    },
+    {
+      "alsinf": "بنى سويف1، 3، 4، 5، 6",
+      "manatiq_alziraa": "محافظات مصر الوسطى والعليا وجنوب الوادى"
+    },
+    {
+      "alsinf": "سوهاج3",
+      "manatiq_alziraa": "محافظات مصر العليا بدءا من أسيوط وسوهاج وجنوب الوادي"
+    },
+    {
+      "alsinf": "مصر1",
+      "manatiq_alziraa": ""
+    },
+    {
+      "alsinf": "مصر2",
+      "manatiq_alziraa": ""
+    }
+  ],
+  "meta": {
+    "title": "أصناف القمح في مصر ومناطق زراعتها - Free Download",
+    "description": "أصناف القمح المعتمدة في مصر (سخا، جيزة، بني سويف، سدس...) ومناطق زراعتها الموصى بها. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أصناف القمح في مصر ومناطق زراعتها | ListBase",
+    "seo_description": "Download أصناف القمح في مصر ومناطق زراعتها — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/القمح_في_مصر"
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-14T02:15:51.752Z",
-  "total_datasets": 532,
-  "total_records": 154773,
+  "generated": "2026-11-14T02:16:04.884Z",
+  "total_datasets": 533,
+  "total_records": 154783,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -122,6 +122,29 @@
         "xlsx": {
           "name": "ar-altumur-fi-alsaudia_AR.xlsx",
           "size": 10383
+        }
+      }
+    },
+    {
+      "id": "ar-asnaf-alqamh-misr",
+      "name": "أصناف القمح في مصر ومناطق زراعتها",
+      "category": "agriculture",
+      "record_count": 10,
+      "columns": [
+        "alsinf",
+        "manatiq_alziraa"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/القمح_في_مصر",
+      "updated": "2026-11",
+      "size": 3155,
+      "files": {
+        "csv": {
+          "name": "ar-asnaf-alqamh-misr_AR.csv",
+          "size": 1041
+        },
+        "xlsx": {
+          "name": "ar-asnaf-alqamh-misr_AR.xlsx",
+          "size": 7155
         }
       }
     },
