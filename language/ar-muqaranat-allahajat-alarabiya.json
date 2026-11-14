@@ -1,0 +1,546 @@
+{
+  "id": "ar-muqaranat-allahajat-alarabiya",
+  "name": "مقارنة كلمات بين اللهجات العربية",
+  "title": "مقارنة كلمات بين اللهجات العربية",
+  "description": "مقابلات كلمات استفهام شائعة في العربية الفصحى (لماذا، كيف، ...) في اللهجات العربية المختلفة من العراق إلى الحسانية.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/لهجات_عربية",
+  "source_url": "https://ar.wikipedia.org/wiki/لهجات_عربية",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "alfusha",
+      "label": "Alfusha",
+      "type": "string"
+    },
+    {
+      "key": "allahja",
+      "label": "Allahja",
+      "type": "string"
+    },
+    {
+      "key": "almuqabil",
+      "label": "Almuqabil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "العراقية",
+      "almuqabil": "ليش/لويش/عليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "ليبيا",
+      "almuqabil": "وعلاش/عليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "ليش/وشوله"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الشامية",
+      "almuqabil": "ليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "المغرب",
+      "almuqabil": "عْلاش/لاش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الجزائر",
+      "almuqabil": "عْلاش/علاه"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "مصر",
+      "almuqabil": "ليه"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الأردن وفلسطين",
+      "almuqabil": "ليش/لويش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "السودانية",
+      "almuqabil": "ليه"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الحجازية الحضر",
+      "almuqabil": "ليه/ليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "لَمَهْ"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "تونس",
+      "almuqabil": "عْلاش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الكويت",
+      "almuqabil": "ليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الإماراتية",
+      "almuqabil": "ليش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "الحسانية",
+      "almuqabil": "أعلاش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "البحرينية",
+      "almuqabil": "ليش/شوله/شله"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "البحرانية",
+      "almuqabil": "/لاويش"
+    },
+    {
+      "alfusha": "لماذا؟",
+      "allahja": "العمانية",
+      "almuqabil": "ليش"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "العراقية",
+      "almuqabil": "شلون/ چيف"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "ليبيا",
+      "almuqabil": "كيف"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "كيف/وشلون"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الشامية",
+      "almuqabil": "كيف/شلون"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "المغرب",
+      "almuqabil": "كِيفَاش"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الجزائر",
+      "almuqabil": "كِيفَاش/كِيفَاه"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "مصر",
+      "almuqabil": "إزاي"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الأردن وفلسطين",
+      "almuqabil": "كيف/شلون"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "السودانية",
+      "almuqabil": "كيف"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الحجازية الحضر",
+      "almuqabil": "كيف"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "كيف"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "تونس",
+      "almuqabil": "كيفاش"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الكويت",
+      "almuqabil": "كيف/شلون"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الإماراتية",
+      "almuqabil": "شقى/شقايل"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "الحسانية",
+      "almuqabil": "اسم حالة/ كيف آش"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "البحرينية",
+      "almuqabil": "شلون"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "البحرانية",
+      "almuqabil": "شلون/جيفة (Ch)"
+    },
+    {
+      "alfusha": "كيف؟",
+      "allahja": "العمانية",
+      "almuqabil": "كيف"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "العراقية",
+      "almuqabil": "يمتى/ليمتى/اشوكت/ بيا وقت"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "ليبيا",
+      "almuqabil": "امته"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "متى؟"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الشامية",
+      "almuqabil": "إيمتى/أمَيت"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "المغرب",
+      "almuqabil": "وقتاشْ/فوقاش/ايمتى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الجزائر",
+      "almuqabil": "وينتا/وقتاش/ويكتاه"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "مصر",
+      "almuqabil": "إمته"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الأردن وفلسطين",
+      "almuqabil": "وينتا/ايمتى/متى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "السودانية",
+      "almuqabil": "متين"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الحجازية الحضر",
+      "almuqabil": "متى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "متى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "تونس",
+      "almuqabil": "وقتاش"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الكويت",
+      "almuqabil": "متى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الإماراتية",
+      "almuqabil": "متى"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "الحسانية",
+      "almuqabil": "اسم وقت/ أيْنْت"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "البحرينية",
+      "almuqabil": "امته"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "البحرانية",
+      "almuqabil": "مته"
+    },
+    {
+      "alfusha": "متى؟",
+      "allahja": "العمانية",
+      "almuqabil": "متى"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "العراقية",
+      "almuqabil": "شِنو/شِني/شِنْهُو/شِنْهِي"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "ليبيا",
+      "almuqabil": "شني/أيش"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "وشهو/وشو/إيش"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الشامية",
+      "almuqabil": "شو/أيش"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "المغرب",
+      "almuqabil": "أش/شنو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الجزائر",
+      "almuqabil": "وشنو/شوالا/وشنهي/وشي/شتاهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "مصر",
+      "almuqabil": "ايه"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الأردن وفلسطين",
+      "almuqabil": "شو/ايش"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "السودانية",
+      "almuqabil": "شنو/ايه"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الحجازية الحضر",
+      "almuqabil": "ايش"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "ويش ايش ماهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "تونس",
+      "almuqabil": "وشنو/وشي"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الكويت",
+      "almuqabil": "شنو/شنهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الإماراتية",
+      "almuqabil": "شو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "الحسانية",
+      "almuqabil": "شنهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "البحرينية",
+      "almuqabil": "شنو/شنهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "البحرانية",
+      "almuqabil": "ويش/شنهو"
+    },
+    {
+      "alfusha": "ماذا؟",
+      "allahja": "العمانية",
+      "almuqabil": "ايش"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "العراقية",
+      "almuqabil": "يعني"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "ليبيا",
+      "almuqabil": "هل"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "هل/يعني"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "الشامية",
+      "almuqabil": "شي[چيف]"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "المغرب",
+      "almuqabil": "واش/وشنو"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "الجزائر",
+      "almuqabil": "واش/وشنو"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "مصر",
+      "almuqabil": "الضمير + [‡]"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "[‡]"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "تونس",
+      "almuqabil": "-شْ[*]"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "الحسانية",
+      "almuqabil": "واش"
+    },
+    {
+      "alfusha": "هل؟",
+      "allahja": "البحرانية",
+      "almuqabil": "-إه[*]"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "العراقية",
+      "almuqabil": "كم/چم شگد/شكثر"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "ليبيا",
+      "almuqabil": "قداش/أبكم/ كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "السعودية النجدية",
+      "almuqabil": "كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الشامية",
+      "almuqabil": "قدّيش"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "المغرب",
+      "almuqabil": "شحال/مشحال/آش حال"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الجزائر",
+      "almuqabil": "شحال/قداش"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "مصر",
+      "almuqabil": "كام"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الأردن وفلسطين",
+      "almuqabil": "قديش/كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "السودانية",
+      "almuqabil": "كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الحجازية الحضر",
+      "almuqabil": "كم / قدِّ ايش"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "اليمنية والتهامية",
+      "almuqabil": "كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "تونس",
+      "almuqabil": "قَدَّاشْ"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الكويت",
+      "almuqabil": "كم/جم (Ch)"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الإماراتية",
+      "almuqabil": "كم/جم (Ch)"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "الحسانية",
+      "almuqabil": "كم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "البحرينية",
+      "almuqabil": "جم"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "البحرانية",
+      "almuqabil": "جم (Ch)"
+    },
+    {
+      "alfusha": "كم؟",
+      "allahja": "العمانية",
+      "almuqabil": "كم"
+    }
+  ],
+  "meta": {
+    "title": "مقارنة كلمات بين اللهجات العربية - Free Download",
+    "description": "مقابلات كلمات استفهام شائعة في العربية الفصحى (لماذا، كيف، ...) في اللهجات العربية المختلفة من العراق إلى الحسانية. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مقارنة كلمات بين اللهجات العربية | ListBase",
+    "seo_description": "Download مقارنة كلمات بين اللهجات العربية — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/لهجات_عربية"
+    ]
+  }
+}

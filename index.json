@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-14T02:16:17.167Z",
-  "total_datasets": 534,
-  "total_records": 154843,
+  "generated": "2026-11-14T02:16:30.692Z",
+  "total_datasets": 535,
+  "total_records": 154944,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -9757,6 +9757,30 @@
         "xlsx": {
           "name": "ar-majami-allugha-alarabiya_AR.xlsx",
           "size": 7551
+        }
+      }
+    },
+    {
+      "id": "ar-muqaranat-allahajat-alarabiya",
+      "name": "مقارنة كلمات بين اللهجات العربية",
+      "category": "language",
+      "record_count": 101,
+      "columns": [
+        "alfusha",
+        "allahja",
+        "almuqabil"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/لهجات_عربية",
+      "updated": "2026-11",
+      "size": 13553,
+      "files": {
+        "csv": {
+          "name": "ar-muqaranat-allahajat-alarabiya_AR.csv",
+          "size": 4929
+        },
+        "xlsx": {
+          "name": "ar-muqaranat-allahajat-alarabiya_AR.xlsx",
+          "size": 8954
         }
       }
     },
