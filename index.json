@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-13T02:17:34.209Z",
-  "total_datasets": 531,
-  "total_records": 154622,
+  "generated": "2026-11-14T02:15:51.752Z",
+  "total_datasets": 532,
+  "total_records": 154773,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -250,6 +250,31 @@
         "xlsx": {
           "name": "ar-wuzara-alziraa-misr_AR.xlsx",
           "size": 12761
+        }
+      }
+    },
+    {
+      "id": "ar-almahrajanat-almaghrib",
+      "name": "المهرجانات والمواسم الفنية في المغرب",
+      "category": "culture",
+      "record_count": 151,
+      "columns": [
+        "aljiha",
+        "almadina",
+        "ism_almahrajan",
+        "tarikh_altanzim"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_المغرب",
+      "updated": "2026-11",
+      "size": 34326,
+      "files": {
+        "csv": {
+          "name": "ar-almahrajanat-almaghrib_AR.csv",
+          "size": 17414
+        },
+        "xlsx": {
+          "name": "ar-almahrajanat-almaghrib_AR.xlsx",
+          "size": 12297
         }
       }
     },

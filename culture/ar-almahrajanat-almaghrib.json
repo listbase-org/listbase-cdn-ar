@@ -1,0 +1,952 @@
+{
+  "id": "ar-almahrajanat-almaghrib",
+  "name": "المهرجانات والمواسم الفنية في المغرب",
+  "title": "المهرجانات والمواسم الفنية في المغرب",
+  "description": "قائمة المهرجانات والمواسم الفنية والثقافية في المغرب حسب الجهة والمدينة مع موعد التنظيم.",
+  "category": "culture",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_المغرب",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_المغرب",
+  "updated": "2026-11",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "aljiha",
+      "label": "Aljiha",
+      "type": "string"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    },
+    {
+      "key": "ism_almahrajan",
+      "label": "Ism Almahrajan",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_altanzim",
+      "label": "Tarikh Altanzim",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "المهرجان الدولي للعود",
+      "tarikh_altanzim": "شهر ماي"
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "مهرجان الفدان للمسرح",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "مهرجان تطوان لسينما بلدان البحر الأبيض المتوسط",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "مهرجان الأصوات النسائية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "حفل التضامن جمعية أصداء تطوانية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "تطوان",
+      "ism_almahrajan": "المهرجان الدولي للرسوم المتحركة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "شفشاون",
+      "ism_almahrajan": "ملتقى الأندلسيات",
+      "tarikh_altanzim": "* من 25 إلى 27 يونيو 2010 * من 19 إلى 21 يونيو 2009"
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "شفشاون",
+      "ism_almahrajan": "مهرجان أليغريا الدولي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "شفشاون",
+      "ism_almahrajan": "المهرجان الدولي لأفلام البيئة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "الحسيمة",
+      "ism_almahrajan": "مهرجان الحسيمة",
+      "tarikh_altanzim": "ما بين 28 يوليوز و4 غشت"
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "الحسيمة",
+      "ism_almahrajan": "مهرجان البحر الأبيض المتوسط في الحسيمة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "الحسيمة",
+      "ism_almahrajan": "مهرجان النكور",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "الحسيمة",
+      "ism_almahrajan": "المهرجان الدولي للفيلم بالحسيمة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "طنجة",
+      "ism_almahrajan": "مهرجان مرتيل للفيلم القصير",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "طنجة",
+      "ism_almahrajan": "المهرجان الوطني للفيلم",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "طنجة",
+      "ism_almahrajan": "مهرجان الفيلم المتوسطي القصير",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "طنجة",
+      "ism_almahrajan": "مهرجان طنجاز",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "طنجة",
+      "ism_almahrajan": "مهرجان طنجة الدولي للشعر",
+      "tarikh_altanzim": "شهر 11 / نوفمبر"
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "أصيلة",
+      "ism_almahrajan": "مهرجان ماطا الدولي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "أصيلة",
+      "ism_almahrajan": "موسم النساء المبدعات في أصيلة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "أصيلة",
+      "ism_almahrajan": "مهرجان الفيلم الوثائقي في أصيلة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة طنجة تطوان الحسيمة",
+      "almadina": "القصر الكبير",
+      "ism_almahrajan": "مهرجان القصر الدولي للمسرح",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "وجدة",
+      "ism_almahrajan": "مهرجان الطرب الغرناطي",
+      "tarikh_altanzim": "من 12 إلى 15 دجنبر 2019"
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "وجدة",
+      "ism_almahrajan": "مهرجان السينما المغاربية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "وجدة",
+      "ism_almahrajan": "المهرجان الدولي للراي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "تاوريرت",
+      "ism_almahrajan": "مهرجان وادزا الدولي",
+      "tarikh_altanzim": "منذ سنة 2017، يكمل شمعته الثامنة سنة 2024"
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "الدريوش",
+      "ism_almahrajan": "المهرجان الثقافي لمدينة الدريوش",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "الناظور",
+      "ism_almahrajan": "مهرجان السينما و الذاكرة المشتركة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الشرق",
+      "almadina": "فجيج",
+      "ism_almahrajan": "مهرجان ثقافات الواحات",
+      "tarikh_altanzim": "من 6 إلى 8 دجنبر 2019"
+    },
+    {
+      "aljiha": "بركان",
+      "almadina": "مهرجان الفنون الشعبية الشرقية",
+      "ism_almahrajan": "من 30 غشت إلى 1 شتنبر 2019",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "الملتقى الشعري بفاس",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "موسم مولاي إدريس الثاني",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "موسم سيدي علي بوغالب",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "موسم سيدي أحمد التيجاني",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان فاس لفن الطبخ",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان ربيع فاس",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان فاس لطرب الملحون",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان الموسيقى الروحية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان فاس للموسيقى الصوفية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "المهرجان الوطني لفن المبدع والسماع",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "سباق فاس الدولي على الطريق",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "فاس",
+      "ism_almahrajan": "مهرجان الوطني للفيلم التربوي بفاس",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "المهرجان الدولي للرسوم المتحركة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "المهرجان الوطني للمسرح بمكناس",
+      "tarikh_altanzim": "من 03 إلى 09 يونيو 2014 من * 02 إلى 09 يوليوز 2010 *"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "مهرجان مكناس لآلة القانون",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "مهرجان مكناس الدولي للشعر في المباني التاريخية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "مهرجان وليلي الدولي",
+      "tarikh_altanzim": "من 16 إلى 20 يوليوز 2010 *من 17 إلى 21 يوليوز 2009"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "مكناس",
+      "ism_almahrajan": "موسم سيدي علي بنحمدوش",
+      "tarikh_altanzim": "تاريخ التنظيم"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "",
+      "ism_almahrajan": "المهرجان الوطني لحمادشة",
+      "tarikh_altanzim": "من 28 إلى 30 غشت 2026"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "تازة",
+      "ism_almahrajan": "المهرجان الدولي لمسرح الطفل بتازة",
+      "tarikh_altanzim": "* من 22 إلى 24 أبريل 2010 * من 16 إلى 18 أبريل 2009"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "صفرو",
+      "ism_almahrajan": "مهرجان حب الملوك",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "صفرو",
+      "ism_almahrajan": "مهرجان فنون الجبال بتازوطة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "صفرو",
+      "ism_almahrajan": "مهرجان اهازيج للفنون الشعبية والتبوريدة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "صفرو",
+      "ism_almahrajan": "المهرجان الوطني للبرقوق بعين تمكناي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "صفرو",
+      "ism_almahrajan": "مهرجان سينما الشعوب بإموزار كندر",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "إفران",
+      "ism_almahrajan": "المهرجان الوطني لفن أحيدوس بعين اللوح",
+      "tarikh_altanzim": "من 26 إلى 28 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "إفران",
+      "ism_almahrajan": "مهرجان اخام انشادن بعين اللوح",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "إفران",
+      "ism_almahrajan": "مهرجان العالم العربي للفيلم القصير بأزرو وإفران",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "بولمان",
+      "ism_almahrajan": "المهرجان الوطني ترزاف بسكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة فاس مكناس",
+      "almadina": "تاونات",
+      "ism_almahrajan": "المهرجان الوطني لفنون العيطة الجبلية",
+      "tarikh_altanzim": "من 15 إلى 17 يونيو 2019"
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "المهرجان الدولي للتراث الشفهي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "مهرجان مغرب المديح بالرباط",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "مهرجان موازين",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "مهرجان الرباط الدولي لسينما المؤلف",
+      "tarikh_altanzim": "مابين 29 يناير و5 فبراير2016"
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "مهرجان جاز في شالة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الرباط",
+      "ism_almahrajan": "مهرجان أنديفيلم",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "سلا",
+      "ism_almahrajan": "موكب الشموع",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "سلا",
+      "ism_almahrajan": "مهرجان موازين",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "سلا",
+      "ism_almahrajan": "مهرجان القراصنة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "سلا",
+      "ism_almahrajan": "المهرجان الدولي لفيلم المرأة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "سلا",
+      "ism_almahrajan": "مهرجان فلكلور الطفل",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الرباط سلا القنيطرة",
+      "almadina": "الخميسات",
+      "ism_almahrajan": "مهرجان الخميسات",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "خريبكة",
+      "ism_almahrajan": "المهرجان الوطني لعبيدات الرما بخريبكة",
+      "tarikh_altanzim": "من 03 إلى 05 يوليوز 2010"
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "خريبكة",
+      "ism_almahrajan": "مهرجان السينما الإفريقية بخريبكة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "خنيفرة",
+      "ism_almahrajan": "مهرجان خنيفرة للمسرح التجريبي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "خنيفرة",
+      "ism_almahrajan": "مهرجان إيزوران للثقافة الأمازيغية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان الدار البيضاء",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان جازبلانكا",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان الدار البيضاء الدولي للمسرح",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "المهرجان الدولي لفن الفيديو بالدار البيضاء",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان الثقافة الحضرية على المنصة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان الدار البيضاء الدولي للضحك",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "مهرجان روافد",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "لبولفار",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الدار البيضاء",
+      "ism_almahrajan": "المهرجان الوطني للزجل بن سليمان",
+      "tarikh_altanzim": "* من 12 إلى 14 نونبر 2010 * من 14 إلى 15 نونبر 2009"
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "بوزنيقة",
+      "ism_almahrajan": "موسم العنب",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "سطات",
+      "ism_almahrajan": "مهرجان المسرح الفردي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "سطات",
+      "ism_almahrajan": "مهرجان الخلخال لمسرح الشارع",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "سطات",
+      "ism_almahrajan": "مهرجان ناس الفرجة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "سطات",
+      "ism_almahrajan": "الملتقـى التشكيلي الدولي نوافــذ",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الجديدة وأزمور",
+      "ism_almahrajan": "مهرجان الصيف الموسيقي للشباب",
+      "tarikh_altanzim": "ما بين 26 و 28 يوليـوز 2005"
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الجديدة وأزمور",
+      "ism_almahrajan": "مهرجان الجدران في أزمور",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الجديدة وأزمور",
+      "ism_almahrajan": "المهرجان الدولي للحلقة والفنون الشعبية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الجديدة وأزمور",
+      "ism_almahrajan": "موسم مولاي عبد الله أمغار",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الدار البيضاء سطات",
+      "almadina": "الجديدة وأزمور",
+      "ism_almahrajan": "معرض الخيول بالجديدة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "مراكش",
+      "ism_almahrajan": "المهرجان الدولي للفيلم بمراكش",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "مراكش",
+      "ism_almahrajan": "مهرجان مراكش للضحك",
+      "tarikh_altanzim": "في شهر 6 من كل سنة"
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "مراكش",
+      "ism_almahrajan": "المهرجان الوطني للفنون الشعبية بمراكش",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "آسفي",
+      "ism_almahrajan": "مهرجان العيطة",
+      "tarikh_altanzim": "* من 22 إلى 24 يونيو 2010 * من 24 إلى 26 يوليوز 2009"
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "الصويرة",
+      "ism_almahrajan": "مهرجان كناوة وموسيقى العالم",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "الصويرة",
+      "ism_almahrajan": "موسم رجراجة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "الصويرة",
+      "ism_almahrajan": "مهرجان ربيع الأليزي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "الصويرة",
+      "ism_almahrajan": "مهرجان الأندلسيات الأطلسية بالصويرة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة مراكش آسفي",
+      "almadina": "الصويرة",
+      "ism_almahrajan": "موسم حمادشة بالصويرة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "عين اللوح",
+      "ism_almahrajan": "مهرجان أحيدوس",
+      "tarikh_altanzim": "* من 29 إلى 31 يوليوز 2010 * من 01 إلى 03 غشت 2009"
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "قلعة مغونة",
+      "ism_almahrajan": "مهرجان الورود في قلعة مكونة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "قلعة مغونة",
+      "ism_almahrajan": "المهرجان الدولي للمظلات بقلعة مكونة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "أرفود",
+      "ism_almahrajan": "المعرض الدولي للتمور بالمغرب",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "الرشيدية",
+      "ism_almahrajan": "ملتقى سجلماسة لفن الملحون",
+      "tarikh_altanzim": "* من 28 إلى 30 ماي 2010 * من 26 إلى 28 يونيو 2009"
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "ميدلت",
+      "ism_almahrajan": "مهرجان فن الشعر والغناء الأمازيغي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "زاكورة",
+      "ism_almahrajan": "المهرجان ماجيك درعة الدولي للموسيقى الإفريقية بزاكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "زاكورة",
+      "ism_almahrajan": "المهرجان العربي الإفريقي للفيلم الوثائقي بزاكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "زاكورة",
+      "ism_almahrajan": "المهرجان الدولي للمسرح بزاكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "زاكورة",
+      "ism_almahrajan": "المهرجان الدولي للفيلم عبر الصحراء بزاكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "زاكورة",
+      "ism_almahrajan": "المهرجان الدولي للرحل بزاكورة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "ورزازات",
+      "ism_almahrajan": "المهرجان الوطني للفيلم الأمازيغي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة درعة تافيلالت",
+      "almadina": "ورزازات",
+      "ism_almahrajan": "المهرجان الوطني لفنون أحواش",
+      "tarikh_altanzim": "من 27 إلى 29 يونيو 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "الدشيرة",
+      "ism_almahrajan": "المهرجان الوطني لفن الروايس",
+      "tarikh_altanzim": "من 12 إلى 14 دجنبر 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أيت ملول",
+      "ism_almahrajan": "مهرجان سوس الدولي للفيلم القصير",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "إنزكان",
+      "ism_almahrajan": "مهرجان أزنزار ن تازنزارت",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "إنزكان",
+      "ism_almahrajan": "ملتقى سوس الدولي لفنون الخط المغربي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "إنزكان",
+      "ism_almahrajan": "مهرجان كرنفال بيلماون بودماون",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "إنزكان",
+      "ism_almahrajan": "مهرجان إنزكان للفيليم القصير",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "مهرجان تيميتار",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "حفل التسامح",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "مهرجان تالبرجت للقيتارة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "المهرجان الدولي السينما والهجرة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "المهرجان الدولي للشريط الوثائقي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "ربيع المغرب التشكيلي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "مهرجان للضحك فقط",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "أكادير",
+      "ism_almahrajan": "المهرجان الوطني للمسرح الأمازيغي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "بيوڭرى",
+      "ism_almahrajan": "مهرجان بيوڭرى الوطني لسينما الشباب",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "بيوڭرى",
+      "ism_almahrajan": "مهرجان إموريك",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تافراوت",
+      "ism_almahrajan": "مهرجان تيفاوين",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تارودانت",
+      "ism_almahrajan": "المهرجان الوطني للدقة والإيقاعات",
+      "tarikh_altanzim": "من 4 إلى 6 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تارودانت",
+      "ism_almahrajan": "ملتقى الفن الكناوي",
+      "tarikh_altanzim": "من 29 إلى 30 يونيو 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تارودانت",
+      "ism_almahrajan": "الملتقى السنوي للتبوريدة",
+      "tarikh_altanzim": "من 10 إلى 19 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تيزنيت",
+      "ism_almahrajan": "مهرجان تيميزار للفضة",
+      "tarikh_altanzim": "من 18 إلى 22 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تيزنيت",
+      "ism_almahrajan": "مهرجان أمزاد للتراث الموسيقي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة سوس ماسة",
+      "almadina": "تيزنيت",
+      "ism_almahrajan": "ملتقى أفولاي للمسرح الأمازيغي",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة كلميم واد نون",
+      "almadina": "كلميم",
+      "ism_almahrajan": "مهرجان أسبوع الجمل",
+      "tarikh_altanzim": "من 20 إلى 27 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة كلميم واد نون",
+      "almadina": "كلميم",
+      "ism_almahrajan": "مهرجان أهازيج وادنون",
+      "tarikh_altanzim": "من 06 إلى 08 نونبر 2018"
+    },
+    {
+      "aljiha": "جهة العيون الساقية الحمراء",
+      "almadina": "العيون",
+      "ism_almahrajan": "المهرجان الدولي روافد أزوان",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة العيون الساقية الحمراء",
+      "almadina": "طرفاية",
+      "ism_almahrajan": "المهرجان الدولي لطرفاية",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة العيون الساقية الحمراء",
+      "almadina": "السمارة",
+      "ism_almahrajan": "مهرجان الْمَحْصَرْ للثقافة والتراث الحساني",
+      "tarikh_altanzim": "من 13 إلى 14 يونيو 2019"
+    },
+    {
+      "aljiha": "جهة العيون الساقية الحمراء",
+      "almadina": "السمارة",
+      "ism_almahrajan": "مهرجان السمارة للضحك",
+      "tarikh_altanzim": "من 06 إلى 07 نونبر 2019"
+    },
+    {
+      "aljiha": "جهة الداخلة وادي الذهب",
+      "almadina": "الداخلة",
+      "ism_almahrajan": "المهرجان الوطني للأغنية الحسانية",
+      "tarikh_altanzim": "من 25 إلى 27 يوليوز 2019"
+    },
+    {
+      "aljiha": "جهة الداخلة وادي الذهب",
+      "almadina": "الداخلة",
+      "ism_almahrajan": "المهرجان الدولي للسينما بالداخلة",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة الداخلة وادي الذهب",
+      "almadina": "الداخلة",
+      "ism_almahrajan": "مهرجان البحر والصحراء",
+      "tarikh_altanzim": ""
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "بني ملال",
+      "ism_almahrajan": "مهرجان تاصميت للسينما والنقد",
+      "tarikh_altanzim": "من 26 إلى 29 أبريل"
+    },
+    {
+      "aljiha": "جهة بني ملال خنيفرة",
+      "almadina": "بني ملال",
+      "ism_almahrajan": "مهرجان عين أسردون للفنون التشكيلية",
+      "tarikh_altanzim": "شهر مارس"
+    }
+  ],
+  "meta": {
+    "title": "المهرجانات والمواسم الفنية في المغرب - Free Download",
+    "description": "قائمة المهرجانات والمواسم الفنية والثقافية في المغرب حسب الجهة والمدينة مع موعد التنظيم. Contains 151 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المهرجانات والمواسم الفنية في المغرب | ListBase",
+    "seo_description": "Download المهرجانات والمواسم الفنية في المغرب — 151 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 151 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_المغرب"
+    ]
+  }
+}
