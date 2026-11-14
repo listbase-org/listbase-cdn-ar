@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-14T02:16:04.884Z",
-  "total_datasets": 533,
-  "total_records": 154783,
+  "generated": "2026-11-14T02:16:17.167Z",
+  "total_datasets": 534,
+  "total_records": 154843,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -322,6 +322,29 @@
         "xlsx": {
           "name": "ar-asmaa_AR.xlsx",
           "size": 1631442
+        }
+      }
+    },
+    {
+      "id": "ar-mahrajanat-lubnan",
+      "name": "مهرجانات لبنان",
+      "category": "culture",
+      "record_count": 60,
+      "columns": [
+        "ism_almahrajan",
+        "tarikh_alard"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مهرجانات_لبنان",
+      "updated": "2026-11",
+      "size": 8745,
+      "files": {
+        "csv": {
+          "name": "ar-mahrajanat-lubnan_AR.csv",
+          "size": 3782
+        },
+        "xlsx": {
+          "name": "ar-mahrajanat-lubnan_AR.xlsx",
+          "size": 8350
         }
       }
     },

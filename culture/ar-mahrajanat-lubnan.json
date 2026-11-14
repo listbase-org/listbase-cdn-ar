@@ -1,0 +1,276 @@
+{
+  "id": "ar-mahrajanat-lubnan",
+  "name": "مهرجانات لبنان",
+  "title": "مهرجانات لبنان",
+  "description": "قائمة المهرجانات الفنية والثقافية في لبنان مع شهر انعقادها.",
+  "category": "culture",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_مهرجانات_لبنان",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_مهرجانات_لبنان",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "ism_almahrajan",
+      "label": "Ism Almahrajan",
+      "type": "string"
+    },
+    {
+      "key": "tarikh_alard",
+      "label": "Tarikh Alard",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ism_almahrajan": "مهرجان البستان الدولي",
+      "tarikh_alard": "شباط/فبراير"
+    },
+    {
+      "ism_almahrajan": "مهرجان الأبجدية - بيبلوس",
+      "tarikh_alard": "أذار/مارس"
+    },
+    {
+      "ism_almahrajan": "المهرجان الغنائي الثقافي للتراث العربي",
+      "tarikh_alard": "نيسان/أبريل"
+    },
+    {
+      "ism_almahrajan": "المعرض السنوي للأعراس",
+      "tarikh_alard": "نيسان/أبريل"
+    },
+    {
+      "ism_almahrajan": "المهرجان الدولي للتانغو",
+      "tarikh_alard": "نيسان/أبريل"
+    },
+    {
+      "ism_almahrajan": "مهرجان موسيقى القلب",
+      "tarikh_alard": "نيسان/أبريل"
+    },
+    {
+      "ism_almahrajan": "بطولة السياحة العربية",
+      "tarikh_alard": "أيار/مايو"
+    },
+    {
+      "ism_almahrajan": "معرض الأعراس، طرابلس",
+      "tarikh_alard": "أيار/مايو"
+    },
+    {
+      "ism_almahrajan": "اليوم العالمي للتجارة العادلة",
+      "tarikh_alard": "أيار/مايو"
+    },
+    {
+      "ism_almahrajan": "جائزة التفاحة الذهبية",
+      "tarikh_alard": "أيار/مايو"
+    },
+    {
+      "ism_almahrajan": "مهرجان اسبوع الموضة",
+      "tarikh_alard": "أيار/مايو"
+    },
+    {
+      "ism_almahrajan": "مهرجان وي غت تالنب",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجان الوزاني السياحي",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجان أسبوع بيروت للتصميم",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجان سرعين السياحي",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجان الأرز للإبداع والجمال",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات بيت الدين الدولية",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات جونيه",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات غلبون",
+      "tarikh_alard": "حزيران/يونيو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات بيبلوس الدولية",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان ليالي رمضان في طرابلس",
+      "tarikh_alard": "رمضان"
+    },
+    {
+      "ism_almahrajan": "ملكة جمال بيت مري",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان بيت مسك",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات شكا",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان دراق بكفيا",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان ليالي بعقلين السياحية",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات مغدوشة",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان الساحة، انطلياس",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان الضبيه",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات دوما",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان رابطة السيدة الرشماوية",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات ذوق مكايل الدولية",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان فقرا",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان إهدنيات",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان عيد المغتربين",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان كفرتيه التراثي",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان أعياد بيروت",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات بعلبك الدولية",
+      "tarikh_alard": "تموز/يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجانات عكار السنوية",
+      "tarikh_alard": "الصيف"
+    },
+    {
+      "ism_almahrajan": "مهرجانات سياحية تراثية متنقلة",
+      "tarikh_alard": "الصيف"
+    },
+    {
+      "ism_almahrajan": "مهرجان عاليه السياحي",
+      "tarikh_alard": "الصيف"
+    },
+    {
+      "ism_almahrajan": "سلامنا يجمعنا",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات قلعة سمار جبيل",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات صيف عاريا",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "إمشي على خطى المسيح",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان المحبة- بحمدون والجوار",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان العسل من ميفوق",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان كابروليه انترناشونال فيلم",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات حاصبيا",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان عين سعادة",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان نيحا الشوف",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات القبيات",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "رقصات شارع الحمراء",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "ماراتون حرمون",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات اهمج",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان رأس المتن",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجانات عين مجدلين، جزين",
+      "tarikh_alard": "أب/أغسطس"
+    },
+    {
+      "ism_almahrajan": "حملة الإيد بالإيد",
+      "tarikh_alard": "أيلول/سبتمبر"
+    },
+    {
+      "ism_almahrajan": "مهرجان فغال",
+      "tarikh_alard": "أيلول/سبتمبر"
+    },
+    {
+      "ism_almahrajan": "مهرجانات بيروت للتكريم",
+      "tarikh_alard": "تشرين الثاني/نوفمبر"
+    }
+  ],
+  "meta": {
+    "title": "مهرجانات لبنان - Free Download",
+    "description": "قائمة المهرجانات الفنية والثقافية في لبنان مع شهر انعقادها. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مهرجانات لبنان | ListBase",
+    "seo_description": "Download مهرجانات لبنان — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_مهرجانات_لبنان"
+    ]
+  }
+}
