@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-15T02:37:27.114Z",
-  "total_datasets": 537,
-  "total_records": 155034,
+  "generated": "2026-11-15T02:37:40.156Z",
+  "total_datasets": 538,
+  "total_records": 155055,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12584,6 +12584,32 @@
         "xlsx": {
           "name": "ar-alihsaat-alhayawiya-almaghrib_AR.xlsx",
           "size": 9014
+        }
+      }
+    },
+    {
+      "id": "ar-mumashir-altanmiya-albashariya-aldual-alarabiya",
+      "name": "مؤشر التنمية البشرية في الدول العربية",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "albalad",
+        "altartib_alalami_2022",
+        "mumashir_altanmiya_2022",
+        "altaghyir_fi_altartib_2017_2022",
+        "mutawassit_alnumuw_alsanawi_2010_2022"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_مؤشر_التنمية_البشرية",
+      "updated": "2026-11",
+      "size": 7336,
+      "files": {
+        "csv": {
+          "name": "ar-mumashir-altanmiya-albashariya-aldual-alarabiya_AR.csv",
+          "size": 1210
+        },
+        "xlsx": {
+          "name": "ar-mumashir-altanmiya-albashariya-aldual-alarabiya_AR.xlsx",
+          "size": 7758
         }
       }
     },

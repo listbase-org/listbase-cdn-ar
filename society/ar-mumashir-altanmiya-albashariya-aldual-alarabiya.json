@@ -1,0 +1,198 @@
+{
+  "id": "ar-mumashir-altanmiya-albashariya-aldual-alarabiya",
+  "name": "مؤشر التنمية البشرية في الدول العربية",
+  "title": "مؤشر التنمية البشرية في الدول العربية",
+  "description": "ترتيب الدول العربية وقيمة مؤشر التنمية البشرية لعام 2022 وفق تقرير برنامج الأمم المتحدة الإنمائي، مع التغير في الترتيب ومتوسط النمو السنوي (2010–2022).",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_مؤشر_التنمية_البشرية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_مؤشر_التنمية_البشرية",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "albalad",
+      "label": "Albalad",
+      "type": "string"
+    },
+    {
+      "key": "altartib_alalami_2022",
+      "label": "Altartib Alalami 2022",
+      "type": "number"
+    },
+    {
+      "key": "mumashir_altanmiya_2022",
+      "label": "Mumashir Altanmiya 2022",
+      "type": "number"
+    },
+    {
+      "key": "altaghyir_fi_altartib_2017_2022",
+      "label": "Altaghyir Fi Altartib 2017 2022",
+      "type": "string"
+    },
+    {
+      "key": "mutawassit_alnumuw_alsanawi_2010_2022",
+      "label": "Mutawassit Alnumuw Alsanawi 2010 2022",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "albalad": "الإمارات العربية المتحدة",
+      "altartib_alalami_2022": 17,
+      "mumashir_altanmiya_2022": 0.937,
+      "altaghyir_fi_altartib_2017_2022": "▲ (17)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.91%"
+    },
+    {
+      "albalad": "البحرين",
+      "altartib_alalami_2022": 42,
+      "mumashir_altanmiya_2022": 0.852,
+      "altaghyir_fi_altartib_2017_2022": "▲ (6)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.70%"
+    },
+    {
+      "albalad": "السعودية",
+      "altartib_alalami_2022": 40,
+      "mumashir_altanmiya_2022": 0.854,
+      "altaghyir_fi_altartib_2017_2022": "▼ (4)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.60%"
+    },
+    {
+      "albalad": "قطر",
+      "altartib_alalami_2022": 45,
+      "mumashir_altanmiya_2022": 0.848,
+      "altaghyir_fi_altartib_2017_2022": "",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.19%"
+    },
+    {
+      "albalad": "الكويت",
+      "altartib_alalami_2022": 64,
+      "mumashir_altanmiya_2022": 0.806,
+      "altaghyir_fi_altartib_2017_2022": "▼ (5)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.25%"
+    },
+    {
+      "albalad": "عمان",
+      "altartib_alalami_2022": 60,
+      "mumashir_altanmiya_2022": 0.813,
+      "altaghyir_fi_altartib_2017_2022": "▼ (3)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.43%"
+    },
+    {
+      "albalad": "الجزائر",
+      "altartib_alalami_2022": 91,
+      "mumashir_altanmiya_2022": 0.748,
+      "altaghyir_fi_altartib_2017_2022": "",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.41%"
+    },
+    {
+      "albalad": "لبنان",
+      "altartib_alalami_2022": 92,
+      "mumashir_altanmiya_2022": 0.744,
+      "altaghyir_fi_altartib_2017_2022": "▼ (6)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▼ 0.32%"
+    },
+    {
+      "albalad": "تونس",
+      "altartib_alalami_2022": 95,
+      "mumashir_altanmiya_2022": 0.74,
+      "altaghyir_fi_altartib_2017_2022": "▲ (7)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.37%"
+    },
+    {
+      "albalad": "الأردن",
+      "altartib_alalami_2022": 102,
+      "mumashir_altanmiya_2022": 0.729,
+      "altaghyir_fi_altartib_2017_2022": "▼ (3)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▼ 0.12%"
+    },
+    {
+      "albalad": "ليبيا",
+      "altartib_alalami_2022": 105,
+      "mumashir_altanmiya_2022": 0.724,
+      "altaghyir_fi_altartib_2017_2022": "▼ (4)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▼ 1.08%"
+    },
+    {
+      "albalad": "فلسطين",
+      "altartib_alalami_2022": 115,
+      "mumashir_altanmiya_2022": 0.708,
+      "altaghyir_fi_altartib_2017_2022": "▼ (6)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.38%"
+    },
+    {
+      "albalad": "مصر",
+      "altartib_alalami_2022": 116,
+      "mumashir_altanmiya_2022": 0.707,
+      "altaghyir_fi_altartib_2017_2022": "▲ (1)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.63%"
+    },
+    {
+      "albalad": "المغرب",
+      "altartib_alalami_2022": 121,
+      "mumashir_altanmiya_2022": 0.686,
+      "altaghyir_fi_altartib_2017_2022": "▲ (2)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 1.20%"
+    },
+    {
+      "albalad": "العراق",
+      "altartib_alalami_2022": 123,
+      "mumashir_altanmiya_2022": 0.674,
+      "altaghyir_fi_altartib_2017_2022": "▲ (4)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.65%"
+    },
+    {
+      "albalad": "سوريا",
+      "altartib_alalami_2022": 151,
+      "mumashir_altanmiya_2022": 0.567,
+      "altaghyir_fi_altartib_2017_2022": "▼ (2)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▼ 1.87%"
+    },
+    {
+      "albalad": "جزر القمر",
+      "altartib_alalami_2022": 156,
+      "mumashir_altanmiya_2022": 0.554,
+      "altaghyir_fi_altartib_2017_2022": "▼ (4)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.68%"
+    },
+    {
+      "albalad": "موريتانيا",
+      "altartib_alalami_2022": 157,
+      "mumashir_altanmiya_2022": 0.546,
+      "altaghyir_fi_altartib_2017_2022": "▼ (2)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.87%"
+    },
+    {
+      "albalad": "جيبوتي",
+      "altartib_alalami_2022": 166,
+      "mumashir_altanmiya_2022": 0.524,
+      "altaghyir_fi_altartib_2017_2022": "▲ (3)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 1.61%"
+    },
+    {
+      "albalad": "السودان",
+      "altartib_alalami_2022": 170,
+      "mumashir_altanmiya_2022": 0.51,
+      "altaghyir_fi_altartib_2017_2022": "▼ (5)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▲ 0.94%"
+    },
+    {
+      "albalad": "اليمن",
+      "altartib_alalami_2022": 179,
+      "mumashir_altanmiya_2022": 0.47,
+      "altaghyir_fi_altartib_2017_2022": "▼ (16)",
+      "mutawassit_alnumuw_alsanawi_2010_2022": "▼ 0.82%"
+    }
+  ],
+  "meta": {
+    "title": "مؤشر التنمية البشرية في الدول العربية - Free Download",
+    "description": "ترتيب الدول العربية وقيمة مؤشر التنمية البشرية لعام 2022 وفق تقرير برنامج الأمم المتحدة الإنمائي، مع التغير في الترتيب ومتوسط النمو السنوي (2010–2022). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "مؤشر التنمية البشرية في الدول العربية | ListBase",
+    "seo_description": "Download مؤشر التنمية البشرية في الدول العربية — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_مؤشر_التنمية_البشرية"
+    ]
+  }
+}
