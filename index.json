@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-14T02:16:44.636Z",
-  "total_datasets": 536,
-  "total_records": 154976,
+  "generated": "2026-11-15T02:37:27.114Z",
+  "total_datasets": 537,
+  "total_records": 155034,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -9683,6 +9683,32 @@
         "xlsx": {
           "name": "ar-asma-alnujum-alarabiya_AR.xlsx",
           "size": 12932
+        }
+      }
+    },
+    {
+      "id": "ar-faizun-jaizat-almalik-faisal-allugha-alarabiya-waladab",
+      "name": "الفائزون بجائزة الملك فيصل في اللغة العربية والأدب",
+      "category": "language",
+      "record_count": 58,
+      "columns": [
+        "alsana_alhijriya",
+        "alsana_almiladiya",
+        "alfaiz",
+        "aldawla",
+        "almawdu"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/جائزة_الملك_فيصل_في_اللغة_العربية_والأدب",
+      "updated": "2026-11",
+      "size": 17789,
+      "files": {
+        "csv": {
+          "name": "ar-faizun-jaizat-almalik-faisal-allugha-alarabiya-waladab_AR.csv",
+          "size": 8712
+        },
+        "xlsx": {
+          "name": "ar-faizun-jaizat-almalik-faisal-allugha-alarabiya-waladab_AR.xlsx",
+          "size": 9875
         }
       }
     },

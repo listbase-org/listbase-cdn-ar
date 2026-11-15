@@ -1,0 +1,457 @@
+{
+  "id": "ar-faizun-jaizat-almalik-faisal-allugha-alarabiya-waladab",
+  "name": "الفائزون بجائزة الملك فيصل في اللغة العربية والأدب",
+  "title": "الفائزون بجائزة الملك فيصل في اللغة العربية والأدب",
+  "description": "قائمة الفائزين بجائزة الملك فيصل العالمية في فرع اللغة العربية والأدب منذ 1980: السنة الهجرية والميلادية، الفائز، الدولة وموضوع الجائزة.",
+  "category": "language",
+  "source": "https://ar.wikipedia.org/wiki/جائزة_الملك_فيصل_في_اللغة_العربية_والأدب",
+  "source_url": "https://ar.wikipedia.org/wiki/جائزة_الملك_فيصل_في_اللغة_العربية_والأدب",
+  "updated": "2026-11",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "alsana_alhijriya",
+      "label": "Alsana Alhijriya",
+      "type": "number"
+    },
+    {
+      "key": "alsana_almiladiya",
+      "label": "Alsana Almiladiya",
+      "type": "number"
+    },
+    {
+      "key": "alfaiz",
+      "label": "Alfaiz",
+      "type": "string"
+    },
+    {
+      "key": "aldawla",
+      "label": "Aldawla",
+      "type": "string"
+    },
+    {
+      "key": "almawdu",
+      "label": "Almawdu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alsana_alhijriya": 1400,
+      "alsana_almiladiya": 1980,
+      "alfaiz": "إحسان عباس",
+      "aldawla": "فلسطين",
+      "almawdu": "الدراسات التي تناولت الشعر العربي المعاصر."
+    },
+    {
+      "alsana_alhijriya": 1400,
+      "alsana_almiladiya": 1980,
+      "alfaiz": "عبد القادر القط",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت الشعر العربي المعاصر."
+    },
+    {
+      "alsana_alhijriya": 1401,
+      "alsana_almiladiya": 1981,
+      "alfaiz": "عبد السلام هارون",
+      "aldawla": "مصر",
+      "almawdu": "المؤلفات والدواوين في القرنين الثاني والثالث الهجريين."
+    },
+    {
+      "alsana_alhijriya": 1402,
+      "alsana_almiladiya": 1982,
+      "alfaiz": "ناصر الدين الأسد",
+      "aldawla": "الأردن",
+      "almawdu": "الدراسات التي تناولت الأدب العربي قبل الإسلام وحتى نهاية القرن الأول الهجري."
+    },
+    {
+      "alsana_alhijriya": 1403,
+      "alsana_almiladiya": 1983,
+      "alfaiz": "شوقي ضيف",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت الأدب العربي في القرنين الثاني والثالث الهجريين."
+    },
+    {
+      "alsana_alhijriya": 1404,
+      "alsana_almiladiya": 1984,
+      "alfaiz": "محمود محمد شاكر",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت الأدب العربي في القرن الرابع الهجري."
+    },
+    {
+      "alsana_alhijriya": 1406,
+      "alsana_almiladiya": 1986,
+      "alfaiz": "محمد بهجة الأثري",
+      "aldawla": "العراق",
+      "almawdu": "الدراسات التي تناولت الأدب العربي في القرنين الخامس والسادس الهجريين."
+    },
+    {
+      "alsana_alhijriya": 1408,
+      "alsana_almiladiya": 1988,
+      "alfaiz": "محمد بن شريفة",
+      "aldawla": "المغرب",
+      "almawdu": "الدراسات التي تناولت الأدب العربي في الأندلس."
+    },
+    {
+      "alsana_alhijriya": 1408,
+      "alsana_almiladiya": 1988,
+      "alfaiz": "محمود علي مكي",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت الأدب العربي في الأندلس."
+    },
+    {
+      "alsana_alhijriya": 1409,
+      "alsana_almiladiya": 1989,
+      "alfaiz": "يوسف عبد القادر خليف",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت الشخصيات الأدبية حتى نهاية القرن الثالث الهجري."
+    },
+    {
+      "alsana_alhijriya": 1409,
+      "alsana_almiladiya": 1989,
+      "alfaiz": "شاكر الفحام",
+      "aldawla": "سوريا",
+      "almawdu": "الدراسات التي تناولت الشخصيات الأدبية حتى نهاية القرن الثالث الهجري."
+    },
+    {
+      "alsana_alhijriya": 1410,
+      "alsana_almiladiya": 1990,
+      "alfaiz": "يحيى حقي",
+      "aldawla": "مصر",
+      "almawdu": "القصة القصيرة."
+    },
+    {
+      "alsana_alhijriya": 1411,
+      "alsana_almiladiya": 1991,
+      "alfaiz": "عبد التواب يوسف",
+      "aldawla": "مصر",
+      "almawdu": "أدب الأطفال."
+    },
+    {
+      "alsana_alhijriya": 1411,
+      "alsana_almiladiya": 1991,
+      "alfaiz": "أحمد محمود نجيب",
+      "aldawla": "مصر",
+      "almawdu": "أدب الأطفال."
+    },
+    {
+      "alsana_alhijriya": 1411,
+      "alsana_almiladiya": 1991,
+      "alfaiz": "علي عبد القادر الصقلي",
+      "aldawla": "المغرب",
+      "almawdu": "أدب الأطفال."
+    },
+    {
+      "alsana_alhijriya": 1412,
+      "alsana_almiladiya": 1992,
+      "alfaiz": "محمد يوسف نجم",
+      "aldawla": "فلسطين لبنان",
+      "almawdu": "ترجمات الدراسات الأدبية والنقدية."
+    },
+    {
+      "alsana_alhijriya": 1412,
+      "alsana_almiladiya": 1992,
+      "alfaiz": "عبد الفتاح شكري عيّاد",
+      "aldawla": "مصر",
+      "almawdu": "ترجمات الدراسات الأدبية والنقدية."
+    },
+    {
+      "alsana_alhijriya": 1412,
+      "alsana_almiladiya": 1992,
+      "alfaiz": "محمد مصطفى بدوي",
+      "aldawla": "مصر المملكة المتحدة",
+      "almawdu": "ترجمات الدراسات الأدبية والنقدية."
+    },
+    {
+      "alsana_alhijriya": 1414,
+      "alsana_almiladiya": 1994,
+      "alfaiz": "وداد عفيف قاضي",
+      "aldawla": "لبنان الولايات المتحدة",
+      "almawdu": "الدراسات التي تناولت فنون النثر العربي القديم."
+    },
+    {
+      "alsana_alhijriya": 1414,
+      "alsana_almiladiya": 1994,
+      "alfaiz": "عائشة عبد الرحمن",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت فنون النثر العربي القديم."
+    },
+    {
+      "alsana_alhijriya": 1415,
+      "alsana_almiladiya": 1995,
+      "alfaiz": "سلمى الحفار الكزبري",
+      "aldawla": "سوريا",
+      "almawdu": "الدراسات التي تناولت أعلام الأدب العربي الحديث."
+    },
+    {
+      "alsana_alhijriya": 1415,
+      "alsana_almiladiya": 1995,
+      "alfaiz": "محمد أبو الأنوار",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت أعلام الأدب العربي الحديث."
+    },
+    {
+      "alsana_alhijriya": 1415,
+      "alsana_almiladiya": 1995,
+      "alfaiz": "حمدي سيد السكّوت",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت أعلام الأدب العربي الحديث."
+    },
+    {
+      "alsana_alhijriya": 1416,
+      "alsana_almiladiya": 1996,
+      "alfaiz": "حمد الجاسر",
+      "aldawla": "السعودية",
+      "almawdu": "أدب الرحلات في التراث العربي تحقيقاً أو دراسة."
+    },
+    {
+      "alsana_alhijriya": 1419,
+      "alsana_almiladiya": 1999,
+      "alfaiz": "سعيد علوش",
+      "aldawla": "المغرب",
+      "almawdu": "الدراسات المقارنة بين الأدب العربي والآداب الأخرى."
+    },
+    {
+      "alsana_alhijriya": 1419,
+      "alsana_almiladiya": 1999,
+      "alfaiz": "مكارم الغمري",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات المقارنة بين الأدب العربي والآداب الأخرى."
+    },
+    {
+      "alsana_alhijriya": 1421,
+      "alsana_almiladiya": 2000,
+      "alfaiz": "عز الدين إسماعيل",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت النقد الأدبي القديم عند العرب."
+    },
+    {
+      "alsana_alhijriya": 1421,
+      "alsana_almiladiya": 2000,
+      "alfaiz": "عبد الله الطيب",
+      "aldawla": "السودان",
+      "almawdu": "الدراسات التي تناولت النقد الأدبي القديم عند العرب."
+    },
+    {
+      "alsana_alhijriya": 1421,
+      "alsana_almiladiya": 2001,
+      "alfaiz": "منصور إبراهيم الحازمي",
+      "aldawla": "السعودية",
+      "almawdu": "الدراسات التي تناولت أعلام الأدب العربي الحديث."
+    },
+    {
+      "alsana_alhijriya": 1421,
+      "alsana_almiladiya": 2001,
+      "alfaiz": "إبراهيم السعافين",
+      "aldawla": "الأردن",
+      "almawdu": "الدراسات التي تناولت أعلام الأدب العربي الحديث."
+    },
+    {
+      "alsana_alhijriya": 1422,
+      "alsana_almiladiya": 2002,
+      "alfaiz": "حسني محمود حسين",
+      "aldawla": "فلسطين",
+      "almawdu": "الأدب الفلسطيني الحديث في تاريخه أو كتبه أو رجاله."
+    },
+    {
+      "alsana_alhijriya": 1422,
+      "alsana_almiladiya": 2002,
+      "alfaiz": "حسام الخطيب",
+      "aldawla": "سوريا",
+      "almawdu": "الأدب الفلسطيني الحديث في تاريخه أو كتبه أو رجاله."
+    },
+    {
+      "alsana_alhijriya": 1425,
+      "alsana_almiladiya": 2004,
+      "alfaiz": "حسين نصار",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت التدوين اللغوي إلى نهاية القرن الخامس عشر الهجري."
+    },
+    {
+      "alsana_alhijriya": 1427,
+      "alsana_almiladiya": 2006,
+      "alfaiz": "عبد القادر الفاسي الفهري",
+      "aldawla": "المغرب",
+      "almawdu": "اللغة العربية في الدراسات اللغوية الحديثة."
+    },
+    {
+      "alsana_alhijriya": 1427,
+      "alsana_almiladiya": 2006,
+      "alfaiz": "تمام حسان",
+      "aldawla": "مصر",
+      "almawdu": "اللغة العربية في الدراسات اللغوية الحديثة."
+    },
+    {
+      "alsana_alhijriya": 1428,
+      "alsana_almiladiya": 2007,
+      "alfaiz": "مصطفى عبده ناصف",
+      "aldawla": "مصر",
+      "almawdu": "الدراسات التي تناولت البلاغة العربية القديمة في موضوعاتها وأعلامها وكتبها."
+    },
+    {
+      "alsana_alhijriya": 1428,
+      "alsana_almiladiya": 2007,
+      "alfaiz": "محمد عبد الله العمري",
+      "aldawla": "المغرب",
+      "almawdu": "الدراسات التي تناولت البلاغة العربية القديمة في موضوعاتها وأعلامها وكتبها."
+    },
+    {
+      "alsana_alhijriya": 1429,
+      "alsana_almiladiya": 2008,
+      "alfaiz": "محمد رشاد الحمزاوي",
+      "aldawla": "تونس",
+      "almawdu": "قضايا المصطلحية في اللغة العربية."
+    },
+    {
+      "alsana_alhijriya": 1429,
+      "alsana_almiladiya": 2008,
+      "alfaiz": "أحمد مطلوب الناصري",
+      "aldawla": "العراق",
+      "almawdu": "قضايا المصطلحية في اللغة العربية."
+    },
+    {
+      "alsana_alhijriya": 1430,
+      "alsana_almiladiya": 2009,
+      "alfaiz": "عبد العزیز المانع",
+      "aldawla": "السعودية",
+      "almawdu": "تحقيق المؤلفات الأدبية الشعرية والنثرية المصنّفة."
+    },
+    {
+      "alsana_alhijriya": 1431,
+      "alsana_almiladiya": 2010,
+      "alfaiz": "رمزي البعلبكي",
+      "aldawla": "لبنان",
+      "almawdu": "الدراسات التي عنيت بالفكر النحوي عند العرب."
+    },
+    {
+      "alsana_alhijriya": 1431,
+      "alsana_almiladiya": 2010,
+      "alfaiz": "عبد الرحمن الحاج صالح",
+      "aldawla": "الجزائر",
+      "almawdu": "الدراسات التي عنيت بالفكر النحوي عند العرب."
+    },
+    {
+      "alsana_alhijriya": 1433,
+      "alsana_almiladiya": 2012,
+      "alfaiz": "نبيل علي",
+      "aldawla": "مصر",
+      "almawdu": "جهود الأفراد أو المؤسسات في مجال المعالجة الحاسوبية للّغة العربية."
+    },
+    {
+      "alsana_alhijriya": 1433,
+      "alsana_almiladiya": 2012,
+      "alfaiz": "علي حلمي موسى",
+      "aldawla": "مصر",
+      "almawdu": "جهود الأفراد أو المؤسسات في مجال المعالجة الحاسوبية للّغة العربية."
+    },
+    {
+      "alsana_alhijriya": 1434,
+      "alsana_almiladiya": 2013,
+      "alfaiz": "مجمع اللغة العربية بالقاهرة",
+      "aldawla": "مصر",
+      "almawdu": "الجهود المبذولة من المؤسسات العلمية أو الأفراد في تأليف المعاجم العربية."
+    },
+    {
+      "alsana_alhijriya": 1435,
+      "alsana_almiladiya": 2014,
+      "alfaiz": "عبد الله إبراهيم",
+      "aldawla": "العراق",
+      "almawdu": "الدراسات التي تناولت الرواية العربية الحديثة."
+    },
+    {
+      "alsana_alhijriya": 1437,
+      "alsana_almiladiya": 2016,
+      "alfaiz": "محمد عبد المطلب مصطفى",
+      "aldawla": "مصر",
+      "almawdu": "الجهود التي بذلت في تحليل النص الشعري العربي."
+    },
+    {
+      "alsana_alhijriya": 1437,
+      "alsana_almiladiya": 2016,
+      "alfaiz": "محمد الغزواني مفتاح",
+      "aldawla": "المغرب",
+      "almawdu": "الجهود التي بذلت في تحليل النص الشعري العربي."
+    },
+    {
+      "alsana_alhijriya": 1438,
+      "alsana_almiladiya": 2017,
+      "alfaiz": "مجمع اللغة العربية الأردني",
+      "aldawla": "الأردن",
+      "almawdu": "جهود الأفراد أو المؤسسات في تعريب العلوم والتقنيات نقلاً وبحثاً وتعليماً."
+    },
+    {
+      "alsana_alhijriya": 1439,
+      "alsana_almiladiya": 2018,
+      "alfaiz": "شكري المبخوت",
+      "aldawla": "تونس",
+      "almawdu": "الدراسات التي تناولت السيرة الذاتية في الأدب العربي."
+    },
+    {
+      "alsana_alhijriya": 1440,
+      "alsana_almiladiya": 2019,
+      "alfaiz": "عبدالعالي ودغيري",
+      "aldawla": "المغرب",
+      "almawdu": "اللغة العربية وتحديات العصر"
+    },
+    {
+      "alsana_alhijriya": 1440,
+      "alsana_almiladiya": 2019,
+      "alfaiz": "محمود فهمي حجازي",
+      "aldawla": "مصر",
+      "almawdu": "اللغة العربية وتحديات العصر"
+    },
+    {
+      "alsana_alhijriya": 1441,
+      "alsana_almiladiya": 2020,
+      "alfaiz": "مايكل ج. كارتر",
+      "aldawla": "أستراليا",
+      "almawdu": "الدراسات اللغوية العربية باللغات الأخرى."
+    },
+    {
+      "alsana_alhijriya": 1442,
+      "alsana_almiladiya": 2021,
+      "alfaiz": "محمد مشبال",
+      "aldawla": "المغرب",
+      "almawdu": "البلاغة الجديدة."
+    },
+    {
+      "alsana_alhijriya": 1443,
+      "alsana_almiladiya": 2022,
+      "alfaiz": "محسن جاسم الموسوي",
+      "aldawla": "العراق الولايات المتحدة",
+      "almawdu": "دراسات الأدب العربي باللغة الإنجليزية."
+    },
+    {
+      "alsana_alhijriya": 1443,
+      "alsana_almiladiya": 2022,
+      "alfaiz": "سوزان ستيتكيفيتش",
+      "aldawla": "الولايات المتحدة",
+      "almawdu": "دراسات الأدب العربي باللغة الإنجليزية."
+    },
+    {
+      "alsana_alhijriya": 1444,
+      "alsana_almiladiya": 2023,
+      "alfaiz": "عبد الفتاح كيليطو",
+      "aldawla": "المغرب",
+      "almawdu": "السرد العربي القديم والنظريات الحديثة."
+    },
+    {
+      "alsana_alhijriya": 1447,
+      "alsana_almiladiya": 2026,
+      "alfaiz": "بيير لارشيه",
+      "aldawla": "فرنسا",
+      "almawdu": "الأدب العربي باللغة الفرنسية."
+    }
+  ],
+  "meta": {
+    "title": "الفائزون بجائزة الملك فيصل في اللغة العربية والأدب - Free Download",
+    "description": "قائمة الفائزين بجائزة الملك فيصل العالمية في فرع اللغة العربية والأدب منذ 1980: السنة الهجرية والميلادية، الفائز، الدولة وموضوع الجائزة. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الفائزون بجائزة الملك فيصل في اللغة العربية والأدب | ListBase",
+    "seo_description": "Download الفائزون بجائزة الملك فيصل في اللغة العربية والأدب — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/جائزة_الملك_فيصل_في_اللغة_العربية_والأدب"
+    ]
+  }
+}
