@@ -1,0 +1,346 @@
+{
+  "id": "ar-numuw-alnatij-almahalli-alhaqiqi-aldual-alarabiya",
+  "name": "معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية",
+  "title": "معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية",
+  "description": "معدل النمو السنوي للناتج المحلي الإجمالي الحقيقي (٪) في الدول العربية من 2013 إلى 2023 مع المتوسط، وفق بيانات صندوق النقد الدولي.",
+  "category": "economy",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_معدل_نمو_الناتج_المحلي_الإجمالي_الحقيقي",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_معدل_نمو_الناتج_المحلي_الإجمالي_الحقيقي",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "albalad",
+      "label": "Albalad",
+      "type": "string"
+    },
+    {
+      "key": "numuw_2013",
+      "label": "Numuw 2013",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2014",
+      "label": "Numuw 2014",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2015",
+      "label": "Numuw 2015",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2016",
+      "label": "Numuw 2016",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2017",
+      "label": "Numuw 2017",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2018",
+      "label": "Numuw 2018",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2019",
+      "label": "Numuw 2019",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2020",
+      "label": "Numuw 2020",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2021",
+      "label": "Numuw 2021",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2022",
+      "label": "Numuw 2022",
+      "type": "number"
+    },
+    {
+      "key": "numuw_2023",
+      "label": "Numuw 2023",
+      "type": "number"
+    },
+    {
+      "key": "almutawassit",
+      "label": "Almutawassit",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "albalad": "الجزائر",
+      "numuw_2013": 2.597,
+      "numuw_2014": 4.086,
+      "numuw_2015": 3.162,
+      "numuw_2016": 3.884,
+      "numuw_2017": 1.524,
+      "numuw_2018": 1.44,
+      "numuw_2019": 0.933,
+      "numuw_2020": -5.017,
+      "numuw_2021": 3.805,
+      "numuw_2022": 3.616,
+      "numuw_2023": 4.184,
+      "almutawassit": 2.201
+    },
+    {
+      "albalad": "البحرين",
+      "numuw_2013": 5.416,
+      "numuw_2014": 4.351,
+      "numuw_2015": 2.485,
+      "numuw_2016": 3.558,
+      "numuw_2017": 4.292,
+      "numuw_2018": 2.11,
+      "numuw_2019": 2.167,
+      "numuw_2020": -4.645,
+      "numuw_2021": 2.591,
+      "numuw_2022": 4.891,
+      "numuw_2023": 2.617,
+      "almutawassit": 2.712
+    },
+    {
+      "albalad": "جزر القمر",
+      "numuw_2013": 4.466,
+      "numuw_2014": 2.107,
+      "numuw_2015": 1.147,
+      "numuw_2016": 3.32,
+      "numuw_2017": 3.816,
+      "numuw_2018": 3.642,
+      "numuw_2019": 1.761,
+      "numuw_2020": -0.196,
+      "numuw_2021": 2,
+      "numuw_2022": 2.603,
+      "numuw_2023": 2.996,
+      "almutawassit": 2.515
+    },
+    {
+      "albalad": "جيبوتي",
+      "numuw_2013": 5.001,
+      "numuw_2014": 7.193,
+      "numuw_2015": 7.309,
+      "numuw_2016": 7.123,
+      "numuw_2017": 5.458,
+      "numuw_2018": 4.774,
+      "numuw_2019": 5.545,
+      "numuw_2020": 1.316,
+      "numuw_2021": 4.522,
+      "numuw_2022": 3.876,
+      "numuw_2023": 6.989,
+      "almutawassit": 5.373
+    },
+    {
+      "albalad": "مصر",
+      "numuw_2013": 3.302,
+      "numuw_2014": 2.93,
+      "numuw_2015": 4.36,
+      "numuw_2016": 4.34,
+      "numuw_2017": 4.191,
+      "numuw_2018": 5.327,
+      "numuw_2019": 5.548,
+      "numuw_2020": 3.573,
+      "numuw_2021": 3.253,
+      "numuw_2022": 6.653,
+      "numuw_2023": 3.76,
+      "almutawassit": 4.294
+    },
+    {
+      "albalad": "العراق",
+      "numuw_2013": 7.628,
+      "numuw_2014": 0.738,
+      "numuw_2015": 2.537,
+      "numuw_2016": 15.199,
+      "numuw_2017": -3.399,
+      "numuw_2018": 4.703,
+      "numuw_2019": 5.368,
+      "numuw_2020": -12.055,
+      "numuw_2021": 1.58,
+      "numuw_2022": 6.983,
+      "numuw_2023": -2.176,
+      "almutawassit": 2.464
+    },
+    {
+      "albalad": "الأردن",
+      "numuw_2013": 2.61,
+      "numuw_2014": 3.384,
+      "numuw_2015": 2.497,
+      "numuw_2016": 1.994,
+      "numuw_2017": 2.474,
+      "numuw_2018": 1.919,
+      "numuw_2019": 1.751,
+      "numuw_2020": -1.103,
+      "numuw_2021": 3.656,
+      "numuw_2022": 2.428,
+      "numuw_2023": 2.6,
+      "almutawassit": 2.201
+    },
+    {
+      "albalad": "الكويت",
+      "numuw_2013": 1.149,
+      "numuw_2014": 0.501,
+      "numuw_2015": 0.593,
+      "numuw_2016": 2.926,
+      "numuw_2017": -4.712,
+      "numuw_2018": 2.434,
+      "numuw_2019": 1.328,
+      "numuw_2020": -5.274,
+      "numuw_2021": 1.698,
+      "numuw_2022": 6.138,
+      "numuw_2023": -2.231,
+      "almutawassit": 0.419
+    },
+    {
+      "albalad": "لبنان",
+      "numuw_2013": 3.828,
+      "numuw_2014": 2.485,
+      "numuw_2015": 0.461,
+      "numuw_2016": 1.556,
+      "numuw_2017": 0.903,
+      "numuw_2018": -1.885,
+      "numuw_2019": -6.915,
+      "numuw_2020": -25.907,
+      "numuw_2021": -10,
+      "numuw_2022": "",
+      "numuw_2023": "",
+      "almutawassit": -3.942
+    },
+    {
+      "albalad": "ليبيا",
+      "numuw_2013": -17.998,
+      "numuw_2014": -23.043,
+      "numuw_2015": -0.843,
+      "numuw_2016": -1.493,
+      "numuw_2017": 32.492,
+      "numuw_2018": 7.941,
+      "numuw_2019": -11.196,
+      "numuw_2020": -29.456,
+      "numuw_2021": 28.335,
+      "numuw_2022": -8.252,
+      "numuw_2023": 10.156,
+      "almutawassit": -1.214
+    },
+    {
+      "albalad": "موريتانيا",
+      "numuw_2013": 4.151,
+      "numuw_2014": 4.275,
+      "numuw_2015": 5.376,
+      "numuw_2016": 1.261,
+      "numuw_2017": 6.271,
+      "numuw_2018": 4.773,
+      "numuw_2019": 3.146,
+      "numuw_2020": -0.429,
+      "numuw_2021": 0.737,
+      "numuw_2022": 6.364,
+      "numuw_2023": 4.811,
+      "almutawassit": 3.703
+    },
+    {
+      "albalad": "قطر",
+      "numuw_2013": 5.556,
+      "numuw_2014": 5.334,
+      "numuw_2015": 4.753,
+      "numuw_2016": 3.064,
+      "numuw_2017": -1.498,
+      "numuw_2018": 1.235,
+      "numuw_2019": 0.688,
+      "numuw_2020": -3.558,
+      "numuw_2021": 1.627,
+      "numuw_2022": 4.2,
+      "numuw_2023": 1.558,
+      "almutawassit": 2.087
+    },
+    {
+      "albalad": "السعودية",
+      "numuw_2013": 2.535,
+      "numuw_2014": 3.811,
+      "numuw_2015": 4.509,
+      "numuw_2016": 1.885,
+      "numuw_2017": 0.911,
+      "numuw_2018": 3.199,
+      "numuw_2019": 1.098,
+      "numuw_2020": -3.582,
+      "numuw_2021": 5.075,
+      "numuw_2022": 7.486,
+      "numuw_2023": -0.755,
+      "almutawassit": 2.379
+    },
+    {
+      "albalad": "تونس",
+      "numuw_2013": 2.43,
+      "numuw_2014": 3.09,
+      "numuw_2015": 0.968,
+      "numuw_2016": 1.117,
+      "numuw_2017": 2.238,
+      "numuw_2018": 2.625,
+      "numuw_2019": 1.588,
+      "numuw_2020": -8.592,
+      "numuw_2021": 4.605,
+      "numuw_2022": 2.603,
+      "numuw_2023": 0.425,
+      "almutawassit": 1.191
+    },
+    {
+      "albalad": "الإمارات العربية المتحدة",
+      "numuw_2013": 5.056,
+      "numuw_2014": 4.166,
+      "numuw_2015": 6.787,
+      "numuw_2016": 5.561,
+      "numuw_2017": 0.735,
+      "numuw_2018": 1.314,
+      "numuw_2019": 1.108,
+      "numuw_2020": -4.957,
+      "numuw_2021": 4.355,
+      "numuw_2022": 7.85,
+      "numuw_2023": 3.404,
+      "almutawassit": 3.216
+    },
+    {
+      "albalad": "فلسطين",
+      "numuw_2013": 4.699,
+      "numuw_2014": -0.158,
+      "numuw_2015": 3.721,
+      "numuw_2016": 8.865,
+      "numuw_2017": 1.419,
+      "numuw_2018": 1.227,
+      "numuw_2019": 1.363,
+      "numuw_2020": -11.318,
+      "numuw_2021": 7.012,
+      "numuw_2022": 4.083,
+      "numuw_2023": -6.134,
+      "almutawassit": 1.344
+    },
+    {
+      "albalad": "اليمن",
+      "numuw_2013": 4.824,
+      "numuw_2014": -0.189,
+      "numuw_2015": -27.995,
+      "numuw_2016": -9.375,
+      "numuw_2017": -5.072,
+      "numuw_2018": 0.752,
+      "numuw_2019": 2.1,
+      "numuw_2020": -8.5,
+      "numuw_2021": -1,
+      "numuw_2022": 1.5,
+      "numuw_2023": -2,
+      "almutawassit": -4.087
+    }
+  ],
+  "meta": {
+    "title": "معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية - Free Download",
+    "description": "معدل النمو السنوي للناتج المحلي الإجمالي الحقيقي (٪) في الدول العربية من 2013 إلى 2023 مع المتوسط، وفق بيانات صندوق النقد الدولي. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية | ListBase",
+    "seo_description": "Download معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_معدل_نمو_الناتج_المحلي_الإجمالي_الحقيقي"
+    ]
+  }
+}

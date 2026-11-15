@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-15T02:37:40.156Z",
-  "total_datasets": 538,
-  "total_records": 155055,
+  "generated": "2026-11-15T02:37:52.398Z",
+  "total_datasets": 539,
+  "total_records": 155072,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -638,6 +638,40 @@
         "xlsx": {
           "name": "ar-muhafizu-albank-almarkazi-almisri_AR.xlsx",
           "size": 7769
+        }
+      }
+    },
+    {
+      "id": "ar-numuw-alnatij-almahalli-alhaqiqi-aldual-alarabiya",
+      "name": "معدل نمو الناتج المحلي الإجمالي الحقيقي في الدول العربية",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "albalad",
+        "numuw_2013",
+        "numuw_2014",
+        "numuw_2015",
+        "numuw_2016",
+        "numuw_2017",
+        "numuw_2018",
+        "numuw_2019",
+        "numuw_2020",
+        "numuw_2021",
+        "numuw_2022",
+        "numuw_2023",
+        "almutawassit"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_معدل_نمو_الناتج_المحلي_الإجمالي_الحقيقي",
+      "updated": "2026-11",
+      "size": 9587,
+      "files": {
+        "csv": {
+          "name": "ar-numuw-alnatij-almahalli-alhaqiqi-aldual-alarabiya_AR.csv",
+          "size": 2094
+        },
+        "xlsx": {
+          "name": "ar-numuw-alnatij-almahalli-alhaqiqi-aldual-alarabiya_AR.xlsx",
+          "size": 8382
         }
       }
     },
