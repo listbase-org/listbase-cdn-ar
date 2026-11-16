@@ -1,0 +1,335 @@
+{
+  "id": "ar-sawabiq-alnizam-aldawli-lilwahadat",
+  "name": "سوابق (بادئات) النظام الدولي للوحدات",
+  "title": "سوابق (بادئات) النظام الدولي للوحدات",
+  "description": "قائمة سوابق النظام الدولي للوحدات بأسمائها ورموزها العربية والدولية، وقيمتها بقوى العشرة والألف، والعدد المقابل وسنة اعتمادها.",
+  "category": "units",
+  "source": "https://ar.wikipedia.org/wiki/سوابق_النظام_الدولي_للوحدات",
+  "source_url": "https://ar.wikipedia.org/wiki/سوابق_النظام_الدولي_للوحدات",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "alsabiqa",
+      "label": "Alsabiqa",
+      "type": "string"
+    },
+    {
+      "key": "alramz_alarabi",
+      "label": "Alramz Alarabi",
+      "type": "string"
+    },
+    {
+      "key": "tarjamat_albadia",
+      "label": "Tarjamat Albadia",
+      "type": "string"
+    },
+    {
+      "key": "alramz_aldawli",
+      "label": "Alramz Aldawli",
+      "type": "string"
+    },
+    {
+      "key": "qiwat_1000",
+      "label": "Qiwat 1000",
+      "type": "string"
+    },
+    {
+      "key": "alkitaba_alilmiya",
+      "label": "Alkitaba Alilmiya",
+      "type": "string"
+    },
+    {
+      "key": "aladad_alashari",
+      "label": "Aladad Alashari",
+      "type": "string"
+    },
+    {
+      "key": "aladad",
+      "label": "Aladad",
+      "type": "string"
+    },
+    {
+      "key": "mutabanna_mundh",
+      "label": "Mutabanna Mundh",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alsabiqa": "كواتا",
+      "alramz_alarabi": "كت",
+      "tarjamat_albadia": "–",
+      "alramz_aldawli": "Q",
+      "qiwat_1000": "١٠٠٠^١٠",
+      "alkitaba_alilmiya": "١٠^٣٠",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "كونتليون (عربي): نانليون حديث",
+      "mutabanna_mundh": "٢٠٢٢"
+    },
+    {
+      "alsabiqa": "رونا",
+      "alramz_alarabi": "را",
+      "tarjamat_albadia": "–",
+      "alramz_aldawli": "R",
+      "qiwat_1000": "١٠٠٠^٩",
+      "alkitaba_alilmiya": "١٠^٢٧",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "كوَدرليار (عربي): أوكتليون حديث",
+      "mutabanna_mundh": "٢٠٢٢"
+    },
+    {
+      "alsabiqa": "يوتا",
+      "alramz_alarabi": "يو",
+      "tarjamat_albadia": "ثمانية",
+      "alramz_aldawli": "Y",
+      "qiwat_1000": "١٠٠٠^٨",
+      "alkitaba_alilmiya": "١٠^٢٤",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "كوَدرليون (عربي): سبتيليون حديث",
+      "mutabanna_mundh": "١٩٩١"
+    },
+    {
+      "alsabiqa": "زيتا",
+      "alramz_alarabi": "زتـ",
+      "tarjamat_albadia": "سبعة",
+      "alramz_aldawli": "Z",
+      "qiwat_1000": "١٠٠٠^٧",
+      "alkitaba_alilmiya": "١٠^٢١",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "ترليار (عربي): سكستليون حديث",
+      "mutabanna_mundh": "١٩٩١"
+    },
+    {
+      "alsabiqa": "إكسا",
+      "alramz_alarabi": "يـ",
+      "tarjamat_albadia": "ستة",
+      "alramz_aldawli": "E",
+      "qiwat_1000": "١٠٠٠^٦",
+      "alkitaba_alilmiya": "١٠^١٨",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "ترليون (عربي): كونتليون حديث",
+      "mutabanna_mundh": "١٩٧٥"
+    },
+    {
+      "alsabiqa": "بيتا",
+      "alramz_alarabi": "بتـ",
+      "tarjamat_albadia": "خمسة",
+      "alramz_aldawli": "P",
+      "qiwat_1000": "١٠٠٠^٥",
+      "alkitaba_alilmiya": "١٠^١٥",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "بليار (عربي): كوَدريليون حديث",
+      "mutabanna_mundh": "١٩٧٥"
+    },
+    {
+      "alsabiqa": "تيرا",
+      "alramz_alarabi": "تـ",
+      "tarjamat_albadia": "وحش",
+      "alramz_aldawli": "T",
+      "qiwat_1000": "١٠٠٠^٤",
+      "alkitaba_alilmiya": "١٠^١٢",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "بليون (عربي): تريليون حديث",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "جيجا",
+      "alramz_alarabi": "جـ",
+      "tarjamat_albadia": "عملاق",
+      "alramz_aldawli": "G",
+      "qiwat_1000": "١٠٠٠^٣",
+      "alkitaba_alilmiya": "١٠^٩",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠٬٠٠٠",
+      "aladad": "مليار (عربي): بليون حديث",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "ميغا",
+      "alramz_alarabi": "مج",
+      "tarjamat_albadia": "عظيم",
+      "alramz_aldawli": "M",
+      "qiwat_1000": "١٠٠٠^٢",
+      "alkitaba_alilmiya": "١٠^٦",
+      "aladad_alashari": "١٬٠٠٠٬٠٠٠",
+      "aladad": "مليون",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "كيلو",
+      "alramz_alarabi": "كـ",
+      "tarjamat_albadia": "ألف",
+      "alramz_aldawli": "k",
+      "qiwat_1000": "١٠٠٠^١",
+      "alkitaba_alilmiya": "١٠^٣",
+      "aladad_alashari": "١٬٠٠٠",
+      "aladad": "ألف",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "هكتو",
+      "alramz_alarabi": "هـ",
+      "tarjamat_albadia": "مائة",
+      "alramz_aldawli": "h",
+      "qiwat_1000": "١٠٠٠^٢/٣",
+      "alkitaba_alilmiya": "١٠^٢",
+      "aladad_alashari": "١٠٠",
+      "aladad": "مائة",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "ديكا",
+      "alramz_alarabi": "دا",
+      "tarjamat_albadia": "عشرة",
+      "alramz_aldawli": "da",
+      "qiwat_1000": "١٠٠٠^١/٣",
+      "alkitaba_alilmiya": "١٠^١",
+      "aladad_alashari": "١٠",
+      "aladad": "عشرة",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "ديسي",
+      "alramz_alarabi": "د",
+      "tarjamat_albadia": "عاشر",
+      "alramz_aldawli": "d",
+      "qiwat_1000": "١٠٠٠^-١/٣",
+      "alkitaba_alilmiya": "١٠^-١",
+      "aladad_alashari": "٠٫١",
+      "aladad": "عُشر (جزء من عشرة)",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "سنتي",
+      "alramz_alarabi": "سـ",
+      "tarjamat_albadia": "مائة",
+      "alramz_aldawli": "c",
+      "qiwat_1000": "١٠٠٠^-٢/٣",
+      "alkitaba_alilmiya": "١٠^-٢",
+      "aladad_alashari": "٠٫٠١",
+      "aladad": "جزء من مائة",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "ميللي",
+      "alramz_alarabi": "مـ",
+      "tarjamat_albadia": "الالف",
+      "alramz_aldawli": "m",
+      "qiwat_1000": "١٠٠٠^-١",
+      "alkitaba_alilmiya": "١٠^-٣",
+      "aladad_alashari": "٠٫٠٠١",
+      "aladad": "جزء من ألف",
+      "mutabanna_mundh": "١٧٩٥"
+    },
+    {
+      "alsabiqa": "ميكرو",
+      "alramz_alarabi": "مكـ",
+      "tarjamat_albadia": "صغير",
+      "alramz_aldawli": "μ",
+      "qiwat_1000": "١٠٠٠^-٢",
+      "alkitaba_alilmiya": "١٠^-٦",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠١",
+      "aladad": "جزء من مليون",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "نانو",
+      "alramz_alarabi": "نـ",
+      "tarjamat_albadia": "قزم",
+      "alramz_aldawli": "n",
+      "qiwat_1000": "١٠٠٠^-٣",
+      "alkitaba_alilmiya": "١٠^-٩",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من مليار",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "بيكو",
+      "alramz_alarabi": "بـ",
+      "tarjamat_albadia": "صغير",
+      "alramz_aldawli": "p",
+      "qiwat_1000": "١٠٠٠^-٤",
+      "alkitaba_alilmiya": "١٠^-١٢",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من بليون",
+      "mutabanna_mundh": "١٩٦٠"
+    },
+    {
+      "alsabiqa": "فيمتو",
+      "alramz_alarabi": "فـ",
+      "tarjamat_albadia": "خمسة عشر",
+      "alramz_aldawli": "f",
+      "qiwat_1000": "١٠٠٠^-٥",
+      "alkitaba_alilmiya": "١٠^-١٥",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من بليار",
+      "mutabanna_mundh": "١٩٦٤"
+    },
+    {
+      "alsabiqa": "أتو",
+      "alramz_alarabi": "آ",
+      "tarjamat_albadia": "ثمانية عشر",
+      "alramz_aldawli": "a",
+      "qiwat_1000": "١٠٠٠^-٦",
+      "alkitaba_alilmiya": "١٠^-١٨",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من ترليون",
+      "mutabanna_mundh": "١٩٦٤"
+    },
+    {
+      "alsabiqa": "زيبتو",
+      "alramz_alarabi": "زبـ",
+      "tarjamat_albadia": "سبعة",
+      "alramz_aldawli": "z",
+      "qiwat_1000": "١٠٠٠^-٧",
+      "alkitaba_alilmiya": "١٠^-٢١",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من ترليار",
+      "mutabanna_mundh": "١٩٩١"
+    },
+    {
+      "alsabiqa": "يوكتو",
+      "alramz_alarabi": "يكـ",
+      "tarjamat_albadia": "ثمانية",
+      "alramz_aldawli": "y",
+      "qiwat_1000": "١٠٠٠^-٨",
+      "alkitaba_alilmiya": "١٠^-٢٤",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من كوَدرليون",
+      "mutabanna_mundh": "١٩٩١"
+    },
+    {
+      "alsabiqa": "رونتو",
+      "alramz_alarabi": "رت",
+      "tarjamat_albadia": "–",
+      "alramz_aldawli": "r",
+      "qiwat_1000": "١٠٠٠^-٩",
+      "alkitaba_alilmiya": "١٠^-٢٧",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من كوَدرليار",
+      "mutabanna_mundh": "٢٠٢٢"
+    },
+    {
+      "alsabiqa": "كوِكتو",
+      "alramz_alarabi": "كو",
+      "tarjamat_albadia": "–",
+      "alramz_aldawli": "q",
+      "qiwat_1000": "١٠٠٠^-١٠",
+      "alkitaba_alilmiya": "١٠^-٣٠",
+      "aladad_alashari": "٠٫٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠٠ ٠٠١",
+      "aladad": "جزء من كوَنتليون",
+      "mutabanna_mundh": "٢٠٢٢"
+    }
+  ],
+  "meta": {
+    "title": "سوابق (بادئات) النظام الدولي للوحدات - Free Download",
+    "description": "قائمة سوابق النظام الدولي للوحدات بأسمائها ورموزها العربية والدولية، وقيمتها بقوى العشرة والألف، والعدد المقابل وسنة اعتمادها. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سوابق (بادئات) النظام الدولي للوحدات | ListBase",
+    "seo_description": "Download سوابق (بادئات) النظام الدولي للوحدات — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/سوابق_النظام_الدولي_للوحدات"
+    ]
+  }
+}
