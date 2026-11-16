@@ -1,0 +1,291 @@
+{
+  "id": "ar-altasnif-alarabi-liljamiat-2024",
+  "name": "التصنيف العربي للجامعات 2024 — أفضل 50 جامعة",
+  "title": "التصنيف العربي للجامعات 2024 — أفضل 50 جامعة",
+  "description": "ترتيب أفضل 50 جامعة عربية وفق التصنيف العربي للجامعات لعام 2024 الصادر عن اتحاد الجامعات العربية والمنظمة العربية للتربية والثقافة والعلوم.",
+  "category": "education",
+  "source": "https://ar.wikipedia.org/wiki/التصنيف_العربي_للجامعات",
+  "source_url": "https://ar.wikipedia.org/wiki/التصنيف_العربي_للجامعات",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "altartib",
+      "label": "Altartib",
+      "type": "number"
+    },
+    {
+      "key": "aljamia",
+      "label": "Aljamia",
+      "type": "string"
+    },
+    {
+      "key": "aldawla",
+      "label": "Aldawla",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "altartib": 1,
+      "aljamia": "جامعة الملك سعود",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 2,
+      "aljamia": "جامعة القاهرة",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 3,
+      "aljamia": "جامعة الإمارات العربية المتحدة",
+      "aldawla": "الإمارات العربية المتحدة"
+    },
+    {
+      "altartib": 4,
+      "aljamia": "جامعة الشارقة",
+      "aldawla": "الإمارات العربية المتحدة"
+    },
+    {
+      "altartib": 5,
+      "aljamia": "جامعة الملك خالد",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 6,
+      "aljamia": "جامعة عين شمس",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 7,
+      "aljamia": "جامعة المنصورة",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 8,
+      "aljamia": "جامعة الاسكندرية",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 9,
+      "aljamia": "جامعة الطائف",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 10,
+      "aljamia": "جامعة تونس المنار",
+      "aldawla": "الجمهورية التونسية"
+    },
+    {
+      "altartib": 11,
+      "aljamia": "جامعة صفاقس",
+      "aldawla": "الجمهورية التونسية"
+    },
+    {
+      "altartib": 12,
+      "aljamia": "جامعة الزقازيق",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 13,
+      "aljamia": "جامعة القصيم",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 14,
+      "aljamia": "جامعة العلوم والتكنولوجيا الاردنية",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 15,
+      "aljamia": "جامعة طنطا",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 16,
+      "aljamia": "جامعة عمان الأهلية",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 17,
+      "aljamia": "جامعة المنستير",
+      "aldawla": "الجمهورية التونسية"
+    },
+    {
+      "altartib": 18,
+      "aljamia": "جامعة بغداد",
+      "aldawla": "جمهورية العراق"
+    },
+    {
+      "altartib": 19,
+      "aljamia": "جامعة تعز",
+      "aldawla": "الجمهورية اليمنية"
+    },
+    {
+      "altartib": 20,
+      "aljamia": "جامعة النجاح الوطنية",
+      "aldawla": "دولة فلسطين"
+    },
+    {
+      "altartib": 21,
+      "aljamia": "جامعة المنوفية",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 22,
+      "aljamia": "جامعة قناة السويس",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 23,
+      "aljamia": "جامعة الأزهر",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 24,
+      "aljamia": "جامعة جازان",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 25,
+      "aljamia": "جامعة العلوم والتكنولوجيا / عدن",
+      "aldawla": "الجمهورية اليمنية"
+    },
+    {
+      "altartib": 26,
+      "aljamia": "جامعة البلقاء التطبيقية",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 27,
+      "aljamia": "جامعة الملك فيصل",
+      "aldawla": "المملكة العربية السعودية"
+    },
+    {
+      "altartib": 28,
+      "aljamia": "الجامعة التكنولوجية - العراق",
+      "aldawla": "جمهورية العراق"
+    },
+    {
+      "altartib": 29,
+      "aljamia": "جامعة أسيوط",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 30,
+      "aljamia": "جامعة الكويت",
+      "aldawla": "دولة الكويت"
+    },
+    {
+      "altartib": 31,
+      "aljamia": "الجامعة المستنصرية",
+      "aldawla": "جمهورية العراق"
+    },
+    {
+      "altartib": 32,
+      "aljamia": "جامعة بنها",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 33,
+      "aljamia": "جامعة فلسطين الأهلية",
+      "aldawla": "دولة فلسطين"
+    },
+    {
+      "altartib": 34,
+      "aljamia": "الاكاديمية العربية للعلوم والتكنولوجيا والنقل البحرى",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 35,
+      "aljamia": "جامعة فلسطين التقنية - خضوري",
+      "aldawla": "دولة فلسطين"
+    },
+    {
+      "altartib": 36,
+      "aljamia": "جامعة المستقبل - جمهورية العراق",
+      "aldawla": "جمهورية العراق"
+    },
+    {
+      "altartib": 37,
+      "aljamia": "جامعة سوسة",
+      "aldawla": "الجمهورية التونسية"
+    },
+    {
+      "altartib": 38,
+      "aljamia": "جامعة كفر الشيخ",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 39,
+      "aljamia": "جامعة اليرموك",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 40,
+      "aljamia": "جامعة ٦ أكتوبر",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 41,
+      "aljamia": "جامعة فيلادلفيا",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 42,
+      "aljamia": "جامعة الفيوم",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 43,
+      "aljamia": "جامعة البترا",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 44,
+      "aljamia": "جامعة أسوان",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 45,
+      "aljamia": "جامعة مؤتة",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 46,
+      "aljamia": "جامعة الشرق الأوسط- الأردن",
+      "aldawla": "المملكة الأردنية الهاشمية"
+    },
+    {
+      "altartib": 47,
+      "aljamia": "جامعة مدينة السادات",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 48,
+      "aljamia": "جامعة المستقبل - جمهورية مصر العربية",
+      "aldawla": "جمهورية مصر العربية"
+    },
+    {
+      "altartib": 49,
+      "aljamia": "جامعة القدس",
+      "aldawla": "دولة فلسطين"
+    },
+    {
+      "altartib": 50,
+      "aljamia": "الجامعة البريطانية في مصر",
+      "aldawla": "جمهورية مصر العربية"
+    }
+  ],
+  "meta": {
+    "title": "التصنيف العربي للجامعات 2024 — أفضل 50 جامعة - Free Download",
+    "description": "ترتيب أفضل 50 جامعة عربية وفق التصنيف العربي للجامعات لعام 2024 الصادر عن اتحاد الجامعات العربية والمنظمة العربية للتربية والثقافة والعلوم. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "التصنيف العربي للجامعات 2024 — أفضل 50 جامعة | ListBase",
+    "seo_description": "Download التصنيف العربي للجامعات 2024 — أفضل 50 جامعة — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/التصنيف_العربي_للجامعات"
+    ]
+  }
+}

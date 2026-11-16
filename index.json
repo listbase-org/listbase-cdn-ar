@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-15T02:37:52.398Z",
-  "total_datasets": 539,
-  "total_records": 155072,
+  "generated": "2026-11-16T02:29:07.582Z",
+  "total_datasets": 540,
+  "total_records": 155122,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -698,6 +698,30 @@
         "xlsx": {
           "name": "ar-wuzara-albitrol-misr_AR.xlsx",
           "size": 9181
+        }
+      }
+    },
+    {
+      "id": "ar-altasnif-alarabi-liljamiat-2024",
+      "name": "التصنيف العربي للجامعات 2024 — أفضل 50 جامعة",
+      "category": "education",
+      "record_count": 50,
+      "columns": [
+        "altartib",
+        "aljamia",
+        "aldawla"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/التصنيف_العربي_للجامعات",
+      "updated": "2026-11",
+      "size": 9326,
+      "files": {
+        "csv": {
+          "name": "ar-altasnif-alarabi-liljamiat-2024_AR.csv",
+          "size": 4085
+        },
+        "xlsx": {
+          "name": "ar-altasnif-alarabi-liljamiat-2024_AR.xlsx",
+          "size": 8151
         }
       }
     },
