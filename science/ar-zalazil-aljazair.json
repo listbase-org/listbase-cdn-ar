@@ -1,0 +1,156 @@
+{
+  "id": "ar-zalazil-aljazair",
+  "name": "أبرز الزلازل في الجزائر",
+  "title": "أبرز الزلازل في الجزائر",
+  "description": "قائمة بأبرز الزلازل التي ضربت الجزائر منذ 1716 مع التاريخ والمنطقة والإحداثيات وقوة الزلزال وعدد الوفيات.",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الزلازل_في_الجزائر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الزلازل_في_الجزائر",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "altarikh",
+      "label": "Altarikh",
+      "type": "string"
+    },
+    {
+      "key": "almintaqa",
+      "label": "Almintaqa",
+      "type": "string"
+    },
+    {
+      "key": "alihdathiyat",
+      "label": "Alihdathiyat",
+      "type": "string"
+    },
+    {
+      "key": "aldaraja",
+      "label": "Aldaraja",
+      "type": "number"
+    },
+    {
+      "key": "alwafayat",
+      "label": "Alwafayat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "altarikh": "2018/01/02",
+      "almintaqa": "البليدة",
+      "alihdathiyat": "36.401 ° شمالا 2.535 درجة شرقا",
+      "aldaraja": 5,
+      "alwafayat": ""
+    },
+    {
+      "altarikh": "2016/05/28",
+      "almintaqa": "البويرة",
+      "alihdathiyat": "36.351 ° شمالًا، 3.517 درجة شرقًا",
+      "aldaraja": 5.4,
+      "alwafayat": ""
+    },
+    {
+      "altarikh": "2014/08/01",
+      "almintaqa": "الجزائر",
+      "alihdathiyat": "36.85 ° شمالًا 3.16 ° شرقًا",
+      "aldaraja": 5.6,
+      "alwafayat": "6"
+    },
+    {
+      "altarikh": "2010/05/14",
+      "almintaqa": "البويرة",
+      "alihdathiyat": "35.9 درجة شمالا 4.12 درجة شرقا",
+      "aldaraja": 5.3,
+      "alwafayat": "2"
+    },
+    {
+      "altarikh": "2008/06/06",
+      "almintaqa": "وهران",
+      "alihdathiyat": "35.88 ° شمالا 0.66 درجة شرقا",
+      "aldaraja": 5.5,
+      "alwafayat": "2"
+    },
+    {
+      "altarikh": "2008/01/09",
+      "almintaqa": "وهران",
+      "alihdathiyat": "35.62 ° شمالا 0.57 درجة شرقا",
+      "aldaraja": 4.6,
+      "alwafayat": "1"
+    },
+    {
+      "altarikh": "2006/03/20",
+      "almintaqa": "بجاية",
+      "alihdathiyat": "36.62 ° شمالا 5.33 درجة شرقا",
+      "aldaraja": 5.2,
+      "alwafayat": "4"
+    },
+    {
+      "altarikh": "2003/05/27",
+      "almintaqa": "بومرداس",
+      "alihdathiyat": "36.94 ° شمالا 3.58 درجة شرقا",
+      "aldaraja": 5.8,
+      "alwafayat": "9"
+    },
+    {
+      "altarikh": "2003/05/21",
+      "almintaqa": "بومرداس",
+      "alihdathiyat": "36.91 ° شمالًا 3.71 درجة شرقًا",
+      "aldaraja": 6.8,
+      "alwafayat": "2266"
+    },
+    {
+      "altarikh": "1999/12/22",
+      "almintaqa": "عين تموشنت",
+      "alihdathiyat": "35.2 درجة شمالا 1.35 درجة غربا",
+      "aldaraja": 5.6,
+      "alwafayat": "22-24"
+    },
+    {
+      "altarikh": "1994/08/18",
+      "almintaqa": "معسكر",
+      "alihdathiyat": "35.52 درجة شمالا 0.11 درجة شرقا",
+      "aldaraja": 5.9,
+      "alwafayat": "159"
+    },
+    {
+      "altarikh": "1989/10/29",
+      "almintaqa": "تيبازة (البحر)",
+      "alihdathiyat": "36.75 ° شمالا 2.44 درجة شرقا",
+      "aldaraja": 5.6,
+      "alwafayat": ""
+    },
+    {
+      "altarikh": "1989/10/29",
+      "almintaqa": "تيبازة",
+      "alihdathiyat": "36.77 ° شمالًا 2.39 درجة شرقًا",
+      "aldaraja": 5.9,
+      "alwafayat": "22-35"
+    },
+    {
+      "altarikh": "10 أكتوبر 1790",
+      "almintaqa": "وهران",
+      "alihdathiyat": "",
+      "aldaraja": 7.5,
+      "alwafayat": "3000"
+    },
+    {
+      "altarikh": "3 فبراير 1716",
+      "almintaqa": "الجزائر العاصمة",
+      "alihdathiyat": "",
+      "aldaraja": 7.8,
+      "alwafayat": "20,000"
+    }
+  ],
+  "meta": {
+    "title": "أبرز الزلازل في الجزائر - Free Download",
+    "description": "قائمة بأبرز الزلازل التي ضربت الجزائر منذ 1716 مع التاريخ والمنطقة والإحداثيات وقوة الزلزال وعدد الوفيات. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أبرز الزلازل في الجزائر | ListBase",
+    "seo_description": "Download أبرز الزلازل في الجزائر — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الزلازل_في_الجزائر"
+    ]
+  }
+}
