@@ -1,0 +1,274 @@
+{
+  "id": "ar-mahattat-tawlid-alkahraba-aljazair",
+  "name": "محطات توليد الكهرباء في الجزائر",
+  "title": "محطات توليد الكهرباء في الجزائر",
+  "description": "قائمة محطات إنتاج الكهرباء في الجزائر (غازية وكهرومائية وشمسية وهجينة) مع الولاية والسعة بالميغاواط.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_بمحطات_توليد_الطاقة_في_الجزائر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_بمحطات_توليد_الطاقة_في_الجزائر",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "ism_almahatta",
+      "label": "Ism Almahatta",
+      "type": "string"
+    },
+    {
+      "key": "alwilaya",
+      "label": "Alwilaya",
+      "type": "string"
+    },
+    {
+      "key": "alsia_megawatt",
+      "label": "Alsia Megawatt",
+      "type": "number"
+    },
+    {
+      "key": "alnaw",
+      "label": "Alnaw",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ism_almahatta": "محطة باب الزوار",
+      "alwilaya": "الجزائر",
+      "alsia_megawatt": 108,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة مرسى الحجاج",
+      "alwilaya": "وهران",
+      "alsia_megawatt": 200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة فكرينة",
+      "alwilaya": "أم البواقي",
+      "alsia_megawatt": 300,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة الحامة",
+      "alwilaya": "الجزائر",
+      "alsia_megawatt": 418,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة بوتليس",
+      "alwilaya": "وهران",
+      "alsia_megawatt": 445,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة البرواقية",
+      "alwilaya": "المدية",
+      "alsia_megawatt": 500,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة حاسي مسعود",
+      "alwilaya": "ورقلة",
+      "alsia_megawatt": 660,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة سكيكدة",
+      "alwilaya": "سكيكدة",
+      "alsia_megawatt": 880,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة كدية الدراويش",
+      "alwilaya": "الطارف",
+      "alsia_megawatt": 1200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة قيس",
+      "alwilaya": "خنشلة",
+      "alsia_megawatt": 1200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة مشرية",
+      "alwilaya": "النعامة",
+      "alsia_megawatt": 1200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة أوماش",
+      "alwilaya": "بسكرة",
+      "alsia_megawatt": "456+1400+1400",
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة راس جانات",
+      "alwilaya": "بومرداس",
+      "alsia_megawatt": 1200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة مستغانم",
+      "alwilaya": "مستغانم",
+      "alsia_megawatt": 1200,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة حجرة النص",
+      "alwilaya": "تيبازة",
+      "alsia_megawatt": 1260,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة عين وسارة",
+      "alwilaya": "الجلفة",
+      "alsia_megawatt": 1263,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة بلارة",
+      "alwilaya": "جيجل",
+      "alsia_megawatt": 1600,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "محطة عين ارنات",
+      "alwilaya": "سطيف",
+      "alsia_megawatt": 1015,
+      "alnaw": "غازية"
+    },
+    {
+      "ism_almahatta": "إيغيل امدا (3)",
+      "alwilaya": "بجاية",
+      "alsia_megawatt": 24,
+      "alnaw": "كهرومائية"
+    },
+    {
+      "ism_almahatta": "محطة الاغواط",
+      "alwilaya": "الاغواط",
+      "alsia_megawatt": 60,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة الجلفة",
+      "alwilaya": "الجلفة",
+      "alsia_megawatt": 53,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة ورقلة",
+      "alwilaya": "ورقلة",
+      "alsia_megawatt": 30,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة سعيدة",
+      "alwilaya": "سعيدة",
+      "alsia_megawatt": 30,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة البيض",
+      "alwilaya": "البيض",
+      "alsia_megawatt": 24,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة سيدي بلعباس",
+      "alwilaya": "سيدي بلعباس",
+      "alsia_megawatt": 20,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة النعامة",
+      "alwilaya": "النعامة",
+      "alsia_megawatt": 20,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة عين الملح",
+      "alwilaya": "المسيلة",
+      "alsia_megawatt": 20,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة سوق أهراس",
+      "alwilaya": "سوق أهراس",
+      "alsia_megawatt": 15,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة تندوف",
+      "alwilaya": "تندوف",
+      "alsia_megawatt": 13,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة تمنراست",
+      "alwilaya": "تمنراست",
+      "alsia_megawatt": 13,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة جانت-1",
+      "alwilaya": "جانت",
+      "alsia_megawatt": 3,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة باتنة",
+      "alwilaya": "باتنة",
+      "alsia_megawatt": 2,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة غرداية",
+      "alwilaya": "غرداية",
+      "alsia_megawatt": 1.1,
+      "alnaw": "شمسية"
+    },
+    {
+      "ism_almahatta": "محطة حاسي الرمل",
+      "alwilaya": "الأغواط",
+      "alsia_megawatt": 150,
+      "alnaw": "هجينة شمس-غاز"
+    },
+    {
+      "ism_almahatta": "محطة برح عمر ادريس",
+      "alwilaya": "جانت",
+      "alsia_megawatt": 6,
+      "alnaw": "هجينة شمس-فيول"
+    },
+    {
+      "ism_almahatta": "محطة برح باجي مختار",
+      "alwilaya": "برح باجي مختار",
+      "alsia_megawatt": 7,
+      "alnaw": "هجينة شمس-فيول"
+    },
+    {
+      "ism_almahatta": "محطة عين قزام",
+      "alwilaya": "عين قزام",
+      "alsia_megawatt": 3,
+      "alnaw": "هجينة شمس-فيول"
+    },
+    {
+      "ism_almahatta": "محطة جانت - 2",
+      "alwilaya": "جانت",
+      "alsia_megawatt": 3,
+      "alnaw": "هجينة شمس-فيول"
+    }
+  ],
+  "meta": {
+    "title": "محطات توليد الكهرباء في الجزائر - Free Download",
+    "description": "قائمة محطات إنتاج الكهرباء في الجزائر (غازية وكهرومائية وشمسية وهجينة) مع الولاية والسعة بالميغاواط. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "محطات توليد الكهرباء في الجزائر | ListBase",
+    "seo_description": "Download محطات توليد الكهرباء في الجزائر — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_بمحطات_توليد_الطاقة_في_الجزائر"
+    ]
+  }
+}

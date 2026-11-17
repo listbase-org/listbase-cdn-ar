@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-16T02:29:24.355Z",
-  "total_datasets": 541,
-  "total_records": 155146,
+  "generated": "2026-11-17T02:18:16.057Z",
+  "total_datasets": 542,
+  "total_records": 155184,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -13134,6 +13134,31 @@
         "xlsx": {
           "name": "ar-mahattat-tahliyat-almiyah-alsaudia_AR.xlsx",
           "size": 10526
+        }
+      }
+    },
+    {
+      "id": "ar-mahattat-tawlid-alkahraba-aljazair",
+      "name": "محطات توليد الكهرباء في الجزائر",
+      "category": "tech",
+      "record_count": 38,
+      "columns": [
+        "ism_almahatta",
+        "alwilaya",
+        "alsia_megawatt",
+        "alnaw"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_بمحطات_توليد_الطاقة_في_الجزائر",
+      "updated": "2026-11",
+      "size": 7953,
+      "files": {
+        "csv": {
+          "name": "ar-mahattat-tawlid-alkahraba-aljazair_AR.csv",
+          "size": 2458
+        },
+        "xlsx": {
+          "name": "ar-mahattat-tawlid-alkahraba-aljazair_AR.xlsx",
+          "size": 8125
         }
       }
     },
