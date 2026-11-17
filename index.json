@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-17T02:18:16.057Z",
-  "total_datasets": 542,
-  "total_records": 155184,
+  "generated": "2026-11-17T02:18:27.651Z",
+  "total_datasets": 543,
+  "total_records": 155291,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12559,6 +12559,30 @@
         "xlsx": {
           "name": "ar-ruwwad-alfada-alarab_AR.xlsx",
           "size": 7495
+        }
+      }
+    },
+    {
+      "id": "ar-thadiyat-almaghrib",
+      "name": "الثدييات في المغرب",
+      "category": "science",
+      "record_count": 107,
+      "columns": [
+        "alism_alarabi",
+        "alism_alilmi",
+        "alfasila"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_ثدييات_المغرب",
+      "updated": "2026-11",
+      "size": 19327,
+      "files": {
+        "csv": {
+          "name": "ar-thadiyat-almaghrib_AR.csv",
+          "size": 9376
+        },
+        "xlsx": {
+          "name": "ar-thadiyat-almaghrib_AR.xlsx",
+          "size": 10908
         }
       }
     },

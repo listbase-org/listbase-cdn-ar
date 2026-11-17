@@ -1,0 +1,576 @@
+{
+  "id": "ar-thadiyat-almaghrib",
+  "name": "الثدييات في المغرب",
+  "title": "الثدييات في المغرب",
+  "description": "قائمة أنواع الثدييات البرية والبحرية المسجلة في المغرب مع الاسم العربي والاسم العلمي والفصيلة .",
+  "category": "science",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_ثدييات_المغرب",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_ثدييات_المغرب",
+  "updated": "2026-11",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "alism_alarabi",
+      "label": "Alism Alarabi",
+      "type": "string"
+    },
+    {
+      "key": "alism_alilmi",
+      "label": "Alism Alilmi",
+      "type": "string"
+    },
+    {
+      "key": "alfasila",
+      "label": "Alfasila",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "alism_alarabi": "المكاك البربري",
+      "alism_alilmi": "Macaca sylvanus",
+      "alfasila": "فصيلة قردة العالم القديم"
+    },
+    {
+      "alism_alarabi": "زبابة الفيل شمال إفريقية",
+      "alism_alilmi": "Elephantulus rozeti",
+      "alfasila": "فصيلة زبابيات الفيل"
+    },
+    {
+      "alism_alarabi": "قنفذ شمال أفريقيا",
+      "alism_alilmi": "Atelerix algirus",
+      "alfasila": "فصيلة القنفذيات"
+    },
+    {
+      "alism_alarabi": "قنفذ حبشي",
+      "alism_alilmi": "Paraechinus aethiopicus",
+      "alfasila": "فصيلة القنفذيات"
+    },
+    {
+      "alism_alarabi": "زباب موريتاني",
+      "alism_alilmi": "Crocidura lusitania",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب أكبر ابيض الاسنان",
+      "alism_alilmi": "Crocidura russula",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب الصحراء",
+      "alism_alilmi": "tarfayensis Crocidura",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب أصغر أبيض الأسنان",
+      "alism_alilmi": "Crocidura suaveolens",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب السافانا",
+      "alism_alilmi": "Crocidura viaria",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب سافي القزم",
+      "alism_alilmi": "Suncus etruscus",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "زباب ويتاكر",
+      "alism_alilmi": "Crocidura whitakeri",
+      "alfasila": "عائلة الزبابيات"
+    },
+    {
+      "alism_alarabi": "خفاش لونج",
+      "alism_alilmi": "Myotis capaccinii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش جوفروا",
+      "alism_alilmi": "Myotis emarginatus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش مخفوق",
+      "alism_alilmi": "Myotis mystacinus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش ناتوري",
+      "alism_alilmi": "Myotis nattereri",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش فلتن",
+      "alism_alilmi": "Myotis punicus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش برباستيل",
+      "alism_alilmi": "Barbastella barbastellus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش سافي",
+      "alism_alilmi": "Hypsugo savii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش نوكتول الكبير",
+      "alism_alilmi": "Nyctalus lasiopterus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش نوكتول الصغير",
+      "alism_alilmi": "Nyctalus leisler",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش نوكتول عادي",
+      "alism_alilmi": "Nyctalus noctula",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش الصحراء طويل الاذنين",
+      "alism_alilmi": "Otonycteris hemprichii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش كوهل",
+      "alism_alilmi": "Pipistrellus kuhlii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش بيبيستريل عادي",
+      "alism_alilmi": "Pipistrellus pipistrellus",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش الرمال",
+      "alism_alilmi": "Pipistrellus rueppellii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش اذني الكناري الكبير",
+      "alism_alilmi": "Plecotus teneriffae",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش شرايبر",
+      "alism_alilmi": "Miniopterus schreibersii",
+      "alfasila": "فصيلة خفاشيات المساء"
+    },
+    {
+      "alism_alarabi": "خفاش ذيل الفار الصغير",
+      "alism_alilmi": "Rhinopoma hardwickei",
+      "alfasila": "فصيلة خفاشيات ذيل الفار"
+    },
+    {
+      "alism_alarabi": "خفاش ذيل الفار الكبير",
+      "alism_alilmi": "Rhinopoma microphyllum",
+      "alfasila": "فصيلة خفاشيات ذيل الفار"
+    },
+    {
+      "alism_alarabi": "خفاش حر الذيل مصري",
+      "alism_alilmi": "Tadarida aegyptiaca",
+      "alfasila": "فصيلة خفاشيات حرة الذيل"
+    },
+    {
+      "alism_alarabi": "خفاش حر الذيل أوروبي",
+      "alism_alilmi": "Tadarida teniotis",
+      "alfasila": "فصيلة خفاشيات حرة الذيل"
+    },
+    {
+      "alism_alarabi": "خفاش القبر العاري",
+      "alism_alilmi": "Taphozous nudiventris",
+      "alfasila": "فصيلة خفاشيات جناحي الكيس"
+    },
+    {
+      "alism_alarabi": "خفاش مشقوق الوجه المصري",
+      "alism_alilmi": "Nycteris thebaica",
+      "alfasila": "فصيلة خفاشيات مشقوقة الوجه"
+    },
+    {
+      "alism_alarabi": "خفاش حدوة الحصان بلازيوس",
+      "alism_alilmi": "Rhinolophus blasii",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش حدوة حصان البحر الابيض المتوسط",
+      "alism_alilmi": "Rhinolophus euryale",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش حدوة الحصان الكبير",
+      "alism_alilmi": "Rhinolophus ferrumequinum",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش حدوة الحصان الصغير",
+      "alism_alilmi": "hipposideros Rhinolophus",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش حدوة الحصان موهولي",
+      "alism_alilmi": "Rhinolophus mehelyi",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش ترايدنت",
+      "alism_alilmi": "Asellia tridens",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "خفاش مورق الانف سوندفال",
+      "alism_alilmi": "Hipposideros caffer",
+      "alfasila": "فصيلة خفاشيات حدوة الحصان"
+    },
+    {
+      "alism_alarabi": "ابن عرس صغير",
+      "alism_alilmi": "Mustela nivalis",
+      "alfasila": "عائلة العرسيات"
+    },
+    {
+      "alism_alarabi": "سفشة مخططة صحراوية",
+      "alism_alilmi": "Ictonyx libyca",
+      "alfasila": "عائلة العرسيات"
+    },
+    {
+      "alism_alarabi": "سفشة أوروبية",
+      "alism_alilmi": "Mustela putorius",
+      "alfasila": "عائلة العرسيات"
+    },
+    {
+      "alism_alarabi": "غرير العسل",
+      "alism_alilmi": "Mellivora capensis",
+      "alfasila": "عائلة العرسيات"
+    },
+    {
+      "alism_alarabi": "قضاعة أوراسية",
+      "alism_alilmi": "Lutra lutra",
+      "alfasila": "عائلة العرسيات"
+    },
+    {
+      "alism_alarabi": "الزريقاء",
+      "alism_alilmi": "Genetta genetta",
+      "alfasila": "عائلة الزباديات"
+    },
+    {
+      "alism_alarabi": "نمس مصري",
+      "alism_alilmi": "Herpestes ichneumon",
+      "alfasila": "عائلة السموريات"
+    },
+    {
+      "alism_alarabi": "ضبع مخطط",
+      "alism_alilmi": "Hyaena hyaena",
+      "alfasila": "عائلة الضبعيات"
+    },
+    {
+      "alism_alarabi": "فقمة الراهب المتوسط",
+      "alism_alilmi": "Monachus monachus",
+      "alfasila": "عائلة فقميات الراهب"
+    },
+    {
+      "alism_alarabi": "قط بري",
+      "alism_alilmi": "Felis Silvestris",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "أسد",
+      "alism_alilmi": "Panthera leo",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "قط صحراوي",
+      "alism_alilmi": "Felis margarita",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "أم ريشات",
+      "alism_alilmi": "Felis caracal",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "فهد",
+      "alism_alilmi": "Acinonyx jubatus",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "بج",
+      "alism_alilmi": "Leptailurus serval",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "نمر",
+      "alism_alilmi": "Panthera pardus",
+      "alfasila": "عائلة السنوريات (القططيات)"
+    },
+    {
+      "alism_alarabi": "حوت شمال الأطلسي الصائب",
+      "alism_alilmi": "glacialis Eubalaena",
+      "alfasila": "عائلة الحيتانيات القافزة"
+    },
+    {
+      "alism_alarabi": "خنزير البحر هاربور",
+      "alism_alilmi": "Phocoena phocoena",
+      "alfasila": "عائلة حيتان العنبر"
+    },
+    {
+      "alism_alarabi": "حوت العنبر القزم",
+      "alism_alilmi": "breviceps Kogia",
+      "alfasila": "عائلة الحيتان البيضاء"
+    },
+    {
+      "alism_alarabi": "حوت العنبر الصغير",
+      "alism_alilmi": "breviceps Kogia",
+      "alfasila": "عائلة الحيتان البيضاء"
+    },
+    {
+      "alism_alarabi": "دلفين عادي",
+      "alism_alilmi": "Delphinus delphis",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "حوت قاتل",
+      "alism_alilmi": "Orcinus orca",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "حوت قاتل قزم",
+      "alism_alilmi": "Feresa attenuata",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "دلفين اطلسي أرقط",
+      "alism_alilmi": "Stenella frontalis",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "دلفين فريزر",
+      "alism_alilmi": "Lagenodelphis hosei",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "دلفين مسنن الاسنان",
+      "alism_alilmi": "Steno bredanensis",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "حوت قائد طويل الزعنفة",
+      "alism_alilmi": "Globicephala melas",
+      "alfasila": "عائلة الدرافيل"
+    },
+    {
+      "alism_alarabi": "حوت كوفييه ذو المنقار",
+      "alism_alilmi": "Ziphius cavirostris",
+      "alfasila": "عائلة الحيتان ذوات المنقار"
+    },
+    {
+      "alism_alarabi": "حوت بلينفيل ذو المنقار",
+      "alism_alilmi": "Mesoplodon densirostris",
+      "alfasila": "عائلة الحيتان ذوات المنقار"
+    },
+    {
+      "alism_alarabi": "حوت ذو المنقار القوي",
+      "alism_alilmi": "Mesoplodon mirus",
+      "alfasila": "عائلة الحيتان ذوات المنقار"
+    },
+    {
+      "alism_alarabi": "خنزير بربري",
+      "alism_alilmi": "Sus scrofa",
+      "alfasila": "عائلة الخنزيريات"
+    },
+    {
+      "alism_alarabi": "مها أبو عدس",
+      "alism_alilmi": "Addax nasomaculatus",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "أيل بربري",
+      "alism_alilmi": "Cervus elaphus barbarus",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "مها أبو حراب",
+      "alism_alilmi": "Oryx dammah",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "غزال دوركاس",
+      "alism_alilmi": "Gazella dorcas",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "غزال ريم",
+      "alism_alilmi": "Gazella leptoceros",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "غزال كوفييه",
+      "alism_alilmi": "Gazella cuvieri",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "كبش بربري",
+      "alism_alilmi": "Ammotragus lervia",
+      "alfasila": "عائلة البقريات"
+    },
+    {
+      "alism_alarabi": "ارنب أوروبي",
+      "alism_alilmi": "Oryctolagus cuniculus",
+      "alfasila": "عائلة البيكاوات"
+    },
+    {
+      "alism_alarabi": "ارنب بني",
+      "alism_alilmi": "Lepus capensis",
+      "alfasila": "عائلة البيكاوات"
+    },
+    {
+      "alism_alarabi": "ارنب السافانا الأفريقي",
+      "alism_alilmi": "Lepus microtis",
+      "alfasila": "عائلة البيكاوات"
+    },
+    {
+      "alism_alarabi": "عضل غربي",
+      "alism_alilmi": "Gerbillus hesperinus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل هوكسترال",
+      "alism_alilmi": "Gerbillus campestris",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل اكسيدنتال",
+      "alism_alilmi": "Gerbillus occiduus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "بيوض (جرذ)",
+      "alism_alilmi": "Gerbillus gerbillus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل طرابول",
+      "alism_alilmi": "Gerbillus tarabuli",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل بلوشي",
+      "alism_alilmi": "Gerbillus nanus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "جربوع شمال أفريقيا",
+      "alism_alilmi": "Dipodillus hoogstraali",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل كبير قصير الذيل",
+      "alism_alilmi": "Dipodillus maghrebi",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "عضل صغير قصير الذيل",
+      "alism_alilmi": "Dipodillus simoni",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "جرذ شاوي",
+      "alism_alilmi": "Meriones shawi",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "جرذ غليظ",
+      "alism_alilmi": "Meriones crassus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "جرد ليبي",
+      "alism_alilmi": "Meriones libycus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "جربوع الذيل الدهني",
+      "alism_alilmi": "Pachyuromys duprasi",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "فار الرمل السمين",
+      "alism_alilmi": "Psammomys obesus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "فأر الخشب",
+      "alism_alilmi": "Apodemus sylvaticus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "فأر العشب المخطط البربري",
+      "alism_alilmi": "Lemniscomys barbarus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "فأر الاثداء الغيني",
+      "alism_alilmi": "Mastomys erythroleucus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "فأر البحر الابيض المتوسط الغربي",
+      "alism_alilmi": "Mus spretus",
+      "alfasila": "عائلة الفئران"
+    },
+    {
+      "alism_alarabi": "أبو نوارة",
+      "alism_alilmi": "Jaculus jaculus",
+      "alfasila": "عائلة الجربوعيات"
+    },
+    {
+      "alism_alarabi": "قريفتي",
+      "alism_alilmi": "Jaculus orientalis",
+      "alfasila": "عائلة الجربوعيات"
+    },
+    {
+      "alism_alarabi": "شيهم متوج",
+      "alism_alilmi": "Hystrix cristata",
+      "alfasila": "عائلة نيص العالم القديم"
+    },
+    {
+      "alism_alarabi": "سنجاب الارض البربري",
+      "alism_alilmi": "Atlantoxerus getulus",
+      "alfasila": "عائلة السناجب"
+    },
+    {
+      "alism_alarabi": "سنجاب الارض المخطط",
+      "alism_alilmi": "Xerus erythropus",
+      "alfasila": "عائلة السناجب"
+    },
+    {
+      "alism_alarabi": "زغبة الحدائق",
+      "alism_alilmi": "Eliomys melanurus",
+      "alfasila": "عائلة الزغبيات"
+    },
+    {
+      "alism_alarabi": "قند عادي",
+      "alism_alilmi": "Ctenodactylus gundi",
+      "alfasila": "عائلة القنديات"
+    },
+    {
+      "alism_alarabi": "قند فال",
+      "alism_alilmi": "Ctenodactylus vali",
+      "alfasila": "عائلة القنديات"
+    }
+  ],
+  "meta": {
+    "title": "الثدييات في المغرب - Free Download",
+    "description": "قائمة أنواع الثدييات البرية والبحرية المسجلة في المغرب مع الاسم العربي والاسم العلمي والفصيلة . Contains 107 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الثدييات في المغرب | ListBase",
+    "seo_description": "Download الثدييات في المغرب — 107 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 107 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_ثدييات_المغرب"
+    ]
+  }
+}
