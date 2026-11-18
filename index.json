@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-17T02:18:45.982Z",
-  "total_datasets": 544,
-  "total_records": 155306,
+  "generated": "2026-11-18T02:24:49.564Z",
+  "total_datasets": 545,
+  "total_records": 155571,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -10181,6 +10181,34 @@
         "xlsx": {
           "name": "ar-aghani-najat-alsaghira_AR.xlsx",
           "size": 21820
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-umm-kulthum",
+      "name": "أغاني أم كلثوم",
+      "category": "music",
+      "record_count": 265,
+      "columns": [
+        "sana",
+        "ughniya",
+        "kalimat",
+        "lahn",
+        "maqam",
+        "qalib",
+        "naw"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أعمال_أم_كلثوم",
+      "updated": "2026-11",
+      "size": 68534,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-umm-kulthum_AR.csv",
+          "size": 34306
+        },
+        "xlsx": {
+          "name": "ar-aghani-umm-kulthum_AR.xlsx",
+          "size": 19053
         }
       }
     },
