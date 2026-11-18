@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-18T02:24:49.564Z",
-  "total_datasets": 545,
-  "total_records": 155571,
+  "generated": "2026-11-18T02:25:01.284Z",
+  "total_datasets": 546,
+  "total_records": 155588,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -9580,6 +9580,34 @@
         "xlsx": {
           "name": "ar-alkhulafa-alumawiyyun_AR.xlsx",
           "size": 9946
+        }
+      }
+    },
+    {
+      "id": "ar-hukkam-alkuwait",
+      "name": "حكام وأمراء الكويت",
+      "category": "history",
+      "record_count": 17,
+      "columns": [
+        "raqm",
+        "alhakim",
+        "sanat_almilad",
+        "sanat_alwafat",
+        "almansib",
+        "bidayat_alhukm",
+        "nihayat_alhukm"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_حكام_الكويت",
+      "updated": "2026-11",
+      "size": 7161,
+      "files": {
+        "csv": {
+          "name": "ar-hukkam-alkuwait_AR.csv",
+          "size": 2511
+        },
+        "xlsx": {
+          "name": "ar-hukkam-alkuwait_AR.xlsx",
+          "size": 7784
         }
       }
     },

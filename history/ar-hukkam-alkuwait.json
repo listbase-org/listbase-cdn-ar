@@ -1,0 +1,214 @@
+{
+  "id": "ar-hukkam-alkuwait",
+  "name": "حكام وأمراء الكويت",
+  "title": "حكام وأمراء الكويت",
+  "description": "قائمة حكام الكويت من آل الصباح منذ عام 1752 وأمراء دولة الكويت حتى اليوم، مع سنوات الميلاد والوفاة ومسمى المنصب وفترة الحكم.",
+  "category": "history",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_حكام_الكويت",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_حكام_الكويت",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "raqm",
+      "label": "Raqm",
+      "type": "number"
+    },
+    {
+      "key": "alhakim",
+      "label": "Alhakim",
+      "type": "string"
+    },
+    {
+      "key": "sanat_almilad",
+      "label": "Sanat Almilad",
+      "type": "number"
+    },
+    {
+      "key": "sanat_alwafat",
+      "label": "Sanat Alwafat",
+      "type": "number"
+    },
+    {
+      "key": "almansib",
+      "label": "Almansib",
+      "type": "string"
+    },
+    {
+      "key": "bidayat_alhukm",
+      "label": "Bidayat Alhukm",
+      "type": "number"
+    },
+    {
+      "key": "nihayat_alhukm",
+      "label": "Nihayat Alhukm",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "raqm": 1,
+      "alhakim": "الشيخ صباح بن جابر (صباح الأول)",
+      "sanat_almilad": 1700,
+      "sanat_alwafat": 1762,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "1752",
+      "nihayat_alhukm": "1762"
+    },
+    {
+      "raqm": 2,
+      "alhakim": "الشيخ عبد الله بن صباح الصباح",
+      "sanat_almilad": 1740,
+      "sanat_alwafat": 1814,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "1762",
+      "nihayat_alhukm": "1814"
+    },
+    {
+      "raqm": 3,
+      "alhakim": "الشيخ جابر بن عبد الله الصباح",
+      "sanat_almilad": 1770,
+      "sanat_alwafat": 1859,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "1813",
+      "nihayat_alhukm": "1859"
+    },
+    {
+      "raqm": 4,
+      "alhakim": "الشيخ صباح بن جابر الصباح",
+      "sanat_almilad": 1784,
+      "sanat_alwafat": 1866,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "1859",
+      "nihayat_alhukm": "نوفمبر 1866"
+    },
+    {
+      "raqm": 5,
+      "alhakim": "الشيخ عبد الله بن صباح الصباح",
+      "sanat_almilad": 1814,
+      "sanat_alwafat": 1892,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "نوفمبر 1866",
+      "nihayat_alhukm": "29 مايو 1892"
+    },
+    {
+      "raqm": 6,
+      "alhakim": "الشيخ محمد بن صباح الصباح",
+      "sanat_almilad": 1838,
+      "sanat_alwafat": 1896,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "29 مايو 1892",
+      "nihayat_alhukm": "17 مايو 1896"
+    },
+    {
+      "raqm": 7,
+      "alhakim": "الشيخ مبارك بن صباح الصباح (مبارك الكبير)",
+      "sanat_almilad": 1837,
+      "sanat_alwafat": 1915,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "17 مايو 1896",
+      "nihayat_alhukm": "28 نوفمبر 1915"
+    },
+    {
+      "raqm": 8,
+      "alhakim": "الشيخ جابر المبارك الصباح",
+      "sanat_almilad": 1860,
+      "sanat_alwafat": 1917,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "28 نوفمبر 1915",
+      "nihayat_alhukm": "5 فبراير 1917"
+    },
+    {
+      "raqm": 9,
+      "alhakim": "الشيخ سالم المبارك الصباح",
+      "sanat_almilad": 1864,
+      "sanat_alwafat": 1921,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "5 فبراير 1917",
+      "nihayat_alhukm": "22 فبراير 1921"
+    },
+    {
+      "raqm": 10,
+      "alhakim": "الشيخ أحمد الجابر المبارك الصباح",
+      "sanat_almilad": 1885,
+      "sanat_alwafat": 1950,
+      "almansib": "حاكم الكويت",
+      "bidayat_alhukm": "23 مارس 1921",
+      "nihayat_alhukm": "29 يناير 1950"
+    },
+    {
+      "raqm": 11,
+      "alhakim": "الشيخ عبد الله السالم المبارك الصباح",
+      "sanat_almilad": 1895,
+      "sanat_alwafat": 1965,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "25 فبراير 1950",
+      "nihayat_alhukm": "24 نوفمبر 1965"
+    },
+    {
+      "raqm": 12,
+      "alhakim": "الشيخ صباح السالم المبارك الصباح",
+      "sanat_almilad": 1913,
+      "sanat_alwafat": 1977,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "24 نوفمبر 1965",
+      "nihayat_alhukm": "31 ديسمبر 1977"
+    },
+    {
+      "raqm": 13,
+      "alhakim": "الشيخ جابر الأحمد الجابر الصباح",
+      "sanat_almilad": 1926,
+      "sanat_alwafat": 2006,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "31 ديسمبر 1977",
+      "nihayat_alhukm": "15 يناير 2006"
+    },
+    {
+      "raqm": 14,
+      "alhakim": "الشيخ سعد العبد الله السالم الصباح",
+      "sanat_almilad": 1930,
+      "sanat_alwafat": 2008,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "15 يناير 2006",
+      "nihayat_alhukm": "24 يناير 2006"
+    },
+    {
+      "raqm": 15,
+      "alhakim": "الشيخ صباح الأحمد الجابر الصباح",
+      "sanat_almilad": 1929,
+      "sanat_alwafat": 2020,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "29 يناير 2006",
+      "nihayat_alhukm": "29 سبتمبر 2020"
+    },
+    {
+      "raqm": 16,
+      "alhakim": "الشيخ نواف الأحمد الجابر الصباح",
+      "sanat_almilad": 1937,
+      "sanat_alwafat": 2023,
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "29 سبتمبر 2020",
+      "nihayat_alhukm": "16 ديسمبر 2023"
+    },
+    {
+      "raqm": 17,
+      "alhakim": "الشيخ مشعل الأحمد الجابر الصباح",
+      "sanat_almilad": 1940,
+      "sanat_alwafat": "",
+      "almansib": "أمير دولة الكويت",
+      "bidayat_alhukm": "16 ديسمبر 2023",
+      "nihayat_alhukm": "حتى الآن"
+    }
+  ],
+  "meta": {
+    "title": "حكام وأمراء الكويت - Free Download",
+    "description": "قائمة حكام الكويت من آل الصباح منذ عام 1752 وأمراء دولة الكويت حتى اليوم، مع سنوات الميلاد والوفاة ومسمى المنصب وفترة الحكم. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "حكام وأمراء الكويت | ListBase",
+    "seo_description": "Download حكام وأمراء الكويت — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_حكام_الكويت"
+    ]
+  }
+}
