@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-18T02:25:01.284Z",
-  "total_datasets": 546,
-  "total_records": 155588,
+  "generated": "2026-11-18T02:25:15.064Z",
+  "total_datasets": 547,
+  "total_records": 155721,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -10446,6 +10446,33 @@
         "xlsx": {
           "name": "ar-ruasa-wuzara-alurdun_AR.xlsx",
           "size": 13070
+        }
+      }
+    },
+    {
+      "id": "ar-ruasa-wuzara-misr",
+      "name": "رؤساء وزراء مصر والوزارات المتعاقبة",
+      "category": "politics",
+      "record_count": 133,
+      "columns": [
+        "raqm",
+        "alwizara",
+        "rais_alwizara",
+        "fi_ahd",
+        "min",
+        "hatta"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_رؤساء_وزراء_مصر",
+      "updated": "2026-11",
+      "size": 43506,
+      "files": {
+        "csv": {
+          "name": "ar-ruasa-wuzara-misr_AR.csv",
+          "size": 26026
+        },
+        "xlsx": {
+          "name": "ar-ruasa-wuzara-misr_AR.xlsx",
+          "size": 13250
         }
       }
     },
