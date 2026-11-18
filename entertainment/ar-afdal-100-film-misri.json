@@ -1,0 +1,751 @@
+{
+  "id": "ar-afdal-100-film-misri",
+  "name": "أفضل 100 فيلم في مئوية السينما المصرية",
+  "title": "أفضل 100 فيلم في مئوية السينما المصرية",
+  "description": "قائمة أفضل مئة فيلم مصري التي اختارها نقاد مهرجان القاهرة السينمائي عام 1996 بمناسبة مئوية السينما المصرية، مع الترتيب وسنة الإنتاج والمخرج وكاتب القصة.",
+  "category": "entertainment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_أفضل_مئة_فلم_في_مئوية_السينما_المصرية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_أفضل_مئة_فلم_في_مئوية_السينما_المصرية",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "altartib",
+      "label": "Altartib",
+      "type": "number"
+    },
+    {
+      "key": "alfilm",
+      "label": "Alfilm",
+      "type": "string"
+    },
+    {
+      "key": "alsana",
+      "label": "Alsana",
+      "type": "number"
+    },
+    {
+      "key": "ikhraj",
+      "label": "Ikhraj",
+      "type": "string"
+    },
+    {
+      "key": "qissa",
+      "label": "Qissa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "altartib": 1,
+      "alfilm": "العزيمة",
+      "alsana": 1939,
+      "ikhraj": "كمال سليم",
+      "qissa": "كمال سليم"
+    },
+    {
+      "altartib": 2,
+      "alfilm": "الأرض",
+      "alsana": 1970,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "عبد الرحمن الشرقاوي"
+    },
+    {
+      "altartib": 3,
+      "alfilm": "المومياء",
+      "alsana": 1969,
+      "ikhraj": "شادي عبد السلام",
+      "qissa": "شادي عبد السلام"
+    },
+    {
+      "altartib": 4,
+      "alfilm": "باب الحديد",
+      "alsana": 1958,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "عبد الحي أديب"
+    },
+    {
+      "altartib": 5,
+      "alfilm": "الحرام",
+      "alsana": 1965,
+      "ikhraj": "هنري بركات",
+      "qissa": "يوسف إدريس"
+    },
+    {
+      "altartib": 6,
+      "alfilm": "شباب امرأة",
+      "alsana": 1956,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "أمين يوسف غراب"
+    },
+    {
+      "altartib": 7,
+      "alfilm": "بداية ونهاية",
+      "alsana": 1960,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 8,
+      "alfilm": "سواق الأتوبيس",
+      "alsana": 1982,
+      "ikhraj": "عاطف الطيب",
+      "qissa": "محمد خان - بشير الديك"
+    },
+    {
+      "altartib": 9,
+      "alfilm": "غزل البنات",
+      "alsana": 1949,
+      "ikhraj": "أنور وجدي",
+      "qissa": "أنور وجدي"
+    },
+    {
+      "altartib": 10,
+      "alfilm": "الفتوة",
+      "alsana": 1957,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "فريد شوقي ، محمود صبحي"
+    },
+    {
+      "altartib": 11,
+      "alfilm": "الناصر صلاح الدين",
+      "alsana": 1963,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "يوسف السباعي"
+    },
+    {
+      "altartib": 12,
+      "alfilm": "البوسطجي",
+      "alsana": 1968,
+      "ikhraj": "حسين كمال",
+      "qissa": "يحيى حقي"
+    },
+    {
+      "altartib": 13,
+      "alfilm": "رد قلبي",
+      "alsana": 1957,
+      "ikhraj": "عز الدين ذو الفقار",
+      "qissa": "يوسف السباعي"
+    },
+    {
+      "altartib": 14,
+      "alfilm": "دعاء الكروان",
+      "alsana": 1958,
+      "ikhraj": "هنري بركات",
+      "qissa": "طه حسين"
+    },
+    {
+      "altartib": 15,
+      "alfilm": "اللص والكلاب",
+      "alsana": 1962,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 16,
+      "alfilm": "الزوجة الثانية",
+      "alsana": 1967,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "أحمد رشدي صالح"
+    },
+    {
+      "altartib": 17,
+      "alfilm": "أم العروسة",
+      "alsana": 1963,
+      "ikhraj": "عاطف سالم",
+      "qissa": "عبد الحميد جودة السحار"
+    },
+    {
+      "altartib": 18,
+      "alfilm": "القاهرة 30",
+      "alsana": 1966,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 19,
+      "alfilm": "شيء من الخوف",
+      "alsana": 1969,
+      "ikhraj": "حسين كمال",
+      "qissa": "ثروت أباظة"
+    },
+    {
+      "altartib": 20,
+      "alfilm": "الطوق والإسورة",
+      "alsana": 1986,
+      "ikhraj": "خيري بشارة",
+      "qissa": "يحيى الطاهر عبد الله"
+    },
+    {
+      "altartib": 21,
+      "alfilm": "أريد حلا",
+      "alsana": 1975,
+      "ikhraj": "سعيد مرزوق",
+      "qissa": "حسن شاه"
+    },
+    {
+      "altartib": 22,
+      "alfilm": "لاشين",
+      "alsana": 1938,
+      "ikhraj": "فريتز كرامب",
+      "qissa": "فون ماين"
+    },
+    {
+      "altartib": 23,
+      "alfilm": "في بيتنا رجل",
+      "alsana": 1961,
+      "ikhraj": "هنري بركات",
+      "qissa": "إحسان عبد القدوس - يوسف عيسى"
+    },
+    {
+      "altartib": 24,
+      "alfilm": "الكيت كات",
+      "alsana": 1991,
+      "ikhraj": "داود عبد السيد",
+      "qissa": "إبراهيم أصلان"
+    },
+    {
+      "altartib": 25,
+      "alfilm": "صراع في الوادي",
+      "alsana": 1954,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "حلمي حليم"
+    },
+    {
+      "altartib": 26,
+      "alfilm": "جعلوني مجرما",
+      "alsana": 1954,
+      "ikhraj": "عاطف سالم",
+      "qissa": "رمسيس نجيب - فريد شوقي"
+    },
+    {
+      "altartib": 27,
+      "alfilm": "ريا وسكينة",
+      "alsana": 1953,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 28,
+      "alfilm": "البريء",
+      "alsana": 1986,
+      "ikhraj": "عاطف الطيب",
+      "qissa": "وحيد حامد"
+    },
+    {
+      "altartib": 29,
+      "alfilm": "ميرامار",
+      "alsana": 1969,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 30,
+      "alfilm": "زوجة رجل مهم",
+      "alsana": 1987,
+      "ikhraj": "محمد خان",
+      "qissa": "رؤوف توفيق"
+    },
+    {
+      "altartib": 31,
+      "alfilm": "السقا مات",
+      "alsana": 1979,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "يوسف السباعي"
+    },
+    {
+      "altartib": 32,
+      "alfilm": "إسكندرية ليه",
+      "alsana": 1978,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "محسن زايد"
+    },
+    {
+      "altartib": 33,
+      "alfilm": "زوجتي والكلب",
+      "alsana": 1971,
+      "ikhraj": "سعيد مرزوق",
+      "qissa": "سعيد مرزوق"
+    },
+    {
+      "altartib": 34,
+      "alfilm": "السوق السوداء",
+      "alsana": 1945,
+      "ikhraj": "كامل التلمساني",
+      "qissa": "كامل التلمساني"
+    },
+    {
+      "altartib": 35,
+      "alfilm": "مراتي مدير عام",
+      "alsana": 1966,
+      "ikhraj": "فطين عبد الوهاب",
+      "qissa": "عبد الحميد جودة السحار"
+    },
+    {
+      "altartib": 36,
+      "alfilm": "أحلام هند وكاميليا",
+      "alsana": 1988,
+      "ikhraj": "محمد خان",
+      "qissa": "محمد خان"
+    },
+    {
+      "altartib": 37,
+      "alfilm": "أهل القمة",
+      "alsana": 1981,
+      "ikhraj": "علي بدرخان",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 38,
+      "alfilm": "حياة أو موت",
+      "alsana": 1954,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "كمال الشيخ"
+    },
+    {
+      "altartib": 39,
+      "alfilm": "الكرنك",
+      "alsana": 1975,
+      "ikhraj": "علي بدرخان",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 40,
+      "alfilm": "زائر الفجر",
+      "alsana": 1973,
+      "ikhraj": "ممدوح شكري",
+      "qissa": "رفيق الصبان - ممدوح شكري"
+    },
+    {
+      "altartib": 41,
+      "alfilm": "النائب العام",
+      "alsana": 1946,
+      "ikhraj": "أحمد كامل مرسي",
+      "qissa": "أحمد شكري"
+    },
+    {
+      "altartib": 42,
+      "alfilm": "درب المهابيل",
+      "alsana": 1955,
+      "ikhraj": "توفيق صالح",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 43,
+      "alfilm": "ليل وقضبان",
+      "alsana": 1973,
+      "ikhraj": "أشرف فهمي",
+      "qissa": "نجيب الكيلاني"
+    },
+    {
+      "altartib": 44,
+      "alfilm": "إحنا التلامذة",
+      "alsana": 1959,
+      "ikhraj": "عاطف سالم",
+      "qissa": "كامل يوسف - توفيق صالح"
+    },
+    {
+      "altartib": 45,
+      "alfilm": "العصفور",
+      "alsana": 1972,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "لطفي الخولي"
+    },
+    {
+      "altartib": 46,
+      "alfilm": "على من نطلق الرصاص",
+      "alsana": 1975,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "رأفت الميهي"
+    },
+    {
+      "altartib": 47,
+      "alfilm": "لك يوم يا ظالم",
+      "alsana": 1951,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "السيد بدير"
+    },
+    {
+      "altartib": 48,
+      "alfilm": "ثرثرة فوق النيل",
+      "alsana": 1971,
+      "ikhraj": "حسين كمال",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 49,
+      "alfilm": "صراع الأبطال",
+      "alsana": 1962,
+      "ikhraj": "توفيق صالح",
+      "qissa": "عز الدين ذو الفقار - عبد الحي أديب - محمد أبو يوسف"
+    },
+    {
+      "altartib": 50,
+      "alfilm": "أين عمري",
+      "alsana": 1957,
+      "ikhraj": "أحمد ضياء الدين",
+      "qissa": "إحسان عبد القدوس"
+    },
+    {
+      "altartib": 51,
+      "alfilm": "عودة الابن الضال",
+      "alsana": 1976,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "صلاح جاهين - يوسف شاهين"
+    },
+    {
+      "altartib": 52,
+      "alfilm": "المهاجر",
+      "alsana": 1994,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "يوسف شاهين"
+    },
+    {
+      "altartib": 53,
+      "alfilm": "الاختيار",
+      "alsana": 1970,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 54,
+      "alfilm": "جميلة",
+      "alsana": 1958,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "يوسف السباعي"
+    },
+    {
+      "altartib": 55,
+      "alfilm": "ليه يا بنفسج",
+      "alsana": 1993,
+      "ikhraj": "رضوان الكاشف",
+      "qissa": "رضوان الكاشف - سامي السيوي"
+    },
+    {
+      "altartib": 56,
+      "alfilm": "العار",
+      "alsana": 1982,
+      "ikhraj": "علي عبد الخالق",
+      "qissa": "محمود أبو زيد"
+    },
+    {
+      "altartib": 57,
+      "alfilm": "خرج ولم يعد",
+      "alsana": 1984,
+      "ikhraj": "محمد خان",
+      "qissa": "عاصم توفيق"
+    },
+    {
+      "altartib": 58,
+      "alfilm": "بين السما والأرض",
+      "alsana": 1959,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 59,
+      "alfilm": "غروب وشروق",
+      "alsana": 1970,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "جمال حماد"
+    },
+    {
+      "altartib": 60,
+      "alfilm": "للحب قصة أخيرة",
+      "alsana": 1986,
+      "ikhraj": "رأفت الميهي",
+      "qissa": "رأفت الميهي"
+    },
+    {
+      "altartib": 61,
+      "alfilm": "أمير الانتقام",
+      "alsana": 1950,
+      "ikhraj": "هنري بركات",
+      "qissa": "ألكسندر دوما"
+    },
+    {
+      "altartib": 62,
+      "alfilm": "المستحيل",
+      "alsana": 1965,
+      "ikhraj": "حسين كمال",
+      "qissa": "مصطفى محمود"
+    },
+    {
+      "altartib": 63,
+      "alfilm": "قنديل أم هاشم",
+      "alsana": 1968,
+      "ikhraj": "كمال عطية",
+      "qissa": "يحيى حقي"
+    },
+    {
+      "altartib": 64,
+      "alfilm": "المذنبون",
+      "alsana": 1975,
+      "ikhraj": "سعيد مرزوق",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 65,
+      "alfilm": "رصاصة في القلب",
+      "alsana": 1944,
+      "ikhraj": "محمد كريم",
+      "qissa": "توفيق الحكيم"
+    },
+    {
+      "altartib": 66,
+      "alfilm": "أغنية على الممر",
+      "alsana": 1972,
+      "ikhraj": "علي عبد الخالق",
+      "qissa": "علي سالم"
+    },
+    {
+      "altartib": 67,
+      "alfilm": "المراهقات",
+      "alsana": 1960,
+      "ikhraj": "أحمد ضياء الدين",
+      "qissa": "علي الزرقاني"
+    },
+    {
+      "altartib": 68,
+      "alfilm": "الحب فوق هضبة الهرم",
+      "alsana": 1986,
+      "ikhraj": "عاطف الطيب",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 69,
+      "alfilm": "يوميات نائب في الأرياف",
+      "alsana": 1969,
+      "ikhraj": "توفيق صالح",
+      "qissa": "توفيق الحكيم"
+    },
+    {
+      "altartib": 70,
+      "alfilm": "الوحش",
+      "alsana": 1954,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 71,
+      "alfilm": "سوبر ماركت",
+      "alsana": 1990,
+      "ikhraj": "محمد خان",
+      "qissa": "محمد خان"
+    },
+    {
+      "altartib": 72,
+      "alfilm": "امرأة في الطريق",
+      "alsana": 1958,
+      "ikhraj": "عز الدين ذو الفقار",
+      "qissa": "عبد الحي أديب"
+    },
+    {
+      "altartib": 73,
+      "alfilm": "بين الأطلال",
+      "alsana": 1959,
+      "ikhraj": "عز الدين ذو الفقار",
+      "qissa": "يوسف السباعى"
+    },
+    {
+      "altartib": 74,
+      "alfilm": "أبناء الصمت",
+      "alsana": 1974,
+      "ikhraj": "محمد راضي",
+      "qissa": "مجيد طوبيا"
+    },
+    {
+      "altartib": 75,
+      "alfilm": "الصعود إلى الهاوية",
+      "alsana": 1978,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "صالح مرسي"
+    },
+    {
+      "altartib": 76,
+      "alfilm": "سلامة في خير",
+      "alsana": 1937,
+      "ikhraj": "نيازي مصطفى",
+      "qissa": "استوديو مصر"
+    },
+    {
+      "altartib": 77,
+      "alfilm": "الأيدي الناعمة",
+      "alsana": 1964,
+      "ikhraj": "محمود ذو الفقار",
+      "qissa": "توفيق الحكيم"
+    },
+    {
+      "altartib": 78,
+      "alfilm": "المتمردون",
+      "alsana": 1968,
+      "ikhraj": "توفيق صالح",
+      "qissa": "صلاح حافظ"
+    },
+    {
+      "altartib": 79,
+      "alfilm": "خلي بالك من زوزو",
+      "alsana": 1972,
+      "ikhraj": "حسن الإمام",
+      "qissa": "حسن الإمام"
+    },
+    {
+      "altartib": 80,
+      "alfilm": "الأفوكاتو",
+      "alsana": 1984,
+      "ikhraj": "رأفت الميهي",
+      "qissa": "رأفت الميهي"
+    },
+    {
+      "altartib": 81,
+      "alfilm": "سي عمر",
+      "alsana": 1941,
+      "ikhraj": "نيازي مصطفى",
+      "qissa": "بديع خيري"
+    },
+    {
+      "altartib": 82,
+      "alfilm": "ابن النيل",
+      "alsana": 1951,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "يوسف شاهين - فتوح نشاطي"
+    },
+    {
+      "altartib": 83,
+      "alfilm": "أيامنا الحلوة",
+      "alsana": 1955,
+      "ikhraj": "حلمي حليم",
+      "qissa": "حلمي حليم"
+    },
+    {
+      "altartib": 84,
+      "alfilm": "حدوتة مصرية",
+      "alsana": 1982,
+      "ikhraj": "يوسف شاهين",
+      "qissa": "يوسف ادريس - يوسف شاهين"
+    },
+    {
+      "altartib": 85,
+      "alfilm": "زينب",
+      "alsana": 1952,
+      "ikhraj": "محمد كريم",
+      "qissa": "محمد حسين هيكل"
+    },
+    {
+      "altartib": 86,
+      "alfilm": "صراع في النيل",
+      "alsana": 1959,
+      "ikhraj": "عاطف سالم",
+      "qissa": "علي الزرقاني"
+    },
+    {
+      "altartib": 87,
+      "alfilm": "وا إسلاماه",
+      "alsana": 1962,
+      "ikhraj": "أندرو مارتون",
+      "qissa": "علي أحمد باكثير"
+    },
+    {
+      "altartib": 88,
+      "alfilm": "أبي فوق الشجرة",
+      "alsana": 1969,
+      "ikhraj": "حسين كمال",
+      "qissa": "إحسان عبد القدوس"
+    },
+    {
+      "altartib": 89,
+      "alfilm": "إمبراطورية ميم",
+      "alsana": 1972,
+      "ikhraj": "حسين كمال",
+      "qissa": "إحسان عبد القدوس"
+    },
+    {
+      "altartib": 90,
+      "alfilm": "اللعب مع الكبار",
+      "alsana": 1991,
+      "ikhraj": "شريف عرفة",
+      "qissa": "وحيد حامد"
+    },
+    {
+      "altartib": 91,
+      "alfilm": "غرام وانتقام",
+      "alsana": 1944,
+      "ikhraj": "يوسف وهبي",
+      "qissa": "يوسف وهبي"
+    },
+    {
+      "altartib": 92,
+      "alfilm": "المنزل رقم 13",
+      "alsana": 1952,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "كمال الشيخ"
+    },
+    {
+      "altartib": 93,
+      "alfilm": "الخطايا",
+      "alsana": 1962,
+      "ikhraj": "حسن الإمام",
+      "qissa": "محمد مصطفى سامي"
+    },
+    {
+      "altartib": 94,
+      "alfilm": "الجبل",
+      "alsana": 1965,
+      "ikhraj": "خليل شوقي",
+      "qissa": "فتحي غانم"
+    },
+    {
+      "altartib": 95,
+      "alfilm": "السمان والخريف",
+      "alsana": 1967,
+      "ikhraj": "حسام الدين مصطفى",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 96,
+      "alfilm": "بين القصرين",
+      "alsana": 1964,
+      "ikhraj": "حسن الإمام",
+      "qissa": "نجيب محفوظ"
+    },
+    {
+      "altartib": 97,
+      "alfilm": "أنا حرة",
+      "alsana": 1959,
+      "ikhraj": "صلاح أبو سيف",
+      "qissa": "إحسان عبد القدوس"
+    },
+    {
+      "altartib": 98,
+      "alfilm": "الرجل الذي فقد ظله",
+      "alsana": 1968,
+      "ikhraj": "كمال الشيخ",
+      "qissa": "فتحي غانم"
+    },
+    {
+      "altartib": 99,
+      "alfilm": "دنانير",
+      "alsana": 1940,
+      "ikhraj": "أحمد بدرخان",
+      "qissa": "أحمد رامي"
+    },
+    {
+      "altartib": 100,
+      "alfilm": "الزوجة ١٣",
+      "alsana": 1962,
+      "ikhraj": "فطين عبد الوهاب",
+      "qissa": "علي الزرقاني"
+    }
+  ],
+  "meta": {
+    "title": "أفضل 100 فيلم في مئوية السينما المصرية - Free Download",
+    "description": "قائمة أفضل مئة فيلم مصري التي اختارها نقاد مهرجان القاهرة السينمائي عام 1996 بمناسبة مئوية السينما المصرية، مع الترتيب وسنة الإنتاج والمخرج وكاتب القصة. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "أفضل 100 فيلم في مئوية السينما المصرية | ListBase",
+    "seo_description": "Download أفضل 100 فيلم في مئوية السينما المصرية — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_أفضل_مئة_فلم_في_مئوية_السينما_المصرية"
+    ]
+  }
+}

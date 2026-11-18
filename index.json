@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-18T02:25:15.064Z",
-  "total_datasets": 547,
-  "total_records": 155721,
+  "generated": "2026-11-18T02:25:44.197Z",
+  "total_datasets": 548,
+  "total_records": 155821,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -910,6 +910,32 @@
         "xlsx": {
           "name": "ar-wuzara-altarbiya-waltaalim-misr_AR.xlsx",
           "size": 14475
+        }
+      }
+    },
+    {
+      "id": "ar-afdal-100-film-misri",
+      "name": "أفضل 100 فيلم في مئوية السينما المصرية",
+      "category": "entertainment",
+      "record_count": 100,
+      "columns": [
+        "altartib",
+        "alfilm",
+        "alsana",
+        "ikhraj",
+        "qissa"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أفضل_مئة_فلم_في_مئوية_السينما_المصرية",
+      "updated": "2026-11",
+      "size": 20300,
+      "files": {
+        "csv": {
+          "name": "ar-afdal-100-film-misri_AR.csv",
+          "size": 8655
+        },
+        "xlsx": {
+          "name": "ar-afdal-100-film-misri_AR.xlsx",
+          "size": 11413
         }
       }
     },
