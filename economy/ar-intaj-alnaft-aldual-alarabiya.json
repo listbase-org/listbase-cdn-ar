@@ -1,0 +1,149 @@
+{
+  "id": "ar-intaj-alnaft-aldual-alarabiya",
+  "name": "إنتاج النفط في الدول العربية (ديسمبر 2023)",
+  "title": "إنتاج النفط في الدول العربية (ديسمبر 2023)",
+  "description": "إنتاج النفط الخام في الدول العربية بالبرميل يوميًا حسب بيانات ديسمبر 2023، مع الترتيب العالمي وعضوية أوبك.",
+  "category": "economy",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_إنتاج_النفط",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_إنتاج_النفط",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "altartib_alalami",
+      "label": "Altartib Alalami",
+      "type": "number"
+    },
+    {
+      "key": "aldawla",
+      "label": "Aldawla",
+      "type": "string"
+    },
+    {
+      "key": "odw_opec",
+      "label": "Odw Opec",
+      "type": "string"
+    },
+    {
+      "key": "alqara",
+      "label": "Alqara",
+      "type": "string"
+    },
+    {
+      "key": "intaj_alnaft_barmil_yawm_disambar_2023",
+      "label": "Intaj Alnaft Barmil Yawm Disambar 2023",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "altartib_alalami": 3,
+      "aldawla": "السعودية",
+      "odw_opec": "نعم",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 8950000
+    },
+    {
+      "altartib_alalami": 5,
+      "aldawla": "العراق",
+      "odw_opec": "نعم",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 4375000
+    },
+    {
+      "altartib_alalami": 9,
+      "aldawla": "الإمارات العربية المتحدة",
+      "odw_opec": "نعم",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 3300000
+    },
+    {
+      "altartib_alalami": 10,
+      "aldawla": "الكويت",
+      "odw_opec": "نعم",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 2644000
+    },
+    {
+      "altartib_alalami": 15,
+      "aldawla": "قطر",
+      "odw_opec": "لا",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 1322000
+    },
+    {
+      "altartib_alalami": 16,
+      "aldawla": "ليبيا",
+      "odw_opec": "نعم",
+      "alqara": "إفريقيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 1248000
+    },
+    {
+      "altartib_alalami": 18,
+      "aldawla": "الجزائر",
+      "odw_opec": "نعم",
+      "alqara": "إفريقيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 1160000
+    },
+    {
+      "altartib_alalami": 19,
+      "aldawla": "عُمان",
+      "odw_opec": "لا",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 1040000
+    },
+    {
+      "altartib_alalami": 27,
+      "aldawla": "مصر",
+      "odw_opec": "لا",
+      "alqara": "إفريقيا / آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 559000
+    },
+    {
+      "altartib_alalami": 36,
+      "aldawla": "البحرين",
+      "odw_opec": "لا",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 167000
+    },
+    {
+      "altartib_alalami": 43,
+      "aldawla": "سوريا",
+      "odw_opec": "لا",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 95000
+    },
+    {
+      "altartib_alalami": 47,
+      "aldawla": "السودان",
+      "odw_opec": "لا",
+      "alqara": "إفريقيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 71000
+    },
+    {
+      "altartib_alalami": 53,
+      "aldawla": "تونس",
+      "odw_opec": "لا",
+      "alqara": "إفريقيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 33000
+    },
+    {
+      "altartib_alalami": 66,
+      "aldawla": "اليمن",
+      "odw_opec": "لا",
+      "alqara": "آسيا",
+      "intaj_alnaft_barmil_yawm_disambar_2023": 15000
+    }
+  ],
+  "meta": {
+    "title": "إنتاج النفط في الدول العربية (ديسمبر 2023) - Free Download",
+    "description": "إنتاج النفط الخام في الدول العربية بالبرميل يوميًا حسب بيانات ديسمبر 2023، مع الترتيب العالمي وعضوية أوبك. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "إنتاج النفط في الدول العربية (ديسمبر 2023) | ListBase",
+    "seo_description": "Download إنتاج النفط في الدول العربية (ديسمبر 2023) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_إنتاج_النفط"
+    ]
+  }
+}

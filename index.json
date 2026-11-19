@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-19T02:29:18.369Z",
-  "total_datasets": 549,
-  "total_records": 155873,
+  "generated": "2026-11-19T02:29:31.024Z",
+  "total_datasets": 550,
+  "total_records": 155887,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -588,6 +588,32 @@
         "xlsx": {
           "name": "ar-almanatiq-alhurra-alimarat_AR.xlsx",
           "size": 19725
+        }
+      }
+    },
+    {
+      "id": "ar-intaj-alnaft-aldual-alarabiya",
+      "name": "إنتاج النفط في الدول العربية (ديسمبر 2023)",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "altartib_alalami",
+        "aldawla",
+        "odw_opec",
+        "alqara",
+        "intaj_alnaft_barmil_yawm_disambar_2023"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الدول_حسب_إنتاج_النفط",
+      "updated": "2026-11",
+      "size": 4812,
+      "files": {
+        "csv": {
+          "name": "ar-intaj-alnaft-aldual-alarabiya_AR.csv",
+          "size": 824
+        },
+        "xlsx": {
+          "name": "ar-intaj-alnaft-aldual-alarabiya_AR.xlsx",
+          "size": 7312
         }
       }
     },
