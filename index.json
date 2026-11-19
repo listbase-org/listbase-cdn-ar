@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-18T02:25:44.197Z",
-  "total_datasets": 548,
-  "total_records": 155821,
+  "generated": "2026-11-19T02:29:18.369Z",
+  "total_datasets": 549,
+  "total_records": 155873,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3369,6 +3369,32 @@
         "xlsx": {
           "name": "ar-alatbaq-alarabiya_AR.xlsx",
           "size": 10337
+        }
+      }
+    },
+    {
+      "id": "ar-alatbaq-aljazairiya",
+      "name": "قائمة الأطباق الجزائرية",
+      "category": "food",
+      "record_count": 52,
+      "columns": [
+        "ism",
+        "naw",
+        "qism",
+        "wasf",
+        "almintaqa"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الأطباق_الجزائرية",
+      "updated": "2026-11",
+      "size": 22247,
+      "files": {
+        "csv": {
+          "name": "ar-alatbaq-aljazairiya_AR.csv",
+          "size": 15684
+        },
+        "xlsx": {
+          "name": "ar-alatbaq-aljazairiya_AR.xlsx",
+          "size": 12456
         }
       }
     },
