@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-19T02:29:31.024Z",
-  "total_datasets": 550,
-  "total_records": 155887,
+  "generated": "2026-11-19T02:29:44.759Z",
+  "total_datasets": 551,
+  "total_records": 155935,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -13014,6 +13014,35 @@
         "xlsx": {
           "name": "ar-taadad-alsaudia-2022-hasab-almintaqa_AR.xlsx",
           "size": 7313
+        }
+      }
+    },
+    {
+      "id": "ar-wilayat-aljazair-hasab-alsukkan",
+      "name": "ولايات الجزائر حسب عدد السكان (1987–2019)",
+      "category": "society",
+      "record_count": 48,
+      "columns": [
+        "altartib",
+        "alwilaya",
+        "ihsa_1987",
+        "ihsa_1998",
+        "ihsa_2008",
+        "ihsa_2019",
+        "nisbat_mahw_alumiya_2008",
+        "muaddal_alnumuw_1998_2008"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_ولايات_الجزائر_حسب_السكان",
+      "updated": "2026-11",
+      "size": 15334,
+      "files": {
+        "csv": {
+          "name": "ar-wilayat-aljazair-hasab-alsukkan_AR.csv",
+          "size": 3993
+        },
+        "xlsx": {
+          "name": "ar-wilayat-aljazair-hasab-alsukkan_AR.xlsx",
+          "size": 9678
         }
       }
     },

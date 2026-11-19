@@ -1,0 +1,546 @@
+{
+  "id": "ar-wilayat-aljazair-hasab-alsukkan",
+  "name": "ولايات الجزائر حسب عدد السكان (1987–2019)",
+  "title": "ولايات الجزائر حسب عدد السكان (1987–2019)",
+  "description": "ولايات الجزائر الـ48 مرتبة حسب عدد السكان في إحصاءات 1987 و1998 و2008 وبيانات 2019، مع نسبة محو الأمية (2008) ومعدل النمو السنوي (1998–2008).",
+  "category": "society",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_ولايات_الجزائر_حسب_السكان",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_ولايات_الجزائر_حسب_السكان",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "altartib",
+      "label": "Altartib",
+      "type": "number"
+    },
+    {
+      "key": "alwilaya",
+      "label": "Alwilaya",
+      "type": "string"
+    },
+    {
+      "key": "ihsa_1987",
+      "label": "Ihsa 1987",
+      "type": "number"
+    },
+    {
+      "key": "ihsa_1998",
+      "label": "Ihsa 1998",
+      "type": "number"
+    },
+    {
+      "key": "ihsa_2008",
+      "label": "Ihsa 2008",
+      "type": "number"
+    },
+    {
+      "key": "ihsa_2019",
+      "label": "Ihsa 2019",
+      "type": "number"
+    },
+    {
+      "key": "nisbat_mahw_alumiya_2008",
+      "label": "Nisbat Mahw Alumiya 2008",
+      "type": "number"
+    },
+    {
+      "key": "muaddal_alnumuw_1998_2008",
+      "label": "Muaddal Alnumuw 1998 2008",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "altartib": 1,
+      "alwilaya": "ولاية الجزائر",
+      "ihsa_1987": 1687579,
+      "ihsa_1998": 2561992,
+      "ihsa_2008": 2988145,
+      "ihsa_2019": 3282979,
+      "nisbat_mahw_alumiya_2008": 87.7,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 2,
+      "alwilaya": "ولاية وهران",
+      "ihsa_1987": 916678,
+      "ihsa_1998": 1155464,
+      "ihsa_2008": 1584607,
+      "ihsa_2019": 2118603,
+      "nisbat_mahw_alumiya_2008": 84.2,
+      "muaddal_alnumuw_1998_2008": 1.9
+    },
+    {
+      "altartib": 3,
+      "alwilaya": "ولاية سطيف",
+      "ihsa_1987": 997482,
+      "ihsa_1998": 1315940,
+      "ihsa_2008": 1489979,
+      "ihsa_2019": 1866845,
+      "nisbat_mahw_alumiya_2008": 77.8,
+      "muaddal_alnumuw_1998_2008": 1.3
+    },
+    {
+      "altartib": 4,
+      "alwilaya": "ولاية الجلفة",
+      "ihsa_1987": 490240,
+      "ihsa_1998": 860981,
+      "ihsa_2008": 1092184,
+      "ihsa_2019": 1508535,
+      "nisbat_mahw_alumiya_2008": 63.8,
+      "muaddal_alnumuw_1998_2008": 3.3
+    },
+    {
+      "altartib": 5,
+      "alwilaya": "ولاية باتنة",
+      "ihsa_1987": 757059,
+      "ihsa_1998": 968820,
+      "ihsa_2008": 1119791,
+      "ihsa_2019": 1377000,
+      "nisbat_mahw_alumiya_2008": 76.7,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 6,
+      "alwilaya": "ولاية الشلف",
+      "ihsa_1987": 679717,
+      "ihsa_1998": 884978,
+      "ihsa_2008": 1002088,
+      "ihsa_2019": 1356151,
+      "nisbat_mahw_alumiya_2008": 72.2,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 7,
+      "alwilaya": "ولاية البليدة",
+      "ihsa_1987": 704462,
+      "ihsa_1998": 787069,
+      "ihsa_2008": 1002937,
+      "ihsa_2019": 1348674,
+      "nisbat_mahw_alumiya_2008": 84.1,
+      "muaddal_alnumuw_1998_2008": 2.5
+    },
+    {
+      "altartib": 8,
+      "alwilaya": "ولاية المسيلة",
+      "ihsa_1987": 605578,
+      "ihsa_1998": 815045,
+      "ihsa_2008": 990591,
+      "ihsa_2019": 1336958,
+      "nisbat_mahw_alumiya_2008": 69.1,
+      "muaddal_alnumuw_1998_2008": 2.1
+    },
+    {
+      "altartib": 9,
+      "alwilaya": "ولاية قسنطينة",
+      "ihsa_1987": 662330,
+      "ihsa_1998": 855032,
+      "ihsa_2008": 938475,
+      "ihsa_2019": 1291579,
+      "nisbat_mahw_alumiya_2008": 85.3,
+      "muaddal_alnumuw_1998_2008": 1.5
+    },
+    {
+      "altartib": 10,
+      "alwilaya": "ولاية تيزي وزو",
+      "ihsa_1987": 931501,
+      "ihsa_1998": 1101059,
+      "ihsa_2008": 1127607,
+      "ihsa_2019": 1198561,
+      "nisbat_mahw_alumiya_2008": 77.7,
+      "muaddal_alnumuw_1998_2008": 0.2
+    },
+    {
+      "altartib": 11,
+      "alwilaya": "ولاية تلمسان",
+      "ihsa_1987": 707453,
+      "ihsa_1998": 846942,
+      "ihsa_2008": 949135,
+      "ihsa_2019": 1101383,
+      "nisbat_mahw_alumiya_2008": 76.6,
+      "muaddal_alnumuw_1998_2008": 1.2
+    },
+    {
+      "altartib": 12,
+      "alwilaya": "ولاية سكيكدة",
+      "ihsa_1987": 619094,
+      "ihsa_1998": 787118,
+      "ihsa_2008": 898680,
+      "ihsa_2019": 1095666,
+      "nisbat_mahw_alumiya_2008": 78.5,
+      "muaddal_alnumuw_1998_2008": 1.4
+    },
+    {
+      "altartib": 13,
+      "alwilaya": "ولاية تيارت",
+      "ihsa_1987": 574786,
+      "ihsa_1998": 728513,
+      "ihsa_2008": 846823,
+      "ihsa_2019": 1062656,
+      "nisbat_mahw_alumiya_2008": 69.6,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 14,
+      "alwilaya": "ولاية المدية",
+      "ihsa_1987": 650623,
+      "ihsa_1998": 721861,
+      "ihsa_2008": 819932,
+      "ihsa_2019": 1062134,
+      "nisbat_mahw_alumiya_2008": 72.5,
+      "muaddal_alnumuw_1998_2008": 0.2
+    },
+    {
+      "altartib": 15,
+      "alwilaya": "ولاية ميلة",
+      "ihsa_1987": 511047,
+      "ihsa_1998": 680815,
+      "ihsa_2008": 766886,
+      "ihsa_2019": 991493,
+      "nisbat_mahw_alumiya_2008": 76.8,
+      "muaddal_alnumuw_1998_2008": 1.5
+    },
+    {
+      "altartib": 16,
+      "alwilaya": "ولاية بجاية",
+      "ihsa_1987": 697669,
+      "ihsa_1998": 848560,
+      "ihsa_2008": 912577,
+      "ihsa_2019": 984050,
+      "nisbat_mahw_alumiya_2008": 75.4,
+      "muaddal_alnumuw_1998_2008": 0.6
+    },
+    {
+      "altartib": 17,
+      "alwilaya": "ولاية بومرداس",
+      "ihsa_1987": 646870,
+      "ihsa_1998": 645497,
+      "ihsa_2008": 802083,
+      "ihsa_2019": 960315,
+      "nisbat_mahw_alumiya_2008": 81.1,
+      "muaddal_alnumuw_1998_2008": 2.2
+    },
+    {
+      "altartib": 18,
+      "alwilaya": "ولاية غليزان",
+      "ihsa_1987": 545061,
+      "ihsa_1998": 639253,
+      "ihsa_2008": 726180,
+      "ihsa_2019": 959958,
+      "nisbat_mahw_alumiya_2008": 68.2,
+      "muaddal_alnumuw_1998_2008": 1.3
+    },
+    {
+      "altartib": 19,
+      "alwilaya": "ولاية معسكر",
+      "ihsa_1987": 562806,
+      "ihsa_1998": 677099,
+      "ihsa_2008": 784073,
+      "ihsa_2019": 955230,
+      "nisbat_mahw_alumiya_2008": 71.7,
+      "muaddal_alnumuw_1998_2008": 1.5
+    },
+    {
+      "altartib": 20,
+      "alwilaya": "ولاية بسكرة",
+      "ihsa_1987": 429217,
+      "ihsa_1998": 588648,
+      "ihsa_2008": 721356,
+      "ihsa_2019": 951981,
+      "nisbat_mahw_alumiya_2008": 75.7,
+      "muaddal_alnumuw_1998_2008": 2.3
+    },
+    {
+      "altartib": 21,
+      "alwilaya": "ولاية عين الدفلى",
+      "ihsa_1987": 536205,
+      "ihsa_1998": 659182,
+      "ihsa_2008": 766013,
+      "ihsa_2019": 912798,
+      "nisbat_mahw_alumiya_2008": 71.4,
+      "muaddal_alnumuw_1998_2008": 1.5
+    },
+    {
+      "altartib": 22,
+      "alwilaya": "ولاية الوادي",
+      "ihsa_1987": 379512,
+      "ihsa_1998": 529842,
+      "ihsa_2008": 647548,
+      "ihsa_2019": 900000,
+      "nisbat_mahw_alumiya_2008": 80.9,
+      "muaddal_alnumuw_1998_2008": 2.6
+    },
+    {
+      "altartib": 23,
+      "alwilaya": "ولاية مستغانم",
+      "ihsa_1987": 504124,
+      "ihsa_1998": 629445,
+      "ihsa_2008": 737118,
+      "ihsa_2019": 892165,
+      "nisbat_mahw_alumiya_2008": 69.1,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 24,
+      "alwilaya": "ولاية البويرة",
+      "ihsa_1987": 525460,
+      "ihsa_1998": 626586,
+      "ihsa_2008": 695583,
+      "ihsa_2019": 842207,
+      "nisbat_mahw_alumiya_2008": 77.2,
+      "muaddal_alnumuw_1998_2008": 1
+    },
+    {
+      "altartib": 25,
+      "alwilaya": "ولاية عنابة",
+      "ihsa_1987": 453951,
+      "ihsa_1998": 555485,
+      "ihsa_2008": 609499,
+      "ihsa_2019": 793172,
+      "nisbat_mahw_alumiya_2008": 85.3,
+      "muaddal_alnumuw_1998_2008": 0.9
+    },
+    {
+      "altartib": 26,
+      "alwilaya": "ولاية جيجل",
+      "ihsa_1987": 471319,
+      "ihsa_1998": 574336,
+      "ihsa_2008": 636948,
+      "ihsa_2019": 789667,
+      "nisbat_mahw_alumiya_2008": 78.9,
+      "muaddal_alnumuw_1998_2008": 1.1
+    },
+    {
+      "altartib": 27,
+      "alwilaya": "ولاية أم البواقي",
+      "ihsa_1987": 402683,
+      "ihsa_1998": 533711,
+      "ihsa_2008": 621612,
+      "ihsa_2019": 782188,
+      "nisbat_mahw_alumiya_2008": 72.3,
+      "muaddal_alnumuw_1998_2008": 1.9
+    },
+    {
+      "altartib": 28,
+      "alwilaya": "ولاية تبسة",
+      "ihsa_1987": 409317,
+      "ihsa_1998": 550021,
+      "ihsa_2008": 648703,
+      "ihsa_2019": 781247,
+      "nisbat_mahw_alumiya_2008": 72.5,
+      "muaddal_alnumuw_1998_2008": 1.7
+    },
+    {
+      "altartib": 29,
+      "alwilaya": "ولاية برج بوعريريج",
+      "ihsa_1987": 429009,
+      "ihsa_1998": 559928,
+      "ihsa_2008": 628475,
+      "ihsa_2019": 730703,
+      "nisbat_mahw_alumiya_2008": 77.1,
+      "muaddal_alnumuw_1998_2008": 1.3
+    },
+    {
+      "altartib": 30,
+      "alwilaya": "ولاية سيدي بلعباس",
+      "ihsa_1987": 444047,
+      "ihsa_1998": 529704,
+      "ihsa_2008": 604744,
+      "ihsa_2019": 713377,
+      "nisbat_mahw_alumiya_2008": 79.3,
+      "muaddal_alnumuw_1998_2008": 1.4
+    },
+    {
+      "altartib": 31,
+      "alwilaya": "ولاية ورقلة",
+      "ihsa_1987": 286696,
+      "ihsa_1998": 438831,
+      "ihsa_2008": 558558,
+      "ihsa_2019": 708463,
+      "nisbat_mahw_alumiya_2008": 84.1,
+      "muaddal_alnumuw_1998_2008": 2.3
+    },
+    {
+      "altartib": 32,
+      "alwilaya": "ولاية تيبازة",
+      "ihsa_1987": 515140,
+      "ihsa_1998": 555382,
+      "ihsa_2008": 591010,
+      "ihsa_2019": 706054,
+      "nisbat_mahw_alumiya_2008": 79,
+      "muaddal_alnumuw_1998_2008": 1.6
+    },
+    {
+      "altartib": 33,
+      "alwilaya": "ولاية الأغواط",
+      "ihsa_1987": 215183,
+      "ihsa_1998": 327634,
+      "ihsa_2008": 455602,
+      "ihsa_2019": 686160,
+      "nisbat_mahw_alumiya_2008": 72.3,
+      "muaddal_alnumuw_1998_2008": 3.8
+    },
+    {
+      "altartib": 34,
+      "alwilaya": "ولاية قالمة",
+      "ihsa_1987": 353329,
+      "ihsa_1998": 432721,
+      "ihsa_2008": 482430,
+      "ihsa_2019": 543552,
+      "nisbat_mahw_alumiya_2008": 77.5,
+      "muaddal_alnumuw_1998_2008": 1.2
+    },
+    {
+      "altartib": 35,
+      "alwilaya": "ولاية سوق أهراس",
+      "ihsa_1987": 298236,
+      "ihsa_1998": 373033,
+      "ihsa_2008": 438127,
+      "ihsa_2019": 533120,
+      "nisbat_mahw_alumiya_2008": 74.7,
+      "muaddal_alnumuw_1998_2008": 1.8
+    },
+    {
+      "altartib": 36,
+      "alwilaya": "ولاية أدرار",
+      "ihsa_1987": 216931,
+      "ihsa_1998": 311952,
+      "ihsa_2008": 399714,
+      "ihsa_2019": 528000,
+      "nisbat_mahw_alumiya_2008": 76.6,
+      "muaddal_alnumuw_1998_2008": 2.6
+    },
+    {
+      "altartib": 37,
+      "alwilaya": "ولاية الطارف",
+      "ihsa_1987": 276836,
+      "ihsa_1998": 354213,
+      "ihsa_2008": 408414,
+      "ihsa_2019": 481136,
+      "nisbat_mahw_alumiya_2008": 79.5,
+      "muaddal_alnumuw_1998_2008": 1.5
+    },
+    {
+      "altartib": 38,
+      "alwilaya": "ولاية غرداية",
+      "ihsa_1987": 215955,
+      "ihsa_1998": 296926,
+      "ihsa_2008": 363598,
+      "ihsa_2019": 477953,
+      "nisbat_mahw_alumiya_2008": 86.2,
+      "muaddal_alnumuw_1998_2008": 2
+    },
+    {
+      "altartib": 39,
+      "alwilaya": "ولاية خنشلة",
+      "ihsa_1987": 243733,
+      "ihsa_1998": 348122,
+      "ihsa_2008": 386683,
+      "ihsa_2019": 469510,
+      "nisbat_mahw_alumiya_2008": 69.1,
+      "muaddal_alnumuw_1998_2008": 1.7
+    },
+    {
+      "altartib": 40,
+      "alwilaya": "ولاية عين تموشنت",
+      "ihsa_1987": 271454,
+      "ihsa_1998": 326611,
+      "ihsa_2008": 371239,
+      "ihsa_2019": 432353,
+      "nisbat_mahw_alumiya_2008": 79.3,
+      "muaddal_alnumuw_1998_2008": 1.3
+    },
+    {
+      "altartib": 41,
+      "alwilaya": "ولاية سعيدة",
+      "ihsa_1987": 235240,
+      "ihsa_1998": 280752,
+      "ihsa_2008": 330641,
+      "ihsa_2019": 406893,
+      "nisbat_mahw_alumiya_2008": 71.4,
+      "muaddal_alnumuw_1998_2008": 1.7
+    },
+    {
+      "altartib": 42,
+      "alwilaya": "ولاية تيسمسيلت",
+      "ihsa_1987": 227542,
+      "ihsa_1998": 261298,
+      "ihsa_2008": 294476,
+      "ihsa_2019": 362229,
+      "nisbat_mahw_alumiya_2008": 67.1,
+      "muaddal_alnumuw_1998_2008": 1.1
+    },
+    {
+      "altartib": 43,
+      "alwilaya": "ولاية بشار",
+      "ihsa_1987": 183896,
+      "ihsa_1998": 230482,
+      "ihsa_2008": 270061,
+      "ihsa_2019": 353591,
+      "nisbat_mahw_alumiya_2008": 85.6,
+      "muaddal_alnumuw_1998_2008": 1.9
+    },
+    {
+      "altartib": 44,
+      "alwilaya": "ولاية البيض",
+      "ihsa_1987": 155494,
+      "ihsa_1998": 226528,
+      "ihsa_2008": 228624,
+      "ihsa_2019": 341665,
+      "nisbat_mahw_alumiya_2008": 69.2,
+      "muaddal_alnumuw_1998_2008": 3.1
+    },
+    {
+      "altartib": 45,
+      "alwilaya": "ولاية النعامة",
+      "ihsa_1987": 112858,
+      "ihsa_1998": 165578,
+      "ihsa_2008": 192891,
+      "ihsa_2019": 289045,
+      "nisbat_mahw_alumiya_2008": 71.5,
+      "muaddal_alnumuw_1998_2008": 4.3
+    },
+    {
+      "altartib": 46,
+      "alwilaya": "ولاية تمنراست",
+      "ihsa_1987": 94219,
+      "ihsa_1998": 151814,
+      "ihsa_2008": 176637,
+      "ihsa_2019": 245256,
+      "nisbat_mahw_alumiya_2008": 74.7,
+      "muaddal_alnumuw_1998_2008": 2.6
+    },
+    {
+      "altartib": 47,
+      "alwilaya": "ولاية تيندوف",
+      "ihsa_1987": 16339,
+      "ihsa_1998": 32004,
+      "ihsa_2008": 49149,
+      "ihsa_2019": 97578,
+      "nisbat_mahw_alumiya_2008": 76.3,
+      "muaddal_alnumuw_1998_2008": 6.3
+    },
+    {
+      "altartib": 48,
+      "alwilaya": "ولاية إليزي",
+      "ihsa_1987": 19698,
+      "ihsa_1998": 33960,
+      "ihsa_2008": 52333,
+      "ihsa_2019": 75770,
+      "nisbat_mahw_alumiya_2008": 80.6,
+      "muaddal_alnumuw_1998_2008": 4.5
+    }
+  ],
+  "meta": {
+    "title": "ولايات الجزائر حسب عدد السكان (1987–2019) - Free Download",
+    "description": "ولايات الجزائر الـ48 مرتبة حسب عدد السكان في إحصاءات 1987 و1998 و2008 وبيانات 2019، مع نسبة محو الأمية (2008) ومعدل النمو السنوي (1998–2008). Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ولايات الجزائر حسب عدد السكان (1987–2019) | ListBase",
+    "seo_description": "Download ولايات الجزائر حسب عدد السكان (1987–2019) — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_ولايات_الجزائر_حسب_السكان"
+    ]
+  }
+}
