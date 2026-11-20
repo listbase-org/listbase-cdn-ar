@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-19T02:29:44.759Z",
-  "total_datasets": 551,
-  "total_records": 155935,
+  "generated": "2026-11-20T02:16:42.422Z",
+  "total_datasets": 552,
+  "total_records": 155946,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1190,6 +1190,32 @@
         "xlsx": {
           "name": "ar-aldual-alarabiya-hasab-misahat-alghabat_AR.xlsx",
           "size": 7601
+        }
+      }
+    },
+    {
+      "id": "ar-alhadaiq-alwataniya-aljazair",
+      "name": "الحدائق (الحظائر) الوطنية في الجزائر",
+      "category": "environment",
+      "record_count": 11,
+      "columns": [
+        "name",
+        "location",
+        "area",
+        "established",
+        "legal_reference"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الحدائق_الوطنية_في_الجزائر",
+      "updated": "2026-11",
+      "size": 5435,
+      "files": {
+        "csv": {
+          "name": "ar-alhadaiq-alwataniya-aljazair_AR.csv",
+          "size": 2080
+        },
+        "xlsx": {
+          "name": "ar-alhadaiq-alwataniya-aljazair_AR.xlsx",
+          "size": 7664
         }
       }
     },

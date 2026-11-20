@@ -1,0 +1,128 @@
+{
+  "id": "ar-alhadaiq-alwataniya-aljazair",
+  "name": "الحدائق (الحظائر) الوطنية في الجزائر",
+  "title": "الحدائق (الحظائر) الوطنية في الجزائر",
+  "description": "قائمة الحدائق والحظائر الوطنية في الجزائر مع مكانها ومساحتها وتاريخ إنشائها والمرسوم أو المرجع القانوني المتعلق بها، من ويكيبيديا العربية.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الحدائق_الوطنية_في_الجزائر",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الحدائق_الوطنية_في_الجزائر",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "legal_reference",
+      "label": "Legal Reference",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "حظيرة الطاسيلي ناجر",
+      "location": "ولاية إليزي",
+      "area": "72 000 كم²",
+      "established": "27 يوليو 1972",
+      "legal_reference": "مرسوم رقم 72-168 مؤرخ في 27 يوليو 1972 مصنفة ضمن التراث العالمي للبشرية منذ تصنيف حظيرة الطاسيلي ناجر من طرف اليونيسكو سنة 1982."
+    },
+    {
+      "name": "الحديقة الوطنية لثنية الحد",
+      "location": "ثنية الحد",
+      "area": "3425 هكتار",
+      "established": "23 يوليو 1983",
+      "legal_reference": "مرسوم رقم 83-459 مؤرخ في 23 جويلية 1983."
+    },
+    {
+      "name": "الحديقة الوطنية جرجرة",
+      "location": "جرجرة",
+      "area": "18500 هكتار",
+      "established": "23 يوليو 1983",
+      "legal_reference": "مرسوم رقم 83-460 مؤرخ في 23 يوليو 1983."
+    },
+    {
+      "name": "الحديقة الوطنية الشريعة",
+      "location": "البليدة",
+      "area": "36 985 هكتار",
+      "established": "23 يوليو 1983",
+      "legal_reference": "مرسوم رقم 83-461 ممضي في 23 يوليو 1983."
+    },
+    {
+      "name": "الحظيرة الوطنية للقالة",
+      "location": "القالة",
+      "area": "80 000 هكتار",
+      "established": "23 يوليو 1983",
+      "legal_reference": "مرسوم رقم 83-462 مؤرخ في 23 يوليو 1983."
+    },
+    {
+      "name": "الحديقة الوطنية تازة",
+      "location": "ولاية جيجل",
+      "area": "3807 هكتار",
+      "established": "1984",
+      "legal_reference": "بمرسوم رقم 348/34 الصادر في 03 نوفمبر 1984"
+    },
+    {
+      "name": "الحديقة الوطنية تلمسان",
+      "location": "ولاية تلمسان",
+      "area": "8825 هكتار",
+      "established": "1993",
+      "legal_reference": "مرسوم تنفيذي رقم 93-117 مؤرخ في 12 مايو 1993."
+    },
+    {
+      "name": "الحظيرة الوطنية لجبل عيسى",
+      "location": "ولاية النعامة",
+      "area": "40024 هكتار",
+      "established": "2003",
+      "legal_reference": "مرسوم تنفيذي رقم 03-148 مؤرخ في 29 مارس 2003."
+    },
+    {
+      "name": "الحديقة الوطنية قورايا",
+      "location": "ولاية بجاية",
+      "area": "2080 هكتار",
+      "established": "1984",
+      "legal_reference": "وقد صنفتها اليونيسكو محمية طبيعية عالمية سنة 2004."
+    },
+    {
+      "name": "الحظيرة الوطنية بلزمة",
+      "location": "ولاية باتنة",
+      "area": "26 250 هكتار",
+      "established": "1984",
+      "legal_reference": "المرسوم الرئاسي رقم 326/84 المؤرخ في 03 نوفمبر 1984"
+    },
+    {
+      "name": "الحظيرة الثقافية للأهقار",
+      "location": "ولاية تمنراست",
+      "area": "450 000 كم²",
+      "established": "3 نوفمبر 1987",
+      "legal_reference": "مرسوم رقم 87-231 مؤرخ في 3 نوفمبر 1987."
+    }
+  ],
+  "meta": {
+    "title": "الحدائق (الحظائر) الوطنية في الجزائر - Free Download",
+    "description": "قائمة الحدائق والحظائر الوطنية في الجزائر مع مكانها ومساحتها وتاريخ إنشائها والمرسوم أو المرجع القانوني المتعلق بها، من ويكيبيديا العربية. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الحدائق (الحظائر) الوطنية في الجزائر | ListBase",
+    "seo_description": "Download الحدائق (الحظائر) الوطنية في الجزائر — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الحدائق_الوطنية_في_الجزائر"
+    ]
+  }
+}
