@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-20T02:16:42.422Z",
-  "total_datasets": 552,
-  "total_records": 155946,
+  "generated": "2026-11-20T02:16:52.360Z",
+  "total_datasets": 553,
+  "total_records": 155960,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1216,6 +1216,33 @@
         "xlsx": {
           "name": "ar-alhadaiq-alwataniya-aljazair_AR.xlsx",
           "size": 7664
+        }
+      }
+    },
+    {
+      "id": "ar-almahmiyat-altabiiya-alurdun",
+      "name": "المحميات الطبيعية في الأردن",
+      "category": "environment",
+      "record_count": 14,
+      "columns": [
+        "name",
+        "governorate",
+        "location",
+        "area_km2",
+        "established",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/المحميات_الطبيعية_في_الأردن",
+      "updated": "2026-11",
+      "size": 6085,
+      "files": {
+        "csv": {
+          "name": "ar-almahmiyat-altabiiya-alurdun_AR.csv",
+          "size": 2309
+        },
+        "xlsx": {
+          "name": "ar-almahmiyat-altabiiya-alurdun_AR.xlsx",
+          "size": 7955
         }
       }
     },

@@ -1,0 +1,168 @@
+{
+  "id": "ar-almahmiyat-altabiiya-alurdun",
+  "name": "المحميات الطبيعية في الأردن",
+  "title": "المحميات الطبيعية في الأردن",
+  "description": "قائمة المحميات الطبيعية في الأردن مع المحافظة والموقع والمساحة بالكيلومتر المربع وسنة الإنشاء وملاحظات، من ويكيبيديا العربية.",
+  "category": "environment",
+  "source": "https://ar.wikipedia.org/wiki/المحميات_الطبيعية_في_الأردن",
+  "source_url": "https://ar.wikipedia.org/wiki/المحميات_الطبيعية_في_الأردن",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "governorate",
+      "label": "Governorate",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "محمية الشومري للحياة البرية",
+      "governorate": "الزرقاء",
+      "location": "قضاء الأزرق",
+      "area_km2": 22,
+      "established": 1975,
+      "notes": ""
+    },
+    {
+      "name": "محمية الأزرق المائية",
+      "governorate": "الزرقاء",
+      "location": "قضاء الأزرق",
+      "area_km2": 12,
+      "established": 1978,
+      "notes": ""
+    },
+    {
+      "name": "محمية الموجب للمحيط الحيوي",
+      "governorate": "الكرك مأدبا",
+      "location": "الشاطئ الشرقي من البحر الميت قضاء العريض وقضاء غور المزرعة ولواء فقوع",
+      "area_km2": 212,
+      "established": 1985,
+      "notes": "أدنى المحميات الطبيعية في العالم"
+    },
+    {
+      "name": "محمية غابات عجلون",
+      "governorate": "عجلون",
+      "location": "قضاء عرجان قضاء صخرة، لواء قصبة عجلون",
+      "area_km2": 13,
+      "established": 1988,
+      "notes": ""
+    },
+    {
+      "name": "محمية ضانا للمحيط الحيوي",
+      "governorate": "الطفيلة",
+      "location": "لواء بصيرا",
+      "area_km2": 320,
+      "established": 1993,
+      "notes": "أكبر محمية طبيعية في الأردن"
+    },
+    {
+      "name": "منطقة وادي رم الطبيعية",
+      "governorate": "العقبة",
+      "location": "وادي رم",
+      "area_km2": 702,
+      "established": 1997,
+      "notes": "تنوع حيوي مرتبط بالبيئة الصحراوية"
+    },
+    {
+      "name": "محمية العقبة البحرية",
+      "governorate": "العقبة",
+      "location": "شاطئ العقبة",
+      "area_km2": 2.8,
+      "established": 1997,
+      "notes": "موائل بحرية وحيدة ومهمة مثل أعشاب البحر"
+    },
+    {
+      "name": "محمية غابات دبين",
+      "governorate": "جرش",
+      "location": "لواء قصبة جرش، قضاء برما",
+      "area_km2": 8.5,
+      "established": 2004,
+      "notes": "أصغر محمية في الأردن"
+    },
+    {
+      "name": "مرصد طيور العقبة",
+      "governorate": "العقبة",
+      "location": "قرب معبر وادي عربة",
+      "area_km2": 0.5,
+      "established": 2004,
+      "notes": "تقع على مسار هجرة الطيور بين اوراسيا وإفريقيا"
+    },
+    {
+      "name": "محمية غابات اليرموك",
+      "governorate": "إربد",
+      "location": "لواء بني كنانة",
+      "area_km2": 20.5,
+      "established": 2010,
+      "notes": "موطن الشجرة الوطنية للأردن"
+    },
+    {
+      "name": "حمرة ماعين",
+      "governorate": "مادبا البلقاء",
+      "location": "قضاء ماعين لواء الشونة الجنوبية",
+      "area_km2": 26.9,
+      "established": 2011,
+      "notes": "موئل لطيور الوقواق وعقاب الحيات والابلق الحزين."
+    },
+    {
+      "name": "محمية فيفا الطبيعية",
+      "governorate": "الكرك",
+      "location": "لواء الأغوار الجنوبية",
+      "area_km2": 23.2,
+      "established": 2011,
+      "notes": ""
+    },
+    {
+      "name": "محمية الضاحك الطبيعية",
+      "governorate": "الزرقاء",
+      "location": "البادية الشمالية الشرقية",
+      "area_km2": 265,
+      "established": 2018,
+      "notes": "بالقرب من الطريق الدولي الذي يربط الاردن مع السعودية"
+    },
+    {
+      "name": "محمية المأوى للطبيعة والحياة البرية",
+      "governorate": "جرش",
+      "location": "جبل المنارة، سوف",
+      "area_km2": 1.1,
+      "established": 2011,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "المحميات الطبيعية في الأردن - Free Download",
+    "description": "قائمة المحميات الطبيعية في الأردن مع المحافظة والموقع والمساحة بالكيلومتر المربع وسنة الإنشاء وملاحظات، من ويكيبيديا العربية. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المحميات الطبيعية في الأردن | ListBase",
+    "seo_description": "Download المحميات الطبيعية في الأردن — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/المحميات_الطبيعية_في_الأردن"
+    ]
+  }
+}
