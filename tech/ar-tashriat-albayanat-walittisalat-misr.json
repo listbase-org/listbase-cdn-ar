@@ -1,0 +1,114 @@
+{
+  "id": "ar-tashriat-albayanat-walittisalat-misr",
+  "name": "تشريعات البيانات والاتصالات في مصر",
+  "title": "تشريعات البيانات والاتصالات في مصر",
+  "description": "قائمة القوانين والقرارات المنظمة للاتصالات وتكنولوجيا المعلومات وحماية البيانات الشخصية والجرائم الإلكترونية في مصر مع تعديلاتها ولوائحها التنفيذية وحالتها.",
+  "category": "tech",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_البيانات_والاتصالات_(مصر)",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_البيانات_والاتصالات_(مصر)",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "altashri_almunazzim",
+      "label": "Altashri Almunazzim",
+      "type": "string"
+    },
+    {
+      "key": "tashriat_altadilat",
+      "label": "Tashriat Altadilat",
+      "type": "string"
+    },
+    {
+      "key": "qararat_allaiha_altanfidhiya",
+      "label": "Qararat Allaiha Altanfidhiya",
+      "type": "string"
+    },
+    {
+      "key": "alhala",
+      "label": "Alhala",
+      "type": "string"
+    },
+    {
+      "key": "mulahazat",
+      "label": "Mulahazat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "altashri_almunazzim": "تنظيم التوقيع الإلكتروني قانون رقم 15 لسنة 2004",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "تنظيم الاتصالات قانون رقم 10 لسنة 2003",
+      "tashriat_altadilat": "قانون رقم 172 لسنة 2022",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": "أنشئ بموجبه: الجهاز القومي لتنظيم الاتصالات ألغي بموجبه: قرار رئيس الجمهورية رقم 101 لسنة 1998"
+    },
+    {
+      "altashri_almunazzim": "حماية البيانات الشخصية قانون رقم 151 لسنة 2020",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "تنظيم استخدام وسائل الدفع غير النقدي قانون رقم 18 لسنة 2019",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "قرار رئيس مجلس الوزراء رقم 1776 لسنة 2020 قرار رئيس مجلس الوزراء رقم 464 لسنة 2021 قرار رئيس مجلس الوزراء رقم 752 لسنة 2022",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "مكافحة جرائم تقنية المعلومات قانون رقم 175 لسنة 2018",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "قرار رئيس مجلس الوزراء رقم 1699 لسنة 2020",
+      "alhala": "ساري",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "إنشاء جهاز تنظيم مرفق الاتصالات السلكية واللاسلكية قرار رئيس الجمهورية رقم 101 لسنة 1998",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "تحويل الهيئة القومية للاتصال السلكية واللاسلكية إلى شركة مساهمة مصرية قانون رقم 19 لسنة 1998",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": "ألغي بموجبه: قانون رقم 153 لسنة 1980"
+    },
+    {
+      "altashri_almunazzim": "إنشاء الهيئة القومية للاتصال السلكية واللاسلكية قانون رقم 153 لسنة 1980",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "ملغي",
+      "mulahazat": ""
+    },
+    {
+      "altashri_almunazzim": "بعض الأحكام الخاصة بالاتصالات اللاسلكية قانون رقم 66 لسنة 1979",
+      "tashriat_altadilat": "",
+      "qararat_allaiha_altanfidhiya": "",
+      "alhala": "",
+      "mulahazat": ""
+    }
+  ],
+  "meta": {
+    "title": "تشريعات البيانات والاتصالات في مصر - Free Download",
+    "description": "قائمة القوانين والقرارات المنظمة للاتصالات وتكنولوجيا المعلومات وحماية البيانات الشخصية والجرائم الإلكترونية في مصر مع تعديلاتها ولوائحها التنفيذية وحالتها. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "تشريعات البيانات والاتصالات في مصر | ListBase",
+    "seo_description": "Download تشريعات البيانات والاتصالات في مصر — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_تشريعات_البيانات_والاتصالات_(مصر)"
+    ]
+  }
+}

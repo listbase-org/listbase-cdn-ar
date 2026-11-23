@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-23T02:25:49.282Z",
-  "total_datasets": 555,
-  "total_records": 156094,
+  "generated": "2026-11-23T02:25:57.970Z",
+  "total_datasets": 556,
+  "total_records": 156103,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -13559,6 +13559,32 @@
         "xlsx": {
           "name": "ar-sa-maktabat_AR.xlsx",
           "size": 7514
+        }
+      }
+    },
+    {
+      "id": "ar-tashriat-albayanat-walittisalat-misr",
+      "name": "تشريعات البيانات والاتصالات في مصر",
+      "category": "tech",
+      "record_count": 9,
+      "columns": [
+        "altashri_almunazzim",
+        "tashriat_altadilat",
+        "qararat_allaiha_altanfidhiya",
+        "alhala",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_البيانات_والاتصالات_(مصر)",
+      "updated": "2026-11",
+      "size": 5396,
+      "files": {
+        "csv": {
+          "name": "ar-tashriat-albayanat-walittisalat-misr_AR.csv",
+          "size": 1782
+        },
+        "xlsx": {
+          "name": "ar-tashriat-albayanat-walittisalat-misr_AR.xlsx",
+          "size": 7454
         }
       }
     },
