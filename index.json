@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-23T02:25:57.970Z",
-  "total_datasets": 556,
-  "total_records": 156103,
+  "generated": "2026-11-23T02:26:10.113Z",
+  "total_datasets": 557,
+  "total_records": 156121,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -16144,6 +16144,33 @@
         "xlsx": {
           "name": "ar-sawabiq-alnizam-aldawli-lilwahadat_AR.xlsx",
           "size": 8705
+        }
+      }
+    },
+    {
+      "id": "ar-tashriat-almuwasafat-walqiyas-misr",
+      "name": "تشريعات المواصفات والقياس والمعايرة في مصر",
+      "category": "units",
+      "record_count": 18,
+      "columns": [
+        "almawdu",
+        "altashri_almunazzim",
+        "tashriat_altadilat",
+        "qararat_allaiha_altanfidhiya",
+        "alhala",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_تشريعات_المواصفات_والقياس_(مصر)",
+      "updated": "2026-11",
+      "size": 11452,
+      "files": {
+        "csv": {
+          "name": "ar-tashriat-almuwasafat-walqiyas-misr_AR.csv",
+          "size": 6121
+        },
+        "xlsx": {
+          "name": "ar-tashriat-almuwasafat-walqiyas-misr_AR.xlsx",
+          "size": 8438
         }
       }
     },
