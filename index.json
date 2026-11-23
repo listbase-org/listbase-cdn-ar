@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-20T02:16:52.360Z",
-  "total_datasets": 553,
-  "total_records": 155960,
+  "generated": "2026-11-23T02:25:39.963Z",
+  "total_datasets": 554,
+  "total_records": 156054,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1367,6 +1367,31 @@
         "xlsx": {
           "name": "ar-mahmiat-misr_AR.xlsx",
           "size": 8450
+        }
+      }
+    },
+    {
+      "id": "ar-sudud-aljazair-hasab-alwilaya",
+      "name": "قائمة سدود الجزائر حسب الولاية",
+      "category": "environment",
+      "record_count": 94,
+      "columns": [
+        "alwilaya",
+        "ism_alsad",
+        "alsia_milyun_m3",
+        "bidayat_alistighlal"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_سدود_الجزائر",
+      "updated": "2026-11",
+      "size": 16563,
+      "files": {
+        "csv": {
+          "name": "ar-sudud-aljazair-hasab-alwilaya_AR.csv",
+          "size": 4904
+        },
+        "xlsx": {
+          "name": "ar-sudud-aljazair-hasab-alwilaya_AR.xlsx",
+          "size": 9834
         }
       }
     },
