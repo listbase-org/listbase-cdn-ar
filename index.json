@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-24T02:21:41.855Z",
-  "total_datasets": 558,
-  "total_records": 156141,
+  "generated": "2026-11-24T02:21:54.942Z",
+  "total_datasets": 559,
+  "total_records": 156165,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -298,6 +298,30 @@
         "xlsx": {
           "name": "ar-almahrajanat-almaghrib_AR.xlsx",
           "size": 12297
+        }
+      }
+    },
+    {
+      "id": "ar-almahrajanat-tunis",
+      "name": "المهرجانات في تونس",
+      "category": "culture",
+      "record_count": 24,
+      "columns": [
+        "ism_almahrajan",
+        "almadina",
+        "altawqit"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_في_تونس",
+      "updated": "2026-11",
+      "size": 5470,
+      "files": {
+        "csv": {
+          "name": "ar-almahrajanat-tunis_AR.csv",
+          "size": 1971
+        },
+        "xlsx": {
+          "name": "ar-almahrajanat-tunis_AR.xlsx",
+          "size": 7636
         }
       }
     },

@@ -1,0 +1,161 @@
+{
+  "id": "ar-almahrajanat-tunis",
+  "name": "المهرجانات في تونس",
+  "title": "المهرجانات في تونس",
+  "description": "قائمة بأبرز المهرجانات الثقافية والفنية والتراثية في تونس مع المدينة وموعد انعقادها المعتاد، من ويكيبيديا العربية.",
+  "category": "culture",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_في_تونس",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_في_تونس",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "ism_almahrajan",
+      "label": "Ism Almahrajan",
+      "type": "string"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    },
+    {
+      "key": "altawqit",
+      "label": "Altawqit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ism_almahrajan": "المهرجان الدولي للفروسية ببنقردان",
+      "almadina": "بنقردان",
+      "altawqit": "اوت"
+    },
+    {
+      "ism_almahrajan": "مهرجان الشعانبي للمسرح المعاصر",
+      "almadina": "القصرين",
+      "altawqit": "مارس"
+    },
+    {
+      "ism_almahrajan": "المهرجان الدولي للقصور الصحراوية",
+      "almadina": "تطاوين",
+      "altawqit": "مارس"
+    },
+    {
+      "ism_almahrajan": "مهرجان ربيع سبيطلة الدولي",
+      "almadina": "سبيطلة",
+      "altawqit": "افريل"
+    },
+    {
+      "ism_almahrajan": "مهرجان تستور الدولي للمالوف والموسيقى التقليدية العربية",
+      "almadina": "تستور",
+      "altawqit": "يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان العبادلة الأثري الدولي",
+      "almadina": "سبيطلة",
+      "altawqit": "يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان المدينة بفريانة",
+      "almadina": "فريانة",
+      "altawqit": "يوليو"
+    },
+    {
+      "ism_almahrajan": "مهرجان سيليوم الدولي بالقصرين",
+      "almadina": "القصرين",
+      "altawqit": "يوليو - أغسطس"
+    },
+    {
+      "ism_almahrajan": "المهرجان الدولي بالحمامات",
+      "almadina": "الحمامات",
+      "altawqit": "يوليو - أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان طبرقة للجاز",
+      "almadina": "طبرقة",
+      "altawqit": "يوليو - أغسطس"
+    },
+    {
+      "ism_almahrajan": "مهرجان قرطاج الدولي",
+      "almadina": "قرطاج",
+      "altawqit": "يوليو - أغسطس"
+    },
+    {
+      "ism_almahrajan": "المهرجان الدولي للموسيقى السمفونية بالجم",
+      "almadina": "الجم",
+      "altawqit": "يوليو - أغسطس - سبتمبر"
+    },
+    {
+      "ism_almahrajan": "أيام قرطاج السينمائية",
+      "almadina": "تونس",
+      "altawqit": "أكتوبر أو نوفمبر"
+    },
+    {
+      "ism_almahrajan": "أيام قرطاج المسرحية",
+      "almadina": "تونس",
+      "altawqit": "نوفمبر"
+    },
+    {
+      "ism_almahrajan": "أيام قرطاج الموسيقية",
+      "almadina": "تونس",
+      "altawqit": "ديسمبر"
+    },
+    {
+      "ism_almahrajan": "أيام قرطاج الشعرية",
+      "almadina": "تونس",
+      "altawqit": "مارس"
+    },
+    {
+      "ism_almahrajan": "المهرجان الدولي للصحراء بدوز",
+      "almadina": "دوز",
+      "altawqit": "ديسمبر"
+    },
+    {
+      "ism_almahrajan": "مهرجان جربة التلفزيوني",
+      "almadina": "جربة",
+      "altawqit": ""
+    },
+    {
+      "ism_almahrajan": "مهرجان ورود الرمال",
+      "almadina": "رمادة",
+      "altawqit": ""
+    },
+    {
+      "ism_almahrajan": "مهرجان التمور",
+      "almadina": "قبلي",
+      "altawqit": "ديسمبر"
+    },
+    {
+      "ism_almahrajan": "مهرجان التمور",
+      "almadina": "توزر",
+      "altawqit": "نوفمبر"
+    },
+    {
+      "ism_almahrajan": "مهرجان الرمان",
+      "almadina": "تستور ولاية باجة",
+      "altawqit": ""
+    },
+    {
+      "ism_almahrajan": "مهرجان تستور الدولي للمالوف",
+      "almadina": "تستور ولاية باجة",
+      "altawqit": ""
+    },
+    {
+      "ism_almahrajan": "مهرجان بنزرت الدولي",
+      "almadina": "بنزرت",
+      "altawqit": "جويلية + اوت"
+    }
+  ],
+  "meta": {
+    "title": "المهرجانات في تونس - Free Download",
+    "description": "قائمة بأبرز المهرجانات الثقافية والفنية والتراثية في تونس مع المدينة وموعد انعقادها المعتاد، من ويكيبيديا العربية. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المهرجانات في تونس | ListBase",
+    "seo_description": "Download المهرجانات في تونس — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المهرجانات_في_تونس"
+    ]
+  }
+}
