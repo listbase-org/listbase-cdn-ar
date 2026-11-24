@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-24T02:21:54.942Z",
-  "total_datasets": 559,
-  "total_records": 156165,
+  "generated": "2026-11-24T02:22:05.552Z",
+  "total_datasets": 560,
+  "total_records": 156229,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -322,6 +322,30 @@
         "xlsx": {
           "name": "ar-almahrajanat-tunis_AR.xlsx",
           "size": 7636
+        }
+      }
+    },
+    {
+      "id": "ar-almahrajanat-walmawasim-alsaudia",
+      "name": "المهرجانات والمواسم الفنية والتراثية في السعودية",
+      "category": "culture",
+      "record_count": 64,
+      "columns": [
+        "almintaqa",
+        "ism_almahrajan",
+        "almadina"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_السعودية",
+      "updated": "2026-11",
+      "size": 12549,
+      "files": {
+        "csv": {
+          "name": "ar-almahrajanat-walmawasim-alsaudia_AR.csv",
+          "size": 5412
+        },
+        "xlsx": {
+          "name": "ar-almahrajanat-walmawasim-alsaudia_AR.xlsx",
+          "size": 8731
         }
       }
     },

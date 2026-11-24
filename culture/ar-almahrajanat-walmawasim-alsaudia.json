@@ -1,0 +1,361 @@
+{
+  "id": "ar-almahrajanat-walmawasim-alsaudia",
+  "name": "المهرجانات والمواسم الفنية والتراثية في السعودية",
+  "title": "المهرجانات والمواسم الفنية والتراثية في السعودية",
+  "description": "قائمة المهرجانات والمواسم والفعاليات الفنية والتراثية في المملكة العربية السعودية مصنفة حسب المنطقة الإدارية مع المدينة التي تقام فيها، من ويكيبيديا العربية.",
+  "category": "culture",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_السعودية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_السعودية",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "almintaqa",
+      "label": "Almintaqa",
+      "type": "string"
+    },
+    {
+      "key": "ism_almahrajan",
+      "label": "Ism Almahrajan",
+      "type": "string"
+    },
+    {
+      "key": "almadina",
+      "label": "Almadina",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "almintaqa": "وطني",
+      "ism_almahrajan": "موسم رمضان",
+      "almadina": "جميع المدن"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الجنادرية",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الملك عبدالعزيز للإبل",
+      "almadina": "رماح"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الرياض للتسوق والترفيه",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الأسرة للنخيل والتمور",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "أسبوع العلوم والتقنية",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الدرعية للفروسية",
+      "almadina": "الدرعية"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان مدل بيست",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الملك عبد العزيز للصقور",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان العودة إلى الرياض",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "احتفالية نور الرياض",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان شتانا",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الرياض للمسرح",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان ساوند ستورم",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان الرياض لعربات الطعام",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان حمضيات الحريق",
+      "almadina": "الحريق"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "مهرجان أفلام السعودية",
+      "almadina": "جميع المدن"
+    },
+    {
+      "almintaqa": "منطقة الرياض",
+      "ism_almahrajan": "فعالية بسطة الرياض",
+      "almadina": "الرياض"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان الورد الطائفي",
+      "almadina": "الطائف"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان جدة التاريخية",
+      "almadina": "جدة"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان الحارة المكية",
+      "almadina": "مكة المكرمة"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان جدة الغنائي",
+      "almadina": "جدة"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان البحر الأحمر السينمائي الدولي",
+      "almadina": "جدة"
+    },
+    {
+      "almintaqa": "منطقة مكة المكرمة",
+      "ism_almahrajan": "مهرجان رامين والأنمي",
+      "almadina": "جدة"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان البيضاء التراثي",
+      "almadina": "المدينة المنورة"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان أضواء المدينة",
+      "almadina": "المدينة المنورة"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان رضوى البري",
+      "almadina": "ينبع"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان الزهور والحدائق",
+      "almadina": "ينبع"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان شتاء طنطورة",
+      "almadina": "العلا"
+    },
+    {
+      "almintaqa": "منطقة المدينة المنورة",
+      "ism_almahrajan": "مهرجان فنون العلا",
+      "almadina": "العلا"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان جازان الشتوي",
+      "almadina": "جازان"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان الحريد السياحي",
+      "almadina": "جزيرة فرسان"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان البن",
+      "almadina": "الداير بني مالك"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان المانجو",
+      "almadina": "جازان"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان العسل بالعيدابي",
+      "almadina": "العيدابي"
+    },
+    {
+      "almintaqa": "منطقة جازان",
+      "ism_almahrajan": "مهرجان ليالي شتاء جازان",
+      "almadina": "جازان"
+    },
+    {
+      "almintaqa": "منطقة نجران",
+      "ism_almahrajan": "مهرجان كلنا نحب التراث",
+      "almadina": "نجران"
+    },
+    {
+      "almintaqa": "منطقة الحدود الشمالية",
+      "ism_almahrajan": "مهرجان صيف عرعر",
+      "almadina": "عرعر"
+    },
+    {
+      "almintaqa": "منطقة الحدود الشمالية",
+      "ism_almahrajan": "مهرجان صيف رفحاء",
+      "almadina": "رفحاء"
+    },
+    {
+      "almintaqa": "منطقة الجوف",
+      "ism_almahrajan": "مهرجان الزيتون بالجوف",
+      "almadina": "الجوف"
+    },
+    {
+      "almintaqa": "منطقة الجوف",
+      "ism_almahrajan": "مهرجان التمور بالجوف",
+      "almadina": "دومة الجندل"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "حسانا فله",
+      "almadina": "الأحساء"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان الدوخلة",
+      "almadina": "جزيرة تاروت"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان الساحل الشرقي",
+      "almadina": "الدمام"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان ريف الأحساء",
+      "almadina": "الأحساء"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان الجبيل الشتوي",
+      "almadina": "الجبيل"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان البشت الحساوي",
+      "almadina": "الأحساء"
+    },
+    {
+      "almintaqa": "المنطقة الشرقية",
+      "ism_almahrajan": "مهرجان المأكولات البحرية",
+      "almadina": "الخبر"
+    },
+    {
+      "almintaqa": "منطقة حائل",
+      "ism_almahrajan": "مهرجان الصحراء",
+      "almadina": "حائل"
+    },
+    {
+      "almintaqa": "منطقة حائل",
+      "ism_almahrajan": "رالي حائل",
+      "almadina": "حائل"
+    },
+    {
+      "almintaqa": "منطقة تبوك",
+      "ism_almahrajan": "مهرجان الورد والفاكهة",
+      "almadina": "تبوك"
+    },
+    {
+      "almintaqa": "منطقة تبوك",
+      "ism_almahrajan": "مهرجان الدار دارك",
+      "almadina": "ضباء"
+    },
+    {
+      "almintaqa": "منطقة تبوك",
+      "ism_almahrajan": "مهرجان الوجه وجهتنا",
+      "almadina": "الوجه"
+    },
+    {
+      "almintaqa": "منطقة القصيم",
+      "ism_almahrajan": "مهرجان المسوكف التراثي",
+      "almadina": "عنيزة"
+    },
+    {
+      "almintaqa": "منطقة القصيم",
+      "ism_almahrajan": "سوق بريدة للتمور",
+      "almadina": "بريدة"
+    },
+    {
+      "almintaqa": "منطقة القصيم",
+      "ism_almahrajan": "مهرجان الكليجا",
+      "almadina": "بريدة"
+    },
+    {
+      "almintaqa": "منطقة القصيم",
+      "ism_almahrajan": "مهرجان الغضا",
+      "almadina": "عنيزة"
+    },
+    {
+      "almintaqa": "منطقة القصيم",
+      "ism_almahrajan": "مهرجان الشعر النبطي",
+      "almadina": "بريدة"
+    },
+    {
+      "almintaqa": "منطقة عسير",
+      "ism_almahrajan": "مهرجان أبها الغنائي",
+      "almadina": "أبها"
+    },
+    {
+      "almintaqa": "منطقة عسير",
+      "ism_almahrajan": "مهرجان محايل الشتوي",
+      "almadina": "محايل عسير"
+    },
+    {
+      "almintaqa": "منطقة عسير",
+      "ism_almahrajan": "مهرجان العسل بأبها",
+      "almadina": "أبها"
+    },
+    {
+      "almintaqa": "منطقة عسير",
+      "ism_almahrajan": "مهرجان الكُتّاب والقرّاء",
+      "almadina": "خميس مشيط"
+    },
+    {
+      "almintaqa": "منطقة الباحة",
+      "ism_almahrajan": "مهرجان صيف الباحة",
+      "almadina": "الباحة"
+    },
+    {
+      "almintaqa": "منطقة الباحة",
+      "ism_almahrajan": "مهرجان العسل الدولي بالباحة",
+      "almadina": "الباحة"
+    }
+  ],
+  "meta": {
+    "title": "المهرجانات والمواسم الفنية والتراثية في السعودية - Free Download",
+    "description": "قائمة المهرجانات والمواسم والفعاليات الفنية والتراثية في المملكة العربية السعودية مصنفة حسب المنطقة الإدارية مع المدينة التي تقام فيها، من ويكيبيديا العربية. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "المهرجانات والمواسم الفنية والتراثية في السعودية | ListBase",
+    "seo_description": "Download المهرجانات والمواسم الفنية والتراثية في السعودية — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_المهرجانات_والمواسم_الفنية_في_السعودية"
+    ]
+  }
+}
