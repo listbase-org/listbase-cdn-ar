@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-23T02:26:10.113Z",
-  "total_datasets": 557,
-  "total_records": 156121,
+  "generated": "2026-11-24T02:21:41.855Z",
+  "total_datasets": 558,
+  "total_records": 156141,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -3548,6 +3548,30 @@
         "xlsx": {
           "name": "ar-alhalawiyat-alarabiya_AR.xlsx",
           "size": 18524
+        }
+      }
+    },
+    {
+      "id": "ar-alhalawiyat-almaghribiya",
+      "name": "الحلويات المغربية",
+      "category": "food",
+      "record_count": 20,
+      "columns": [
+        "ism_alhalwa",
+        "alwasf",
+        "almukawwinat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_الحلويات_المغربية",
+      "updated": "2026-11",
+      "size": 22259,
+      "files": {
+        "csv": {
+          "name": "ar-alhalawiyat-almaghribiya_AR.csv",
+          "size": 19056
+        },
+        "xlsx": {
+          "name": "ar-alhalawiyat-almaghribiya_AR.xlsx",
+          "size": 12870
         }
       }
     },
