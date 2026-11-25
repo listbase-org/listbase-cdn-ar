@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-24T02:22:05.552Z",
-  "total_datasets": 560,
-  "total_records": 156229,
+  "generated": "2026-11-25T02:28:07.360Z",
+  "total_datasets": 561,
+  "total_records": 156250,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -14246,6 +14246,30 @@
         "xlsx": {
           "name": "ar-yaman-a3yad-completos_AR.xlsx",
           "size": 45237
+        }
+      }
+    },
+    {
+      "id": "ar-aswaq-alahsa",
+      "name": "أسواق الأحساء الشعبية والتاريخية",
+      "category": "tourism",
+      "record_count": 21,
+      "columns": [
+        "ism_alsouq",
+        "almawqi",
+        "mulahazat"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_أسواق_الأحساء",
+      "updated": "2026-11",
+      "size": 6990,
+      "files": {
+        "csv": {
+          "name": "ar-aswaq-alahsa_AR.csv",
+          "size": 3472
+        },
+        "xlsx": {
+          "name": "ar-aswaq-alahsa_AR.xlsx",
+          "size": 7960
         }
       }
     },
