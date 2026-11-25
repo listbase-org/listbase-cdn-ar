@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-25T02:28:07.360Z",
-  "total_datasets": 561,
-  "total_records": 156250,
+  "generated": "2026-11-25T02:28:17.082Z",
+  "total_datasets": 562,
+  "total_records": 156363,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1466,6 +1466,38 @@
         "xlsx": {
           "name": "ar-sudud-almaghrib_AR.xlsx",
           "size": 8174
+        }
+      }
+    },
+    {
+      "id": "ar-sudud-mintaqat-asir",
+      "name": "سدود منطقة عسير في السعودية",
+      "category": "environment",
+      "record_count": 113,
+      "columns": [
+        "rutba",
+        "almuhafaza",
+        "ism_alsadd",
+        "alnaw",
+        "algharad",
+        "kamiyat_altakhzin_m3",
+        "alirtifa_m",
+        "altul_m",
+        "sanat_alinjaz_hijri",
+        "latitude",
+        "longitude"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_سدود_منطقة_عسير",
+      "updated": "2026-11",
+      "size": 42115,
+      "files": {
+        "csv": {
+          "name": "ar-sudud-mintaqat-asir_AR.csv",
+          "size": 13235
+        },
+        "xlsx": {
+          "name": "ar-sudud-mintaqat-asir_AR.xlsx",
+          "size": 14360
         }
       }
     },
