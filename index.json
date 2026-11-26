@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-25T02:28:17.082Z",
-  "total_datasets": 562,
-  "total_records": 156363,
+  "generated": "2026-11-26T02:06:54.723Z",
+  "total_datasets": 563,
+  "total_records": 156380,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -900,6 +900,32 @@
         "xlsx": {
           "name": "ar-jamiat-alurdun_AR.xlsx",
           "size": 8328
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-libya",
+      "name": "الجامعات الليبية",
+      "category": "education",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "founded",
+        "type",
+        "website",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_ليبيا",
+      "updated": "2026-11",
+      "size": 6801,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-libya_AR.csv",
+          "size": 3499
+        },
+        "xlsx": {
+          "name": "ar-jamiat-libya_AR.xlsx",
+          "size": 8174
         }
       }
     },
