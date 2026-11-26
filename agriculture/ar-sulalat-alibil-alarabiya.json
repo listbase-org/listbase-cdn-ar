@@ -1,0 +1,146 @@
+{
+  "id": "ar-sulalat-alibil-alarabiya",
+  "name": "سلالات الإبل في الدول العربية",
+  "title": "سلالات الإبل في الدول العربية",
+  "description": "قائمة بسلالات الإبل المعروفة في الدول العربية (السودان، السعودية، الإمارات، المغرب، الجزائر، الأردن، تونس) مع منطقة أصلها، مستخرجة من ويكيبيديا العربية.",
+  "category": "agriculture",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_سلالات_الإبل",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_سلالات_الإبل",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "breed",
+      "label": "Breed",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "origin_region",
+      "label": "Origin Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "breed": "البشاري",
+      "country": "السودان",
+      "origin_region": "شمال شرق وشرق السودان"
+    },
+    {
+      "breed": "الرشيدي",
+      "country": "السودان",
+      "origin_region": "شرق السودان"
+    },
+    {
+      "breed": "العنافي",
+      "country": "السودان",
+      "origin_region": "شرق السودان (ولاية كسلا)"
+    },
+    {
+      "breed": "الكباشي",
+      "country": "السودان",
+      "origin_region": "شمال و غرب كردفان ، شمال دارفور"
+    },
+    {
+      "breed": "الرفاعي",
+      "country": "السودان",
+      "origin_region": "ولاية الجزيرة ، ولاية سنار ، ولاية النيل الأزرق"
+    },
+    {
+      "breed": "العربي",
+      "country": "السودان",
+      "origin_region": ""
+    },
+    {
+      "breed": "العليا",
+      "country": "الأردن",
+      "origin_region": "وادي عربة وجنوب الأردن"
+    },
+    {
+      "breed": "الشعامبى",
+      "country": "الجزائر",
+      "origin_region": ""
+    },
+    {
+      "breed": "الرگيبي (أو الميهاري)",
+      "country": "الجزائر",
+      "origin_region": "غرب الصحراء الغربية (الجزائر، مالي، المغرب، موريتانيا)"
+    },
+    {
+      "breed": "الجمل التارڨي",
+      "country": "الجزائر",
+      "origin_region": "جنوب الجزائر"
+    },
+    {
+      "breed": "المجاهيم",
+      "country": "السعودية",
+      "origin_region": ""
+    },
+    {
+      "breed": "المغاتير(حمر، شقح، صفر، شعل، وضح)",
+      "country": "السعودية",
+      "origin_region": ""
+    },
+    {
+      "breed": "هجن(حراير ، مهجنه)",
+      "country": "السعودية",
+      "origin_region": ""
+    },
+    {
+      "breed": "الشاعرة",
+      "country": "الإمارات العربية المتحدة",
+      "origin_region": ""
+    },
+    {
+      "breed": "الخواره",
+      "country": "الإمارات العربية المتحدة",
+      "origin_region": ""
+    },
+    {
+      "breed": "كرزني",
+      "country": "المغرب",
+      "origin_region": ""
+    },
+    {
+      "breed": "جبلي",
+      "country": "المغرب",
+      "origin_region": ""
+    },
+    {
+      "breed": "الخواري",
+      "country": "المغرب",
+      "origin_region": ""
+    },
+    {
+      "breed": "مرموري",
+      "country": "المغرب",
+      "origin_region": ""
+    },
+    {
+      "breed": "الرگيبي (أو الميهاري أو الفقراوي)",
+      "country": "المغرب",
+      "origin_region": "غرب الصحراء الغربية (الجزائر، مالي، المغرب، موريتانيا)"
+    },
+    {
+      "breed": "المغربي",
+      "country": "تونس",
+      "origin_region": ""
+    }
+  ],
+  "meta": {
+    "title": "سلالات الإبل في الدول العربية - Free Download",
+    "description": "قائمة بسلالات الإبل المعروفة في الدول العربية (السودان، السعودية، الإمارات، المغرب، الجزائر، الأردن، تونس) مع منطقة أصلها، مستخرجة من ويكيبيديا العربية. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "سلالات الإبل في الدول العربية | ListBase",
+    "seo_description": "Download سلالات الإبل في الدول العربية — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_سلالات_الإبل"
+    ]
+  }
+}

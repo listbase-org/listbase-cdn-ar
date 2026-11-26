@@ -1,12 +1,12 @@
 {
   "lang": "ar",
-  "generated": "2026-11-26T02:07:05.175Z",
-  "total_datasets": 564,
-  "total_records": 156422,
+  "generated": "2026-11-26T02:07:14.642Z",
+  "total_datasets": 565,
+  "total_records": 156443,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -193,6 +193,30 @@
         "xlsx": {
           "name": "ar-intaj-altumur-aliraq_AR.xlsx",
           "size": 7018
+        }
+      }
+    },
+    {
+      "id": "ar-sulalat-alibil-alarabiya",
+      "name": "سلالات الإبل في الدول العربية",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "breed",
+        "country",
+        "origin_region"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_سلالات_الإبل",
+      "updated": "2026-11",
+      "size": 4886,
+      "files": {
+        "csv": {
+          "name": "ar-sulalat-alibil-alarabiya_AR.csv",
+          "size": 1507
+        },
+        "xlsx": {
+          "name": "ar-sulalat-alibil-alarabiya_AR.xlsx",
+          "size": 7497
         }
       }
     },
