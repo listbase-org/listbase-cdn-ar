@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-26T02:06:54.723Z",
-  "total_datasets": 563,
-  "total_records": 156380,
+  "generated": "2026-11-26T02:07:05.175Z",
+  "total_datasets": 564,
+  "total_records": 156422,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -953,6 +953,31 @@
         "xlsx": {
           "name": "ar-jamiat-misr_AR.xlsx",
           "size": 19891
+        }
+      }
+    },
+    {
+      "id": "ar-jamiat-wakuliyat-oman",
+      "name": "الجامعات والكليات في سلطنة عمان",
+      "category": "education",
+      "record_count": 42,
+      "columns": [
+        "name",
+        "founded",
+        "wilayat",
+        "governorate"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_سلطنة_عمان",
+      "updated": "2026-11",
+      "size": 10108,
+      "files": {
+        "csv": {
+          "name": "ar-jamiat-wakuliyat-oman_AR.csv",
+          "size": 4768
+        },
+        "xlsx": {
+          "name": "ar-jamiat-wakuliyat-oman_AR.xlsx",
+          "size": 8242
         }
       }
     },

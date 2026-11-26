@@ -1,0 +1,298 @@
+{
+  "id": "ar-jamiat-wakuliyat-oman",
+  "name": "الجامعات والكليات في سلطنة عمان",
+  "title": "الجامعات والكليات في سلطنة عمان",
+  "description": "قائمة الجامعات والكليات في سلطنة عمان حسب المحافظة، مع سنة التأسيس والولاية، مستخرجة من ويكيبيديا العربية.",
+  "category": "education",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_جامعات_سلطنة_عمان",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_جامعات_سلطنة_عمان",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "wilayat",
+      "label": "Wilayat",
+      "type": "string"
+    },
+    {
+      "key": "governorate",
+      "label": "Governorate",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "جامعة السلطان قابوس",
+      "founded": 1982,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية الخليج",
+      "founded": 2003,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية الدراسات المصرفية والمالية",
+      "founded": 1983,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "جامعة التقنية والعلوم التطبيقية (مسقط)",
+      "founded": 1984,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية مجان الجامعية",
+      "founded": 1995,
+      "wilayat": "روي",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الكلية الدولية للهندسة والإدارة",
+      "founded": 1995,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الجامعة الوطنية للعلوم والتكنولوجيا (كلية الهندسة)",
+      "founded": 1996,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية مسقط",
+      "founded": 1996,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الكلية الحديثة للأعمال والعلوم",
+      "founded": 1996,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الكلية التقنية العسكرية",
+      "founded": 1997,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية مزون",
+      "founded": 1999,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية الشرق الأوسط",
+      "founded": 2000,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية عمان للسياحة",
+      "founded": 2001,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الجامعة الألمانية للتكنولوجيا",
+      "founded": 2003,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الجامعة الوطنية للعلوم والتكنولوجيا (كلية الصيدلة)",
+      "founded": 2003,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية عمان للإدارة والتكنولوجيا",
+      "founded": 2004,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الكلية العلمية للتصميم",
+      "founded": 2004,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الجامعة العربية المفتوحة",
+      "founded": 2008,
+      "wilayat": "ولاية السيب",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "الكلية العالمية للهندسة والتكنولوجيا",
+      "founded": 2014,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "جامعة مسقط",
+      "founded": 2016,
+      "wilayat": "ولاية بوشر",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "كلية الزهراء للبنات",
+      "founded": 1999,
+      "wilayat": "مدينة العرفان",
+      "governorate": "محافظة مسقط"
+    },
+    {
+      "name": "جامعة صحار",
+      "founded": 2001,
+      "wilayat": "ولاية صحار",
+      "governorate": "محافظة شمال الباطنة"
+    },
+    {
+      "name": "الجامعة الوطنية للعلوم والتكنولوجيا (كلية الطب والعلوم الصحية)",
+      "founded": 2001,
+      "wilayat": "ولاية صحار",
+      "governorate": "محافظة شمال الباطنة"
+    },
+    {
+      "name": "جامعة التكنولوجيا والعلوم التطبيقية (شناص)",
+      "founded": 2005,
+      "wilayat": "ولاية شناص",
+      "governorate": "محافظة شمال الباطنة"
+    },
+    {
+      "name": "الجامعة الوطنية للعلوم والتكنولوجيا (الكلية البحرية الدولية عمان)",
+      "founded": 2005,
+      "wilayat": "ولاية صحار",
+      "governorate": "محافظة شمال الباطنة"
+    },
+    {
+      "name": "جامعة التقنية والعلوم التطبيقية (صحار)",
+      "founded": 2007,
+      "wilayat": "ولاية صحار",
+      "governorate": "محافظة شمال الباطنة"
+    },
+    {
+      "name": "جامعة التقنية والعلوم التطبيقية (نزوى)",
+      "founded": 1995,
+      "wilayat": "ولاية نزوى",
+      "governorate": "محافظة الداخلية"
+    },
+    {
+      "name": "جامعة نزوى",
+      "founded": 2004,
+      "wilayat": "ولاية نزوى",
+      "governorate": "محافظة الداخلية"
+    },
+    {
+      "name": "الجامعة التقنية والعلوم التطبيقية (المصنعة)",
+      "founded": 2001,
+      "wilayat": "المصنعة",
+      "governorate": "محافظة جنوب الباطنة"
+    },
+    {
+      "name": "الجامعة التقنية والعلوم التطبيقية (الرستاق)",
+      "founded": 2008,
+      "wilayat": "ولاية الرستاق",
+      "governorate": "محافظة جنوب الباطنة"
+    },
+    {
+      "name": "جامعة التقنية والعلوم التطبيقية (صلالة)",
+      "founded": 2001,
+      "wilayat": "صلالة",
+      "governorate": "محافظة ظفار"
+    },
+    {
+      "name": "جامعة ظفار",
+      "founded": 2004,
+      "wilayat": "صلالة",
+      "governorate": "محافظة ظفار"
+    },
+    {
+      "name": "كلية عمان للعلوم الصحية فرع ظفار",
+      "founded": 2018,
+      "wilayat": "صلالة",
+      "governorate": "محافظة ظفار"
+    },
+    {
+      "name": "كلية صور الجامعية",
+      "founded": 2001,
+      "wilayat": "ولاية صور",
+      "governorate": "محافظة جنوب الشرقية"
+    },
+    {
+      "name": "الجامعة التقنية والعلوم التطبيقية",
+      "founded": 2005,
+      "wilayat": "ولاية صور",
+      "governorate": "محافظة جنوب الشرقية"
+    },
+    {
+      "name": "الجامعة التقنية والعلوم التطبيقية",
+      "founded": 2001,
+      "wilayat": "ولاية إبراء",
+      "governorate": "محافظة شمال الشرقية"
+    },
+    {
+      "name": "جامعة الشرقية",
+      "founded": 2009,
+      "wilayat": "ولاية إبراء",
+      "governorate": "محافظة شمال الشرقية"
+    },
+    {
+      "name": "كلية عمان للعلوم الصحية",
+      "founded": 2018,
+      "wilayat": "",
+      "governorate": "محافظة شمال الشرقية"
+    },
+    {
+      "name": "جامعة التكنولوجيا والعلوم التطبيقية",
+      "founded": 2007,
+      "wilayat": "عبري",
+      "governorate": "محافظة الظاهرة"
+    },
+    {
+      "name": "كلية البريمي الجامعية",
+      "founded": 2003,
+      "wilayat": "البريمي",
+      "governorate": "محافظة البريمي"
+    },
+    {
+      "name": "جامعة البريمي",
+      "founded": 2010,
+      "wilayat": "البريمي",
+      "governorate": "محافظة البريمي"
+    },
+    {
+      "name": "جامعة التقنية والعلوم التطبيقية",
+      "founded": 2024,
+      "wilayat": "ولاية خصب",
+      "governorate": "محافظة مسندم"
+    }
+  ],
+  "meta": {
+    "title": "الجامعات والكليات في سلطنة عمان - Free Download",
+    "description": "قائمة الجامعات والكليات في سلطنة عمان حسب المحافظة، مع سنة التأسيس والولاية، مستخرجة من ويكيبيديا العربية. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الجامعات والكليات في سلطنة عمان | ListBase",
+    "seo_description": "Download الجامعات والكليات في سلطنة عمان — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_جامعات_سلطنة_عمان"
+    ]
+  }
+}
