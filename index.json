@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-27T02:09:44.155Z",
-  "total_datasets": 566,
-  "total_records": 156567,
+  "generated": "2026-11-27T02:09:52.640Z",
+  "total_datasets": 567,
+  "total_records": 156593,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -9943,6 +9943,32 @@
         "xlsx": {
           "name": "ar-hukkam-alkuwait_AR.xlsx",
           "size": 7784
+        }
+      }
+    },
+    {
+      "id": "ar-hukkam-oman-alyaariba-walbusaid",
+      "name": "حكام عمان من اليعاربة والبوسعيد",
+      "category": "history",
+      "record_count": 26,
+      "columns": [
+        "no",
+        "name",
+        "dynasty",
+        "reign_start",
+        "reign_end"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_سلاطين_عمان",
+      "updated": "2026-11",
+      "size": 7367,
+      "files": {
+        "csv": {
+          "name": "ar-hukkam-oman-alyaariba-walbusaid_AR.csv",
+          "size": 2805
+        },
+        "xlsx": {
+          "name": "ar-hukkam-oman-alyaariba-walbusaid_AR.xlsx",
+          "size": 7954
         }
       }
     },

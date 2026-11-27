@@ -1,0 +1,233 @@
+{
+  "id": "ar-hukkam-oman-alyaariba-walbusaid",
+  "name": "حكام عمان من اليعاربة والبوسعيد",
+  "title": "حكام عمان من اليعاربة والبوسعيد",
+  "description": "قائمة أئمة وسلاطين عُمان من دولة اليعاربة (1624–1749) والدولة البوسعيدية (منذ 1749) مع تواريخ بداية الحكم ونهايته، مستخرجة من ويكيبيديا العربية.",
+  "category": "history",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_سلاطين_عمان",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_سلاطين_عمان",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "dynasty",
+      "label": "Dynasty",
+      "type": "string"
+    },
+    {
+      "key": "reign_start",
+      "label": "Reign Start",
+      "type": "number"
+    },
+    {
+      "key": "reign_end",
+      "label": "Reign End",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "ناصر بن مرشد بن مالك اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1624",
+      "reign_end": "1649"
+    },
+    {
+      "no": 2,
+      "name": "سلطان بن سيف بن مالك اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1649",
+      "reign_end": "1679"
+    },
+    {
+      "no": 3,
+      "name": "بلعرب بن سلطان بن سيف اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1679",
+      "reign_end": "1692"
+    },
+    {
+      "no": 4,
+      "name": "سيف بن سلطان بن سيف اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1692",
+      "reign_end": "1711"
+    },
+    {
+      "no": 5,
+      "name": "سلطان الثاني بن سيف اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1711",
+      "reign_end": "1719"
+    },
+    {
+      "no": 6,
+      "name": "مهنا بن سلطان بن ماجد اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1718",
+      "reign_end": "1720"
+    },
+    {
+      "no": 7,
+      "name": "يعرب بن بلعرب بن سلطان اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1721",
+      "reign_end": "1722"
+    },
+    {
+      "no": 8,
+      "name": "محمد بن ناصر الغافري",
+      "dynasty": "اليعاربة",
+      "reign_start": "1724",
+      "reign_end": "1728"
+    },
+    {
+      "no": 9,
+      "name": "سيف الثاني بن سلطان اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1728",
+      "reign_end": "1732"
+    },
+    {
+      "no": 10,
+      "name": "بلعرب بن حمير اليعربي (الفترة الأولى)",
+      "dynasty": "اليعاربة",
+      "reign_start": "1732",
+      "reign_end": "1738"
+    },
+    {
+      "no": 11,
+      "name": "سلطان بن مرشد اليعربي",
+      "dynasty": "اليعاربة",
+      "reign_start": "1741",
+      "reign_end": "1743"
+    },
+    {
+      "no": 12,
+      "name": "بلعرب بن حمير اليعربي (الفترة الثانية)",
+      "dynasty": "اليعاربة",
+      "reign_start": "1745",
+      "reign_end": "1748"
+    },
+    {
+      "no": 1,
+      "name": "أحمد بن سعيد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "10 يونيو 1749",
+      "reign_end": "15 ديسمبر 1783"
+    },
+    {
+      "no": 2,
+      "name": "سعيد بن أحمد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "1783",
+      "reign_end": "1810"
+    },
+    {
+      "no": 3,
+      "name": "حمد بن سعيد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "1784",
+      "reign_end": "1792"
+    },
+    {
+      "no": 4,
+      "name": "سلطان بن أحمد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "13 مارس 1791",
+      "reign_end": "20 نوفمبر 1804"
+    },
+    {
+      "no": 5,
+      "name": "سعيد بن سلطان بن أحمد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "14 سبتمبر 1804",
+      "reign_end": "19 أكتوبر 1856"
+    },
+    {
+      "no": 6,
+      "name": "ثويني بن سعيد بن سلطان البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "19 أكتوبر 1856",
+      "reign_end": "11 فبراير 1866"
+    },
+    {
+      "no": 7,
+      "name": "سالم بن ثويني بن سعيد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "11 فبراير 1866",
+      "reign_end": "3 أكتوبر 1868"
+    },
+    {
+      "no": 8,
+      "name": "عزان بن قيس بن عزان البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "3 أكتوبر 1868",
+      "reign_end": "30 يناير 1871"
+    },
+    {
+      "no": 9,
+      "name": "تركي بن سعيد بن سلطان البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "30 يناير 1871",
+      "reign_end": "4 يونيو 1888"
+    },
+    {
+      "no": 10,
+      "name": "فيصل بن تركي بن سعيد البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "4 يونيو 1888",
+      "reign_end": "9 أكتوبر 1913"
+    },
+    {
+      "no": 11,
+      "name": "تيمور بن فيصل بن تركي البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "9 أكتوبر 1913",
+      "reign_end": "10 فبراير 1932"
+    },
+    {
+      "no": 12,
+      "name": "سعيد بن تيمور بن فيصل البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "10 فبراير 1932",
+      "reign_end": "23 يوليو 1970"
+    },
+    {
+      "no": 13,
+      "name": "قابوس بن سعيد بن تيمور البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "23 يوليو 1970",
+      "reign_end": "10 يناير 2020"
+    },
+    {
+      "no": 14,
+      "name": "هيثم بن طارق بن تيمور البوسعيدي",
+      "dynasty": "البوسعيد",
+      "reign_start": "11 يناير 2020",
+      "reign_end": "حتى الآن"
+    }
+  ],
+  "meta": {
+    "title": "حكام عمان من اليعاربة والبوسعيد - Free Download",
+    "description": "قائمة أئمة وسلاطين عُمان من دولة اليعاربة (1624–1749) والدولة البوسعيدية (منذ 1749) مع تواريخ بداية الحكم ونهايته، مستخرجة من ويكيبيديا العربية. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "حكام عمان من اليعاربة والبوسعيد | ListBase",
+    "seo_description": "Download حكام عمان من اليعاربة والبوسعيد — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_سلاطين_عمان"
+    ]
+  }
+}
