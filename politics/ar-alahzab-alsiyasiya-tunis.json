@@ -1,0 +1,1048 @@
+{
+  "id": "ar-alahzab-alsiyasiya-tunis",
+  "name": "الأحزاب السياسية في تونس",
+  "title": "الأحزاب السياسية في تونس",
+  "description": "قائمة الأحزاب السياسية المرخصة في تونس مع الاختصار وتاريخ الترخيص والتوجه الفكري والمسؤول الأول، مستخرجة من ويكيبيديا العربية.",
+  "category": "politics",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_تونس",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_تونس",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "licensed",
+      "label": "Licensed",
+      "type": "string"
+    },
+    {
+      "key": "ideology",
+      "label": "Ideology",
+      "type": "string"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "abbreviation": "MDS",
+      "name": "حركة الديمقراطيين الاشتراكيين",
+      "licensed": "19 نوفمبر 1983",
+      "ideology": "ديمقراطية اشتراكية",
+      "leader": "أحمد الخصخوصي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PUP",
+      "name": "حزب الوحدة الشعبية (تونس)",
+      "licensed": "19 نوفمبر 1983",
+      "ideology": "اشتراكية ، قومية عربية",
+      "leader": "حسين الهمامي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PDP",
+      "name": "الحزب الديمقراطي التقدمي",
+      "licensed": "12 سبتمبر 1988",
+      "ideology": "وسطي",
+      "leader": "مية الجريبي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PSL",
+      "name": "الحزب الاجتماعي التحرري",
+      "licensed": "12 سبتمبر 1988",
+      "ideology": "الليبرالية",
+      "leader": "منذر ثابت",
+      "notes": ""
+    },
+    {
+      "abbreviation": "UDU",
+      "name": "الاتحاد الديمقراطي الوحدوي",
+      "licensed": "30 نوفمبر 1988",
+      "ideology": "الاشتراكية ، قومية عربية",
+      "leader": "أحمد إينوبلي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "ME",
+      "name": "حركة التجديد",
+      "licensed": "14 سبتمبر 1993",
+      "ideology": "وسط اليسار",
+      "leader": "أحمد إبراهيم",
+      "notes": ""
+    },
+    {
+      "abbreviation": "FDTL",
+      "name": "التكتل الديمقراطي من أجل العمل والحريات",
+      "licensed": "25 أكتوبر 2002",
+      "ideology": "اشتراكية ديمقراطية",
+      "leader": "مصطفى بن جعفر",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PVP",
+      "name": "حزب الخضر للتقدم",
+      "licensed": "3 مارس 2006",
+      "ideology": "خضر,بيئي",
+      "leader": "منجي الخماسي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PTV",
+      "name": "حزب تونس الخضراء",
+      "licensed": "17 جانفي 2011",
+      "ideology": "خضر",
+      "leader": "عبد القادر الزيتوني",
+      "notes": "أسس عام 2004"
+    },
+    {
+      "abbreviation": "PSG",
+      "name": "الحزب الاشتراكي اليساري",
+      "licensed": "17 جانفي 2011",
+      "ideology": "ماركسية",
+      "leader": "محمد الكيلاني",
+      "notes": "أسس عام 2006"
+    },
+    {
+      "abbreviation": "PTPD",
+      "name": "حزب العمل الوطني الديمقراطي",
+      "licensed": "19 جانفي 2011",
+      "ideology": "ماركسية",
+      "leader": "عبد الرزاق الهمامي",
+      "notes": "أسس عام 2005"
+    },
+    {
+      "abbreviation": "MB",
+      "name": "حركة البعث",
+      "licensed": "22 جانفي 2011",
+      "ideology": "الاشتراكية والقومية العربية",
+      "leader": "عثمان بالحاج عمر",
+      "notes": ""
+    },
+    {
+      "abbreviation": "NAH",
+      "name": "حركة النهضة",
+      "licensed": "1 مارس 2011",
+      "ideology": "إسلامية",
+      "leader": "راشد الغنوشي",
+      "notes": "أسس عام 1972"
+    },
+    {
+      "abbreviation": "PCS",
+      "name": "حزب الوسط الاجتماعي",
+      "licensed": "24 فيفري 2011",
+      "ideology": "اشتراكي ديمقراطي، تقدمي",
+      "leader": "عمار سلامة",
+      "notes": "أسس عام 2007"
+    },
+    {
+      "abbreviation": "PDE",
+      "name": "حزب الكرامة والمساواة",
+      "licensed": "3 مارس 2011",
+      "ideology": "وسطي، إسلامي",
+      "leader": "رياض العامري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MUL",
+      "name": "حركة الوحدويين الأحرار",
+      "licensed": "3 مارس 2011",
+      "ideology": "اشتراكية القومية العربية",
+      "leader": "بشير البجاوي",
+      "notes": "مؤسسه كان عضوا في الاتحاد الديمقراطي الوحدوي"
+    },
+    {
+      "abbreviation": "PJD",
+      "name": "حزب الشباب الديمقراطي",
+      "licensed": "3 مارس 2011",
+      "ideology": "ليبرالية",
+      "leader": "شاكر سعيد",
+      "notes": "أسسه أعضاء سابقون في حزب الخضر للتقدم"
+    },
+    {
+      "abbreviation": "PEE",
+      "name": "حزب العدالة والمساواة",
+      "licensed": "3 مارس 2011",
+      "ideology": "يمين الوسط",
+      "leader": "شكري الغضاب",
+      "notes": "مقره في مدينة سوسة"
+    },
+    {
+      "abbreviation": "MRJS",
+      "name": "حركة الإصلاح والعدالة الاجتماعية",
+      "licensed": "3 مارس 2011",
+      "ideology": "وسطي، إصلاحي",
+      "leader": "مصطفى بدري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MNJD",
+      "name": "الحركة الوطنية للعدالة والتنمية",
+      "licensed": "3 مارس 2011",
+      "ideology": "وسطي",
+      "leader": "مراد الرويسي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "AW",
+      "name": "حزب الوطن",
+      "licensed": "4 مارس 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "محمد جغام",
+      "notes": "مؤسسه كان عضوا في الديوان السياسي للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "MP",
+      "name": "حركة الشعب",
+      "licensed": "8 مارس 2011",
+      "ideology": "ناصري",
+      "leader": "محمد الإبراهمي ·",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLT",
+      "name": "حزب الأحرار التونسي",
+      "licensed": "8 مارس 2011",
+      "ideology": "ليبرالية",
+      "leader": "منير بعطور",
+      "notes": "عدد من مؤسسيه كانوا ينتمون للحزب الاجتماعي التحرري"
+    },
+    {
+      "abbreviation": "PLD",
+      "name": "حزب الحرية والتنمية",
+      "licensed": "8 مارس 2011",
+      "ideology": "وسطي",
+      "leader": "بدر الدين الربيعي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLJD",
+      "name": "حزب الحرية من أجل العدالة والتنمية",
+      "licensed": "8 مارس 2011",
+      "ideology": "ليبرالية اجتماعية",
+      "leader": "حاتم اليحياوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MJLT",
+      "name": "حركة شباب تونس الأحرار",
+      "licensed": "8 مارس 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "الصحبي مختار",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MUP",
+      "name": "حركة الوحدة الشعبية",
+      "licensed": "8 مارس 2011",
+      "ideology": "اشتراكية",
+      "leader": "أحمد بن صالح",
+      "notes": "أسس عام 1973"
+    },
+    {
+      "abbreviation": "CPR",
+      "name": "المؤتمر من أجل الجمهورية",
+      "licensed": "8 مارس 2011",
+      "ideology": "ديمقراطية اشتراكية",
+      "leader": "المنصف المرزوقي",
+      "notes": "أسس عام 2001"
+    },
+    {
+      "abbreviation": "PA",
+      "name": "حزب المستقبل",
+      "licensed": "9 مارس 2011",
+      "ideology": "ليبرالية",
+      "leader": "الصحبي البصلي",
+      "notes": "مؤسسه كان منتميا للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PJL",
+      "name": "حزب العدالة والحرية",
+      "licensed": "12 مارس 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "سهيل الصالحي",
+      "notes": "مؤسسه كان عضوا في الحزب الاشتراكي الدستوري ثم في التجمع الدستوري الديمقراطي حتى بداية التسعينات"
+    },
+    {
+      "abbreviation": "PADD",
+      "name": "حزب المستقبل من أجل التنمية والديمقراطية",
+      "licensed": "12 مارس 2011",
+      "ideology": "اشتراكية علمية",
+      "leader": "سميح السحيمي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MOUPAD",
+      "name": "حزب الوطنيين الديمقراطيين الموحد",
+      "licensed": "12 مارس 2011",
+      "ideology": "اشتراكية علمية",
+      "leader": "شكري بلعيد",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PJRL",
+      "name": "حزب الشباب للثورة والحرية",
+      "licensed": "14 مارس 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "حمادي القعود",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PDJD",
+      "name": "حزب الكرامة من أجل العدالة والتنمية",
+      "licensed": "14 مارس 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "فخر الغضاب بن سالم",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PR",
+      "name": "الحزب الجمهوري",
+      "licensed": "14 مارس 2011",
+      "ideology": "اليمين",
+      "leader": "عبد العزيز بلخوجة",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PCOT",
+      "name": "حزب العمال",
+      "licensed": "18 مارس 2011",
+      "ideology": "شيوعية ، ماركسية لينينية",
+      "leader": "حمة الهمامي",
+      "notes": "تاسس في (3 جانفي 1986) تحت اسم حزب العمال الشيوعي التونس"
+    },
+    {
+      "abbreviation": "PRLE",
+      "name": "الحزب الجمهوري للحرية والعدالة",
+      "licensed": "18 مارس 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "بشير فتح الله",
+      "notes": "مؤسسه كان عضوا في اللجنة المركزية للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PRJL",
+      "name": "حزب اللقاء الشبابي الحر",
+      "licensed": "18 مارس 2011",
+      "ideology": "وسطي",
+      "leader": "محمد العياري",
+      "notes": "أسسه منتمون سابقون في التجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PJD",
+      "name": "حزب العدل والتنمية",
+      "licensed": "18 مارس 2011",
+      "ideology": "إسلامي",
+      "leader": "محمد صالح الحدري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PAAD",
+      "name": "حزب الطليعة العربي الديمقراطي",
+      "licensed": "18 مارس 2011",
+      "ideology": "اشتراكية القومية العربية",
+      "leader": "خير الدين الصوابني",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PDD",
+      "name": "حزب الكرامة والتنمية",
+      "licensed": "18 مارس 2011",
+      "ideology": "إسلامية",
+      "leader": "عبد الواحد اليحياوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLP",
+      "name": "حزب النضال التقدمي",
+      "licensed": "18 مارس 2011",
+      "ideology": "ماركسية لينينية",
+      "leader": "محمد الأسود",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MPUP",
+      "name": "حركة الشعب الوحدوية التقدمية",
+      "licensed": "20 مارس 2011",
+      "ideology": "ناصري",
+      "leader": "خالد الكريشي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PGM",
+      "name": "حزب اليسار الحديث",
+      "licensed": "22 مارس 2011",
+      "ideology": "اليسار",
+      "leader": "فيصل الزمني",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLM",
+      "name": "الحزب الليبرالي المغاربي",
+      "licensed": "22 مارس 2011",
+      "ideology": "ليبرالية",
+      "leader": "بوصيري البوعبدلي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "RRD",
+      "name": "| اللقاء الإصلاحي الديمقراطي",
+      "licensed": "22 مارس 2011",
+      "ideology": "إسلامي",
+      "leader": "خالد الطراولي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PPLP",
+      "name": "الحزب الشعبي للحرية والتقدم",
+      "licensed": "22 مارس 2011",
+      "ideology": "اشتراكية",
+      "leader": "جلول عزونة",
+      "notes": "مؤسسه كان قياديا في حزب الوحدة الشعبية"
+    },
+    {
+      "abbreviation": "PR14",
+      "name": "حزب قوى الرابع عشر من جانفي 2011",
+      "licensed": "22 مارس 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "وحيد ذياب",
+      "notes": "مقره في مدينة صفاقس"
+    },
+    {
+      "abbreviation": "AM",
+      "name": "حزب المجد",
+      "licensed": "24 مارس 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "عبد الوهاب الهاني",
+      "notes": ""
+    },
+    {
+      "abbreviation": "AT",
+      "name": "آفاق تونس",
+      "licensed": "28 مارس 2011",
+      "ideology": "ليبرالية",
+      "leader": "محمد الوزير",
+      "notes": ""
+    },
+    {
+      "abbreviation": "LI",
+      "name": "حزب المبادرة",
+      "licensed": "أبريل 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "كمال مرجان",
+      "notes": "مؤسسه كان عضوا في الديوان السياسي للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "MDD",
+      "name": "حركة الكرامة واليمقراطية",
+      "licensed": "21 أفريل 2011",
+      "ideology": "وسطي",
+      "leader": "محمد غماض",
+      "notes": ""
+    },
+    {
+      "abbreviation": "UPR",
+      "name": "الاتحاد الشعبي الجمهوري",
+      "licensed": "22 أفريل 2011",
+      "ideology": "ليبرالية اجتماعية",
+      "leader": "لطفي المرايحي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "ANPP",
+      "name": "التحالف الوطني للسلام والنماء",
+      "licensed": "22 أفريل 2011",
+      "ideology": "وسطي",
+      "leader": "اسكندر الرقيق",
+      "notes": ""
+    },
+    {
+      "abbreviation": "FPU",
+      "name": "الجبهة الشعبية الوحدوية",
+      "licensed": "22 أفريل 2011",
+      "ideology": "اشتراكية القومية العربية",
+      "leader": "عمر الماجري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PRD",
+      "name": "حزب الإصلاح والتنمية",
+      "licensed": "22 أفريل 2011",
+      "ideology": "إسلامي تقدمي",
+      "leader": "محمد القوماني",
+      "notes": "كان ينشط كتيار في الحزب الديمقراطي التقدمي"
+    },
+    {
+      "abbreviation": "PRD",
+      "name": "الحزب الإصلاحي الدستوري",
+      "licensed": "22 أفريل 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "فوزي اللومي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PRL",
+      "name": "حزب الجمهوريين الأحرار",
+      "licensed": "22 أفريل 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "نزيه الصويعي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PIL",
+      "name": "حزب الإستقلال من أجل الحرية",
+      "licensed": "22 أفريل 2011",
+      "ideology": "وسطي، إصلاحي",
+      "leader": "الأمين كواش",
+      "notes": "أسسه منتمون سابقون في التجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "AT",
+      "name": "التحالف من أجل تونس",
+      "licensed": "22 أفريل 2011",
+      "ideology": "وسطي",
+      "leader": "كريم الميساوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "JDP",
+      "name": "حزب العدالة والتنمية",
+      "licensed": "22 أفريل 2011",
+      "ideology": "إسلامية",
+      "leader": "عبد الرزاق بالعربي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PDA",
+      "name": "حزب الكرامة والعمل",
+      "licensed": "22 أفريل 2011",
+      "ideology": "وسطي",
+      "leader": "عادل الهنتاتي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "AR",
+      "name": "حزب الوفاق",
+      "licensed": "27 أفريل 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "مصطفى صاحب الطابع",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PTT",
+      "name": "حزب العمل التونسي",
+      "licensed": "28 أفريل 2011",
+      "ideology": "عمالي",
+      "leader": "عبد الجليل البدوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PTEK",
+      "name": "حزب تونس الكرامة",
+      "licensed": "28 أفريل 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "لزهر بالي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PFT",
+      "name": "حزب الوفاء لتونس",
+      "licensed": "28 أفريل 2011",
+      "ideology": "ديمقراطي اشتراكي",
+      "leader": "أنور الطاهري",
+      "notes": "مقره في بلدة المكناسي"
+    },
+    {
+      "abbreviation": "MDER",
+      "name": "الحركة الديمقراطية للإصلاح والبناء",
+      "licensed": "28 أفريل 2011",
+      "ideology": "وسطي",
+      "leader": "آمنة منصور القروي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MRT",
+      "name": "الحركة الإصلاحية التونسية",
+      "licensed": "2 ماي 2011",
+      "ideology": "وسطي، إصلاحي",
+      "leader": "عمر صحابو",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MV",
+      "name": "حركة الفضيلة",
+      "licensed": "19 ماي 2011",
+      "ideology": "يمين الوسط",
+      "leader": "رمزي الخليفي",
+      "notes": "مؤسسه كان عضوا في حزب الخضر للتقدم"
+    },
+    {
+      "abbreviation": "PUR",
+      "name": "حزب الوحدة والإصلاح",
+      "licensed": "19 ماي 2011",
+      "ideology": "إسلامية",
+      "leader": "الهادي العايب وعز الدين بوعافية",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PPPD",
+      "name": "حزب الشعب من أجل الوطن والديمقراطية (حشود)",
+      "licensed": "",
+      "ideology": "اشتراكية علمية",
+      "leader": "زين العابدين الورتتاني",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MB",
+      "name": "حركة بلادي",
+      "licensed": "19 ماي 2011",
+      "ideology": "",
+      "leader": "كمال الوحيشي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PPP",
+      "name": "حزب التقدم",
+      "licensed": "19 ماي 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "فتحي التوزري",
+      "notes": "مؤسسه كان عضوا في الحزب الديمقراطي التقدمي"
+    },
+    {
+      "abbreviation": "PNCU",
+      "name": "حزب الأمة الثقافي الوحدوي",
+      "licensed": "19 ماي 2011",
+      "ideology": "القومية العربية",
+      "leader": "محمد حمدي",
+      "notes": "مقره في مدينة سوسة"
+    },
+    {
+      "abbreviation": "AI",
+      "name": "الإرادة",
+      "licensed": "19 ماي 2011",
+      "ideology": "وسطي",
+      "leader": "محمد لطفي الآجري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MC",
+      "name": "حركة مواطنة",
+      "licensed": "19 ماي 2011",
+      "ideology": "يمين الوسط",
+      "leader": "عامر الجريدي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PJSD",
+      "name": "حزب العدالة الاجتماعي الديمقراطي",
+      "licensed": "19 ماي 2011",
+      "ideology": "اجتماعي ديمقراطي",
+      "leader": "أمين المناعي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MCJ",
+      "name": "حركة المواطنة والعدالة",
+      "licensed": "19 ماي 2011",
+      "ideology": "اليسار",
+      "leader": "جمال التليلي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "UPL",
+      "name": "الاتحاد الوطني الحر",
+      "licensed": "19 ماي 2011",
+      "ideology": "اليمين",
+      "leader": "سليم الرياحي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PRN",
+      "name": "حزب المسؤولية الوطنية",
+      "licensed": "19 ماي 2011",
+      "ideology": "",
+      "leader": "زهير الحرباوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PDJP",
+      "name": "الحزب الديمقراطي للعدالة والرخاء",
+      "licensed": "19 ماي 2011",
+      "ideology": "",
+      "leader": "سالم الشايبي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MDD",
+      "name": "حركة الديمقراطية والتنمية",
+      "licensed": "24 ماي 2011",
+      "ideology": "ليبرالية",
+      "leader": "عبد الرحمن بهلول",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLDTD",
+      "name": "الحزب الحر الدستوري التونسي الديمقراطي",
+      "licensed": "24 ماي 2011",
+      "ideology": "",
+      "leader": "عبد المجيد شاكر",
+      "notes": "مؤسسوه كانوا قياديين في الحزب الاشتراكي الدستوري"
+    },
+    {
+      "abbreviation": "AA",
+      "name": "حزب الأمانة",
+      "licensed": "30 ماي 2011",
+      "ideology": "يمين الوسط",
+      "leader": "فتحي العيوني",
+      "notes": ""
+    },
+    {
+      "abbreviation": "M2R",
+      "name": "حركة الجمهورية الثانية",
+      "licensed": "30 ماي 2011",
+      "ideology": "اليمين",
+      "leader": "طارق المكي",
+      "notes": "أسس عام 2007 في كندا"
+    },
+    {
+      "abbreviation": "LTM",
+      "name": "تونس الحديثة",
+      "licensed": "24 ماي 2011",
+      "ideology": "وسطي",
+      "leader": "الأمين ليمام",
+      "notes": "مقره في قصور الساف"
+    },
+    {
+      "abbreviation": "MTAM",
+      "name": "الحركة التونسية للعمل المغاربي",
+      "licensed": "24 ماي 2011",
+      "ideology": "إسلامية",
+      "leader": "محمد النوري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PVR",
+      "name": "حزب صوت الجمهورية",
+      "licensed": "30 ماي 2011",
+      "ideology": "اليمين الوسط",
+      "leader": "عبد الرزاق شريط",
+      "notes": "مؤسسه كان منتميا للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PPRT",
+      "name": "الحزب التقدمي الجمهوري التونسي",
+      "licensed": "4 ماي 2011",
+      "ideology": "اليسار",
+      "leader": "محمد البوخاري",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PM",
+      "name": "حزب الحداثة",
+      "licensed": "4 ماي 2011",
+      "ideology": "وسطي",
+      "leader": "عبد الرؤوف البعزاوي",
+      "notes": "أسسه منتمون سابقون للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "MTN",
+      "name": "حركة تونس الجديدة",
+      "licensed": "16 ماي 2011",
+      "ideology": "وسطي",
+      "leader": "مصطفى المصمودي",
+      "notes": "أسسه منتمون سابقون للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "CDS",
+      "name": "المؤتمر الديمقراطي الاجتماعي",
+      "licensed": "16 ماي 2011",
+      "ideology": "يمين الوسط",
+      "leader": "حسين المحمدي",
+      "notes": "أسسه منتمون سابقون للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "CAG",
+      "name": "تيار الغد",
+      "licensed": "16 ماي 2011",
+      "ideology": "",
+      "leader": "خليفة بن سالم وسمير المغراوي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PJL",
+      "name": "حزب الشباب الحر",
+      "licensed": "16 ماي 2011",
+      "ideology": "وسطي",
+      "leader": "فوزي بن جنات",
+      "notes": "أسسه منتمون سابقون للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PDSN",
+      "name": "حزب الأمة الديمقراطي الاجتماعي",
+      "licensed": "15 جويلية 2011",
+      "ideology": "القومية العربية",
+      "leader": "المنصف الشابي",
+      "notes": "مؤسسه كان عضوا في الاتحاد الديمقراطي الوحدوي"
+    },
+    {
+      "abbreviation": "JTD",
+      "name": "شباب تونس الغد",
+      "licensed": "15 جويلية 2011",
+      "ideology": "",
+      "leader": "حسني الطيب",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MCD",
+      "name": "حركة الثقافة والتنوع",
+      "licensed": "15 جويلية 2011",
+      "ideology": "",
+      "leader": "علي العبيدي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PCP",
+      "name": "حزب المحافظين التقدميين",
+      "licensed": "15 جويلية 2011",
+      "ideology": "محافظ",
+      "leader": "الهاشمي الحامدي",
+      "notes": "مؤسسه كان عضوا في حركة النهضة"
+    },
+    {
+      "abbreviation": "PCA",
+      "name": "حزب الثقافة والعمل",
+      "licensed": "15 جويلية 2011",
+      "ideology": "اليسار",
+      "leader": "بلقاسم حسن",
+      "notes": "مؤسسه كان منتميا للحزب الديمقراطي التقدمي"
+    },
+    {
+      "abbreviation": "AR",
+      "name": "النداء الجمهوري",
+      "licensed": "15 جويلية 2011",
+      "ideology": "",
+      "leader": "رفعت الدالي",
+      "notes": "مؤسسه كان منتميا للحزب الديمقراطي التقدمي وناشطا في الجبهة التونسية للإنقاذ"
+    },
+    {
+      "abbreviation": "PND",
+      "name": "الحزب الدستوري الجديد",
+      "licensed": "15 جويلية 2011",
+      "ideology": "اليسار الوسط",
+      "leader": "أحمد منصور",
+      "notes": ""
+    },
+    {
+      "abbreviation": "MPT",
+      "name": "الحركة التقدمية التونسية",
+      "licensed": "15 جويلية 2011",
+      "ideology": "اليسار",
+      "leader": "مصطفى التواتي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PVT",
+      "name": "حزب المسار التونسي",
+      "licensed": "4",
+      "ideology": "ليبرالية اجتماعية",
+      "leader": "لطفي بوسنينة",
+      "notes": ""
+    },
+    {
+      "abbreviation": "VT",
+      "name": "صوت التونسي",
+      "licensed": "9",
+      "ideology": "يمين الوسط",
+      "leader": "عمر البجاوي",
+      "notes": "مؤسسه كان عضوا في اللجنة المركزية للتجمع الدستوري الديمقراطي"
+    },
+    {
+      "abbreviation": "PT",
+      "name": "الحزب التونسي",
+      "licensed": "12",
+      "ideology": "ليبرالية",
+      "leader": "مريم منور",
+      "notes": ""
+    },
+    {
+      "abbreviation": "UNB",
+      "name": "اتحاد البورقيبية الجديدة",
+      "licensed": "19",
+      "ideology": "اليمين الوسط",
+      "leader": "محسن الفقي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PNLJ",
+      "name": "حزب الأمة للحرية والعدالة",
+      "licensed": "19",
+      "ideology": "",
+      "leader": "العيد الحباشي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "POF",
+      "name": "حزب الانفتاح والوفاء",
+      "licensed": "19",
+      "ideology": "",
+      "leader": "البحري الجلاصي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLPD",
+      "name": "الحزب الحر الشعبي الديمقراطي",
+      "licensed": "19",
+      "ideology": "",
+      "leader": "عبد السلام الغيلوفي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PSP",
+      "name": "حزب السيادة للشعب",
+      "licensed": "21",
+      "ideology": "",
+      "leader": "خالد الشباح",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PP",
+      "name": "حزب الريادة",
+      "licensed": "21",
+      "ideology": "ليبرالية",
+      "leader": "مراد بن تركية",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PTN",
+      "name": "حزب الأمة التونسي",
+      "licensed": "21",
+      "ideology": "إسلامية",
+      "leader": "عبد السلام الفرجاني",
+      "notes": "مقره في مدينة منزل بورقيبة"
+    },
+    {
+      "abbreviation": "PAG",
+      "name": "حزب الطلائع",
+      "licensed": "21",
+      "ideology": "",
+      "leader": "",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PLMPT",
+      "name": "حزب التحرير والتحديث لإزدهار تونس",
+      "licensed": "21",
+      "ideology": "",
+      "leader": "",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PVP",
+      "name": "حزب القيم و الرقي",
+      "licensed": "21",
+      "ideology": "وسطي",
+      "leader": "مراد مريكش",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PRD",
+      "name": "حزب اللقاء الدستوري",
+      "licensed": "29",
+      "ideology": "وسطي",
+      "leader": "سامي شبراك",
+      "notes": "انشقاق عن الحزب الإصلاحي الدستوري"
+    },
+    {
+      "abbreviation": "PEWE",
+      "name": "الحزب الوطني التونسي",
+      "licensed": "29 جانفي 2012",
+      "ideology": "وسطي",
+      "leader": "",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PA",
+      "name": "حزب العهد",
+      "licensed": "12 جانفي 2012",
+      "ideology": "وسطي",
+      "leader": "",
+      "notes": ""
+    },
+    {
+      "abbreviation": "FNT",
+      "name": "الجبهة الوطنية التونسية",
+      "licensed": "07 أفريل 2012",
+      "ideology": "اشتراكي علمي",
+      "leader": "شاكر عواضي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "PEWE",
+      "name": "حزب التحرير (تونس)",
+      "licensed": "17 يوليو 2012",
+      "ideology": "إسلام سياسي",
+      "leader": "عبد المجيد الحبيبي",
+      "notes": "فرع من التنظيم الدولي لحزب التحرير"
+    },
+    {
+      "abbreviation": "MTA",
+      "name": "حركة تونس المستقبل",
+      "licensed": "2 جويلية 2013",
+      "ideology": "إجتماعي",
+      "leader": "أ.مروان سباعي",
+      "notes": ""
+    },
+    {
+      "abbreviation": "",
+      "name": "حركة نداء تونس",
+      "licensed": "7 جويلية 2012",
+      "ideology": "بورقيبية علمانية",
+      "leader": "الباجي قائد السبسي",
+      "notes": "تستند إلى الفكر الإصلاحي التونسي وإلى التراث الإنساني العالمي وقيم الحرية والعدالة الاجتماعية، وهي مفتوحة إلى مختلف التيارات الفكرية والسياسية التي تشترك معها في القيم الأساسية التالية"
+    },
+    {
+      "abbreviation": "TNP",
+      "name": "الحزب القومي التونسي",
+      "licensed": "10 ديسمبر 2018",
+      "ideology": "قومية تونسية",
+      "leader": "سفيان بن الصغير",
+      "notes": "حزب يعمل على تأسيس دولة تونسية قوية ومهابة و معتزة بتاريخها وهويتها، وتسعى إلى ترسيخ قيم المواطنة الحقيقية والمسؤولية والعدل وروح المبادرة الفردية وقيم التضحية، من أجل تحقيق أمجاد الأمة التونسية والإيمان بها وبقدسيتها و بالاعتماد على قدراتها الذاتية، وزرع فكرة جديدة للحياة في العقل التونسي قوامها التحدي والمغامرة لبلوغ القمم."
+    },
+    {
+      "abbreviation": "3R",
+      "name": "حزب الجمهورية الثالثة",
+      "licensed": "02 فيفري 2022",
+      "ideology": "وسطي - إقتصادي",
+      "leader": "ألفة الحامدي",
+      "notes": "حزب سياسي يهدف إلى توحيد رؤية التونسيين حول مقوّمات الجمهوريّة الثالثة التي ترتكز على الحريّة، العدل و النموّ"
+    }
+  ],
+  "meta": {
+    "title": "الأحزاب السياسية في تونس - Free Download",
+    "description": "قائمة الأحزاب السياسية المرخصة في تونس مع الاختصار وتاريخ الترخيص والتوجه الفكري والمسؤول الأول، مستخرجة من ويكيبيديا العربية. Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "الأحزاب السياسية في تونس | ListBase",
+    "seo_description": "Download الأحزاب السياسية في تونس — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_الأحزاب_السياسية_في_تونس"
+    ]
+  }
+}
