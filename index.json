@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-27T02:09:52.640Z",
-  "total_datasets": 567,
-  "total_records": 156593,
+  "generated": "2026-11-27T02:10:02.837Z",
+  "total_datasets": 568,
+  "total_records": 156703,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -9776,6 +9776,29 @@
         "xlsx": {
           "name": "ar-mustashfayat-alsaudia_AR.xlsx",
           "size": 22327
+        }
+      }
+    },
+    {
+      "id": "ar-mustashfayat-alurdun",
+      "name": "مستشفيات الأردن حسب المحافظة",
+      "category": "health",
+      "record_count": 110,
+      "columns": [
+        "name",
+        "governorate"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مستشفيات_الأردن",
+      "updated": "2026-11",
+      "size": 13296,
+      "files": {
+        "csv": {
+          "name": "ar-mustashfayat-alurdun_AR.csv",
+          "size": 6246
+        },
+        "xlsx": {
+          "name": "ar-mustashfayat-alurdun_AR.xlsx",
+          "size": 9254
         }
       }
     },
