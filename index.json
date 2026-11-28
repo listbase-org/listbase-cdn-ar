@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-28T02:15:58.771Z",
-  "total_datasets": 570,
-  "total_records": 157061,
+  "generated": "2026-11-28T02:16:08.452Z",
+  "total_datasets": 571,
+  "total_records": 157091,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -770,6 +770,31 @@
         "xlsx": {
           "name": "ar-numuw-alnatij-almahalli-alhaqiqi-aldual-alarabiya_AR.xlsx",
           "size": 8382
+        }
+      }
+    },
+    {
+      "id": "ar-sharikat-altamin-alsaudia",
+      "name": "شركات التأمين المدرجة في السوق المالية السعودية",
+      "category": "economy",
+      "record_count": 30,
+      "columns": [
+        "tadawul_code",
+        "company",
+        "trading_name",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_شركات_التأمين_في_السعودية",
+      "updated": "2026-11",
+      "size": 7941,
+      "files": {
+        "csv": {
+          "name": "ar-sharikat-altamin-alsaudia_AR.csv",
+          "size": 3079
+        },
+        "xlsx": {
+          "name": "ar-sharikat-altamin-alsaudia_AR.xlsx",
+          "size": 7994
         }
       }
     },

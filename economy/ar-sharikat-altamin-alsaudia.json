@@ -1,0 +1,226 @@
+{
+  "id": "ar-sharikat-altamin-alsaudia",
+  "name": "شركات التأمين المدرجة في السوق المالية السعودية",
+  "title": "شركات التأمين المدرجة في السوق المالية السعودية",
+  "description": "قائمة شركات التأمين المدرجة في السوق المالية السعودية (تداول) مع رمز الشركة واسم التداول، مستخرجة من ويكيبيديا العربية.",
+  "category": "economy",
+  "source": "https://ar.wikipedia.org/wiki/قائمة_شركات_التأمين_في_السعودية",
+  "source_url": "https://ar.wikipedia.org/wiki/قائمة_شركات_التأمين_في_السعودية",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "tadawul_code",
+      "label": "Tadawul Code",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "trading_name",
+      "label": "Trading Name",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "tadawul_code": "8010",
+      "company": "الشركة التعاونية للتأمين",
+      "trading_name": "التعاونية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8260",
+      "company": "الشركة الخليجية العامة للتأمين التعاوني",
+      "trading_name": "الخليجية العامة",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8110",
+      "company": "الشركة السعودية الهندية للتأمين التعاوني",
+      "trading_name": "وفا للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8200",
+      "company": "الشركة السعودية لإعادة التأمين التعاوني",
+      "trading_name": "الإعادة السعودية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8280",
+      "company": "الشركة العالمية للتأمين التعاوني",
+      "trading_name": "العالمية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8100",
+      "company": "الشركة العربية السعودية للتأمين التعاوني",
+      "trading_name": "سايكو",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8190",
+      "company": "الشركة المتحدة للتأمين التعاوني",
+      "trading_name": "المتحدة للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8300",
+      "company": "الشركة الوطنية للتأمين",
+      "trading_name": "الوطنية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8150",
+      "company": "المجموعة المتحدة للتأمين التعاوني",
+      "trading_name": "أسيج",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8250",
+      "company": "شركة أكسا للتأمين التعاوني",
+      "trading_name": "اكسا التعاونية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8040",
+      "company": "شركة أليانز السعودي الفرنسي للتأمين التعاوني",
+      "trading_name": "أليانز إس إف",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8310",
+      "company": "شركة أمانة للتأمين التعاوني",
+      "trading_name": "أمانة للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8120",
+      "company": "شركة اتحاد الخليج للتأمين التعاوني",
+      "trading_name": "إتحاد الخليج",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8130",
+      "company": "شركة الأهلي للتكافل",
+      "trading_name": "الأهلي للتكافل",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8312",
+      "company": "شركة الإنماء طوكيو مارين",
+      "trading_name": "الإنماء طوكيو م",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8170",
+      "company": "شركة الاتحاد للتأمين التعاوني",
+      "trading_name": "الاتحاد",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8160",
+      "company": "شركة التأمين العربية التعاونية",
+      "trading_name": "التأمين العربية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8012",
+      "company": "شركة الجزيرة تكافل تعاوني",
+      "trading_name": "جزيرة تكافل",
+      "notes": "26 يناير 2021، اندماج مع شركة سوليدرتي"
+    },
+    {
+      "tadawul_code": "8070",
+      "company": "شركة الدرع العربي للتأمين التعاوني",
+      "trading_name": "الدرع العربي",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8230",
+      "company": "شركة الراجحي للتأمين التعاوني",
+      "trading_name": "تكافل الراجحي",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8180",
+      "company": "شركة الصقر للتأمين التعاوني",
+      "trading_name": "الصقر للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8030",
+      "company": "شركة المتوسط والخليج للتأمين وإعادة التأمين التعاوني",
+      "trading_name": "ميدغلف للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8270",
+      "company": "شركة بروج للتأمين التعاوني",
+      "trading_name": "بروج للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8210",
+      "company": "شركة بوبا العربية للتأمين التعاوني",
+      "trading_name": "بوبا العربية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8240",
+      "company": "شركة تشب العربية للتأمين التعاوني",
+      "trading_name": "تْشب",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8050",
+      "company": "شركة سلامة للتأمين التعاوني",
+      "trading_name": "سلامة",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8290",
+      "company": "شركة سوليدرتي السعودية للتكافل",
+      "trading_name": "سوليدرتي تكافل",
+      "notes": "26 يناير 2021، اندماج مع شركة الجزيرة تكافل تعاوني"
+    },
+    {
+      "tadawul_code": "8311",
+      "company": "شركة عناية السعودية للتأمين التعاوني",
+      "trading_name": "عناية",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8020",
+      "company": "شركة ملاذ للتأمين التعاوني",
+      "trading_name": "ملاذ للتأمين",
+      "notes": ""
+    },
+    {
+      "tadawul_code": "8060",
+      "company": "شركة ولاء للتأمين التعاوني",
+      "trading_name": "ولاء",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "شركات التأمين المدرجة في السوق المالية السعودية - Free Download",
+    "description": "قائمة شركات التأمين المدرجة في السوق المالية السعودية (تداول) مع رمز الشركة واسم التداول، مستخرجة من ويكيبيديا العربية. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "شركات التأمين المدرجة في السوق المالية السعودية | ListBase",
+    "seo_description": "Download شركات التأمين المدرجة في السوق المالية السعودية — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ar.wikipedia.org/wiki/قائمة_شركات_التأمين_في_السعودية"
+    ]
+  }
+}
