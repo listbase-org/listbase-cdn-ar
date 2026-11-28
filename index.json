@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-27T02:10:02.837Z",
-  "total_datasets": 568,
-  "total_records": 156703,
+  "generated": "2026-11-28T02:15:48.877Z",
+  "total_datasets": 569,
+  "total_records": 156822,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1213,6 +1213,32 @@
         "xlsx": {
           "name": "ar-mahrajanat-sinimaiya-arabia_AR.xlsx",
           "size": 8564
+        }
+      }
+    },
+    {
+      "id": "ar-musalsalat-ramadan-2015",
+      "name": "مسلسلات رمضان 2015",
+      "category": "entertainment",
+      "record_count": 119,
+      "columns": [
+        "title",
+        "country",
+        "genre",
+        "director",
+        "cast"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_مسلسلات_رمضان_2015",
+      "updated": "2026-11",
+      "size": 34975,
+      "files": {
+        "csv": {
+          "name": "ar-musalsalat-ramadan-2015_AR.csv",
+          "size": 21656
+        },
+        "xlsx": {
+          "name": "ar-musalsalat-ramadan-2015_AR.xlsx",
+          "size": 15285
         }
       }
     },
