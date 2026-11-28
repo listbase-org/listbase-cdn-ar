@@ -1,8 +1,8 @@
 {
   "lang": "ar",
-  "generated": "2026-11-28T02:15:48.877Z",
-  "total_datasets": 569,
-  "total_records": 156822,
+  "generated": "2026-11-28T02:15:58.771Z",
+  "total_datasets": 570,
+  "total_records": 157061,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -10646,6 +10646,34 @@
         "xlsx": {
           "name": "ar-aghani-najat-alsaghira_AR.xlsx",
           "size": 21820
+        }
+      }
+    },
+    {
+      "id": "ar-aghani-rashed-almajed",
+      "name": "أغاني راشد الماجد في ألبوماته",
+      "category": "music",
+      "record_count": 239,
+      "columns": [
+        "song",
+        "lyricist",
+        "composer",
+        "arranger",
+        "album",
+        "year",
+        "notes"
+      ],
+      "source": "https://ar.wikipedia.org/wiki/قائمة_تسجيلات_راشد_الماجد",
+      "updated": "2026-11",
+      "size": 62671,
+      "files": {
+        "csv": {
+          "name": "ar-aghani-rashed-almajed_AR.csv",
+          "size": 29624
+        },
+        "xlsx": {
+          "name": "ar-aghani-rashed-almajed_AR.xlsx",
+          "size": 17546
         }
       }
     },
